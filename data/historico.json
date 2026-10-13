@@ -402,11 +402,19 @@
    "url_hash": "70e70aa6dc27d1ce2f8c0a42"
   },
   "guid:6ace863252c09500099dc573": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-13T21:18:37+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1506917361459155",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Parintins",
    "description": "A UBS recebeu melhorias na estrutura física, climatização, informatização e novos mobiliários, proporcionando melhores condições de atendimento à população e de trabalho aos profissionais de saúde.",
    "discovered_at": "2026-10-13T21:12:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1506917361459155",
    "formats": [
     "link"
    ],
@@ -414,11 +422,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e4436737-dfde-470f-8946-8188b40c2e2a.jpeg",
    "key": "guid:6ace863252c09500099dc573",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1506917361459155"
+   },
    "source_published_at": "2026-10-13T19:29:46+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Parintins inicia sequência de entregas de UBS reformadas com reinauguração da Dr. Toda",
-   "updated_at": "2026-10-13T21:12:15+00:00",
+   "updated_at": "2026-10-13T21:18:37+00:00",
    "url": "https://marioadolfo.com/parintins-inicia-sequencia-de-entregas-de-ubs-reformadas-com-reinauguracao-da-dr-toda/",
    "url_hash": "44b88cf6996de52774838c94"
   },
@@ -552,8 +562,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-13T21:12:14+00:00",
-  "saved_at": "2026-10-13T21:12:17+00:00"
+  "last_run_at": "2026-10-13T21:18:29+00:00",
+  "saved_at": "2026-10-13T21:18:37+00:00"
  },
  "schema": 1
 }
