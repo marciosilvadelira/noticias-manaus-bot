@@ -197,7 +197,9 @@ class Publisher:
             if not self._reconcile(queue, rep):
                 return
 
-        published_today = self.store.count_today(self.cfg.timezone, {"published", "simulated"}, self.now())
+        # Simulações não contam para o limite do modo real (e vice-versa).
+        counted = {"simulated"} if self.cfg.dry_run else {"published"}
+        published_today = self.store.count_today(self.cfg.timezone, counted, self.now())
         day_left = max(0, self.cfg.max_posts_per_day - published_today)
         run_left = self.cfg.max_posts_per_run
         first_post = True
