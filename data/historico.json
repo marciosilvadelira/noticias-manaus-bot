@@ -648,13 +648,44 @@
    "updated_at": "2026-10-13T21:50:44+00:00",
    "url": "https://marioadolfo.com/suspeito-de-matar-companheira-e-joga-la-em-ramal-e-procurado-em-manaus/",
    "url_hash": "e46a3bec508ea8ad4c1bc103"
+  },
+  "guid:6aceaca452c09500099dc63e": {
+   "attempts": [
+    {
+     "at": "2026-10-13T22:20:22+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1506952984788926",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Brasil",
+   "description": "Fachin pediu que PF encaminhe menções a ministros na investigação",
+   "discovered_at": "2026-10-13T22:20:16+00:00",
+   "fb_post_id": "107393769293726_1506952984788926",
+   "formats": [
+    "link"
+   ],
+   "guid": "6aceaca452c09500099dc63e",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/54b380ae-6290-4636-9dd3-7bb6ffb80f69.webp",
+   "key": "guid:6aceaca452c09500099dc63e",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1506952984788926"
+   },
+   "source_published_at": "2026-10-13T22:13:45+00:00",
+   "status": "published",
+   "title": "Master: Fachin se reúne com PF para tratar de citações a ministros",
+   "updated_at": "2026-10-13T22:20:22+00:00",
+   "url": "https://marioadolfo.com/master-fachin-se-reune-com-pf-para-tratar-de-citacoes-a-ministros/",
+   "url_hash": "087065ce3e0f172e44d5ea38"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-13T22:10:17+00:00",
-  "saved_at": "2026-10-13T22:10:17+00:00"
+  "last_run_at": "2026-10-13T22:20:13+00:00",
+  "saved_at": "2026-10-13T22:20:22+00:00"
  },
  "schema": 1
 }
