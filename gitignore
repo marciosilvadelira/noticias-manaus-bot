@@ -1,0 +1,17 @@
+# Credenciais locais — nunca enviar ao GitHub
+.env
+*.token
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Arquivos temporários do histórico (o historico.json em si DEVE ser versionado)
+data/.historico-*
+
+# Sistema
+.DS_Store
+Thumbs.db

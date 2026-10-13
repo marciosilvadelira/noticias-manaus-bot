@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Amostra com a MESMA estrutura do RSS real (https://marioadolfo.com/latest/rss/, Ghost 6.44),
+     inspecionado em 13/10/2026. Títulos, links e GUIDs são reais; os textos das matérias
+     foram substituídos por frases curtas de teste (não reproduzem o conteúdo original). -->
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+<title><![CDATA[Portal Mário Adolfo]]></title>
+<link>https://marioadolfo.com/</link>
+<generator>Ghost 6.44</generator>
+<lastBuildDate>Tue, 13 Oct 2026 04:20:46 GMT</lastBuildDate>
+<atom:link href="https://marioadolfo.com/latest/rss/" rel="self" type="application/rss+xml"/>
+<ttl>60</ttl>
+<item>
+<title><![CDATA[Aviões militares iniciam combate a focos de incêndio no Amazonas]]></title>
+<description><![CDATA[Aeronave com sistema de combate às chamas fará três voos por dia]]></description>
+<link>https://marioadolfo.com/avioes-militares-iniciam-combate-a-focos-de-incendio-no-amazonas/</link>
+<guid isPermaLink="false">6acd32be52c09500099dc2c5</guid>
+<category><![CDATA[Amazonas]]></category>
+<category><![CDATA[incêndios]]></category>
+<dc:creator><![CDATA[Redação BMA]]></dc:creator>
+<pubDate>Mon, 12 Oct 2026 19:23:09 GMT</pubDate>
+<media:content url="https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/be4d1ad2-938c-4da9-a746-59e0f0a1744f.jpg" medium="image"/>
+<content:encoded><![CDATA[<img src="https://example.invalid/x.jpg" alt="x"><p>Texto de teste do primeiro item, com o n&#xFA;mero 12 e o ano de 2026.</p><p>Segundo par&#xE1;grafo de teste.</p>]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Jovem é presa ao tentar aplicar golpe de R$ 40 mil em banco no AM]]></title>
+<description><![CDATA[Suspeita se passou por professora e servidora pública para solicitar empréstimo consignado]]></description>
+<link>https://marioadolfo.com/jovem-e-presa-ao-tentar-aplicar-golpe-de-r-40-mil-em-banco-no-am/</link>
+<guid isPermaLink="false">6accfd8b52c09500099dc266</guid>
+<category><![CDATA[Polícia]]></category>
+<category><![CDATA[prisão]]></category>
+<dc:creator><![CDATA[Redação BMA]]></dc:creator>
+<pubDate>Mon, 12 Oct 2026 15:34:47 GMT</pubDate>
+<media:content url="https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/9b76e065-2173-45d1-8391-a664cf111354.png" medium="image"/>
+<content:encoded><![CDATA[<p>Texto de teste do segundo item.</p>]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Prefeitura de Parintins divulga programação especial pelos 174 anos do município]]></title>
+<description><![CDATA[]]></description>
+<link>https://www.marioadolfo.com/prefeitura-de-parintins-divulga-programacao-especial-pelos-174-anos-do-municipio/?ref=home</link>
+<guid isPermaLink="false">6accf15452c09500099dc1ee</guid>
+<category><![CDATA[Parintins]]></category>
+<dc:creator><![CDATA[Redação BMA]]></dc:creator>
+<pubDate>Mon, 12 Oct 2026 14:42:15 GMT</pubDate>
+<content:encoded><![CDATA[<p>Texto de teste do terceiro item.</p>]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Item sem link deve ser ignorado]]></title>
+<guid isPermaLink="false">semlink</guid>
+<pubDate>Mon, 12 Oct 2026 14:00:00 GMT</pubDate>
+</item>
+<item>
+<title><![CDATA[Item de outro domínio deve ser ignorado]]></title>
+<link>https://outro-site.com.br/materia/</link>
+<guid isPermaLink="false">outrodominio</guid>
+<pubDate>Mon, 12 Oct 2026 13:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

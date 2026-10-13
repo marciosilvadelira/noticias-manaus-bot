@@ -1,0 +1,83 @@
+# Executa o automatizador a cada 10 minutos (e manualmente, pelo botão "Run workflow").
+# O histórico (data/historico.json) é salvo de volta no repositório ao fim de cada execução.
+name: Noticias Manaus - automatizador
+
+on:
+  schedule:
+    # Minutos 3, 13, 23... de cada hora (UTC). Evita o minuto 0, quando o GitHub
+    # fica mais congestionado. Atrasos de alguns minutos podem acontecer.
+    - cron: "3,13,23,33,43,53 * * * *"
+  workflow_dispatch:
+    inputs:
+      comando:
+        description: "O que executar"
+        required: true
+        default: run
+        type: choice
+        options:
+          - run
+          - check-source
+          - preview
+          - check-token
+          - status
+
+permissions:
+  contents: write   # necessário para salvar o histórico no repositório
+
+concurrency:
+  group: noticias-bot          # nunca duas execuções ao mesmo tempo
+  cancel-in-progress: false
+
+jobs:
+  bot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    env:
+      # ---- Configurações (Settings > Secrets and variables > Actions > Variables) ----
+      DRY_RUN: ${{ vars.DRY_RUN || 'true' }}
+      PAUSED: ${{ vars.PAUSED || 'false' }}
+      POST_FORMAT: ${{ vars.POST_FORMAT || 'link' }}
+      ALLOW_BOTH_FORMATS: ${{ vars.ALLOW_BOTH_FORMATS || 'false' }}
+      IMAGE_MODE: ${{ vars.IMAGE_MODE || 'preview' }}
+      CATEGORIES: ${{ vars.CATEGORIES }}
+      FEED_URLS: ${{ vars.FEED_URLS }}
+      MAX_POSTS_PER_RUN: ${{ vars.MAX_POSTS_PER_RUN || '5' }}
+      MAX_POSTS_PER_DAY: ${{ vars.MAX_POSTS_PER_DAY || '20' }}
+      MAX_AGE_HOURS: ${{ vars.MAX_AGE_HOURS || '24' }}
+      TIMEZONE: America/Manaus
+      FB_PAGE_ID: ${{ vars.FB_PAGE_ID }}
+      GRAPH_API_VERSION: ${{ vars.GRAPH_API_VERSION || 'v26.0' }}
+      AI_MODEL: ${{ vars.AI_MODEL || 'claude-haiku-5-5' }}
+      # ---- Segredos (Settings > Secrets and variables > Actions > Secrets) ----
+      FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
+      FB_APP_ID: ${{ secrets.FB_APP_ID }}
+      FB_APP_SECRET: ${{ secrets.FB_APP_SECRET }}
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+    steps:
+      - name: Baixar o código
+        uses: actions/checkout@v4
+
+      - name: Preparar o Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Executar
+        run: python main.py "${{ github.event.inputs.comando || 'run' }}"
+
+      - name: Salvar histórico no repositório
+        if: always()
+        run: |
+          if [ -z "$(git status --porcelain data/)" ]; then
+            echo "Histórico sem alterações."
+            exit 0
+          fi
+          git config user.name "noticias-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git commit -m "Atualiza histórico de notícias"
+          for i in 1 2 3; do
+            git pull --rebase --quiet && git push --quiet && exit 0
+            sleep 5
+          done
+          echo "Não foi possível salvar o histórico." && exit 1
