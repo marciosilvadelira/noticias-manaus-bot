@@ -433,11 +433,19 @@
    "url_hash": "44b88cf6996de52774838c94"
   },
   "guid:6ace8a1d52c09500099dc589": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-13T21:42:53+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1506930838124474",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Atual procuradora-geral de Justiça foi a mais votada na eleição interna e ficará no cargo até 2028.",
    "discovered_at": "2026-10-13T21:12:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1506930838124474",
    "formats": [
     "link"
    ],
@@ -445,20 +453,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/58e363ed-e377-4ec2-a3b7-e8e21f94d529.jpeg",
    "key": "guid:6ace8a1d52c09500099dc589",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1506930838124474"
+   },
    "source_published_at": "2026-10-13T19:47:16+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Leda Mara assume terceiro mandato à frente do MPAM nesta quinta",
-   "updated_at": "2026-10-13T21:12:15+00:00",
+   "updated_at": "2026-10-13T21:42:53+00:00",
    "url": "https://marioadolfo.com/leda-mara-assume-terceiro-mandato-a-frente-do-mpam-nesta-quinta/",
    "url_hash": "85930dd4b66131c16962728c"
   },
   "guid:6ace8b0152c09500099dc59f": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-13T21:43:42+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1506931321457759",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Já as vendas tiveram queda de 0,4% em relação ao mesmo mês de 2025",
    "discovered_at": "2026-10-13T21:12:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1506931321457759",
    "formats": [
     "link"
    ],
@@ -466,20 +484,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/acf110c3-8cc9-4b46-b7ad-f3b3854a6312.webp",
    "key": "guid:6ace8b0152c09500099dc59f",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1506931321457759"
+   },
    "source_published_at": "2026-10-13T21:00:08+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Produção de motos no PIM cresce e tem melhor setembro desde 2011",
-   "updated_at": "2026-10-13T21:12:15+00:00",
+   "updated_at": "2026-10-13T21:43:42+00:00",
    "url": "https://marioadolfo.com/producao-de-motos-no-pim-cresce-e-tem-melhor-setembro-desde-2011/",
    "url_hash": "2af84a44ffe6c19d13a8f712"
   },
   "guid:6ace9a5b52c09500099dc5b7": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-13T21:43:18+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1506931071457784",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Para escapar das agressões, o trabalhador precisou se jogar em um barranco e acabou fraturando o braço",
    "discovered_at": "2026-10-13T21:12:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1506931071457784",
    "formats": [
     "link"
    ],
@@ -487,20 +515,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5ece0fb4-01b9-43e3-bc95-3ba3a8f9b31f.png",
    "key": "guid:6ace9a5b52c09500099dc5b7",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1506931071457784"
+   },
    "source_published_at": "2026-10-13T20:57:14+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Vídeo: mototaxista é atacado com faca ao cobrar corrida por aplicativo no Zumbi",
-   "updated_at": "2026-10-13T21:12:15+00:00",
+   "updated_at": "2026-10-13T21:43:18+00:00",
    "url": "https://marioadolfo.com/video-mototaxista-e-atacado-com-faca-ao-cobrar-corrida-por-aplicativo-no-zumbi/",
    "url_hash": "54f1105e5d3ecfc881f2b4af"
   },
   "guid:6ace9bc752c09500099dc5d9": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-13T21:44:06+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1506931551457736",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Diretórios do partido citam avanços sociais e na economia",
    "discovered_at": "2026-10-13T21:12:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1506931551457736",
    "formats": [
     "link"
    ],
@@ -508,20 +546,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/8a97d9d1-5f28-4ef2-8a9f-92a0d4871523.jpg",
    "key": "guid:6ace9bc752c09500099dc5d9",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1506931551457736"
+   },
    "source_published_at": "2026-10-13T21:01:01+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "MDB Norte e Nordeste declara apoio a Lula no segundo turno",
-   "updated_at": "2026-10-13T21:12:15+00:00",
+   "updated_at": "2026-10-13T21:44:06+00:00",
    "url": "https://marioadolfo.com/mdb-norte-e-nordeste-declara-apoio-a-lula-no-segundo-turno/",
    "url_hash": "2a9ff33b5a56b334c9742f2d"
   },
   "guid:6ace9c2252c09500099dc5f5": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-13T21:44:29+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1506931758124382",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Animal foi atingido com golpes de madeira e lançado na água. Testemunha registrou a ocorrência em vídeos e perícia apontou lesões",
    "discovered_at": "2026-10-13T21:12:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1506931758124382",
    "formats": [
     "link"
    ],
@@ -529,11 +577,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0e109594-3d50-4a70-b12c-9981b4de737b.jpeg",
    "key": "guid:6ace9c2252c09500099dc5f5",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1506931758124382"
+   },
    "source_published_at": "2026-10-13T21:04:23+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Justiça determina prisão de homem por maus-tratos a cachorro em Careiro Castanho",
-   "updated_at": "2026-10-13T21:12:15+00:00",
+   "updated_at": "2026-10-13T21:44:29+00:00",
    "url": "https://marioadolfo.com/justica-determina-prisao-de-homem-por-maus-tratos-a-cachorro-em-careiro-castanho/",
    "url_hash": "dc8d86e5b109a79ca9cd4dca"
   },
@@ -557,13 +607,34 @@
    "updated_at": "2026-10-13T21:12:15+00:00",
    "url": "https://marioadolfo.com/parintins-recebe-encontro-sobre-inteligencia-artificial-e-inovacao-para-o-turismo/",
    "url_hash": "8a8c7bb80e3f6432e9113875"
+  },
+  "guid:6acea06852c09500099dc628": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Jucenil Soares Torres é apontado como autor do feminicídio de Vanessa de Oliveira Silva, de 27 anos",
+   "discovered_at": "2026-10-13T21:42:46+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6acea06852c09500099dc628",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/cd9ee545-b918-4abb-be79-ee3a5aff1b24.jpg",
+   "key": "guid:6acea06852c09500099dc628",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-13T21:21:28+00:00",
+   "status": "pending",
+   "title": "Suspeito de matar companheira e jogá-la em ramal é procurado em Manaus",
+   "updated_at": "2026-10-13T21:42:46+00:00",
+   "url": "https://marioadolfo.com/suspeito-de-matar-companheira-e-joga-la-em-ramal-e-procurado-em-manaus/",
+   "url_hash": "e46a3bec508ea8ad4c1bc103"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-13T21:18:29+00:00",
-  "saved_at": "2026-10-13T21:18:37+00:00"
+  "last_run_at": "2026-10-13T21:42:45+00:00",
+  "saved_at": "2026-10-13T21:44:29+00:00"
  },
  "schema": 1
 }
