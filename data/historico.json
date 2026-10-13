@@ -679,13 +679,44 @@
    "updated_at": "2026-10-13T22:20:22+00:00",
    "url": "https://marioadolfo.com/master-fachin-se-reune-com-pf-para-tratar-de-citacoes-a-ministros/",
    "url_hash": "087065ce3e0f172e44d5ea38"
+  },
+  "guid:6aceb5d452c09500099dc655": {
+   "attempts": [
+    {
+     "at": "2026-10-13T22:59:55+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1506974844786740",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "Pesquisa divulgada nesta terça-feira (13) aponta vantagem de 14 pontos percentuais para Omar Aziz na disputa pelo governo do estado; votação será em 25 de outubro",
+   "discovered_at": "2026-10-13T22:59:47+00:00",
+   "fb_post_id": "107393769293726_1506974844786740",
+   "formats": [
+    "link"
+   ],
+   "guid": "6aceb5d452c09500099dc655",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/3e115d1a-3718-4584-8f0f-0cca0164ec1e.jpg",
+   "key": "guid:6aceb5d452c09500099dc655",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1506974844786740"
+   },
+   "source_published_at": "2026-10-13T22:54:11+00:00",
+   "status": "published",
+   "title": "Quaest: Omar Aziz tem 51% e Maria do Carmo, 37%, no 2º turno no Amazonas",
+   "updated_at": "2026-10-13T22:59:55+00:00",
+   "url": "https://marioadolfo.com/quaest-omar-aziz-tem-51-e-maria-do-carmo-37-no-2o-turno-no-amazonas/",
+   "url_hash": "d4ad4cdeb4bbd9d3b0fba150"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-13T22:50:13+00:00",
-  "saved_at": "2026-10-13T22:50:14+00:00"
+  "last_run_at": "2026-10-13T22:59:46+00:00",
+  "saved_at": "2026-10-13T22:59:55+00:00"
  },
  "schema": 1
 }
