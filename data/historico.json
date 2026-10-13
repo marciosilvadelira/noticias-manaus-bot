@@ -588,11 +588,19 @@
    "url_hash": "dc8d86e5b109a79ca9cd4dca"
   },
   "guid:6ace9ced52c09500099dc60c": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-13T21:50:20+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1506935511457340",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Parintins",
    "description": "Encontro BORA, no dia 22 de outubro, reúne especialistas, empreendedores e representantes do setor criativo local em palestras, debates e atividades voltadas ao desenvolvimento de soluções tecnológicas",
    "discovered_at": "2026-10-13T21:12:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1506935511457340",
    "formats": [
     "link"
    ],
@@ -600,20 +608,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/19aeb012-f930-4bce-a6b7-b7e4c7d503df.jpeg",
    "key": "guid:6ace9ced52c09500099dc60c",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1506935511457340"
+   },
    "source_published_at": "2026-10-13T21:06:01+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Parintins recebe encontro sobre inteligência artificial e inovação para o turismo",
-   "updated_at": "2026-10-13T21:12:15+00:00",
+   "updated_at": "2026-10-13T21:50:20+00:00",
    "url": "https://marioadolfo.com/parintins-recebe-encontro-sobre-inteligencia-artificial-e-inovacao-para-o-turismo/",
    "url_hash": "8a8c7bb80e3f6432e9113875"
   },
   "guid:6acea06852c09500099dc628": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-13T21:50:44+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1506935701457321",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Jucenil Soares Torres é apontado como autor do feminicídio de Vanessa de Oliveira Silva, de 27 anos",
    "discovered_at": "2026-10-13T21:42:46+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1506935701457321",
    "formats": [
     "link"
    ],
@@ -621,11 +639,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/cd9ee545-b918-4abb-be79-ee3a5aff1b24.jpg",
    "key": "guid:6acea06852c09500099dc628",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1506935701457321"
+   },
    "source_published_at": "2026-10-13T21:21:28+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Suspeito de matar companheira e jogá-la em ramal é procurado em Manaus",
-   "updated_at": "2026-10-13T21:42:46+00:00",
+   "updated_at": "2026-10-13T21:50:44+00:00",
    "url": "https://marioadolfo.com/suspeito-de-matar-companheira-e-joga-la-em-ramal-e-procurado-em-manaus/",
    "url_hash": "e46a3bec508ea8ad4c1bc103"
   }
@@ -633,8 +653,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-13T21:42:45+00:00",
-  "saved_at": "2026-10-13T21:44:29+00:00"
+  "last_run_at": "2026-10-13T21:50:14+00:00",
+  "saved_at": "2026-10-13T21:50:44+00:00"
  },
  "schema": 1
 }
