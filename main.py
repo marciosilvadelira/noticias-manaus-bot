@@ -100,13 +100,23 @@ def cmd_check_token(cfg: Config) -> int:
     try:
         me = graph.verify_page_token()
         lines.append(f"OK: o token pertence à Página '{me['name']}' (id {me['id']}).")
-        posts = graph.recent_posts(limit=3)
-        lines.append(f"OK: leitura das publicações da Página funcionando ({len(posts)} recentes lidas).")
     except GraphError as exc:
         lines.append(f"ERRO: {exc}")
         print("\n".join(lines))
         write_step_summary("Verificação do token", lines)
         return 2
+    try:
+        posts = graph.recent_posts(limit=3)
+        lines.append(f"OK: leitura das publicações da Página funcionando ({len(posts)} recentes lidas).")
+    except GraphError as exc:
+        if exc.kind not in {"auth", "permanent"}:
+            lines.append(f"ERRO temporário ao ler a Página: {exc}. Tente de novo em alguns minutos.")
+            print("\n".join(lines))
+            write_step_summary("Verificação do token", lines)
+            return 2
+        lines.append(f"AVISO: a Meta não permite ler as publicações da Página com este app ({exc}).")
+        lines.append("       A publicação pode funcionar mesmo assim; o robô usa o histórico para evitar "
+                     "duplicatas. Faça a publicação de teste para confirmar.")
     if cfg.fb_app_id and cfg.fb_app_secret:
         try:
             info = graph.debug_token(cfg.fb_app_id, cfg.fb_app_secret)
