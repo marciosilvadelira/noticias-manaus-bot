@@ -236,9 +236,14 @@ class Publisher:
         try:
             posts = self.graph.recent_posts(limit=50)
         except GraphError as exc:
+            if exc.kind in {"auth", "permanent"}:
+                # O token já foi validado no início da execução; aqui a Meta recusou
+                # apenas a LEITURA do feed. Seguimos no modo seguro: o histórico local
+                # evita duplicatas, e notícias com resultado incerto NÃO são repetidas.
+                return self._reconcile_without_feed(queue, rep, exc)
             rep.add(f"Não foi possível conferir publicações recentes da Página ({exc}). "
                     "Por segurança, nada será publicado nesta execução.", logging.WARNING)
-            if exc.kind in {"auth", "blocked"}:
+            if exc.kind == "blocked":
                 rep.exit_code = 2
             return False
         for rec in queue:
@@ -255,6 +260,24 @@ class Publisher:
                     self.store.set_status(rec, "retry", "não encontrada na Página; nova tentativa")
                 else:
                     self.store.set_status(rec, "published")
+        return True
+
+    def _reconcile_without_feed(self, queue: list[dict], rep: RunReport, exc: GraphError) -> bool:
+        if not self.store.meta.get("feed_read_unavailable"):
+            rep.add(f"Aviso: a Meta não permite que este app leia as publicações da Página ({exc}). "
+                    "O robô segue publicando com base no histórico; notícias com resultado incerto "
+                    "não serão repetidas automaticamente e ficam para conferência manual.",
+                    logging.WARNING)
+        self.store.meta["feed_read_unavailable"] = True
+        for rec in queue:
+            if rec["status"] in {"publishing", "uncertain"}:
+                self.store.set_status(
+                    rec, "failed",
+                    "resultado incerto e sem como conferir na Página: verifique manualmente "
+                    "se a publicação existe (não será repetida para evitar duplicata)")
+                rep.add(f"CONFERIR NA PÁGINA (não será repetida): {rec['title']} — {rec['url']}",
+                        logging.WARNING)
+        queue[:] = [r for r in queue if r["status"] != "failed"]
         return True
 
     def _build_payload(self, rec: dict, fmt: str) -> PostPayload | None:

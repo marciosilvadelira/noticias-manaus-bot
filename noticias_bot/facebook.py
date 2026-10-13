@@ -146,12 +146,28 @@ class GraphClient:
         return data.get("data", {})
 
     # ---------- leitura ----------
+    READ_EDGES = ("published_posts", "posts", "feed")
+
     def recent_posts(self, limit: int = 50) -> list[dict]:
-        data = self._get(f"{self.page_id}/feed", {
-            "fields": "id,message,created_time,permalink_url",
-            "limit": str(limit),
-        })
-        return data.get("data", [])
+        """Lê as publicações recentes da Página, tentando os caminhos que a Meta oferece.
+
+        Algumas configurações de app/Página recusam um caminho e aceitam outro
+        (erros 10/200/210). Só levanta erro se TODOS falharem.
+        """
+        last: GraphError | None = None
+        for edge in self.READ_EDGES:
+            try:
+                data = self._get(f"{self.page_id}/{edge}", {
+                    "fields": "id,message,created_time",
+                    "limit": str(limit),
+                })
+                return data.get("data", [])
+            except GraphError as exc:
+                last = exc
+                if exc.kind not in {"auth", "permanent"}:
+                    raise  # rede, limite de chamadas etc.: não adianta tentar outro caminho
+        assert last is not None
+        raise last
 
     # ---------- publicação ----------
     def publish_link(self, message: str, link: str) -> str:
