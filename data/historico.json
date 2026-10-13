@@ -284,13 +284,129 @@
    "updated_at": "2026-10-13T18:29:45+00:00",
    "url": "https://marioadolfo.com/amazonas-filarmonica-apresenta-a-monumental-sinfonia-no-3-no-teatro-amazonas-nesta-quinta-15/",
    "url_hash": "e699c486056830627c2cfdfb"
+  },
+  "guid:6ace785352c09500099dc502": {
+   "attempts": [
+    {
+     "at": "2026-10-13T19:29:39+00:00",
+     "error": null,
+     "fb_post_id": null,
+     "format": "link",
+     "result": "simulated"
+    }
+   ],
+   "category": "Polícia",
+   "description": "Droga foi encontrada na mala durante fiscalização da Polícia Federal; passageira faria conexão em Pernambuco antes de seguir para Fortaleza",
+   "discovered_at": "2026-10-13T19:29:39+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ace785352c09500099dc502",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5d6031c3-a076-4304-914e-3abb9d44919e.png",
+   "key": "guid:6ace785352c09500099dc502",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-13T18:29:59+00:00",
+   "status": "simulated",
+   "title": "Manauara é presa com 33 kg de skunk no aeroporto de Recife",
+   "updated_at": "2026-10-13T19:29:39+00:00",
+   "url": "https://marioadolfo.com/manauara-e-presa-com-33-kg-de-skunk-no-aeroporto-de-recife/",
+   "url_hash": "4a872c56292bbd3dfba2d439"
+  },
+  "guid:6ace7a8752c09500099dc529": {
+   "attempts": [
+    {
+     "at": "2026-10-13T19:29:39+00:00",
+     "error": null,
+     "fb_post_id": null,
+     "format": "link",
+     "result": "simulated"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "O acidente aconteceu durante expediente de trabalho e a vítima foi encaminhada para atendimento médico",
+   "discovered_at": "2026-10-13T19:29:39+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ace7a8752c09500099dc529",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d1ab8758-f62d-45e9-b521-ef2b25a05973.jpg",
+   "key": "guid:6ace7a8752c09500099dc529",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-13T18:43:04+00:00",
+   "status": "simulated",
+   "title": "Vídeo: trabalhador fica com a mão presa em máquina de amaciar carne",
+   "updated_at": "2026-10-13T19:29:39+00:00",
+   "url": "https://marioadolfo.com/video-trabalhador-fica-com-a-mao-presa-em-maquina-de-amaciar-carne/",
+   "url_hash": "f939624bcbc25b9d6852101b"
+  },
+  "guid:6ace7c0152c09500099dc547": {
+   "attempts": [
+    {
+     "at": "2026-10-13T19:29:39+00:00",
+     "error": null,
+     "fb_post_id": null,
+     "format": "link",
+     "result": "simulated"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "Levantamento aponta dois pacientes que morreram enquanto aguardavam transferência para a FCecon. Ação pede início imediato da assistência e medidas para evitar novas situações",
+   "discovered_at": "2026-10-13T19:29:39+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ace7c0152c09500099dc547",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/8ac26583-f1f0-444f-a135-a638c4c4b72d.jpeg",
+   "key": "guid:6ace7c0152c09500099dc547",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-13T18:46:07+00:00",
+   "status": "simulated",
+   "title": "Defensoria vai à Justiça por pacientes sem tratamento oncológico em Manaus",
+   "updated_at": "2026-10-13T19:29:39+00:00",
+   "url": "https://marioadolfo.com/defensoria-vai-a-justica-por-pacientes-sem-tratamento-oncologico-em-manaus/",
+   "url_hash": "e341298c2aabf8bbca211992"
+  },
+  "guid:6ace858452c09500099dc55c": {
+   "attempts": [
+    {
+     "at": "2026-10-13T19:29:39+00:00",
+     "error": null,
+     "fb_post_id": null,
+     "format": "link",
+     "result": "simulated"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "A parlamentar afirmou ter se sentido ameaçada por Kidson Maia (PL), candidato não eleito a deputado estadual, que teria feito gestos simulando um corte no pescoço",
+   "discovered_at": "2026-10-13T19:29:39+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ace858452c09500099dc55c",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/3190fc00-c6ab-49ed-a413-9f4ac45cf9b5.jpeg",
+   "key": "guid:6ace858452c09500099dc55c",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-13T19:26:29+00:00",
+   "status": "simulated",
+   "title": "Aleam repudia ameaça contra Alessandra Campelo após debate em Manaus",
+   "updated_at": "2026-10-13T19:29:39+00:00",
+   "url": "https://marioadolfo.com/aleam-repudia-ameaca-contra-alessandra-campelo-apos-debate-em-manaus/",
+   "url_hash": "70e70aa6dc27d1ce2f8c0a42"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-13T18:29:44+00:00",
-  "saved_at": "2026-10-13T18:29:45+00:00"
+  "last_run_at": "2026-10-13T19:29:38+00:00",
+  "saved_at": "2026-10-13T19:29:39+00:00"
  },
  "schema": 1
 }
