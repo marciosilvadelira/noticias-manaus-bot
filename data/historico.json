@@ -1144,13 +1144,44 @@
    "updated_at": "2026-10-14T16:10:52+00:00",
    "url": "https://marioadolfo.com/operacao-da-pf-combate-falsificacao-e-comercializacao-de-certidoes-de-nascimento-no-am/",
    "url_hash": "0c2ff9931ec9cf6358557ae7"
+  },
+  "guid:6acfafcc52c09500099dc7fc": {
+   "attempts": [
+    {
+     "at": "2026-10-14T17:00:29+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1507785454705679",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Polícia",
+   "description": "Policiais militares tentam negociar a rendição do suspeito, que, segundo moradores, não teria aceitado o fim do relacionamento com a mãe da criança",
+   "discovered_at": "2026-10-14T17:00:23+00:00",
+   "fb_post_id": "107393769293726_1507785454705679",
+   "formats": [
+    "link"
+   ],
+   "guid": "6acfafcc52c09500099dc7fc",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c619ab12-5f08-46f4-b6d5-2a6108f7786b.png",
+   "key": "guid:6acfafcc52c09500099dc7fc",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1507785454705679"
+   },
+   "source_published_at": "2026-10-14T16:55:59+00:00",
+   "status": "published",
+   "title": "Pai faz filho refém em casa na zona norte de Manaus",
+   "updated_at": "2026-10-14T17:00:29+00:00",
+   "url": "https://marioadolfo.com/pai-faz-filho-refem-em-casa-na-zona-norte-de-manaus/",
+   "url_hash": "60dfd1f5f6fb51fa5a4499d9"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-14T16:50:15+00:00",
-  "saved_at": "2026-10-14T16:50:16+00:00"
+  "last_run_at": "2026-10-14T17:00:21+00:00",
+  "saved_at": "2026-10-14T17:00:29+00:00"
  },
  "schema": 1
 }
