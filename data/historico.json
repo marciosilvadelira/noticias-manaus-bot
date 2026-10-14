@@ -1330,13 +1330,55 @@
    "updated_at": "2026-10-14T17:50:24+00:00",
    "url": "https://marioadolfo.com/video-travessia-de-balsa-na-br-319-e-paralisada-pela-segunda-vez-nesta-semana/",
    "url_hash": "566ccd6d3136c0f57e3cf6ca"
+  },
+  "guid:6acfc03b52c09500099dc890": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Os interessados podem cadastrar o currículo por meio do formulário disponível no link ou no whatsapp (92) 99261-3782",
+   "discovered_at": "2026-10-14T18:10:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6acfc03b52c09500099dc890",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/85cb379a-480f-4bec-87b1-859cca3c136f.jpeg",
+   "key": "guid:6acfc03b52c09500099dc890",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-14T18:02:16+00:00",
+   "status": "pending",
+   "title": "Empresa abre vagas de emprego para nova unidade no bairro Flores",
+   "updated_at": "2026-10-14T18:10:15+00:00",
+   "url": "https://marioadolfo.com/empresa-abre-vagas-de-emprego-para-nova-unidade-no-bairro-flores/",
+   "url_hash": "7ea302dcd2123c5dcf3dd727"
+  },
+  "guid:6acfc0c752c09500099dc8ad": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Para Estágio, a maior oferta está nas áreas de Administração, Educação, Direito e Contabilidade",
+   "discovered_at": "2026-10-14T18:10:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6acfc0c752c09500099dc8ad",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f36e5e99-e371-439b-857a-b4c4cc3ecd16.jpeg",
+   "key": "guid:6acfc0c752c09500099dc8ad",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-14T18:02:06+00:00",
+   "status": "pending",
+   "title": "Expo CIEE 2026 anuncia mais de 25 mil vagas de estágio e aprendizagem",
+   "updated_at": "2026-10-14T18:10:15+00:00",
+   "url": "https://marioadolfo.com/expo-ciee-2026-anuncia-mais-de-25-mil-vagas-de-estagio-e-aprendizagem/",
+   "url_hash": "d28c8bfccc331751ba062a41"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-14T18:00:20+00:00",
-  "saved_at": "2026-10-14T18:00:21+00:00"
+  "last_run_at": "2026-10-14T18:10:14+00:00",
+  "saved_at": "2026-10-14T18:10:15+00:00"
  },
  "schema": 1
 }
