@@ -710,13 +710,44 @@
    "updated_at": "2026-10-13T22:59:55+00:00",
    "url": "https://marioadolfo.com/quaest-omar-aziz-tem-51-e-maria-do-carmo-37-no-2o-turno-no-amazonas/",
    "url_hash": "d4ad4cdeb4bbd9d3b0fba150"
+  },
+  "guid:6acf668a52c09500099dc681": {
+   "attempts": [
+    {
+     "at": "2026-10-14T11:30:30+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1507502228067335",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Brasil",
+   "description": "Se a quebra de interstícios for aprovada, há a possibilidade de a PEC ter os dois turnos de votação concluídos ainda na quarta",
+   "discovered_at": "2026-10-14T11:30:24+00:00",
+   "fb_post_id": "107393769293726_1507502228067335",
+   "formats": [
+    "link"
+   ],
+   "guid": "6acf668a52c09500099dc681",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4ef725ee-ae96-41b7-8d82-683804c7e692.jpg",
+   "key": "guid:6acf668a52c09500099dc681",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1507502228067335"
+   },
+   "source_published_at": "2026-10-14T11:28:54+00:00",
+   "status": "published",
+   "title": "PEC do fim da 6x1 pode ser votada nesta quarta",
+   "updated_at": "2026-10-14T11:30:30+00:00",
+   "url": "https://marioadolfo.com/pec-do-fim-da-6x1-pode-ser-votada-nesta-quarta/",
+   "url_hash": "8d239776a016f90f9677d74c"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-14T11:20:17+00:00",
-  "saved_at": "2026-10-14T11:20:18+00:00"
+  "last_run_at": "2026-10-14T11:30:21+00:00",
+  "saved_at": "2026-10-14T11:30:30+00:00"
  },
  "schema": 1
 }
