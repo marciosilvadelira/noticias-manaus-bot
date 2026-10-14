@@ -1175,13 +1175,75 @@
    "updated_at": "2026-10-14T17:00:29+00:00",
    "url": "https://marioadolfo.com/pai-faz-filho-refem-em-casa-na-zona-norte-de-manaus/",
    "url_hash": "60dfd1f5f6fb51fa5a4499d9"
+  },
+  "guid:6acfb4ea52c09500099dc814": {
+   "attempts": [
+    {
+     "at": "2026-10-14T17:10:22+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1507794514704773",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "Representantes do MPE, TCE, TJAM, Aleam e DPE conheceram o balanço das operações e discutiram medidas para fortalecer o combate às queimadas no Amazonas",
+   "discovered_at": "2026-10-14T17:10:14+00:00",
+   "fb_post_id": "107393769293726_1507794514704773",
+   "formats": [
+    "link"
+   ],
+   "guid": "6acfb4ea52c09500099dc814",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/9fb58528-3788-40d3-b6e7-dcc470e87f34.jpeg",
+   "key": "guid:6acfb4ea52c09500099dc814",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1507794514704773"
+   },
+   "source_published_at": "2026-10-14T17:03:09+00:00",
+   "status": "published",
+   "title": "Roberto Cidade busca integração entre Poderes para fortalecer combate às queimadas",
+   "updated_at": "2026-10-14T17:10:22+00:00",
+   "url": "https://marioadolfo.com/roberto-cidade-busca-integracao-entre-poderes-para-fortalecer-combate-as-queimadas/",
+   "url_hash": "b08167c1948e9851bd2a6be0"
+  },
+  "guid:6acfb67352c09500099dc82f": {
+   "attempts": [
+    {
+     "at": "2026-10-14T17:10:45+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1507794818038076",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Brasil",
+   "description": "A proposta agora segue para análise do Plenário da Casa",
+   "discovered_at": "2026-10-14T17:10:14+00:00",
+   "fb_post_id": "107393769293726_1507794818038076",
+   "formats": [
+    "link"
+   ],
+   "guid": "6acfb67352c09500099dc82f",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/13d73029-f43d-44ab-8c14-9603599e7c8b.webp",
+   "key": "guid:6acfb67352c09500099dc82f",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1507794818038076"
+   },
+   "source_published_at": "2026-10-14T17:07:51+00:00",
+   "status": "published",
+   "title": "CCJ do Senado conclui a votação da PEC da Segurança Pública",
+   "updated_at": "2026-10-14T17:10:45+00:00",
+   "url": "https://marioadolfo.com/ccj-do-senado-conclui-a-votacao-da-pec-da-seguranca-publica/",
+   "url_hash": "7075e5200834c620c02bcd65"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-14T17:00:21+00:00",
-  "saved_at": "2026-10-14T17:00:29+00:00"
+  "last_run_at": "2026-10-14T17:10:13+00:00",
+  "saved_at": "2026-10-14T17:10:45+00:00"
  },
  "schema": 1
 }
