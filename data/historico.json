@@ -1498,13 +1498,55 @@
    "updated_at": "2026-10-14T19:50:16+00:00",
    "url": "https://marioadolfo.com/pensaram-que-iam-me-intimidar-mas-aumentaram-a-minha-coragem-diz-alessandra-campelo-apos-episodio-com-kidson-e-salazar/",
    "url_hash": "0c3b1db8caa76175f52c8242"
+  },
+  "guid:6acfdcf752c09500099dc95d": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Arrecadação de donativos ocorre até 19 de outubro; confira os locais",
+   "discovered_at": "2026-10-14T20:00:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6acfdcf752c09500099dc95d",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a2e5b50f-5a8a-4943-89f9-83d27815c429.png",
+   "key": "guid:6acfdcf752c09500099dc95d",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-14T19:55:58+00:00",
+   "status": "pending",
+   "title": "TJAM promove campanha solidária para ajudar vítimas de incêndios florestais no Amazonas",
+   "updated_at": "2026-10-14T20:00:19+00:00",
+   "url": "https://marioadolfo.com/tjam-promove-campanha-solidaria-para-ajudar-vitimas-de-incendios-florestais-no-amazonas/",
+   "url_hash": "8ab59aee044bf94fad1dee4d"
+  },
+  "guid:6acfdd2a52c09500099dc961": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Conforme a denúncia, os abusos contra a vítima ocorreram entre março de 2023 e maio de 2024",
+   "discovered_at": "2026-10-14T20:00:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6acfdd2a52c09500099dc961",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4835cd41-2c49-4a6a-908d-7055142c746c.jpg",
+   "key": "guid:6acfdd2a52c09500099dc961",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-14T19:52:25+00:00",
+   "status": "pending",
+   "title": "Justiça condena mulher por estupro de vulnerável em Itacoatiara",
+   "updated_at": "2026-10-14T20:00:19+00:00",
+   "url": "https://marioadolfo.com/justica-condena-mulher-por-estupro-de-vulneravel-em-itacoatiara/",
+   "url_hash": "4dfb597989bd7e8e6c141ff7"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-14T19:50:16+00:00",
-  "saved_at": "2026-10-14T19:50:18+00:00"
+  "last_run_at": "2026-10-14T20:00:19+00:00",
+  "saved_at": "2026-10-14T20:00:20+00:00"
  },
  "schema": 1
 }
