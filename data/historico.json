@@ -741,13 +741,44 @@
    "updated_at": "2026-10-14T11:30:30+00:00",
    "url": "https://marioadolfo.com/pec-do-fim-da-6x1-pode-ser-votada-nesta-quarta/",
    "url_hash": "8d239776a016f90f9677d74c"
+  },
+  "guid:6acf6eb752c09500099dc69e": {
+   "attempts": [
+    {
+     "at": "2026-10-14T12:10:24+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1507544894729735",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "Aulas seguem suspensas devido à qualidade do ar classificada como “muito ruim”; média de poluentes chegou a 123,9 µg/m³ pela manhã.",
+   "discovered_at": "2026-10-14T12:10:17+00:00",
+   "fb_post_id": "107393769293726_1507544894729735",
+   "formats": [
+    "link"
+   ],
+   "guid": "6acf6eb752c09500099dc69e",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/edcf7d41-43fd-4020-8cff-35bfd38b74e3.jpg",
+   "key": "guid:6acf6eb752c09500099dc69e",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1507544894729735"
+   },
+   "source_published_at": "2026-10-14T12:03:39+00:00",
+   "status": "published",
+   "title": "Fumaça mantém escolas municipais de Manaus suspensas nesta quarta-feira (14)",
+   "updated_at": "2026-10-14T12:10:24+00:00",
+   "url": "https://marioadolfo.com/fumaca-mantem-escolas-municipais-de-manaus-suspensas-nesta-quarta-feira-14/",
+   "url_hash": "234a9d685720513fbab827bb"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-14T12:00:21+00:00",
-  "saved_at": "2026-10-14T12:00:21+00:00"
+  "last_run_at": "2026-10-14T12:10:16+00:00",
+  "saved_at": "2026-10-14T12:10:24+00:00"
  },
  "schema": 1
 }
