@@ -1020,13 +1020,75 @@
    "updated_at": "2026-10-14T15:00:30+00:00",
    "url": "https://marioadolfo.com/orgaos-reforcam-fiscalizacao-contra-incendios-criminosos-no-amazonas/",
    "url_hash": "5cbff7f6a724b824081b8a2e"
+  },
+  "guid:6acfa4a952c09500099dc79d": {
+   "attempts": [
+    {
+     "at": "2026-10-14T16:00:33+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1507733368044221",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "Na comparação mensal, agosto de 2026 registrou um crescimento de 14,94% no faturamento frente ao mesmo mês do ano anterior.",
+   "discovered_at": "2026-10-14T16:00:24+00:00",
+   "fb_post_id": "107393769293726_1507733368044221",
+   "formats": [
+    "link"
+   ],
+   "guid": "6acfa4a952c09500099dc79d",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4e1c46a1-bc8e-400c-8198-412b2c9acb59.jpeg",
+   "key": "guid:6acfa4a952c09500099dc79d",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1507733368044221"
+   },
+   "source_published_at": "2026-10-14T15:51:47+00:00",
+   "status": "published",
+   "title": "Polo Industrial de Manaus fatura R$ 165,12 bilhões até agosto",
+   "updated_at": "2026-10-14T16:00:33+00:00",
+   "url": "https://marioadolfo.com/polo-industrial-de-manaus-fatura-r-165-12-bilhoes-ate-agosto/",
+   "url_hash": "95adc8e77ea90f0947017aca"
+  },
+  "guid:6acfa53752c09500099dc7bc": {
+   "attempts": [
+    {
+     "at": "2026-10-14T16:00:57+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1507734014710823",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "Senador reeleito afirmou que votará no candidato Omar ao Governo do Amazonas e citou experiência e capacidade administrativa como motivos para a decisão",
+   "discovered_at": "2026-10-14T16:00:24+00:00",
+   "fb_post_id": "107393769293726_1507734014710823",
+   "formats": [
+    "link"
+   ],
+   "guid": "6acfa53752c09500099dc7bc",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2ca7aa07-e96f-48ba-b4e9-c85e1b21c29c.jpeg",
+   "key": "guid:6acfa53752c09500099dc7bc",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1507734014710823"
+   },
+   "source_published_at": "2026-10-14T15:53:06+00:00",
+   "status": "published",
+   "title": "Omar Aziz recebe o apoio do senador reeleito Plínio Valério",
+   "updated_at": "2026-10-14T16:00:57+00:00",
+   "url": "https://marioadolfo.com/omar-aziz-recebe-o-apoio-do-senador-reeleito-plinio-valerio/",
+   "url_hash": "7e71902fdcf7931069811bd5"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-14T15:50:16+00:00",
-  "saved_at": "2026-10-14T15:50:18+00:00"
+  "last_run_at": "2026-10-14T16:00:23+00:00",
+  "saved_at": "2026-10-14T16:00:57+00:00"
  },
  "schema": 1
 }
