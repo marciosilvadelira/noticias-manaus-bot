@@ -1237,13 +1237,44 @@
    "updated_at": "2026-10-14T17:10:45+00:00",
    "url": "https://marioadolfo.com/ccj-do-senado-conclui-a-votacao-da-pec-da-seguranca-publica/",
    "url_hash": "7075e5200834c620c02bcd65"
+  },
+  "guid:6acfb82452c09500099dc844": {
+   "attempts": [
+    {
+     "at": "2026-10-14T17:20:22+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1507801884704036",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "Promotoria instaurou inquérito civil e realizou alinhamento com bombeiros, na terça-feira (13)",
+   "discovered_at": "2026-10-14T17:20:17+00:00",
+   "fb_post_id": "107393769293726_1507801884704036",
+   "formats": [
+    "link"
+   ],
+   "guid": "6acfb82452c09500099dc844",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/854e52df-63bf-418c-b1b9-faa91bcf1c36.jpeg",
+   "key": "guid:6acfb82452c09500099dc844",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1507801884704036"
+   },
+   "source_published_at": "2026-10-14T17:15:49+00:00",
+   "status": "published",
+   "title": "MPAM intensifica combate a incêndios florestais em Autazes, que lidera queimadas",
+   "updated_at": "2026-10-14T17:20:22+00:00",
+   "url": "https://marioadolfo.com/mpam-intensifica-combate-a-incendios-florestais-em-autazes-que-lidera-queimadas/",
+   "url_hash": "84caf78690f6443d025fa154"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-14T17:10:13+00:00",
-  "saved_at": "2026-10-14T17:10:45+00:00"
+  "last_run_at": "2026-10-14T17:20:17+00:00",
+  "saved_at": "2026-10-14T17:20:22+00:00"
  },
  "schema": 1
 }
