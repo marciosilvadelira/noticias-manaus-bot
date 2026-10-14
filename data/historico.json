@@ -1687,13 +1687,34 @@
    "updated_at": "2026-10-14T20:47:21+00:00",
    "url": "https://marioadolfo.com/ktm-inaugura-fabrica-em-manaus-e-produz-motocicletas-off-road/",
    "url_hash": "d98c50da63357da8857fb21e"
+  },
+  "guid:6acff3e152c09500099dca8b": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Órgãos federais, estaduais e prefeituras têm cinco dias para informar se acatam medidas de mobilização, fiscalização e monitoramento",
+   "discovered_at": "2026-10-14T21:30:36+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6acff3e152c09500099dca8b",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4cfaa540-de28-4232-b22f-ea5c282174e8.jpeg",
+   "key": "guid:6acff3e152c09500099dca8b",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-14T21:30:11+00:00",
+   "status": "pending",
+   "title": "MPF pede reforço urgente no combate a queimadas e desmatamento no Amazonas",
+   "updated_at": "2026-10-14T21:30:36+00:00",
+   "url": "https://marioadolfo.com/mpf-2/",
+   "url_hash": "fb535e0977291d7021d4587f"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-14T21:20:14+00:00",
-  "saved_at": "2026-10-14T21:20:17+00:00"
+  "last_run_at": "2026-10-14T21:30:34+00:00",
+  "saved_at": "2026-10-14T21:30:38+00:00"
  },
  "schema": 1
 }
