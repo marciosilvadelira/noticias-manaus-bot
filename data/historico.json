@@ -1435,13 +1435,55 @@
    "updated_at": "2026-10-14T18:30:18+00:00",
    "url": "https://marioadolfo.com/tse-ordena-que-flavio-e-nikolas-removam-video-de-criancas-contra-lula/",
    "url_hash": "159ea0a281e48f2c7b904c00"
+  },
+  "guid:6acfd44a52c09500099dc90c": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Iniciativa será realizada no dia 26 de outubro e também arrecadará alimentos para a Rede Feminina de Combate ao Câncer",
+   "discovered_at": "2026-10-14T19:20:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6acfd44a52c09500099dc90c",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/435ee5b9-deba-469c-a1f4-c37dbc5f19b5.jpeg",
+   "key": "guid:6acfd44a52c09500099dc90c",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-14T19:14:14+00:00",
+   "status": "pending",
+   "title": "Campanha arrecada doação de cabelo para mulheres em tratamento contra o câncer",
+   "updated_at": "2026-10-14T19:20:15+00:00",
+   "url": "https://marioadolfo.com/campanha-arrecada-doacao-de-cabelo-para-mulheres-em-tratamento-contra-o-cancer/",
+   "url_hash": "8180a98ea34edfd67625a84a"
+  },
+  "guid:6acfd4b252c09500099dc923": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Decreto abre mecanismos de fomento cultural aos produtores de games",
+   "discovered_at": "2026-10-14T19:20:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6acfd4b252c09500099dc923",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0c7bc517-afab-436d-9c36-ca2145d97741.jpg",
+   "key": "guid:6acfd4b252c09500099dc923",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-14T19:18:11+00:00",
+   "status": "pending",
+   "title": "Governo federal regulamenta Marco Legal dos Jogos Eletrônicos",
+   "updated_at": "2026-10-14T19:20:15+00:00",
+   "url": "https://marioadolfo.com/governo-federal-regulamenta-marco-legal-dos-jogos-eletronicos/",
+   "url_hash": "da0afbc173159c816d6bd19a"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-14T19:10:14+00:00",
-  "saved_at": "2026-10-14T19:10:16+00:00"
+  "last_run_at": "2026-10-14T19:20:14+00:00",
+  "saved_at": "2026-10-14T19:20:16+00:00"
  },
  "schema": 1
 }
