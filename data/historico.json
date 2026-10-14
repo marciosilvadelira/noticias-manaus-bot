@@ -1603,13 +1603,55 @@
    "updated_at": "2026-10-14T20:30:22+00:00",
    "url": "https://marioadolfo.com/video-suspeito-de-matar-massoterapeuta-a-facadas-e-preso-em-manaus/",
    "url_hash": "4e7d98e738c37044c9af6fc0"
+  },
+  "guid:6acfe5e052c09500099dc9f0": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Durante o desentendimento, um outro homem de 25 anos foi baleado",
+   "discovered_at": "2026-10-14T20:40:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6acfe5e052c09500099dc9f0",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a44d93a5-4590-4e4f-bae8-bdd158df45ff.png",
+   "key": "guid:6acfe5e052c09500099dc9f0",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-14T18:00:00+00:00",
+   "status": "pending",
+   "title": "Cabo da PMAM é presa suspeita de matar homem em bar no bairro Alvorada",
+   "updated_at": "2026-10-14T20:40:16+00:00",
+   "url": "https://marioadolfo.com/cabo-da-pmam-e-presa-suspeita-de-matar-homem-em-bar-no-bairro-alvorada/",
+   "url_hash": "7e08eb878a5632f1abcf3c1a"
+  },
+  "guid:6acfe6c052c09500099dca0d": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Algoritmo estaria enviesado para beneficiar Flávio Bolsonaro",
+   "discovered_at": "2026-10-14T20:40:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6acfe6c052c09500099dca0d",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/12f11c2c-b878-4c35-be29-55a900d07346.jpg",
+   "key": "guid:6acfe6c052c09500099dca0d",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-14T20:34:23+00:00",
+   "status": "pending",
+   "title": "Coligação de Lula vai ao TSE após IA da Meta restringir buscas e postagens",
+   "updated_at": "2026-10-14T20:40:16+00:00",
+   "url": "https://marioadolfo.com/coligacao-de-lula-vai-ao-tse-apos-ia-da-meta-restringir-buscas-e-postagens/",
+   "url_hash": "d3334d24efd3b62d5f1c27dc"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-14T20:30:21+00:00",
-  "saved_at": "2026-10-14T20:30:22+00:00"
+  "last_run_at": "2026-10-14T20:40:15+00:00",
+  "saved_at": "2026-10-14T20:40:17+00:00"
  },
  "schema": 1
 }
