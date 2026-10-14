@@ -834,13 +834,44 @@
    "updated_at": "2026-10-14T13:00:50+00:00",
    "url": "https://marioadolfo.com/acoes-do-sest-senat-reunem-mais-de-duas-mil-pessoas-em-manaus/",
    "url_hash": "2025769218af8546ae0e50e5"
+  },
+  "guid:6acf7ed952c09500099dc6e9": {
+   "attempts": [
+    {
+     "at": "2026-10-14T13:20:26+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1507600884724136",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Polícia",
+   "description": "Homem disse que os objetos foram retirados de pessoas que não conseguiram pagar dívidas e juros; outros dois homens também foram presos",
+   "discovered_at": "2026-10-14T13:20:19+00:00",
+   "fb_post_id": "107393769293726_1507600884724136",
+   "formats": [
+    "link"
+   ],
+   "guid": "6acf7ed952c09500099dc6e9",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/1dcf2b77-9c9d-40ca-b4ad-a2ebe05016fd.jpg",
+   "key": "guid:6acf7ed952c09500099dc6e9",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1507600884724136"
+   },
+   "source_published_at": "2026-10-14T13:10:50+00:00",
+   "status": "published",
+   "title": "Suspeitos de agiotagem são presos com arma e celulares em Manaus",
+   "updated_at": "2026-10-14T13:20:26+00:00",
+   "url": "https://marioadolfo.com/suspeitos-de-agiotagem-sao-presos-com-arma-e-celulares-em-manaus/",
+   "url_hash": "4d211830faf70319b0e6fecf"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-14T13:10:14+00:00",
-  "saved_at": "2026-10-14T13:10:15+00:00"
+  "last_run_at": "2026-10-14T13:20:18+00:00",
+  "saved_at": "2026-10-14T13:20:26+00:00"
  },
  "schema": 1
 }
