@@ -1582,13 +1582,34 @@
    "updated_at": "2026-10-14T20:10:17+00:00",
    "url": "https://marioadolfo.com/gravacao-de-conversas-em-farmacia-acende-alerta-sobre-privacidade-de-consumidores/",
    "url_hash": "f2d4ed66514b645d7f28a32b"
+  },
+  "guid:6acfe44152c09500099dc9cf": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Policiais civis resgataram o suspeito de um cativeiro no bairro São José. A ação policial impediu a execução do investigado",
+   "discovered_at": "2026-10-14T20:30:22+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6acfe44152c09500099dc9cf",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b2270ab7-e910-45f5-ba01-d9a62a99b8f0.jpg",
+   "key": "guid:6acfe44152c09500099dc9cf",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-14T20:25:25+00:00",
+   "status": "pending",
+   "title": "Vídeo: suspeito de matar massoterapeuta a facadas é preso em Manaus",
+   "updated_at": "2026-10-14T20:30:22+00:00",
+   "url": "https://marioadolfo.com/video-suspeito-de-matar-massoterapeuta-a-facadas-e-preso-em-manaus/",
+   "url_hash": "4e7d98e738c37044c9af6fc0"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-14T20:20:15+00:00",
-  "saved_at": "2026-10-14T20:20:20+00:00"
+  "last_run_at": "2026-10-14T20:30:21+00:00",
+  "saved_at": "2026-10-14T20:30:22+00:00"
  },
  "schema": 1
 }
