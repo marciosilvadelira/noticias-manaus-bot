@@ -1645,13 +1645,55 @@
    "updated_at": "2026-10-14T20:40:16+00:00",
    "url": "https://marioadolfo.com/coligacao-de-lula-vai-ao-tse-apos-ia-da-meta-restringir-buscas-e-postagens/",
    "url_hash": "d3334d24efd3b62d5f1c27dc"
+  },
+  "guid:6acfe7cd52c09500099dca2b": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "O escritor amazonense concorre na categoria Romance Literário com o livro Dança de Enganos",
+   "discovered_at": "2026-10-14T20:47:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6acfe7cd52c09500099dca2b",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/32a5d6a4-69a7-4a37-ab2e-f6b941e4ac8c.webp",
+   "key": "guid:6acfe7cd52c09500099dca2b",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-14T20:40:17+00:00",
+   "status": "pending",
+   "title": "Milton Hatoum é um dos finalistas da 68ª edição do Prêmio Jabuti",
+   "updated_at": "2026-10-14T20:47:21+00:00",
+   "url": "https://marioadolfo.com/milton-hatoum-e-um-dos-finalistas-da-68a-edicao-do-premio-jabuti/",
+   "url_hash": "24fbc960a3f6f6aabae30e43"
+  },
+  "guid:6acfe91752c09500099dca45": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A empresa produz motocicletas voltadas para terrenos não pavimentados e competições, e street, destinadas ao uso urbano",
+   "discovered_at": "2026-10-14T20:47:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6acfe91752c09500099dca45",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/3da49556-c3ad-41ee-8585-38e184e7528d.jpeg",
+   "key": "guid:6acfe91752c09500099dca45",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-14T20:46:46+00:00",
+   "status": "pending",
+   "title": "KTM inaugura fábrica em Manaus e produz motocicletas off-road",
+   "updated_at": "2026-10-14T20:47:21+00:00",
+   "url": "https://marioadolfo.com/ktm-inaugura-fabrica-em-manaus-e-produz-motocicletas-off-road/",
+   "url_hash": "d98c50da63357da8857fb21e"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-14T20:40:15+00:00",
-  "saved_at": "2026-10-14T20:40:17+00:00"
+  "last_run_at": "2026-10-14T20:47:20+00:00",
+  "saved_at": "2026-10-14T20:47:22+00:00"
  },
  "schema": 1
 }
