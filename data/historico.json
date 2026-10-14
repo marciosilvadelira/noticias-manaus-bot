@@ -1299,13 +1299,44 @@
    "updated_at": "2026-10-14T17:40:19+00:00",
    "url": "https://marioadolfo.com/pai-e-preso-apos-manter-filho-refem-em-casa-no-bairro-cidade-nova/",
    "url_hash": "facf85cfa1d4ae1e1f075313"
+  },
+  "guid:6acfbe5c52c09500099dc86f": {
+   "attempts": [
+    {
+     "at": "2026-10-14T17:50:24+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1507830998034458",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "Travessia no Rio Igapó-Açu foi interrompida nesta quarta-feira (14) após entrada de água em embarcação",
+   "discovered_at": "2026-10-14T17:50:17+00:00",
+   "fb_post_id": "107393769293726_1507830998034458",
+   "formats": [
+    "link"
+   ],
+   "guid": "6acfbe5c52c09500099dc86f",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/3242f88c-3741-4078-ba65-1e81840706e8.jpeg",
+   "key": "guid:6acfbe5c52c09500099dc86f",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1507830998034458"
+   },
+   "source_published_at": "2026-10-14T17:47:04+00:00",
+   "status": "published",
+   "title": "Vídeo: travessia de balsa na BR-319 é paralisada pela segunda vez nesta semana",
+   "updated_at": "2026-10-14T17:50:24+00:00",
+   "url": "https://marioadolfo.com/video-travessia-de-balsa-na-br-319-e-paralisada-pela-segunda-vez-nesta-semana/",
+   "url_hash": "566ccd6d3136c0f57e3cf6ca"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-14T17:40:14+00:00",
-  "saved_at": "2026-10-14T17:40:19+00:00"
+  "last_run_at": "2026-10-14T17:50:16+00:00",
+  "saved_at": "2026-10-14T17:50:24+00:00"
  },
  "schema": 1
 }
