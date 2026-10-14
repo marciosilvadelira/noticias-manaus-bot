@@ -927,13 +927,75 @@
    "updated_at": "2026-10-14T14:40:43+00:00",
    "url": "https://marioadolfo.com/parte-do-teto-de-tunel-da-camara-desabou-nesta-quarta-feira/",
    "url_hash": "00349e1e83c2154c2ca35cb4"
+  },
+  "guid:6acf938152c09500099dc749": {
+   "attempts": [
+    {
+     "at": "2026-10-14T14:50:52+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1507674374716787",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Mundo",
+   "description": "Aos 71 anos, o pontífice já começou a caminhar no quarto e realizou exercícios de fisioterapia respiratória, conforme informações da equipe médica.",
+   "discovered_at": "2026-10-14T14:50:17+00:00",
+   "fb_post_id": "107393769293726_1507674374716787",
+   "formats": [
+    "link"
+   ],
+   "guid": "6acf938152c09500099dc749",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6bb13d91-14ca-4928-b16d-1f3fdc33228e.jpg",
+   "key": "guid:6acf938152c09500099dc749",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1507674374716787"
+   },
+   "source_published_at": "2026-10-14T14:44:37+00:00",
+   "status": "published",
+   "title": "Recuperação do papa ocorre conforme o esperado, diz Vaticano",
+   "updated_at": "2026-10-14T14:50:52+00:00",
+   "url": "https://marioadolfo.com/recuperacao-do-papa-ocorre-conforme-o-esperado-diz-vaticano/",
+   "url_hash": "12e952cff8edd821ac6dc0af"
+  },
+  "guid:6acf93c552c09500099dc74f": {
+   "attempts": [
+    {
+     "at": "2026-10-14T14:50:27+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1507674061383485",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "A entrada é gratuita e será por ordem de chegada.",
+   "discovered_at": "2026-10-14T14:50:17+00:00",
+   "fb_post_id": "107393769293726_1507674061383485",
+   "formats": [
+    "link"
+   ],
+   "guid": "6acf93c552c09500099dc74f",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e07ea328-4c1a-453a-b29c-0f2b51eae94e.png",
+   "key": "guid:6acf93c552c09500099dc74f",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1507674061383485"
+   },
+   "source_published_at": "2026-10-14T14:40:35+00:00",
+   "status": "published",
+   "title": "Curta \"Mata Gato\" ganha exibição especial de Halloween no Casarão de Ideias",
+   "updated_at": "2026-10-14T14:50:27+00:00",
+   "url": "https://marioadolfo.com/curta-mata-gato-ganha-exibicao-especial-de-halloween-no-casarao-de-ideias/",
+   "url_hash": "ad2b66c948438e2eb90782e1"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-14T14:40:15+00:00",
-  "saved_at": "2026-10-14T14:40:43+00:00"
+  "last_run_at": "2026-10-14T14:50:16+00:00",
+  "saved_at": "2026-10-14T14:50:52+00:00"
  },
  "schema": 1
 }
