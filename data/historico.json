@@ -1082,13 +1082,75 @@
    "updated_at": "2026-10-14T16:00:57+00:00",
    "url": "https://marioadolfo.com/omar-aziz-recebe-o-apoio-do-senador-reeleito-plinio-valerio/",
    "url_hash": "7e71902fdcf7931069811bd5"
+  },
+  "guid:6acfa6f152c09500099dc7d1": {
+   "attempts": [
+    {
+     "at": "2026-10-14T16:10:25+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1507743274709897",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "Agenda inclui sobrevoo das áreas afetadas e reuniões com autoridades envolvidas nas operações de combate ao fogo.",
+   "discovered_at": "2026-10-14T16:10:17+00:00",
+   "fb_post_id": "107393769293726_1507743274709897",
+   "formats": [
+    "link"
+   ],
+   "guid": "6acfa6f152c09500099dc7d1",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/1ea4129a-6d28-4e7a-a12f-bb73d733db3e.jpg",
+   "key": "guid:6acfa6f152c09500099dc7d1",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1507743274709897"
+   },
+   "source_published_at": "2026-10-14T16:01:01+00:00",
+   "status": "published",
+   "title": "Ministro retorna a Manaus para atualizar situação dos incêndios no AM",
+   "updated_at": "2026-10-14T16:10:25+00:00",
+   "url": "https://marioadolfo.com/ministro-retorna-a-manaus-para-atualizar-situacao-dos-incendios-no-am/",
+   "url_hash": "0103e44aa43397b2e0565485"
+  },
+  "guid:6acfa75652c09500099dc7e6": {
+   "attempts": [
+    {
+     "at": "2026-10-14T16:10:52+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1507743578043200",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Polícia",
+   "description": "São cumpridos 12 mandados judiciais, expedidos pela 2ª Vara Federal Criminal da Seção Judiciária do Amazonas",
+   "discovered_at": "2026-10-14T16:10:17+00:00",
+   "fb_post_id": "107393769293726_1507743578043200",
+   "formats": [
+    "link"
+   ],
+   "guid": "6acfa75652c09500099dc7e6",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d36f77fb-07c0-4339-8eaa-0c790cf4b12e.jpg",
+   "key": "guid:6acfa75652c09500099dc7e6",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1507743578043200"
+   },
+   "source_published_at": "2026-10-14T16:04:21+00:00",
+   "status": "published",
+   "title": "Operação da PF combate falsificação e comercialização de certidões de nascimento no AM",
+   "updated_at": "2026-10-14T16:10:52+00:00",
+   "url": "https://marioadolfo.com/operacao-da-pf-combate-falsificacao-e-comercializacao-de-certidoes-de-nascimento-no-am/",
+   "url_hash": "0c2ff9931ec9cf6358557ae7"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-14T16:00:23+00:00",
-  "saved_at": "2026-10-14T16:00:57+00:00"
+  "last_run_at": "2026-10-14T16:10:16+00:00",
+  "saved_at": "2026-10-14T16:10:52+00:00"
  },
  "schema": 1
 }
