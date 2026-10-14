@@ -1477,13 +1477,34 @@
    "updated_at": "2026-10-14T19:20:15+00:00",
    "url": "https://marioadolfo.com/governo-federal-regulamenta-marco-legal-dos-jogos-eletronicos/",
    "url_hash": "da0afbc173159c816d6bd19a"
+  },
+  "guid:6acfd9e152c09500099dc938": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Candidata a vice-governadora afirma ter sido intimidada por gesto de degola nos bastidores da TV Norte/SBT; deputado federal eleito nega ameaça, enquanto Assembleia cobra apuração dos fatos",
+   "discovered_at": "2026-10-14T19:50:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6acfd9e152c09500099dc938",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5a607900-c3c2-4f09-a569-bd41f7b3f88a.jpg",
+   "key": "guid:6acfd9e152c09500099dc938",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-14T19:41:01+00:00",
+   "status": "pending",
+   "title": "”Pensaram que iam me intimidar, mas aumentaram a minha coragem”, diz Alessandra Campelo após episódio com Kidson e Salazar",
+   "updated_at": "2026-10-14T19:50:16+00:00",
+   "url": "https://marioadolfo.com/pensaram-que-iam-me-intimidar-mas-aumentaram-a-minha-coragem-diz-alessandra-campelo-apos-episodio-com-kidson-e-salazar/",
+   "url_hash": "0c3b1db8caa76175f52c8242"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-14T19:40:15+00:00",
-  "saved_at": "2026-10-14T19:40:18+00:00"
+  "last_run_at": "2026-10-14T19:50:16+00:00",
+  "saved_at": "2026-10-14T19:50:18+00:00"
  },
  "schema": 1
 }
