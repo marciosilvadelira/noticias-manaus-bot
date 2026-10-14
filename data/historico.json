@@ -1540,13 +1540,55 @@
    "updated_at": "2026-10-14T20:00:19+00:00",
    "url": "https://marioadolfo.com/justica-condena-mulher-por-estupro-de-vulneravel-em-itacoatiara/",
    "url_hash": "4dfb597989bd7e8e6c141ff7"
+  },
+  "guid:6acfddfc52c09500099dc981": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Mulher aparece pedindo ajuda antes de conseguir escapar, enquanto a criança permanece com o pai dentro da residência",
+   "discovered_at": "2026-10-14T20:10:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6acfddfc52c09500099dc981",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5c0b2a43-1859-40d8-9570-bc0fee06b777.png",
+   "key": "guid:6acfddfc52c09500099dc981",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-14T20:04:09+00:00",
+   "status": "pending",
+   "title": "Vídeo registra fuga de mulher ameaçada pelo ex-companheiro antes de filho ser feito refém",
+   "updated_at": "2026-10-14T20:10:17+00:00",
+   "url": "https://marioadolfo.com/video-registra-fuga-de-mulher-ameacada-pelo-ex-companheiro-antes-de-filho-ser-feito-refem/",
+   "url_hash": "f85219225bd0a814ba7bad3c"
+  },
+  "guid:6acfe04f52c09500099dc9b4": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Defensoria Pública e Procon Manaus iniciaram fiscalizações para verificar o cumprimento de recomendação sobre proteção de dados pessoais",
+   "discovered_at": "2026-10-14T20:10:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6acfe04f52c09500099dc9b4",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/9952706f-669a-46ec-b060-6a56193c2a2c.jpeg",
+   "key": "guid:6acfe04f52c09500099dc9b4",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-14T20:05:49+00:00",
+   "status": "pending",
+   "title": "Gravação de conversas em farmácia acende alerta sobre privacidade de consumidores",
+   "updated_at": "2026-10-14T20:10:17+00:00",
+   "url": "https://marioadolfo.com/gravacao-de-conversas-em-farmacia-acende-alerta-sobre-privacidade-de-consumidores/",
+   "url_hash": "f2d4ed66514b645d7f28a32b"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-14T20:00:19+00:00",
-  "saved_at": "2026-10-14T20:00:20+00:00"
+  "last_run_at": "2026-10-14T20:10:17+00:00",
+  "saved_at": "2026-10-14T20:10:18+00:00"
  },
  "schema": 1
 }
