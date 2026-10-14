@@ -865,13 +865,75 @@
    "updated_at": "2026-10-14T13:20:26+00:00",
    "url": "https://marioadolfo.com/suspeitos-de-agiotagem-sao-presos-com-arma-e-celulares-em-manaus/",
    "url_hash": "4d211830faf70319b0e6fecf"
+  },
+  "guid:6acf912152c09500099dc700": {
+   "attempts": [
+    {
+     "at": "2026-10-14T14:40:21+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1507665271384364",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Dito & Feito",
+   "description": "Apelido não colou. Eleitor tem carinho pelo bichinho que “faz bem à natureza” amazônica e  campanha de Omar Aziz tira proveito disso",
+   "discovered_at": "2026-10-14T14:40:16+00:00",
+   "fb_post_id": "107393769293726_1507665271384364",
+   "formats": [
+    "link"
+   ],
+   "guid": "6acf912152c09500099dc700",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/563cdd37-1ea2-4ada-aead-8d3389ed58fc.jpeg",
+   "key": "guid:6acf912152c09500099dc700",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1507665271384364"
+   },
+   "source_published_at": "2026-10-14T14:32:42+00:00",
+   "status": "published",
+   "title": "Dito & Feito: EFEITO CAPIVARA",
+   "updated_at": "2026-10-14T14:40:21+00:00",
+   "url": "https://marioadolfo.com/dito-feito-efeito-capivara/",
+   "url_hash": "5a301fc6adb984dd7ef9bff9"
+  },
+  "guid:6acf92c152c09500099dc730": {
+   "attempts": [
+    {
+     "at": "2026-10-14T14:40:43+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1507665558051002",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Brasil",
+   "description": "Não houve feridos e a passagem pelo local está fechada",
+   "discovered_at": "2026-10-14T14:40:16+00:00",
+   "fb_post_id": "107393769293726_1507665558051002",
+   "formats": [
+    "link"
+   ],
+   "guid": "6acf92c152c09500099dc730",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5bc3ae69-7bd8-44cd-b254-20888247f371.jpg",
+   "key": "guid:6acf92c152c09500099dc730",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1507665558051002"
+   },
+   "source_published_at": "2026-10-14T14:36:30+00:00",
+   "status": "published",
+   "title": "Parte do teto de túnel da Câmara desabou nesta quarta-feira",
+   "updated_at": "2026-10-14T14:40:43+00:00",
+   "url": "https://marioadolfo.com/parte-do-teto-de-tunel-da-camara-desabou-nesta-quarta-feira/",
+   "url_hash": "00349e1e83c2154c2ca35cb4"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-14T14:30:19+00:00",
-  "saved_at": "2026-10-14T14:30:19+00:00"
+  "last_run_at": "2026-10-14T14:40:15+00:00",
+  "saved_at": "2026-10-14T14:40:43+00:00"
  },
  "schema": 1
 }
