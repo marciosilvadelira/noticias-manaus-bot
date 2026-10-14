@@ -772,13 +772,75 @@
    "updated_at": "2026-10-14T12:10:24+00:00",
    "url": "https://marioadolfo.com/fumaca-mantem-escolas-municipais-de-manaus-suspensas-nesta-quarta-feira-14/",
    "url_hash": "234a9d685720513fbab827bb"
+  },
+  "guid:6acf7b5752c09500099dc6bd": {
+   "attempts": [
+    {
+     "at": "2026-10-14T13:00:27+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1507584531392438",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "Aeronaves utilizadas no combate às queimadas estão sendo abastecidos pela concessionária e já forneceram mais de 45 mil litros de água.",
+   "discovered_at": "2026-10-14T13:00:22+00:00",
+   "fb_post_id": "107393769293726_1507584531392438",
+   "formats": [
+    "link"
+   ],
+   "guid": "6acf7b5752c09500099dc6bd",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/1bad123f-fa88-415b-980e-254cb42aa05c.jpeg",
+   "key": "guid:6acf7b5752c09500099dc6bd",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1507584531392438"
+   },
+   "source_published_at": "2026-10-14T12:55:17+00:00",
+   "status": "published",
+   "title": "Caminhões-pipa da Águas de Manaus reforçam ações de combate aos incêndios florestais no Amazonas",
+   "updated_at": "2026-10-14T13:00:27+00:00",
+   "url": "https://marioadolfo.com/caminhoes-pipa-da-aguas-de-manaus-reforcam-acoes-de-combate-aos-incendios-florestais-no-amazonas/",
+   "url_hash": "0b4457b3a77656bfc04929cb"
+  },
+  "guid:6acf7be252c09500099dc6d0": {
+   "attempts": [
+    {
+     "at": "2026-10-14T13:00:50+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1507584874725737",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "Portas Abertas e Corrida e Caminhada promoveram acesso a serviços gratuitos de saúde, qualificação profissional, esporte e lazer",
+   "discovered_at": "2026-10-14T13:00:22+00:00",
+   "fb_post_id": "107393769293726_1507584874725737",
+   "formats": [
+    "link"
+   ],
+   "guid": "6acf7be252c09500099dc6d0",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c13f9548-39a9-4c4f-9e44-6085b93200bf.jpeg",
+   "key": "guid:6acf7be252c09500099dc6d0",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1507584874725737"
+   },
+   "source_published_at": "2026-10-14T12:57:18+00:00",
+   "status": "published",
+   "title": "Ações do SEST SENAT reúnem mais de duas mil pessoas em Manaus",
+   "updated_at": "2026-10-14T13:00:50+00:00",
+   "url": "https://marioadolfo.com/acoes-do-sest-senat-reunem-mais-de-duas-mil-pessoas-em-manaus/",
+   "url_hash": "2025769218af8546ae0e50e5"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-14T12:50:14+00:00",
-  "saved_at": "2026-10-14T12:50:15+00:00"
+  "last_run_at": "2026-10-14T13:00:21+00:00",
+  "saved_at": "2026-10-14T13:00:50+00:00"
  },
  "schema": 1
 }
