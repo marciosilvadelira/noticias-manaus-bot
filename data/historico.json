@@ -1268,13 +1268,44 @@
    "updated_at": "2026-10-14T17:20:22+00:00",
    "url": "https://marioadolfo.com/mpam-intensifica-combate-a-incendios-florestais-em-autazes-que-lidera-queimadas/",
    "url_hash": "84caf78690f6443d025fa154"
+  },
+  "guid:6acfbc2452c09500099dc85a": {
+   "attempts": [
+    {
+     "at": "2026-10-14T17:40:19+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1507822138035344",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Polícia",
+   "description": "Criança foi ameaçada com uma arma branca. O suspeito não aceitava o fim da relação com a mãe do bebê",
+   "discovered_at": "2026-10-14T17:40:14+00:00",
+   "fb_post_id": "107393769293726_1507822138035344",
+   "formats": [
+    "link"
+   ],
+   "guid": "6acfbc2452c09500099dc85a",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/8912879f-6f44-4f46-950f-f3020159061e.jpeg",
+   "key": "guid:6acfbc2452c09500099dc85a",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1507822138035344"
+   },
+   "source_published_at": "2026-10-14T17:31:40+00:00",
+   "status": "published",
+   "title": "Pai é preso após manter filho refém em casa no bairro Cidade Nova",
+   "updated_at": "2026-10-14T17:40:19+00:00",
+   "url": "https://marioadolfo.com/pai-e-preso-apos-manter-filho-refem-em-casa-no-bairro-cidade-nova/",
+   "url_hash": "facf85cfa1d4ae1e1f075313"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-14T17:30:26+00:00",
-  "saved_at": "2026-10-14T17:30:27+00:00"
+  "last_run_at": "2026-10-14T17:40:14+00:00",
+  "saved_at": "2026-10-14T17:40:19+00:00"
  },
  "schema": 1
 }
