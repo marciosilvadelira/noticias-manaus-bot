@@ -1372,13 +1372,76 @@
    "updated_at": "2026-10-14T18:10:15+00:00",
    "url": "https://marioadolfo.com/expo-ciee-2026-anuncia-mais-de-25-mil-vagas-de-estagio-e-aprendizagem/",
    "url_hash": "d28c8bfccc331751ba062a41"
+  },
+  "guid:6acfc7da52c09500099dc8c4": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A sentença, proferida na terça-feira (13/10), estabelece que Agenor Tupinambá entregue o animal no prazo de 30 dias, conforme a comunicação oficial da decisão.",
+   "discovered_at": "2026-10-14T18:30:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6acfc7da52c09500099dc8c4",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/67b74848-5669-482b-af9f-464af550eae9.jpeg",
+   "key": "guid:6acfc7da52c09500099dc8c4",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-14T18:21:38+00:00",
+   "status": "pending",
+   "title": "Joana Darc repudia decisão que determina retorno da capivara Filó ao Cetas do Ibama",
+   "updated_at": "2026-10-14T18:30:18+00:00",
+   "url": "https://marioadolfo.com/joana-darc-repudia-decisao-que-determina-retorno-da-capivara-filo-ao-cetas-do-ibama/",
+   "url_hash": "805d1bde7530716de86ad21a"
+  },
+  "guid:6acfc8dc52c09500099dc8db": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Medida é em razão da manutenção das condições desfavoráveis da qualidade do ar",
+   "discovered_at": "2026-10-14T18:30:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6acfc8dc52c09500099dc8db",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/235aca7d-4aed-4f3d-96d0-0bca963b8e56.jpeg",
+   "key": "guid:6acfc8dc52c09500099dc8db",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-14T18:26:31+00:00",
+   "status": "pending",
+   "title": "Fumaça suspende atividades ao ar livre e Feirinha do Boi Manaus até domingo",
+   "updated_at": "2026-10-14T18:30:18+00:00",
+   "url": "https://marioadolfo.com/fumaca-suspende-atividades-ao-ar-livre-e-feirinha-do-boi-manaus-ate-domingo/",
+   "url_hash": "41112fffd85d186f23940763"
+  },
+  "guid:6acfc96d52c09500099dc8f6": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Decisão do ministro Marco Aurélio Bellizze deve ser cumprida em 24h",
+   "discovered_at": "2026-10-14T18:30:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6acfc96d52c09500099dc8f6",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2141f0f9-ad66-4af3-8926-944c91b093a1.jpg",
+   "key": "guid:6acfc96d52c09500099dc8f6",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-14T18:28:33+00:00",
+   "status": "pending",
+   "title": "TSE ordena que Flávio e Nikolas removam vídeo de crianças contra Lula",
+   "updated_at": "2026-10-14T18:30:18+00:00",
+   "url": "https://marioadolfo.com/tse-ordena-que-flavio-e-nikolas-removam-video-de-criancas-contra-lula/",
+   "url_hash": "159ea0a281e48f2c7b904c00"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-14T18:20:18+00:00",
-  "saved_at": "2026-10-14T18:20:20+00:00"
+  "last_run_at": "2026-10-14T18:30:18+00:00",
+  "saved_at": "2026-10-14T18:30:19+00:00"
  },
  "schema": 1
 }
