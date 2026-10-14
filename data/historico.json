@@ -989,13 +989,44 @@
    "updated_at": "2026-10-14T14:50:27+00:00",
    "url": "https://marioadolfo.com/curta-mata-gato-ganha-exibicao-especial-de-halloween-no-casarao-de-ideias/",
    "url_hash": "ad2b66c948438e2eb90782e1"
+  },
+  "guid:6acf95f152c09500099dc774": {
+   "attempts": [
+    {
+     "at": "2026-10-14T15:00:30+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1507681898049368",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "Ação conjunta de órgãos estaduais e federais busca impedir novos focos de incêndio e responsabilizar infratores.",
+   "discovered_at": "2026-10-14T15:00:26+00:00",
+   "fb_post_id": "107393769293726_1507681898049368",
+   "formats": [
+    "link"
+   ],
+   "guid": "6acf95f152c09500099dc774",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/3c4e6e81-bd7e-4d01-9ff1-62ec7462f927.jpeg",
+   "key": "guid:6acf95f152c09500099dc774",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1507681898049368"
+   },
+   "source_published_at": "2026-10-14T14:50:46+00:00",
+   "status": "published",
+   "title": "Órgãos reforçam fiscalização contra incêndios criminosos no Amazonas",
+   "updated_at": "2026-10-14T15:00:30+00:00",
+   "url": "https://marioadolfo.com/orgaos-reforcam-fiscalizacao-contra-incendios-criminosos-no-amazonas/",
+   "url_hash": "5cbff7f6a724b824081b8a2e"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-14T14:50:16+00:00",
-  "saved_at": "2026-10-14T14:50:52+00:00"
+  "last_run_at": "2026-10-14T15:00:24+00:00",
+  "saved_at": "2026-10-14T15:00:30+00:00"
  },
  "schema": 1
 }
