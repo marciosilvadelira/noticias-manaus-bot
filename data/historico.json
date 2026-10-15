@@ -2244,13 +2244,34 @@
    "updated_at": "2026-10-15T15:10:18+00:00",
    "url": "https://marioadolfo.com/video-incendio-atinge-predio-comercial-no-centro-de-manaus/",
    "url_hash": "8467a07f418a19861d8d1fb4"
+  },
+  "guid:6ad1061352c09500099dcc69": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Plano prevê monitoramento em tempo real, alertas antecipados e integração entre órgãos ambientais e de segurança",
+   "discovered_at": "2026-10-15T17:00:22+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad1061352c09500099dcc69",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4800cf07-63e6-494b-81ea-3116b75fceb2.jpeg",
+   "key": "guid:6ad1061352c09500099dcc69",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-15T17:00:04+00:00",
+   "status": "pending",
+   "title": "Omar propõe tecnologia e brigadas para combater queimadas no interior do Amazonas",
+   "updated_at": "2026-10-15T17:00:22+00:00",
+   "url": "https://marioadolfo.com/omar-propoe-tecnologia-e-brigadas-para-combater-queimadas-no-interior-do-amazonas/",
+   "url_hash": "ea8ef2713384171ff807c421"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-15T16:50:16+00:00",
-  "saved_at": "2026-10-15T16:50:18+00:00"
+  "last_run_at": "2026-10-15T17:00:20+00:00",
+  "saved_at": "2026-10-15T17:00:23+00:00"
  },
  "schema": 1
 }
