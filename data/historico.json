@@ -2496,13 +2496,34 @@
    "updated_at": "2026-10-15T20:30:21+00:00",
    "url": "https://marioadolfo.com/justica-suspende-porte-de-armas-e-proibe-salazar-e-kidson-maia-de-se-aproximarem-de-alessandra-campelo/",
    "url_hash": "fdbbbb4a1010bbe4d688ca7d"
+  },
+  "guid:6ad1378952c09500099dcda8": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Iniciativa transforma resíduos orgânicos em biogás e biofertilizante e prevê chegar a 17 escolas públicas e cerca de 5 mil estudantes até o fim do ano",
+   "discovered_at": "2026-10-15T20:40:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad1378952c09500099dcda8",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/37450f91-e498-4406-8eee-da5476f1dc96.jpeg",
+   "key": "guid:6ad1378952c09500099dcda8",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-15T20:31:09+00:00",
+   "status": "pending",
+   "title": "Eneva amplia projeto de biodigestores com novas entregas em escolas de Itapiranga e Silves",
+   "updated_at": "2026-10-15T20:40:16+00:00",
+   "url": "https://marioadolfo.com/eneva-amplia-projeto-de-biodigestores-com-novas-entregas-em-escolas-de-itapiranga-e-silves/",
+   "url_hash": "5b8457a7d89b954ed874e821"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-15T20:30:21+00:00",
-  "saved_at": "2026-10-15T20:30:22+00:00"
+  "last_run_at": "2026-10-15T20:40:16+00:00",
+  "saved_at": "2026-10-15T20:40:17+00:00"
  },
  "schema": 1
 }
