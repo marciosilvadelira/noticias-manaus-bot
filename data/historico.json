@@ -1992,13 +1992,34 @@
    "updated_at": "2026-10-15T01:20:12+00:00",
    "url": "https://marioadolfo.com/senado-aprova-fim-da-escala-6x1-e-mais-tempo-de-descanso-aos-trabalhadores-sem-reducao-de-salario/",
    "url_hash": "ad5fa844fa45a68806c16bc3"
+  },
+  "guid:6ad029f952c09500099dcaff": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Equipes já abriram 120 procedimentos para apurar condutas criminosas",
+   "discovered_at": "2026-10-15T11:40:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad029f952c09500099dcaff",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/001a6843-53d2-4e70-a426-df98a13fc322.jpg",
+   "key": "guid:6ad029f952c09500099dcaff",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-15T11:30:39+00:00",
+   "status": "pending",
+   "title": "Governo investiga se há organização por trás dos incêndios no Amazonas",
+   "updated_at": "2026-10-15T11:40:17+00:00",
+   "url": "https://marioadolfo.com/governo-investiga-se-ha-organizacao-por-tras-dos-incendios-no-amazonas/",
+   "url_hash": "78a185b7f0fbf8492de95717"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-15T11:30:17+00:00",
-  "saved_at": "2026-10-15T11:30:20+00:00"
+  "last_run_at": "2026-10-15T11:40:17+00:00",
+  "saved_at": "2026-10-15T11:40:18+00:00"
  },
  "schema": 1
 }
