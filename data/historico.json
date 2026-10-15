@@ -2349,13 +2349,55 @@
    "updated_at": "2026-10-15T17:30:17+00:00",
    "url": "https://marioadolfo.com/tre-am-prepara-urnas-eletronicas-da-capital-para-o-segundo-turno/",
    "url_hash": "0973e177fe85f9d13e77a0ca"
+  },
+  "guid:6ad10dec52c09500099dccdf": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "O público poderá acompanhar oficinas práticas, demonstrações culinárias e aulas-show com chefs premiados",
+   "discovered_at": "2026-10-15T17:40:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad10dec52c09500099dccdf",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b45f5713-71d3-441e-9512-02de54c2f0fb.jpeg",
+   "key": "guid:6ad10dec52c09500099dccdf",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-15T17:34:41+00:00",
+   "status": "pending",
+   "title": "Empresa reúne chefs premiados e oficinas com sabores regionais em estande na FIPA 2026",
+   "updated_at": "2026-10-15T17:40:16+00:00",
+   "url": "https://marioadolfo.com/empresa-reune-chefs-premiados-e-oficinas-com-sabores-regionais-em-estande-na-fipa-2026/",
+   "url_hash": "29a19fea2e08d548462df115"
+  },
+  "guid:6ad10f1152c09500099dccf8": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Serasa lança série sobre renda extra com histórias de consumidores reais",
+   "discovered_at": "2026-10-15T17:40:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad10f1152c09500099dccf8",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4402442d-5b99-4841-a956-ef807a449de7.jpeg",
+   "key": "guid:6ad10f1152c09500099dccf8",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-15T17:39:58+00:00",
+   "status": "pending",
+   "title": "Seis em cada 10 brasileiros têm alguma fonte de renda extra, revela Serasa",
+   "updated_at": "2026-10-15T17:40:16+00:00",
+   "url": "https://marioadolfo.com/seis-em-cada-10-brasileiros-tem-alguma-fonte-de-renda-extra-revela-serasa/",
+   "url_hash": "656d428f74da4f258d16f899"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-15T17:30:17+00:00",
-  "saved_at": "2026-10-15T17:30:18+00:00"
+  "last_run_at": "2026-10-15T17:40:16+00:00",
+  "saved_at": "2026-10-15T17:40:17+00:00"
  },
  "schema": 1
 }
