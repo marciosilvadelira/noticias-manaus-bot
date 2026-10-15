@@ -1797,11 +1797,19 @@
    "url_hash": "d3334d24efd3b62d5f1c27dc"
   },
   "guid:6acfe7cd52c09500099dca2b": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-15T04:30:25+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1508230957994462",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "O escritor amazonense concorre na categoria Romance Literário com o livro Dança de Enganos",
    "discovered_at": "2026-10-14T20:47:21+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1508230957994462",
    "formats": [
     "link"
    ],
@@ -1809,20 +1817,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/32a5d6a4-69a7-4a37-ab2e-f6b941e4ac8c.webp",
    "key": "guid:6acfe7cd52c09500099dca2b",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1508230957994462"
+   },
    "source_published_at": "2026-10-14T20:40:17+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Milton Hatoum é um dos finalistas da 68ª edição do Prêmio Jabuti",
-   "updated_at": "2026-10-14T20:47:21+00:00",
+   "updated_at": "2026-10-15T04:30:25+00:00",
    "url": "https://marioadolfo.com/milton-hatoum-e-um-dos-finalistas-da-68a-edicao-do-premio-jabuti/",
    "url_hash": "24fbc960a3f6f6aabae30e43"
   },
   "guid:6acfe91752c09500099dca45": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-15T04:30:50+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1508231447994413",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "A empresa produz motocicletas voltadas para terrenos não pavimentados e competições, e street, destinadas ao uso urbano",
    "discovered_at": "2026-10-14T20:47:21+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1508231447994413",
    "formats": [
     "link"
    ],
@@ -1830,20 +1848,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/3da49556-c3ad-41ee-8585-38e184e7528d.jpeg",
    "key": "guid:6acfe91752c09500099dca45",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1508231447994413"
+   },
    "source_published_at": "2026-10-14T20:46:46+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "KTM inaugura fábrica em Manaus e produz motocicletas off-road",
-   "updated_at": "2026-10-14T20:47:21+00:00",
+   "updated_at": "2026-10-15T04:30:50+00:00",
    "url": "https://marioadolfo.com/ktm-inaugura-fabrica-em-manaus-e-produz-motocicletas-off-road/",
    "url_hash": "d98c50da63357da8857fb21e"
   },
   "guid:6acff3e152c09500099dca8b": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-15T04:31:14+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1508231704661054",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Órgãos federais, estaduais e prefeituras têm cinco dias para informar se acatam medidas de mobilização, fiscalização e monitoramento",
    "discovered_at": "2026-10-14T21:30:36+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1508231704661054",
    "formats": [
     "link"
    ],
@@ -1851,20 +1879,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4cfaa540-de28-4232-b22f-ea5c282174e8.jpeg",
    "key": "guid:6acff3e152c09500099dca8b",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1508231704661054"
+   },
    "source_published_at": "2026-10-14T21:30:11+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "MPF pede reforço urgente no combate a queimadas e desmatamento no Amazonas",
-   "updated_at": "2026-10-14T21:30:36+00:00",
+   "updated_at": "2026-10-15T04:31:14+00:00",
    "url": "https://marioadolfo.com/mpf-2/",
    "url_hash": "fb535e0977291d7021d4587f"
   },
   "guid:6ad016a452c09500099dcaaa": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-15T04:31:40+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1508231957994362",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Proposta precisa ser aprovada em dois turnos",
    "discovered_at": "2026-10-15T00:00:21+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1508231957994362",
    "formats": [
     "link"
    ],
@@ -1872,20 +1910,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/bc540025-1f41-4107-bcbb-a22d5b422d52.webp",
    "key": "guid:6ad016a452c09500099dcaaa",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1508231957994362"
+   },
    "source_published_at": "2026-10-14T23:58:09+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Senado vota PEC pelo fim da escala 6x1",
-   "updated_at": "2026-10-15T00:00:21+00:00",
+   "updated_at": "2026-10-15T04:31:40+00:00",
    "url": "https://marioadolfo.com/senado-vota-pec-pelo-fim-da-escala-6x1/",
    "url_hash": "c93881dcdb74647f7c6cdbee"
   },
   "guid:6ad017b652c09500099dcacb": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-15T04:32:05+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1508232214661003",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Senador relatou a rotina do trabalhador amazonense, defende a jornada de 40 horas com a escala 5x2 e cobra equilíbrio econômico para o setor produtivo",
    "discovered_at": "2026-10-15T00:10:14+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1508232214661003",
    "formats": [
     "link"
    ],
@@ -1893,11 +1941,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0903397a-e192-4196-98ab-84cf91db4415.jpeg",
    "key": "guid:6ad017b652c09500099dcacb",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1508232214661003"
+   },
    "source_published_at": "2026-10-15T00:07:28+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Eduardo Braga defende o fim da escala 6x1 e bem-estar para o trabalhador",
-   "updated_at": "2026-10-15T00:10:14+00:00",
+   "updated_at": "2026-10-15T04:32:05+00:00",
    "url": "https://marioadolfo.com/eduardo-braga-defende-o-fim-da-escala-6x1-e-bem-estar-para-o-trabalhador/",
    "url_hash": "61c54f10e2478b09dbb52a04"
   },
@@ -1926,8 +1976,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-15T04:20:13+00:00",
-  "saved_at": "2026-10-15T04:22:02+00:00"
+  "last_run_at": "2026-10-15T04:30:17+00:00",
+  "saved_at": "2026-10-15T04:32:05+00:00"
  },
  "schema": 1
 }
