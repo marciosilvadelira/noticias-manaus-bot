@@ -2160,13 +2160,34 @@
    "updated_at": "2026-10-15T14:40:16+00:00",
    "url": "https://marioadolfo.com/governo-do-am-confirma-abono-do-fundeb-para-servidores-da-educacao-em-2026/",
    "url_hash": "d57a56373c631d97c47c6d7b"
+  },
+  "guid:6ad0e5ec52c09500099dcc10": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Programa Plano Verão e contratações gerais reforçam a operação para a alta temporada e expandem a força de trabalho da companhia nas suas regiões de atuação",
+   "discovered_at": "2026-10-15T14:50:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad0e5ec52c09500099dcc10",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/59a1ab8d-a078-4dd4-909a-db46691f7494.jpg",
+   "key": "guid:6ad0e5ec52c09500099dcc10",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-15T14:43:00+00:00",
+   "status": "pending",
+   "title": "Solar Coca-Cola abre mais de 90 vagas de emprego no Amazonas",
+   "updated_at": "2026-10-15T14:50:18+00:00",
+   "url": "https://marioadolfo.com/solar-coca-cola-abre-mais-de-90-vagas-de-emprego-no-amazonas/",
+   "url_hash": "9c428ae337d44c13c8a9fa7c"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-15T14:40:15+00:00",
-  "saved_at": "2026-10-15T14:40:17+00:00"
+  "last_run_at": "2026-10-15T14:50:16+00:00",
+  "saved_at": "2026-10-15T14:50:19+00:00"
  },
  "schema": 1
 }
