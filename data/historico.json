@@ -1858,6 +1858,27 @@
    "url": "https://marioadolfo.com/ktm-inaugura-fabrica-em-manaus-e-produz-motocicletas-off-road/",
    "url_hash": "d98c50da63357da8857fb21e"
   },
+  "guid:6acfeb1452c09500099dca6d": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Contribuintes que optaram pelo pagamento parcelado devem ficar atentos à data para evitar atrasos e possíveis encargos",
+   "discovered_at": "2026-10-15T11:10:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6acfeb1452c09500099dca6d",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/8b5580f9-042c-42c0-930e-46caf05aa707.jpg",
+   "key": "guid:6acfeb1452c09500099dca6d",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-15T11:00:25+00:00",
+   "status": "pending",
+   "title": "Oitava parcela do IPTU 2026 vence nesta quinta-feira (15)",
+   "updated_at": "2026-10-15T11:10:15+00:00",
+   "url": "https://marioadolfo.com/oitava-parcela-do-iptu-2026-vence-nesta-quinta-feira-15/",
+   "url_hash": "8cc83877b1df823e52079833"
+  },
   "guid:6acff3e152c09500099dca8b": {
    "attempts": [
     {
@@ -1976,8 +1997,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-15T11:00:23+00:00",
-  "saved_at": "2026-10-15T11:00:24+00:00"
+  "last_run_at": "2026-10-15T11:10:15+00:00",
+  "saved_at": "2026-10-15T11:10:16+00:00"
  },
  "schema": 1
 }
