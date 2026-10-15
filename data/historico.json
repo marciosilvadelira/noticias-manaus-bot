@@ -2076,13 +2076,34 @@
    "updated_at": "2026-10-15T13:30:21+00:00",
    "url": "https://marioadolfo.com/mudanca-de-transportes-e-manutencao-de-secoes-garantem-urnas-no-interior-do-am/",
    "url_hash": "8f86cdd1ea35c45d89d79358"
+  },
+  "guid:6ad0d8bf52c09500099dcb6e": {
+   "attempts": [],
+   "category": "Dito & Feito",
+   "description": "Candidata a vice-governadora denuncia Salazar na Delegacia Especializada em Crimes contra a Mulher. “Quando ele faz este gesto, está falando em cortar o pescoço”",
+   "discovered_at": "2026-10-15T14:00:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad0d8bf52c09500099dcb6e",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c3eb3c4e-b5c5-4393-bc0f-032552146ce8.jpg",
+   "key": "guid:6ad0d8bf52c09500099dcb6e",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-15T13:56:15+00:00",
+   "status": "pending",
+   "title": "Dito & Feito: PARA BOA ENTENDEDORA, MEIO GESTO BASTA!",
+   "updated_at": "2026-10-15T14:00:21+00:00",
+   "url": "https://marioadolfo.com/dito-feito-para-boa-entendedora-meio-gesto-basta/",
+   "url_hash": "7de411c98b01e3bd29cdcf02"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-15T13:50:18+00:00",
-  "saved_at": "2026-10-15T13:50:21+00:00"
+  "last_run_at": "2026-10-15T14:00:21+00:00",
+  "saved_at": "2026-10-15T14:00:22+00:00"
  },
  "schema": 1
 }
