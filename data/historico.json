@@ -2013,13 +2013,34 @@
    "updated_at": "2026-10-15T11:40:17+00:00",
    "url": "https://marioadolfo.com/governo-investiga-se-ha-organizacao-por-tras-dos-incendios-no-amazonas/",
    "url_hash": "78a185b7f0fbf8492de95717"
+  },
+  "guid:6ad034f752c09500099dcb1c": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Os inscritos já podem realizar a consulta individual, acessando o Portal do Candidato",
+   "discovered_at": "2026-10-15T11:50:20+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad034f752c09500099dcb1c",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a12e759f-f93c-49ad-b0ee-82241a7268d0.jpg",
+   "key": "guid:6ad034f752c09500099dcb1c",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-15T11:40:21+00:00",
+   "status": "pending",
+   "title": "Prefeitura de Manaus divulga resultado do Programa Bolsa Universidade 2027",
+   "updated_at": "2026-10-15T11:50:20+00:00",
+   "url": "https://marioadolfo.com/prefeitura-de-manaus-divulga-resultado-do-programa-bolsa-universidade-2027/",
+   "url_hash": "2d1e06525916496138d493e3"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-15T11:40:17+00:00",
-  "saved_at": "2026-10-15T11:40:18+00:00"
+  "last_run_at": "2026-10-15T11:50:17+00:00",
+  "saved_at": "2026-10-15T11:50:20+00:00"
  },
  "schema": 1
 }
