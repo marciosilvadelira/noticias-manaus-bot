@@ -1332,11 +1332,19 @@
    "url_hash": "566ccd6d3136c0f57e3cf6ca"
   },
   "guid:6acfc03b52c09500099dc890": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-15T04:01:20+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1508212947996263",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Os interessados podem cadastrar o currículo por meio do formulário disponível no link ou no whatsapp (92) 99261-3782",
    "discovered_at": "2026-10-14T18:10:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1508212947996263",
    "formats": [
     "link"
    ],
@@ -1344,20 +1352,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/85cb379a-480f-4bec-87b1-859cca3c136f.jpeg",
    "key": "guid:6acfc03b52c09500099dc890",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1508212947996263"
+   },
    "source_published_at": "2026-10-14T18:02:16+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Empresa abre vagas de emprego para nova unidade no bairro Flores",
-   "updated_at": "2026-10-14T18:10:15+00:00",
+   "updated_at": "2026-10-15T04:01:20+00:00",
    "url": "https://marioadolfo.com/empresa-abre-vagas-de-emprego-para-nova-unidade-no-bairro-flores/",
    "url_hash": "7ea302dcd2123c5dcf3dd727"
   },
   "guid:6acfc0c752c09500099dc8ad": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-15T04:00:55+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1508212584662966",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Para Estágio, a maior oferta está nas áreas de Administração, Educação, Direito e Contabilidade",
    "discovered_at": "2026-10-14T18:10:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1508212584662966",
    "formats": [
     "link"
    ],
@@ -1365,20 +1383,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f36e5e99-e371-439b-857a-b4c4cc3ecd16.jpeg",
    "key": "guid:6acfc0c752c09500099dc8ad",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1508212584662966"
+   },
    "source_published_at": "2026-10-14T18:02:06+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Expo CIEE 2026 anuncia mais de 25 mil vagas de estágio e aprendizagem",
-   "updated_at": "2026-10-14T18:10:15+00:00",
+   "updated_at": "2026-10-15T04:00:55+00:00",
    "url": "https://marioadolfo.com/expo-ciee-2026-anuncia-mais-de-25-mil-vagas-de-estagio-e-aprendizagem/",
    "url_hash": "d28c8bfccc331751ba062a41"
   },
   "guid:6acfc7da52c09500099dc8c4": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-15T04:01:47+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1508213234662901",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "A sentença, proferida na terça-feira (13/10), estabelece que Agenor Tupinambá entregue o animal no prazo de 30 dias, conforme a comunicação oficial da decisão.",
    "discovered_at": "2026-10-14T18:30:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1508213234662901",
    "formats": [
     "link"
    ],
@@ -1386,20 +1414,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/67b74848-5669-482b-af9f-464af550eae9.jpeg",
    "key": "guid:6acfc7da52c09500099dc8c4",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1508213234662901"
+   },
    "source_published_at": "2026-10-14T18:21:38+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Joana Darc repudia decisão que determina retorno da capivara Filó ao Cetas do Ibama",
-   "updated_at": "2026-10-14T18:30:18+00:00",
+   "updated_at": "2026-10-15T04:01:47+00:00",
    "url": "https://marioadolfo.com/joana-darc-repudia-decisao-que-determina-retorno-da-capivara-filo-ao-cetas-do-ibama/",
    "url_hash": "805d1bde7530716de86ad21a"
   },
   "guid:6acfc8dc52c09500099dc8db": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-15T04:02:12+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1508213487996209",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Medida é em razão da manutenção das condições desfavoráveis da qualidade do ar",
    "discovered_at": "2026-10-14T18:30:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1508213487996209",
    "formats": [
     "link"
    ],
@@ -1407,11 +1445,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/235aca7d-4aed-4f3d-96d0-0bca963b8e56.jpeg",
    "key": "guid:6acfc8dc52c09500099dc8db",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1508213487996209"
+   },
    "source_published_at": "2026-10-14T18:26:31+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Fumaça suspende atividades ao ar livre e Feirinha do Boi Manaus até domingo",
-   "updated_at": "2026-10-14T18:30:18+00:00",
+   "updated_at": "2026-10-15T04:02:12+00:00",
    "url": "https://marioadolfo.com/fumaca-suspende-atividades-ao-ar-livre-e-feirinha-do-boi-manaus-ate-domingo/",
    "url_hash": "41112fffd85d186f23940763"
   },
@@ -1605,11 +1645,19 @@
    "url_hash": "4e7d98e738c37044c9af6fc0"
   },
   "guid:6acfe5e052c09500099dc9f0": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-15T04:00:28+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1508212347996323",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Durante o desentendimento, um outro homem de 25 anos foi baleado",
    "discovered_at": "2026-10-14T20:40:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1508212347996323",
    "formats": [
     "link"
    ],
@@ -1617,11 +1665,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a44d93a5-4590-4e4f-bae8-bdd158df45ff.png",
    "key": "guid:6acfe5e052c09500099dc9f0",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1508212347996323"
+   },
    "source_published_at": "2026-10-14T18:00:00+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Cabo da PMAM é presa suspeita de matar homem em bar no bairro Alvorada",
-   "updated_at": "2026-10-14T20:40:16+00:00",
+   "updated_at": "2026-10-15T04:00:28+00:00",
    "url": "https://marioadolfo.com/cabo-da-pmam-e-presa-suspeita-de-matar-homem-em-bar-no-bairro-alvorada/",
    "url_hash": "7e08eb878a5632f1abcf3c1a"
   },
@@ -1776,8 +1826,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-15T03:50:13+00:00",
-  "saved_at": "2026-10-15T03:50:15+00:00"
+  "last_run_at": "2026-10-15T04:00:20+00:00",
+  "saved_at": "2026-10-15T04:02:12+00:00"
  },
  "schema": 1
 }
