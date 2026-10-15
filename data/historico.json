@@ -2202,13 +2202,34 @@
    "updated_at": "2026-10-15T15:00:26+00:00",
    "url": "https://marioadolfo.com/audi-fecha-concessionaria-em-manaus-e-assistencia-tecnica-mais-proxima-sera-em-brasilia/",
    "url_hash": "535ed17e2abdbb5a9d1aa3f3"
+  },
+  "guid:6ad0e89752c09500099dcc3e": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Uma densa fumaça preta tomou conta do entorno e pôde ser vista de diferentes pontos da região",
+   "discovered_at": "2026-10-15T15:10:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad0e89752c09500099dcc3e",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/3440bef4-c332-4b74-9318-24d18c248cd5.webp",
+   "key": "guid:6ad0e89752c09500099dcc3e",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-15T15:07:36+00:00",
+   "status": "pending",
+   "title": "Vídeo: incêndio atinge prédio comercial no Centro de Manaus",
+   "updated_at": "2026-10-15T15:10:18+00:00",
+   "url": "https://marioadolfo.com/video-incendio-atinge-predio-comercial-no-centro-de-manaus/",
+   "url_hash": "8467a07f418a19861d8d1fb4"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-15T15:00:26+00:00",
-  "saved_at": "2026-10-15T15:00:27+00:00"
+  "last_run_at": "2026-10-15T15:10:17+00:00",
+  "saved_at": "2026-10-15T15:10:18+00:00"
  },
  "schema": 1
 }
