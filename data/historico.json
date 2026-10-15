@@ -2433,13 +2433,34 @@
    "updated_at": "2026-10-15T18:00:23+00:00",
    "url": "https://marioadolfo.com/vereador-de-tabatinga-e-preso-por-suspeita-de-venda-de-certidoes-de-nascimento/",
    "url_hash": "3ef9ae77d73a80e050c84717"
+  },
+  "guid:6ad1156452c09500099dcd45": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Iniciativa busca assegurar assistência das comunidades afetadas, manutenção dos serviços essenciais e transparência na destinação dos recursos",
+   "discovered_at": "2026-10-15T18:10:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad1156452c09500099dcd45",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4c48e855-0228-4ece-b629-1a9bb5041dd9.jpeg",
+   "key": "guid:6ad1156452c09500099dcd45",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-15T18:07:59+00:00",
+   "status": "pending",
+   "title": "Em Manaquiri, MPAM acompanha medidas de enfrentamento à estiagem",
+   "updated_at": "2026-10-15T18:10:16+00:00",
+   "url": "https://marioadolfo.com/em-manaquiri-mpam-acompanha-medidas-de-enfrentamento-a-estiagem/",
+   "url_hash": "dbe2c91fc1dce976e8ccd796"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-15T18:00:21+00:00",
-  "saved_at": "2026-10-15T18:00:23+00:00"
+  "last_run_at": "2026-10-15T18:10:16+00:00",
+  "saved_at": "2026-10-15T18:10:18+00:00"
  },
  "schema": 1
 }
