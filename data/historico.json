@@ -2265,13 +2265,34 @@
    "updated_at": "2026-10-15T17:00:22+00:00",
    "url": "https://marioadolfo.com/omar-propoe-tecnologia-e-brigadas-para-combater-queimadas-no-interior-do-amazonas/",
    "url_hash": "ea8ef2713384171ff807c421"
+  },
+  "guid:6ad1072152c09500099dcc7e": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Devastação alcançou 693 mil hectares entre 1985 e 2025",
+   "discovered_at": "2026-10-15T17:10:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad1072152c09500099dcc7e",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ff0b989e-362f-44cc-aac1-e4d347d389e0.webp",
+   "key": "guid:6ad1072152c09500099dcc7e",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-15T17:04:56+00:00",
+   "status": "pending",
+   "title": "MapBiomas: Amazônia registra menor nível de desmatamento em 41 anos",
+   "updated_at": "2026-10-15T17:10:16+00:00",
+   "url": "https://marioadolfo.com/mapbiomas-amazonia-registra-menor-nivel-de-desmatamento-em-41-anos/",
+   "url_hash": "53e6c58f46ab7ceb98d02d15"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-15T17:00:20+00:00",
-  "saved_at": "2026-10-15T17:00:23+00:00"
+  "last_run_at": "2026-10-15T17:10:15+00:00",
+  "saved_at": "2026-10-15T17:10:17+00:00"
  },
  "schema": 1
 }
