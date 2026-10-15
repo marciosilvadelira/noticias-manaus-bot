@@ -1456,11 +1456,19 @@
    "url_hash": "41112fffd85d186f23940763"
   },
   "guid:6acfc96d52c09500099dc8f6": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-15T04:10:24+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1508218664662358",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Decisão do ministro Marco Aurélio Bellizze deve ser cumprida em 24h",
    "discovered_at": "2026-10-14T18:30:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1508218664662358",
    "formats": [
     "link"
    ],
@@ -1468,20 +1476,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2141f0f9-ad66-4af3-8926-944c91b093a1.jpg",
    "key": "guid:6acfc96d52c09500099dc8f6",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1508218664662358"
+   },
    "source_published_at": "2026-10-14T18:28:33+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "TSE ordena que Flávio e Nikolas removam vídeo de crianças contra Lula",
-   "updated_at": "2026-10-14T18:30:18+00:00",
+   "updated_at": "2026-10-15T04:10:24+00:00",
    "url": "https://marioadolfo.com/tse-ordena-que-flavio-e-nikolas-removam-video-de-criancas-contra-lula/",
    "url_hash": "159ea0a281e48f2c7b904c00"
   },
   "guid:6acfd44a52c09500099dc90c": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-15T04:10:53+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1508218941328997",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Iniciativa será realizada no dia 26 de outubro e também arrecadará alimentos para a Rede Feminina de Combate ao Câncer",
    "discovered_at": "2026-10-14T19:20:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1508218941328997",
    "formats": [
     "link"
    ],
@@ -1489,20 +1507,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/435ee5b9-deba-469c-a1f4-c37dbc5f19b5.jpeg",
    "key": "guid:6acfd44a52c09500099dc90c",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1508218941328997"
+   },
    "source_published_at": "2026-10-14T19:14:14+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Campanha arrecada doação de cabelo para mulheres em tratamento contra o câncer",
-   "updated_at": "2026-10-14T19:20:15+00:00",
+   "updated_at": "2026-10-15T04:10:53+00:00",
    "url": "https://marioadolfo.com/campanha-arrecada-doacao-de-cabelo-para-mulheres-em-tratamento-contra-o-cancer/",
    "url_hash": "8180a98ea34edfd67625a84a"
   },
   "guid:6acfd4b252c09500099dc923": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-15T04:11:21+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1508219194662305",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Decreto abre mecanismos de fomento cultural aos produtores de games",
    "discovered_at": "2026-10-14T19:20:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1508219194662305",
    "formats": [
     "link"
    ],
@@ -1510,20 +1538,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0c7bc517-afab-436d-9c36-ca2145d97741.jpg",
    "key": "guid:6acfd4b252c09500099dc923",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1508219194662305"
+   },
    "source_published_at": "2026-10-14T19:18:11+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Governo federal regulamenta Marco Legal dos Jogos Eletrônicos",
-   "updated_at": "2026-10-14T19:20:15+00:00",
+   "updated_at": "2026-10-15T04:11:21+00:00",
    "url": "https://marioadolfo.com/governo-federal-regulamenta-marco-legal-dos-jogos-eletronicos/",
    "url_hash": "da0afbc173159c816d6bd19a"
   },
   "guid:6acfd9e152c09500099dc938": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-15T04:11:50+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1508219517995606",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Candidata a vice-governadora afirma ter sido intimidada por gesto de degola nos bastidores da TV Norte/SBT; deputado federal eleito nega ameaça, enquanto Assembleia cobra apuração dos fatos",
    "discovered_at": "2026-10-14T19:50:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1508219517995606",
    "formats": [
     "link"
    ],
@@ -1531,11 +1569,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5a607900-c3c2-4f09-a569-bd41f7b3f88a.jpg",
    "key": "guid:6acfd9e152c09500099dc938",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1508219517995606"
+   },
    "source_published_at": "2026-10-14T19:41:01+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "”Pensaram que iam me intimidar, mas aumentaram a minha coragem”, diz Alessandra Campelo após episódio com Kidson e Salazar",
-   "updated_at": "2026-10-14T19:50:16+00:00",
+   "updated_at": "2026-10-15T04:11:50+00:00",
    "url": "https://marioadolfo.com/pensaram-que-iam-me-intimidar-mas-aumentaram-a-minha-coragem-diz-alessandra-campelo-apos-episodio-com-kidson-e-salazar/",
    "url_hash": "0c3b1db8caa76175f52c8242"
   },
@@ -1561,11 +1601,19 @@
    "url_hash": "8ab59aee044bf94fad1dee4d"
   },
   "guid:6acfdd2a52c09500099dc961": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-15T04:12:17+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1508219787995579",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Conforme a denúncia, os abusos contra a vítima ocorreram entre março de 2023 e maio de 2024",
    "discovered_at": "2026-10-14T20:00:19+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1508219787995579",
    "formats": [
     "link"
    ],
@@ -1573,11 +1621,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4835cd41-2c49-4a6a-908d-7055142c746c.jpg",
    "key": "guid:6acfdd2a52c09500099dc961",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1508219787995579"
+   },
    "source_published_at": "2026-10-14T19:52:25+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Justiça condena mulher por estupro de vulnerável em Itacoatiara",
-   "updated_at": "2026-10-14T20:00:19+00:00",
+   "updated_at": "2026-10-15T04:12:17+00:00",
    "url": "https://marioadolfo.com/justica-condena-mulher-por-estupro-de-vulneravel-em-itacoatiara/",
    "url_hash": "4dfb597989bd7e8e6c141ff7"
   },
@@ -1826,8 +1876,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-15T04:00:20+00:00",
-  "saved_at": "2026-10-15T04:02:12+00:00"
+  "last_run_at": "2026-10-15T04:10:15+00:00",
+  "saved_at": "2026-10-15T04:12:17+00:00"
  },
  "schema": 1
 }
