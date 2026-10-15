@@ -2140,6 +2140,27 @@
    "url": "https://marioadolfo.com/pf-faz-quatro-operacoes-contra-abuso-sexual-infantojuvenil-em-manaus/",
    "url_hash": "b3f55405b5680bfce2c11da4"
   },
+  "guid:6ad0e05d52c09500099dcbe3": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A 20ª edição reconheceu artistas e espetáculos nas mostras Jurupari Infâncias e Adulto, após duas semanas de programação gratuita em teatros, praças e espaços culturais de Manaus",
+   "discovered_at": "2026-10-15T15:50:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad0e05d52c09500099dcbe3",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c730de60-96ee-4014-91f7-d396cf5e78c0.jpg",
+   "key": "guid:6ad0e05d52c09500099dcbe3",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-15T15:43:39+00:00",
+   "status": "pending",
+   "title": "Conheça os vencedores do Festival de Teatro da Amazônia 2026",
+   "updated_at": "2026-10-15T15:50:17+00:00",
+   "url": "https://marioadolfo.com/conheca-os-vencedores-do-festival-de-teatro-da-amazonia-2026/",
+   "url_hash": "5c2782c661ab503d14c84a4b"
+  },
   "guid:6ad0e54c52c09500099dcbf2": {
    "attempts": [],
    "category": "Amazonas",
@@ -2228,8 +2249,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-15T15:40:15+00:00",
-  "saved_at": "2026-10-15T15:40:16+00:00"
+  "last_run_at": "2026-10-15T15:50:17+00:00",
+  "saved_at": "2026-10-15T15:50:18+00:00"
  },
  "schema": 1
 }
