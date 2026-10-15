@@ -2181,13 +2181,34 @@
    "updated_at": "2026-10-15T14:50:18+00:00",
    "url": "https://marioadolfo.com/solar-coca-cola-abre-mais-de-90-vagas-de-emprego-no-amazonas/",
    "url_hash": "9c428ae337d44c13c8a9fa7c"
+  },
+  "guid:6ad0e82152c09500099dcc27": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Encerramento da unidade autorizada na capital amazonense amplia a preocupação dos proprietários de veículos de luxo",
+   "discovered_at": "2026-10-15T15:00:26+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad0e82152c09500099dcc27",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e7ba2558-9287-4a25-b998-fd37d45e903d.jpeg",
+   "key": "guid:6ad0e82152c09500099dcc27",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-15T14:51:35+00:00",
+   "status": "pending",
+   "title": "Audi fecha concessionária em Manaus e assistência técnica mais próxima será em Brasília",
+   "updated_at": "2026-10-15T15:00:26+00:00",
+   "url": "https://marioadolfo.com/audi-fecha-concessionaria-em-manaus-e-assistencia-tecnica-mais-proxima-sera-em-brasilia/",
+   "url_hash": "535ed17e2abdbb5a9d1aa3f3"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-15T14:50:16+00:00",
-  "saved_at": "2026-10-15T14:50:19+00:00"
+  "last_run_at": "2026-10-15T15:00:26+00:00",
+  "saved_at": "2026-10-15T15:00:27+00:00"
  },
  "schema": 1
 }
