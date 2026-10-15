@@ -2097,13 +2097,34 @@
    "updated_at": "2026-10-15T14:00:21+00:00",
    "url": "https://marioadolfo.com/dito-feito-para-boa-entendedora-meio-gesto-basta/",
    "url_hash": "7de411c98b01e3bd29cdcf02"
+  },
+  "guid:6ad0dbcf52c09500099dcbb7": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Tribunal alerta gestores municipais e defende integração entre instituições diante dos impactos dos incêndios e da seca nos 62 municípios do estado.",
+   "discovered_at": "2026-10-15T14:10:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad0dbcf52c09500099dcbb7",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b29ec73f-1324-4c57-8269-5a5ffe527488.jpeg",
+   "key": "guid:6ad0dbcf52c09500099dcbb7",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-15T14:02:06+00:00",
+   "status": "pending",
+   "title": "TCE-AM reforça atuação institucional no enfrentamento às queimadas e à estiagem",
+   "updated_at": "2026-10-15T14:10:18+00:00",
+   "url": "https://marioadolfo.com/tce-am-reforca-atuacao-institucional-no-enfrentamento-as-queimadas-e-a-estiagem/",
+   "url_hash": "048c21f5c5a271c42578be53"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-15T14:00:21+00:00",
-  "saved_at": "2026-10-15T14:00:22+00:00"
+  "last_run_at": "2026-10-15T14:10:17+00:00",
+  "saved_at": "2026-10-15T14:10:19+00:00"
  },
  "schema": 1
 }
