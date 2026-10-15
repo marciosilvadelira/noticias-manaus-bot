@@ -2034,13 +2034,34 @@
    "updated_at": "2026-10-15T11:50:20+00:00",
    "url": "https://marioadolfo.com/prefeitura-de-manaus-divulga-resultado-do-programa-bolsa-universidade-2027/",
    "url_hash": "2d1e06525916496138d493e3"
+  },
+  "guid:6ad0358752c09500099dcb33": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Com a mudança na legislação, o trabalhador agora terá dois dias de folga na semana, para cada cinco trabalhados, sem redução de salário.",
+   "discovered_at": "2026-10-15T11:53:33+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad0358752c09500099dcb33",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/16bddb16-2e61-483b-be26-8efb24318451.jpg",
+   "key": "guid:6ad0358752c09500099dcb33",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-15T11:50:49+00:00",
+   "status": "pending",
+   "title": "Fim da 6x1: saiba quando entra em vigor nova jornada de trabalho",
+   "updated_at": "2026-10-15T11:53:33+00:00",
+   "url": "https://marioadolfo.com/fim-da-6x1-saiba-quando-entra-em-vigor-nova-jornada-de-trabalho/",
+   "url_hash": "140b0e517d70fbdf6a9f6e03"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-15T11:50:17+00:00",
-  "saved_at": "2026-10-15T11:50:20+00:00"
+  "last_run_at": "2026-10-15T11:53:33+00:00",
+  "saved_at": "2026-10-15T11:53:34+00:00"
  },
  "schema": 1
 }
