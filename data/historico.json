@@ -2139,13 +2139,34 @@
    "updated_at": "2026-10-15T14:20:18+00:00",
    "url": "https://marioadolfo.com/pf-faz-quatro-operacoes-contra-abuso-sexual-infantojuvenil-em-manaus/",
    "url_hash": "b3f55405b5680bfce2c11da4"
+  },
+  "guid:6ad0e54c52c09500099dcbf2": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Anúncio foi feito nesta quinta-feira (15/10), Dia do Professor, e contempla professores, pedagogos e servidores administrativos da rede estadual de ensino",
+   "discovered_at": "2026-10-15T14:40:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad0e54c52c09500099dcbf2",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/19b8a16a-64b1-46c1-a064-67e5b0c2c709.jpeg",
+   "key": "guid:6ad0e54c52c09500099dcbf2",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-15T14:40:06+00:00",
+   "status": "pending",
+   "title": "Governo do AM confirma abono do Fundeb para servidores da educação em 2026",
+   "updated_at": "2026-10-15T14:40:16+00:00",
+   "url": "https://marioadolfo.com/governo-do-am-confirma-abono-do-fundeb-para-servidores-da-educacao-em-2026/",
+   "url_hash": "d57a56373c631d97c47c6d7b"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-15T14:30:19+00:00",
-  "saved_at": "2026-10-15T14:30:21+00:00"
+  "last_run_at": "2026-10-15T14:40:15+00:00",
+  "saved_at": "2026-10-15T14:40:17+00:00"
  },
  "schema": 1
 }
