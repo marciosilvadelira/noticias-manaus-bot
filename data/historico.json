@@ -1708,13 +1708,34 @@
    "updated_at": "2026-10-14T21:30:36+00:00",
    "url": "https://marioadolfo.com/mpf-2/",
    "url_hash": "fb535e0977291d7021d4587f"
+  },
+  "guid:6ad016a452c09500099dcaaa": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Proposta precisa ser aprovada em dois turnos",
+   "discovered_at": "2026-10-15T00:00:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad016a452c09500099dcaaa",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/bc540025-1f41-4107-bcbb-a22d5b422d52.webp",
+   "key": "guid:6ad016a452c09500099dcaaa",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-14T23:58:09+00:00",
+   "status": "pending",
+   "title": "Senado vota PEC pelo fim da escala 6x1",
+   "updated_at": "2026-10-15T00:00:21+00:00",
+   "url": "https://marioadolfo.com/senado-vota-pec-pelo-fim-da-escala-6x1/",
+   "url_hash": "c93881dcdb74647f7c6cdbee"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-14T23:50:14+00:00",
-  "saved_at": "2026-10-14T23:50:16+00:00"
+  "last_run_at": "2026-10-15T00:00:20+00:00",
+  "saved_at": "2026-10-15T00:00:22+00:00"
  },
  "schema": 1
 }
