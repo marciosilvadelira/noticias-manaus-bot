@@ -1750,13 +1750,34 @@
    "updated_at": "2026-10-15T00:10:14+00:00",
    "url": "https://marioadolfo.com/eduardo-braga-defende-o-fim-da-escala-6x1-e-bem-estar-para-o-trabalhador/",
    "url_hash": "61c54f10e2478b09dbb52a04"
+  },
+  "guid:6ad028f152c09500099dcae5": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "PEC garante dois dias de descanso semanal e reduz gradualmente a jornada de 44 para 40 horas, sem redução salarial",
+   "discovered_at": "2026-10-15T01:20:12+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad028f152c09500099dcae5",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6534130a-7147-473e-93a0-716279b14cb9.jpg",
+   "key": "guid:6ad028f152c09500099dcae5",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-15T01:17:42+00:00",
+   "status": "pending",
+   "title": "Senado aprova fim da escala 6x1 e mais tempo de descanso aos trabalhadores sem redução de salário",
+   "updated_at": "2026-10-15T01:20:12+00:00",
+   "url": "https://marioadolfo.com/senado-aprova-fim-da-escala-6x1-e-mais-tempo-de-descanso-aos-trabalhadores-sem-reducao-de-salario/",
+   "url_hash": "ad5fa844fa45a68806c16bc3"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-15T01:10:13+00:00",
-  "saved_at": "2026-10-15T01:10:14+00:00"
+  "last_run_at": "2026-10-15T01:20:12+00:00",
+  "saved_at": "2026-10-15T01:20:13+00:00"
  },
  "schema": 1
 }
