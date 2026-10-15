@@ -2118,13 +2118,34 @@
    "updated_at": "2026-10-15T14:10:18+00:00",
    "url": "https://marioadolfo.com/tce-am-reforca-atuacao-institucional-no-enfrentamento-as-queimadas-e-a-estiagem/",
    "url_hash": "048c21f5c5a271c42578be53"
+  },
+  "guid:6ad0df5d52c09500099dcbcc": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Ações cumpriram quatro mandados de busca e apreensão e um de prisão preventiva; dois investigados foram presos em flagrante",
+   "discovered_at": "2026-10-15T14:20:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad0df5d52c09500099dcbcc",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/1897c89b-0ce0-4424-91e2-00106cd98c09.jpg",
+   "key": "guid:6ad0df5d52c09500099dcbcc",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-15T14:15:09+00:00",
+   "status": "pending",
+   "title": "PF faz quatro operações contra abuso sexual infantojuvenil em Manaus",
+   "updated_at": "2026-10-15T14:20:18+00:00",
+   "url": "https://marioadolfo.com/pf-faz-quatro-operacoes-contra-abuso-sexual-infantojuvenil-em-manaus/",
+   "url_hash": "b3f55405b5680bfce2c11da4"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-15T14:10:17+00:00",
-  "saved_at": "2026-10-15T14:10:19+00:00"
+  "last_run_at": "2026-10-15T14:20:18+00:00",
+  "saved_at": "2026-10-15T14:20:19+00:00"
  },
  "schema": 1
 }
