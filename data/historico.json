@@ -1580,11 +1580,19 @@
    "url_hash": "0c3b1db8caa76175f52c8242"
   },
   "guid:6acfdcf752c09500099dc95d": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-15T04:20:21+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1508224471328444",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Arrecadação de donativos ocorre até 19 de outubro; confira os locais",
    "discovered_at": "2026-10-14T20:00:19+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1508224471328444",
    "formats": [
     "link"
    ],
@@ -1592,11 +1600,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a2e5b50f-5a8a-4943-89f9-83d27815c429.png",
    "key": "guid:6acfdcf752c09500099dc95d",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1508224471328444"
+   },
    "source_published_at": "2026-10-14T19:55:58+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "TJAM promove campanha solidária para ajudar vítimas de incêndios florestais no Amazonas",
-   "updated_at": "2026-10-14T20:00:19+00:00",
+   "updated_at": "2026-10-15T04:20:21+00:00",
    "url": "https://marioadolfo.com/tjam-promove-campanha-solidaria-para-ajudar-vitimas-de-incendios-florestais-no-amazonas/",
    "url_hash": "8ab59aee044bf94fad1dee4d"
   },
@@ -1632,11 +1642,19 @@
    "url_hash": "4dfb597989bd7e8e6c141ff7"
   },
   "guid:6acfddfc52c09500099dc981": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-15T04:20:46+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1508224737995084",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Mulher aparece pedindo ajuda antes de conseguir escapar, enquanto a criança permanece com o pai dentro da residência",
    "discovered_at": "2026-10-14T20:10:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1508224737995084",
    "formats": [
     "link"
    ],
@@ -1644,20 +1662,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5c0b2a43-1859-40d8-9570-bc0fee06b777.png",
    "key": "guid:6acfddfc52c09500099dc981",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1508224737995084"
+   },
    "source_published_at": "2026-10-14T20:04:09+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Vídeo registra fuga de mulher ameaçada pelo ex-companheiro antes de filho ser feito refém",
-   "updated_at": "2026-10-14T20:10:17+00:00",
+   "updated_at": "2026-10-15T04:20:46+00:00",
    "url": "https://marioadolfo.com/video-registra-fuga-de-mulher-ameacada-pelo-ex-companheiro-antes-de-filho-ser-feito-refem/",
    "url_hash": "f85219225bd0a814ba7bad3c"
   },
   "guid:6acfe04f52c09500099dc9b4": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-15T04:21:12+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1508225037995054",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Defensoria Pública e Procon Manaus iniciaram fiscalizações para verificar o cumprimento de recomendação sobre proteção de dados pessoais",
    "discovered_at": "2026-10-14T20:10:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1508225037995054",
    "formats": [
     "link"
    ],
@@ -1665,20 +1693,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/9952706f-669a-46ec-b060-6a56193c2a2c.jpeg",
    "key": "guid:6acfe04f52c09500099dc9b4",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1508225037995054"
+   },
    "source_published_at": "2026-10-14T20:05:49+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Gravação de conversas em farmácia acende alerta sobre privacidade de consumidores",
-   "updated_at": "2026-10-14T20:10:17+00:00",
+   "updated_at": "2026-10-15T04:21:12+00:00",
    "url": "https://marioadolfo.com/gravacao-de-conversas-em-farmacia-acende-alerta-sobre-privacidade-de-consumidores/",
    "url_hash": "f2d4ed66514b645d7f28a32b"
   },
   "guid:6acfe44152c09500099dc9cf": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-15T04:21:37+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1508225267995031",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Policiais civis resgataram o suspeito de um cativeiro no bairro São José. A ação policial impediu a execução do investigado",
    "discovered_at": "2026-10-14T20:30:22+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1508225267995031",
    "formats": [
     "link"
    ],
@@ -1686,11 +1724,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b2270ab7-e910-45f5-ba01-d9a62a99b8f0.jpg",
    "key": "guid:6acfe44152c09500099dc9cf",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1508225267995031"
+   },
    "source_published_at": "2026-10-14T20:25:25+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Vídeo: suspeito de matar massoterapeuta a facadas é preso em Manaus",
-   "updated_at": "2026-10-14T20:30:22+00:00",
+   "updated_at": "2026-10-15T04:21:37+00:00",
    "url": "https://marioadolfo.com/video-suspeito-de-matar-massoterapeuta-a-facadas-e-preso-em-manaus/",
    "url_hash": "4e7d98e738c37044c9af6fc0"
   },
@@ -1726,11 +1766,19 @@
    "url_hash": "7e08eb878a5632f1abcf3c1a"
   },
   "guid:6acfe6c052c09500099dca0d": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-15T04:22:02+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1508225561328335",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Algoritmo estaria enviesado para beneficiar Flávio Bolsonaro",
    "discovered_at": "2026-10-14T20:40:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1508225561328335",
    "formats": [
     "link"
    ],
@@ -1738,11 +1786,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/12f11c2c-b878-4c35-be29-55a900d07346.jpg",
    "key": "guid:6acfe6c052c09500099dca0d",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1508225561328335"
+   },
    "source_published_at": "2026-10-14T20:34:23+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Coligação de Lula vai ao TSE após IA da Meta restringir buscas e postagens",
-   "updated_at": "2026-10-14T20:40:16+00:00",
+   "updated_at": "2026-10-15T04:22:02+00:00",
    "url": "https://marioadolfo.com/coligacao-de-lula-vai-ao-tse-apos-ia-da-meta-restringir-buscas-e-postagens/",
    "url_hash": "d3334d24efd3b62d5f1c27dc"
   },
@@ -1876,8 +1926,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-15T04:10:15+00:00",
-  "saved_at": "2026-10-15T04:12:17+00:00"
+  "last_run_at": "2026-10-15T04:20:13+00:00",
+  "saved_at": "2026-10-15T04:22:02+00:00"
  },
  "schema": 1
 }
