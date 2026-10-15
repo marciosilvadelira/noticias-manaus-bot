@@ -2454,13 +2454,34 @@
    "updated_at": "2026-10-15T18:10:16+00:00",
    "url": "https://marioadolfo.com/em-manaquiri-mpam-acompanha-medidas-de-enfrentamento-a-estiagem/",
    "url_hash": "dbe2c91fc1dce976e8ccd796"
+  },
+  "guid:6ad116ce52c09500099dcd6b": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "“Menos da Metade” retrata a beleza e a resistência do Cerrado e propõe uma reflexão que também dialoga com a realidade amazônica; apresentação aberta ao público será no dia 20 de outubro, às 20h",
+   "discovered_at": "2026-10-15T18:20:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad116ce52c09500099dcd6b",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/617be4e6-deae-400f-b2bf-e4b45fe030e3.jpeg",
+   "key": "guid:6ad116ce52c09500099dcd6b",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-15T18:12:02+00:00",
+   "status": "pending",
+   "title": "Espetáculo no Teatro Amazonas provoca reflexão sobre a devastação ambiental",
+   "updated_at": "2026-10-15T18:20:19+00:00",
+   "url": "https://marioadolfo.com/espetaculo-no-teatro-amazonas-provoca-reflexao-sobre-a-devastacao-ambiental/",
+   "url_hash": "fe150f4a72f6b1a50aedc5ca"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-15T18:10:16+00:00",
-  "saved_at": "2026-10-15T18:10:18+00:00"
+  "last_run_at": "2026-10-15T18:20:18+00:00",
+  "saved_at": "2026-10-15T18:20:20+00:00"
  },
  "schema": 1
 }
