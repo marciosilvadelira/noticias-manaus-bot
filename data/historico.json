@@ -1729,13 +1729,34 @@
    "updated_at": "2026-10-15T00:00:21+00:00",
    "url": "https://marioadolfo.com/senado-vota-pec-pelo-fim-da-escala-6x1/",
    "url_hash": "c93881dcdb74647f7c6cdbee"
+  },
+  "guid:6ad017b652c09500099dcacb": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Senador relatou a rotina do trabalhador amazonense, defende a jornada de 40 horas com a escala 5x2 e cobra equilíbrio econômico para o setor produtivo",
+   "discovered_at": "2026-10-15T00:10:14+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad017b652c09500099dcacb",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0903397a-e192-4196-98ab-84cf91db4415.jpeg",
+   "key": "guid:6ad017b652c09500099dcacb",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-15T00:07:28+00:00",
+   "status": "pending",
+   "title": "Eduardo Braga defende o fim da escala 6x1 e bem-estar para o trabalhador",
+   "updated_at": "2026-10-15T00:10:14+00:00",
+   "url": "https://marioadolfo.com/eduardo-braga-defende-o-fim-da-escala-6x1-e-bem-estar-para-o-trabalhador/",
+   "url_hash": "61c54f10e2478b09dbb52a04"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-15T00:00:20+00:00",
-  "saved_at": "2026-10-15T00:00:22+00:00"
+  "last_run_at": "2026-10-15T00:10:13+00:00",
+  "saved_at": "2026-10-15T00:10:15+00:00"
  },
  "schema": 1
 }
