@@ -2517,13 +2517,34 @@
    "updated_at": "2026-10-15T20:40:16+00:00",
    "url": "https://marioadolfo.com/eneva-amplia-projeto-de-biodigestores-com-novas-entregas-em-escolas-de-itapiranga-e-silves/",
    "url_hash": "5b8457a7d89b954ed874e821"
+  },
+  "guid:6ad1551752c09500099dcdc1": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Documento, assinado por 20 integrantes da Assembleia Constituinte, alerta para riscos de mudanças nos direitos e garantias constitucionais e convoca a população a participar da mobilização.",
+   "discovered_at": "2026-10-15T22:40:14+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad1551752c09500099dcdc1",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4b9a2aaa-0fdc-4df2-9073-b940d619dc9a.webp",
+   "key": "guid:6ad1551752c09500099dcdc1",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-15T22:38:02+00:00",
+   "status": "pending",
+   "title": "Constituintes de 1988 lançam carta e abaixo-assinado em defesa da Constituição e da democracia",
+   "updated_at": "2026-10-15T22:40:14+00:00",
+   "url": "https://marioadolfo.com/constituintes-de-1988-lancam-carta-e-abaixo-assinado-em-defesa-da-constituicao-e-da-democracia/",
+   "url_hash": "ef5b537abdf047951447d58b"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-15T22:30:19+00:00",
-  "saved_at": "2026-10-15T22:30:21+00:00"
+  "last_run_at": "2026-10-15T22:40:14+00:00",
+  "saved_at": "2026-10-15T22:40:15+00:00"
  },
  "schema": 1
 }
