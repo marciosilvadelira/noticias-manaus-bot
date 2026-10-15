@@ -2412,13 +2412,34 @@
    "updated_at": "2026-10-15T17:50:15+00:00",
    "url": "https://marioadolfo.com/venezuelano-e-espancado-apos-suspeita-de-assalto-no-sao-francisco/",
    "url_hash": "8a37aedf968081eab90662bd"
+  },
+  "guid:6ad111d352c09500099dcd2e": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Um dos mandados de busca e apreensão foi cumprido no gabinete do vereador Tiago da Silva Ramos (PSDB)",
+   "discovered_at": "2026-10-15T18:00:23+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad111d352c09500099dcd2e",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6699f1a3-a67e-4476-a31a-bdc78f5f406f.jpeg",
+   "key": "guid:6ad111d352c09500099dcd2e",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-15T17:55:29+00:00",
+   "status": "pending",
+   "title": "Vereador de Tabatinga é preso por suspeita de venda de certidões de nascimento",
+   "updated_at": "2026-10-15T18:00:23+00:00",
+   "url": "https://marioadolfo.com/vereador-de-tabatinga-e-preso-por-suspeita-de-venda-de-certidoes-de-nascimento/",
+   "url_hash": "3ef9ae77d73a80e050c84717"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-15T17:50:15+00:00",
-  "saved_at": "2026-10-15T17:50:16+00:00"
+  "last_run_at": "2026-10-15T18:00:21+00:00",
+  "saved_at": "2026-10-15T18:00:23+00:00"
  },
  "schema": 1
 }
