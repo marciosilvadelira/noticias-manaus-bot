@@ -2055,13 +2055,34 @@
    "updated_at": "2026-10-15T11:53:33+00:00",
    "url": "https://marioadolfo.com/fim-da-6x1-saiba-quando-entra-em-vigor-nova-jornada-de-trabalho/",
    "url_hash": "140b0e517d70fbdf6a9f6e03"
+  },
+  "guid:6ad0d33b52c09500099dcb4f": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Justiça Eleitoral altera embarcações e modais terrestres para garantir o funcionamento de todas as seções no segundo turno",
+   "discovered_at": "2026-10-15T13:30:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad0d33b52c09500099dcb4f",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/bddc9315-d5b5-4e7e-b8ea-88975f4d63d2.jpg",
+   "key": "guid:6ad0d33b52c09500099dcb4f",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-15T13:24:24+00:00",
+   "status": "pending",
+   "title": "Mudança de transportes e manutenção de seções garantem urnas no interior do AM",
+   "updated_at": "2026-10-15T13:30:21+00:00",
+   "url": "https://marioadolfo.com/mudanca-de-transportes-e-manutencao-de-secoes-garantem-urnas-no-interior-do-am/",
+   "url_hash": "8f86cdd1ea35c45d89d79358"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-15T13:20:15+00:00",
-  "saved_at": "2026-10-15T13:20:17+00:00"
+  "last_run_at": "2026-10-15T13:30:20+00:00",
+  "saved_at": "2026-10-15T13:30:21+00:00"
  },
  "schema": 1
 }
