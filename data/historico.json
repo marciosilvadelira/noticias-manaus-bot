@@ -2221,11 +2221,19 @@
    "url_hash": "b3f55405b5680bfce2c11da4"
   },
   "guid:6ad0e05d52c09500099dcbe3": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-16T04:21:15+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1509218857895672",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "A 20ª edição reconheceu artistas e espetáculos nas mostras Jurupari Infâncias e Adulto, após duas semanas de programação gratuita em teatros, praças e espaços culturais de Manaus",
    "discovered_at": "2026-10-15T15:50:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1509218857895672",
    "formats": [
     "link"
    ],
@@ -2233,11 +2241,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c730de60-96ee-4014-91f7-d396cf5e78c0.jpg",
    "key": "guid:6ad0e05d52c09500099dcbe3",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1509218857895672"
+   },
    "source_published_at": "2026-10-15T15:43:39+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Conheça os vencedores do Festival de Teatro da Amazônia 2026",
-   "updated_at": "2026-10-15T15:50:17+00:00",
+   "updated_at": "2026-10-16T04:21:15+00:00",
    "url": "https://marioadolfo.com/conheca-os-vencedores-do-festival-de-teatro-da-amazonia-2026/",
    "url_hash": "5c2782c661ab503d14c84a4b"
   },
@@ -2304,11 +2314,19 @@
    "url_hash": "9c428ae337d44c13c8a9fa7c"
   },
   "guid:6ad0e82152c09500099dcc27": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-16T04:20:22+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1509218067895751",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Encerramento da unidade autorizada na capital amazonense amplia a preocupação dos proprietários de veículos de luxo",
    "discovered_at": "2026-10-15T15:00:26+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1509218067895751",
    "formats": [
     "link"
    ],
@@ -2316,20 +2334,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e7ba2558-9287-4a25-b998-fd37d45e903d.jpeg",
    "key": "guid:6ad0e82152c09500099dcc27",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1509218067895751"
+   },
    "source_published_at": "2026-10-15T14:51:35+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Audi fecha concessionária em Manaus e assistência técnica mais próxima será em Brasília",
-   "updated_at": "2026-10-15T15:00:26+00:00",
+   "updated_at": "2026-10-16T04:20:22+00:00",
    "url": "https://marioadolfo.com/audi-fecha-concessionaria-em-manaus-e-assistencia-tecnica-mais-proxima-sera-em-brasilia/",
    "url_hash": "535ed17e2abdbb5a9d1aa3f3"
   },
   "guid:6ad0e89752c09500099dcc3e": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-16T04:20:47+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1509218384562386",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Uma densa fumaça preta tomou conta do entorno e pôde ser vista de diferentes pontos da região",
    "discovered_at": "2026-10-15T15:10:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1509218384562386",
    "formats": [
     "link"
    ],
@@ -2337,20 +2365,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/3440bef4-c332-4b74-9318-24d18c248cd5.webp",
    "key": "guid:6ad0e89752c09500099dcc3e",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1509218384562386"
+   },
    "source_published_at": "2026-10-15T15:07:36+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Vídeo: incêndio atinge prédio comercial no Centro de Manaus",
-   "updated_at": "2026-10-15T15:10:18+00:00",
+   "updated_at": "2026-10-16T04:20:47+00:00",
    "url": "https://marioadolfo.com/video-incendio-atinge-predio-comercial-no-centro-de-manaus/",
    "url_hash": "8467a07f418a19861d8d1fb4"
   },
   "guid:6ad1061352c09500099dcc69": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-16T04:21:39+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1509219114562313",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Plano prevê monitoramento em tempo real, alertas antecipados e integração entre órgãos ambientais e de segurança",
    "discovered_at": "2026-10-15T17:00:22+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1509219114562313",
    "formats": [
     "link"
    ],
@@ -2358,20 +2396,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4800cf07-63e6-494b-81ea-3116b75fceb2.jpeg",
    "key": "guid:6ad1061352c09500099dcc69",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1509219114562313"
+   },
    "source_published_at": "2026-10-15T17:00:04+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Omar propõe tecnologia e brigadas para combater queimadas no interior do Amazonas",
-   "updated_at": "2026-10-15T17:00:22+00:00",
+   "updated_at": "2026-10-16T04:21:39+00:00",
    "url": "https://marioadolfo.com/omar-propoe-tecnologia-e-brigadas-para-combater-queimadas-no-interior-do-amazonas/",
    "url_hash": "ea8ef2713384171ff807c421"
   },
   "guid:6ad1072152c09500099dcc7e": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-16T04:22:05+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1509219637895594",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Devastação alcançou 693 mil hectares entre 1985 e 2025",
    "discovered_at": "2026-10-15T17:10:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1509219637895594",
    "formats": [
     "link"
    ],
@@ -2379,11 +2427,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ff0b989e-362f-44cc-aac1-e4d347d389e0.webp",
    "key": "guid:6ad1072152c09500099dcc7e",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1509219637895594"
+   },
    "source_published_at": "2026-10-15T17:04:56+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "MapBiomas: Amazônia registra menor nível de desmatamento em 41 anos",
-   "updated_at": "2026-10-15T17:10:16+00:00",
+   "updated_at": "2026-10-16T04:22:05+00:00",
    "url": "https://marioadolfo.com/mapbiomas-amazonia-registra-menor-nivel-de-desmatamento-em-41-anos/",
    "url_hash": "53e6c58f46ab7ceb98d02d15"
   },
@@ -2664,8 +2714,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-16T04:10:14+00:00",
-  "saved_at": "2026-10-16T04:12:01+00:00"
+  "last_run_at": "2026-10-16T04:20:14+00:00",
+  "saved_at": "2026-10-16T04:22:05+00:00"
  },
  "schema": 1
 }
