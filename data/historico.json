@@ -2990,13 +2990,34 @@
    "updated_at": "2026-10-16T15:10:15+00:00",
    "url": "https://marioadolfo.com/focos-de-incendio-no-amazonas-diminuem-apos-acao-de-forca-tarefa/",
    "url_hash": "86abf32b42d310a39cd47cb1"
+  },
+  "guid:6ad23dd652c09500099dcf25": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Vítima foi socorrida e encaminhada ao Hospital e Pronto-Socorro Platão Araújo; estado de saúde não foi informado.",
+   "discovered_at": "2026-10-16T15:20:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad23dd652c09500099dcf25",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5032f1b3-7a81-4121-b8bb-af71f8a75cd9.jpeg",
+   "key": "guid:6ad23dd652c09500099dcf25",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-16T15:12:19+00:00",
+   "status": "pending",
+   "title": "Homem é ferido a facadas na avenida Autaz Mirim",
+   "updated_at": "2026-10-16T15:20:16+00:00",
+   "url": "https://marioadolfo.com/homem-e-ferido-a-facadas-na-avenida-autaz-mirim/",
+   "url_hash": "0bab57b3a879b0bb919859c7"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-16T15:10:15+00:00",
-  "saved_at": "2026-10-16T15:10:16+00:00"
+  "last_run_at": "2026-10-16T15:20:15+00:00",
+  "saved_at": "2026-10-16T15:20:17+00:00"
  },
  "schema": 1
 }
