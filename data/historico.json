@@ -3011,13 +3011,55 @@
    "updated_at": "2026-10-16T15:20:16+00:00",
    "url": "https://marioadolfo.com/homem-e-ferido-a-facadas-na-avenida-autaz-mirim/",
    "url_hash": "0bab57b3a879b0bb919859c7"
+  },
+  "guid:6ad23f2452c09500099dcf40": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "De acordo com informações preliminares, as vítimas apresentavam ferimentos graves de perfuração, principalmente na região da cabeça",
+   "discovered_at": "2026-10-16T15:30:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad23f2452c09500099dcf40",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d0f0939d-f3f1-4691-8e4d-26e2df3fb321.webp",
+   "key": "guid:6ad23f2452c09500099dcf40",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-16T15:25:38+00:00",
+   "status": "pending",
+   "title": "Dois homens são encontrados mortos em chácara na AM-010",
+   "updated_at": "2026-10-16T15:30:19+00:00",
+   "url": "https://marioadolfo.com/dois-homens-sao-encontrados-mortos-em-cam-010/",
+   "url_hash": "337799eeabd01b4872e2939b"
+  },
+  "guid:6ad241aa52c09500099dcf56": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Fumaça de queimadas afeta o Amazonas e governo decreta emergência.",
+   "discovered_at": "2026-10-16T15:30:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad241aa52c09500099dcf56",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6b91e8f7-f4a7-4807-8d2c-0c14664e9f21.webp",
+   "key": "guid:6ad241aa52c09500099dcf56",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-16T15:25:40+00:00",
+   "status": "pending",
+   "title": "Manaus registra pior qualidade do ar entre as capitais brasileiras",
+   "updated_at": "2026-10-16T15:30:19+00:00",
+   "url": "https://marioadolfo.com/manaus-registra-pior-qualidade-do-ar-entre-as-capitais-brasileiras/",
+   "url_hash": "2f9005843fffca8a00da5b70"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-16T15:20:15+00:00",
-  "saved_at": "2026-10-16T15:20:17+00:00"
+  "last_run_at": "2026-10-16T15:30:18+00:00",
+  "saved_at": "2026-10-16T15:30:20+00:00"
  },
  "schema": 1
 }
