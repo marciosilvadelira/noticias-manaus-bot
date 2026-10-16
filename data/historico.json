@@ -2751,12 +2751,12 @@
    "guid": "6ad1627852c09500099dcdd7",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/3fd4baa9-1b78-4f88-98be-04bd048c9488.jpeg",
    "key": "guid:6ad1627852c09500099dcdd7",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-15T23:34:24+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Pesquisa aponta aumento de R$ 0,30 no preço da gasolina comum em Manaus",
-   "updated_at": "2026-10-15T23:40:14+00:00",
+   "updated_at": "2026-10-16T23:40:14+00:00",
    "url": "https://marioadolfo.com/pesquisa-aponta-aumento-de-r-0-30-no-preco-gasolina-comum-em-manaus/",
    "url_hash": "614cb7db80055f346ac6d876"
   },
@@ -3352,8 +3352,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-16T23:30:15+00:00",
-  "saved_at": "2026-10-16T23:30:17+00:00"
+  "last_run_at": "2026-10-16T23:40:14+00:00",
+  "saved_at": "2026-10-16T23:40:15+00:00"
  },
  "schema": 1
 }
