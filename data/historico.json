@@ -2969,13 +2969,34 @@
    "updated_at": "2026-10-16T15:00:22+00:00",
    "url": "https://marioadolfo.com/manaus-oferece-vacina-antirrabica-em-27-pontos-fixos/",
    "url_hash": "a17233bfb564a7cd789847b4"
+  },
+  "guid:6ad23c8b52c09500099dcf10": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Após pico de 494 focos há 10 dias, estado contabiliza 188 focos ativos",
+   "discovered_at": "2026-10-16T15:10:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad23c8b52c09500099dcf10",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/7bf5cf00-04a9-4c20-98d8-d0d25c2e18bf.webp",
+   "key": "guid:6ad23c8b52c09500099dcf10",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-16T15:04:04+00:00",
+   "status": "pending",
+   "title": "Focos de incêndio no Amazonas diminuem após ação de força-tarefa",
+   "updated_at": "2026-10-16T15:10:15+00:00",
+   "url": "https://marioadolfo.com/focos-de-incendio-no-amazonas-diminuem-apos-acao-de-forca-tarefa/",
+   "url_hash": "86abf32b42d310a39cd47cb1"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-16T15:00:22+00:00",
-  "saved_at": "2026-10-16T15:00:23+00:00"
+  "last_run_at": "2026-10-16T15:10:15+00:00",
+  "saved_at": "2026-10-16T15:10:16+00:00"
  },
  "schema": 1
 }
