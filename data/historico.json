@@ -3179,13 +3179,76 @@
    "updated_at": "2026-10-16T17:00:20+00:00",
    "url": "https://marioadolfo.com/residentes-juridicos-e-contabeis-aprovados-em-processo-seletivo-iniciam-atividades-no-tce-am/",
    "url_hash": "747210bfa8cdc4643eb633d6"
+  },
+  "guid:6ad259f852c09500099dd020": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A vinda foi anunciada pela candidata ao Governo do Amazonas, Professora Maria do Carmo (PL)",
+   "discovered_at": "2026-10-16T17:20:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad259f852c09500099dd020",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/cc9878a3-063b-4a71-a2fe-bc5c32ee37ea.jpeg",
+   "key": "guid:6ad259f852c09500099dd020",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-16T17:10:26+00:00",
+   "status": "pending",
+   "title": "Flávio Bolsonaro vem a Manaus na segunda-feira para campanha",
+   "updated_at": "2026-10-16T17:20:17+00:00",
+   "url": "https://marioadolfo.com/flavio-bolsonaro-vem-a-manaus-na-segunda-feira-para-campanha/",
+   "url_hash": "bad99fc255aa9af86de7103f"
+  },
+  "guid:6ad25ac352c09500099dd037": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Presidente rebateu críticas contra a emenda promulgada nesta sexta-feira",
+   "discovered_at": "2026-10-16T17:20:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad25ac352c09500099dd037",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/aa9807d7-accd-4a2b-ad67-5ff9d2740271.webp",
+   "key": "guid:6ad25ac352c09500099dd037",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-16T17:13:42+00:00",
+   "status": "pending",
+   "title": "Descanso de trabalhador não quebra empresas, diz Lula após fim da 6x1",
+   "updated_at": "2026-10-16T17:20:17+00:00",
+   "url": "https://marioadolfo.com/descanso-de-trabalhador-nao-quebra-empresas-diz-lula-apos-fim-da-6x1/",
+   "url_hash": "742e54ca504c3207a342ebaf"
+  },
+  "guid:6ad25b7952c09500099dd056": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Segundo o ministério, 12 municípios precisam de suporte no SUS",
+   "discovered_at": "2026-10-16T17:20:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad25b7952c09500099dd056",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/fd3de9fb-1861-4766-ab69-423556fbbcfe.jpeg",
+   "key": "guid:6ad25b7952c09500099dd056",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-16T17:19:45+00:00",
+   "status": "pending",
+   "title": "Governo monitora saúde de amazonenses em locais afetados por queimadas",
+   "updated_at": "2026-10-16T17:20:17+00:00",
+   "url": "https://marioadolfo.com/governo-monitora-saude-de-amazonenses-em-locais-afetados-por-queimadas/",
+   "url_hash": "d3a437aa69e655befdb32c36"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-16T17:10:14+00:00",
-  "saved_at": "2026-10-16T17:10:16+00:00"
+  "last_run_at": "2026-10-16T17:20:14+00:00",
+  "saved_at": "2026-10-16T17:20:17+00:00"
  },
  "schema": 1
 }
