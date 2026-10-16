@@ -3095,13 +3095,34 @@
    "updated_at": "2026-10-16T15:40:17+00:00",
    "url": "https://marioadolfo.com/balanca-comercial-do-amazonas-movimenta-us-1-96-bilhao-em-setembro-de-2026/",
    "url_hash": "f9152c261cbf6f53da6d0e5c"
+  },
+  "guid:6ad245d252c09500099dcfb9": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "A vantagem de seis pontos percentuais que Flávio Bolsonaro tinha sobre Lula há oito dias desapareceu",
+   "discovered_at": "2026-10-16T15:50:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad245d252c09500099dcfb9",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e651b198-3484-4954-a80e-1280aadb9838.webp",
+   "key": "guid:6ad245d252c09500099dcfb9",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-16T15:43:48+00:00",
+   "status": "pending",
+   "title": "Lula alcança Flávio Bolsonaro e empata em 50%, diz PoderData",
+   "updated_at": "2026-10-16T15:50:16+00:00",
+   "url": "https://marioadolfo.com/lula-alcanca-flavio-bolsonaro-e-empata-em-50-diz-poderdata/",
+   "url_hash": "b7aec3e58ec760ac823d25c3"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-16T15:40:16+00:00",
-  "saved_at": "2026-10-16T15:40:18+00:00"
+  "last_run_at": "2026-10-16T15:50:15+00:00",
+  "saved_at": "2026-10-16T15:50:17+00:00"
  },
  "schema": 1
 }
