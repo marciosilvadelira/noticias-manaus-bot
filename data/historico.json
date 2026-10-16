@@ -2438,11 +2438,19 @@
    "url_hash": "53e6c58f46ab7ceb98d02d15"
   },
   "guid:6ad10a7452c09500099dcc93": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-16T04:30:22+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1509225791228312",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Relatório da Polícia Federal aponta que o candidato à presidência da República tinha acesso elevado à conta de holding que detinha um terço da aeronave",
    "discovered_at": "2026-10-15T17:20:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1509225791228312",
    "formats": [
     "link"
    ],
@@ -2450,20 +2458,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/8cfdb0c2-9d53-487c-8051-c6ca1a742e53.webp",
    "key": "guid:6ad10a7452c09500099dcc93",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1509225791228312"
+   },
    "source_published_at": "2026-10-15T17:17:52+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Flávio era 'usuário master' de conta ligada a jato de Vorcaro, diz PF",
-   "updated_at": "2026-10-15T17:20:17+00:00",
+   "updated_at": "2026-10-16T04:30:22+00:00",
    "url": "https://marioadolfo.com/flavio-era-usuario-master-de-conta-ligada-a-jato-de-vorcaro-diz-pf/",
    "url_hash": "0170622241129761a976726e"
   },
   "guid:6ad10b5a52c09500099dccab": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-16T04:30:47+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1509225997894958",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "MJSP envia mais 29 bombeiros e nove viaturas ao estado para atuar na mitigação dos impactos do El Niño",
    "discovered_at": "2026-10-15T17:30:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1509225997894958",
    "formats": [
     "link"
    ],
@@ -2471,20 +2489,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f19beadd-a785-4d76-b194-4faf3b3b2488.jpeg",
    "key": "guid:6ad10b5a52c09500099dccab",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1509225997894958"
+   },
    "source_published_at": "2026-10-15T17:22:13+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Governo mobiliza 160 bombeiros da Força Nacional para combater incêndios no AM",
-   "updated_at": "2026-10-15T17:30:17+00:00",
+   "updated_at": "2026-10-16T04:30:47+00:00",
    "url": "https://marioadolfo.com/governo-mobiliza-160-bombeiros-da-forca-nacional-para-combater-incendios-no-am/",
    "url_hash": "908fac2df2955cfe53e3b28c"
   },
   "guid:6ad10c6c52c09500099dccc5": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-16T04:31:12+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1509226241228267",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Procedimentos abrangem 4.013 urnas em Manaus; no interior, a preparação será realizada nos respectivos municípios",
    "discovered_at": "2026-10-15T17:30:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1509226241228267",
    "formats": [
     "link"
    ],
@@ -2492,20 +2520,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c4d817b8-1982-453c-b447-c1145dbafbbf.jpeg",
    "key": "guid:6ad10c6c52c09500099dccc5",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1509226241228267"
+   },
    "source_published_at": "2026-10-15T17:28:24+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "TRE-AM prepara urnas eletrônicas da capital para o segundo turno",
-   "updated_at": "2026-10-15T17:30:17+00:00",
+   "updated_at": "2026-10-16T04:31:12+00:00",
    "url": "https://marioadolfo.com/tre-am-prepara-urnas-eletronicas-da-capital-para-o-segundo-turno/",
    "url_hash": "0973e177fe85f9d13e77a0ca"
   },
   "guid:6ad10dec52c09500099dccdf": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-16T04:31:37+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1509226517894906",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "O público poderá acompanhar oficinas práticas, demonstrações culinárias e aulas-show com chefs premiados",
    "discovered_at": "2026-10-15T17:40:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1509226517894906",
    "formats": [
     "link"
    ],
@@ -2513,20 +2551,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b45f5713-71d3-441e-9512-02de54c2f0fb.jpeg",
    "key": "guid:6ad10dec52c09500099dccdf",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1509226517894906"
+   },
    "source_published_at": "2026-10-15T17:34:41+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Empresa reúne chefs premiados e oficinas com sabores regionais em estande na FIPA 2026",
-   "updated_at": "2026-10-15T17:40:16+00:00",
+   "updated_at": "2026-10-16T04:31:37+00:00",
    "url": "https://marioadolfo.com/empresa-reune-chefs-premiados-e-oficinas-com-sabores-regionais-em-estande-na-fipa-2026/",
    "url_hash": "29a19fea2e08d548462df115"
   },
   "guid:6ad10f1152c09500099dccf8": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-16T04:32:02+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1509226784561546",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Serasa lança série sobre renda extra com histórias de consumidores reais",
    "discovered_at": "2026-10-15T17:40:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1509226784561546",
    "formats": [
     "link"
    ],
@@ -2534,11 +2582,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4402442d-5b99-4841-a956-ef807a449de7.jpeg",
    "key": "guid:6ad10f1152c09500099dccf8",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1509226784561546"
+   },
    "source_published_at": "2026-10-15T17:39:58+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Seis em cada 10 brasileiros têm alguma fonte de renda extra, revela Serasa",
-   "updated_at": "2026-10-15T17:40:16+00:00",
+   "updated_at": "2026-10-16T04:32:02+00:00",
    "url": "https://marioadolfo.com/seis-em-cada-10-brasileiros-tem-alguma-fonte-de-renda-extra-revela-serasa/",
    "url_hash": "656d428f74da4f258d16f899"
   },
@@ -2714,8 +2764,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-16T04:20:14+00:00",
-  "saved_at": "2026-10-16T04:22:05+00:00"
+  "last_run_at": "2026-10-16T04:30:17+00:00",
+  "saved_at": "2026-10-16T04:32:02+00:00"
  },
  "schema": 1
 }
