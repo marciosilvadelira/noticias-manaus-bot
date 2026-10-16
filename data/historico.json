@@ -3305,13 +3305,34 @@
    "updated_at": "2026-10-16T18:30:20+00:00",
    "url": "https://marioadolfo.com/corrida-ao-por-do-sol-e-show-de-samuel-rosa-agitam-a-ponta-negra-em-novembro/",
    "url_hash": "183dbe20b8ef0aa0c115d3e2"
+  },
+  "guid:6ad2702252c09500099dd0c1": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Medida foi um dia após decisão conceder medidas protetivas de urgência à deputada estadual contra o deputado federal eleito",
+   "discovered_at": "2026-10-16T19:00:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad2702252c09500099dd0c1",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/10aad261-8dce-4009-86fc-48a8461b411b.jpg",
+   "key": "guid:6ad2702252c09500099dd0c1",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-16T18:51:21+00:00",
+   "status": "pending",
+   "title": "Justiça manda Salazar apagar vídeo com ataques a Alessandra Campelo",
+   "updated_at": "2026-10-16T19:00:21+00:00",
+   "url": "https://marioadolfo.com/justica-manda-salazar-apagar-video-com-ataques-a-alessandra-campelo/",
+   "url_hash": "eebc66af4bd78f9776aa2ffa"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-16T18:50:14+00:00",
-  "saved_at": "2026-10-16T18:50:15+00:00"
+  "last_run_at": "2026-10-16T19:00:19+00:00",
+  "saved_at": "2026-10-16T19:00:21+00:00"
  },
  "schema": 1
 }
