@@ -2759,13 +2759,34 @@
    "updated_at": "2026-10-15T23:40:14+00:00",
    "url": "https://marioadolfo.com/pesquisa-aponta-aumento-de-r-0-30-no-preco-gasolina-comum-em-manaus/",
    "url_hash": "614cb7db80055f346ac6d876"
+  },
+  "guid:6ad20fb552c09500099dcdf7": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Após sessão, empresas terão 60 dias para adotar escala 5x2",
+   "discovered_at": "2026-10-16T12:00:20+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad20fb552c09500099dcdf7",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d32efbbc-f88a-4e52-bdd5-152a510ada3b.jpg",
+   "key": "guid:6ad20fb552c09500099dcdf7",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-16T11:54:45+00:00",
+   "status": "pending",
+   "title": "Alcolumbre vai promulgar fim da escala 6x1 nesta sexta",
+   "updated_at": "2026-10-16T12:00:20+00:00",
+   "url": "https://marioadolfo.com/alcolumbre-vai-promulgar-fim-da-escala-6x1-nesta-sexta/",
+   "url_hash": "bd418d8c5e9f1a2885ef45c2"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-16T11:50:15+00:00",
-  "saved_at": "2026-10-16T11:50:17+00:00"
+  "last_run_at": "2026-10-16T12:00:19+00:00",
+  "saved_at": "2026-10-16T12:00:20+00:00"
  },
  "schema": 1
 }
