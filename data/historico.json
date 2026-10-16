@@ -2885,13 +2885,34 @@
    "updated_at": "2026-10-16T14:00:22+00:00",
    "url": "https://marioadolfo.com/policia-federal-incinera-777-kg-de-drogas-em-manaus/",
    "url_hash": "13e5ea155a5289a04bfd61f3"
+  },
+  "guid:6ad235b752c09500099dcebc": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Projeto IA-FogoBio, financiado pelo Google, será apresentado no dia 22 de outubro, em Manaus, e busca fortalecer a prevenção de queimadas e a preservação da biodiversidade amazônica.",
+   "discovered_at": "2026-10-16T14:40:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad235b752c09500099dcebc",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c5142c3e-392a-43ba-ae7b-efb1be3eca59.jpg",
+   "key": "guid:6ad235b752c09500099dcebc",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-16T14:39:24+00:00",
+   "status": "pending",
+   "title": "IFAM lança sistema de IA que prevê eventos de fogo com até 14 dias de antecedência",
+   "updated_at": "2026-10-16T14:40:15+00:00",
+   "url": "https://marioadolfo.com/ifam-lanca-sistema-de-ia-que-preve-eventos-de-fogo-com-ate-14-dias-de-antecedencia/",
+   "url_hash": "a4a116f678a54303edc7a11d"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-16T14:30:20+00:00",
-  "saved_at": "2026-10-16T14:30:21+00:00"
+  "last_run_at": "2026-10-16T14:40:15+00:00",
+  "saved_at": "2026-10-16T14:40:16+00:00"
  },
  "schema": 1
 }
