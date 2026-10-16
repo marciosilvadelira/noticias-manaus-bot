@@ -3158,13 +3158,34 @@
    "updated_at": "2026-10-16T16:00:20+00:00",
    "url": "https://marioadolfo.com/corpo-de-homem-que-caiu-de-flutuante-e-encontrado-no-rio-amazonas/",
    "url_hash": "e0665cfcffaa917e80357f61"
+  },
+  "guid:6ad2578452c09500099dd00b": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Ao todo, são dez residentes da área de Direito e seis de Contabilidade",
+   "discovered_at": "2026-10-16T17:00:20+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad2578452c09500099dd00b",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2bb46605-ccf5-4a72-9706-df394bed54e3.jpeg",
+   "key": "guid:6ad2578452c09500099dd00b",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-16T16:59:08+00:00",
+   "status": "pending",
+   "title": "Residentes jurídicos e contábeis aprovados em processo seletivo iniciam atividades no TCE-AM",
+   "updated_at": "2026-10-16T17:00:20+00:00",
+   "url": "https://marioadolfo.com/residentes-juridicos-e-contabeis-aprovados-em-processo-seletivo-iniciam-atividades-no-tce-am/",
+   "url_hash": "747210bfa8cdc4643eb633d6"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-16T16:50:15+00:00",
-  "saved_at": "2026-10-16T16:50:16+00:00"
+  "last_run_at": "2026-10-16T17:00:20+00:00",
+  "saved_at": "2026-10-16T17:00:21+00:00"
  },
  "schema": 1
 }
