@@ -2667,12 +2667,12 @@
    "guid": "6ad116ce52c09500099dcd6b",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/617be4e6-deae-400f-b2bf-e4b45fe030e3.jpeg",
    "key": "guid:6ad116ce52c09500099dcd6b",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-15T18:12:02+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Espetáculo no Teatro Amazonas provoca reflexão sobre a devastação ambiental",
-   "updated_at": "2026-10-15T18:20:19+00:00",
+   "updated_at": "2026-10-16T18:20:15+00:00",
    "url": "https://marioadolfo.com/espetaculo-no-teatro-amazonas-provoca-reflexao-sobre-a-devastacao-ambiental/",
    "url_hash": "fe150f4a72f6b1a50aedc5ca"
   },
@@ -3263,13 +3263,34 @@
    "updated_at": "2026-10-16T17:30:22+00:00",
    "url": "https://marioadolfo.com/br-319-ponte-sera-interditada-diariamente-para-obras-ate-22-de-outubro/",
    "url_hash": "e5545842e3d98c94b2263a1a"
+  },
+  "guid:6ad2684952c09500099dd08a": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Em Manaus, apenas 37,5% dos mais de 487 mil beneficiários realizaram o procedimento no segundo semestre de 2026.",
+   "discovered_at": "2026-10-16T18:20:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad2684952c09500099dd08a",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/1b71235f-0805-4747-997a-b4883024fbb7.jpeg",
+   "key": "guid:6ad2684952c09500099dd08a",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-16T18:10:39+00:00",
+   "status": "pending",
+   "title": "Prefeitura alerta beneficiários do Bolsa Família sobre acompanhamento de saúde",
+   "updated_at": "2026-10-16T18:20:15+00:00",
+   "url": "https://marioadolfo.com/prefeitura-alerta-beneficiarios-do-bolsa-familia-sobre-acompanhamento-de-saude/",
+   "url_hash": "3b30b768e17db5a3a783cff9"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-16T18:10:14+00:00",
-  "saved_at": "2026-10-16T18:10:16+00:00"
+  "last_run_at": "2026-10-16T18:20:14+00:00",
+  "saved_at": "2026-10-16T18:20:15+00:00"
  },
  "schema": 1
 }
