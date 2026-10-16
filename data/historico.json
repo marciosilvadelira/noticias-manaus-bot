@@ -3116,13 +3116,55 @@
    "updated_at": "2026-10-16T15:50:16+00:00",
    "url": "https://marioadolfo.com/lula-alcanca-flavio-bolsonaro-e-empata-em-50-diz-poderdata/",
    "url_hash": "b7aec3e58ec760ac823d25c3"
+  },
+  "guid:6ad2487652c09500099dcfe1": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Plano prevê financiamento com juros reduzidos, fundo garantidor, apoio à formalização e expansão do Crédito Rosa para os 62 municípios",
+   "discovered_at": "2026-10-16T16:00:20+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad2487652c09500099dcfe1",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/09341616-051f-4c4a-b0db-4b3af004094e.jpeg",
+   "key": "guid:6ad2487652c09500099dcfe1",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-16T15:55:18+00:00",
+   "status": "pending",
+   "title": "Omar propõe ampliar crédito e oportunidades para empreendedores do Amazonas",
+   "updated_at": "2026-10-16T16:00:20+00:00",
+   "url": "https://marioadolfo.com/omar-propoe-ampliar-credito-e-oportunidades-para-empreendedores-do-amazonas/",
+   "url_hash": "7af7022fea60e9216a67c105"
+  },
+  "guid:6ad2487d52c09500099dcfe5": {
+   "attempts": [],
+   "category": "Parintins",
+   "description": "O homem foi encontrado morto por volta das 11h desta sexta-feira (16), em Parintins",
+   "discovered_at": "2026-10-16T16:00:20+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad2487d52c09500099dcfe5",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/3940c621-8c93-42d2-8f4a-51bf1b364470.jpeg",
+   "key": "guid:6ad2487d52c09500099dcfe5",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-16T15:54:42+00:00",
+   "status": "pending",
+   "title": "Corpo de homem que caiu de flutuante é encontrado no Rio Amazonas",
+   "updated_at": "2026-10-16T16:00:20+00:00",
+   "url": "https://marioadolfo.com/corpo-de-homem-que-caiu-de-flutuante-e-encontrado-no-rio-amazonas/",
+   "url_hash": "e0665cfcffaa917e80357f61"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-16T15:50:15+00:00",
-  "saved_at": "2026-10-16T15:50:17+00:00"
+  "last_run_at": "2026-10-16T16:00:20+00:00",
+  "saved_at": "2026-10-16T16:00:21+00:00"
  },
  "schema": 1
 }
