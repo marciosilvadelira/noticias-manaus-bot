@@ -2801,13 +2801,34 @@
    "updated_at": "2026-10-16T12:10:16+00:00",
    "url": "https://marioadolfo.com/ato-em-apoio-a-lula-e-omar-sera-realizado-no-domingo/",
    "url_hash": "8ef3faeb311be753eb69c649"
+  },
+  "guid:6ad224b852c09500099dce3e": {
+   "attempts": [],
+   "category": "Dito & Feito",
+   "description": "Depois de voltar atrás e votar pela redução da Escala 6X1, agora ele anda dizendo que vai continuar com todos os programa sociais do presidente Lula",
+   "discovered_at": "2026-10-16T13:40:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad224b852c09500099dce3e",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/818ee5e2-4f82-4732-9130-26c39ef21bc0.jpeg",
+   "key": "guid:6ad224b852c09500099dce3e",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-16T13:32:02+00:00",
+   "status": "pending",
+   "title": "Dito & Feito: FLÁVIO MUDA DE OPINIÃO COMO  QUEM MUDA DE CAMISA",
+   "updated_at": "2026-10-16T13:40:17+00:00",
+   "url": "https://marioadolfo.com/dito-feito-flavio-muda-de-opiniao-como-quem-muda-de-camisa/",
+   "url_hash": "b12e2b4dd8ed91eeab6f1798"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-16T13:30:18+00:00",
-  "saved_at": "2026-10-16T13:30:19+00:00"
+  "last_run_at": "2026-10-16T13:40:16+00:00",
+  "saved_at": "2026-10-16T13:40:17+00:00"
  },
  "schema": 1
 }
