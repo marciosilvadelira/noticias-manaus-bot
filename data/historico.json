@@ -2780,13 +2780,34 @@
    "updated_at": "2026-10-16T12:00:20+00:00",
    "url": "https://marioadolfo.com/alcolumbre-vai-promulgar-fim-da-escala-6x1-nesta-sexta/",
    "url_hash": "bd418d8c5e9f1a2885ef45c2"
+  },
+  "guid:6ad2121c52c09500099dce18": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A mobilização será realizada no parque Gigantes da Floresta, entre as zonas norte e leste da capital",
+   "discovered_at": "2026-10-16T12:10:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad2121c52c09500099dce18",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2195a257-fc8e-4ef3-8a43-53870f673883.jpg",
+   "key": "guid:6ad2121c52c09500099dce18",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-16T12:09:12+00:00",
+   "status": "pending",
+   "title": "Ato em apoio a Lula e Omar será realizado no domingo",
+   "updated_at": "2026-10-16T12:10:16+00:00",
+   "url": "https://marioadolfo.com/ato-em-apoio-a-lula-e-omar-sera-realizado-no-domingo/",
+   "url_hash": "8ef3faeb311be753eb69c649"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-16T12:00:19+00:00",
-  "saved_at": "2026-10-16T12:00:20+00:00"
+  "last_run_at": "2026-10-16T12:10:16+00:00",
+  "saved_at": "2026-10-16T12:10:17+00:00"
  },
  "schema": 1
 }
