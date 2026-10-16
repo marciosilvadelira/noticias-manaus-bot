@@ -2843,13 +2843,55 @@
    "updated_at": "2026-10-16T13:50:16+00:00",
    "url": "https://marioadolfo.com/congresso-promulga-emenda-do-fim-da-6x1-escala-5x2-comeca-em-60-dias/",
    "url_hash": "d7086091cdacd1009e1cfddb"
+  },
+  "guid:6ad22b1152c09500099dce8e": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Pesquisa mostra que ainda há 1,5 milhão de pessoas nessa situação",
+   "discovered_at": "2026-10-16T14:00:22+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad22b1152c09500099dce8e",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c98905a5-144d-48cd-bf0a-7534b700ee18.webp",
+   "key": "guid:6ad22b1152c09500099dce8e",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-16T13:51:31+00:00",
+   "status": "pending",
+   "title": "Trabalho infantil no país recua 9,2% de 2024 para 2025, aponta IBGE",
+   "updated_at": "2026-10-16T14:00:22+00:00",
+   "url": "https://marioadolfo.com/trabalho-infantil-no-pais-recua-9-2-de-2024-para-2025-aponta-ibge/",
+   "url_hash": "01438899e0766f83a8e46131"
+  },
+  "guid:6ad22bfe52c09500099dcea7": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Entre os materiais incinerados, estavam cocaína, maconha, cocaína e heroína, apreendidos em operações e em procedimentos investigativos",
+   "discovered_at": "2026-10-16T14:00:22+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad22bfe52c09500099dcea7",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a85da1b5-f006-4767-a290-4888414393ef.jpg",
+   "key": "guid:6ad22bfe52c09500099dcea7",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-16T13:53:50+00:00",
+   "status": "pending",
+   "title": "Polícia Federal incinera 777 kg de drogas em Manaus",
+   "updated_at": "2026-10-16T14:00:22+00:00",
+   "url": "https://marioadolfo.com/policia-federal-incinera-777-kg-de-drogas-em-manaus/",
+   "url_hash": "13e5ea155a5289a04bfd61f3"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-16T13:50:16+00:00",
-  "saved_at": "2026-10-16T13:50:18+00:00"
+  "last_run_at": "2026-10-16T14:00:21+00:00",
+  "saved_at": "2026-10-16T14:00:23+00:00"
  },
  "schema": 1
 }
