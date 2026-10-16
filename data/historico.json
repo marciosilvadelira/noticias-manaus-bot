@@ -3326,13 +3326,34 @@
    "updated_at": "2026-10-16T19:00:21+00:00",
    "url": "https://marioadolfo.com/justica-manda-salazar-apagar-video-com-ataques-a-alessandra-campelo/",
    "url_hash": "eebc66af4bd78f9776aa2ffa"
+  },
+  "guid:6ad27d0752c09500099dd0e7": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Com fragrância inspirada na energia e refrescância da fruta, a linha traz soluções funcionais para nova ocasião de uso, com tecnologia antiodor e produto que reduz a temperatura da pele em 2° C* para alívio imediato do calor",
+   "discovered_at": "2026-10-16T19:50:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad27d0752c09500099dd0e7",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ec4425e4-9b5d-4e10-b0ca-8ff63b0ff932.jpg",
+   "key": "guid:6ad27d0752c09500099dd0e7",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-16T19:40:55+00:00",
+   "status": "pending",
+   "title": "O Boticário lança “Cuide-se Bem Acerola e Vai” e conecta o autocuidado ao universo do sport care",
+   "updated_at": "2026-10-16T19:50:16+00:00",
+   "url": "https://marioadolfo.com/boticario-lanca-cuide-se-bem-acerola-e-vai-e-conecta-o-autocuidado-ao-universo-do-sport-care/",
+   "url_hash": "2caac777a32650e25df5253e"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-16T19:40:16+00:00",
-  "saved_at": "2026-10-16T19:40:18+00:00"
+  "last_run_at": "2026-10-16T19:50:15+00:00",
+  "saved_at": "2026-10-16T19:50:16+00:00"
  },
  "schema": 1
 }
