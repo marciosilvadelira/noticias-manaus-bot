@@ -3284,13 +3284,34 @@
    "updated_at": "2026-10-16T18:20:15+00:00",
    "url": "https://marioadolfo.com/prefeitura-alerta-beneficiarios-do-bolsa-familia-sobre-acompanhamento-de-saude/",
    "url_hash": "3b30b768e17db5a3a783cff9"
+  },
+  "guid:6ad26bec52c09500099dd09e": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Em sua 11ª edição, o NEMA terá percursos de 5 km e 9 km, com kit esportivo e ingresso para o show incluídos na inscrição.",
+   "discovered_at": "2026-10-16T18:30:20+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad26bec52c09500099dd09e",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2400feef-7759-4109-b460-817d83cd1f4f.jpeg",
+   "key": "guid:6ad26bec52c09500099dd09e",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-16T18:26:06+00:00",
+   "status": "pending",
+   "title": "Corrida ao pôr do sol e show de Samuel Rosa agitam a Ponta Negra em novembro",
+   "updated_at": "2026-10-16T18:30:20+00:00",
+   "url": "https://marioadolfo.com/corrida-ao-por-do-sol-e-show-de-samuel-rosa-agitam-a-ponta-negra-em-novembro/",
+   "url_hash": "183dbe20b8ef0aa0c115d3e2"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-16T18:20:14+00:00",
-  "saved_at": "2026-10-16T18:20:15+00:00"
+  "last_run_at": "2026-10-16T18:30:19+00:00",
+  "saved_at": "2026-10-16T18:30:20+00:00"
  },
  "schema": 1
 }
