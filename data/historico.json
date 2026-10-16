@@ -2604,12 +2604,12 @@
    "guid": "6ad1101952c09500099dcd18",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a02a6330-a0aa-4665-a411-c22f82f52f0c.png",
    "key": "guid:6ad1101952c09500099dcd18",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-15T17:42:07+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Venezuelano é espancado após suspeita de assalto no São Francisco",
-   "updated_at": "2026-10-15T17:50:15+00:00",
+   "updated_at": "2026-10-16T17:50:14+00:00",
    "url": "https://marioadolfo.com/venezuelano-e-espancado-apos-suspeita-de-assalto-no-sao-francisco/",
    "url_hash": "8a37aedf968081eab90662bd"
   },
@@ -3268,8 +3268,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-16T17:40:15+00:00",
-  "saved_at": "2026-10-16T17:40:17+00:00"
+  "last_run_at": "2026-10-16T17:50:13+00:00",
+  "saved_at": "2026-10-16T17:50:14+00:00"
  },
  "schema": 1
 }
