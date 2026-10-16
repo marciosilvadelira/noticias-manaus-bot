@@ -2822,13 +2822,34 @@
    "updated_at": "2026-10-16T13:40:17+00:00",
    "url": "https://marioadolfo.com/dito-feito-flavio-muda-de-opiniao-como-quem-muda-de-camisa/",
    "url_hash": "b12e2b4dd8ed91eeab6f1798"
+  },
+  "guid:6ad22a7a52c09500099dce77": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "PEC foi aprovada no Senado na quarta por 75 votos contra 1",
+   "discovered_at": "2026-10-16T13:50:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad22a7a52c09500099dce77",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/13a34177-88e9-48f5-942a-0a3d49bcf81e.webp",
+   "key": "guid:6ad22a7a52c09500099dce77",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-16T13:47:38+00:00",
+   "status": "pending",
+   "title": "Congresso promulga emenda do fim da 6x1; escala 5x2 começa em 60 dias",
+   "updated_at": "2026-10-16T13:50:16+00:00",
+   "url": "https://marioadolfo.com/congresso-promulga-emenda-do-fim-da-6x1-escala-5x2-comeca-em-60-dias/",
+   "url_hash": "d7086091cdacd1009e1cfddb"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-16T13:40:16+00:00",
-  "saved_at": "2026-10-16T13:40:17+00:00"
+  "last_run_at": "2026-10-16T13:50:16+00:00",
+  "saved_at": "2026-10-16T13:50:18+00:00"
  },
  "schema": 1
 }
