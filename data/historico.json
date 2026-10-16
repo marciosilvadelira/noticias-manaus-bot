@@ -2128,11 +2128,19 @@
    "url_hash": "8f86cdd1ea35c45d89d79358"
   },
   "guid:6ad0d8bf52c09500099dcb6e": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-16T04:10:21+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1509211864563038",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Dito & Feito",
    "description": "Candidata a vice-governadora denuncia Salazar na Delegacia Especializada em Crimes contra a Mulher. “Quando ele faz este gesto, está falando em cortar o pescoço”",
    "discovered_at": "2026-10-15T14:00:21+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1509211864563038",
    "formats": [
     "link"
    ],
@@ -2140,20 +2148,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c3eb3c4e-b5c5-4393-bc0f-032552146ce8.jpg",
    "key": "guid:6ad0d8bf52c09500099dcb6e",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1509211864563038"
+   },
    "source_published_at": "2026-10-15T13:56:15+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Dito & Feito: PARA BOA ENTENDEDORA, MEIO GESTO BASTA!",
-   "updated_at": "2026-10-15T14:00:21+00:00",
+   "updated_at": "2026-10-16T04:10:21+00:00",
    "url": "https://marioadolfo.com/dito-feito-para-boa-entendedora-meio-gesto-basta/",
    "url_hash": "7de411c98b01e3bd29cdcf02"
   },
   "guid:6ad0dbcf52c09500099dcbb7": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-16T04:10:46+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1509212114563013",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Tribunal alerta gestores municipais e defende integração entre instituições diante dos impactos dos incêndios e da seca nos 62 municípios do estado.",
    "discovered_at": "2026-10-15T14:10:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1509212114563013",
    "formats": [
     "link"
    ],
@@ -2161,20 +2179,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b29ec73f-1324-4c57-8269-5a5ffe527488.jpeg",
    "key": "guid:6ad0dbcf52c09500099dcbb7",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1509212114563013"
+   },
    "source_published_at": "2026-10-15T14:02:06+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "TCE-AM reforça atuação institucional no enfrentamento às queimadas e à estiagem",
-   "updated_at": "2026-10-15T14:10:18+00:00",
+   "updated_at": "2026-10-16T04:10:46+00:00",
    "url": "https://marioadolfo.com/tce-am-reforca-atuacao-institucional-no-enfrentamento-as-queimadas-e-a-estiagem/",
    "url_hash": "048c21f5c5a271c42578be53"
   },
   "guid:6ad0df5d52c09500099dcbcc": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-16T04:11:10+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1509212321229659",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Ações cumpriram quatro mandados de busca e apreensão e um de prisão preventiva; dois investigados foram presos em flagrante",
    "discovered_at": "2026-10-15T14:20:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1509212321229659",
    "formats": [
     "link"
    ],
@@ -2182,11 +2210,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/1897c89b-0ce0-4424-91e2-00106cd98c09.jpg",
    "key": "guid:6ad0df5d52c09500099dcbcc",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1509212321229659"
+   },
    "source_published_at": "2026-10-15T14:15:09+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "PF faz quatro operações contra abuso sexual infantojuvenil em Manaus",
-   "updated_at": "2026-10-15T14:20:18+00:00",
+   "updated_at": "2026-10-16T04:11:10+00:00",
    "url": "https://marioadolfo.com/pf-faz-quatro-operacoes-contra-abuso-sexual-infantojuvenil-em-manaus/",
    "url_hash": "b3f55405b5680bfce2c11da4"
   },
@@ -2212,11 +2242,19 @@
    "url_hash": "5c2782c661ab503d14c84a4b"
   },
   "guid:6ad0e54c52c09500099dcbf2": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-16T04:11:36+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1509212577896300",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Anúncio foi feito nesta quinta-feira (15/10), Dia do Professor, e contempla professores, pedagogos e servidores administrativos da rede estadual de ensino",
    "discovered_at": "2026-10-15T14:40:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1509212577896300",
    "formats": [
     "link"
    ],
@@ -2224,20 +2262,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/19b8a16a-64b1-46c1-a064-67e5b0c2c709.jpeg",
    "key": "guid:6ad0e54c52c09500099dcbf2",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1509212577896300"
+   },
    "source_published_at": "2026-10-15T14:40:06+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Governo do AM confirma abono do Fundeb para servidores da educação em 2026",
-   "updated_at": "2026-10-15T14:40:16+00:00",
+   "updated_at": "2026-10-16T04:11:36+00:00",
    "url": "https://marioadolfo.com/governo-do-am-confirma-abono-do-fundeb-para-servidores-da-educacao-em-2026/",
    "url_hash": "d57a56373c631d97c47c6d7b"
   },
   "guid:6ad0e5ec52c09500099dcc10": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-16T04:12:01+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1509212824562942",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Programa Plano Verão e contratações gerais reforçam a operação para a alta temporada e expandem a força de trabalho da companhia nas suas regiões de atuação",
    "discovered_at": "2026-10-15T14:50:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1509212824562942",
    "formats": [
     "link"
    ],
@@ -2245,11 +2293,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/59a1ab8d-a078-4dd4-909a-db46691f7494.jpg",
    "key": "guid:6ad0e5ec52c09500099dcc10",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1509212824562942"
+   },
    "source_published_at": "2026-10-15T14:43:00+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Solar Coca-Cola abre mais de 90 vagas de emprego no Amazonas",
-   "updated_at": "2026-10-15T14:50:18+00:00",
+   "updated_at": "2026-10-16T04:12:01+00:00",
    "url": "https://marioadolfo.com/solar-coca-cola-abre-mais-de-90-vagas-de-emprego-no-amazonas/",
    "url_hash": "9c428ae337d44c13c8a9fa7c"
   },
@@ -2614,8 +2664,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-16T04:00:19+00:00",
-  "saved_at": "2026-10-16T04:02:08+00:00"
+  "last_run_at": "2026-10-16T04:10:14+00:00",
+  "saved_at": "2026-10-16T04:12:01+00:00"
  },
  "schema": 1
 }
