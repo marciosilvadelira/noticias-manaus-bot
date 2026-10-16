@@ -3053,13 +3053,55 @@
    "updated_at": "2026-10-16T15:30:19+00:00",
    "url": "https://marioadolfo.com/manaus-registra-pior-qualidade-do-ar-entre-as-capitais-brasileiras/",
    "url_hash": "2f9005843fffca8a00da5b70"
+  },
+  "guid:6ad2431952c09500099dcf7c": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A renomeação de Shádia Fraxe foi publicada no Diário Oficial do Município (DOM) da última quarta-feira (14). Ela retomou os trabalhos nesta sexta-feira (16).",
+   "discovered_at": "2026-10-16T15:40:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad2431952c09500099dcf7c",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f5f06ab0-d78e-4be4-b1c8-0ab7ce254ddf.webp",
+   "key": "guid:6ad2431952c09500099dcf7c",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-16T15:36:26+00:00",
+   "status": "pending",
+   "title": "Shádia Fraxe retorna ao comando da Semsa",
+   "updated_at": "2026-10-16T15:40:17+00:00",
+   "url": "https://marioadolfo.com/shadia-fraxe-retorna-ao-comando-da-semsa/",
+   "url_hash": "0ef470f3ae0dada2afb2beec"
+  },
+  "guid:6ad2437452c09500099dcf86": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Levantamento mostra a forte participação das importações no comércio exterior",
+   "discovered_at": "2026-10-16T15:40:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad2437452c09500099dcf86",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6d6466fd-c48f-4d3c-b968-e592277f26a9.jpeg",
+   "key": "guid:6ad2437452c09500099dcf86",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-16T15:35:07+00:00",
+   "status": "pending",
+   "title": "Balança comercial do Amazonas movimenta US$ 1,96 bilhão em setembro de 2026",
+   "updated_at": "2026-10-16T15:40:17+00:00",
+   "url": "https://marioadolfo.com/balanca-comercial-do-amazonas-movimenta-us-1-96-bilhao-em-setembro-de-2026/",
+   "url_hash": "f9152c261cbf6f53da6d0e5c"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-16T15:30:18+00:00",
-  "saved_at": "2026-10-16T15:30:20+00:00"
+  "last_run_at": "2026-10-16T15:40:16+00:00",
+  "saved_at": "2026-10-16T15:40:18+00:00"
  },
  "schema": 1
 }
