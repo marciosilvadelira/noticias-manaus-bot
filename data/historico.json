@@ -1859,11 +1859,19 @@
    "url_hash": "d98c50da63357da8857fb21e"
   },
   "guid:6acfeb1452c09500099dca6d": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-16T04:00:26+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1509206164563608",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Contribuintes que optaram pelo pagamento parcelado devem ficar atentos à data para evitar atrasos e possíveis encargos",
    "discovered_at": "2026-10-15T11:10:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1509206164563608",
    "formats": [
     "link"
    ],
@@ -1871,11 +1879,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/8b5580f9-042c-42c0-930e-46caf05aa707.jpg",
    "key": "guid:6acfeb1452c09500099dca6d",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1509206164563608"
+   },
    "source_published_at": "2026-10-15T11:00:25+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Oitava parcela do IPTU 2026 vence nesta quinta-feira (15)",
-   "updated_at": "2026-10-15T11:10:15+00:00",
+   "updated_at": "2026-10-16T04:00:26+00:00",
    "url": "https://marioadolfo.com/oitava-parcela-do-iptu-2026-vence-nesta-quinta-feira-15/",
    "url_hash": "8cc83877b1df823e52079833"
   },
@@ -1994,11 +2004,19 @@
    "url_hash": "ad5fa844fa45a68806c16bc3"
   },
   "guid:6ad029f952c09500099dcaff": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-16T04:00:51+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1509206367896921",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Equipes já abriram 120 procedimentos para apurar condutas criminosas",
    "discovered_at": "2026-10-15T11:40:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1509206367896921",
    "formats": [
     "link"
    ],
@@ -2006,20 +2024,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/001a6843-53d2-4e70-a426-df98a13fc322.jpg",
    "key": "guid:6ad029f952c09500099dcaff",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1509206367896921"
+   },
    "source_published_at": "2026-10-15T11:30:39+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Governo investiga se há organização por trás dos incêndios no Amazonas",
-   "updated_at": "2026-10-15T11:40:17+00:00",
+   "updated_at": "2026-10-16T04:00:51+00:00",
    "url": "https://marioadolfo.com/governo-investiga-se-ha-organizacao-por-tras-dos-incendios-no-amazonas/",
    "url_hash": "78a185b7f0fbf8492de95717"
   },
   "guid:6ad034f752c09500099dcb1c": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-16T04:01:16+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1509206671230224",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Os inscritos já podem realizar a consulta individual, acessando o Portal do Candidato",
    "discovered_at": "2026-10-15T11:50:20+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1509206671230224",
    "formats": [
     "link"
    ],
@@ -2027,20 +2055,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a12e759f-f93c-49ad-b0ee-82241a7268d0.jpg",
    "key": "guid:6ad034f752c09500099dcb1c",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1509206671230224"
+   },
    "source_published_at": "2026-10-15T11:40:21+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Prefeitura de Manaus divulga resultado do Programa Bolsa Universidade 2027",
-   "updated_at": "2026-10-15T11:50:20+00:00",
+   "updated_at": "2026-10-16T04:01:16+00:00",
    "url": "https://marioadolfo.com/prefeitura-de-manaus-divulga-resultado-do-programa-bolsa-universidade-2027/",
    "url_hash": "2d1e06525916496138d493e3"
   },
   "guid:6ad0358752c09500099dcb33": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-16T04:01:42+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1509206901230201",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Com a mudança na legislação, o trabalhador agora terá dois dias de folga na semana, para cada cinco trabalhados, sem redução de salário.",
    "discovered_at": "2026-10-15T11:53:33+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1509206901230201",
    "formats": [
     "link"
    ],
@@ -2048,20 +2086,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/16bddb16-2e61-483b-be26-8efb24318451.jpg",
    "key": "guid:6ad0358752c09500099dcb33",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1509206901230201"
+   },
    "source_published_at": "2026-10-15T11:50:49+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Fim da 6x1: saiba quando entra em vigor nova jornada de trabalho",
-   "updated_at": "2026-10-15T11:53:33+00:00",
+   "updated_at": "2026-10-16T04:01:42+00:00",
    "url": "https://marioadolfo.com/fim-da-6x1-saiba-quando-entra-em-vigor-nova-jornada-de-trabalho/",
    "url_hash": "140b0e517d70fbdf6a9f6e03"
   },
   "guid:6ad0d33b52c09500099dcb4f": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-16T04:02:08+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1509207141230177",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Justiça Eleitoral altera embarcações e modais terrestres para garantir o funcionamento de todas as seções no segundo turno",
    "discovered_at": "2026-10-15T13:30:21+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1509207141230177",
    "formats": [
     "link"
    ],
@@ -2069,11 +2117,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/bddc9315-d5b5-4e7e-b8ea-88975f4d63d2.jpg",
    "key": "guid:6ad0d33b52c09500099dcb4f",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1509207141230177"
+   },
    "source_published_at": "2026-10-15T13:24:24+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Mudança de transportes e manutenção de seções garantem urnas no interior do AM",
-   "updated_at": "2026-10-15T13:30:21+00:00",
+   "updated_at": "2026-10-16T04:02:08+00:00",
    "url": "https://marioadolfo.com/mudanca-de-transportes-e-manutencao-de-secoes-garantem-urnas-no-interior-do-am/",
    "url_hash": "8f86cdd1ea35c45d89d79358"
   },
@@ -2564,8 +2614,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-16T03:50:13+00:00",
-  "saved_at": "2026-10-16T03:50:14+00:00"
+  "last_run_at": "2026-10-16T04:00:19+00:00",
+  "saved_at": "2026-10-16T04:02:08+00:00"
  },
  "schema": 1
 }
