@@ -2906,13 +2906,76 @@
    "updated_at": "2026-10-16T14:40:15+00:00",
    "url": "https://marioadolfo.com/ifam-lanca-sistema-de-ia-que-preve-eventos-de-fogo-com-ate-14-dias-de-antecedencia/",
    "url_hash": "a4a116f678a54303edc7a11d"
+  },
+  "guid:6ad23a1e52c09500099dced1": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Jovens passaram por imersão de seis meses no dia a dia da concessionária e desenvolveram soluções de saneamento básico.",
+   "discovered_at": "2026-10-16T15:00:22+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad23a1e52c09500099dced1",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f6e6aa40-12c6-488c-9b07-27de228da50b.JPG",
+   "key": "guid:6ad23a1e52c09500099dced1",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-16T14:53:36+00:00",
+   "status": "pending",
+   "title": "Estudantes de Manaus criam solução para reaproveitamento de água da máquina de lavar",
+   "updated_at": "2026-10-16T15:00:22+00:00",
+   "url": "https://marioadolfo.com/estudantes-de-manaus-criam-solucao-para-reaproveitamento-de-agua-da-maquina-de-lavar/",
+   "url_hash": "7421b9f613f7e0d036f6f528"
+  },
+  "guid:6ad23abf52c09500099dcee6": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Solo de Carol Santa Ana, dirigido por Taciano Soares, também recebeu prêmio de Melhor Iluminação, com Paulo Martins, e marcou o retorno da companhia aos palcos de Manaus após temporada na Europa",
+   "discovered_at": "2026-10-16T15:00:22+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad23abf52c09500099dcee6",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/7fc51013-8ac5-4a2f-9205-844119acb6c6.jpg",
+   "key": "guid:6ad23abf52c09500099dcee6",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-16T14:55:49+00:00",
+   "status": "pending",
+   "title": "Ateliê 23 conquista prêmio de Melhor Espetáculo no Festival de Teatro da Amazônia",
+   "updated_at": "2026-10-16T15:00:22+00:00",
+   "url": "https://marioadolfo.com/atelie-23-conquista-premio-de-melhor-espetaculo-no-festival-de-teatro-da-amazonia/",
+   "url_hash": "f7b217ecfa9500840dd4fd6f"
+  },
+  "guid:6ad23b5852c09500099dcefa": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Serviço gratuito atende cães e gatos em clínicas parceiras e unidades do CCZ, com horários variados.",
+   "discovered_at": "2026-10-16T15:00:22+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad23b5852c09500099dcefa",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/dc45272d-0cee-40fe-9d35-de89f91f78a3.jpg",
+   "key": "guid:6ad23b5852c09500099dcefa",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-16T14:59:03+00:00",
+   "status": "pending",
+   "title": "Manaus oferece vacina antirrábica em 27 pontos fixos",
+   "updated_at": "2026-10-16T15:00:22+00:00",
+   "url": "https://marioadolfo.com/manaus-oferece-vacina-antirrabica-em-27-pontos-fixos/",
+   "url_hash": "a17233bfb564a7cd789847b4"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-16T14:50:14+00:00",
-  "saved_at": "2026-10-16T14:50:15+00:00"
+  "last_run_at": "2026-10-16T15:00:22+00:00",
+  "saved_at": "2026-10-16T15:00:23+00:00"
  },
  "schema": 1
 }
