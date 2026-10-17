@@ -3673,13 +3673,34 @@
    "updated_at": "2026-10-17T11:40:14+00:00",
    "url": "https://marioadolfo.com/justica-suspende-atividades-em-area-atingida-por-incendio-no-distrito-industrial-2/",
    "url_hash": "706ad4e6f8b78fdc78a9db35"
+  },
+  "guid:6ad372d752c09500099dd1c3": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Na manhã deste sábado, o índice de qualidade do ar chegou a 441, nível classificado como perigoso para a saúde",
+   "discovered_at": "2026-10-17T13:16:11+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad372d752c09500099dd1c3",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/805a2589-d27b-4a76-b020-5a6172ab5906.webp",
+   "key": "guid:6ad372d752c09500099dd1c3",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-17T13:10:45+00:00",
+   "status": "pending",
+   "title": "Pelo segundo dia consecutivo, Manaus é a capital com maior poluição do ar no país",
+   "updated_at": "2026-10-17T13:16:11+00:00",
+   "url": "https://marioadolfo.com/pelo-segundo-dia-consecutivo-manaus-e-a-capital-com-maior-poluicao-do-ar-no-pais/",
+   "url_hash": "b6afc09179a36169cd884c70"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-17T13:10:13+00:00",
-  "saved_at": "2026-10-17T13:10:15+00:00"
+  "last_run_at": "2026-10-17T13:16:10+00:00",
+  "saved_at": "2026-10-17T13:16:11+00:00"
  },
  "schema": 1
 }
