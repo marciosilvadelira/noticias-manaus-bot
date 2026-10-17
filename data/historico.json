@@ -3720,8 +3720,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-17T15:00:18+00:00",
-  "saved_at": "2026-10-17T15:00:19+00:00"
+  "last_run_at": "2026-10-17T15:10:19+00:00",
+  "saved_at": "2026-10-17T15:10:22+00:00"
  },
  "schema": 1
 }
