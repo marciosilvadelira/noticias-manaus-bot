@@ -3569,6 +3569,27 @@
    "url": "https://marioadolfo.com/empresario-amazonense-morre-em-queda-de-aviao-no-interior-de-sp/",
    "url_hash": "759040fc8292a0e380198057"
   },
+  "guid:6ad2dcd752c09500099dd136": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Facebook não pode reduzir distribuição, excluir ou restringir buscas",
+   "discovered_at": "2026-10-17T11:40:14+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad2dcd752c09500099dd136",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a07bcdaa-ac86-4724-b944-548e33258677.jpg",
+   "key": "guid:6ad2dcd752c09500099dd136",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-17T11:30:41+00:00",
+   "status": "pending",
+   "title": "TSE decide manter ordem para Meta garantir isonomia a candidatos",
+   "updated_at": "2026-10-17T11:40:14+00:00",
+   "url": "https://marioadolfo.com/tse-decide-manter-ordem-para-meta-garantir-isonomia-a-candidatos/",
+   "url_hash": "19d68952d04aa59ad52b78f4"
+  },
   "guid:6ad2dd4652c09500099dd14e": {
    "attempts": [],
    "category": "Polícia",
@@ -3589,13 +3610,34 @@
    "updated_at": "2026-10-17T11:10:15+00:00",
    "url": "https://marioadolfo.com/video-ossada-humana-e-achada-na-ponta-negra/",
    "url_hash": "60ceb3379342fc93da93749b"
+  },
+  "guid:6ad2dee352c09500099dd18a": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Incêndio começou em 6 de outubro e atingiu mais de 15 mil m², com impacto na qualidade do ar e risco à saúde pública",
+   "discovered_at": "2026-10-17T11:40:14+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad2dee352c09500099dd18a",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/77616333-d515-4488-a90a-efd9aff300f6.jpeg",
+   "key": "guid:6ad2dee352c09500099dd18a",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-17T11:30:55+00:00",
+   "status": "pending",
+   "title": "Justiça suspende atividades em área atingida por incêndio no Distrito Industrial 2",
+   "updated_at": "2026-10-17T11:40:14+00:00",
+   "url": "https://marioadolfo.com/justica-suspende-atividades-em-area-atingida-por-incendio-no-distrito-industrial-2/",
+   "url_hash": "706ad4e6f8b78fdc78a9db35"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-17T11:30:16+00:00",
-  "saved_at": "2026-10-17T11:30:17+00:00"
+  "last_run_at": "2026-10-17T11:40:14+00:00",
+  "saved_at": "2026-10-17T11:40:15+00:00"
  },
  "schema": 1
 }
