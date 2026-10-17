@@ -3548,6 +3548,27 @@
    "url": "https://marioadolfo.com/boticario-lanca-cuide-se-bem-acerola-e-vai-e-conecta-o-autocuidado-ao-universo-do-sport-care/",
    "url_hash": "2caac777a32650e25df5253e"
   },
+  "guid:6ad2d9e952c09500099dd109": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Polícia Federal investiga pagamentos de Daniel Vorcaro para o filme",
+   "discovered_at": "2026-10-17T12:10:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad2d9e952c09500099dd109",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/547acb1f-5509-4cfc-a48f-585b3f75a7ff.jpg",
+   "key": "guid:6ad2d9e952c09500099dd109",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-17T12:00:23+00:00",
+   "status": "pending",
+   "title": "PF pede prorrogação de inquérito sobre financiamento do Dark Horse",
+   "updated_at": "2026-10-17T12:10:15+00:00",
+   "url": "https://marioadolfo.com/pf-pede-prorrogacao-de-inquerito-sobre-financiamento-do-dark-horse/",
+   "url_hash": "8f332f96b0c91ecbf85ce2de"
+  },
   "guid:6ad2dc4452c09500099dd11b": {
    "attempts": [],
    "category": "Amazonas",
@@ -3657,8 +3678,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-17T12:00:19+00:00",
-  "saved_at": "2026-10-17T12:00:22+00:00"
+  "last_run_at": "2026-10-17T12:10:14+00:00",
+  "saved_at": "2026-10-17T12:10:16+00:00"
  },
  "schema": 1
 }
