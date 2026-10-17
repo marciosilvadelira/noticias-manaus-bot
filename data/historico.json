@@ -3455,12 +3455,12 @@
    "guid": "6ad25e8d52c09500099dd075",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/40311d76-a70d-46b2-9b10-bab6cf49c288.jpeg",
    "key": "guid:6ad25e8d52c09500099dd075",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-16T17:28:39+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "BR-319: ponte será interditada diariamente para obras até 22 de outubro",
-   "updated_at": "2026-10-16T17:30:22+00:00",
+   "updated_at": "2026-10-17T17:30:16+00:00",
    "url": "https://marioadolfo.com/br-319-ponte-sera-interditada-diariamente-para-obras-ate-22-de-outubro/",
    "url_hash": "e5545842e3d98c94b2263a1a"
   },
@@ -3909,8 +3909,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-17T17:20:15+00:00",
-  "saved_at": "2026-10-17T17:20:17+00:00"
+  "last_run_at": "2026-10-17T17:30:15+00:00",
+  "saved_at": "2026-10-17T17:30:16+00:00"
  },
  "schema": 1
 }
