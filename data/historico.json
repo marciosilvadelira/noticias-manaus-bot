@@ -2761,11 +2761,19 @@
    "url_hash": "614cb7db80055f346ac6d876"
   },
   "guid:6ad20fb552c09500099dcdf7": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-17T04:00:31+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1510200221130869",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Após sessão, empresas terão 60 dias para adotar escala 5x2",
    "discovered_at": "2026-10-16T12:00:20+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1510200221130869",
    "formats": [
     "link"
    ],
@@ -2773,20 +2781,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d32efbbc-f88a-4e52-bdd5-152a510ada3b.jpg",
    "key": "guid:6ad20fb552c09500099dcdf7",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1510200221130869"
+   },
    "source_published_at": "2026-10-16T11:54:45+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Alcolumbre vai promulgar fim da escala 6x1 nesta sexta",
-   "updated_at": "2026-10-16T12:00:20+00:00",
+   "updated_at": "2026-10-17T04:00:31+00:00",
    "url": "https://marioadolfo.com/alcolumbre-vai-promulgar-fim-da-escala-6x1-nesta-sexta/",
    "url_hash": "bd418d8c5e9f1a2885ef45c2"
   },
   "guid:6ad2121c52c09500099dce18": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-17T04:00:56+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1510200497797508",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "A mobilização será realizada no parque Gigantes da Floresta, entre as zonas norte e leste da capital",
    "discovered_at": "2026-10-16T12:10:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1510200497797508",
    "formats": [
     "link"
    ],
@@ -2794,20 +2812,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2195a257-fc8e-4ef3-8a43-53870f673883.jpg",
    "key": "guid:6ad2121c52c09500099dce18",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1510200497797508"
+   },
    "source_published_at": "2026-10-16T12:09:12+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Ato em apoio a Lula e Omar será realizado no domingo",
-   "updated_at": "2026-10-16T12:10:16+00:00",
+   "updated_at": "2026-10-17T04:00:56+00:00",
    "url": "https://marioadolfo.com/ato-em-apoio-a-lula-e-omar-sera-realizado-no-domingo/",
    "url_hash": "8ef3faeb311be753eb69c649"
   },
   "guid:6ad224b852c09500099dce3e": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-17T04:01:22+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1510200704464154",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Dito & Feito",
    "description": "Depois de voltar atrás e votar pela redução da Escala 6X1, agora ele anda dizendo que vai continuar com todos os programa sociais do presidente Lula",
    "discovered_at": "2026-10-16T13:40:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1510200704464154",
    "formats": [
     "link"
    ],
@@ -2815,20 +2843,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/818ee5e2-4f82-4732-9130-26c39ef21bc0.jpeg",
    "key": "guid:6ad224b852c09500099dce3e",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1510200704464154"
+   },
    "source_published_at": "2026-10-16T13:32:02+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Dito & Feito: FLÁVIO MUDA DE OPINIÃO COMO  QUEM MUDA DE CAMISA",
-   "updated_at": "2026-10-16T13:40:17+00:00",
+   "updated_at": "2026-10-17T04:01:22+00:00",
    "url": "https://marioadolfo.com/dito-feito-flavio-muda-de-opiniao-como-quem-muda-de-camisa/",
    "url_hash": "b12e2b4dd8ed91eeab6f1798"
   },
   "guid:6ad22a7a52c09500099dce77": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-17T04:01:48+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1510200967797461",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "PEC foi aprovada no Senado na quarta por 75 votos contra 1",
    "discovered_at": "2026-10-16T13:50:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1510200967797461",
    "formats": [
     "link"
    ],
@@ -2836,20 +2874,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/13a34177-88e9-48f5-942a-0a3d49bcf81e.webp",
    "key": "guid:6ad22a7a52c09500099dce77",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1510200967797461"
+   },
    "source_published_at": "2026-10-16T13:47:38+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Congresso promulga emenda do fim da 6x1; escala 5x2 começa em 60 dias",
-   "updated_at": "2026-10-16T13:50:16+00:00",
+   "updated_at": "2026-10-17T04:01:48+00:00",
    "url": "https://marioadolfo.com/congresso-promulga-emenda-do-fim-da-6x1-escala-5x2-comeca-em-60-dias/",
    "url_hash": "d7086091cdacd1009e1cfddb"
   },
   "guid:6ad22b1152c09500099dce8e": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-17T04:02:14+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1510201237797434",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Pesquisa mostra que ainda há 1,5 milhão de pessoas nessa situação",
    "discovered_at": "2026-10-16T14:00:22+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1510201237797434",
    "formats": [
     "link"
    ],
@@ -2857,11 +2905,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c98905a5-144d-48cd-bf0a-7534b700ee18.webp",
    "key": "guid:6ad22b1152c09500099dce8e",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1510201237797434"
+   },
    "source_published_at": "2026-10-16T13:51:31+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Trabalho infantil no país recua 9,2% de 2024 para 2025, aponta IBGE",
-   "updated_at": "2026-10-16T14:00:22+00:00",
+   "updated_at": "2026-10-17T04:02:14+00:00",
    "url": "https://marioadolfo.com/trabalho-infantil-no-pais-recua-9-2-de-2024-para-2025-aponta-ibge/",
    "url_hash": "01438899e0766f83a8e46131"
   },
@@ -3373,8 +3423,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-17T03:50:13+00:00",
-  "saved_at": "2026-10-17T03:50:15+00:00"
+  "last_run_at": "2026-10-17T04:00:21+00:00",
+  "saved_at": "2026-10-17T04:02:14+00:00"
  },
  "schema": 1
 }
