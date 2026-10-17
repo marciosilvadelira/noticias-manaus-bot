@@ -3476,12 +3476,12 @@
    "guid": "6ad2684952c09500099dd08a",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/1b71235f-0805-4747-997a-b4883024fbb7.jpeg",
    "key": "guid:6ad2684952c09500099dd08a",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-16T18:10:39+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Prefeitura alerta beneficiários do Bolsa Família sobre acompanhamento de saúde",
-   "updated_at": "2026-10-16T18:20:15+00:00",
+   "updated_at": "2026-10-17T18:20:16+00:00",
    "url": "https://marioadolfo.com/prefeitura-alerta-beneficiarios-do-bolsa-familia-sobre-acompanhamento-de-saude/",
    "url_hash": "3b30b768e17db5a3a783cff9"
   },
@@ -3909,8 +3909,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-17T18:10:13+00:00",
-  "saved_at": "2026-10-17T18:10:14+00:00"
+  "last_run_at": "2026-10-17T18:20:14+00:00",
+  "saved_at": "2026-10-17T18:20:17+00:00"
  },
  "schema": 1
 }
