@@ -3539,12 +3539,12 @@
    "guid": "6ad27d0752c09500099dd0e7",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ec4425e4-9b5d-4e10-b0ca-8ff63b0ff932.jpg",
    "key": "guid:6ad27d0752c09500099dd0e7",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-16T19:40:55+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "O Boticário lança “Cuide-se Bem Acerola e Vai” e conecta o autocuidado ao universo do sport care",
-   "updated_at": "2026-10-16T19:50:16+00:00",
+   "updated_at": "2026-10-17T19:50:14+00:00",
    "url": "https://marioadolfo.com/boticario-lanca-cuide-se-bem-acerola-e-vai-e-conecta-o-autocuidado-ao-universo-do-sport-care/",
    "url_hash": "2caac777a32650e25df5253e"
   },
@@ -3925,13 +3925,34 @@
    "updated_at": "2026-10-17T19:40:14+00:00",
    "url": "https://marioadolfo.com/mais-de-4-mil-eleitores-tiveram-locais-de-votacao-alterados/",
    "url_hash": "e644b5f757b2a4207f45a2d9"
+  },
+  "guid:6ad3ceb052c09500099dd32d": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Companhia disponibiliza caminhão-tanque e reservas de água para aeronaves enviadas pelo Governo Federal",
+   "discovered_at": "2026-10-17T19:50:14+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad3ceb052c09500099dd32d",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e539447b-dae4-4862-b32c-eb67b606f8d4.png",
+   "key": "guid:6ad3ceb052c09500099dd32d",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-17T19:47:15+00:00",
+   "status": "pending",
+   "title": "Grupo Atem mobiliza estrutura para apoiar combate aos incêndios no Amazonas",
+   "updated_at": "2026-10-17T19:50:14+00:00",
+   "url": "https://marioadolfo.com/grupo-atem-mobiliza-estrutura-para-apoiar-combate-aos-incendios-no-amazonas/",
+   "url_hash": "007d66f96529919eaa9ff0b8"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-17T19:40:14+00:00",
-  "saved_at": "2026-10-17T19:40:15+00:00"
+  "last_run_at": "2026-10-17T19:50:13+00:00",
+  "saved_at": "2026-10-17T19:50:14+00:00"
  },
  "schema": 1
 }
