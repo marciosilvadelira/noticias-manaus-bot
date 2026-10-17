@@ -3347,13 +3347,34 @@
    "updated_at": "2026-10-16T19:50:16+00:00",
    "url": "https://marioadolfo.com/boticario-lanca-cuide-se-bem-acerola-e-vai-e-conecta-o-autocuidado-ao-universo-do-sport-care/",
    "url_hash": "2caac777a32650e25df5253e"
+  },
+  "guid:6ad2dc4452c09500099dd11b": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Victor Simões da Silva, de 51 anos, era piloto e filho do presidente da Federação das Indústrias do Amazonas (Fieam), Antônio Silva",
+   "discovered_at": "2026-10-17T02:30:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad2dc4452c09500099dd11b",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/28e9fe85-2b74-479a-8ba0-ed27b95cbf8f.png",
+   "key": "guid:6ad2dc4452c09500099dd11b",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-16T22:00:00+00:00",
+   "status": "pending",
+   "title": "Empresário amazonense morre em queda de avião no interior de SP",
+   "updated_at": "2026-10-17T02:30:18+00:00",
+   "url": "https://marioadolfo.com/empresario-amazonense-morre-em-queda-de-aviao-no-interior-de-sp/",
+   "url_hash": "759040fc8292a0e380198057"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-17T02:20:14+00:00",
-  "saved_at": "2026-10-17T02:20:15+00:00"
+  "last_run_at": "2026-10-17T02:30:18+00:00",
+  "saved_at": "2026-10-17T02:30:19+00:00"
  },
  "schema": 1
 }
