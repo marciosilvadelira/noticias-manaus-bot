@@ -3071,11 +3071,19 @@
    "url_hash": "a17233bfb564a7cd789847b4"
   },
   "guid:6ad23c8b52c09500099dcf10": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-17T04:20:18+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1510211994463025",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Após pico de 494 focos há 10 dias, estado contabiliza 188 focos ativos",
    "discovered_at": "2026-10-16T15:10:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1510211994463025",
    "formats": [
     "link"
    ],
@@ -3083,20 +3091,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/7bf5cf00-04a9-4c20-98d8-d0d25c2e18bf.webp",
    "key": "guid:6ad23c8b52c09500099dcf10",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1510211994463025"
+   },
    "source_published_at": "2026-10-16T15:04:04+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Focos de incêndio no Amazonas diminuem após ação de força-tarefa",
-   "updated_at": "2026-10-16T15:10:15+00:00",
+   "updated_at": "2026-10-17T04:20:18+00:00",
    "url": "https://marioadolfo.com/focos-de-incendio-no-amazonas-diminuem-apos-acao-de-forca-tarefa/",
    "url_hash": "86abf32b42d310a39cd47cb1"
   },
   "guid:6ad23dd652c09500099dcf25": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-17T04:20:43+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1510212204463004",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Vítima foi socorrida e encaminhada ao Hospital e Pronto-Socorro Platão Araújo; estado de saúde não foi informado.",
    "discovered_at": "2026-10-16T15:20:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1510212204463004",
    "formats": [
     "link"
    ],
@@ -3104,20 +3122,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5032f1b3-7a81-4121-b8bb-af71f8a75cd9.jpeg",
    "key": "guid:6ad23dd652c09500099dcf25",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1510212204463004"
+   },
    "source_published_at": "2026-10-16T15:12:19+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Homem é ferido a facadas na avenida Autaz Mirim",
-   "updated_at": "2026-10-16T15:20:16+00:00",
+   "updated_at": "2026-10-17T04:20:43+00:00",
    "url": "https://marioadolfo.com/homem-e-ferido-a-facadas-na-avenida-autaz-mirim/",
    "url_hash": "0bab57b3a879b0bb919859c7"
   },
   "guid:6ad23f2452c09500099dcf40": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-17T04:21:08+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1510212484462976",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "De acordo com informações preliminares, as vítimas apresentavam ferimentos graves de perfuração, principalmente na região da cabeça",
    "discovered_at": "2026-10-16T15:30:19+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1510212484462976",
    "formats": [
     "link"
    ],
@@ -3125,20 +3153,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d0f0939d-f3f1-4691-8e4d-26e2df3fb321.webp",
    "key": "guid:6ad23f2452c09500099dcf40",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1510212484462976"
+   },
    "source_published_at": "2026-10-16T15:25:38+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Dois homens são encontrados mortos em chácara na AM-010",
-   "updated_at": "2026-10-16T15:30:19+00:00",
+   "updated_at": "2026-10-17T04:21:08+00:00",
    "url": "https://marioadolfo.com/dois-homens-sao-encontrados-mortos-em-cam-010/",
    "url_hash": "337799eeabd01b4872e2939b"
   },
   "guid:6ad241aa52c09500099dcf56": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-17T04:21:34+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1510212844462940",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Fumaça de queimadas afeta o Amazonas e governo decreta emergência.",
    "discovered_at": "2026-10-16T15:30:19+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1510212844462940",
    "formats": [
     "link"
    ],
@@ -3146,11 +3184,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6b91e8f7-f4a7-4807-8d2c-0c14664e9f21.webp",
    "key": "guid:6ad241aa52c09500099dcf56",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1510212844462940"
+   },
    "source_published_at": "2026-10-16T15:25:40+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Manaus registra pior qualidade do ar entre as capitais brasileiras",
-   "updated_at": "2026-10-16T15:30:19+00:00",
+   "updated_at": "2026-10-17T04:21:34+00:00",
    "url": "https://marioadolfo.com/manaus-registra-pior-qualidade-do-ar-entre-as-capitais-brasileiras/",
    "url_hash": "2f9005843fffca8a00da5b70"
   },
@@ -3176,11 +3216,19 @@
    "url_hash": "0ef470f3ae0dada2afb2beec"
   },
   "guid:6ad2437452c09500099dcf86": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-17T04:21:59+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1510213071129584",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Levantamento mostra a forte participação das importações no comércio exterior",
    "discovered_at": "2026-10-16T15:40:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1510213071129584",
    "formats": [
     "link"
    ],
@@ -3188,11 +3236,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6d6466fd-c48f-4d3c-b968-e592277f26a9.jpeg",
    "key": "guid:6ad2437452c09500099dcf86",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1510213071129584"
+   },
    "source_published_at": "2026-10-16T15:35:07+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Balança comercial do Amazonas movimenta US$ 1,96 bilhão em setembro de 2026",
-   "updated_at": "2026-10-16T15:40:17+00:00",
+   "updated_at": "2026-10-17T04:21:59+00:00",
    "url": "https://marioadolfo.com/balanca-comercial-do-amazonas-movimenta-us-1-96-bilhao-em-setembro-de-2026/",
    "url_hash": "f9152c261cbf6f53da6d0e5c"
   },
@@ -3473,8 +3523,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-17T04:10:13+00:00",
-  "saved_at": "2026-10-17T04:12:10+00:00"
+  "last_run_at": "2026-10-17T04:20:12+00:00",
+  "saved_at": "2026-10-17T04:21:59+00:00"
  },
  "schema": 1
 }
