@@ -3392,12 +3392,12 @@
    "guid": "6ad259f852c09500099dd020",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/cc9878a3-063b-4a71-a2fe-bc5c32ee37ea.jpeg",
    "key": "guid:6ad259f852c09500099dd020",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-16T17:10:26+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Flávio Bolsonaro vem a Manaus na segunda-feira para campanha",
-   "updated_at": "2026-10-16T17:20:17+00:00",
+   "updated_at": "2026-10-17T17:20:16+00:00",
    "url": "https://marioadolfo.com/flavio-bolsonaro-vem-a-manaus-na-segunda-feira-para-campanha/",
    "url_hash": "bad99fc255aa9af86de7103f"
   },
@@ -3413,12 +3413,12 @@
    "guid": "6ad25ac352c09500099dd037",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/aa9807d7-accd-4a2b-ad67-5ff9d2740271.webp",
    "key": "guid:6ad25ac352c09500099dd037",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-16T17:13:42+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Descanso de trabalhador não quebra empresas, diz Lula após fim da 6x1",
-   "updated_at": "2026-10-16T17:20:17+00:00",
+   "updated_at": "2026-10-17T17:20:16+00:00",
    "url": "https://marioadolfo.com/descanso-de-trabalhador-nao-quebra-empresas-diz-lula-apos-fim-da-6x1/",
    "url_hash": "742e54ca504c3207a342ebaf"
   },
@@ -3434,12 +3434,12 @@
    "guid": "6ad25b7952c09500099dd056",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/fd3de9fb-1861-4766-ab69-423556fbbcfe.jpeg",
    "key": "guid:6ad25b7952c09500099dd056",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-16T17:19:45+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Governo monitora saúde de amazonenses em locais afetados por queimadas",
-   "updated_at": "2026-10-16T17:20:17+00:00",
+   "updated_at": "2026-10-17T17:20:16+00:00",
    "url": "https://marioadolfo.com/governo-monitora-saude-de-amazonenses-em-locais-afetados-por-queimadas/",
    "url_hash": "d3a437aa69e655befdb32c36"
   },
@@ -3862,13 +3862,55 @@
    "updated_at": "2026-10-17T16:10:14+00:00",
    "url": "https://marioadolfo.com/abstencao-entre-eleitores-com-mais-de-70-anos-foi-de-49-1-no-1o-turno/",
    "url_hash": "5df1ec4ac800a69893644878"
+  },
+  "guid:6ad3aba052c09500099dd2da": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "O ato será às 16h, no Parque Gigantes da Floresta, na Zona Leste de Manaus.  Manifestações também previstas em municípios do interior",
+   "discovered_at": "2026-10-17T17:20:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad3aba052c09500099dd2da",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/3b51c62d-620a-4995-abbf-f3c2d382cf8e.jpeg",
+   "key": "guid:6ad3aba052c09500099dd2da",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-17T17:10:32+00:00",
+   "status": "pending",
+   "title": "Eduardo Braga convoca grande ato por Lula e Omar neste domingo (18)",
+   "updated_at": "2026-10-17T17:20:16+00:00",
+   "url": "https://marioadolfo.com/eduardo-braga-convoca-grande-ato-por-lula-e-omar-neste-domingo/",
+   "url_hash": "85554e1aa2fc8d8355a2c858"
+  },
+  "guid:6ad3ad5852c09500099dd2f6": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Renato Júnior afirmou que a fumaça que atinge a cidade é causada principalmente por incêndios registrados em outros municípios e estados",
+   "discovered_at": "2026-10-17T17:20:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad3ad5852c09500099dd2f6",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f60f3b96-e178-45b7-ab19-184058019ee1.jpeg",
+   "key": "guid:6ad3ad5852c09500099dd2f6",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-17T17:18:48+00:00",
+   "status": "pending",
+   "title": "Prefeito de Manaus pede ajuda internacional diante do avanço da fumaça",
+   "updated_at": "2026-10-17T17:20:16+00:00",
+   "url": "https://marioadolfo.com/prefeito-de-manaus-pede-ajuda-internacional-diante-do-avanco-da-fumaca/",
+   "url_hash": "28d0dc4c2158a7ed0ca518fe"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-17T17:10:13+00:00",
-  "saved_at": "2026-10-17T17:10:14+00:00"
+  "last_run_at": "2026-10-17T17:20:15+00:00",
+  "saved_at": "2026-10-17T17:20:17+00:00"
  },
  "schema": 1
 }
