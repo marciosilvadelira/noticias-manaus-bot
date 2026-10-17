@@ -2916,11 +2916,19 @@
    "url_hash": "01438899e0766f83a8e46131"
   },
   "guid:6ad22bfe52c09500099dcea7": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-17T04:10:24+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1510205687796989",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Entre os materiais incinerados, estavam cocaína, maconha, cocaína e heroína, apreendidos em operações e em procedimentos investigativos",
    "discovered_at": "2026-10-16T14:00:22+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1510205687796989",
    "formats": [
     "link"
    ],
@@ -2928,20 +2936,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a85da1b5-f006-4767-a290-4888414393ef.jpg",
    "key": "guid:6ad22bfe52c09500099dcea7",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1510205687796989"
+   },
    "source_published_at": "2026-10-16T13:53:50+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Polícia Federal incinera 777 kg de drogas em Manaus",
-   "updated_at": "2026-10-16T14:00:22+00:00",
+   "updated_at": "2026-10-17T04:10:24+00:00",
    "url": "https://marioadolfo.com/policia-federal-incinera-777-kg-de-drogas-em-manaus/",
    "url_hash": "13e5ea155a5289a04bfd61f3"
   },
   "guid:6ad235b752c09500099dcebc": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-17T04:10:52+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1510206014463623",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Projeto IA-FogoBio, financiado pelo Google, será apresentado no dia 22 de outubro, em Manaus, e busca fortalecer a prevenção de queimadas e a preservação da biodiversidade amazônica.",
    "discovered_at": "2026-10-16T14:40:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1510206014463623",
    "formats": [
     "link"
    ],
@@ -2949,20 +2967,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c5142c3e-392a-43ba-ae7b-efb1be3eca59.jpg",
    "key": "guid:6ad235b752c09500099dcebc",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1510206014463623"
+   },
    "source_published_at": "2026-10-16T14:39:24+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "IFAM lança sistema de IA que prevê eventos de fogo com até 14 dias de antecedência",
-   "updated_at": "2026-10-16T14:40:15+00:00",
+   "updated_at": "2026-10-17T04:10:52+00:00",
    "url": "https://marioadolfo.com/ifam-lanca-sistema-de-ia-que-preve-eventos-de-fogo-com-ate-14-dias-de-antecedencia/",
    "url_hash": "a4a116f678a54303edc7a11d"
   },
   "guid:6ad23a1e52c09500099dced1": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-17T04:11:18+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1510206301130261",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Jovens passaram por imersão de seis meses no dia a dia da concessionária e desenvolveram soluções de saneamento básico.",
    "discovered_at": "2026-10-16T15:00:22+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1510206301130261",
    "formats": [
     "link"
    ],
@@ -2970,20 +2998,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f6e6aa40-12c6-488c-9b07-27de228da50b.JPG",
    "key": "guid:6ad23a1e52c09500099dced1",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1510206301130261"
+   },
    "source_published_at": "2026-10-16T14:53:36+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Estudantes de Manaus criam solução para reaproveitamento de água da máquina de lavar",
-   "updated_at": "2026-10-16T15:00:22+00:00",
+   "updated_at": "2026-10-17T04:11:18+00:00",
    "url": "https://marioadolfo.com/estudantes-de-manaus-criam-solucao-para-reaproveitamento-de-agua-da-maquina-de-lavar/",
    "url_hash": "7421b9f613f7e0d036f6f528"
   },
   "guid:6ad23abf52c09500099dcee6": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-17T04:11:43+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1510206601130231",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Solo de Carol Santa Ana, dirigido por Taciano Soares, também recebeu prêmio de Melhor Iluminação, com Paulo Martins, e marcou o retorno da companhia aos palcos de Manaus após temporada na Europa",
    "discovered_at": "2026-10-16T15:00:22+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1510206601130231",
    "formats": [
     "link"
    ],
@@ -2991,20 +3029,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/7fc51013-8ac5-4a2f-9205-844119acb6c6.jpg",
    "key": "guid:6ad23abf52c09500099dcee6",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1510206601130231"
+   },
    "source_published_at": "2026-10-16T14:55:49+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Ateliê 23 conquista prêmio de Melhor Espetáculo no Festival de Teatro da Amazônia",
-   "updated_at": "2026-10-16T15:00:22+00:00",
+   "updated_at": "2026-10-17T04:11:43+00:00",
    "url": "https://marioadolfo.com/atelie-23-conquista-premio-de-melhor-espetaculo-no-festival-de-teatro-da-amazonia/",
    "url_hash": "f7b217ecfa9500840dd4fd6f"
   },
   "guid:6ad23b5852c09500099dcefa": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-17T04:12:10+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1510206851130206",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Serviço gratuito atende cães e gatos em clínicas parceiras e unidades do CCZ, com horários variados.",
    "discovered_at": "2026-10-16T15:00:22+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1510206851130206",
    "formats": [
     "link"
    ],
@@ -3012,11 +3060,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/dc45272d-0cee-40fe-9d35-de89f91f78a3.jpg",
    "key": "guid:6ad23b5852c09500099dcefa",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1510206851130206"
+   },
    "source_published_at": "2026-10-16T14:59:03+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Manaus oferece vacina antirrábica em 27 pontos fixos",
-   "updated_at": "2026-10-16T15:00:22+00:00",
+   "updated_at": "2026-10-17T04:12:10+00:00",
    "url": "https://marioadolfo.com/manaus-oferece-vacina-antirrabica-em-27-pontos-fixos/",
    "url_hash": "a17233bfb564a7cd789847b4"
   },
@@ -3423,8 +3473,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-17T04:00:21+00:00",
-  "saved_at": "2026-10-17T04:02:14+00:00"
+  "last_run_at": "2026-10-17T04:10:13+00:00",
+  "saved_at": "2026-10-17T04:12:10+00:00"
  },
  "schema": 1
 }
