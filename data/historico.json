@@ -3778,13 +3778,55 @@
    "updated_at": "2026-10-17T15:20:14+00:00",
    "url": "https://marioadolfo.com/defesa-civil-alerta-risco-severo-devido-a-fumaca-e-recomenda-uso-de-mascara/",
    "url_hash": "3f8453f1603a665124ff9bf4"
+  },
+  "guid:6ad39a0752c09500099dd271": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Será o primeiro debate presidencial com presença de ambos",
+   "discovered_at": "2026-10-17T16:00:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad39a0752c09500099dd271",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6ac826e0-9394-4e6a-81a3-689de5879ed3.jpg",
+   "key": "guid:6ad39a0752c09500099dd271",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-17T15:54:49+00:00",
+   "status": "pending",
+   "title": "Debate da Band entre Lula e Flávio terá confronto livre de 30 minutos",
+   "updated_at": "2026-10-17T16:00:19+00:00",
+   "url": "https://marioadolfo.com/debate-da-band-entre-lula-e-flavio-tera-confronto-livre-de-30-minutos/",
+   "url_hash": "5db2d7f6e6fa6cfd9ca035b1"
+  },
+  "guid:6ad39aec52c09500099dd287": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Victor Simões da Silva estava na aeronave com José Ricardo Santana, que também morreu no acidente",
+   "discovered_at": "2026-10-17T16:00:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad39aec52c09500099dd287",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c3b863e2-7521-44d8-b29e-fc84b86882a9.png",
+   "key": "guid:6ad39aec52c09500099dd287",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-17T15:59:34+00:00",
+   "status": "pending",
+   "title": "Vídeo mostra queda de avião que matou empresário amazonense em SP",
+   "updated_at": "2026-10-17T16:00:19+00:00",
+   "url": "https://marioadolfo.com/video-6/",
+   "url_hash": "3eb5a922ac0636791af0dd0c"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-17T15:50:13+00:00",
-  "saved_at": "2026-10-17T15:50:14+00:00"
+  "last_run_at": "2026-10-17T16:00:19+00:00",
+  "saved_at": "2026-10-17T16:00:20+00:00"
  },
  "schema": 1
 }
