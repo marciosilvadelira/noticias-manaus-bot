@@ -3820,13 +3820,55 @@
    "updated_at": "2026-10-17T16:00:19+00:00",
    "url": "https://marioadolfo.com/video-6/",
    "url_hash": "3eb5a922ac0636791af0dd0c"
+  },
+  "guid:6ad39c4752c09500099dd2a3": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Vítima foi localizada desacordada e com múltiplos ferimentos pelo corpo na madrugada deste sábado (17)",
+   "discovered_at": "2026-10-17T16:10:14+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad39c4752c09500099dd2a3",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6b5cd17b-4271-4bf1-a1e7-12ffc9725be9.jpeg",
+   "key": "guid:6ad39c4752c09500099dd2a3",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-17T16:06:52+00:00",
+   "status": "pending",
+   "title": "Homem é encontrado com língua cortada e perfuração no pescoço em Maués",
+   "updated_at": "2026-10-17T16:10:14+00:00",
+   "url": "https://marioadolfo.com/homem-e-encontrado-com-lingua-cortada-e-perfuracao-no-pescoco-em-maues/",
+   "url_hash": "7bd3e38b49002069b6c686cb"
+  },
+  "guid:6ad39d6852c09500099dd2bf": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "O voto é facultativo para eleitores com mais de 70 anos, assim como para os analfabetos e para os jovens com mais de 16 e menos de 18 anos",
+   "discovered_at": "2026-10-17T16:10:14+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad39d6852c09500099dd2bf",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5c91bcef-9695-4300-97b6-224500ff7777.jpg",
+   "key": "guid:6ad39d6852c09500099dd2bf",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-17T16:09:51+00:00",
+   "status": "pending",
+   "title": "Abstenção entre eleitores com mais de 70 anos foi de 49,1% no 1º turno",
+   "updated_at": "2026-10-17T16:10:14+00:00",
+   "url": "https://marioadolfo.com/abstencao-entre-eleitores-com-mais-de-70-anos-foi-de-49-1-no-1o-turno/",
+   "url_hash": "5df1ec4ac800a69893644878"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-17T16:00:19+00:00",
-  "saved_at": "2026-10-17T16:00:20+00:00"
+  "last_run_at": "2026-10-17T16:10:14+00:00",
+  "saved_at": "2026-10-17T16:10:15+00:00"
  },
  "schema": 1
 }
