@@ -3946,13 +3946,34 @@
    "updated_at": "2026-10-17T19:50:14+00:00",
    "url": "https://marioadolfo.com/grupo-atem-mobiliza-estrutura-para-apoiar-combate-aos-incendios-no-amazonas/",
    "url_hash": "007d66f96529919eaa9ff0b8"
+  },
+  "guid:6ad3d0eb52c09500099dd350": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Reunião vai definir novas medidas de combate aos incêndios, enquanto o Corpo de Bombeiros solicita quatro aeronaves de grande porte ao Governo Federal",
+   "discovered_at": "2026-10-17T20:00:20+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad3d0eb52c09500099dd350",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6841318a-49b5-43ea-a82b-9ec41e763f8f.jpeg",
+   "key": "guid:6ad3d0eb52c09500099dd350",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-17T19:55:39+00:00",
+   "status": "pending",
+   "title": "Roberto Cidade solicita mais apoio federal para combater queimadas",
+   "updated_at": "2026-10-17T20:00:20+00:00",
+   "url": "https://marioadolfo.com/roberto-cidade-solicita-mais-apoio-federal-para-combater-queimadas/",
+   "url_hash": "38e00b930a190a8c4018effc"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-17T19:50:13+00:00",
-  "saved_at": "2026-10-17T19:50:14+00:00"
+  "last_run_at": "2026-10-17T20:00:19+00:00",
+  "saved_at": "2026-10-17T20:00:20+00:00"
  },
  "schema": 1
 }
