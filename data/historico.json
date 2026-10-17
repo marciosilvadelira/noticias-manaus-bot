@@ -3694,13 +3694,34 @@
    "updated_at": "2026-10-17T13:16:11+00:00",
    "url": "https://marioadolfo.com/pelo-segundo-dia-consecutivo-manaus-e-a-capital-com-maior-poluicao-do-ar-no-pais/",
    "url_hash": "b6afc09179a36169cd884c70"
+  },
+  "guid:6ad3741552c09500099dd1e8": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Encontro reuniu apoiadores em Manaus e teve como destaques propostas de assistência às famílias, proteção às mulheres e ampliação da rede de saúde",
+   "discovered_at": "2026-10-17T14:40:14+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad3741552c09500099dd1e8",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0a569ecb-4a09-4af8-878f-d9a7e5154f77.jpeg",
+   "key": "guid:6ad3741552c09500099dd1e8",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-17T14:30:30+00:00",
+   "status": "pending",
+   "title": "Omar firma compromisso de apoiar mães atípicas e ampliar políticas de proteção às mulheres",
+   "updated_at": "2026-10-17T14:40:14+00:00",
+   "url": "https://marioadolfo.com/omar-firma-compromisso-de-apoiar-maes-atipicas-e-ampliar-politicas-de-protecao-as-mulheres/",
+   "url_hash": "309052db023aa7c2b035a369"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-17T14:30:17+00:00",
-  "saved_at": "2026-10-17T14:30:19+00:00"
+  "last_run_at": "2026-10-17T14:40:13+00:00",
+  "saved_at": "2026-10-17T14:40:14+00:00"
  },
  "schema": 1
 }
