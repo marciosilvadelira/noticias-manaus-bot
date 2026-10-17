@@ -3195,11 +3195,19 @@
    "url_hash": "2f9005843fffca8a00da5b70"
   },
   "guid:6ad2431952c09500099dcf7c": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-17T04:30:23+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1510217607795797",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "A renomeação de Shádia Fraxe foi publicada no Diário Oficial do Município (DOM) da última quarta-feira (14). Ela retomou os trabalhos nesta sexta-feira (16).",
    "discovered_at": "2026-10-16T15:40:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1510217607795797",
    "formats": [
     "link"
    ],
@@ -3207,11 +3215,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f5f06ab0-d78e-4be4-b1c8-0ab7ce254ddf.webp",
    "key": "guid:6ad2431952c09500099dcf7c",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1510217607795797"
+   },
    "source_published_at": "2026-10-16T15:36:26+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Shádia Fraxe retorna ao comando da Semsa",
-   "updated_at": "2026-10-16T15:40:17+00:00",
+   "updated_at": "2026-10-17T04:30:23+00:00",
    "url": "https://marioadolfo.com/shadia-fraxe-retorna-ao-comando-da-semsa/",
    "url_hash": "0ef470f3ae0dada2afb2beec"
   },
@@ -3247,11 +3257,19 @@
    "url_hash": "f9152c261cbf6f53da6d0e5c"
   },
   "guid:6ad245d252c09500099dcfb9": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-17T04:30:46+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1510217857795772",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "A vantagem de seis pontos percentuais que Flávio Bolsonaro tinha sobre Lula há oito dias desapareceu",
    "discovered_at": "2026-10-16T15:50:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1510217857795772",
    "formats": [
     "link"
    ],
@@ -3259,20 +3277,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e651b198-3484-4954-a80e-1280aadb9838.webp",
    "key": "guid:6ad245d252c09500099dcfb9",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1510217857795772"
+   },
    "source_published_at": "2026-10-16T15:43:48+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Lula alcança Flávio Bolsonaro e empata em 50%, diz PoderData",
-   "updated_at": "2026-10-16T15:50:16+00:00",
+   "updated_at": "2026-10-17T04:30:46+00:00",
    "url": "https://marioadolfo.com/lula-alcanca-flavio-bolsonaro-e-empata-em-50-diz-poderdata/",
    "url_hash": "b7aec3e58ec760ac823d25c3"
   },
   "guid:6ad2487652c09500099dcfe1": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-17T04:31:35+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1510218491129042",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Plano prevê financiamento com juros reduzidos, fundo garantidor, apoio à formalização e expansão do Crédito Rosa para os 62 municípios",
    "discovered_at": "2026-10-16T16:00:20+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1510218491129042",
    "formats": [
     "link"
    ],
@@ -3280,20 +3308,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/09341616-051f-4c4a-b0db-4b3af004094e.jpeg",
    "key": "guid:6ad2487652c09500099dcfe1",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1510218491129042"
+   },
    "source_published_at": "2026-10-16T15:55:18+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Omar propõe ampliar crédito e oportunidades para empreendedores do Amazonas",
-   "updated_at": "2026-10-16T16:00:20+00:00",
+   "updated_at": "2026-10-17T04:31:35+00:00",
    "url": "https://marioadolfo.com/omar-propoe-ampliar-credito-e-oportunidades-para-empreendedores-do-amazonas/",
    "url_hash": "7af7022fea60e9216a67c105"
   },
   "guid:6ad2487d52c09500099dcfe5": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-17T04:31:10+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1510218131129078",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Parintins",
    "description": "O homem foi encontrado morto por volta das 11h desta sexta-feira (16), em Parintins",
    "discovered_at": "2026-10-16T16:00:20+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1510218131129078",
    "formats": [
     "link"
    ],
@@ -3301,20 +3339,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/3940c621-8c93-42d2-8f4a-51bf1b364470.jpeg",
    "key": "guid:6ad2487d52c09500099dcfe5",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1510218131129078"
+   },
    "source_published_at": "2026-10-16T15:54:42+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Corpo de homem que caiu de flutuante é encontrado no Rio Amazonas",
-   "updated_at": "2026-10-16T16:00:20+00:00",
+   "updated_at": "2026-10-17T04:31:10+00:00",
    "url": "https://marioadolfo.com/corpo-de-homem-que-caiu-de-flutuante-e-encontrado-no-rio-amazonas/",
    "url_hash": "e0665cfcffaa917e80357f61"
   },
   "guid:6ad2578452c09500099dd00b": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-17T04:32:00+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1510218777795680",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Ao todo, são dez residentes da área de Direito e seis de Contabilidade",
    "discovered_at": "2026-10-16T17:00:20+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1510218777795680",
    "formats": [
     "link"
    ],
@@ -3322,11 +3370,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2bb46605-ccf5-4a72-9706-df394bed54e3.jpeg",
    "key": "guid:6ad2578452c09500099dd00b",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1510218777795680"
+   },
    "source_published_at": "2026-10-16T16:59:08+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Residentes jurídicos e contábeis aprovados em processo seletivo iniciam atividades no TCE-AM",
-   "updated_at": "2026-10-16T17:00:20+00:00",
+   "updated_at": "2026-10-17T04:32:00+00:00",
    "url": "https://marioadolfo.com/residentes-juridicos-e-contabeis-aprovados-em-processo-seletivo-iniciam-atividades-no-tce-am/",
    "url_hash": "747210bfa8cdc4643eb633d6"
   },
@@ -3523,8 +3573,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-17T04:20:12+00:00",
-  "saved_at": "2026-10-17T04:21:59+00:00"
+  "last_run_at": "2026-10-17T04:30:15+00:00",
+  "saved_at": "2026-10-17T04:32:00+00:00"
  },
  "schema": 1
 }
