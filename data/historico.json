@@ -3904,13 +3904,34 @@
    "updated_at": "2026-10-17T17:20:16+00:00",
    "url": "https://marioadolfo.com/prefeito-de-manaus-pede-ajuda-internacional-diante-do-avanco-da-fumaca/",
    "url_hash": "28d0dc4c2158a7ed0ca518fe"
+  },
+  "guid:6ad3ce3052c09500099dd30f": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "TSE orienta consultar novo endereço das seções com antecedência",
+   "discovered_at": "2026-10-17T19:40:14+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad3ce3052c09500099dd30f",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d25cf85a-048c-4581-a2f0-0efa9daeee20.jpeg",
+   "key": "guid:6ad3ce3052c09500099dd30f",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-17T19:37:44+00:00",
+   "status": "pending",
+   "title": "Mais de 4 mil eleitores tiveram locais de votação alterados",
+   "updated_at": "2026-10-17T19:40:14+00:00",
+   "url": "https://marioadolfo.com/mais-de-4-mil-eleitores-tiveram-locais-de-votacao-alterados/",
+   "url_hash": "e644b5f757b2a4207f45a2d9"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-17T19:30:18+00:00",
-  "saved_at": "2026-10-17T19:30:20+00:00"
+  "last_run_at": "2026-10-17T19:40:14+00:00",
+  "saved_at": "2026-10-17T19:40:15+00:00"
  },
  "schema": 1
 }
