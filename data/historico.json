@@ -3611,6 +3611,27 @@
    "url": "https://marioadolfo.com/video-ossada-humana-e-achada-na-ponta-negra/",
    "url_hash": "60ceb3379342fc93da93749b"
   },
+  "guid:6ad2de0f52c09500099dd16b": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Em Manaus, as atividades serão na sede da Fiocruz, na Rua Teresina, bairro Adrianópolis, de 8h30 às 12h",
+   "discovered_at": "2026-10-17T11:50:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad2de0f52c09500099dd16b",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/60f7e729-cb24-436c-8af3-579b606f6ca2.jpg",
+   "key": "guid:6ad2de0f52c09500099dd16b",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-17T11:45:49+00:00",
+   "status": "pending",
+   "title": "Fiocruz oferece vacinas para crianças e adultos neste sábado",
+   "updated_at": "2026-10-17T11:50:15+00:00",
+   "url": "https://marioadolfo.com/fiocruz-oferece-vacinas-para-criancas-e-adultos-neste-sabado/",
+   "url_hash": "d9d623608561823fc13b7f53"
+  },
   "guid:6ad2dee352c09500099dd18a": {
    "attempts": [],
    "category": "Amazonas",
@@ -3636,8 +3657,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-17T11:40:14+00:00",
-  "saved_at": "2026-10-17T11:40:15+00:00"
+  "last_run_at": "2026-10-17T11:50:15+00:00",
+  "saved_at": "2026-10-17T11:50:15+00:00"
  },
  "schema": 1
 }
