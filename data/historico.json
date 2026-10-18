@@ -3725,11 +3725,19 @@
    "url_hash": "706ad4e6f8b78fdc78a9db35"
   },
   "guid:6ad372d752c09500099dd1c3": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-18T04:10:23+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1511164001034491",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Na manhã deste sábado, o índice de qualidade do ar chegou a 441, nível classificado como perigoso para a saúde",
    "discovered_at": "2026-10-17T13:16:11+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1511164001034491",
    "formats": [
     "link"
    ],
@@ -3737,20 +3745,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/805a2589-d27b-4a76-b020-5a6172ab5906.webp",
    "key": "guid:6ad372d752c09500099dd1c3",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1511164001034491"
+   },
    "source_published_at": "2026-10-17T13:10:45+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Pelo segundo dia consecutivo, Manaus é a capital com maior poluição do ar no país",
-   "updated_at": "2026-10-17T13:16:11+00:00",
+   "updated_at": "2026-10-18T04:10:23+00:00",
    "url": "https://marioadolfo.com/pelo-segundo-dia-consecutivo-manaus-e-a-capital-com-maior-poluicao-do-ar-no-pais/",
    "url_hash": "b6afc09179a36169cd884c70"
   },
   "guid:6ad3741552c09500099dd1e8": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-18T04:10:49+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1511164317701126",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Encontro reuniu apoiadores em Manaus e teve como destaques propostas de assistência às famílias, proteção às mulheres e ampliação da rede de saúde",
    "discovered_at": "2026-10-17T14:40:14+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1511164317701126",
    "formats": [
     "link"
    ],
@@ -3758,20 +3776,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0a569ecb-4a09-4af8-878f-d9a7e5154f77.jpeg",
    "key": "guid:6ad3741552c09500099dd1e8",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1511164317701126"
+   },
    "source_published_at": "2026-10-17T14:30:30+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Omar firma compromisso de apoiar mães atípicas e ampliar políticas de proteção às mulheres",
-   "updated_at": "2026-10-17T14:40:14+00:00",
+   "updated_at": "2026-10-18T04:10:49+00:00",
    "url": "https://marioadolfo.com/omar-firma-compromisso-de-apoiar-maes-atipicas-e-ampliar-politicas-de-protecao-as-mulheres/",
    "url_hash": "309052db023aa7c2b035a369"
   },
   "guid:6ad38dff52c09500099dd1ff": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-18T04:11:40+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1511164794367745",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "João Paulo Capobianco relata ataques criminosos à floresta, ameaças a brigadistas e suspeita de ligação com a disputa eleitoral.",
    "discovered_at": "2026-10-17T15:20:14+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1511164794367745",
    "formats": [
     "link"
    ],
@@ -3779,20 +3807,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/03171874-8af6-4fe8-add5-dd9a87008337.jpg",
    "key": "guid:6ad38dff52c09500099dd1ff",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1511164794367745"
+   },
    "source_published_at": "2026-10-17T15:14:57+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Ministro denuncia uso de coquetéis molotov para provocar incêndios na Amazônia",
-   "updated_at": "2026-10-17T15:20:14+00:00",
+   "updated_at": "2026-10-18T04:11:40+00:00",
    "url": "https://marioadolfo.com/ministro-relata-uso-de-molotov-na-floresta/",
    "url_hash": "57933751863d0a3d76ed693e"
   },
   "guid:6ad38e2d52c09500099dd207": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-18T04:11:14+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1511164521034439",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "O município está entre os mais afetados pelas queimadas e registra níveis críticos de poluição",
    "discovered_at": "2026-10-17T15:20:14+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1511164521034439",
    "formats": [
     "link"
    ],
@@ -3800,20 +3838,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/351b0997-90cf-4477-9611-892a9593a4f0.png",
    "key": "guid:6ad38e2d52c09500099dd207",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1511164521034439"
+   },
    "source_published_at": "2026-10-17T15:13:53+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Vídeo: moradora pede socorro diante da fumaça das queimadas em Autazes",
-   "updated_at": "2026-10-17T15:20:14+00:00",
+   "updated_at": "2026-10-18T04:11:14+00:00",
    "url": "https://marioadolfo.com/video-moradora-pede-socorro-diante-da-fumaca-das-queimadas-em-autazes/",
    "url_hash": "427366379e3287ea151f2ec3"
   },
   "guid:6ad390cd52c09500099dd237": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-18T04:12:07+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1511165061034385",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Alerta foi emitido na manhã deste sábado (17) enquanto a capital enfrenta piora da qualidade do ar",
    "discovered_at": "2026-10-17T15:20:14+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1511165061034385",
    "formats": [
     "link"
    ],
@@ -3821,11 +3869,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/59c69e6a-28ee-4dc6-819d-214f04524ba4.png",
    "key": "guid:6ad390cd52c09500099dd237",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1511165061034385"
+   },
    "source_published_at": "2026-10-17T15:18:13+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Defesa Civil alerta risco severo devido à fumaça e recomenda uso de máscara",
-   "updated_at": "2026-10-17T15:20:14+00:00",
+   "updated_at": "2026-10-18T04:12:07+00:00",
    "url": "https://marioadolfo.com/defesa-civil-alerta-risco-severo-devido-a-fumaca-e-recomenda-uso-de-mascara/",
    "url_hash": "3f8453f1603a665124ff9bf4"
   },
@@ -4022,8 +4072,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-18T04:00:20+00:00",
-  "saved_at": "2026-10-18T04:02:08+00:00"
+  "last_run_at": "2026-10-18T04:10:15+00:00",
+  "saved_at": "2026-10-18T04:12:07+00:00"
  },
  "schema": 1
 }
