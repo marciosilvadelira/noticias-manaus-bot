@@ -4398,13 +4398,34 @@
    "updated_at": "2026-10-18T13:20:15+00:00",
    "url": "https://marioadolfo.com/dito-feito-advinhe-quem-veio-para-almocar/",
    "url_hash": "5f8b29ac92d404a38cf37ac1"
+  },
+  "guid:6ad4ee4052c09500099dd4e6": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Cada turno é considerado uma eleição independente",
+   "discovered_at": "2026-10-18T16:10:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad4ee4052c09500099dd4e6",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/72a53e8f-27cf-4494-af75-cbf463f9edce.jpeg",
+   "key": "guid:6ad4ee4052c09500099dd4e6",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-18T16:06:34+00:00",
+   "status": "pending",
+   "title": "Eleições: quem não votou no primeiro turno pode participar do segundo",
+   "updated_at": "2026-10-18T16:10:15+00:00",
+   "url": "https://marioadolfo.com/eleicoes-quem-nao-votou-no-primeiro-turno-pode-participar-do-segundo/",
+   "url_hash": "b3b7dfb751b1fa3edfdd7bfb"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-18T16:00:19+00:00",
-  "saved_at": "2026-10-18T16:00:20+00:00"
+  "last_run_at": "2026-10-18T16:10:14+00:00",
+  "saved_at": "2026-10-18T16:10:16+00:00"
  },
  "schema": 1
 }
