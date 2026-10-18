@@ -3549,11 +3549,19 @@
    "url_hash": "2caac777a32650e25df5253e"
   },
   "guid:6ad2d9e952c09500099dd109": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-18T04:02:08+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1511158927701665",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Polícia Federal investiga pagamentos de Daniel Vorcaro para o filme",
    "discovered_at": "2026-10-17T12:10:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1511158927701665",
    "formats": [
     "link"
    ],
@@ -3561,11 +3569,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/547acb1f-5509-4cfc-a48f-585b3f75a7ff.jpg",
    "key": "guid:6ad2d9e952c09500099dd109",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1511158927701665"
+   },
    "source_published_at": "2026-10-17T12:00:23+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "PF pede prorrogação de inquérito sobre financiamento do Dark Horse",
-   "updated_at": "2026-10-17T12:10:15+00:00",
+   "updated_at": "2026-10-18T04:02:08+00:00",
    "url": "https://marioadolfo.com/pf-pede-prorrogacao-de-inquerito-sobre-financiamento-do-dark-horse/",
    "url_hash": "8f332f96b0c91ecbf85ce2de"
   },
@@ -3591,11 +3601,19 @@
    "url_hash": "759040fc8292a0e380198057"
   },
   "guid:6ad2dcd752c09500099dd136": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-18T04:00:53+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1511158181035073",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Facebook não pode reduzir distribuição, excluir ou restringir buscas",
    "discovered_at": "2026-10-17T11:40:14+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1511158181035073",
    "formats": [
     "link"
    ],
@@ -3603,20 +3621,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a07bcdaa-ac86-4724-b944-548e33258677.jpg",
    "key": "guid:6ad2dcd752c09500099dd136",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1511158181035073"
+   },
    "source_published_at": "2026-10-17T11:30:41+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "TSE decide manter ordem para Meta garantir isonomia a candidatos",
-   "updated_at": "2026-10-17T11:40:14+00:00",
+   "updated_at": "2026-10-18T04:00:53+00:00",
    "url": "https://marioadolfo.com/tse-decide-manter-ordem-para-meta-garantir-isonomia-a-candidatos/",
    "url_hash": "19d68952d04aa59ad52b78f4"
   },
   "guid:6ad2dd4652c09500099dd14e": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-18T04:00:28+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1511157937701764",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "A descoberta foi feita por três topógrafos que trabalhavam na demarcação da região",
    "discovered_at": "2026-10-17T11:10:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1511157937701764",
    "formats": [
     "link"
    ],
@@ -3624,20 +3652,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/9d26258c-d348-4184-8e88-2b5a80b14277.jpeg",
    "key": "guid:6ad2dd4652c09500099dd14e",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1511157937701764"
+   },
    "source_published_at": "2026-10-17T11:00:59+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Vídeo: ossada humana é achada em área de mata na Ponta Negra",
-   "updated_at": "2026-10-17T11:10:15+00:00",
+   "updated_at": "2026-10-18T04:00:28+00:00",
    "url": "https://marioadolfo.com/video-ossada-humana-e-achada-na-ponta-negra/",
    "url_hash": "60ceb3379342fc93da93749b"
   },
   "guid:6ad2de0f52c09500099dd16b": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-18T04:01:42+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1511158624368362",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Em Manaus, as atividades serão na sede da Fiocruz, na Rua Teresina, bairro Adrianópolis, de 8h30 às 12h",
    "discovered_at": "2026-10-17T11:50:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1511158624368362",
    "formats": [
     "link"
    ],
@@ -3645,20 +3683,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/60f7e729-cb24-436c-8af3-579b606f6ca2.jpg",
    "key": "guid:6ad2de0f52c09500099dd16b",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1511158624368362"
+   },
    "source_published_at": "2026-10-17T11:45:49+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Fiocruz oferece vacinas para crianças e adultos neste sábado",
-   "updated_at": "2026-10-17T11:50:15+00:00",
+   "updated_at": "2026-10-18T04:01:42+00:00",
    "url": "https://marioadolfo.com/fiocruz-oferece-vacinas-para-criancas-e-adultos-neste-sabado/",
    "url_hash": "d9d623608561823fc13b7f53"
   },
   "guid:6ad2dee352c09500099dd18a": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-18T04:01:18+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1511158404368384",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Incêndio começou em 6 de outubro e atingiu mais de 15 mil m², com impacto na qualidade do ar e risco à saúde pública",
    "discovered_at": "2026-10-17T11:40:14+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1511158404368384",
    "formats": [
     "link"
    ],
@@ -3666,11 +3714,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/77616333-d515-4488-a90a-efd9aff300f6.jpeg",
    "key": "guid:6ad2dee352c09500099dd18a",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1511158404368384"
+   },
    "source_published_at": "2026-10-17T11:30:55+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Justiça suspende atividades em área atingida por incêndio no Distrito Industrial 2",
-   "updated_at": "2026-10-17T11:40:14+00:00",
+   "updated_at": "2026-10-18T04:01:18+00:00",
    "url": "https://marioadolfo.com/justica-suspende-atividades-em-area-atingida-por-incendio-no-distrito-industrial-2/",
    "url_hash": "706ad4e6f8b78fdc78a9db35"
   },
@@ -3972,8 +4022,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-18T03:50:16+00:00",
-  "saved_at": "2026-10-18T03:50:19+00:00"
+  "last_run_at": "2026-10-18T04:00:20+00:00",
+  "saved_at": "2026-10-18T04:02:08+00:00"
  },
  "schema": 1
 }
