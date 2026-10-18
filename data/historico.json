@@ -4210,6 +4210,27 @@
    "url": "https://marioadolfo.com/enem-reta-final-para-inscritos-automaticamente-escolherem-idioma/",
    "url_hash": "84d4eb5af50818b6ce9cf0bb"
   },
+  "guid:6ad4208552c09500099dd3a3": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "José Múcio afirmou que irá enviar um avião para o deslocamento de tropas e de 70 caixas usadas no despejo de água para o combate ao fogo",
+   "discovered_at": "2026-10-18T12:00:23+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad4208552c09500099dd3a3",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/9ad4b7a0-62f8-4c76-a08b-8b89e81a8edd.jpg",
+   "key": "guid:6ad4208552c09500099dd3a3",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-18T12:00:23+00:00",
+   "status": "pending",
+   "title": "Ministro da Defesa confirma envio de aeronave e equipamentos para combater queimadas",
+   "updated_at": "2026-10-18T12:00:23+00:00",
+   "url": "https://marioadolfo.com/ministro-da-defesa-confirma-envio-de-aeronave-e-equipamentos-para-combater-queimadas/",
+   "url_hash": "5368c45e995255827dd3a66d"
+  },
   "guid:6ad4225452c09500099dd3c8": {
    "attempts": [],
    "category": "Amazonas",
@@ -4298,8 +4319,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-18T11:50:14+00:00",
-  "saved_at": "2026-10-18T11:50:16+00:00"
+  "last_run_at": "2026-10-18T12:00:22+00:00",
+  "saved_at": "2026-10-18T12:00:23+00:00"
  },
  "schema": 1
 }
