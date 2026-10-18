@@ -4035,11 +4035,19 @@
    "url_hash": "85554e1aa2fc8d8355a2c858"
   },
   "guid:6ad3ad5852c09500099dd2f6": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-18T04:30:23+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1511176771033214",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Renato Júnior afirmou que a fumaça que atinge a cidade é causada principalmente por incêndios registrados em outros municípios e estados",
    "discovered_at": "2026-10-17T17:20:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1511176771033214",
    "formats": [
     "link"
    ],
@@ -4047,20 +4055,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f60f3b96-e178-45b7-ab19-184058019ee1.jpeg",
    "key": "guid:6ad3ad5852c09500099dd2f6",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1511176771033214"
+   },
    "source_published_at": "2026-10-17T17:18:48+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Prefeito de Manaus pede ajuda internacional diante do avanço da fumaça",
-   "updated_at": "2026-10-17T17:20:16+00:00",
+   "updated_at": "2026-10-18T04:30:23+00:00",
    "url": "https://marioadolfo.com/prefeito-de-manaus-pede-ajuda-internacional-diante-do-avanco-da-fumaca/",
    "url_hash": "28d0dc4c2158a7ed0ca518fe"
   },
   "guid:6ad3ce3052c09500099dd30f": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-18T04:30:51+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1511177081033183",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "TSE orienta consultar novo endereço das seções com antecedência",
    "discovered_at": "2026-10-17T19:40:14+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1511177081033183",
    "formats": [
     "link"
    ],
@@ -4068,20 +4086,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d25cf85a-048c-4581-a2f0-0efa9daeee20.jpeg",
    "key": "guid:6ad3ce3052c09500099dd30f",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1511177081033183"
+   },
    "source_published_at": "2026-10-17T19:37:44+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Mais de 4 mil eleitores tiveram locais de votação alterados",
-   "updated_at": "2026-10-17T19:40:14+00:00",
+   "updated_at": "2026-10-18T04:30:51+00:00",
    "url": "https://marioadolfo.com/mais-de-4-mil-eleitores-tiveram-locais-de-votacao-alterados/",
    "url_hash": "e644b5f757b2a4207f45a2d9"
   },
   "guid:6ad3ceb052c09500099dd32d": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-18T04:31:15+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1511177334366491",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Companhia disponibiliza caminhão-tanque e reservas de água para aeronaves enviadas pelo Governo Federal",
    "discovered_at": "2026-10-17T19:50:14+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1511177334366491",
    "formats": [
     "link"
    ],
@@ -4089,20 +4117,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e539447b-dae4-4862-b32c-eb67b606f8d4.png",
    "key": "guid:6ad3ceb052c09500099dd32d",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1511177334366491"
+   },
    "source_published_at": "2026-10-17T19:47:15+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Grupo Atem mobiliza estrutura para apoiar combate aos incêndios no Amazonas",
-   "updated_at": "2026-10-17T19:50:14+00:00",
+   "updated_at": "2026-10-18T04:31:15+00:00",
    "url": "https://marioadolfo.com/grupo-atem-mobiliza-estrutura-para-apoiar-combate-aos-incendios-no-amazonas/",
    "url_hash": "007d66f96529919eaa9ff0b8"
   },
   "guid:6ad3d0eb52c09500099dd350": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-18T04:31:42+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1511177604366464",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Reunião vai definir novas medidas de combate aos incêndios, enquanto o Corpo de Bombeiros solicita quatro aeronaves de grande porte ao Governo Federal",
    "discovered_at": "2026-10-17T20:00:20+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1511177604366464",
    "formats": [
     "link"
    ],
@@ -4110,11 +4148,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6841318a-49b5-43ea-a82b-9ec41e763f8f.jpeg",
    "key": "guid:6ad3d0eb52c09500099dd350",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1511177604366464"
+   },
    "source_published_at": "2026-10-17T19:55:39+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Roberto Cidade solicita mais apoio federal para combater queimadas",
-   "updated_at": "2026-10-17T20:00:20+00:00",
+   "updated_at": "2026-10-18T04:31:42+00:00",
    "url": "https://marioadolfo.com/roberto-cidade-solicita-mais-apoio-federal-para-combater-queimadas/",
    "url_hash": "38e00b930a190a8c4018effc"
   }
@@ -4122,8 +4162,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-18T04:20:13+00:00",
-  "saved_at": "2026-10-18T04:22:02+00:00"
+  "last_run_at": "2026-10-18T04:30:16+00:00",
+  "saved_at": "2026-10-18T04:31:42+00:00"
  },
  "schema": 1
 }
