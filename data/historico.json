@@ -4356,13 +4356,34 @@
    "updated_at": "2026-10-18T13:00:19+00:00",
    "url": "https://marioadolfo.com/defesa-civil-emite-alerta-para-chuva-intensa-e-alagamento-em-manaus/",
    "url_hash": "d2fe7d48990b24b4fddbebe6"
+  },
+  "guid:6ad4c47052c09500099dd486": {
+   "attempts": [],
+   "category": "Dito & Feito",
+   "description": "A Globo  manteve Lula nas “cordas” com perguntas incômodas na  entrevista de quarta-feira (15), mas ofereceu almoço ao Flávio Bolsonaro, antes da entrevista de quinta-feira (16)",
+   "discovered_at": "2026-10-18T13:20:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad4c47052c09500099dd486",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/82b88afe-aea2-4844-8812-966d9707d725.jpeg",
+   "key": "guid:6ad4c47052c09500099dd486",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-18T13:14:07+00:00",
+   "status": "pending",
+   "title": "Dito & Feito: ADIVINHE QUEM VEIO PARA ALMOLÇAR?",
+   "updated_at": "2026-10-18T13:20:15+00:00",
+   "url": "https://marioadolfo.com/dito-feito-advinhe-quem-veio-para-almocar/",
+   "url_hash": "5f8b29ac92d404a38cf37ac1"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-18T13:10:14+00:00",
-  "saved_at": "2026-10-18T13:10:16+00:00"
+  "last_run_at": "2026-10-18T13:20:15+00:00",
+  "saved_at": "2026-10-18T13:20:16+00:00"
  },
  "schema": 1
 }
