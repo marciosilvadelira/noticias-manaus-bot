@@ -4335,13 +4335,34 @@
    "updated_at": "2026-10-18T11:50:16+00:00",
    "url": "https://marioadolfo.com/adolescente-e-apreendido-em-autazes-suspeito-de-causar-incendios-florestais/",
    "url_hash": "0e34476996445f2b65a7c60c"
+  },
+  "guid:6ad4c0e452c09500099dd45b": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Chuva que atingiu a capital na manhã de domingo ajudou a melhorar qualidade do ar",
+   "discovered_at": "2026-10-18T13:00:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad4c0e452c09500099dd45b",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/777242e2-0232-4225-8fdc-04ba5341e4da.webp",
+   "key": "guid:6ad4c0e452c09500099dd45b",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-18T12:54:24+00:00",
+   "status": "pending",
+   "title": "Defesa Civil emite alerta para chuva intensa e alagamento em Manaus",
+   "updated_at": "2026-10-18T13:00:19+00:00",
+   "url": "https://marioadolfo.com/defesa-civil-emite-alerta-para-chuva-intensa-e-alagamento-em-manaus/",
+   "url_hash": "d2fe7d48990b24b4fddbebe6"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-18T12:50:15+00:00",
-  "saved_at": "2026-10-18T12:50:16+00:00"
+  "last_run_at": "2026-10-18T13:00:19+00:00",
+  "saved_at": "2026-10-18T13:00:20+00:00"
  },
  "schema": 1
 }
