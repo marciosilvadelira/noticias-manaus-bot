@@ -4461,13 +4461,34 @@
    "updated_at": "2026-10-18T16:20:16+00:00",
    "url": "https://marioadolfo.com/homem-e-encontrado-morto-com-hematomas-na-praia-da-ponta-negra/",
    "url_hash": "d520a28ba7ed3350aca6fc83"
+  },
+  "guid:6ad518ae52c09500099dd52b": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Comitiva do governo federal, formada por quatro ministros, desembarcou em Manaus para ampliar as ações para conter os incêndios florestais",
+   "discovered_at": "2026-10-18T19:20:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad518ae52c09500099dd52b",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b6b1e4b5-74a3-4314-930c-5f6940c73180.jpeg",
+   "key": "guid:6ad518ae52c09500099dd52b",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-18T19:16:06+00:00",
+   "status": "pending",
+   "title": "Ministro anuncia reforço das Forças Armadas e mais aviões para combate às queimadas no Amazonas",
+   "updated_at": "2026-10-18T19:20:15+00:00",
+   "url": "https://marioadolfo.com/ministro-anuncia-reforco-das-forcas-armadas-e-mais-avioes-para-combate-as-queimadas-no-amazonas/",
+   "url_hash": "72e726a2310084209dbff41f"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-18T19:10:14+00:00",
-  "saved_at": "2026-10-18T19:10:15+00:00"
+  "last_run_at": "2026-10-18T19:20:14+00:00",
+  "saved_at": "2026-10-18T19:20:15+00:00"
  },
  "schema": 1
 }
