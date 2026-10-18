@@ -4419,13 +4419,55 @@
    "updated_at": "2026-10-18T16:10:15+00:00",
    "url": "https://marioadolfo.com/eleicoes-quem-nao-votou-no-primeiro-turno-pode-participar-do-segundo/",
    "url_hash": "b3b7dfb751b1fa3edfdd7bfb"
+  },
+  "guid:6ad4eee152c09500099dd4fb": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Outras 17 cidades estão em alerta e cinco em atenção; mais de 101 mil famílias foram atingidas no estado",
+   "discovered_at": "2026-10-18T16:20:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad4eee152c09500099dd4fb",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/9432bf54-a94c-48a4-9af3-328c193b4429.jpeg",
+   "key": "guid:6ad4eee152c09500099dd4fb",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-18T16:10:51+00:00",
+   "status": "pending",
+   "title": "Estiagem coloca 40 cidades em situação de emergência no Amazonas",
+   "updated_at": "2026-10-18T16:20:16+00:00",
+   "url": "https://marioadolfo.com/estiagem-coloca-40-cidades-em-situacao-de-emergencia-no-amazonas/",
+   "url_hash": "c3ebfef27dcf852adbd47514"
+  },
+  "guid:6ad4f07c52c09500099dd513": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "A vítima vestia apenas uma bermuda preta quando foi localizada na manhã deste domingo (18)",
+   "discovered_at": "2026-10-18T16:20:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad4f07c52c09500099dd513",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/755cf98a-1e17-42cd-88c9-8536a5501266.png",
+   "key": "guid:6ad4f07c52c09500099dd513",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-18T16:18:27+00:00",
+   "status": "pending",
+   "title": "Homem é encontrado morto com hematomas na praia da Ponta Negra",
+   "updated_at": "2026-10-18T16:20:16+00:00",
+   "url": "https://marioadolfo.com/homem-e-encontrado-morto-com-hematomas-na-praia-da-ponta-negra/",
+   "url_hash": "d520a28ba7ed3350aca6fc83"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-18T16:10:14+00:00",
-  "saved_at": "2026-10-18T16:10:16+00:00"
+  "last_run_at": "2026-10-18T16:20:14+00:00",
+  "saved_at": "2026-10-18T16:20:16+00:00"
  },
  "schema": 1
 }
