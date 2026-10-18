@@ -4230,13 +4230,34 @@
    "updated_at": "2026-10-18T11:10:15+00:00",
    "url": "https://marioadolfo.com/video-dupla-e-flagrada-ateando-fogo-em-area-de-mata-na-avenida-das-torres/",
    "url_hash": "ab3d323a1bc8916faa87f986"
+  },
+  "guid:6ad424ac52c09500099dd3ff": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Fogo atingiu áreas de vegetação e ameaçou casas; uma segunda ocorrência foi registrada na comunidade do Janauari",
+   "discovered_at": "2026-10-18T11:40:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad424ac52c09500099dd3ff",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2f1eec80-fa8e-4bf4-a717-e60a6235891c.jpg",
+   "key": "guid:6ad424ac52c09500099dd3ff",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-18T11:30:18+00:00",
+   "status": "pending",
+   "title": "Vídeo: queimadas em Iranduba mobilizam equipes do Corpo de Bombeiros",
+   "updated_at": "2026-10-18T11:40:15+00:00",
+   "url": "https://marioadolfo.com/video-queimadas-em-iranduba-mobilizam-equipes-do-corpo-de-bombeiros/",
+   "url_hash": "3de6c6363c6698c5075b83d8"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-18T11:30:16+00:00",
-  "saved_at": "2026-10-18T11:30:18+00:00"
+  "last_run_at": "2026-10-18T11:40:14+00:00",
+  "saved_at": "2026-10-18T11:40:15+00:00"
  },
  "schema": 1
 }
