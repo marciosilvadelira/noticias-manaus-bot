@@ -4294,6 +4294,27 @@
    "url": "https://marioadolfo.com/video-queimadas-em-iranduba-mobilizam-equipes-do-corpo-de-bombeiros/",
    "url_hash": "3de6c6363c6698c5075b83d8"
   },
+  "guid:6ad4256052c09500099dd41a": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Suspeito do homicídio foi capturado por populares e encaminhado à custódia policial após intervenção da Guarda Municipal.",
+   "discovered_at": "2026-10-18T12:10:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad4256052c09500099dd41a",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b5e071d5-80e2-4d72-88b9-da4a8fc4d177.jpg",
+   "key": "guid:6ad4256052c09500099dd41a",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-18T12:00:25+00:00",
+   "status": "pending",
+   "title": "Homem é morto após suspeita de furto de macaxeira na Manaus Moderna",
+   "updated_at": "2026-10-18T12:10:15+00:00",
+   "url": "https://marioadolfo.com/homem-e-morto-apos-suspeita-de-furto-de-macaxeira-na-manaus-moderna/",
+   "url_hash": "0cd6d404e902111cc4e20f24"
+  },
   "guid:6ad4278a52c09500099dd437": {
    "attempts": [],
    "category": "Polícia",
@@ -4319,8 +4340,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-18T12:00:22+00:00",
-  "saved_at": "2026-10-18T12:00:23+00:00"
+  "last_run_at": "2026-10-18T12:10:15+00:00",
+  "saved_at": "2026-10-18T12:10:16+00:00"
  },
  "schema": 1
 }
