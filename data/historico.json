@@ -4357,6 +4357,27 @@
    "url": "https://marioadolfo.com/defesa-civil-emite-alerta-para-chuva-intensa-e-alagamento-em-manaus/",
    "url_hash": "d2fe7d48990b24b4fddbebe6"
   },
+  "guid:6ad4c3fa52c09500099dd47f": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "O anúncio foi pelo senador Eduardo Braga. Estão previstos os ministros José Múcio, Waldez Góes, João Paulo Capobianco e Wellington César",
+   "discovered_at": "2026-10-18T13:27:49+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad4c3fa52c09500099dd47f",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/9260152f-b67f-43c9-ba98-217bb9f32bec.jpeg",
+   "key": "guid:6ad4c3fa52c09500099dd47f",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-18T13:20:23+00:00",
+   "status": "pending",
+   "title": "Comitiva de ministros desembarca em Manaus para ampliar ações de combate às queimadas",
+   "updated_at": "2026-10-18T13:27:49+00:00",
+   "url": "https://marioadolfo.com/comitiva-de-ministros-desembarca-em-manaus-para-ampliar-acoes-de-combate-as-queimadas/",
+   "url_hash": "7f0da40319882d03d01a4876"
+  },
   "guid:6ad4c47052c09500099dd486": {
    "attempts": [],
    "category": "Dito & Feito",
@@ -4382,8 +4403,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-18T13:20:15+00:00",
-  "saved_at": "2026-10-18T13:20:16+00:00"
+  "last_run_at": "2026-10-18T13:27:49+00:00",
+  "saved_at": "2026-10-18T13:27:50+00:00"
  },
  "schema": 1
 }
