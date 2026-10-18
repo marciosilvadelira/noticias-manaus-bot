@@ -3880,11 +3880,19 @@
    "url_hash": "3f8453f1603a665124ff9bf4"
   },
   "guid:6ad39a0752c09500099dd271": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-18T04:20:20+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1511170147700543",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Será o primeiro debate presidencial com presença de ambos",
    "discovered_at": "2026-10-17T16:00:19+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1511170147700543",
    "formats": [
     "link"
    ],
@@ -3892,20 +3900,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6ac826e0-9394-4e6a-81a3-689de5879ed3.jpg",
    "key": "guid:6ad39a0752c09500099dd271",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1511170147700543"
+   },
    "source_published_at": "2026-10-17T15:54:49+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Debate da Band entre Lula e Flávio terá confronto livre de 30 minutos",
-   "updated_at": "2026-10-17T16:00:19+00:00",
+   "updated_at": "2026-10-18T04:20:20+00:00",
    "url": "https://marioadolfo.com/debate-da-band-entre-lula-e-flavio-tera-confronto-livre-de-30-minutos/",
    "url_hash": "5db2d7f6e6fa6cfd9ca035b1"
   },
   "guid:6ad39aec52c09500099dd287": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-18T04:20:44+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1511170417700516",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Victor Simões da Silva estava na aeronave com José Ricardo Santana, que também morreu no acidente",
    "discovered_at": "2026-10-17T16:00:19+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1511170417700516",
    "formats": [
     "link"
    ],
@@ -3913,20 +3931,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c3b863e2-7521-44d8-b29e-fc84b86882a9.png",
    "key": "guid:6ad39aec52c09500099dd287",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1511170417700516"
+   },
    "source_published_at": "2026-10-17T15:59:34+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Vídeo mostra queda de avião que matou empresário amazonense em SP",
-   "updated_at": "2026-10-17T16:00:19+00:00",
+   "updated_at": "2026-10-18T04:20:44+00:00",
    "url": "https://marioadolfo.com/video-6/",
    "url_hash": "3eb5a922ac0636791af0dd0c"
   },
   "guid:6ad39c4752c09500099dd2a3": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-18T04:21:10+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1511170854367139",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Vítima foi localizada desacordada e com múltiplos ferimentos pelo corpo na madrugada deste sábado (17)",
    "discovered_at": "2026-10-17T16:10:14+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1511170854367139",
    "formats": [
     "link"
    ],
@@ -3934,20 +3962,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6b5cd17b-4271-4bf1-a1e7-12ffc9725be9.jpeg",
    "key": "guid:6ad39c4752c09500099dd2a3",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1511170854367139"
+   },
    "source_published_at": "2026-10-17T16:06:52+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Homem é encontrado com língua cortada e perfuração no pescoço em Maués",
-   "updated_at": "2026-10-17T16:10:14+00:00",
+   "updated_at": "2026-10-18T04:21:10+00:00",
    "url": "https://marioadolfo.com/homem-e-encontrado-com-lingua-cortada-e-perfuracao-no-pescoco-em-maues/",
    "url_hash": "7bd3e38b49002069b6c686cb"
   },
   "guid:6ad39d6852c09500099dd2bf": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-18T04:21:36+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1511171184367106",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "O voto é facultativo para eleitores com mais de 70 anos, assim como para os analfabetos e para os jovens com mais de 16 e menos de 18 anos",
    "discovered_at": "2026-10-17T16:10:14+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1511171184367106",
    "formats": [
     "link"
    ],
@@ -3955,20 +3993,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5c91bcef-9695-4300-97b6-224500ff7777.jpg",
    "key": "guid:6ad39d6852c09500099dd2bf",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1511171184367106"
+   },
    "source_published_at": "2026-10-17T16:09:51+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Abstenção entre eleitores com mais de 70 anos foi de 49,1% no 1º turno",
-   "updated_at": "2026-10-17T16:10:14+00:00",
+   "updated_at": "2026-10-18T04:21:36+00:00",
    "url": "https://marioadolfo.com/abstencao-entre-eleitores-com-mais-de-70-anos-foi-de-49-1-no-1o-turno/",
    "url_hash": "5df1ec4ac800a69893644878"
   },
   "guid:6ad3aba052c09500099dd2da": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-18T04:22:02+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1511171421033749",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "O ato será às 16h, no Parque Gigantes da Floresta, na Zona Leste de Manaus.  Manifestações também previstas em municípios do interior",
    "discovered_at": "2026-10-17T17:20:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1511171421033749",
    "formats": [
     "link"
    ],
@@ -3976,11 +4024,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/3b51c62d-620a-4995-abbf-f3c2d382cf8e.jpeg",
    "key": "guid:6ad3aba052c09500099dd2da",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1511171421033749"
+   },
    "source_published_at": "2026-10-17T17:10:32+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Eduardo Braga convoca grande ato por Lula e Omar neste domingo (18)",
-   "updated_at": "2026-10-17T17:20:16+00:00",
+   "updated_at": "2026-10-18T04:22:02+00:00",
    "url": "https://marioadolfo.com/eduardo-braga-convoca-grande-ato-por-lula-e-omar-neste-domingo/",
    "url_hash": "85554e1aa2fc8d8355a2c858"
   },
@@ -4072,8 +4122,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-18T04:10:15+00:00",
-  "saved_at": "2026-10-18T04:12:07+00:00"
+  "last_run_at": "2026-10-18T04:20:13+00:00",
+  "saved_at": "2026-10-18T04:22:02+00:00"
  },
  "schema": 1
 }
