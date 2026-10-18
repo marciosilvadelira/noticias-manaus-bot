@@ -4157,13 +4157,44 @@
    "updated_at": "2026-10-18T04:31:42+00:00",
    "url": "https://marioadolfo.com/roberto-cidade-solicita-mais-apoio-federal-para-combater-queimadas/",
    "url_hash": "38e00b930a190a8c4018effc"
+  },
+  "guid:6ad41eb952c09500099dd38c": {
+   "attempts": [
+    {
+     "at": "2026-10-18T11:00:28+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1511435764340648",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Brasil",
+   "description": "Inscrição automática atende alunos da rede pública no ensino médio",
+   "discovered_at": "2026-10-18T11:00:20+00:00",
+   "fb_post_id": "107393769293726_1511435764340648",
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad41eb952c09500099dd38c",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/090bef49-a434-4458-85df-af6bffebf9f0.jpg",
+   "key": "guid:6ad41eb952c09500099dd38c",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1511435764340648"
+   },
+   "source_published_at": "2026-10-18T11:00:20+00:00",
+   "status": "published",
+   "title": "Enem: reta final para inscritos automaticamente escolherem idioma",
+   "updated_at": "2026-10-18T11:00:28+00:00",
+   "url": "https://marioadolfo.com/enem-reta-final-para-inscritos-automaticamente-escolherem-idioma/",
+   "url_hash": "84d4eb5af50818b6ce9cf0bb"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-18T10:50:14+00:00",
-  "saved_at": "2026-10-18T10:50:15+00:00"
+  "last_run_at": "2026-10-18T11:00:19+00:00",
+  "saved_at": "2026-10-18T11:00:28+00:00"
  },
  "schema": 1
 }
