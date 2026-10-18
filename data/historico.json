@@ -4482,13 +4482,34 @@
    "updated_at": "2026-10-18T19:20:15+00:00",
    "url": "https://marioadolfo.com/ministro-anuncia-reforco-das-forcas-armadas-e-mais-avioes-para-combate-as-queimadas-no-amazonas/",
    "url_hash": "72e726a2310084209dbff41f"
+  },
+  "guid:6ad5203052c09500099dd55b": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "A informação foi divulgada pelo governador do Amazonas, Roberto Cidade, durante coletiva de imprensa",
+   "discovered_at": "2026-10-18T19:50:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad5203052c09500099dd55b",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b930e28b-af52-49b8-bb13-adeae9fdc4a4.jpeg",
+   "key": "guid:6ad5203052c09500099dd55b",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-18T19:42:11+00:00",
+   "status": "pending",
+   "title": "Onze pessoas são presas suspeitas de envolvimento em queimadas em Autazes",
+   "updated_at": "2026-10-18T19:50:16+00:00",
+   "url": "https://marioadolfo.com/onze-pessoas-sao-presas-suspeitas-de-envolvimento-em-queimadas-em-autazes/",
+   "url_hash": "3d81a34a68bb9fb07e6e8eef"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-18T19:40:13+00:00",
-  "saved_at": "2026-10-18T19:40:16+00:00"
+  "last_run_at": "2026-10-18T19:50:15+00:00",
+  "saved_at": "2026-10-18T19:50:17+00:00"
  },
  "schema": 1
 }
