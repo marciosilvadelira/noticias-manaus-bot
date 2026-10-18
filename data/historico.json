@@ -4210,6 +4210,27 @@
    "url": "https://marioadolfo.com/enem-reta-final-para-inscritos-automaticamente-escolherem-idioma/",
    "url_hash": "84d4eb5af50818b6ce9cf0bb"
   },
+  "guid:6ad4225452c09500099dd3c8": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Reunião alinhou estratégias de enfrentamento às queimadas criminosas e fortalecer a atuação conjunta dos órgãos",
+   "discovered_at": "2026-10-18T11:50:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad4225452c09500099dd3c8",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/63c6d942-f63f-4ba8-b202-ce8e0bd9637f.jpeg",
+   "key": "guid:6ad4225452c09500099dd3c8",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-18T11:45:01+00:00",
+   "status": "pending",
+   "title": "MPAM e órgãos federais vão atuar para responsabilizar autores de queimadas",
+   "updated_at": "2026-10-18T11:50:16+00:00",
+   "url": "https://marioadolfo.com/mpam-e-orgaos-federais-vao-atuar-para-responsabilizar-autores-de-queimadas/",
+   "url_hash": "52e6ee7474c12dfb0fe708fa"
+  },
   "guid:6ad4238852c09500099dd3de": {
    "attempts": [],
    "category": "Polícia",
@@ -4251,13 +4272,34 @@
    "updated_at": "2026-10-18T11:40:15+00:00",
    "url": "https://marioadolfo.com/video-queimadas-em-iranduba-mobilizam-equipes-do-corpo-de-bombeiros/",
    "url_hash": "3de6c6363c6698c5075b83d8"
+  },
+  "guid:6ad4278a52c09500099dd437": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "O caso deverá ser apurado pelas autoridades competentes para esclarecer as circunstâncias do ocorrido e a possível participação do adolescente",
+   "discovered_at": "2026-10-18T11:50:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad4278a52c09500099dd437",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/149eae5f-8ef3-49e7-9549-13bed7a0de66.jpg",
+   "key": "guid:6ad4278a52c09500099dd437",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-18T11:45:26+00:00",
+   "status": "pending",
+   "title": "Adolescente é apreendido em Autazes suspeito de causar incêndios florestais",
+   "updated_at": "2026-10-18T11:50:16+00:00",
+   "url": "https://marioadolfo.com/adolescente-e-apreendido-em-autazes-suspeito-de-causar-incendios-florestais/",
+   "url_hash": "0e34476996445f2b65a7c60c"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-18T11:40:14+00:00",
-  "saved_at": "2026-10-18T11:40:15+00:00"
+  "last_run_at": "2026-10-18T11:50:14+00:00",
+  "saved_at": "2026-10-18T11:50:16+00:00"
  },
  "schema": 1
 }
