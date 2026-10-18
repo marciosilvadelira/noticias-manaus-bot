@@ -4158,6 +4158,27 @@
    "url": "https://marioadolfo.com/roberto-cidade-solicita-mais-apoio-federal-para-combater-queimadas/",
    "url_hash": "38e00b930a190a8c4018effc"
   },
+  "guid:6ad41de152c09500099dd376": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A exposição à fumaça exige atenção, principalmente dos grupos mais vulneráveis",
+   "discovered_at": "2026-10-18T11:10:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad41de152c09500099dd376",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d8dff235-6bda-4fa9-9d42-bc6b3821c12a.jpeg",
+   "key": "guid:6ad41de152c09500099dd376",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-18T11:00:55+00:00",
+   "status": "pending",
+   "title": "Fumaça das queimadas acende alerta para a saúde da população",
+   "updated_at": "2026-10-18T11:10:15+00:00",
+   "url": "https://marioadolfo.com/fumaca-das-queimadas-acende-alerta-para-a-saude-da-populacao/",
+   "url_hash": "ed5c6f88bbeb368b954ca276"
+  },
   "guid:6ad41eb952c09500099dd38c": {
    "attempts": [
     {
@@ -4188,13 +4209,34 @@
    "updated_at": "2026-10-18T11:00:28+00:00",
    "url": "https://marioadolfo.com/enem-reta-final-para-inscritos-automaticamente-escolherem-idioma/",
    "url_hash": "84d4eb5af50818b6ce9cf0bb"
+  },
+  "guid:6ad4238852c09500099dd3de": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Imagens registradas por um motorista mostram dois homens próximos a um foco de incêndio",
+   "discovered_at": "2026-10-18T11:10:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad4238852c09500099dd3de",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/021d6bda-ce68-4b09-b4ac-c643370f053b.png",
+   "key": "guid:6ad4238852c09500099dd3de",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-18T11:00:24+00:00",
+   "status": "pending",
+   "title": "Vídeo: dupla é flagrada ateando fogo em área de mata na Avenida das Torres",
+   "updated_at": "2026-10-18T11:10:15+00:00",
+   "url": "https://marioadolfo.com/video-dupla-e-flagrada-ateando-fogo-em-area-de-mata-na-avenida-das-torres/",
+   "url_hash": "ab3d323a1bc8916faa87f986"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-18T11:00:19+00:00",
-  "saved_at": "2026-10-18T11:00:28+00:00"
+  "last_run_at": "2026-10-18T11:10:14+00:00",
+  "saved_at": "2026-10-18T11:10:15+00:00"
  },
  "schema": 1
 }
