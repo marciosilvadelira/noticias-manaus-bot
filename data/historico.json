@@ -5018,13 +5018,34 @@
    "updated_at": "2026-10-19T17:20:20+00:00",
    "url": "https://marioadolfo.com/homem-e-preso-suspeito-de-assassinar-mulher-trans-a-tiros-em-manaus/",
    "url_hash": "3879fb876186f4366e8ebe8a"
+  },
+  "guid:6ad6524552c09500099dd6e5": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A iniciativa foi selecionada para a próxima etapa de avaliação, que ocorrerá durante a 5ª Feira da Qualidade, de 9 a 12 de novembro, no Centro de Convenções do Amazonas Vasco Vasques",
+   "discovered_at": "2026-10-19T17:30:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad6524552c09500099dd6e5",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/7870ad63-19cc-4139-ab40-2a9f458bc9a2.jpeg",
+   "key": "guid:6ad6524552c09500099dd6e5",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-19T17:27:17+00:00",
+   "status": "pending",
+   "title": "Programa Blitz TCE chega à final de competição que avalia práticas de gestão",
+   "updated_at": "2026-10-19T17:30:17+00:00",
+   "url": "https://marioadolfo.com/programa-blitz-tce-chega-a-final-de-competicao-que-avalia-praticas-de-gestao/",
+   "url_hash": "116ed327e0bc73ada7b176aa"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-19T17:20:19+00:00",
-  "saved_at": "2026-10-19T17:20:20+00:00"
+  "last_run_at": "2026-10-19T17:30:16+00:00",
+  "saved_at": "2026-10-19T17:30:18+00:00"
  },
  "schema": 1
 }
