@@ -5186,13 +5186,34 @@
    "updated_at": "2026-10-19T19:00:31+00:00",
    "url": "https://marioadolfo.com/mpam-apura-possivel-omissao-na-convocacao-de-aprovados-em-concurso-de-tabatinga/",
    "url_hash": "7634f9b07bb607cbea6f1d07"
+  },
+  "guid:6ad66b7852c09500099dd7a7": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Decisão de segunda instância confirmou indenização por violência física e verbal contra empregada e manteve o reconhecimento do vínculo de trabalho sem registro na carteira",
+   "discovered_at": "2026-10-19T19:20:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad66b7852c09500099dd7a7",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/71dba0f0-3b34-4d57-b399-cb404aa0bb70.jpeg",
+   "key": "guid:6ad66b7852c09500099dd7a7",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-19T19:13:56+00:00",
+   "status": "pending",
+   "title": "Trabalhadora agredida ao cobrar verbas rescisórias receberá R$ 30 mil, decide TRT-11",
+   "updated_at": "2026-10-19T19:20:17+00:00",
+   "url": "https://marioadolfo.com/trabalhadora-agredida-ao-cobrar-verbas-rescisorias-recebera-r-30-mil-decide-trt-11/",
+   "url_hash": "d7266f48cd3bbde84c515eaf"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-19T19:10:17+00:00",
-  "saved_at": "2026-10-19T19:10:17+00:00"
+  "last_run_at": "2026-10-19T19:20:16+00:00",
+  "saved_at": "2026-10-19T19:20:18+00:00"
  },
  "schema": 1
 }
