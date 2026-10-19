@@ -4913,13 +4913,34 @@
    "updated_at": "2026-10-19T15:40:17+00:00",
    "url": "https://marioadolfo.com/quasar-cia-de-danca-apresenta-menos-da-metade-nesta-terca-feira-no-teatro-amazonas/",
    "url_hash": "61cfdf709e1160f13d983ccd"
+  },
+  "guid:6ad63ec252c09500099dd663": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Após depoimento, foi liberado, e arma está sendo periciada",
+   "discovered_at": "2026-10-19T16:10:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad63ec252c09500099dd663",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/eb583f6d-0a13-4c99-849a-b4a078537b7d.webp",
+   "key": "guid:6ad63ec252c09500099dd663",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-19T16:03:02+00:00",
+   "status": "pending",
+   "title": "Deputado estadual Marcelo Aguiar é detido após disparo em bar",
+   "updated_at": "2026-10-19T16:10:18+00:00",
+   "url": "https://marioadolfo.com/deputado-estadual-marcelo-aguiar-e-detido-apos-disparo-em-bar/",
+   "url_hash": "12cb95372950174af99812f5"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-19T16:00:20+00:00",
-  "saved_at": "2026-10-19T16:00:21+00:00"
+  "last_run_at": "2026-10-19T16:10:17+00:00",
+  "saved_at": "2026-10-19T16:10:18+00:00"
  },
  "schema": 1
 }
