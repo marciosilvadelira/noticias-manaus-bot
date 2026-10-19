@@ -4934,13 +4934,34 @@
    "updated_at": "2026-10-19T16:10:18+00:00",
    "url": "https://marioadolfo.com/deputado-estadual-marcelo-aguiar-e-detido-apos-disparo-em-bar/",
    "url_hash": "12cb95372950174af99812f5"
+  },
+  "guid:6ad64b6d52c09500099dd679": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Decisão é do ministro Ricardo Villas Bôas Cueva",
+   "discovered_at": "2026-10-19T17:00:22+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad64b6d52c09500099dd679",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/26c5d612-8fd3-43dd-88a7-b11e508aee49.webp",
+   "key": "guid:6ad64b6d52c09500099dd679",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-19T16:56:21+00:00",
+   "status": "pending",
+   "title": "TSE proíbe novas postagens de Nikolas e Marçal vetados pela justiça",
+   "updated_at": "2026-10-19T17:00:22+00:00",
+   "url": "https://marioadolfo.com/tse-proibe-novas-postagens-de-nikolas-e-marcal-vetados-pela-justica/",
+   "url_hash": "fb59da4a535efabf3a5cfb57"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-19T16:50:15+00:00",
-  "saved_at": "2026-10-19T16:50:17+00:00"
+  "last_run_at": "2026-10-19T17:00:22+00:00",
+  "saved_at": "2026-10-19T17:00:22+00:00"
  },
  "schema": 1
 }
