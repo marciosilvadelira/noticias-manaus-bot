@@ -4850,13 +4850,34 @@
    "updated_at": "2026-10-19T15:00:21+00:00",
    "url": "https://marioadolfo.com/tce-am-julga-contas-da-prefeitura-de-manaus-e-aprecia-134-processos-nesta-terca/",
    "url_hash": "cc18ba03d054ff453a60bb67"
+  },
+  "guid:6ad6318e52c09500099dd622": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Após uma semana de mobilização, caminhões-pipa da concessionária já forneceram mais de 210 mil litros de água para abastecer aeronaves.",
+   "discovered_at": "2026-10-19T15:10:24+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad6318e52c09500099dd622",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/7424ee14-89fc-4a7a-b680-50692fd2a55e.JPG",
+   "key": "guid:6ad6318e52c09500099dd622",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-19T15:05:50+00:00",
+   "status": "pending",
+   "title": "Águas de Manaus amplia apoio logístico às operações de combate aos incêndios no estado",
+   "updated_at": "2026-10-19T15:10:24+00:00",
+   "url": "https://marioadolfo.com/aguas-de-manaus-amplia-apoio-logistico-as-operacoes-de-combate-aos-incendios-no-estado/",
+   "url_hash": "22fd188c7cace9b9d4341fba"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-19T15:00:20+00:00",
-  "saved_at": "2026-10-19T15:00:22+00:00"
+  "last_run_at": "2026-10-19T15:10:21+00:00",
+  "saved_at": "2026-10-19T15:10:25+00:00"
  },
  "schema": 1
 }
