@@ -5207,13 +5207,34 @@
    "updated_at": "2026-10-19T19:20:17+00:00",
    "url": "https://marioadolfo.com/trabalhadora-agredida-ao-cobrar-verbas-rescisorias-recebera-r-30-mil-decide-trt-11/",
    "url_hash": "d7266f48cd3bbde84c515eaf"
+  },
+  "guid:6ad67c2b52c09500099dd7bb": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Solicitações podem ser feitas pela internet ou diretamente na unidade judicial onde tramita a ação, até 23 de outubro.",
+   "discovered_at": "2026-10-19T20:40:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad67c2b52c09500099dd7bb",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/3b881b17-fa66-44b1-b29c-dd773a610a91.jpg",
+   "key": "guid:6ad67c2b52c09500099dd7bb",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-19T20:30:41+00:00",
+   "status": "pending",
+   "title": "TJAM abre prazo para incluir processos na Semana da Conciliação",
+   "updated_at": "2026-10-19T20:40:15+00:00",
+   "url": "https://marioadolfo.com/tjam-abre-prazo-para-incluir-processos-na-semana-da-conciliacao/",
+   "url_hash": "03cb25b62c8a061eeaa2b92e"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-19T20:30:16+00:00",
-  "saved_at": "2026-10-19T20:30:17+00:00"
+  "last_run_at": "2026-10-19T20:40:14+00:00",
+  "saved_at": "2026-10-19T20:40:15+00:00"
  },
  "schema": 1
 }
