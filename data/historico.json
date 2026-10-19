@@ -4871,13 +4871,34 @@
    "updated_at": "2026-10-19T15:10:24+00:00",
    "url": "https://marioadolfo.com/aguas-de-manaus-amplia-apoio-logistico-as-operacoes-de-combate-aos-incendios-no-estado/",
    "url_hash": "22fd188c7cace9b9d4341fba"
+  },
+  "guid:6ad6345852c09500099dd637": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Um vídeo que circula nas redes sociais mostra profissionais de saúde prestando os primeiros socorros à vítima no local.",
+   "discovered_at": "2026-10-19T15:30:20+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad6345852c09500099dd637",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5f9b0ccd-b235-4ce4-8a22-58bc5112389b.webp",
+   "key": "guid:6ad6345852c09500099dd637",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-19T15:22:51+00:00",
+   "status": "pending",
+   "title": "Homem é resgatado com perfuração no pescoço e corte na língua em Maués",
+   "updated_at": "2026-10-19T15:30:20+00:00",
+   "url": "https://marioadolfo.com/homem-e-resgatado-com-perfuracao-no-pescoco-e-corte-na-lingua-em-maues/",
+   "url_hash": "ba9233a260882aff8883ddc8"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-19T15:20:14+00:00",
-  "saved_at": "2026-10-19T15:20:16+00:00"
+  "last_run_at": "2026-10-19T15:30:19+00:00",
+  "saved_at": "2026-10-19T15:30:21+00:00"
  },
  "schema": 1
 }
