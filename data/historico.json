@@ -4684,13 +4684,44 @@
    "updated_at": "2026-10-19T12:20:19+00:00",
    "url": "https://marioadolfo.com/pesquisas-mostram-omar-aziz-com-ampla-vantagem-sobre-maria-do-carmo/",
    "url_hash": "cb7cc43a75accd9209ebd908"
+  },
+  "guid:6ad60de052c09500099dd596": {
+   "attempts": [
+    {
+     "at": "2026-10-19T12:50:20+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1512506990900192",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "Estado tem 40 municípios em emergência e mantém operações de combate a incêndios e fiscalização ambiental.",
+   "discovered_at": "2026-10-19T12:50:15+00:00",
+   "fb_post_id": "107393769293726_1512506990900192",
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad60de052c09500099dd596",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/25c70ada-bb7f-4c38-87d7-75325df3f7c1.jpg",
+   "key": "guid:6ad60de052c09500099dd596",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1512506990900192"
+   },
+   "source_published_at": "2026-10-19T12:41:35+00:00",
+   "status": "published",
+   "title": "Estiagem atinge mais de 101 mil famílias no Amazonas",
+   "updated_at": "2026-10-19T12:50:20+00:00",
+   "url": "https://marioadolfo.com/estiagem-atinge-mais-de-101-mil-familias-no-amazonas/",
+   "url_hash": "17d9d281392f8142e7f7efac"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-19T12:40:15+00:00",
-  "saved_at": "2026-10-19T12:40:16+00:00"
+  "last_run_at": "2026-10-19T12:50:15+00:00",
+  "saved_at": "2026-10-19T12:50:20+00:00"
  },
  "schema": 1
 }
