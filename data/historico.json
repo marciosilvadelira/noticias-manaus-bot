@@ -4715,13 +4715,106 @@
    "updated_at": "2026-10-19T12:50:20+00:00",
    "url": "https://marioadolfo.com/estiagem-atinge-mais-de-101-mil-familias-no-amazonas/",
    "url_hash": "17d9d281392f8142e7f7efac"
+  },
+  "guid:6ad61d6f52c09500099dd5ad": {
+   "attempts": [
+    {
+     "at": "2026-10-19T13:50:24+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1512559850894906",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "No interior do estado, escolas dos municípios de Autazes e Nova Olinda do Norte também suspenderão suas atividades.",
+   "discovered_at": "2026-10-19T13:50:16+00:00",
+   "fb_post_id": "107393769293726_1512559850894906",
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad61d6f52c09500099dd5ad",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/1bc7df21-a158-4fbb-a880-ba750262e24c.jpg",
+   "key": "guid:6ad61d6f52c09500099dd5ad",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1512559850894906"
+   },
+   "source_published_at": "2026-10-19T13:40:35+00:00",
+   "status": "published",
+   "title": "Aulas são suspensas em escolas estaduais e municipais por causa da fumaça",
+   "updated_at": "2026-10-19T13:50:24+00:00",
+   "url": "https://marioadolfo.com/aulas-sao-suspensas-em-escolas-estaduais-e-municipais-por-causa-da-fumaca/",
+   "url_hash": "fe393d9c1e6a0ad30683d525"
+  },
+  "guid:6ad61de652c09500099dd5c5": {
+   "attempts": [
+    {
+     "at": "2026-10-19T13:50:50+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1512560260894865",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Brasil",
+   "description": "Calendário foi unificado a partir do dia 21 como medida preventiva diante dos efeitos previstos do super El Niño e será mantido em novembro e dezembro",
+   "discovered_at": "2026-10-19T13:50:16+00:00",
+   "fb_post_id": "107393769293726_1512560260894865",
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad61de652c09500099dd5c5",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/79a02d08-bb38-4b59-b246-38fbad598837.jpg",
+   "key": "guid:6ad61de652c09500099dd5c5",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1512560260894865"
+   },
+   "source_published_at": "2026-10-19T13:42:57+00:00",
+   "status": "published",
+   "title": "Pagamentos de outubro do Bolsa Família começam nesta segunda-feira (19)",
+   "updated_at": "2026-10-19T13:50:50+00:00",
+   "url": "https://marioadolfo.com/pagamentos-de-outubro-do-bolsa-familia-comecam-nesta-segunda-feira-19/",
+   "url_hash": "857f3755bd19cf926a05abdb"
+  },
+  "guid:6ad61f4a52c09500099dd5da": {
+   "attempts": [
+    {
+     "at": "2026-10-19T13:51:15+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1512560524228172",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "As medidas visam à integração de salas de situação e ao envio de equipamentos de proteção individual, bombas portáteis e suprimentos às bases operacionais no Amazonas.",
+   "discovered_at": "2026-10-19T13:50:16+00:00",
+   "fb_post_id": "107393769293726_1512560524228172",
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad61f4a52c09500099dd5da",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/121be6fd-7759-441d-8cd9-ae7d54ef04f6.jpeg",
+   "key": "guid:6ad61f4a52c09500099dd5da",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1512560524228172"
+   },
+   "source_published_at": "2026-10-19T13:50:05+00:00",
+   "status": "published",
+   "title": "Suframa sedia reunião de alinhamento para combate a incêndios florestais no Amazonas",
+   "updated_at": "2026-10-19T13:51:15+00:00",
+   "url": "https://marioadolfo.com/suframa-sedia-reuniao-de-alinhamento-para-combate-a-incendios-florestais-no-amazonas/",
+   "url_hash": "f98f88501ac973b8a4712078"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-19T13:40:14+00:00",
-  "saved_at": "2026-10-19T13:40:15+00:00"
+  "last_run_at": "2026-10-19T13:50:15+00:00",
+  "saved_at": "2026-10-19T13:51:15+00:00"
  },
  "schema": 1
 }
