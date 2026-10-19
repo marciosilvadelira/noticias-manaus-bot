@@ -4808,13 +4808,34 @@
    "updated_at": "2026-10-19T13:51:15+00:00",
    "url": "https://marioadolfo.com/suframa-sedia-reuniao-de-alinhamento-para-combate-a-incendios-florestais-no-amazonas/",
    "url_hash": "f98f88501ac973b8a4712078"
+  },
+  "guid:6ad623eb52c09500099dd5f0": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A medida foi anunciada pelo prefeito Thomé Neto em meio ao avanço dos incêndios florestais, que levaram à decretação de situação de emergência por 90 dias.",
+   "discovered_at": "2026-10-19T14:21:00+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad623eb52c09500099dd5f0",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6f1cfd44-9100-4e53-98b9-235a4f79cf7d.jpg",
+   "key": "guid:6ad623eb52c09500099dd5f0",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-19T14:11:38+00:00",
+   "status": "pending",
+   "title": "Autazes oferece recompensa de R$ 1 mil por denúncias de queimadas",
+   "updated_at": "2026-10-19T14:21:00+00:00",
+   "url": "https://marioadolfo.com/autazes-oferece-recompensa-de-r-1-mil-por-denuncias-de-queimadas/",
+   "url_hash": "3b68a1ae32a7cb5ae627a142"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-19T14:10:15+00:00",
-  "saved_at": "2026-10-19T14:10:16+00:00"
+  "last_run_at": "2026-10-19T14:21:00+00:00",
+  "saved_at": "2026-10-19T14:21:01+00:00"
  },
  "schema": 1
 }
