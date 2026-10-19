@@ -4976,13 +4976,55 @@
    "updated_at": "2026-10-19T17:10:19+00:00",
    "url": "https://marioadolfo.com/campanha-arrecada-agua-e-mascaras-para-comunidades-afetadas-por-queimadas-no-am/",
    "url_hash": "ae8cf6064d425496303f4193"
+  },
+  "guid:6ad64efc52c09500099dd6b1": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Para se candidatar, basta acessar ciee.online: https://portal.ciee.org.br/",
+   "discovered_at": "2026-10-19T17:20:20+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad64efc52c09500099dd6b1",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c562e509-f21a-4aa3-89e3-63f609ff7d58.jpeg",
+   "key": "guid:6ad64efc52c09500099dd6b1",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-19T17:11:51+00:00",
+   "status": "pending",
+   "title": "Em busca de estágio? CIEE oferece 98 vagas para estudantes, no Amazonas",
+   "updated_at": "2026-10-19T17:20:20+00:00",
+   "url": "https://marioadolfo.com/em-busca-de-estagio-ciee-oferece-98-vagas-para-estudantes-no-amazonas/",
+   "url_hash": "c0e1978260497896ce34e514"
+  },
+  "guid:6ad650b452c09500099dd6c7": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "O crime aconteceu em 27 de setembro deste ano e a prisão ocorreu na última sexta-feira (16)",
+   "discovered_at": "2026-10-19T17:20:20+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad650b452c09500099dd6c7",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/7c3c30a3-3d73-415d-9679-1719d2dfc527.jpeg",
+   "key": "guid:6ad650b452c09500099dd6c7",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-19T17:19:34+00:00",
+   "status": "pending",
+   "title": "Homem é preso suspeito de assassinar mulher trans a tiros em Manaus",
+   "updated_at": "2026-10-19T17:20:20+00:00",
+   "url": "https://marioadolfo.com/homem-e-preso-suspeito-de-assassinar-mulher-trans-a-tiros-em-manaus/",
+   "url_hash": "3879fb876186f4366e8ebe8a"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-19T17:10:17+00:00",
-  "saved_at": "2026-10-19T17:10:19+00:00"
+  "last_run_at": "2026-10-19T17:20:19+00:00",
+  "saved_at": "2026-10-19T17:20:20+00:00"
  },
  "schema": 1
 }
