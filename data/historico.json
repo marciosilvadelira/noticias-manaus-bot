@@ -5039,13 +5039,55 @@
    "updated_at": "2026-10-19T17:30:17+00:00",
    "url": "https://marioadolfo.com/programa-blitz-tce-chega-a-final-de-competicao-que-avalia-praticas-de-gestao/",
    "url_hash": "116ed327e0bc73ada7b176aa"
+  },
+  "guid:6ad6553652c09500099dd6ff": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "O concurso público foi anunciado em junho deste ano pelo governador Roberto Cidade (União Brasil)",
+   "discovered_at": "2026-10-19T17:50:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad6553652c09500099dd6ff",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/aa12654e-57a1-40b4-8235-b104d8072f3b.jpeg",
+   "key": "guid:6ad6553652c09500099dd6ff",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-19T17:40:28+00:00",
+   "status": "pending",
+   "title": "Seduc contrata Cesgranrio por R$ 4,1 milhões para concurso com 7,8 mil vagas",
+   "updated_at": "2026-10-19T17:50:15+00:00",
+   "url": "https://marioadolfo.com/seduc-contrata-cesgranrio-por-r-4-1-milhoes-para-concurso-com-7-8-mil-vagas/",
+   "url_hash": "e7b1e779ba58ed65d4ba37ab"
+  },
+  "guid:6ad6564752c09500099dd718": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Ação acontece de 3 a 5 de novembro, com serviços jurídicos, orientações sobre benefícios do INSS e atendimento médico para atualização de laudos",
+   "discovered_at": "2026-10-19T17:50:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad6564752c09500099dd718",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ac2016f8-7501-4b16-9cc7-fb26fc864329.jpeg",
+   "key": "guid:6ad6564752c09500099dd718",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-19T17:43:27+00:00",
+   "status": "pending",
+   "title": "Defensoria do Amazonas realiza sétima edição do Mutirão Previdenciário de 2026 em Anamã",
+   "updated_at": "2026-10-19T17:50:15+00:00",
+   "url": "https://marioadolfo.com/defensoria-do-amazonas-realiza-setima-edicao-do-mutirao-previdenciario-de-2026-em-anama/",
+   "url_hash": "9542cbe88ca89e7d90ceed9e"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-19T17:40:17+00:00",
-  "saved_at": "2026-10-19T17:40:18+00:00"
+  "last_run_at": "2026-10-19T17:50:15+00:00",
+  "saved_at": "2026-10-19T17:50:16+00:00"
  },
  "schema": 1
 }
