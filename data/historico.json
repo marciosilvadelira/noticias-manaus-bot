@@ -5144,13 +5144,55 @@
    "updated_at": "2026-10-19T18:40:16+00:00",
    "url": "https://marioadolfo.com/distancias-e-logistica-tce-am-e-tcu-discutem-custos-de-obras-publicas-na-amazonia/",
    "url_hash": "98c13bfb3b16c67753360116"
+  },
+  "guid:6ad6663752c09500099dd773": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Objetivo é facilitar o acesso dos consumidores aos serviços da empresa. Os atendimentos acontecem das 8h30 às 16h",
+   "discovered_at": "2026-10-19T19:00:31+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad6663752c09500099dd773",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e88ae2d4-8115-4b3c-817e-a4e92744d39f.jpeg",
+   "key": "guid:6ad6663752c09500099dd773",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-19T18:51:24+00:00",
+   "status": "pending",
+   "title": "Concessionária de energia leva atendimento móvel a dez bairros de Manaus",
+   "updated_at": "2026-10-19T19:00:31+00:00",
+   "url": "https://marioadolfo.com/conces/",
+   "url_hash": "5e6aacabd71003a57fd6b0e4"
+  },
+  "guid:6ad666d452c09500099dd78d": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Medida visa apurar possível preterição de candidatos aprovados no concurso regido pelo Edital nº 003/2024 e eventual prática de atos de improbidade administrativa na gestão de pessoal do município",
+   "discovered_at": "2026-10-19T19:00:31+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad666d452c09500099dd78d",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e8af47b1-64b8-47a3-b136-98f0c1bf02b3.jpeg",
+   "key": "guid:6ad666d452c09500099dd78d",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-19T18:54:56+00:00",
+   "status": "pending",
+   "title": "MPAM apura possível omissão na convocação de aprovados em concurso de Tabatinga",
+   "updated_at": "2026-10-19T19:00:31+00:00",
+   "url": "https://marioadolfo.com/mpam-apura-possivel-omissao-na-convocacao-de-aprovados-em-concurso-de-tabatinga/",
+   "url_hash": "7634f9b07bb607cbea6f1d07"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-19T18:50:16+00:00",
-  "saved_at": "2026-10-19T18:50:17+00:00"
+  "last_run_at": "2026-10-19T19:00:31+00:00",
+  "saved_at": "2026-10-19T19:00:32+00:00"
  },
  "schema": 1
 }
