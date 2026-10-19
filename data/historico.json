@@ -5271,6 +5271,27 @@
    "url": "https://marioadolfo.com/tre-am-informa-realocacao-de-secoes-eleitorais-em-barreirinha-tabatinga-e-itamarati/",
    "url_hash": "b6f947fc554ba4f03f5321cb"
   },
+  "guid:6ad68dfa52c09500099dd820": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Prisões em flagrante superam 49 mil, e mais de 8 mil são decorrentes de mandados judiciais",
+   "discovered_at": "2026-10-19T22:10:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad68dfa52c09500099dd820",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/59ff1733-494f-4ff8-9f39-8ff9da89031d.jpg",
+   "key": "guid:6ad68dfa52c09500099dd820",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-19T20:00:00+00:00",
+   "status": "pending",
+   "title": "Operação Mulher Segura prende mais de 57 mil agressores em 141 dias",
+   "updated_at": "2026-10-19T22:10:15+00:00",
+   "url": "https://marioadolfo.com/operacao-mulher-segura-prende-mais-de-57-mil-agressores-em-141-dias/",
+   "url_hash": "c7b25ec9f3cb43c5f11ac245"
+  },
   "guid:6ad691ac52c09500099dd82e": {
    "attempts": [],
    "category": "Amazonas",
@@ -5296,8 +5317,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-19T22:00:20+00:00",
-  "saved_at": "2026-10-19T22:00:22+00:00"
+  "last_run_at": "2026-10-19T22:10:14+00:00",
+  "saved_at": "2026-10-19T22:10:15+00:00"
  },
  "schema": 1
 }
