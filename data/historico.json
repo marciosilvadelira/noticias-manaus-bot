@@ -5081,13 +5081,76 @@
    "updated_at": "2026-10-19T17:50:15+00:00",
    "url": "https://marioadolfo.com/defensoria-do-amazonas-realiza-setima-edicao-do-mutirao-previdenciario-de-2026-em-anama/",
    "url_hash": "9542cbe88ca89e7d90ceed9e"
+  },
+  "guid:6ad6615e52c09500099dd731": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Parlamentar foi encaminhado à Unidade de Terapia Intensiva",
+   "discovered_at": "2026-10-19T18:40:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad6615e52c09500099dd731",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/cd359711-d75d-47e0-a1f2-370012e7f5fd.jpg",
+   "key": "guid:6ad6615e52c09500099dd731",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-19T18:30:43+00:00",
+   "status": "pending",
+   "title": "Deputado André Janones é internado com arritmia em São Paulo",
+   "updated_at": "2026-10-19T18:40:16+00:00",
+   "url": "https://marioadolfo.com/deputado-andre-janones-e-internado-com-arritmia-em-sao-paulo/",
+   "url_hash": "7bcf148e65fe17eec149a3e6"
+  },
+  "guid:6ad662a052c09500099dd748": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Márcio Braz, que comandava a fundação desde abril, passa a ocupar a vice-presidência.",
+   "discovered_at": "2026-10-19T18:40:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad662a052c09500099dd748",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/eaf86b92-0c24-4d0e-ab7b-65ad9eca5b19.jpeg",
+   "key": "guid:6ad662a052c09500099dd748",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-19T18:35:08+00:00",
+   "status": "pending",
+   "title": "Renato Junior nomeia Jender Lobato na presidência da ManausCult",
+   "updated_at": "2026-10-19T18:40:16+00:00",
+   "url": "https://marioadolfo.com/renato-junior-nomeia-jender-lobato-na-presidencia-da-manauscult/",
+   "url_hash": "d17476887d849d66cc68567b"
+  },
+  "guid:6ad6630352c09500099dd75d": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "As inscrições são gratuitas e podem ser realizadas até 28 de outubro",
+   "discovered_at": "2026-10-19T18:40:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad6630352c09500099dd75d",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a700672c-fc5a-4346-ac12-3153e26662b0.jpeg",
+   "key": "guid:6ad6630352c09500099dd75d",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-19T18:38:04+00:00",
+   "status": "pending",
+   "title": "TCE-AM e TCU discutem custos de obras públicas na Amazônia",
+   "updated_at": "2026-10-19T18:40:16+00:00",
+   "url": "https://marioadolfo.com/distancias-e-logistica-tce-am-e-tcu-discutem-custos-de-obras-publicas-na-amazonia/",
+   "url_hash": "98c13bfb3b16c67753360116"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-19T18:30:17+00:00",
-  "saved_at": "2026-10-19T18:30:18+00:00"
+  "last_run_at": "2026-10-19T18:40:16+00:00",
+  "saved_at": "2026-10-19T18:40:17+00:00"
  },
  "schema": 1
 }
