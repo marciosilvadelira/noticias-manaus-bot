@@ -4720,8 +4720,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-19T12:50:15+00:00",
-  "saved_at": "2026-10-19T12:50:20+00:00"
+  "last_run_at": "2026-10-19T13:00:22+00:00",
+  "saved_at": "2026-10-19T13:00:23+00:00"
  },
  "schema": 1
 }
