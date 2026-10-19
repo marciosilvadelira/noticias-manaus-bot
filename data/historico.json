@@ -4221,11 +4221,19 @@
    "url_hash": "84d4eb5af50818b6ce9cf0bb"
   },
   "guid:6ad4208552c09500099dd3a3": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-19T04:10:21+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1512142967603261",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "José Múcio afirmou que irá enviar um avião para o deslocamento de tropas e de 70 caixas usadas no despejo de água para o combate ao fogo",
    "discovered_at": "2026-10-18T12:00:23+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1512142967603261",
    "formats": [
     "link"
    ],
@@ -4233,11 +4241,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/9ad4b7a0-62f8-4c76-a08b-8b89e81a8edd.jpg",
    "key": "guid:6ad4208552c09500099dd3a3",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1512142967603261"
+   },
    "source_published_at": "2026-10-18T12:00:23+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Ministro da Defesa confirma envio de aeronave e equipamentos para combater queimadas",
-   "updated_at": "2026-10-18T12:00:23+00:00",
+   "updated_at": "2026-10-19T04:10:21+00:00",
    "url": "https://marioadolfo.com/ministro-da-defesa-confirma-envio-de-aeronave-e-equipamentos-para-combater-queimadas/",
    "url_hash": "5368c45e995255827dd3a66d"
   },
@@ -4335,11 +4345,19 @@
    "url_hash": "3de6c6363c6698c5075b83d8"
   },
   "guid:6ad4256052c09500099dd41a": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-19T04:10:46+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1512143247603233",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Suspeito do homicídio foi capturado por populares e encaminhado à custódia policial após intervenção da Guarda Municipal.",
    "discovered_at": "2026-10-18T12:10:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1512143247603233",
    "formats": [
     "link"
    ],
@@ -4347,11 +4365,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b5e071d5-80e2-4d72-88b9-da4a8fc4d177.jpg",
    "key": "guid:6ad4256052c09500099dd41a",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1512143247603233"
+   },
    "source_published_at": "2026-10-18T12:00:25+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Homem é morto após suspeita de furto de macaxeira na Manaus Moderna",
-   "updated_at": "2026-10-18T12:10:15+00:00",
+   "updated_at": "2026-10-19T04:10:46+00:00",
    "url": "https://marioadolfo.com/homem-e-morto-apos-suspeita-de-furto-de-macaxeira-na-manaus-moderna/",
    "url_hash": "0cd6d404e902111cc4e20f24"
   },
@@ -4387,11 +4407,19 @@
    "url_hash": "0e34476996445f2b65a7c60c"
   },
   "guid:6ad4c0e452c09500099dd45b": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-19T04:11:14+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1512143490936542",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Chuva que atingiu a capital na manhã de domingo ajudou a melhorar qualidade do ar",
    "discovered_at": "2026-10-18T13:00:19+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1512143490936542",
    "formats": [
     "link"
    ],
@@ -4399,20 +4427,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/777242e2-0232-4225-8fdc-04ba5341e4da.webp",
    "key": "guid:6ad4c0e452c09500099dd45b",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1512143490936542"
+   },
    "source_published_at": "2026-10-18T12:54:24+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Defesa Civil emite alerta para chuva intensa e alagamento em Manaus",
-   "updated_at": "2026-10-18T13:00:19+00:00",
+   "updated_at": "2026-10-19T04:11:14+00:00",
    "url": "https://marioadolfo.com/defesa-civil-emite-alerta-para-chuva-intensa-e-alagamento-em-manaus/",
    "url_hash": "d2fe7d48990b24b4fddbebe6"
   },
   "guid:6ad4c3fa52c09500099dd47f": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-19T04:12:04+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1512144104269814",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "O anúncio foi pelo senador Eduardo Braga. Estão previstos os ministros José Múcio, Waldez Góes, João Paulo Capobianco e Wellington César",
    "discovered_at": "2026-10-18T13:27:49+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1512144104269814",
    "formats": [
     "link"
    ],
@@ -4420,20 +4458,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/9260152f-b67f-43c9-ba98-217bb9f32bec.jpeg",
    "key": "guid:6ad4c3fa52c09500099dd47f",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1512144104269814"
+   },
    "source_published_at": "2026-10-18T13:20:23+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Comitiva de ministros desembarca em Manaus para ampliar ações de combate às queimadas",
-   "updated_at": "2026-10-18T13:27:49+00:00",
+   "updated_at": "2026-10-19T04:12:04+00:00",
    "url": "https://marioadolfo.com/comitiva-de-ministros-desembarca-em-manaus-para-ampliar-acoes-de-combate-as-queimadas/",
    "url_hash": "7f0da40319882d03d01a4876"
   },
   "guid:6ad4c47052c09500099dd486": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-19T04:11:38+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1512143847603173",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Dito & Feito",
    "description": "A Globo  manteve Lula nas “cordas” com perguntas incômodas na  entrevista de quarta-feira (15), mas ofereceu almoço ao Flávio Bolsonaro, antes da entrevista de quinta-feira (16)",
    "discovered_at": "2026-10-18T13:20:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1512143847603173",
    "formats": [
     "link"
    ],
@@ -4441,11 +4489,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/82b88afe-aea2-4844-8812-966d9707d725.jpeg",
    "key": "guid:6ad4c47052c09500099dd486",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1512143847603173"
+   },
    "source_published_at": "2026-10-18T13:14:07+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Dito & Feito: ADIVINHE QUEM VEIO PARA ALMOLÇAR?",
-   "updated_at": "2026-10-18T13:20:15+00:00",
+   "updated_at": "2026-10-19T04:11:38+00:00",
    "url": "https://marioadolfo.com/dito-feito-advinhe-quem-veio-para-almocar/",
    "url_hash": "5f8b29ac92d404a38cf37ac1"
   },
@@ -4558,8 +4608,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-19T04:00:19+00:00",
-  "saved_at": "2026-10-19T04:02:12+00:00"
+  "last_run_at": "2026-10-19T04:10:13+00:00",
+  "saved_at": "2026-10-19T04:12:04+00:00"
  },
  "schema": 1
 }
