@@ -4653,13 +4653,44 @@
    "updated_at": "2026-10-19T04:22:11+00:00",
    "url": "https://marioadolfo.com/onze-pessoas-sao-presas-suspeitas-de-envolvimento-em-queimadas-em-autazes/",
    "url_hash": "3d81a34a68bb9fb07e6e8eef"
+  },
+  "guid:6ad6082e52c09500099dd57a": {
+   "attempts": [
+    {
+     "at": "2026-10-19T12:20:19+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1512481064236118",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "Levantamentos dos institutos Pontual e Projeta apontam senador com mais de 57% dos votos válidos e vantagem superior a 15 pontos percentuais na disputa pelo governo",
+   "discovered_at": "2026-10-19T12:20:15+00:00",
+   "fb_post_id": "107393769293726_1512481064236118",
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad6082e52c09500099dd57a",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e8b3210a-a3b0-4f48-8f7a-a70c3d0b5892.jpg",
+   "key": "guid:6ad6082e52c09500099dd57a",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1512481064236118"
+   },
+   "source_published_at": "2026-10-19T12:18:51+00:00",
+   "status": "published",
+   "title": "Pesquisas mostram Omar Aziz com ampla vantagem sobre Maria do Carmo",
+   "updated_at": "2026-10-19T12:20:19+00:00",
+   "url": "https://marioadolfo.com/pesquisas-mostram-omar-aziz-com-ampla-vantagem-sobre-maria-do-carmo/",
+   "url_hash": "cb7cc43a75accd9209ebd908"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-19T12:10:14+00:00",
-  "saved_at": "2026-10-19T12:10:14+00:00"
+  "last_run_at": "2026-10-19T12:20:14+00:00",
+  "saved_at": "2026-10-19T12:20:19+00:00"
  },
  "schema": 1
 }
