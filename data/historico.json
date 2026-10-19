@@ -4955,13 +4955,34 @@
    "updated_at": "2026-10-19T17:00:22+00:00",
    "url": "https://marioadolfo.com/tse-proibe-novas-postagens-de-nikolas-e-marcal-vetados-pela-justica/",
    "url_hash": "fb59da4a535efabf3a5cfb57"
+  },
+  "guid:6ad64d2352c09500099dd68e": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "As doações podem ser entregues até o dia 23 de outubro de 2026",
+   "discovered_at": "2026-10-19T17:10:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad64d2352c09500099dd68e",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/685021e3-bb5d-40b7-9615-ab69eca6a57e.jpeg",
+   "key": "guid:6ad64d2352c09500099dd68e",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-19T17:04:07+00:00",
+   "status": "pending",
+   "title": "Campanha arrecada água e máscaras para comunidades afetadas por queimadas no AM",
+   "updated_at": "2026-10-19T17:10:19+00:00",
+   "url": "https://marioadolfo.com/campanha-arrecada-agua-e-mascaras-para-comunidades-afetadas-por-queimadas-no-am/",
+   "url_hash": "ae8cf6064d425496303f4193"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-19T17:00:22+00:00",
-  "saved_at": "2026-10-19T17:00:22+00:00"
+  "last_run_at": "2026-10-19T17:10:17+00:00",
+  "saved_at": "2026-10-19T17:10:19+00:00"
  },
  "schema": 1
 }
