@@ -5270,13 +5270,34 @@
    "updated_at": "2026-10-19T20:50:14+00:00",
    "url": "https://marioadolfo.com/tre-am-informa-realocacao-de-secoes-eleitorais-em-barreirinha-tabatinga-e-itamarati/",
    "url_hash": "b6f947fc554ba4f03f5321cb"
+  },
+  "guid:6ad691ac52c09500099dd82e": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "O Projeto de Lei Orçamentária Anual (LOA) de 2027 foi apresentado pelo Executivo e começou a tramitar na CMM nesta segunda-feira (19)",
+   "discovered_at": "2026-10-19T22:00:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad691ac52c09500099dd82e",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/540cabf2-0bb4-452e-a9c0-aa21e20b2028.png",
+   "key": "guid:6ad691ac52c09500099dd82e",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-19T21:59:26+00:00",
+   "status": "pending",
+   "title": "Prefeitura de Manaus estima orçamento de R$ 12,4 bilhões para 2027",
+   "updated_at": "2026-10-19T22:00:21+00:00",
+   "url": "https://marioadolfo.com/prefeitura-de-manaus-estima-orcamento-de-r-12-4-bilhoes-para-2027/",
+   "url_hash": "0697eb9b54d7b9140fbad6ff"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-19T21:50:15+00:00",
-  "saved_at": "2026-10-19T21:50:16+00:00"
+  "last_run_at": "2026-10-19T22:00:20+00:00",
+  "saved_at": "2026-10-19T22:00:22+00:00"
  },
  "schema": 1
 }
