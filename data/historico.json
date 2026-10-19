@@ -4892,13 +4892,34 @@
    "updated_at": "2026-10-19T15:30:20+00:00",
    "url": "https://marioadolfo.com/homem-e-resgatado-com-perfuracao-no-pescoco-e-corte-na-lingua-em-maues/",
    "url_hash": "ba9233a260882aff8883ddc8"
+  },
+  "guid:6ad6380552c09500099dd64d": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Espetáculo abre circulação nacional em Manaus e leva ao palco uma reflexão sobre a crise ambiental e a devastação do Cerrado",
+   "discovered_at": "2026-10-19T15:40:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad6380552c09500099dd64d",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6054f082-dc22-445c-a8f0-894bdac38ef5.JPG",
+   "key": "guid:6ad6380552c09500099dd64d",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-19T15:33:11+00:00",
+   "status": "pending",
+   "title": "Quasar Cia de Dança apresenta ‘Menos da Metade’ no Teatro Amazonas",
+   "updated_at": "2026-10-19T15:40:17+00:00",
+   "url": "https://marioadolfo.com/quasar-cia-de-danca-apresenta-menos-da-metade-nesta-terca-feira-no-teatro-amazonas/",
+   "url_hash": "61cfdf709e1160f13d983ccd"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-19T15:30:19+00:00",
-  "saved_at": "2026-10-19T15:30:21+00:00"
+  "last_run_at": "2026-10-19T15:40:16+00:00",
+  "saved_at": "2026-10-19T15:40:17+00:00"
  },
  "schema": 1
 }
