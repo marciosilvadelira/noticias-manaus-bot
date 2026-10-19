@@ -4829,13 +4829,34 @@
    "updated_at": "2026-10-19T14:21:00+00:00",
    "url": "https://marioadolfo.com/autazes-oferece-recompensa-de-r-1-mil-por-denuncias-de-queimadas/",
    "url_hash": "3b68a1ae32a7cb5ae627a142"
+  },
+  "guid:6ad62cb152c09500099dd60d": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Processos referentes às gestões de 2024 e 2025 são de responsabilidade do ex-prefeito David Almeida.",
+   "discovered_at": "2026-10-19T15:00:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad62cb152c09500099dd60d",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/fa4db53c-dc37-4cad-8e43-150b93bd92d3.jpg",
+   "key": "guid:6ad62cb152c09500099dd60d",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-19T14:56:26+00:00",
+   "status": "pending",
+   "title": "TCE-AM julga contas da Prefeitura de Manaus e aprecia 134 processos nesta terça",
+   "updated_at": "2026-10-19T15:00:21+00:00",
+   "url": "https://marioadolfo.com/tce-am-julga-contas-da-prefeitura-de-manaus-e-aprecia-134-processos-nesta-terca/",
+   "url_hash": "cc18ba03d054ff453a60bb67"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-19T14:50:16+00:00",
-  "saved_at": "2026-10-19T14:50:18+00:00"
+  "last_run_at": "2026-10-19T15:00:20+00:00",
+  "saved_at": "2026-10-19T15:00:22+00:00"
  },
  "schema": 1
 }
