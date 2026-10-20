@@ -5701,13 +5701,34 @@
    "updated_at": "2026-10-20T15:30:18+00:00",
    "url": "https://marioadolfo.com/aeronaves-federais-lancam-mais-de-1-milhao-de-litros-de-agua-no-combate-aos-incendios-no-am/",
    "url_hash": "0328f856938825a21d3eb023"
+  },
+  "guid:6ad7883152c09500099dd96a": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Kodo Isaias Kanamari, de 22 anos, e Tucuwi Carlinhos dos Santos Kanamari, de 25, estão foragidos",
+   "discovered_at": "2026-10-20T15:40:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad7883152c09500099dd96a",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/82ec26b5-410e-4ed3-87f8-3a0084c45d77.jpg",
+   "key": "guid:6ad7883152c09500099dd96a",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-20T15:31:37+00:00",
+   "status": "pending",
+   "title": "Suspeito de gravar estupro coletivo de adolescente indígena é preso no AM",
+   "updated_at": "2026-10-20T15:40:18+00:00",
+   "url": "https://marioadolfo.com/suspeito-de-gravar-estupro-coletivo-de-adolescente-indigena-e-preso-no-am/",
+   "url_hash": "a925287bd591fce6befad83b"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-20T15:30:17+00:00",
-  "saved_at": "2026-10-20T15:30:18+00:00"
+  "last_run_at": "2026-10-20T15:40:17+00:00",
+  "saved_at": "2026-10-20T15:40:18+00:00"
  },
  "schema": 1
 }
