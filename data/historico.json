@@ -5120,11 +5120,19 @@
    "url_hash": "3879fb876186f4366e8ebe8a"
   },
   "guid:6ad6524552c09500099dd6e5": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-20T04:20:23+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1513138864170338",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "A iniciativa foi selecionada para a próxima etapa de avaliação, que ocorrerá durante a 5ª Feira da Qualidade, de 9 a 12 de novembro, no Centro de Convenções do Amazonas Vasco Vasques",
    "discovered_at": "2026-10-19T17:30:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1513138864170338",
    "formats": [
     "link"
    ],
@@ -5132,20 +5140,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/7870ad63-19cc-4139-ab40-2a9f458bc9a2.jpeg",
    "key": "guid:6ad6524552c09500099dd6e5",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1513138864170338"
+   },
    "source_published_at": "2026-10-19T17:27:17+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Programa Blitz TCE chega à final de competição que avalia práticas de gestão",
-   "updated_at": "2026-10-19T17:30:17+00:00",
+   "updated_at": "2026-10-20T04:20:23+00:00",
    "url": "https://marioadolfo.com/programa-blitz-tce-chega-a-final-de-competicao-que-avalia-praticas-de-gestao/",
    "url_hash": "116ed327e0bc73ada7b176aa"
   },
   "guid:6ad6553652c09500099dd6ff": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-20T04:20:48+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1513139167503641",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "O concurso público foi anunciado em junho deste ano pelo governador Roberto Cidade (União Brasil)",
    "discovered_at": "2026-10-19T17:50:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1513139167503641",
    "formats": [
     "link"
    ],
@@ -5153,20 +5171,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/aa12654e-57a1-40b4-8235-b104d8072f3b.jpeg",
    "key": "guid:6ad6553652c09500099dd6ff",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1513139167503641"
+   },
    "source_published_at": "2026-10-19T17:40:28+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Seduc contrata Cesgranrio por R$ 4,1 milhões para concurso com 7,8 mil vagas",
-   "updated_at": "2026-10-19T17:50:15+00:00",
+   "updated_at": "2026-10-20T04:20:48+00:00",
    "url": "https://marioadolfo.com/seduc-contrata-cesgranrio-por-r-4-1-milhoes-para-concurso-com-7-8-mil-vagas/",
    "url_hash": "e7b1e779ba58ed65d4ba37ab"
   },
   "guid:6ad6564752c09500099dd718": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-20T04:21:13+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1513139474170277",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Ação acontece de 3 a 5 de novembro, com serviços jurídicos, orientações sobre benefícios do INSS e atendimento médico para atualização de laudos",
    "discovered_at": "2026-10-19T17:50:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1513139474170277",
    "formats": [
     "link"
    ],
@@ -5174,20 +5202,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ac2016f8-7501-4b16-9cc7-fb26fc864329.jpeg",
    "key": "guid:6ad6564752c09500099dd718",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1513139474170277"
+   },
    "source_published_at": "2026-10-19T17:43:27+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Defensoria do Amazonas realiza sétima edição do Mutirão Previdenciário de 2026 em Anamã",
-   "updated_at": "2026-10-19T17:50:15+00:00",
+   "updated_at": "2026-10-20T04:21:13+00:00",
    "url": "https://marioadolfo.com/defensoria-do-amazonas-realiza-setima-edicao-do-mutirao-previdenciario-de-2026-em-anama/",
    "url_hash": "9542cbe88ca89e7d90ceed9e"
   },
   "guid:6ad6615e52c09500099dd731": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-20T04:21:40+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1513140054170219",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Parlamentar foi encaminhado à Unidade de Terapia Intensiva",
    "discovered_at": "2026-10-19T18:40:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1513140054170219",
    "formats": [
     "link"
    ],
@@ -5195,20 +5233,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/cd359711-d75d-47e0-a1f2-370012e7f5fd.jpg",
    "key": "guid:6ad6615e52c09500099dd731",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1513140054170219"
+   },
    "source_published_at": "2026-10-19T18:30:43+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Deputado André Janones é internado com arritmia em São Paulo",
-   "updated_at": "2026-10-19T18:40:16+00:00",
+   "updated_at": "2026-10-20T04:21:40+00:00",
    "url": "https://marioadolfo.com/deputado-andre-janones-e-internado-com-arritmia-em-sao-paulo/",
    "url_hash": "7bcf148e65fe17eec149a3e6"
   },
   "guid:6ad662a052c09500099dd748": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-20T04:22:05+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1513140307503527",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Márcio Braz, que comandava a fundação desde abril, passa a ocupar a vice-presidência.",
    "discovered_at": "2026-10-19T18:40:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1513140307503527",
    "formats": [
     "link"
    ],
@@ -5216,11 +5264,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/eaf86b92-0c24-4d0e-ab7b-65ad9eca5b19.jpeg",
    "key": "guid:6ad662a052c09500099dd748",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1513140307503527"
+   },
    "source_published_at": "2026-10-19T18:35:08+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Renato Junior nomeia Jender Lobato na presidência da ManausCult",
-   "updated_at": "2026-10-19T18:40:16+00:00",
+   "updated_at": "2026-10-20T04:22:05+00:00",
    "url": "https://marioadolfo.com/renato-junior-nomeia-jender-lobato-na-presidencia-da-manauscult/",
    "url_hash": "d17476887d849d66cc68567b"
   },
@@ -5438,8 +5488,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-20T04:10:15+00:00",
-  "saved_at": "2026-10-20T04:12:12+00:00"
+  "last_run_at": "2026-10-20T04:20:15+00:00",
+  "saved_at": "2026-10-20T04:22:05+00:00"
  },
  "schema": 1
 }
