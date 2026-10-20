@@ -6016,13 +6016,34 @@
    "updated_at": "2026-10-20T18:30:19+00:00",
    "url": "https://marioadolfo.com/mp-articula-acao-integrada-para-prevenir-queimadas-e-combater-incendios-em-maues/",
    "url_hash": "7f66fffc5fa8e97f51e93777"
+  },
+  "guid:6ad7bc0152c09500099ddaf8": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Projeto financiado pela Finep avança na articulação entre Prefeitura e Suframa para atrair startups e estimular novos negócios.",
+   "discovered_at": "2026-10-20T19:10:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad7bc0152c09500099ddaf8",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/56228936-fc9a-4e13-ba1f-8627a6387c9b.jpeg",
+   "key": "guid:6ad7bc0152c09500099ddaf8",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-20T19:10:06+00:00",
+   "status": "pending",
+   "title": "Prefeitura e Suframa discutem difusão do Distrito de Inovação do Largo de São Vicente",
+   "updated_at": "2026-10-20T19:10:16+00:00",
+   "url": "https://marioadolfo.com/prefeitura-e-suframa-discutem-difusao-do-distrito-de-inovacao-do-largo-de-sao-vicente/",
+   "url_hash": "892be9ef2965575c3a20c057"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-20T19:00:20+00:00",
-  "saved_at": "2026-10-20T19:00:20+00:00"
+  "last_run_at": "2026-10-20T19:10:16+00:00",
+  "saved_at": "2026-10-20T19:10:17+00:00"
  },
  "schema": 1
 }
