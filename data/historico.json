@@ -5617,13 +5617,34 @@
    "updated_at": "2026-10-20T14:00:21+00:00",
    "url": "https://marioadolfo.com/eleicoes-2026-nenhum-eleitor-pode-ser-preso-a-partir-desta-terca/",
    "url_hash": "cf61c9488b903e4d32a86458"
+  },
+  "guid:6ad7789b52c09500099dd909": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A travessia é estratégica para o transporte de passageiros, veículos e mercadorias, além de permitir o acesso à BR-319, que liga o Amazonas a Rondônia.",
+   "discovered_at": "2026-10-20T14:30:20+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad7789b52c09500099dd909",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4a12898c-39fa-4890-a078-f9e221f5bf2b.jpg",
+   "key": "guid:6ad7789b52c09500099dd909",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-20T14:26:58+00:00",
+   "status": "pending",
+   "title": "DNIT confirma emergência na travessia entre Manaus e Careiro da Várzea",
+   "updated_at": "2026-10-20T14:30:20+00:00",
+   "url": "https://marioadolfo.com/dnit-confirma-emergencia-na-travessia-entre-manaus-e-careiro-da-varzea/",
+   "url_hash": "914db003ef77d61e2b4c120b"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-20T14:20:16+00:00",
-  "saved_at": "2026-10-20T14:20:18+00:00"
+  "last_run_at": "2026-10-20T14:30:20+00:00",
+  "saved_at": "2026-10-20T14:30:21+00:00"
  },
  "schema": 1
 }
