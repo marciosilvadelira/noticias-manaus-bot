@@ -5275,11 +5275,19 @@
    "url_hash": "d17476887d849d66cc68567b"
   },
   "guid:6ad6630352c09500099dd75d": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-20T04:30:23+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1513145430836348",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "As inscrições são gratuitas e podem ser realizadas até 28 de outubro",
    "discovered_at": "2026-10-19T18:40:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1513145430836348",
    "formats": [
     "link"
    ],
@@ -5287,20 +5295,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a700672c-fc5a-4346-ac12-3153e26662b0.jpeg",
    "key": "guid:6ad6630352c09500099dd75d",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1513145430836348"
+   },
    "source_published_at": "2026-10-19T18:38:04+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "TCE-AM e TCU discutem custos de obras públicas na Amazônia",
-   "updated_at": "2026-10-19T18:40:16+00:00",
+   "updated_at": "2026-10-20T04:30:23+00:00",
    "url": "https://marioadolfo.com/distancias-e-logistica-tce-am-e-tcu-discutem-custos-de-obras-publicas-na-amazonia/",
    "url_hash": "98c13bfb3b16c67753360116"
   },
   "guid:6ad6663752c09500099dd773": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-20T04:30:49+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1513145757502982",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Objetivo é facilitar o acesso dos consumidores aos serviços da empresa. Os atendimentos acontecem das 8h30 às 16h",
    "discovered_at": "2026-10-19T19:00:31+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1513145757502982",
    "formats": [
     "link"
    ],
@@ -5308,20 +5326,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e88ae2d4-8115-4b3c-817e-a4e92744d39f.jpeg",
    "key": "guid:6ad6663752c09500099dd773",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1513145757502982"
+   },
    "source_published_at": "2026-10-19T18:51:24+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Concessionária de energia leva atendimento móvel a dez bairros de Manaus",
-   "updated_at": "2026-10-19T19:00:31+00:00",
+   "updated_at": "2026-10-20T04:30:49+00:00",
    "url": "https://marioadolfo.com/conces/",
    "url_hash": "5e6aacabd71003a57fd6b0e4"
   },
   "guid:6ad666d452c09500099dd78d": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-20T04:31:17+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1513146080836283",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Medida visa apurar possível preterição de candidatos aprovados no concurso regido pelo Edital nº 003/2024 e eventual prática de atos de improbidade administrativa na gestão de pessoal do município",
    "discovered_at": "2026-10-19T19:00:31+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1513146080836283",
    "formats": [
     "link"
    ],
@@ -5329,20 +5357,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e8af47b1-64b8-47a3-b136-98f0c1bf02b3.jpeg",
    "key": "guid:6ad666d452c09500099dd78d",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1513146080836283"
+   },
    "source_published_at": "2026-10-19T18:54:56+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "MPAM apura possível omissão na convocação de aprovados em concurso de Tabatinga",
-   "updated_at": "2026-10-19T19:00:31+00:00",
+   "updated_at": "2026-10-20T04:31:17+00:00",
    "url": "https://marioadolfo.com/mpam-apura-possivel-omissao-na-convocacao-de-aprovados-em-concurso-de-tabatinga/",
    "url_hash": "7634f9b07bb607cbea6f1d07"
   },
   "guid:6ad66b7852c09500099dd7a7": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-20T04:31:43+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1513146324169592",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Decisão de segunda instância confirmou indenização por violência física e verbal contra empregada e manteve o reconhecimento do vínculo de trabalho sem registro na carteira",
    "discovered_at": "2026-10-19T19:20:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1513146324169592",
    "formats": [
     "link"
    ],
@@ -5350,11 +5388,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/71dba0f0-3b34-4d57-b399-cb404aa0bb70.jpeg",
    "key": "guid:6ad66b7852c09500099dd7a7",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1513146324169592"
+   },
    "source_published_at": "2026-10-19T19:13:56+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Trabalhadora agredida ao cobrar verbas rescisórias receberá R$ 30 mil, decide TRT-11",
-   "updated_at": "2026-10-19T19:20:17+00:00",
+   "updated_at": "2026-10-20T04:31:43+00:00",
    "url": "https://marioadolfo.com/trabalhadora-agredida-ao-cobrar-verbas-rescisorias-recebera-r-30-mil-decide-trt-11/",
    "url_hash": "d7266f48cd3bbde84c515eaf"
   },
@@ -5422,11 +5462,19 @@
    "url_hash": "b6f947fc554ba4f03f5321cb"
   },
   "guid:6ad68dfa52c09500099dd820": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-20T04:32:09+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1513146524169572",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Prisões em flagrante superam 49 mil, e mais de 8 mil são decorrentes de mandados judiciais",
    "discovered_at": "2026-10-19T22:10:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1513146524169572",
    "formats": [
     "link"
    ],
@@ -5434,11 +5482,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/59ff1733-494f-4ff8-9f39-8ff9da89031d.jpg",
    "key": "guid:6ad68dfa52c09500099dd820",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1513146524169572"
+   },
    "source_published_at": "2026-10-19T20:00:00+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Operação Mulher Segura prende mais de 57 mil agressores em 141 dias",
-   "updated_at": "2026-10-19T22:10:15+00:00",
+   "updated_at": "2026-10-20T04:32:09+00:00",
    "url": "https://marioadolfo.com/operacao-mulher-segura-prende-mais-de-57-mil-agressores-em-141-dias/",
    "url_hash": "c7b25ec9f3cb43c5f11ac245"
   },
@@ -5488,8 +5538,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-20T04:20:15+00:00",
-  "saved_at": "2026-10-20T04:22:05+00:00"
+  "last_run_at": "2026-10-20T04:30:15+00:00",
+  "saved_at": "2026-10-20T04:32:09+00:00"
  },
  "schema": 1
 }
