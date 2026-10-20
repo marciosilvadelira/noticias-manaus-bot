@@ -4810,11 +4810,19 @@
    "url_hash": "f98f88501ac973b8a4712078"
   },
   "guid:6ad623eb52c09500099dd5f0": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-20T04:00:27+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1513127010838190",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "A medida foi anunciada pelo prefeito Thomé Neto em meio ao avanço dos incêndios florestais, que levaram à decretação de situação de emergência por 90 dias.",
    "discovered_at": "2026-10-19T14:21:00+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1513127010838190",
    "formats": [
     "link"
    ],
@@ -4822,20 +4830,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6f1cfd44-9100-4e53-98b9-235a4f79cf7d.jpg",
    "key": "guid:6ad623eb52c09500099dd5f0",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1513127010838190"
+   },
    "source_published_at": "2026-10-19T14:11:38+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Autazes oferece recompensa de R$ 1 mil por denúncias de queimadas",
-   "updated_at": "2026-10-19T14:21:00+00:00",
+   "updated_at": "2026-10-20T04:00:27+00:00",
    "url": "https://marioadolfo.com/autazes-oferece-recompensa-de-r-1-mil-por-denuncias-de-queimadas/",
    "url_hash": "3b68a1ae32a7cb5ae627a142"
   },
   "guid:6ad62cb152c09500099dd60d": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-20T04:00:56+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1513127297504828",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Processos referentes às gestões de 2024 e 2025 são de responsabilidade do ex-prefeito David Almeida.",
    "discovered_at": "2026-10-19T15:00:21+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1513127297504828",
    "formats": [
     "link"
    ],
@@ -4843,20 +4861,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/fa4db53c-dc37-4cad-8e43-150b93bd92d3.jpg",
    "key": "guid:6ad62cb152c09500099dd60d",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1513127297504828"
+   },
    "source_published_at": "2026-10-19T14:56:26+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "TCE-AM julga contas da Prefeitura de Manaus e aprecia 134 processos nesta terça",
-   "updated_at": "2026-10-19T15:00:21+00:00",
+   "updated_at": "2026-10-20T04:00:56+00:00",
    "url": "https://marioadolfo.com/tce-am-julga-contas-da-prefeitura-de-manaus-e-aprecia-134-processos-nesta-terca/",
    "url_hash": "cc18ba03d054ff453a60bb67"
   },
   "guid:6ad6318e52c09500099dd622": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-20T04:01:26+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1513127567504801",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Após uma semana de mobilização, caminhões-pipa da concessionária já forneceram mais de 210 mil litros de água para abastecer aeronaves.",
    "discovered_at": "2026-10-19T15:10:24+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1513127567504801",
    "formats": [
     "link"
    ],
@@ -4864,20 +4892,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/7424ee14-89fc-4a7a-b680-50692fd2a55e.JPG",
    "key": "guid:6ad6318e52c09500099dd622",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1513127567504801"
+   },
    "source_published_at": "2026-10-19T15:05:50+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Águas de Manaus amplia apoio logístico às operações de combate aos incêndios no estado",
-   "updated_at": "2026-10-19T15:10:24+00:00",
+   "updated_at": "2026-10-20T04:01:26+00:00",
    "url": "https://marioadolfo.com/aguas-de-manaus-amplia-apoio-logistico-as-operacoes-de-combate-aos-incendios-no-estado/",
    "url_hash": "22fd188c7cace9b9d4341fba"
   },
   "guid:6ad6345852c09500099dd637": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-20T04:01:51+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1513127897504768",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Um vídeo que circula nas redes sociais mostra profissionais de saúde prestando os primeiros socorros à vítima no local.",
    "discovered_at": "2026-10-19T15:30:20+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1513127897504768",
    "formats": [
     "link"
    ],
@@ -4885,20 +4923,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5f9b0ccd-b235-4ce4-8a22-58bc5112389b.webp",
    "key": "guid:6ad6345852c09500099dd637",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1513127897504768"
+   },
    "source_published_at": "2026-10-19T15:22:51+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Homem é resgatado com perfuração no pescoço e corte na língua em Maués",
-   "updated_at": "2026-10-19T15:30:20+00:00",
+   "updated_at": "2026-10-20T04:01:51+00:00",
    "url": "https://marioadolfo.com/homem-e-resgatado-com-perfuracao-no-pescoco-e-corte-na-lingua-em-maues/",
    "url_hash": "ba9233a260882aff8883ddc8"
   },
   "guid:6ad6380552c09500099dd64d": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-20T04:02:18+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1513128174171407",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Espetáculo abre circulação nacional em Manaus e leva ao palco uma reflexão sobre a crise ambiental e a devastação do Cerrado",
    "discovered_at": "2026-10-19T15:40:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1513128174171407",
    "formats": [
     "link"
    ],
@@ -4906,11 +4954,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6054f082-dc22-445c-a8f0-894bdac38ef5.JPG",
    "key": "guid:6ad6380552c09500099dd64d",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1513128174171407"
+   },
    "source_published_at": "2026-10-19T15:33:11+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Quasar Cia de Dança apresenta ‘Menos da Metade’ no Teatro Amazonas",
-   "updated_at": "2026-10-19T15:40:17+00:00",
+   "updated_at": "2026-10-20T04:02:18+00:00",
    "url": "https://marioadolfo.com/quasar-cia-de-danca-apresenta-menos-da-metade-nesta-terca-feira-no-teatro-amazonas/",
    "url_hash": "61cfdf709e1160f13d983ccd"
   },
@@ -5338,8 +5388,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-20T03:50:13+00:00",
-  "saved_at": "2026-10-20T03:50:14+00:00"
+  "last_run_at": "2026-10-20T04:00:17+00:00",
+  "saved_at": "2026-10-20T04:02:18+00:00"
  },
  "schema": 1
 }
