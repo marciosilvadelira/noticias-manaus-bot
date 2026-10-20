@@ -5995,13 +5995,34 @@
    "updated_at": "2026-10-20T18:20:16+00:00",
    "url": "https://marioadolfo.com/monica-santaella-assume-comando-da-secretaria-de-comunicacao/",
    "url_hash": "9ef1fd8d7b8ab5598e7c1040"
+  },
+  "guid:6ad7b0c152c09500099ddae0": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Reunião interinstitucional definiu medidas de prevenção e fiscalização nas áreas urbana, rural e indígena",
+   "discovered_at": "2026-10-20T18:30:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad7b0c152c09500099ddae0",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f87272f0-138b-4cfa-a601-f288f7229f31.jpeg",
+   "key": "guid:6ad7b0c152c09500099ddae0",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-20T18:20:42+00:00",
+   "status": "pending",
+   "title": "MP articula ação integrada para prevenir queimadas e combater incêndios em Maués",
+   "updated_at": "2026-10-20T18:30:19+00:00",
+   "url": "https://marioadolfo.com/mp-articula-acao-integrada-para-prevenir-queimadas-e-combater-incendios-em-maues/",
+   "url_hash": "7f66fffc5fa8e97f51e93777"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-20T18:20:16+00:00",
-  "saved_at": "2026-10-20T18:20:17+00:00"
+  "last_run_at": "2026-10-20T18:30:18+00:00",
+  "saved_at": "2026-10-20T18:30:20+00:00"
  },
  "schema": 1
 }
