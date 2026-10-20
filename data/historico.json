@@ -5806,13 +5806,34 @@
    "updated_at": "2026-10-20T17:10:17+00:00",
    "url": "https://marioadolfo.com/tce-am-transfere-julgamento-das-contas-de-david-almeida-para-dezembro/",
    "url_hash": "e1f80373090fc49f1c80696a"
+  },
+  "guid:6ad79f8852c09500099dd9ec": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Polícia cumpriu mandados de busca no ramal Sissaíma; denúncias foram encaminhadas ao MPAM",
+   "discovered_at": "2026-10-20T17:20:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad79f8852c09500099dd9ec",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e43e167e-e499-415c-9301-e064833e9a5e.jpeg",
+   "key": "guid:6ad79f8852c09500099dd9ec",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-20T17:19:46+00:00",
+   "status": "pending",
+   "title": "Suspeito de causar incêndio florestal é preso no Careiro da Várzea",
+   "updated_at": "2026-10-20T17:20:16+00:00",
+   "url": "https://marioadolfo.com/suspeito-de-causar-incendio-florestal-e-preso-no-careiro-da-varzea/",
+   "url_hash": "3352b88f27adfe4d90495a5a"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-20T17:10:17+00:00",
-  "saved_at": "2026-10-20T17:10:17+00:00"
+  "last_run_at": "2026-10-20T17:20:16+00:00",
+  "saved_at": "2026-10-20T17:20:17+00:00"
  },
  "schema": 1
 }
