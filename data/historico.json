@@ -5596,13 +5596,34 @@
    "updated_at": "2026-10-20T13:50:18+00:00",
    "url": "https://marioadolfo.com/pf-investiga-r-574-mil-gastos-em-moveis-para-residencia-usada-por-wilson-lima/",
    "url_hash": "7c71ae7cc4ee854859eb24e4"
+  },
+  "guid:6ad7727d52c09500099dd8f3": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Medida evita que eleitores deixem de votar",
+   "discovered_at": "2026-10-20T14:00:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad7727d52c09500099dd8f3",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/da747882-8999-4415-8a00-685a9f7bb936.jpg",
+   "key": "guid:6ad7727d52c09500099dd8f3",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-20T13:59:29+00:00",
+   "status": "pending",
+   "title": "Eleições 2026: nenhum eleitor pode ser preso a partir desta terça",
+   "updated_at": "2026-10-20T14:00:21+00:00",
+   "url": "https://marioadolfo.com/eleicoes-2026-nenhum-eleitor-pode-ser-preso-a-partir-desta-terca/",
+   "url_hash": "cf61c9488b903e4d32a86458"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-20T13:50:16+00:00",
-  "saved_at": "2026-10-20T13:50:18+00:00"
+  "last_run_at": "2026-10-20T14:00:20+00:00",
+  "saved_at": "2026-10-20T14:00:21+00:00"
  },
  "schema": 1
 }
