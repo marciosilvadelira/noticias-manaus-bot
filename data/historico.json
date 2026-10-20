@@ -5431,12 +5431,12 @@
    "guid": "6ad67fe252c09500099dd7dc",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4bb488dd-17eb-4912-905b-3f9f88d78151.webp",
    "key": "guid:6ad67fe252c09500099dd7dc",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-19T20:40:35+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "2º turno: 130 mil eleitores de 22 estados votarão em local diferente",
-   "updated_at": "2026-10-19T20:50:14+00:00",
+   "updated_at": "2026-10-20T20:50:15+00:00",
    "url": "https://marioadolfo.com/2o-turno-130-mil-eleitores-de-22-estados-votarao-em-local-diferente/",
    "url_hash": "77e576146159d191d63b67ca"
   },
@@ -5452,12 +5452,12 @@
    "guid": "6ad6808252c09500099dd7ef",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/8f492cd9-bd8f-4625-878f-00b368ee951a.jpeg",
    "key": "guid:6ad6808252c09500099dd7ef",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-19T20:43:14+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "TRE-AM informa realocação de seções eleitorais em Barreirinha, Tabatinga e Itamarati",
-   "updated_at": "2026-10-19T20:50:14+00:00",
+   "updated_at": "2026-10-20T20:50:15+00:00",
    "url": "https://marioadolfo.com/tre-am-informa-realocacao-de-secoes-eleitorais-em-barreirinha-tabatinga-e-itamarati/",
    "url_hash": "b6f947fc554ba4f03f5321cb"
   },
@@ -6168,8 +6168,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-20T20:40:15+00:00",
-  "saved_at": "2026-10-20T20:40:18+00:00"
+  "last_run_at": "2026-10-20T20:50:14+00:00",
+  "saved_at": "2026-10-20T20:50:15+00:00"
  },
  "schema": 1
 }
