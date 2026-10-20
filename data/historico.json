@@ -5848,13 +5848,97 @@
    "updated_at": "2026-10-20T17:30:17+00:00",
    "url": "https://marioadolfo.com/empresa-lanca-colecao-de-camisetas-para-celebrar-os-357-anos-de-manaus/",
    "url_hash": "d332a137320226d69b45e319"
+  },
+  "guid:6ad7a5bb52c09500099dda20": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Projeto levou informações sobre tuberculose, HIV/Aids, hanseníase e hepatites virais B e C, a 86 estudantes da Escola Adventista de Itacoatiara",
+   "discovered_at": "2026-10-20T17:40:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad7a5bb52c09500099dda20",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0db56171-1384-40c9-9d86-769e1c9b44e7.jpeg",
+   "key": "guid:6ad7a5bb52c09500099dda20",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-20T17:35:17+00:00",
+   "status": "pending",
+   "title": "Estudantes de Medicina usam jogos educativos para orientar sobre prevenção a doenças infecciosas",
+   "updated_at": "2026-10-20T17:40:17+00:00",
+   "url": "https://marioadolfo.com/estudantes-de-medicina-usam-jogos-educativos-para-orientar-sobre-prevencao-a-doencas-infecciosas/",
+   "url_hash": "5c241ad3b7c108fb293b9a7b"
+  },
+  "guid:6ad7a66552c09500099dda3c": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A ação formativa foi destinada ao público interno do Lar Batista Janell Doyle, no bairro Mauazinho",
+   "discovered_at": "2026-10-20T17:40:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad7a66552c09500099dda3c",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/cb68823a-69e1-4980-a3a9-1e067df4d4ae.jpeg",
+   "key": "guid:6ad7a66552c09500099dda3c",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-20T17:37:54+00:00",
+   "status": "pending",
+   "title": "Rosa Malagueta encerra projeto sobre violência contra a mulher com oficina artística",
+   "updated_at": "2026-10-20T17:40:17+00:00",
+   "url": "https://marioadolfo.com/rosa-malagueta-encerra-projeto-sobre-violencia-contra-a-mulher-com-oficina-artistica/",
+   "url_hash": "f507b73a95d015000ddc164d"
+  },
+  "guid:6ad7a6ae52c09500099dda4a": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Proposta do deputado Dr. Gomes foi apresentada na Aleam; data da sessão solene ainda será definida.",
+   "discovered_at": "2026-10-20T17:40:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad7a6ae52c09500099dda4a",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/bfd68b96-bd7f-4e02-b4e0-d7e034e7933c.webp",
+   "key": "guid:6ad7a6ae52c09500099dda4a",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-20T17:37:38+00:00",
+   "status": "pending",
+   "title": "Eurico Tavares deve receber título de Cidadão Amazonense",
+   "updated_at": "2026-10-20T17:40:17+00:00",
+   "url": "https://marioadolfo.com/eurico-tavares-deve-receber-titulo-de-cidadao-amazonense/",
+   "url_hash": "16ec900bde69931375cf8c0c"
+  },
+  "guid:6ad7a70952c09500099dda6a": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "As inscrições estarão abertas de 21 de outubro a 6 de novembro pelo portal do Ifam",
+   "discovered_at": "2026-10-20T17:40:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad7a70952c09500099dda6a",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/252c50a3-645d-4ed4-8492-c80cf938b34d.jpeg",
+   "key": "guid:6ad7a70952c09500099dda6a",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-20T17:39:16+00:00",
+   "status": "pending",
+   "title": "Ifam lança processo seletivo com vagas em cursos técnicos e de graduação",
+   "updated_at": "2026-10-20T17:40:17+00:00",
+   "url": "https://marioadolfo.com/ifam-lanca-processo-seletivo-com-vagas-em-cursos-tecnicos-e-de-graduacao/",
+   "url_hash": "94bb5a1477ff33b238c83fba"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-20T17:30:16+00:00",
-  "saved_at": "2026-10-20T17:30:17+00:00"
+  "last_run_at": "2026-10-20T17:40:16+00:00",
+  "saved_at": "2026-10-20T17:40:18+00:00"
  },
  "schema": 1
 }
