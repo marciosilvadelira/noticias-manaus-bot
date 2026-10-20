@@ -5722,13 +5722,55 @@
    "updated_at": "2026-10-20T15:40:18+00:00",
    "url": "https://marioadolfo.com/suspeito-de-gravar-estupro-coletivo-de-adolescente-indigena-e-preso-no-am/",
    "url_hash": "a925287bd591fce6befad83b"
+  },
+  "guid:6ad79b7c52c09500099dd98b": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "TREs alertam para verificar em sites oficiais ou no e-Título",
+   "discovered_at": "2026-10-20T16:54:43+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad79b7c52c09500099dd98b",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f70069f8-6e38-4c0c-9047-12db7713b5ed.webp",
+   "key": "guid:6ad79b7c52c09500099dd98b",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-20T16:50:21+00:00",
+   "status": "pending",
+   "title": "Local de votação ainda pode mudar; consulte de novo antes de ir à urna",
+   "updated_at": "2026-10-20T16:54:43+00:00",
+   "url": "https://marioadolfo.com/local-de-votacao-ainda-pode-mudar-consulte-de-novo-antes-de-ir-a-urna/",
+   "url_hash": "c107e24be3a12fe020a4ef4e"
+  },
+  "guid:6ad79c2652c09500099dd9a0": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Ampliação faz parte de estratégia para otimizar o uso das doses",
+   "discovered_at": "2026-10-20T16:54:43+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad79c2652c09500099dd9a0",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/7185ee9d-c5d0-4c27-8254-cfcbbb0e85fa.webp",
+   "key": "guid:6ad79c2652c09500099dd9a0",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-20T16:54:00+00:00",
+   "status": "pending",
+   "title": "Pessoas de até 59 anos de idade poderão se vacinar contra a meningite",
+   "updated_at": "2026-10-20T16:54:43+00:00",
+   "url": "https://marioadolfo.com/pessoas-de-ate-59-anos-de-idade-poderao-se-vacinar-contra-a-meningite/",
+   "url_hash": "63469cb8a716d913110bfdd8"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-20T16:50:13+00:00",
-  "saved_at": "2026-10-20T16:50:14+00:00"
+  "last_run_at": "2026-10-20T16:54:42+00:00",
+  "saved_at": "2026-10-20T16:54:43+00:00"
  },
  "schema": 1
 }
