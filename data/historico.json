@@ -5525,12 +5525,12 @@
    "guid": "6ad6962052c09500099dd862",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/3c45ed0f-414a-4d61-8d01-c9ef124860ff.jpg",
    "key": "guid:6ad6962052c09500099dd862",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-19T22:15:59+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Eneva tem vagas abertas para atuação no Amazonas",
-   "updated_at": "2026-10-19T22:20:14+00:00",
+   "updated_at": "2026-10-20T22:20:17+00:00",
    "url": "https://marioadolfo.com/eneva-tem-vagas-abertas-para-atuacao-no-amazonas/",
    "url_hash": "c58bfc5e143c766ccd8d5180"
   },
@@ -6168,8 +6168,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-20T22:10:15+00:00",
-  "saved_at": "2026-10-20T22:10:17+00:00"
+  "last_run_at": "2026-10-20T22:20:15+00:00",
+  "saved_at": "2026-10-20T22:20:17+00:00"
  },
  "schema": 1
 }
