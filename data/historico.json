@@ -5410,12 +5410,12 @@
    "guid": "6ad67c2b52c09500099dd7bb",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/3b881b17-fa66-44b1-b29c-dd773a610a91.jpg",
    "key": "guid:6ad67c2b52c09500099dd7bb",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-19T20:30:41+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "TJAM abre prazo para incluir processos na Semana da Conciliação",
-   "updated_at": "2026-10-19T20:40:15+00:00",
+   "updated_at": "2026-10-20T20:40:17+00:00",
    "url": "https://marioadolfo.com/tjam-abre-prazo-para-incluir-processos-na-semana-da-conciliacao/",
    "url_hash": "03cb25b62c8a061eeaa2b92e"
   },
@@ -6121,13 +6121,55 @@
    "updated_at": "2026-10-20T20:30:19+00:00",
    "url": "https://marioadolfo.com/tre-am-autoriza-propaganda-institucional-sobre-estiagem-e-queimadas-no-amazonas/",
    "url_hash": "f90e280bae2543e39a41d7e5"
+  },
+  "guid:6ad7cf3f52c09500099ddb74": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "O Ministério da Saúde monitora a disponibilidade de insumos nos municípios afetados pela fumaça",
+   "discovered_at": "2026-10-20T20:40:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad7cf3f52c09500099ddb74",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5dcb264a-90b3-4477-add1-41b88ddf2a8d.jpeg",
+   "key": "guid:6ad7cf3f52c09500099ddb74",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-20T20:31:20+00:00",
+   "status": "pending",
+   "title": "Base da Força Nacional do SUS começa a operar em Manaus",
+   "updated_at": "2026-10-20T20:40:17+00:00",
+   "url": "https://marioadolfo.com/base-da-forca-nacional-do-sus-comeca-a-operar-em-manaus/",
+   "url_hash": "ff3839ec9f17ab03ceec21b2"
+  },
+  "guid:6ad7cfc752c09500099ddb8a": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Helicóptero Bell 412 começa a operar nesta terça-feira (20/10)",
+   "discovered_at": "2026-10-20T20:40:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad7cfc752c09500099ddb8a",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e3e3a61f-7d69-450a-83d0-ef67ad3b719e.png",
+   "key": "guid:6ad7cfc752c09500099ddb8a",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-20T20:33:35+00:00",
+   "status": "pending",
+   "title": "Helicópteros reforçam investigação de incêndios no interior do Amazonas",
+   "updated_at": "2026-10-20T20:40:17+00:00",
+   "url": "https://marioadolfo.com/helicopteros-reforcam-investigacao-de-incendios-no-interior-do-amazonas/",
+   "url_hash": "ed9e88828c1ddf1678d2ddd2"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-20T20:30:18+00:00",
-  "saved_at": "2026-10-20T20:30:19+00:00"
+  "last_run_at": "2026-10-20T20:40:15+00:00",
+  "saved_at": "2026-10-20T20:40:18+00:00"
  },
  "schema": 1
 }
