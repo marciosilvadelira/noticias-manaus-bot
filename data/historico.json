@@ -4965,11 +4965,19 @@
    "url_hash": "61cfdf709e1160f13d983ccd"
   },
   "guid:6ad63ec252c09500099dd663": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-20T04:10:23+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1513132887504269",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Após depoimento, foi liberado, e arma está sendo periciada",
    "discovered_at": "2026-10-19T16:10:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1513132887504269",
    "formats": [
     "link"
    ],
@@ -4977,20 +4985,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/eb583f6d-0a13-4c99-849a-b4a078537b7d.webp",
    "key": "guid:6ad63ec252c09500099dd663",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1513132887504269"
+   },
    "source_published_at": "2026-10-19T16:03:02+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Deputado estadual Marcelo Aguiar é detido após disparo em bar",
-   "updated_at": "2026-10-19T16:10:18+00:00",
+   "updated_at": "2026-10-20T04:10:23+00:00",
    "url": "https://marioadolfo.com/deputado-estadual-marcelo-aguiar-e-detido-apos-disparo-em-bar/",
    "url_hash": "12cb95372950174af99812f5"
   },
   "guid:6ad64b6d52c09500099dd679": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-20T04:10:51+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1513133167504241",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Decisão é do ministro Ricardo Villas Bôas Cueva",
    "discovered_at": "2026-10-19T17:00:22+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1513133167504241",
    "formats": [
     "link"
    ],
@@ -4998,20 +5016,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/26c5d612-8fd3-43dd-88a7-b11e508aee49.webp",
    "key": "guid:6ad64b6d52c09500099dd679",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1513133167504241"
+   },
    "source_published_at": "2026-10-19T16:56:21+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "TSE proíbe novas postagens de Nikolas e Marçal vetados pela justiça",
-   "updated_at": "2026-10-19T17:00:22+00:00",
+   "updated_at": "2026-10-20T04:10:51+00:00",
    "url": "https://marioadolfo.com/tse-proibe-novas-postagens-de-nikolas-e-marcal-vetados-pela-justica/",
    "url_hash": "fb59da4a535efabf3a5cfb57"
   },
   "guid:6ad64d2352c09500099dd68e": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-20T04:11:19+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1513133434170881",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "As doações podem ser entregues até o dia 23 de outubro de 2026",
    "discovered_at": "2026-10-19T17:10:19+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1513133434170881",
    "formats": [
     "link"
    ],
@@ -5019,20 +5047,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/685021e3-bb5d-40b7-9615-ab69eca6a57e.jpeg",
    "key": "guid:6ad64d2352c09500099dd68e",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1513133434170881"
+   },
    "source_published_at": "2026-10-19T17:04:07+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Campanha arrecada água e máscaras para comunidades afetadas por queimadas no AM",
-   "updated_at": "2026-10-19T17:10:19+00:00",
+   "updated_at": "2026-10-20T04:11:19+00:00",
    "url": "https://marioadolfo.com/campanha-arrecada-agua-e-mascaras-para-comunidades-afetadas-por-queimadas-no-am/",
    "url_hash": "ae8cf6064d425496303f4193"
   },
   "guid:6ad64efc52c09500099dd6b1": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-20T04:11:44+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1513133837504174",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Para se candidatar, basta acessar ciee.online: https://portal.ciee.org.br/",
    "discovered_at": "2026-10-19T17:20:20+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1513133837504174",
    "formats": [
     "link"
    ],
@@ -5040,20 +5078,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c562e509-f21a-4aa3-89e3-63f609ff7d58.jpeg",
    "key": "guid:6ad64efc52c09500099dd6b1",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1513133837504174"
+   },
    "source_published_at": "2026-10-19T17:11:51+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Em busca de estágio? CIEE oferece 98 vagas para estudantes, no Amazonas",
-   "updated_at": "2026-10-19T17:20:20+00:00",
+   "updated_at": "2026-10-20T04:11:44+00:00",
    "url": "https://marioadolfo.com/em-busca-de-estagio-ciee-oferece-98-vagas-para-estudantes-no-amazonas/",
    "url_hash": "c0e1978260497896ce34e514"
   },
   "guid:6ad650b452c09500099dd6c7": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-20T04:12:12+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1513134194170805",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "O crime aconteceu em 27 de setembro deste ano e a prisão ocorreu na última sexta-feira (16)",
    "discovered_at": "2026-10-19T17:20:20+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1513134194170805",
    "formats": [
     "link"
    ],
@@ -5061,11 +5109,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/7c3c30a3-3d73-415d-9679-1719d2dfc527.jpeg",
    "key": "guid:6ad650b452c09500099dd6c7",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1513134194170805"
+   },
    "source_published_at": "2026-10-19T17:19:34+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Homem é preso suspeito de assassinar mulher trans a tiros em Manaus",
-   "updated_at": "2026-10-19T17:20:20+00:00",
+   "updated_at": "2026-10-20T04:12:12+00:00",
    "url": "https://marioadolfo.com/homem-e-preso-suspeito-de-assassinar-mulher-trans-a-tiros-em-manaus/",
    "url_hash": "3879fb876186f4366e8ebe8a"
   },
@@ -5388,8 +5438,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-20T04:00:17+00:00",
-  "saved_at": "2026-10-20T04:02:18+00:00"
+  "last_run_at": "2026-10-20T04:10:15+00:00",
+  "saved_at": "2026-10-20T04:12:12+00:00"
  },
  "schema": 1
 }
