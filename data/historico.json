@@ -5533,13 +5533,34 @@
    "updated_at": "2026-10-19T22:20:14+00:00",
    "url": "https://marioadolfo.com/eneva-tem-vagas-abertas-para-atuacao-no-amazonas/",
    "url_hash": "c58bfc5e143c766ccd8d5180"
+  },
+  "guid:6ad756c652c09500099dd87c": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Até o momento, foram aprovados R$ 21,1 milhões em nove planos de trabalho",
+   "discovered_at": "2026-10-20T12:06:09+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad756c652c09500099dd87c",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e5020fb2-443d-48e8-9fa6-f55275277cc7.jpg",
+   "key": "guid:6ad756c652c09500099dd87c",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-20T12:02:52+00:00",
+   "status": "pending",
+   "title": "Governo Federal autoriza mais R$ 3,5 milhões para combater estiagem e queimadas no AM",
+   "updated_at": "2026-10-20T12:06:09+00:00",
+   "url": "https://marioadolfo.com/governo-federal-autoriza-mais-r-3-5-milhoes-para-combater-estiagem-e-queimadas-no-am/",
+   "url_hash": "1430950be119f80311645842"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-20T12:00:21+00:00",
-  "saved_at": "2026-10-20T12:00:22+00:00"
+  "last_run_at": "2026-10-20T12:06:08+00:00",
+  "saved_at": "2026-10-20T12:06:10+00:00"
  },
  "schema": 1
 }
