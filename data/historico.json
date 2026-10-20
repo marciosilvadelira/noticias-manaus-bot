@@ -5827,13 +5827,34 @@
    "updated_at": "2026-10-20T17:20:16+00:00",
    "url": "https://marioadolfo.com/suspeito-de-causar-incendio-florestal-e-preso-no-careiro-da-varzea/",
    "url_hash": "3352b88f27adfe4d90495a5a"
+  },
+  "guid:6ad7a2e352c09500099dda05": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A coleção reúne quatro modelos exclusivos, nas cores amarelo, azul, rosa e vermelho",
+   "discovered_at": "2026-10-20T17:30:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad7a2e352c09500099dda05",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5c9dd88e-f973-4a22-af85-34856fdff2d1.jpeg",
+   "key": "guid:6ad7a2e352c09500099dda05",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-20T17:23:54+00:00",
+   "status": "pending",
+   "title": "Empresa lança coleção de camisetas para celebrar os 357 anos de Manaus",
+   "updated_at": "2026-10-20T17:30:17+00:00",
+   "url": "https://marioadolfo.com/empresa-lanca-colecao-de-camisetas-para-celebrar-os-357-anos-de-manaus/",
+   "url_hash": "d332a137320226d69b45e319"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-20T17:20:16+00:00",
-  "saved_at": "2026-10-20T17:20:17+00:00"
+  "last_run_at": "2026-10-20T17:30:16+00:00",
+  "saved_at": "2026-10-20T17:30:17+00:00"
  },
  "schema": 1
 }
