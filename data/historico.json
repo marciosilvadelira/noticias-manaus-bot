@@ -5764,13 +5764,55 @@
    "updated_at": "2026-10-20T16:54:43+00:00",
    "url": "https://marioadolfo.com/pessoas-de-ate-59-anos-de-idade-poderao-se-vacinar-contra-a-meningite/",
    "url_hash": "63469cb8a716d913110bfdd8"
+  },
+  "guid:6ad79ce752c09500099dd9b6": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Candidato também autorizou quebra de sigilos da família e empresa",
+   "discovered_at": "2026-10-20T17:10:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad79ce752c09500099dd9b6",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/795b1cbf-b793-4cae-9bfd-c9d7d2a5d25e.webp",
+   "key": "guid:6ad79ce752c09500099dd9b6",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-20T17:03:41+00:00",
+   "status": "pending",
+   "title": "Lula registra no TSE aval para quebra de sigilo em desafio a Flávio",
+   "updated_at": "2026-10-20T17:10:17+00:00",
+   "url": "https://marioadolfo.com/lula-registra-no-tse-aval-para-quebra-de-sigilo-em-desafio-a-flavio/",
+   "url_hash": "10af6b5f0ef319ba55133f1b"
+  },
+  "guid:6ad79df752c09500099dd9c2": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A decisão foi tomada pelo Tribunal Pleno nesta terça-feira (20), após deliberação dos conselheiros",
+   "discovered_at": "2026-10-20T17:10:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad79df752c09500099dd9c2",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f0e911c4-a4ff-475e-84d9-b66a5c56e9cb.webp",
+   "key": "guid:6ad79df752c09500099dd9c2",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-20T17:02:23+00:00",
+   "status": "pending",
+   "title": "TCE-AM transfere julgamento das contas de David Almeida para dezembro",
+   "updated_at": "2026-10-20T17:10:17+00:00",
+   "url": "https://marioadolfo.com/tce-am-transfere-julgamento-das-contas-de-david-almeida-para-dezembro/",
+   "url_hash": "e1f80373090fc49f1c80696a"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-20T17:00:19+00:00",
-  "saved_at": "2026-10-20T17:00:20+00:00"
+  "last_run_at": "2026-10-20T17:10:17+00:00",
+  "saved_at": "2026-10-20T17:10:17+00:00"
  },
  "schema": 1
 }
