@@ -5554,13 +5554,34 @@
    "updated_at": "2026-10-20T12:06:09+00:00",
    "url": "https://marioadolfo.com/governo-federal-autoriza-mais-r-3-5-milhoes-para-combater-estiagem-e-queimadas-no-am/",
    "url_hash": "1430950be119f80311645842"
+  },
+  "guid:6ad7634b52c09500099dd8a0": {
+   "attempts": [],
+   "category": "Dito & Feito",
+   "description": "Postura do candidato Flávio Bolsonaro não deu certo e candidato da extrema-direita trava diante das perguntas incômodas de Lula, sobre sua trajetória e suas relações, que ficaram sem resposta",
+   "discovered_at": "2026-10-20T13:00:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad7634b52c09500099dd8a0",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5feaf53d-3cae-4962-83a5-0c82f8718f67.jpeg",
+   "key": "guid:6ad7634b52c09500099dd8a0",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-20T12:57:10+00:00",
+   "status": "pending",
+   "title": "Dito & Feito: MOLEQUE DEBOCHADO",
+   "updated_at": "2026-10-20T13:00:21+00:00",
+   "url": "https://marioadolfo.com/dito-feito-moleque-debochado/",
+   "url_hash": "3c8f0cc9fd7bfb8fa79d6334"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-20T12:50:14+00:00",
-  "saved_at": "2026-10-20T12:50:16+00:00"
+  "last_run_at": "2026-10-20T13:00:20+00:00",
+  "saved_at": "2026-10-20T13:00:21+00:00"
  },
  "schema": 1
 }
