@@ -5932,13 +5932,34 @@
    "updated_at": "2026-10-20T17:40:17+00:00",
    "url": "https://marioadolfo.com/ifam-lanca-processo-seletivo-com-vagas-em-cursos-tecnicos-e-de-graduacao/",
    "url_hash": "94bb5a1477ff33b238c83fba"
+  },
+  "guid:6ad7a88952c09500099dda83": {
+   "attempts": [],
+   "category": "Parintins",
+   "description": "A festa do Boi Azul reúne itens oficiais, Marujada de Guerra, Corpo de Dança Caprichoso, Raça Azul e toadeiros",
+   "discovered_at": "2026-10-20T17:50:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad7a88952c09500099dda83",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/042ef346-a8e3-48fb-b1ff-d2d784633077.jpeg",
+   "key": "guid:6ad7a88952c09500099dda83",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-20T17:45:35+00:00",
+   "status": "pending",
+   "title": "Caprichoso completa 113 anos; confira a programação da festa em Parintins",
+   "updated_at": "2026-10-20T17:50:19+00:00",
+   "url": "https://marioadolfo.com/caprichoso-completa-113-anos-confira-a-programacao-da-festa-em-parintins-2/",
+   "url_hash": "2be069cd900c918a8a25004b"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-20T17:40:16+00:00",
-  "saved_at": "2026-10-20T17:40:18+00:00"
+  "last_run_at": "2026-10-20T17:50:18+00:00",
+  "saved_at": "2026-10-20T17:50:20+00:00"
  },
  "schema": 1
 }
