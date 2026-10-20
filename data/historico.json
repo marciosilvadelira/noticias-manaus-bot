@@ -5680,13 +5680,34 @@
    "updated_at": "2026-10-20T14:40:17+00:00",
    "url": "https://marioadolfo.com/sargento-loiola-assume-comando-da-secretaria-municipal-de-seguranca/",
    "url_hash": "9a0564da3d72a7ae20c83e89"
+  },
+  "guid:6ad786be52c09500099dd955": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Operações somam mais de 390 horas de voo e 337 incêndios extintos; mobilização conta com 13 aeronaves e 462 brigadistas do Ibama e do ICMBio",
+   "discovered_at": "2026-10-20T15:30:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad786be52c09500099dd955",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e1f57a8b-3605-45a3-9418-ece8e656672f.png",
+   "key": "guid:6ad786be52c09500099dd955",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-20T15:26:16+00:00",
+   "status": "pending",
+   "title": "Aeronaves federais lançam mais de 1 milhão de litros de água no combate aos incêndios no AM",
+   "updated_at": "2026-10-20T15:30:18+00:00",
+   "url": "https://marioadolfo.com/aeronaves-federais-lancam-mais-de-1-milhao-de-litros-de-agua-no-combate-aos-incendios-no-am/",
+   "url_hash": "0328f856938825a21d3eb023"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-20T15:20:14+00:00",
-  "saved_at": "2026-10-20T15:20:16+00:00"
+  "last_run_at": "2026-10-20T15:30:17+00:00",
+  "saved_at": "2026-10-20T15:30:18+00:00"
  },
  "schema": 1
 }
