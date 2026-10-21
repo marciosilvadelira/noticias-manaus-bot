@@ -6000,11 +6000,19 @@
    "url_hash": "d332a137320226d69b45e319"
   },
   "guid:6ad7a5bb52c09500099dda20": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-21T04:30:22+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1514105067407051",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Projeto levou informações sobre tuberculose, HIV/Aids, hanseníase e hepatites virais B e C, a 86 estudantes da Escola Adventista de Itacoatiara",
    "discovered_at": "2026-10-20T17:40:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1514105067407051",
    "formats": [
     "link"
    ],
@@ -6012,20 +6020,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0db56171-1384-40c9-9d86-769e1c9b44e7.jpeg",
    "key": "guid:6ad7a5bb52c09500099dda20",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1514105067407051"
+   },
    "source_published_at": "2026-10-20T17:35:17+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Estudantes de Medicina usam jogos educativos para orientar sobre prevenção a doenças infecciosas",
-   "updated_at": "2026-10-20T17:40:17+00:00",
+   "updated_at": "2026-10-21T04:30:22+00:00",
    "url": "https://marioadolfo.com/estudantes-de-medicina-usam-jogos-educativos-para-orientar-sobre-prevencao-a-doencas-infecciosas/",
    "url_hash": "5c241ad3b7c108fb293b9a7b"
   },
   "guid:6ad7a66552c09500099dda3c": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-21T04:31:12+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1514105597406998",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "A ação formativa foi destinada ao público interno do Lar Batista Janell Doyle, no bairro Mauazinho",
    "discovered_at": "2026-10-20T17:40:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1514105597406998",
    "formats": [
     "link"
    ],
@@ -6033,20 +6051,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/cb68823a-69e1-4980-a3a9-1e067df4d4ae.jpeg",
    "key": "guid:6ad7a66552c09500099dda3c",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1514105597406998"
+   },
    "source_published_at": "2026-10-20T17:37:54+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Rosa Malagueta encerra projeto sobre violência contra a mulher com oficina artística",
-   "updated_at": "2026-10-20T17:40:17+00:00",
+   "updated_at": "2026-10-21T04:31:12+00:00",
    "url": "https://marioadolfo.com/rosa-malagueta-encerra-projeto-sobre-violencia-contra-a-mulher-com-oficina-artistica/",
    "url_hash": "f507b73a95d015000ddc164d"
   },
   "guid:6ad7a6ae52c09500099dda4a": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-21T04:30:46+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1514105384073686",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Proposta do deputado Dr. Gomes foi apresentada na Aleam; data da sessão solene ainda será definida.",
    "discovered_at": "2026-10-20T17:40:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1514105384073686",
    "formats": [
     "link"
    ],
@@ -6054,20 +6082,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/bfd68b96-bd7f-4e02-b4e0-d7e034e7933c.webp",
    "key": "guid:6ad7a6ae52c09500099dda4a",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1514105384073686"
+   },
    "source_published_at": "2026-10-20T17:37:38+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Eurico Tavares deve receber título de Cidadão Amazonense",
-   "updated_at": "2026-10-20T17:40:17+00:00",
+   "updated_at": "2026-10-21T04:30:46+00:00",
    "url": "https://marioadolfo.com/eurico-tavares-deve-receber-titulo-de-cidadao-amazonense/",
    "url_hash": "16ec900bde69931375cf8c0c"
   },
   "guid:6ad7a70952c09500099dda6a": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-21T04:31:42+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1514105934073631",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "As inscrições estarão abertas de 21 de outubro a 6 de novembro pelo portal do Ifam",
    "discovered_at": "2026-10-20T17:40:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1514105934073631",
    "formats": [
     "link"
    ],
@@ -6075,20 +6113,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/252c50a3-645d-4ed4-8492-c80cf938b34d.jpeg",
    "key": "guid:6ad7a70952c09500099dda6a",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1514105934073631"
+   },
    "source_published_at": "2026-10-20T17:39:16+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Ifam lança processo seletivo com vagas em cursos técnicos e de graduação",
-   "updated_at": "2026-10-20T17:40:17+00:00",
+   "updated_at": "2026-10-21T04:31:42+00:00",
    "url": "https://marioadolfo.com/ifam-lanca-processo-seletivo-com-vagas-em-cursos-tecnicos-e-de-graduacao/",
    "url_hash": "94bb5a1477ff33b238c83fba"
   },
   "guid:6ad7a88952c09500099dda83": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-21T04:32:06+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1514106380740253",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Parintins",
    "description": "A festa do Boi Azul reúne itens oficiais, Marujada de Guerra, Corpo de Dança Caprichoso, Raça Azul e toadeiros",
    "discovered_at": "2026-10-20T17:50:19+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1514106380740253",
    "formats": [
     "link"
    ],
@@ -6096,11 +6144,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/042ef346-a8e3-48fb-b1ff-d2d784633077.jpeg",
    "key": "guid:6ad7a88952c09500099dda83",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1514106380740253"
+   },
    "source_published_at": "2026-10-20T17:45:35+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Caprichoso completa 113 anos; confira a programação da festa em Parintins",
-   "updated_at": "2026-10-20T17:50:19+00:00",
+   "updated_at": "2026-10-21T04:32:06+00:00",
    "url": "https://marioadolfo.com/caprichoso-completa-113-anos-confira-a-programacao-da-festa-em-parintins-2/",
    "url_hash": "2be069cd900c918a8a25004b"
   },
@@ -6318,8 +6368,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-21T04:20:14+00:00",
-  "saved_at": "2026-10-21T04:22:04+00:00"
+  "last_run_at": "2026-10-21T04:30:15+00:00",
+  "saved_at": "2026-10-21T04:32:06+00:00"
  },
  "schema": 1
 }
