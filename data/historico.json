@@ -6552,13 +6552,76 @@
    "updated_at": "2026-10-21T15:20:17+00:00",
    "url": "https://marioadolfo.com/pf-investiga-possiveis-incendios-criminosos-no-amazonas/",
    "url_hash": "65218a35b89c2bd3b8dfcea6"
+  },
+  "guid:6ad8f1e752c09500099ddc90": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Podem participar estudantes matriculados entre o 3º e o 8º período do curso de Direito; prova será realizada no dia 22 de novembro",
+   "discovered_at": "2026-10-21T17:20:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad8f1e752c09500099ddc90",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e7f702e4-c9eb-4522-99ea-61e77d0c5d99.jpeg",
+   "key": "guid:6ad8f1e752c09500099ddc90",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-21T17:12:11+00:00",
+   "status": "pending",
+   "title": "Defensoria abre seleção  para cadastro reserva de estagiários de Direito",
+   "updated_at": "2026-10-21T17:20:16+00:00",
+   "url": "https://marioadolfo.com/defensoria-abre-selecao-para-cadastro-reserva-de-estagiarios-de-direito/",
+   "url_hash": "1d152d8c4ca82508a9aa1881"
+  },
+  "guid:6ad8f29e52c09500099ddcb1": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Levantamento revela que 59% dos consumidores apontam despesas com alimentação entre as que mais comprometem o orçamento",
+   "discovered_at": "2026-10-21T17:20:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad8f29e52c09500099ddcb1",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/7228dc33-b1ff-4b1b-92de-8437c3eafe41.jpeg",
+   "key": "guid:6ad8f29e52c09500099ddcb1",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-21T17:15:08+00:00",
+   "status": "pending",
+   "title": "Gastos com alimentação e supermercado são os que mais pesam no orçamento dos brasileiros, diz Serasa",
+   "updated_at": "2026-10-21T17:20:16+00:00",
+   "url": "https://marioadolfo.com/gastos-com-alimentacao-e-supermercado-sao-os-que-mais-pesam-no-orcamento-dos-brasileiros-diz-serasa/",
+   "url_hash": "d149b9ef84cfefc01ca849b7"
+  },
+  "guid:6ad8f34052c09500099ddcc8": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Com entrada gratuita, montagem do NITAP será apresentada no Teatro da Instalação, às 20h, com histórias inspiradas nas periferias de Manaus e Macapá",
+   "discovered_at": "2026-10-21T17:20:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad8f34052c09500099ddcc8",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f0a074a0-01af-4088-85e1-2283e395d4cb.jpeg",
+   "key": "guid:6ad8f34052c09500099ddcc8",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-21T17:18:18+00:00",
+   "status": "pending",
+   "title": "Espetáculo estreia nesta sexta-feira com reflexões sobre morte, luto e transformação",
+   "updated_at": "2026-10-21T17:20:16+00:00",
+   "url": "https://marioadolfo.com/espetaculo-estreia-nesta-sexta-feira-com-reflexoes-sobre-morte-luto-e-transformacao/",
+   "url_hash": "6cadef672db4b3ebd5576e3e"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-21T17:10:16+00:00",
-  "saved_at": "2026-10-21T17:10:19+00:00"
+  "last_run_at": "2026-10-21T17:20:16+00:00",
+  "saved_at": "2026-10-21T17:20:17+00:00"
  },
  "schema": 1
 }
