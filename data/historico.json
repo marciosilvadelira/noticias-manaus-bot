@@ -6972,13 +6972,34 @@
    "updated_at": "2026-10-21T19:20:15+00:00",
    "url": "https://marioadolfo.com/amazonas-reduz-focos-de-calor-e-amplia-operacao-contra-incendios-florestais/",
    "url_hash": "928c5f6da1267c0006b6dfe4"
+  },
+  "guid:6ad91a9d52c09500099ddea5": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Entre os réus estão diretores e membros da alta administração",
+   "discovered_at": "2026-10-21T20:10:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad91a9d52c09500099ddea5",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e787e098-1bfc-4155-ab24-24914a8c78e0.jpg",
+   "key": "guid:6ad91a9d52c09500099ddea5",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-21T20:08:04+00:00",
+   "status": "pending",
+   "title": "Justiça torna réus 12 denunciados por queda de avião da Voepass",
+   "updated_at": "2026-10-21T20:10:15+00:00",
+   "url": "https://marioadolfo.com/justica-torna-reus-12-denunciados-por-queda-de-aviao-da-voepass/",
+   "url_hash": "e58fd083ab16a7632783ac86"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-21T20:00:21+00:00",
-  "saved_at": "2026-10-21T20:00:22+00:00"
+  "last_run_at": "2026-10-21T20:10:14+00:00",
+  "saved_at": "2026-10-21T20:10:15+00:00"
  },
  "schema": 1
 }
