@@ -6531,13 +6531,34 @@
    "updated_at": "2026-10-21T15:10:18+00:00",
    "url": "https://marioadolfo.com/video-homem-e-executado-dentro-de-casa-no-petropolis/",
    "url_hash": "7cd44d5d3ce3b36a2b679155"
+  },
+  "guid:6ad8d76e52c09500099ddc79": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Apurações abrangem diferentes municípios do estado e incluem análise de imagens de satélite e levantamento de informações junto a órgãos públicos",
+   "discovered_at": "2026-10-21T15:20:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad8d76e52c09500099ddc79",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5d06c504-8aaa-47d3-ba0d-d79783db9af3.jpeg",
+   "key": "guid:6ad8d76e52c09500099ddc79",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-21T15:19:18+00:00",
+   "status": "pending",
+   "title": "PF investiga possíveis incêndios criminosos no Amazonas",
+   "updated_at": "2026-10-21T15:20:17+00:00",
+   "url": "https://marioadolfo.com/pf-investiga-possiveis-incendios-criminosos-no-amazonas/",
+   "url_hash": "65218a35b89c2bd3b8dfcea6"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-21T15:10:17+00:00",
-  "saved_at": "2026-10-21T15:10:19+00:00"
+  "last_run_at": "2026-10-21T15:20:16+00:00",
+  "saved_at": "2026-10-21T15:20:17+00:00"
  },
  "schema": 1
 }
