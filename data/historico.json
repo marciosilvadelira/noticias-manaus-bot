@@ -6951,13 +6951,34 @@
    "updated_at": "2026-10-21T19:10:14+00:00",
    "url": "https://marioadolfo.com/policiais-encontraram-1-3-tonelada-de-skunk-em-sitio-na-zona-rural-de-novo-airao/",
    "url_hash": "d270d2ad475926728e22d134"
+  },
+  "guid:6ad90e1352c09500099dde8c": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Força-tarefa reúne cerca de 1.500 servidores, mais de 100 viaturas e equipes dos governos estadual e federal para combater queimadas em 36 municípios",
+   "discovered_at": "2026-10-21T19:20:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad90e1352c09500099dde8c",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/cae379ef-4a5f-448c-b566-58b09a6fc6a0.jpeg",
+   "key": "guid:6ad90e1352c09500099dde8c",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-21T19:12:55+00:00",
+   "status": "pending",
+   "title": "Amazonas reduz focos de calor e amplia operação contra incêndios florestais",
+   "updated_at": "2026-10-21T19:20:15+00:00",
+   "url": "https://marioadolfo.com/amazonas-reduz-focos-de-calor-e-amplia-operacao-contra-incendios-florestais/",
+   "url_hash": "928c5f6da1267c0006b6dfe4"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-21T19:10:14+00:00",
-  "saved_at": "2026-10-21T19:10:15+00:00"
+  "last_run_at": "2026-10-21T19:20:15+00:00",
+  "saved_at": "2026-10-21T19:20:15+00:00"
  },
  "schema": 1
 }
