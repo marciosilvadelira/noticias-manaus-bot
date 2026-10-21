@@ -6468,13 +6468,55 @@
    "updated_at": "2026-10-21T14:40:15+00:00",
    "url": "https://marioadolfo.com/mp-eleitoral-recomenda-ao-tse-ampla-divulgacao-sobre-as-mudancas-nos-locais-de-votacao/",
    "url_hash": "a929dcc892a8af2c5a0bd487"
+  },
+  "guid:6ad8cf8252c09500099ddc2e": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Levantamentos Quaest, Meio/Ideia e Palver mostram o senador numericamente à frente a quatro dias do segundo turno.",
+   "discovered_at": "2026-10-21T14:50:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad8cf8252c09500099ddc2e",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/30ef0297-e1bd-4175-a810-4279bd75a878.webp",
+   "key": "guid:6ad8cf8252c09500099ddc2e",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-21T14:46:11+00:00",
+   "status": "pending",
+   "title": "Pesquisas apontam empate técnico entre Lula e Flávio Bolsonaro",
+   "updated_at": "2026-10-21T14:50:15+00:00",
+   "url": "https://marioadolfo.com/pesquisas-apontam-empate-tecnico-entre-lula-e-flavio-bolsonaro/",
+   "url_hash": "640acf1949e1a891eb8f2fca"
+  },
+  "guid:6ad8d0bc52c09500099ddc4b": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Em encontros em Manaus, candidato defendeu qualificação profissional, estágio remunerado, ampliação da rede de saúde e construção de 40 mil moradias",
+   "discovered_at": "2026-10-21T14:50:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad8d0bc52c09500099ddc4b",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/83c80973-9b41-43f6-b000-98738676ed9a.jpeg",
+   "key": "guid:6ad8d0bc52c09500099ddc4b",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-21T14:49:59+00:00",
+   "status": "pending",
+   "title": "Omar apresenta propostas para jovens e famílias do Amazonas",
+   "updated_at": "2026-10-21T14:50:15+00:00",
+   "url": "https://marioadolfo.com/omar-apresenta-propostas-para-jovens-e-familias-do-amazonas/",
+   "url_hash": "551dd34a1989984aa912d695"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-21T14:40:15+00:00",
-  "saved_at": "2026-10-21T14:40:16+00:00"
+  "last_run_at": "2026-10-21T14:50:14+00:00",
+  "saved_at": "2026-10-21T14:50:15+00:00"
  },
  "schema": 1
 }
