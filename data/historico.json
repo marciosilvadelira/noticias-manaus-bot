@@ -6208,12 +6208,12 @@
    "guid": "6ad7b0c152c09500099ddae0",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f87272f0-138b-4cfa-a601-f288f7229f31.jpeg",
    "key": "guid:6ad7b0c152c09500099ddae0",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-20T18:20:42+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "MP articula ação integrada para prevenir queimadas e combater incêndios em Maués",
-   "updated_at": "2026-10-20T18:30:19+00:00",
+   "updated_at": "2026-10-21T18:30:19+00:00",
    "url": "https://marioadolfo.com/mp-articula-acao-integrada-para-prevenir-queimadas-e-combater-incendios-em-maues/",
    "url_hash": "7f66fffc5fa8e97f51e93777"
   },
@@ -6846,13 +6846,55 @@
    "updated_at": "2026-10-21T18:20:16+00:00",
    "url": "https://marioadolfo.com/ambar-energia-realiza-2-3-mil-acoes-na-rede-eletrica-do-amazonas-em-uma-semana/",
    "url_hash": "f78548e79d06d9b7152d952e"
+  },
+  "guid:6ad901fe52c09500099dde0f": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Nos dias 15 e 16 de novembro, instituição leva capacitações, orientação empresarial e marcas da bioeconomia amazônica a um dos mais importantes encontros do setor na capital.",
+   "discovered_at": "2026-10-21T18:30:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad901fe52c09500099dde0f",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/57115336-f227-4a4d-9b16-0f8bdbb5d50d.jpeg",
+   "key": "guid:6ad901fe52c09500099dde0f",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-21T18:21:03+00:00",
+   "status": "pending",
+   "title": "Sebrae AM conecta beleza, inovação e novos mercados na Manaus Expo Beleza 2026",
+   "updated_at": "2026-10-21T18:30:19+00:00",
+   "url": "https://marioadolfo.com/sebrae-am-conecta-beleza-inovacao-e-novos-mercados-na-manaus-expo-beleza-2026/",
+   "url_hash": "39f4575d451f69f6967c6068"
+  },
+  "guid:6ad9040352c09500099dde28": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Fumaça mantém aulas presenciais suspensas na rede municipal",
+   "discovered_at": "2026-10-21T18:30:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad9040352c09500099dde28",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/64a24d5f-beac-4abc-8d9f-f8831953c702.jpg",
+   "key": "guid:6ad9040352c09500099dde28",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-21T18:30:16+00:00",
+   "status": "pending",
+   "title": "Qualidade do ar melhora em Manaus, mas aulas seguem suspensas",
+   "updated_at": "2026-10-21T18:30:19+00:00",
+   "url": "https://marioadolfo.com/qualidade-do-ar-melhora-em-manaus-mas-aulas-seguem-suspensas/",
+   "url_hash": "574c605b336ef9b9df727a4a"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-21T18:20:16+00:00",
-  "saved_at": "2026-10-21T18:20:17+00:00"
+  "last_run_at": "2026-10-21T18:30:18+00:00",
+  "saved_at": "2026-10-21T18:30:19+00:00"
  },
  "schema": 1
 }
