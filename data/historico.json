@@ -6510,13 +6510,34 @@
    "updated_at": "2026-10-21T14:50:15+00:00",
    "url": "https://marioadolfo.com/omar-apresenta-propostas-para-jovens-e-familias-do-amazonas/",
    "url_hash": "551dd34a1989984aa912d695"
+  },
+  "guid:6ad8d3d652c09500099ddc60": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Câmeras de segurança do circuito interno de uma área próxima registraram a ação dos criminosos.",
+   "discovered_at": "2026-10-21T15:10:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad8d3d652c09500099ddc60",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5899d2d9-3435-4cca-b9cf-bf1f507eec74.jpg",
+   "key": "guid:6ad8d3d652c09500099ddc60",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-21T15:04:45+00:00",
+   "status": "pending",
+   "title": "Vídeo: homem é executado dentro de casa no Petropolis",
+   "updated_at": "2026-10-21T15:10:18+00:00",
+   "url": "https://marioadolfo.com/video-homem-e-executado-dentro-de-casa-no-petropolis/",
+   "url_hash": "7cd44d5d3ce3b36a2b679155"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-21T15:00:21+00:00",
-  "saved_at": "2026-10-21T15:00:23+00:00"
+  "last_run_at": "2026-10-21T15:10:17+00:00",
+  "saved_at": "2026-10-21T15:10:19+00:00"
  },
  "schema": 1
 }
