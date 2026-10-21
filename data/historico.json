@@ -6741,13 +6741,76 @@
    "updated_at": "2026-10-21T17:40:16+00:00",
    "url": "https://marioadolfo.com/casarao-de-ideias-abre-galeria-subterranea-da-belle-epoque-para-visitacao-com-entrada-gratuita/",
    "url_hash": "bf216e009ee7939e5bcec5bd"
+  },
+  "guid:6ad8f98f52c09500099ddd7b": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Responsável foi conduzido à delegacia pela Polícia Civil após a atuação do Instituto de Proteção Ambiental do Amazonas",
+   "discovered_at": "2026-10-21T17:50:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad8f98f52c09500099ddd7b",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f91651e2-fec2-41f5-a933-4f44665bc408.jpeg",
+   "key": "guid:6ad8f98f52c09500099ddd7b",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-21T17:45:15+00:00",
+   "status": "pending",
+   "title": "Ipaam multa dono de terreno em R$ 100 mil após incêndio em terreno no Careiro da Várzea",
+   "updated_at": "2026-10-21T17:50:16+00:00",
+   "url": "https://marioadolfo.com/ipaam-multa-dono-de-terreno-em-r-100-mil-apos-incendio-em-terreno-no-careiro-da-varzea/",
+   "url_hash": "329515ea895c8d21f49b87b5"
+  },
+  "guid:6ad8f9ca52c09500099ddd83": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Estado tem 42 municípios em situação de emergência; Autazes registra nível severo de poluição do ar, e outras cidades têm alertas por causa da fumaça de incêndios florestais.",
+   "discovered_at": "2026-10-21T17:50:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad8f9ca52c09500099ddd83",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/53518f4f-1b7e-4996-bc68-3c32b4a769ff.jpg",
+   "key": "guid:6ad8f9ca52c09500099ddd83",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-21T17:47:55+00:00",
+   "status": "pending",
+   "title": "Estiagem atinge mais de 104 mil famílias no Amazonas",
+   "updated_at": "2026-10-21T17:50:16+00:00",
+   "url": "https://marioadolfo.com/estiagem-atinge-mais-de-104-mil-familias-no-amazonas/",
+   "url_hash": "e4be5127043db4ddb692b5a5"
+  },
+  "guid:6ad8faab52c09500099dddab": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Cinco pessoas foram presas. Eles possuem registros anteriores por crimes como estelionato, porte ilegal de arma de fogo e furto qualificado",
+   "discovered_at": "2026-10-21T17:50:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad8faab52c09500099dddab",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/86678327-b8e6-4ec2-90ae-9feb2eb80906.jpeg",
+   "key": "guid:6ad8faab52c09500099dddab",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-21T17:49:38+00:00",
+   "status": "pending",
+   "title": "Grupo é preso com armas e distintivos da PC-AM em Iranduba",
+   "updated_at": "2026-10-21T17:50:16+00:00",
+   "url": "https://marioadolfo.com/grupo-e-preso-com-armas-e-distintivos-da-pc-am-em-iranduba/",
+   "url_hash": "d88d6166eb58bcbed165c05d"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-21T17:40:15+00:00",
-  "saved_at": "2026-10-21T17:40:17+00:00"
+  "last_run_at": "2026-10-21T17:50:16+00:00",
+  "saved_at": "2026-10-21T17:50:17+00:00"
  },
  "schema": 1
 }
