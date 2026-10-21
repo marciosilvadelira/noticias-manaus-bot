@@ -6384,13 +6384,34 @@
    "updated_at": "2026-10-21T12:00:21+00:00",
    "url": "https://marioadolfo.com/ibama-aplica-r-2-milhoes-em-multas-durante-fiscalizacao-contra-incendios-no-amazonas/",
    "url_hash": "3575c05c8ffaab3d115321af"
+  },
+  "guid:6ad8a8ee52c09500099ddbc0": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Em áreas de difícil acesso, o deslocamento até as urnas depende de transporte fluvial e pode envolver custos elevados",
+   "discovered_at": "2026-10-21T12:10:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad8a8ee52c09500099ddbc0",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/68bb2904-2bf6-49dd-9a41-6b6cac4af521.jpg",
+   "key": "guid:6ad8a8ee52c09500099ddbc0",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-21T12:02:24+00:00",
+   "status": "pending",
+   "title": "Defensoria cobra transporte para indígenas e ribeirinhos votarem no AM",
+   "updated_at": "2026-10-21T12:10:16+00:00",
+   "url": "https://marioadolfo.com/defensoria-cobra-transporte-para-indigenas-e-ribeirinhos-votarem-no-am/",
+   "url_hash": "ccef67f73299c601b062f93e"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-21T12:00:20+00:00",
-  "saved_at": "2026-10-21T12:00:21+00:00"
+  "last_run_at": "2026-10-21T12:10:15+00:00",
+  "saved_at": "2026-10-21T12:10:17+00:00"
  },
  "schema": 1
 }
