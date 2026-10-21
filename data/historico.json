@@ -6187,12 +6187,12 @@
    "guid": "6ad7ae8352c09500099ddab7",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0a84e7b7-d947-45da-ab1c-1d1a18547289.jpeg",
    "key": "guid:6ad7ae8352c09500099ddab7",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-20T18:20:11+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Mônica Santaella assume comando da Secretaria de Comunicação",
-   "updated_at": "2026-10-20T18:20:16+00:00",
+   "updated_at": "2026-10-21T18:20:16+00:00",
    "url": "https://marioadolfo.com/monica-santaella-assume-comando-da-secretaria-de-comunicacao/",
    "url_hash": "9ef1fd8d7b8ab5598e7c1040"
   },
@@ -6825,13 +6825,34 @@
    "updated_at": "2026-10-21T18:00:21+00:00",
    "url": "https://marioadolfo.com/forca-nacional-do-sus-apoia-atendimentos-no-amazonas-apos-incendios/",
    "url_hash": "0f95b1762ea1393a8110e19a"
+  },
+  "guid:6ad901a052c09500099dddfb": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Foram 1.078 ações em Manaus e 1.222 no interior.",
+   "discovered_at": "2026-10-21T18:20:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad901a052c09500099dddfb",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e9a8b5fc-2da9-4c65-9b66-ceaa9545cfec.jpeg",
+   "key": "guid:6ad901a052c09500099dddfb",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-21T18:18:00+00:00",
+   "status": "pending",
+   "title": "Âmbar Energia realiza 2,3 mil ações na rede elétrica do Amazonas em uma semana",
+   "updated_at": "2026-10-21T18:20:16+00:00",
+   "url": "https://marioadolfo.com/ambar-energia-realiza-2-3-mil-acoes-na-rede-eletrica-do-amazonas-em-uma-semana/",
+   "url_hash": "f78548e79d06d9b7152d952e"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-21T18:10:17+00:00",
-  "saved_at": "2026-10-21T18:10:19+00:00"
+  "last_run_at": "2026-10-21T18:20:16+00:00",
+  "saved_at": "2026-10-21T18:20:17+00:00"
  },
  "schema": 1
 }
