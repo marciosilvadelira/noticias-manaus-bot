@@ -7077,13 +7077,34 @@
    "updated_at": "2026-10-21T21:10:15+00:00",
    "url": "https://marioadolfo.com/pt-aciona-tre-am-para-garantir-transporte-de-indigenas-do-vale-do-javari-no-2o-turno/",
    "url_hash": "a5fede518ac325e6c1eb6d97"
+  },
+  "guid:6ad931cc52c09500099ddf4d": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Propostas incluem o programa Tempo de Cuidar, ampliação da rede de saúde e recuperação de espaços de atendimento à terceira idade",
+   "discovered_at": "2026-10-21T21:50:14+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad931cc52c09500099ddf4d",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/9fbe7bfa-211b-4cfb-bc31-fb7d9f6740cf.jpeg",
+   "key": "guid:6ad931cc52c09500099ddf4d",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-21T21:43:30+00:00",
+   "status": "pending",
+   "title": "Omar anuncia Hospital do Idoso e retomada de centros de convivência",
+   "updated_at": "2026-10-21T21:50:14+00:00",
+   "url": "https://marioadolfo.com/omar-anuncia-hospital-do-idoso-e-retomada-de-centros-de-convivencia/",
+   "url_hash": "7288dd17c59d3c46df59dec4"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-21T21:40:15+00:00",
-  "saved_at": "2026-10-21T21:40:16+00:00"
+  "last_run_at": "2026-10-21T21:50:14+00:00",
+  "saved_at": "2026-10-21T21:50:15+00:00"
  },
  "schema": 1
 }
