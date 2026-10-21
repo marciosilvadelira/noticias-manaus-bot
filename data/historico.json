@@ -6405,13 +6405,55 @@
    "updated_at": "2026-10-21T12:10:16+00:00",
    "url": "https://marioadolfo.com/defensoria-cobra-transporte-para-indigenas-e-ribeirinhos-votarem-no-am/",
    "url_hash": "ccef67f73299c601b062f93e"
+  },
+  "guid:6ad8ca2952c09500099ddbe9": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Medida busca dificultar o uso de gasolina, etanol e diesel para provocar incêndios florestais durante a emergência das queimadas.",
+   "discovered_at": "2026-10-21T14:30:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad8ca2952c09500099ddbe9",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a5ecf078-8c8a-462b-a717-5601602b6456.jpg",
+   "key": "guid:6ad8ca2952c09500099ddbe9",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-21T14:23:34+00:00",
+   "status": "pending",
+   "title": "MPF recomenda suspender venda de combustíveis em galões no AM",
+   "updated_at": "2026-10-21T14:30:18+00:00",
+   "url": "https://marioadolfo.com/mpf-recomenda-suspender-venda-de-combustiveis-em-galoes-no-am/",
+   "url_hash": "884b5cf823e976f0395d6ef0"
+  },
+  "guid:6ad8cb0c52c09500099ddbff": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Senador recordou investimentos de suas gestões, incluindo a criação da Universidade da Terceira Idade, e manifestou apoio ao programa Tempo de Cuidar, apresentado por Omar Aziz",
+   "discovered_at": "2026-10-21T14:30:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad8cb0c52c09500099ddbff",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/dcfc0910-f356-4088-91f3-456191a15164.jpeg",
+   "key": "guid:6ad8cb0c52c09500099ddbff",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-21T14:25:08+00:00",
+   "status": "pending",
+   "title": "Braga reforça parceria com Omar para ampliar atendimento a idosos no AM",
+   "updated_at": "2026-10-21T14:30:18+00:00",
+   "url": "https://marioadolfo.com/braga-reforca-parceria-com-omar-para-ampliar-atendimento-a-idosos-no-am/",
+   "url_hash": "542386f75b647899f0289fbc"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-21T14:20:16+00:00",
-  "saved_at": "2026-10-21T14:20:17+00:00"
+  "last_run_at": "2026-10-21T14:30:17+00:00",
+  "saved_at": "2026-10-21T14:30:18+00:00"
  },
  "schema": 1
 }
