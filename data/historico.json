@@ -6363,13 +6363,34 @@
    "updated_at": "2026-10-20T20:40:17+00:00",
    "url": "https://marioadolfo.com/helicopteros-reforcam-investigacao-de-incendios-no-interior-do-amazonas/",
    "url_hash": "ed9e88828c1ddf1678d2ddd2"
+  },
+  "guid:6ad8a71c52c09500099ddb9f": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Operações em Autazes e Careiro da Várzea resultaram em 14 multas e no embargo de 12 áreas, que somam cerca de 252 hectares",
+   "discovered_at": "2026-10-21T12:00:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad8a71c52c09500099ddb9f",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6538f780-9c73-42ab-94ab-2f37791df4b3.jpg",
+   "key": "guid:6ad8a71c52c09500099ddb9f",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-21T11:54:49+00:00",
+   "status": "pending",
+   "title": "Ibama aplica R$ 2 milhões em multas durante fiscalização contra incêndios no Amazonas",
+   "updated_at": "2026-10-21T12:00:21+00:00",
+   "url": "https://marioadolfo.com/ibama-aplica-r-2-milhoes-em-multas-durante-fiscalizacao-contra-incendios-no-amazonas/",
+   "url_hash": "3575c05c8ffaab3d115321af"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-21T11:50:14+00:00",
-  "saved_at": "2026-10-21T11:50:15+00:00"
+  "last_run_at": "2026-10-21T12:00:20+00:00",
+  "saved_at": "2026-10-21T12:00:21+00:00"
  },
  "schema": 1
 }
