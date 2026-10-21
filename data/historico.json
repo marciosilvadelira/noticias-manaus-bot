@@ -6334,12 +6334,12 @@
    "guid": "6ad7cf3f52c09500099ddb74",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5dcb264a-90b3-4477-add1-41b88ddf2a8d.jpeg",
    "key": "guid:6ad7cf3f52c09500099ddb74",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-20T20:31:20+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Base da Força Nacional do SUS começa a operar em Manaus",
-   "updated_at": "2026-10-20T20:40:17+00:00",
+   "updated_at": "2026-10-21T20:40:15+00:00",
    "url": "https://marioadolfo.com/base-da-forca-nacional-do-sus-comeca-a-operar-em-manaus/",
    "url_hash": "ff3839ec9f17ab03ceec21b2"
   },
@@ -6355,12 +6355,12 @@
    "guid": "6ad7cfc752c09500099ddb8a",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e3e3a61f-7d69-450a-83d0-ef67ad3b719e.png",
    "key": "guid:6ad7cfc752c09500099ddb8a",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-20T20:33:35+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Helicópteros reforçam investigação de incêndios no interior do Amazonas",
-   "updated_at": "2026-10-20T20:40:17+00:00",
+   "updated_at": "2026-10-21T20:40:15+00:00",
    "url": "https://marioadolfo.com/helicopteros-reforcam-investigacao-de-incendios-no-interior-do-amazonas/",
    "url_hash": "ed9e88828c1ddf1678d2ddd2"
   },
@@ -7035,13 +7035,34 @@
    "updated_at": "2026-10-21T20:30:21+00:00",
    "url": "https://marioadolfo.com/curralzinho-do-garantido-celebra-o-aniversario-de-manaus-com-programacao/",
    "url_hash": "273c89268b30d9d2cf2d04f5"
+  },
+  "guid:6ad9207952c09500099ddef0": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Estão cancelados o Boi Manaus, o Show de Aniversário, o Boizinho Manaus e o Aniversário Gospel, segundo a prefeitura",
+   "discovered_at": "2026-10-21T20:40:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad9207952c09500099ddef0",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/14d90252-ce2e-4652-81ce-f9d19ab81f71.jpg",
+   "key": "guid:6ad9207952c09500099ddef0",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-21T20:34:04+00:00",
+   "status": "pending",
+   "title": "Prefeitura de  Manaus cancela os festejos do aniversário da cidade por causa da fumaça",
+   "updated_at": "2026-10-21T20:40:15+00:00",
+   "url": "https://marioadolfo.com/prefeitura-de-manaus-cancela-os-festejos-do-aniversario-da-cidade-por-causa-da-fumaca/",
+   "url_hash": "a4f196790427f1d6538d8bb3"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-21T20:30:20+00:00",
-  "saved_at": "2026-10-21T20:30:21+00:00"
+  "last_run_at": "2026-10-21T20:40:14+00:00",
+  "saved_at": "2026-10-21T20:40:16+00:00"
  },
  "schema": 1
 }
