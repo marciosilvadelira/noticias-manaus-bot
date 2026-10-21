@@ -6313,12 +6313,12 @@
    "guid": "6ad7ce9152c09500099ddb5c",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f41ef01b-501e-43fa-a1b7-86096ec08938.jpeg",
    "key": "guid:6ad7ce9152c09500099ddb5c",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-20T20:28:40+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "TRE-AM autoriza propaganda institucional sobre estiagem e queimadas no Amazonas",
-   "updated_at": "2026-10-20T20:30:19+00:00",
+   "updated_at": "2026-10-21T20:30:21+00:00",
    "url": "https://marioadolfo.com/tre-am-autoriza-propaganda-institucional-sobre-estiagem-e-queimadas-no-amazonas/",
    "url_hash": "f90e280bae2543e39a41d7e5"
   },
@@ -6993,13 +6993,55 @@
    "updated_at": "2026-10-21T20:10:15+00:00",
    "url": "https://marioadolfo.com/justica-torna-reus-12-denunciados-por-queda-de-aviao-da-voepass/",
    "url_hash": "e58fd083ab16a7632783ac86"
+  },
+  "guid:6ad91c0f52c09500099ddec0": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Gestores e ex-gestores hospitalares, parlamentares, funcionários dos órgãos de controle da União e servidores públicos apontam que Flávio teria desempenhado um papel na gestão dos hospitais mesmo sem ocupar cargo no Executivo",
+   "discovered_at": "2026-10-21T20:30:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad91c0f52c09500099ddec0",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4565bd19-f387-438d-b098-2624912474f5.jpg",
+   "key": "guid:6ad91c0f52c09500099ddec0",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-21T20:21:24+00:00",
+   "status": "pending",
+   "title": "Agência revela 'esquema de Flávio Bolsonaro na pandemia'",
+   "updated_at": "2026-10-21T20:30:21+00:00",
+   "url": "https://marioadolfo.com/agencia-revela-esquema-de-flavio-bolsonaro-na-pandemia/",
+   "url_hash": "4ce9cf8a4eb2ba988c1cac78"
+  },
+  "guid:6ad91ee252c09500099dded7": {
+   "attempts": [],
+   "category": "Parintins",
+   "description": "A programação acontece neste sábado (24), das 15h às 20h, no Centro de Convenções Vasco Vasques, reunindo atrações musicais e atividades para toda a família",
+   "discovered_at": "2026-10-21T20:30:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad91ee252c09500099dded7",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/8a7efebc-06cc-4db8-872f-c335fc9afbac.jpeg",
+   "key": "guid:6ad91ee252c09500099dded7",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-21T20:24:37+00:00",
+   "status": "pending",
+   "title": "Curralzinho do Garantido celebra o aniversário de Manaus com programação",
+   "updated_at": "2026-10-21T20:30:21+00:00",
+   "url": "https://marioadolfo.com/curralzinho-do-garantido-celebra-o-aniversario-de-manaus-com-programacao/",
+   "url_hash": "273c89268b30d9d2cf2d04f5"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-21T20:20:16+00:00",
-  "saved_at": "2026-10-21T20:20:17+00:00"
+  "last_run_at": "2026-10-21T20:30:20+00:00",
+  "saved_at": "2026-10-21T20:30:21+00:00"
  },
  "schema": 1
 }
