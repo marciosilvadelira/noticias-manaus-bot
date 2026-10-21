@@ -5845,11 +5845,19 @@
    "url_hash": "c107e24be3a12fe020a4ef4e"
   },
   "guid:6ad79c2652c09500099dd9a0": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-21T04:20:21+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1514099244074300",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Ampliação faz parte de estratégia para otimizar o uso das doses",
    "discovered_at": "2026-10-20T16:54:43+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1514099244074300",
    "formats": [
     "link"
    ],
@@ -5857,20 +5865,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/7185ee9d-c5d0-4c27-8254-cfcbbb0e85fa.webp",
    "key": "guid:6ad79c2652c09500099dd9a0",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1514099244074300"
+   },
    "source_published_at": "2026-10-20T16:54:00+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Pessoas de até 59 anos de idade poderão se vacinar contra a meningite",
-   "updated_at": "2026-10-20T16:54:43+00:00",
+   "updated_at": "2026-10-21T04:20:21+00:00",
    "url": "https://marioadolfo.com/pessoas-de-ate-59-anos-de-idade-poderao-se-vacinar-contra-a-meningite/",
    "url_hash": "63469cb8a716d913110bfdd8"
   },
   "guid:6ad79ce752c09500099dd9b6": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-21T04:21:12+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1514099714074253",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Candidato também autorizou quebra de sigilos da família e empresa",
    "discovered_at": "2026-10-20T17:10:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1514099714074253",
    "formats": [
     "link"
    ],
@@ -5878,20 +5896,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/795b1cbf-b793-4cae-9bfd-c9d7d2a5d25e.webp",
    "key": "guid:6ad79ce752c09500099dd9b6",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1514099714074253"
+   },
    "source_published_at": "2026-10-20T17:03:41+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Lula registra no TSE aval para quebra de sigilo em desafio a Flávio",
-   "updated_at": "2026-10-20T17:10:17+00:00",
+   "updated_at": "2026-10-21T04:21:12+00:00",
    "url": "https://marioadolfo.com/lula-registra-no-tse-aval-para-quebra-de-sigilo-em-desafio-a-flavio/",
    "url_hash": "10af6b5f0ef319ba55133f1b"
   },
   "guid:6ad79df752c09500099dd9c2": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-21T04:20:46+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1514099497407608",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "A decisão foi tomada pelo Tribunal Pleno nesta terça-feira (20), após deliberação dos conselheiros",
    "discovered_at": "2026-10-20T17:10:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1514099497407608",
    "formats": [
     "link"
    ],
@@ -5899,20 +5927,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f0e911c4-a4ff-475e-84d9-b66a5c56e9cb.webp",
    "key": "guid:6ad79df752c09500099dd9c2",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1514099497407608"
+   },
    "source_published_at": "2026-10-20T17:02:23+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "TCE-AM transfere julgamento das contas de David Almeida para dezembro",
-   "updated_at": "2026-10-20T17:10:17+00:00",
+   "updated_at": "2026-10-21T04:20:46+00:00",
    "url": "https://marioadolfo.com/tce-am-transfere-julgamento-das-contas-de-david-almeida-para-dezembro/",
    "url_hash": "e1f80373090fc49f1c80696a"
   },
   "guid:6ad79f8852c09500099dd9ec": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-21T04:21:37+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1514100044074220",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Polícia cumpriu mandados de busca no ramal Sissaíma; denúncias foram encaminhadas ao MPAM",
    "discovered_at": "2026-10-20T17:20:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1514100044074220",
    "formats": [
     "link"
    ],
@@ -5920,20 +5958,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e43e167e-e499-415c-9301-e064833e9a5e.jpeg",
    "key": "guid:6ad79f8852c09500099dd9ec",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1514100044074220"
+   },
    "source_published_at": "2026-10-20T17:19:46+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Suspeito de causar incêndio florestal é preso no Careiro da Várzea",
-   "updated_at": "2026-10-20T17:20:16+00:00",
+   "updated_at": "2026-10-21T04:21:37+00:00",
    "url": "https://marioadolfo.com/suspeito-de-causar-incendio-florestal-e-preso-no-careiro-da-varzea/",
    "url_hash": "3352b88f27adfe4d90495a5a"
   },
   "guid:6ad7a2e352c09500099dda05": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-21T04:22:04+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1514100660740825",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "A coleção reúne quatro modelos exclusivos, nas cores amarelo, azul, rosa e vermelho",
    "discovered_at": "2026-10-20T17:30:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1514100660740825",
    "formats": [
     "link"
    ],
@@ -5941,11 +5989,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5c9dd88e-f973-4a22-af85-34856fdff2d1.jpeg",
    "key": "guid:6ad7a2e352c09500099dda05",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1514100660740825"
+   },
    "source_published_at": "2026-10-20T17:23:54+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Empresa lança coleção de camisetas para celebrar os 357 anos de Manaus",
-   "updated_at": "2026-10-20T17:30:17+00:00",
+   "updated_at": "2026-10-21T04:22:04+00:00",
    "url": "https://marioadolfo.com/empresa-lanca-colecao-de-camisetas-para-celebrar-os-357-anos-de-manaus/",
    "url_hash": "d332a137320226d69b45e319"
   },
@@ -6268,8 +6318,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-21T04:10:13+00:00",
-  "saved_at": "2026-10-21T04:12:02+00:00"
+  "last_run_at": "2026-10-21T04:20:14+00:00",
+  "saved_at": "2026-10-21T04:22:04+00:00"
  },
  "schema": 1
 }
