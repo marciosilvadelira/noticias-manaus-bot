@@ -5690,11 +5690,19 @@
    "url_hash": "914db003ef77d61e2b4c120b"
   },
   "guid:6ad77a5552c09500099dd91e": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-21T04:10:20+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1514092650741626",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Os abusos aconteciam na casa da família e começaram quando a vítima ainda era uma criança",
    "discovered_at": "2026-10-20T14:40:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1514092650741626",
    "formats": [
     "link"
    ],
@@ -5702,20 +5710,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f7d17441-4eb1-4b85-b40a-4d54ee50c2a7.jpg",
    "key": "guid:6ad77a5552c09500099dd91e",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1514092650741626"
+   },
    "source_published_at": "2026-10-20T14:30:26+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Pai é preso suspeito de estuprar e engravidar a própria filha no AM",
-   "updated_at": "2026-10-20T14:40:17+00:00",
+   "updated_at": "2026-10-21T04:10:20+00:00",
    "url": "https://marioadolfo.com/pai-e-preso-suspeito-de-estuprar-e-engravidar-a-propria-filha-no-am/",
    "url_hash": "0b0e258a9ade5d9e76eead55"
   },
   "guid:6ad77bc552c09500099dd937": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-21T04:10:47+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1514092897408268",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Novo secretário foi nomeado pelo prefeito Renato Júnior nesta terça-feira (20)",
    "discovered_at": "2026-10-20T14:40:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1514092897408268",
    "formats": [
     "link"
    ],
@@ -5723,20 +5741,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b51272f1-1d45-4945-a5c3-d867d91d872d.jpg",
    "key": "guid:6ad77bc552c09500099dd937",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1514092897408268"
+   },
    "source_published_at": "2026-10-20T14:37:28+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Sargento Loiola assume comando da Secretaria Municipal de Segurança",
-   "updated_at": "2026-10-20T14:40:17+00:00",
+   "updated_at": "2026-10-21T04:10:47+00:00",
    "url": "https://marioadolfo.com/sargento-loiola-assume-comando-da-secretaria-municipal-de-seguranca/",
    "url_hash": "9a0564da3d72a7ae20c83e89"
   },
   "guid:6ad786be52c09500099dd955": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-21T04:11:11+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1514093327408225",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Operações somam mais de 390 horas de voo e 337 incêndios extintos; mobilização conta com 13 aeronaves e 462 brigadistas do Ibama e do ICMBio",
    "discovered_at": "2026-10-20T15:30:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1514093327408225",
    "formats": [
     "link"
    ],
@@ -5744,20 +5772,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e1f57a8b-3605-45a3-9418-ece8e656672f.png",
    "key": "guid:6ad786be52c09500099dd955",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1514093327408225"
+   },
    "source_published_at": "2026-10-20T15:26:16+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Aeronaves federais lançam mais de 1 milhão de litros de água no combate aos incêndios no AM",
-   "updated_at": "2026-10-20T15:30:18+00:00",
+   "updated_at": "2026-10-21T04:11:11+00:00",
    "url": "https://marioadolfo.com/aeronaves-federais-lancam-mais-de-1-milhao-de-litros-de-agua-no-combate-aos-incendios-no-am/",
    "url_hash": "0328f856938825a21d3eb023"
   },
   "guid:6ad7883152c09500099dd96a": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-21T04:11:37+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1514093540741537",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Kodo Isaias Kanamari, de 22 anos, e Tucuwi Carlinhos dos Santos Kanamari, de 25, estão foragidos",
    "discovered_at": "2026-10-20T15:40:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1514093540741537",
    "formats": [
     "link"
    ],
@@ -5765,20 +5803,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/82ec26b5-410e-4ed3-87f8-3a0084c45d77.jpg",
    "key": "guid:6ad7883152c09500099dd96a",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1514093540741537"
+   },
    "source_published_at": "2026-10-20T15:31:37+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Suspeito de gravar estupro coletivo de adolescente indígena é preso no AM",
-   "updated_at": "2026-10-20T15:40:18+00:00",
+   "updated_at": "2026-10-21T04:11:37+00:00",
    "url": "https://marioadolfo.com/suspeito-de-gravar-estupro-coletivo-de-adolescente-indigena-e-preso-no-am/",
    "url_hash": "a925287bd591fce6befad83b"
   },
   "guid:6ad79b7c52c09500099dd98b": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-21T04:12:02+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1514093844074840",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "TREs alertam para verificar em sites oficiais ou no e-Título",
    "discovered_at": "2026-10-20T16:54:43+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1514093844074840",
    "formats": [
     "link"
    ],
@@ -5786,11 +5834,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f70069f8-6e38-4c0c-9047-12db7713b5ed.webp",
    "key": "guid:6ad79b7c52c09500099dd98b",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1514093844074840"
+   },
    "source_published_at": "2026-10-20T16:50:21+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Local de votação ainda pode mudar; consulte de novo antes de ir à urna",
-   "updated_at": "2026-10-20T16:54:43+00:00",
+   "updated_at": "2026-10-21T04:12:02+00:00",
    "url": "https://marioadolfo.com/local-de-votacao-ainda-pode-mudar-consulte-de-novo-antes-de-ir-a-urna/",
    "url_hash": "c107e24be3a12fe020a4ef4e"
   },
@@ -6218,8 +6268,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-21T04:00:17+00:00",
-  "saved_at": "2026-10-21T04:02:06+00:00"
+  "last_run_at": "2026-10-21T04:10:13+00:00",
+  "saved_at": "2026-10-21T04:12:02+00:00"
  },
  "schema": 1
 }
