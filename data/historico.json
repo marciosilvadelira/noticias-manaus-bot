@@ -6636,13 +6636,76 @@
    "updated_at": "2026-10-21T17:21:40+00:00",
    "url": "https://marioadolfo.com/governo-envia-ao-congresso-proposta-de-tarifa-zero-no-transporte/",
    "url_hash": "5d117beb7405a0b0087b9a76"
+  },
+  "guid:6ad8f49152c09500099ddcfc": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Proposta foi escrita pelo vice-presidente da Corte, André Mendonça",
+   "discovered_at": "2026-10-21T17:30:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad8f49152c09500099ddcfc",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/355d52f3-c4da-400e-a84b-e91d1a216bc5.jpeg",
+   "key": "guid:6ad8f49152c09500099ddcfc",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-21T17:23:05+00:00",
+   "status": "pending",
+   "title": "TSE estuda desativar canais políticos no WhatsApp 48h antes da eleição",
+   "updated_at": "2026-10-21T17:30:18+00:00",
+   "url": "https://marioadolfo.com/tse-estuda-desativar-canais-politicos-no-whatsapp-48h-antes-da-eleicao/",
+   "url_hash": "a931ef0ec19d5b69e965585f"
+  },
+  "guid:6ad8f54a52c09500099ddd11": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Medida deve alcançar 17,6 milhões de empreendedores",
+   "discovered_at": "2026-10-21T17:30:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad8f54a52c09500099ddd11",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/49e3e38e-e167-4f3e-8f1b-c6c6e2f517fa.jpg",
+   "key": "guid:6ad8f54a52c09500099ddd11",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-21T17:26:17+00:00",
+   "status": "pending",
+   "title": "Sancionada lei que perdoa dívida e aumenta limite de MEI",
+   "updated_at": "2026-10-21T17:30:18+00:00",
+   "url": "https://marioadolfo.com/sancionada-lei-que-perdoa-divida-e-aumenta-limite-de-mei/",
+   "url_hash": "c45fc287f2d2c6128a0132e8"
+  },
+  "guid:6ad8f5f852c09500099ddd2f": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A iniciativa busca reunir itens essenciais para amenizar os impactos da situação de emergência na saúde e no bem-estar da população dessas localidades",
+   "discovered_at": "2026-10-21T17:30:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad8f5f852c09500099ddd2f",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f761e98d-0b19-4b90-9fb3-d43a35f4ef32.jpg",
+   "key": "guid:6ad8f5f852c09500099ddd2f",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-21T17:30:00+00:00",
+   "status": "pending",
+   "title": "TJAM prorroga prazo para doações a vítimas das queimadas no AM",
+   "updated_at": "2026-10-21T17:30:18+00:00",
+   "url": "https://marioadolfo.com/tjam-prorroga-prazo-para-doacoes-a-vitimas-das-queimadas-no-am/",
+   "url_hash": "de6d84cfdcc49b5b2ed89137"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-21T17:21:39+00:00",
-  "saved_at": "2026-10-21T17:21:41+00:00"
+  "last_run_at": "2026-10-21T17:30:18+00:00",
+  "saved_at": "2026-10-21T17:30:19+00:00"
  },
  "schema": 1
 }
