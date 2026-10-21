@@ -6250,12 +6250,12 @@
    "guid": "6ad7c12a52c09500099ddb0e",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/37378136-6de9-4ac7-ae71-e46191725d17.jpeg",
    "key": "guid:6ad7c12a52c09500099ddb0e",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-20T19:31:42+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Pianista vencedor de concurso internacional se apresenta no Teatro Amazonas",
-   "updated_at": "2026-10-20T19:40:17+00:00",
+   "updated_at": "2026-10-21T19:40:16+00:00",
    "url": "https://marioadolfo.com/pianista-vencedor-de-concurso-internacional-se-apresenta-no-teatro-amazonas/",
    "url_hash": "2d91eed63d48ecec40d02259"
   },
@@ -6271,12 +6271,12 @@
    "guid": "6ad7c1e152c09500099ddb24",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/673fb29a-f8ec-4f0c-8baa-0f6389206a11.jpeg",
    "key": "guid:6ad7c1e152c09500099ddb24",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-20T19:36:00+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "TRE-AM aprova pedidos de Força Federal para 30 municípios no segundo turno",
-   "updated_at": "2026-10-20T19:40:17+00:00",
+   "updated_at": "2026-10-21T19:40:16+00:00",
    "url": "https://marioadolfo.com/tre-am-aprova-pedidos-de-forca-federal-para-30-municipios-no-segundo-turno/",
    "url_hash": "c98c91830f3c16e9907e76b9"
   },
@@ -6977,8 +6977,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-21T19:30:17+00:00",
-  "saved_at": "2026-10-21T19:30:19+00:00"
+  "last_run_at": "2026-10-21T19:40:15+00:00",
+  "saved_at": "2026-10-21T19:40:17+00:00"
  },
  "schema": 1
 }
