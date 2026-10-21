@@ -6679,6 +6679,27 @@
    "url": "https://marioadolfo.com/sancionada-lei-que-perdoa-divida-e-aumenta-limite-de-mei/",
    "url_hash": "c45fc287f2d2c6128a0132e8"
   },
+  "guid:6ad8f5a152c09500099ddd19": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Os indivíduos foram presos na segunda-feira (19/10), em locais distintos da capital",
+   "discovered_at": "2026-10-21T17:40:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad8f5a152c09500099ddd19",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c450a508-19ee-4391-b7f9-2b2e67b35f2e.jpeg",
+   "key": "guid:6ad8f5a152c09500099ddd19",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-21T17:30:32+00:00",
+   "status": "pending",
+   "title": "Suspeitos de estuprar duas adolescentes e uma criança em Manaus são presos",
+   "updated_at": "2026-10-21T17:40:16+00:00",
+   "url": "https://marioadolfo.com/suspeitos-de-estuprar-duas-adolescentes-e-uma-crianca-em-manaus-sao-presos/",
+   "url_hash": "902977b4ccdfff922bd241c3"
+  },
   "guid:6ad8f5f852c09500099ddd2f": {
    "attempts": [],
    "category": "Amazonas",
@@ -6699,13 +6720,34 @@
    "updated_at": "2026-10-21T17:30:18+00:00",
    "url": "https://marioadolfo.com/tjam-prorroga-prazo-para-doacoes-a-vitimas-das-queimadas-no-am/",
    "url_hash": "de6d84cfdcc49b5b2ed89137"
+  },
+  "guid:6ad8f73d52c09500099ddd5e": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "O espaço, datado do final do Século 19, foi descoberto durante o restauro do prédio que abriga o centro cultural",
+   "discovered_at": "2026-10-21T17:40:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad8f73d52c09500099ddd5e",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/bfa0f3ee-c419-498c-8eb2-48f6cb655f64.jpeg",
+   "key": "guid:6ad8f73d52c09500099ddd5e",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-21T17:36:12+00:00",
+   "status": "pending",
+   "title": "Casarão de Ideias abre galeria subterrânea da Belle Époque para visitação com entrada gratuita",
+   "updated_at": "2026-10-21T17:40:16+00:00",
+   "url": "https://marioadolfo.com/casarao-de-ideias-abre-galeria-subterranea-da-belle-epoque-para-visitacao-com-entrada-gratuita/",
+   "url_hash": "bf216e009ee7939e5bcec5bd"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-21T17:30:18+00:00",
-  "saved_at": "2026-10-21T17:30:19+00:00"
+  "last_run_at": "2026-10-21T17:40:15+00:00",
+  "saved_at": "2026-10-21T17:40:17+00:00"
  },
  "schema": 1
 }
