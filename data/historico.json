@@ -6166,12 +6166,12 @@
    "guid": "6ad7adb052c09500099dda9a",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4a73c372-ffe7-403d-9da8-fe405e4ef6e7.jpeg",
    "key": "guid:6ad7adb052c09500099dda9a",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-20T18:09:32+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Polícia procura por homens suspeitos de atear fogo na Avenida das Torres",
-   "updated_at": "2026-10-20T18:10:16+00:00",
+   "updated_at": "2026-10-21T18:10:18+00:00",
    "url": "https://marioadolfo.com/policia-procura-por-homens-suspeitos-de-atear-fogo-na-avenida-das-torres/",
    "url_hash": "e88b6c2c9794fb267a5583fa"
   },
@@ -6830,8 +6830,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-21T18:00:20+00:00",
-  "saved_at": "2026-10-21T18:00:22+00:00"
+  "last_run_at": "2026-10-21T18:10:17+00:00",
+  "saved_at": "2026-10-21T18:10:19+00:00"
  },
  "schema": 1
 }
