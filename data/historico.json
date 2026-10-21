@@ -6888,13 +6888,55 @@
    "updated_at": "2026-10-21T18:30:19+00:00",
    "url": "https://marioadolfo.com/qualidade-do-ar-melhora-em-manaus-mas-aulas-seguem-suspensas/",
    "url_hash": "574c605b336ef9b9df727a4a"
+  },
+  "guid:6ad906c652c09500099dde42": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Durante a tentativa de fuga, o suspeito foi agredido por populares",
+   "discovered_at": "2026-10-21T18:50:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad906c652c09500099dde42",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ab906b61-7ac2-412c-adc9-11549ac9b55f.png",
+   "key": "guid:6ad906c652c09500099dde42",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-21T18:44:51+00:00",
+   "status": "pending",
+   "title": "Vídeo: suspeito é preso após tentar roubar jovem e fazer reféns no Japiim",
+   "updated_at": "2026-10-21T18:50:16+00:00",
+   "url": "https://marioadolfo.com/suspeito-e-preso-apos-tentar-roubar-jovem-e-fazer-refens-no-japiim/",
+   "url_hash": "172d47bb9c92a28108ddca1d"
+  },
+  "guid:6ad9078c52c09500099dde5a": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A prova tuberculínica é uma estratégia importante de prevenção, porque detecta a infecção pelo bacilo da tuberculose mesmo na ausência de sintomas",
+   "discovered_at": "2026-10-21T18:50:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad9078c52c09500099dde5a",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/59dd5d0d-8df1-49e4-a5ca-1a66b98f50bc.jpeg",
+   "key": "guid:6ad9078c52c09500099dde5a",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-21T18:43:55+00:00",
+   "status": "pending",
+   "title": "Semsa amplia oferta de teste contra tuberculose para 55 unidades de saúde em Manaus",
+   "updated_at": "2026-10-21T18:50:16+00:00",
+   "url": "https://marioadolfo.com/semsa-amplia-oferta-de-teste-contra-tuberculose-para-55-unidades-de-saude-em-manaus/",
+   "url_hash": "4a6554e37b7f0d779f75b60c"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-21T18:40:15+00:00",
-  "saved_at": "2026-10-21T18:40:17+00:00"
+  "last_run_at": "2026-10-21T18:50:16+00:00",
+  "saved_at": "2026-10-21T18:50:17+00:00"
  },
  "schema": 1
 }
