@@ -6615,13 +6615,34 @@
    "updated_at": "2026-10-21T17:20:16+00:00",
    "url": "https://marioadolfo.com/espetaculo-estreia-nesta-sexta-feira-com-reflexoes-sobre-morte-luto-e-transformacao/",
    "url_hash": "6cadef672db4b3ebd5576e3e"
+  },
+  "guid:6ad8f3fa52c09500099ddce2": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Se aprovada, gratuidade valerá nos fins de semana e feriados",
+   "discovered_at": "2026-10-21T17:21:40+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad8f3fa52c09500099ddce2",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6e35c697-d866-48d9-98b1-d13421decf34.webp",
+   "key": "guid:6ad8f3fa52c09500099ddce2",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-21T17:21:05+00:00",
+   "status": "pending",
+   "title": "Governo envia ao Congresso proposta de tarifa zero no transporte",
+   "updated_at": "2026-10-21T17:21:40+00:00",
+   "url": "https://marioadolfo.com/governo-envia-ao-congresso-proposta-de-tarifa-zero-no-transporte/",
+   "url_hash": "5d117beb7405a0b0087b9a76"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-21T17:20:16+00:00",
-  "saved_at": "2026-10-21T17:20:17+00:00"
+  "last_run_at": "2026-10-21T17:21:39+00:00",
+  "saved_at": "2026-10-21T17:21:41+00:00"
  },
  "schema": 1
 }
