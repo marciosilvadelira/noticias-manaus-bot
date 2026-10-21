@@ -7056,13 +7056,34 @@
    "updated_at": "2026-10-21T20:40:15+00:00",
    "url": "https://marioadolfo.com/prefeitura-de-manaus-cancela-os-festejos-do-aniversario-da-cidade-por-causa-da-fumaca/",
    "url_hash": "a4f196790427f1d6538d8bb3"
+  },
+  "guid:6ad927c752c09500099ddf20": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "O requerimento busca verificar a viabilidade de transporte fluvial gratuito no segundo turno das eleições de 2026",
+   "discovered_at": "2026-10-21T21:10:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ad927c752c09500099ddf20",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0e23c86a-68a6-4d25-bfd1-9136ea6c9b40.jpg",
+   "key": "guid:6ad927c752c09500099ddf20",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-21T21:05:33+00:00",
+   "status": "pending",
+   "title": "PT aciona TRE-AM para garantir transporte de indígenas do Vale do Javari no 2º turno",
+   "updated_at": "2026-10-21T21:10:15+00:00",
+   "url": "https://marioadolfo.com/pt-aciona-tre-am-para-garantir-transporte-de-indigenas-do-vale-do-javari-no-2o-turno/",
+   "url_hash": "a5fede518ac325e6c1eb6d97"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-21T21:00:19+00:00",
-  "saved_at": "2026-10-21T21:00:20+00:00"
+  "last_run_at": "2026-10-21T21:10:15+00:00",
+  "saved_at": "2026-10-21T21:10:16+00:00"
  },
  "schema": 1
 }
