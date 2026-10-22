@@ -7466,13 +7466,34 @@
    "updated_at": "2026-10-22T15:40:17+00:00",
    "url": "https://marioadolfo.com/omar-defende-fortalecimento-de-politicas-indigenas-e-destaca-experiencia-para-governar-o-am/",
    "url_hash": "5b98f1f6bd11f82d365f6653"
+  },
+  "guid:6ada2e0352c09500099de0aa": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Resultado operacional do terceiro trimestre reflete o avanço do Complexo Azulão, com os primeiros meses de operação comercial da UTE Azulão I e a ampliação da atuação da companhia na Região Norte",
+   "discovered_at": "2026-10-22T15:50:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ada2e0352c09500099de0aa",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/db238b20-42e1-422f-a6ba-ea8112f53c3d.jpeg",
+   "key": "guid:6ada2e0352c09500099de0aa",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-22T15:43:10+00:00",
+   "status": "pending",
+   "title": "Amazonas reforça papel estratégico no crescimento das operações de gás e energia da Eneva",
+   "updated_at": "2026-10-22T15:50:15+00:00",
+   "url": "https://marioadolfo.com/amazonas-reforca-papel-estrategico-no-crescimento-das-operacoes-de-gas-e-energia-da-eneva/",
+   "url_hash": "15b4f81e7af2c3a5665a3518"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-22T15:40:16+00:00",
-  "saved_at": "2026-10-22T15:40:18+00:00"
+  "last_run_at": "2026-10-22T15:50:15+00:00",
+  "saved_at": "2026-10-22T15:50:16+00:00"
  },
  "schema": 1
 }
