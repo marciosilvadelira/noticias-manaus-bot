@@ -7571,13 +7571,34 @@
    "updated_at": "2026-10-22T16:20:20+00:00",
    "url": "https://marioadolfo.com/defensoria-publica-pede-ao-stf-transporte-gratuito-no-2o-turno/",
    "url_hash": "0840653ecc3f4d5c9a6a58c7"
+  },
+  "guid:6ada44ee52c09500099de129": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Canais no AM e em RR podem ser acionados em casos de ameaça de demissão, transporte ilegal de trabalhadores, retaliação ou impedimento para votar",
+   "discovered_at": "2026-10-22T17:19:56+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ada44ee52c09500099de129",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a29de28e-2168-4c39-a1dc-455c361f47de.jpeg",
+   "key": "guid:6ada44ee52c09500099de129",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-22T17:18:17+00:00",
+   "status": "pending",
+   "title": "Plantão vai atender trabalhadores vítimas de assédio eleitoral no 2º turno das Eleições 2026",
+   "updated_at": "2026-10-22T17:19:56+00:00",
+   "url": "https://marioadolfo.com/plantao-vai-atender-trabalhadores-vitimas-de-assedio-eleitoral-no-2o-turno-das-eleicoes-2026/",
+   "url_hash": "85b1dadcb2725927ca30dedb"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-22T17:10:18+00:00",
-  "saved_at": "2026-10-22T17:10:24+00:00"
+  "last_run_at": "2026-10-22T17:19:54+00:00",
+  "saved_at": "2026-10-22T17:19:57+00:00"
  },
  "schema": 1
 }
