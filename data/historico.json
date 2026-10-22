@@ -7319,13 +7319,34 @@
    "updated_at": "2026-10-22T12:00:23+00:00",
    "url": "https://marioadolfo.com/tre-am-e-liderancas-indigenas-alinham-transporte-de-eleitores-do-vale-do-javari-para-o-segundo-turno/",
    "url_hash": "558a4d96725470ed47923ba5"
+  },
+  "guid:6ada00b652c09500099ddf8f": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Tomé Franca visita também o Estaleiro Juruá, em Iranduba, e as obras no Aeroporto de Manaus",
+   "discovered_at": "2026-10-22T12:30:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ada00b652c09500099ddf8f",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2b3bdff6-44e6-4055-a511-0bf3e30a6196.jpg",
+   "key": "guid:6ada00b652c09500099ddf8f",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-22T12:28:42+00:00",
+   "status": "pending",
+   "title": "Ministro acompanha obras do terminal Manaus Moderna nesta quinta-feira (22)",
+   "updated_at": "2026-10-22T12:30:19+00:00",
+   "url": "https://marioadolfo.com/ministro-acompanha-obras-do-terminal-manaus-moderna-nesta-quinta-feira-22/",
+   "url_hash": "31438f1da95a71080f7f18d6"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-22T12:21:17+00:00",
-  "saved_at": "2026-10-22T12:21:18+00:00"
+  "last_run_at": "2026-10-22T12:30:18+00:00",
+  "saved_at": "2026-10-22T12:30:20+00:00"
  },
  "schema": 1
 }
