@@ -7592,13 +7592,34 @@
    "updated_at": "2026-10-22T17:19:56+00:00",
    "url": "https://marioadolfo.com/plantao-vai-atender-trabalhadores-vitimas-de-assedio-eleitoral-no-2o-turno-das-eleicoes-2026/",
    "url_hash": "85b1dadcb2725927ca30dedb"
+  },
+  "guid:6ada49b452c09500099de140": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Ação é reforçada durante o período de estiagem para retirar o máximo de resíduos",
+   "discovered_at": "2026-10-22T17:40:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ada49b452c09500099de140",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/7e5be733-3a64-4f82-84b3-7f2dae7c6c45.jpg",
+   "key": "guid:6ada49b452c09500099de140",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-22T17:38:48+00:00",
+   "status": "pending",
+   "title": "Prefeitura mobiliza 500 trabalhadores e intensifica limpeza na orla de Manaus",
+   "updated_at": "2026-10-22T17:40:16+00:00",
+   "url": "https://marioadolfo.com/prefeitura-mobiliza-500-trabalhadores-e-intensifica-limpeza-na-orla-de-manaus/",
+   "url_hash": "34da7838dd1f7804db021908"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-22T17:30:20+00:00",
-  "saved_at": "2026-10-22T17:30:22+00:00"
+  "last_run_at": "2026-10-22T17:40:15+00:00",
+  "saved_at": "2026-10-22T17:40:16+00:00"
  },
  "schema": 1
 }
