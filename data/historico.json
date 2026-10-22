@@ -7017,12 +7017,12 @@
    "guid": "6ad8fbf752c09500099dddd0",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/710b88ea-25f3-4400-bd30-406a24e94d6d.webp",
    "key": "guid:6ad8fbf752c09500099dddd0",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-21T17:53:49+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Força Nacional do SUS apoia atendimentos no Amazonas após incêndios",
-   "updated_at": "2026-10-21T18:00:21+00:00",
+   "updated_at": "2026-10-22T18:00:23+00:00",
    "url": "https://marioadolfo.com/forca-nacional-do-sus-apoia-atendimentos-no-amazonas-apos-incendios/",
    "url_hash": "0f95b1762ea1393a8110e19a"
   },
@@ -7618,8 +7618,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-22T17:50:14+00:00",
-  "saved_at": "2026-10-22T17:50:16+00:00"
+  "last_run_at": "2026-10-22T18:00:22+00:00",
+  "saved_at": "2026-10-22T18:00:24+00:00"
  },
  "schema": 1
 }
