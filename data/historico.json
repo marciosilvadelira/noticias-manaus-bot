@@ -6830,11 +6830,19 @@
    "url_hash": "c45fc287f2d2c6128a0132e8"
   },
   "guid:6ad8f5a152c09500099ddd19": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-22T04:30:50+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1515087183975506",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Os indivíduos foram presos na segunda-feira (19/10), em locais distintos da capital",
    "discovered_at": "2026-10-21T17:40:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1515087183975506",
    "formats": [
     "link"
    ],
@@ -6842,20 +6850,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c450a508-19ee-4391-b7f9-2b2e67b35f2e.jpeg",
    "key": "guid:6ad8f5a152c09500099ddd19",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1515087183975506"
+   },
    "source_published_at": "2026-10-21T17:30:32+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Suspeitos de estuprar duas adolescentes e uma criança em Manaus são presos",
-   "updated_at": "2026-10-21T17:40:16+00:00",
+   "updated_at": "2026-10-22T04:30:50+00:00",
    "url": "https://marioadolfo.com/suspeitos-de-estuprar-duas-adolescentes-e-uma-crianca-em-manaus-sao-presos/",
    "url_hash": "902977b4ccdfff922bd241c3"
   },
   "guid:6ad8f5f852c09500099ddd2f": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-22T04:30:24+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1515086933975531",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "A iniciativa busca reunir itens essenciais para amenizar os impactos da situação de emergência na saúde e no bem-estar da população dessas localidades",
    "discovered_at": "2026-10-21T17:30:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1515086933975531",
    "formats": [
     "link"
    ],
@@ -6863,20 +6881,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f761e98d-0b19-4b90-9fb3-d43a35f4ef32.jpg",
    "key": "guid:6ad8f5f852c09500099ddd2f",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1515086933975531"
+   },
    "source_published_at": "2026-10-21T17:30:00+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "TJAM prorroga prazo para doações a vítimas das queimadas no AM",
-   "updated_at": "2026-10-21T17:30:18+00:00",
+   "updated_at": "2026-10-22T04:30:24+00:00",
    "url": "https://marioadolfo.com/tjam-prorroga-prazo-para-doacoes-a-vitimas-das-queimadas-no-am/",
    "url_hash": "de6d84cfdcc49b5b2ed89137"
   },
   "guid:6ad8f73d52c09500099ddd5e": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-22T04:31:16+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1515087427308815",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "O espaço, datado do final do Século 19, foi descoberto durante o restauro do prédio que abriga o centro cultural",
    "discovered_at": "2026-10-21T17:40:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1515087427308815",
    "formats": [
     "link"
    ],
@@ -6884,20 +6912,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/bfa0f3ee-c419-498c-8eb2-48f6cb655f64.jpeg",
    "key": "guid:6ad8f73d52c09500099ddd5e",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1515087427308815"
+   },
    "source_published_at": "2026-10-21T17:36:12+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Casarão de Ideias abre galeria subterrânea da Belle Époque para visitação com entrada gratuita",
-   "updated_at": "2026-10-21T17:40:16+00:00",
+   "updated_at": "2026-10-22T04:31:16+00:00",
    "url": "https://marioadolfo.com/casarao-de-ideias-abre-galeria-subterranea-da-belle-epoque-para-visitacao-com-entrada-gratuita/",
    "url_hash": "bf216e009ee7939e5bcec5bd"
   },
   "guid:6ad8f98f52c09500099ddd7b": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-22T04:31:40+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1515087773975447",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Responsável foi conduzido à delegacia pela Polícia Civil após a atuação do Instituto de Proteção Ambiental do Amazonas",
    "discovered_at": "2026-10-21T17:50:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1515087773975447",
    "formats": [
     "link"
    ],
@@ -6905,20 +6943,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f91651e2-fec2-41f5-a933-4f44665bc408.jpeg",
    "key": "guid:6ad8f98f52c09500099ddd7b",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1515087773975447"
+   },
    "source_published_at": "2026-10-21T17:45:15+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Ipaam multa dono de terreno em R$ 100 mil após incêndio em terreno no Careiro da Várzea",
-   "updated_at": "2026-10-21T17:50:16+00:00",
+   "updated_at": "2026-10-22T04:31:40+00:00",
    "url": "https://marioadolfo.com/ipaam-multa-dono-de-terreno-em-r-100-mil-apos-incendio-em-terreno-no-careiro-da-varzea/",
    "url_hash": "329515ea895c8d21f49b87b5"
   },
   "guid:6ad8f9ca52c09500099ddd83": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-22T04:32:10+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1515087980642093",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Estado tem 42 municípios em situação de emergência; Autazes registra nível severo de poluição do ar, e outras cidades têm alertas por causa da fumaça de incêndios florestais.",
    "discovered_at": "2026-10-21T17:50:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1515087980642093",
    "formats": [
     "link"
    ],
@@ -6926,11 +6974,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/53518f4f-1b7e-4996-bc68-3c32b4a769ff.jpg",
    "key": "guid:6ad8f9ca52c09500099ddd83",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1515087980642093"
+   },
    "source_published_at": "2026-10-21T17:47:55+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Estiagem atinge mais de 104 mil famílias no Amazonas",
-   "updated_at": "2026-10-21T17:50:16+00:00",
+   "updated_at": "2026-10-22T04:32:10+00:00",
    "url": "https://marioadolfo.com/estiagem-atinge-mais-de-104-mil-familias-no-amazonas/",
    "url_hash": "e4be5127043db4ddb692b5a5"
   },
@@ -7253,8 +7303,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-22T04:20:15+00:00",
-  "saved_at": "2026-10-22T04:22:07+00:00"
+  "last_run_at": "2026-10-22T04:30:18+00:00",
+  "saved_at": "2026-10-22T04:32:10+00:00"
  },
  "schema": 1
 }
