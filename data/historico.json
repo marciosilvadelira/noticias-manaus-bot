@@ -6996,12 +6996,12 @@
    "guid": "6ad8faab52c09500099dddab",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/86678327-b8e6-4ec2-90ae-9feb2eb80906.jpeg",
    "key": "guid:6ad8faab52c09500099dddab",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-21T17:49:38+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Grupo é preso com armas e distintivos da PC-AM em Iranduba",
-   "updated_at": "2026-10-21T17:50:16+00:00",
+   "updated_at": "2026-10-22T17:50:15+00:00",
    "url": "https://marioadolfo.com/grupo-e-preso-com-armas-e-distintivos-da-pc-am-em-iranduba/",
    "url_hash": "d88d6166eb58bcbed165c05d"
   },
@@ -7618,8 +7618,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-22T17:40:15+00:00",
-  "saved_at": "2026-10-22T17:40:16+00:00"
+  "last_run_at": "2026-10-22T17:50:14+00:00",
+  "saved_at": "2026-10-22T17:50:16+00:00"
  },
  "schema": 1
 }
