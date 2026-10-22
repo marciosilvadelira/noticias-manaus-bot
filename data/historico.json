@@ -7424,13 +7424,34 @@
    "updated_at": "2026-10-22T14:10:17+00:00",
    "url": "https://marioadolfo.com/niveis-estao-dentro-da-normalidade-no-rio-negro-e-em-outros-rios-da-bacia-do-amazonas/",
    "url_hash": "2961a0af35906e9e15ce260b"
+  },
+  "guid:6ada270f52c09500099de061": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Polícia apreendeu arma, munições, celulares e drogas durante a ocorrência na Zona Oeste da capital.",
+   "discovered_at": "2026-10-22T15:10:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ada270f52c09500099de061",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/333cb565-d243-4f45-8f70-b38a7f81b833.webp",
+   "key": "guid:6ada270f52c09500099de061",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-22T15:09:58+00:00",
+   "status": "pending",
+   "title": "Quatro homens são presos suspeitos de furto a casa no Tarumã, em Manaus",
+   "updated_at": "2026-10-22T15:10:16+00:00",
+   "url": "https://marioadolfo.com/quatro-homens-sao-presos-suspeitos-de-furto-a-casa-no-taruma-em-manaus/",
+   "url_hash": "3bce645bcb30d9a878eb470c"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-22T15:00:22+00:00",
-  "saved_at": "2026-10-22T15:00:23+00:00"
+  "last_run_at": "2026-10-22T15:10:15+00:00",
+  "saved_at": "2026-10-22T15:10:17+00:00"
  },
  "schema": 1
 }
