@@ -7269,12 +7269,12 @@
    "guid": "6ad927c752c09500099ddf20",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0e23c86a-68a6-4d25-bfd1-9136ea6c9b40.jpg",
    "key": "guid:6ad927c752c09500099ddf20",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-21T21:05:33+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "PT aciona TRE-AM para garantir transporte de indígenas do Vale do Javari no 2º turno",
-   "updated_at": "2026-10-21T21:10:15+00:00",
+   "updated_at": "2026-10-22T21:10:14+00:00",
    "url": "https://marioadolfo.com/pt-aciona-tre-am-para-garantir-transporte-de-indigenas-do-vale-do-javari-no-2o-turno/",
    "url_hash": "a5fede518ac325e6c1eb6d97"
   },
@@ -7954,8 +7954,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-22T21:00:21+00:00",
-  "saved_at": "2026-10-22T21:00:23+00:00"
+  "last_run_at": "2026-10-22T21:10:14+00:00",
+  "saved_at": "2026-10-22T21:10:16+00:00"
  },
  "schema": 1
 }
