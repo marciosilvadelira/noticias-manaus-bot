@@ -7823,13 +7823,55 @@
    "updated_at": "2026-10-22T19:20:16+00:00",
    "url": "https://marioadolfo.com/campanha-de-lula-apresenta-acordo-com-flavio-para-abrir-sigilos/",
    "url_hash": "ed5d7c0f20a5e38409c84617"
+  },
+  "guid:6ada636552c09500099de24a": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Sessão de posse dos desembargadores Ana Maria Diógenes, Paulo Feitoza e Marco Aurélio de Lima Choy foi realizada nesta quinta-feira",
+   "discovered_at": "2026-10-22T19:40:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ada636552c09500099de24a",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4a327e72-3ba1-408d-92a2-6ba2f1cd8897.jpg",
+   "key": "guid:6ada636552c09500099de24a",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-22T19:32:51+00:00",
+   "status": "pending",
+   "title": "TJAM celebra posse de três desembargadores em sessão solene",
+   "updated_at": "2026-10-22T19:40:18+00:00",
+   "url": "https://marioadolfo.com/tjam-celebra-posse-de-tres-desembargadores-em-sessao-solene/",
+   "url_hash": "75c3847185500e9f27e3f36b"
+  },
+  "guid:6ada652c52c09500099de263": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Os valores das botijas de 8 e 7 quilos não apresentaram alterações, segundo levantamento do Procon Manaus",
+   "discovered_at": "2026-10-22T19:40:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ada652c52c09500099de263",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5c065f22-db40-453c-8b5a-7dd2d40f58bf.jpeg",
+   "key": "guid:6ada652c52c09500099de263",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-22T19:38:14+00:00",
+   "status": "pending",
+   "title": "Menor preço da botija de gás de 13kg em Manaus é R$ 121, aponta pesquisa",
+   "updated_at": "2026-10-22T19:40:18+00:00",
+   "url": "https://marioadolfo.com/menor-preco-da-botija-de-gas-de-13kg-em-manaus-e-r-121-aponta-pesquisa/",
+   "url_hash": "3b65a36ce64943be09bc0e3f"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-22T19:30:19+00:00",
-  "saved_at": "2026-10-22T19:30:21+00:00"
+  "last_run_at": "2026-10-22T19:40:16+00:00",
+  "saved_at": "2026-10-22T19:40:19+00:00"
  },
  "schema": 1
 }
