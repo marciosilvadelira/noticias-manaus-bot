@@ -7382,13 +7382,55 @@
    "updated_at": "2026-10-22T13:30:19+00:00",
    "url": "https://marioadolfo.com/dito-feito-quebra-teu-sigilo-flavio/",
    "url_hash": "c5d3df2d08eeac7255df8583"
+  },
+  "guid:6ada169752c09500099de016": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "É também o último dia para a divulgação de propaganda na internet.",
+   "discovered_at": "2026-10-22T14:10:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ada169752c09500099de016",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/55d8580f-8669-4df4-87a4-8d50262198df.jpg",
+   "key": "guid:6ada169752c09500099de016",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-22T14:02:03+00:00",
+   "status": "pending",
+   "title": "Termina hoje prazo para realização de comícios e ações de campanha",
+   "updated_at": "2026-10-22T14:10:17+00:00",
+   "url": "https://marioadolfo.com/termina-hoje-prazo-para-realizacao-de-comicios-e-acoes-de-campanha/",
+   "url_hash": "f08a88f98bcbbec8807ca905"
+  },
+  "guid:6ada181f52c09500099de02c": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Em algumas estações monitoradas, o volume de chuvas ficou abaixo do esperado para o período e esse comportamento deve seguir nas próximas semanas",
+   "discovered_at": "2026-10-22T14:10:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ada181f52c09500099de02c",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/98ebed91-cfb2-425a-bc6a-66e7c95d3276.jpg",
+   "key": "guid:6ada181f52c09500099de02c",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-22T14:07:34+00:00",
+   "status": "pending",
+   "title": "Níveis estão dentro da normalidade no rio Negro e em outros rios da Bacia do Amazonas",
+   "updated_at": "2026-10-22T14:10:17+00:00",
+   "url": "https://marioadolfo.com/niveis-estao-dentro-da-normalidade-no-rio-negro-e-em-outros-rios-da-bacia-do-amazonas/",
+   "url_hash": "2961a0af35906e9e15ce260b"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-22T14:00:22+00:00",
-  "saved_at": "2026-10-22T14:00:24+00:00"
+  "last_run_at": "2026-10-22T14:10:16+00:00",
+  "saved_at": "2026-10-22T14:10:18+00:00"
  },
  "schema": 1
 }
