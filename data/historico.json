@@ -7949,13 +7949,34 @@
    "updated_at": "2026-10-22T21:00:22+00:00",
    "url": "https://marioadolfo.com/homem-com-bracos-amarrados-e-encontrado-morto-no-bairro-compensa/",
    "url_hash": "cea895cdf1fc7937abe18d7b"
+  },
+  "guid:6ada7c3852c09500099de2de": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Ônibus vão circular das 4h às 18h. Operação especial de trânsito vai auxiliar os eleitores no domingo (25)",
+   "discovered_at": "2026-10-22T21:20:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ada7c3852c09500099de2de",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/bed88dcf-594a-413d-b5aa-594ee531a97d.jpg",
+   "key": "guid:6ada7c3852c09500099de2de",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-22T21:19:48+00:00",
+   "status": "pending",
+   "title": "Ônibus serão gratuitos em Manaus no segundo turno das Eleições 2026",
+   "updated_at": "2026-10-22T21:20:16+00:00",
+   "url": "https://marioadolfo.com/onibus-serao-gratuitos-em-manaus-no-segundo-turno-das-eleicoes-2026/",
+   "url_hash": "f37ee332b9083195671ff354"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-22T21:10:14+00:00",
-  "saved_at": "2026-10-22T21:10:16+00:00"
+  "last_run_at": "2026-10-22T21:20:15+00:00",
+  "saved_at": "2026-10-22T21:20:17+00:00"
  },
  "schema": 1
 }
