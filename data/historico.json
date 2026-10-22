@@ -7928,13 +7928,34 @@
    "updated_at": "2026-10-22T20:50:16+00:00",
    "url": "https://marioadolfo.com/indigenas-do-vale-do-javari-terao-transporte-gratuito-no-2o-turno/",
    "url_hash": "fe0f6ad4a501431b18031fb0"
+  },
+  "guid:6ada770c52c09500099de2c6": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Vítima estava na escadaria do beco, próximo à Igreja Deus é Amor e à Pizzaria Alexandre",
+   "discovered_at": "2026-10-22T21:00:22+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ada770c52c09500099de2c6",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e4aaf5a5-322f-47ff-b4d8-d53c5e929bb9.png",
+   "key": "guid:6ada770c52c09500099de2c6",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-22T20:52:28+00:00",
+   "status": "pending",
+   "title": "Homem com braços amarrados é encontrado morto no bairro Compensa",
+   "updated_at": "2026-10-22T21:00:22+00:00",
+   "url": "https://marioadolfo.com/homem-com-bracos-amarrados-e-encontrado-morto-no-bairro-compensa/",
+   "url_hash": "cea895cdf1fc7937abe18d7b"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-22T20:50:15+00:00",
-  "saved_at": "2026-10-22T20:50:17+00:00"
+  "last_run_at": "2026-10-22T21:00:21+00:00",
+  "saved_at": "2026-10-22T21:00:23+00:00"
  },
  "schema": 1
 }
