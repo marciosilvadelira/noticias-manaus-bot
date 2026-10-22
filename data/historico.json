@@ -7248,12 +7248,12 @@
    "guid": "6ad9207952c09500099ddef0",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/14d90252-ce2e-4652-81ce-f9d19ab81f71.jpg",
    "key": "guid:6ad9207952c09500099ddef0",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-21T20:34:04+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Prefeitura de  Manaus cancela os festejos do aniversário da cidade por causa da fumaça",
-   "updated_at": "2026-10-21T20:40:15+00:00",
+   "updated_at": "2026-10-22T20:36:10+00:00",
    "url": "https://marioadolfo.com/prefeitura-de-manaus-cancela-os-festejos-do-aniversario-da-cidade-por-causa-da-fumaca/",
    "url_hash": "a4f196790427f1d6538d8bb3"
   },
@@ -7912,8 +7912,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-22T20:30:17+00:00",
-  "saved_at": "2026-10-22T20:30:18+00:00"
+  "last_run_at": "2026-10-22T20:36:08+00:00",
+  "saved_at": "2026-10-22T20:36:11+00:00"
  },
  "schema": 1
 }
