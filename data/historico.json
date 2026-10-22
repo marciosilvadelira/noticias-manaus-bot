@@ -7655,13 +7655,34 @@
    "updated_at": "2026-10-22T18:30:19+00:00",
    "url": "https://marioadolfo.com/julgamento-de-acusado-de-matar-camila-fritz-e-adiado-em-manaus/",
    "url_hash": "a31cfdc311d1259dc2984593"
+  },
+  "guid:6ada561552c09500099de187": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A finalidade é orientar sobre a alocação de recursos para que as obras sejam finalizadas",
+   "discovered_at": "2026-10-22T18:40:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ada561552c09500099de187",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/1f898b96-170b-4094-9f37-1939d3aac34b.jpg",
+   "key": "guid:6ada561552c09500099de187",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-22T16:00:00+00:00",
+   "status": "pending",
+   "title": "TCU inclui BR-319 na lista de obras rodoviárias prioritárias",
+   "updated_at": "2026-10-22T18:40:18+00:00",
+   "url": "https://marioadolfo.com/tcu-inclui-br-319-na-lista-de-obras-rodoviarias-prioritarias/",
+   "url_hash": "863401a27574bf4eddca2c08"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-22T18:30:18+00:00",
-  "saved_at": "2026-10-22T18:30:20+00:00"
+  "last_run_at": "2026-10-22T18:40:17+00:00",
+  "saved_at": "2026-10-22T18:40:18+00:00"
  },
  "schema": 1
 }
