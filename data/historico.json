@@ -7613,13 +7613,34 @@
    "updated_at": "2026-10-22T17:40:16+00:00",
    "url": "https://marioadolfo.com/prefeitura-mobiliza-500-trabalhadores-e-intensifica-limpeza-na-orla-de-manaus/",
    "url_hash": "34da7838dd1f7804db021908"
+  },
+  "guid:6ada4eee52c09500099de155": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Evento terá 12 espaços, mais de 50 horas de programação e atividades gratuitas para todas as idades.",
+   "discovered_at": "2026-10-22T18:10:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ada4eee52c09500099de155",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d8f5fb6e-8849-4fb7-b1c5-2db3f0a9e26e.jpg",
+   "key": "guid:6ada4eee52c09500099de155",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-22T18:07:00+00:00",
+   "status": "pending",
+   "title": "Milton Hatoum, Ailton Krenak e Jeferson Tenório estarão na Feira de Livros do Sesc",
+   "updated_at": "2026-10-22T18:10:19+00:00",
+   "url": "https://marioadolfo.com/milton-hatoum-ailton-krenak-e-jeferson-tenorio-estarao-na-feira-de-livros-do-sesc/",
+   "url_hash": "a21a981247ca2fb86b9368f2"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-22T18:00:22+00:00",
-  "saved_at": "2026-10-22T18:00:24+00:00"
+  "last_run_at": "2026-10-22T18:10:17+00:00",
+  "saved_at": "2026-10-22T18:10:20+00:00"
  },
  "schema": 1
 }
