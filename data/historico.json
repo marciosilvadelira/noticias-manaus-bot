@@ -7907,13 +7907,34 @@
    "updated_at": "2026-10-22T20:00:21+00:00",
    "url": "https://marioadolfo.com/presidente-do-tse-pede-a-meta-relatorio-sobre-canal-exercito-do-lula/",
    "url_hash": "0ec394ed70f9718841486b9d"
+  },
+  "guid:6ada750752c09500099de2af": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Juíza eleitoral conduziu reunião para acertar detalhes",
+   "discovered_at": "2026-10-22T20:50:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ada750752c09500099de2af",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/3f6938c6-6f06-4db8-8f03-764612ab7db0.JPG",
+   "key": "guid:6ada750752c09500099de2af",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-22T20:43:45+00:00",
+   "status": "pending",
+   "title": "Indígenas do Vale do Javari terão transporte gratuito no 2º turno",
+   "updated_at": "2026-10-22T20:50:16+00:00",
+   "url": "https://marioadolfo.com/indigenas-do-vale-do-javari-terao-transporte-gratuito-no-2o-turno/",
+   "url_hash": "fe0f6ad4a501431b18031fb0"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-22T20:40:16+00:00",
-  "saved_at": "2026-10-22T20:40:18+00:00"
+  "last_run_at": "2026-10-22T20:50:15+00:00",
+  "saved_at": "2026-10-22T20:50:17+00:00"
  },
  "schema": 1
 }
