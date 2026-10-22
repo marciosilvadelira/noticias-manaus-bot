@@ -7101,12 +7101,12 @@
    "guid": "6ad906c652c09500099dde42",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ab906b61-7ac2-412c-adc9-11549ac9b55f.png",
    "key": "guid:6ad906c652c09500099dde42",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-21T18:44:51+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Vídeo: suspeito é preso após tentar roubar jovem e fazer reféns no Japiim",
-   "updated_at": "2026-10-21T18:50:16+00:00",
+   "updated_at": "2026-10-22T18:50:17+00:00",
    "url": "https://marioadolfo.com/suspeito-e-preso-apos-tentar-roubar-jovem-e-fazer-refens-no-japiim/",
    "url_hash": "172d47bb9c92a28108ddca1d"
   },
@@ -7122,12 +7122,12 @@
    "guid": "6ad9078c52c09500099dde5a",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/59dd5d0d-8df1-49e4-a5ca-1a66b98f50bc.jpeg",
    "key": "guid:6ad9078c52c09500099dde5a",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-21T18:43:55+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Semsa amplia oferta de teste contra tuberculose para 55 unidades de saúde em Manaus",
-   "updated_at": "2026-10-21T18:50:16+00:00",
+   "updated_at": "2026-10-22T18:50:17+00:00",
    "url": "https://marioadolfo.com/semsa-amplia-oferta-de-teste-contra-tuberculose-para-55-unidades-de-saude-em-manaus/",
    "url_hash": "4a6554e37b7f0d779f75b60c"
   },
@@ -7676,13 +7676,55 @@
    "updated_at": "2026-10-22T18:40:18+00:00",
    "url": "https://marioadolfo.com/tcu-inclui-br-319-na-lista-de-obras-rodoviarias-prioritarias/",
    "url_hash": "863401a27574bf4eddca2c08"
+  },
+  "guid:6ada56b852c09500099de1a0": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Promotoria local mobilizou prefeitura e Secretarias Municipais de Saúde, Educação, Cultura e Meio Ambiente",
+   "discovered_at": "2026-10-22T18:50:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ada56b852c09500099de1a0",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/9c2685b4-eab0-45a5-b9ce-0329c298dcc3.jpeg",
+   "key": "guid:6ada56b852c09500099de1a0",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-22T18:44:42+00:00",
+   "status": "pending",
+   "title": "Em Borba, MP recomenda medidas protetivas contra incêndios florestais e queimadas",
+   "updated_at": "2026-10-22T18:50:17+00:00",
+   "url": "https://marioadolfo.com/em-borba-mp-recomenda-medidas-protetivas-contra-incendios-florestais-e-queimadas/",
+   "url_hash": "debec8b4b57f0cca8b881427"
+  },
+  "guid:6ada593752c09500099de1a8": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Decisão dá prazo de 60 dias para o hospital apresentar um plano para reorganizar as finanças e prevê suspensão temporária de cobranças judiciais",
+   "discovered_at": "2026-10-22T18:50:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ada593752c09500099de1a8",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4924bfdc-267f-4b40-ae74-185ac5d65055.jpg",
+   "key": "guid:6ada593752c09500099de1a8",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-22T18:45:16+00:00",
+   "status": "pending",
+   "title": "Justiça aceita recuperação judicial do Hospital Beneficente Portuguesa em Manaus",
+   "updated_at": "2026-10-22T18:50:17+00:00",
+   "url": "https://marioadolfo.com/justica-aceita-recuperacao-judicial-do-hospital-beneficente-portuguesa-em-manaus/",
+   "url_hash": "3bbfff62b6c6c9823e0e902e"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-22T18:40:17+00:00",
-  "saved_at": "2026-10-22T18:40:18+00:00"
+  "last_run_at": "2026-10-22T18:50:15+00:00",
+  "saved_at": "2026-10-22T18:50:17+00:00"
  },
  "schema": 1
 }
