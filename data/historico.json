@@ -7361,13 +7361,34 @@
    "updated_at": "2026-10-22T12:50:17+00:00",
    "url": "https://marioadolfo.com/lula-aceita-proposta-de-flavio-para-quebra-de-sigilo-bancario/",
    "url_hash": "739573aacf72a790f7c80727"
+  },
+  "guid:6ada0af252c09500099ddfd0": {
+   "attempts": [],
+   "category": "Dito & Feito",
+   "description": "“Para que a sociedade brasileira saiba quem é que é ladrão nesse país, quem é que é corrupto. E eu quero ver se ele tem coragem”, desafia Lula",
+   "discovered_at": "2026-10-22T13:30:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ada0af252c09500099ddfd0",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/bae1b5da-f368-4913-b92d-4d196474dc9c.jpg",
+   "key": "guid:6ada0af252c09500099ddfd0",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-22T13:22:44+00:00",
+   "status": "pending",
+   "title": "Dito & Feito: QUEBRA TEU SIGILO, FLÁVIO!",
+   "updated_at": "2026-10-22T13:30:19+00:00",
+   "url": "https://marioadolfo.com/dito-feito-quebra-teu-sigilo-flavio/",
+   "url_hash": "c5d3df2d08eeac7255df8583"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-22T13:20:17+00:00",
-  "saved_at": "2026-10-22T13:20:18+00:00"
+  "last_run_at": "2026-10-22T13:30:18+00:00",
+  "saved_at": "2026-10-22T13:30:19+00:00"
  },
  "schema": 1
 }
