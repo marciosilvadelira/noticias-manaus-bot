@@ -7886,13 +7886,34 @@
    "updated_at": "2026-10-22T19:50:22+00:00",
    "url": "https://marioadolfo.com/mulheres-comandam-concerto-especial-de-outubro-rosa-nesta-sexta-no-teatro-amazonas/",
    "url_hash": "996b887054287bd6f738dc56"
+  },
+  "guid:6ada694d52c09500099de295": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Ministro atendeu ao pedido feito pela campanha de Flávio Bolsonaro",
+   "discovered_at": "2026-10-22T20:00:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ada694d52c09500099de295",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/20839151-fc3c-4575-a5c2-4a4f4e0849fe.jpg",
+   "key": "guid:6ada694d52c09500099de295",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-22T19:52:57+00:00",
+   "status": "pending",
+   "title": "Presidente do TSE pede à Meta relatório sobre canal Exército do Lula",
+   "updated_at": "2026-10-22T20:00:21+00:00",
+   "url": "https://marioadolfo.com/presidente-do-tse-pede-a-meta-relatorio-sobre-canal-exercito-do-lula/",
+   "url_hash": "0ec394ed70f9718841486b9d"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-22T19:50:14+00:00",
-  "saved_at": "2026-10-22T19:50:22+00:00"
+  "last_run_at": "2026-10-22T20:00:21+00:00",
+  "saved_at": "2026-10-22T20:00:22+00:00"
  },
  "schema": 1
 }
