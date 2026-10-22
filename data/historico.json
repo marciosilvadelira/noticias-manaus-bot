@@ -7718,13 +7718,55 @@
    "updated_at": "2026-10-22T18:50:17+00:00",
    "url": "https://marioadolfo.com/justica-aceita-recuperacao-judicial-do-hospital-beneficente-portuguesa-em-manaus/",
    "url_hash": "3bbfff62b6c6c9823e0e902e"
+  },
+  "guid:6ada5a8c52c09500099de1cd": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Entre as prioridades da nova gestão estão a ampliação da oferta de serviços, a consolidação da telessaúde e o fortalecimento da atenção à saúde indígena",
+   "discovered_at": "2026-10-22T19:00:22+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ada5a8c52c09500099de1cd",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/fbc43842-44da-4250-ae63-02882f62eb1e.jpg",
+   "key": "guid:6ada5a8c52c09500099de1cd",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-22T18:50:17+00:00",
+   "status": "pending",
+   "title": "Primeira mulher no cargo, Professora Tatiane Lima Aguiar assume HUGV",
+   "updated_at": "2026-10-22T19:00:22+00:00",
+   "url": "https://marioadolfo.com/primeira-mulher-no-cargo-professora-tatiane-lima-aguiar-assume-hugv/",
+   "url_hash": "12e788a8ecd56748fcf9c0f7"
+  },
+  "guid:6ada5b6f52c09500099de1e6": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Manaus Airport Cargo tem capacidade para apoiar alternativas logísticas diante das restrições à navegação",
+   "discovered_at": "2026-10-22T19:00:22+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ada5b6f52c09500099de1e6",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/1402b356-0038-476d-b71e-fcae5ac1fee3.jpeg",
+   "key": "guid:6ada5b6f52c09500099de1e6",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-22T18:55:16+00:00",
+   "status": "pending",
+   "title": "Aeroporto de Manaus se prepara para período de seca no Amazonas",
+   "updated_at": "2026-10-22T19:00:22+00:00",
+   "url": "https://marioadolfo.com/aeroporto-de-manaus-se-prepara-para-periodo-de-seca-no-amazonas/",
+   "url_hash": "58532eae48fc3637041a3ec0"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-22T18:50:15+00:00",
-  "saved_at": "2026-10-22T18:50:17+00:00"
+  "last_run_at": "2026-10-22T19:00:21+00:00",
+  "saved_at": "2026-10-22T19:00:23+00:00"
  },
  "schema": 1
 }
