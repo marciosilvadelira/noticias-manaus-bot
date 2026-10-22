@@ -7059,12 +7059,12 @@
    "guid": "6ad901fe52c09500099dde0f",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/57115336-f227-4a4d-9b16-0f8bdbb5d50d.jpeg",
    "key": "guid:6ad901fe52c09500099dde0f",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-21T18:21:03+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Sebrae AM conecta beleza, inovação e novos mercados na Manaus Expo Beleza 2026",
-   "updated_at": "2026-10-21T18:30:19+00:00",
+   "updated_at": "2026-10-22T18:30:19+00:00",
    "url": "https://marioadolfo.com/sebrae-am-conecta-beleza-inovacao-e-novos-mercados-na-manaus-expo-beleza-2026/",
    "url_hash": "39f4575d451f69f6967c6068"
   },
@@ -7080,12 +7080,12 @@
    "guid": "6ad9040352c09500099dde28",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/64a24d5f-beac-4abc-8d9f-f8831953c702.jpg",
    "key": "guid:6ad9040352c09500099dde28",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-21T18:30:16+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Qualidade do ar melhora em Manaus, mas aulas seguem suspensas",
-   "updated_at": "2026-10-21T18:30:19+00:00",
+   "updated_at": "2026-10-22T18:30:19+00:00",
    "url": "https://marioadolfo.com/qualidade-do-ar-melhora-em-manaus-mas-aulas-seguem-suspensas/",
    "url_hash": "574c605b336ef9b9df727a4a"
   },
@@ -7634,13 +7634,34 @@
    "updated_at": "2026-10-22T18:10:19+00:00",
    "url": "https://marioadolfo.com/milton-hatoum-ailton-krenak-e-jeferson-tenorio-estarao-na-feira-de-livros-do-sesc/",
    "url_hash": "a21a981247ca2fb86b9368f2"
+  },
+  "guid:6ada550152c09500099de16a": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Camila foi morta a tiros em novembro de 2023, em um condomínio no bairro Lago Azul. O suspeito é o policial militar Olímpio Gomes Maia, então companheiro da vítima.",
+   "discovered_at": "2026-10-22T18:30:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ada550152c09500099de16a",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/30746917-a910-4dd9-ab1d-441a5df6c8c7.jpg",
+   "key": "guid:6ada550152c09500099de16a",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-22T18:28:45+00:00",
+   "status": "pending",
+   "title": "Julgamento de policial acusado de matar Camila Fritz é adiado em Manaus",
+   "updated_at": "2026-10-22T18:30:19+00:00",
+   "url": "https://marioadolfo.com/julgamento-de-acusado-de-matar-camila-fritz-e-adiado-em-manaus/",
+   "url_hash": "a31cfdc311d1259dc2984593"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-22T18:20:16+00:00",
-  "saved_at": "2026-10-22T18:20:17+00:00"
+  "last_run_at": "2026-10-22T18:30:18+00:00",
+  "saved_at": "2026-10-22T18:30:20+00:00"
  },
  "schema": 1
 }
