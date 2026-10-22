@@ -6675,11 +6675,19 @@
    "url_hash": "1d152d8c4ca82508a9aa1881"
   },
   "guid:6ad8f29e52c09500099ddcb1": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-22T04:20:22+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1515080637309494",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Levantamento revela que 59% dos consumidores apontam despesas com alimentação entre as que mais comprometem o orçamento",
    "discovered_at": "2026-10-21T17:20:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1515080637309494",
    "formats": [
     "link"
    ],
@@ -6687,20 +6695,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/7228dc33-b1ff-4b1b-92de-8437c3eafe41.jpeg",
    "key": "guid:6ad8f29e52c09500099ddcb1",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1515080637309494"
+   },
    "source_published_at": "2026-10-21T17:15:08+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Gastos com alimentação e supermercado são os que mais pesam no orçamento dos brasileiros, diz Serasa",
-   "updated_at": "2026-10-21T17:20:16+00:00",
+   "updated_at": "2026-10-22T04:20:22+00:00",
    "url": "https://marioadolfo.com/gastos-com-alimentacao-e-supermercado-sao-os-que-mais-pesam-no-orcamento-dos-brasileiros-diz-serasa/",
    "url_hash": "d149b9ef84cfefc01ca849b7"
   },
   "guid:6ad8f34052c09500099ddcc8": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-22T04:20:49+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1515080860642805",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Com entrada gratuita, montagem do NITAP será apresentada no Teatro da Instalação, às 20h, com histórias inspiradas nas periferias de Manaus e Macapá",
    "discovered_at": "2026-10-21T17:20:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1515080860642805",
    "formats": [
     "link"
    ],
@@ -6708,20 +6726,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f0a074a0-01af-4088-85e1-2283e395d4cb.jpeg",
    "key": "guid:6ad8f34052c09500099ddcc8",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1515080860642805"
+   },
    "source_published_at": "2026-10-21T17:18:18+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Espetáculo estreia nesta sexta-feira com reflexões sobre morte, luto e transformação",
-   "updated_at": "2026-10-21T17:20:16+00:00",
+   "updated_at": "2026-10-22T04:20:49+00:00",
    "url": "https://marioadolfo.com/espetaculo-estreia-nesta-sexta-feira-com-reflexoes-sobre-morte-luto-e-transformacao/",
    "url_hash": "6cadef672db4b3ebd5576e3e"
   },
   "guid:6ad8f3fa52c09500099ddce2": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-22T04:21:14+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1515081137309444",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Se aprovada, gratuidade valerá nos fins de semana e feriados",
    "discovered_at": "2026-10-21T17:21:40+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1515081137309444",
    "formats": [
     "link"
    ],
@@ -6729,20 +6757,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6e35c697-d866-48d9-98b1-d13421decf34.webp",
    "key": "guid:6ad8f3fa52c09500099ddce2",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1515081137309444"
+   },
    "source_published_at": "2026-10-21T17:21:05+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Governo envia ao Congresso proposta de tarifa zero no transporte",
-   "updated_at": "2026-10-21T17:21:40+00:00",
+   "updated_at": "2026-10-22T04:21:14+00:00",
    "url": "https://marioadolfo.com/governo-envia-ao-congresso-proposta-de-tarifa-zero-no-transporte/",
    "url_hash": "5d117beb7405a0b0087b9a76"
   },
   "guid:6ad8f49152c09500099ddcfc": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-22T04:21:41+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1515081440642747",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Proposta foi escrita pelo vice-presidente da Corte, André Mendonça",
    "discovered_at": "2026-10-21T17:30:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1515081440642747",
    "formats": [
     "link"
    ],
@@ -6750,20 +6788,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/355d52f3-c4da-400e-a84b-e91d1a216bc5.jpeg",
    "key": "guid:6ad8f49152c09500099ddcfc",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1515081440642747"
+   },
    "source_published_at": "2026-10-21T17:23:05+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "TSE estuda desativar canais políticos no WhatsApp 48h antes da eleição",
-   "updated_at": "2026-10-21T17:30:18+00:00",
+   "updated_at": "2026-10-22T04:21:41+00:00",
    "url": "https://marioadolfo.com/tse-estuda-desativar-canais-politicos-no-whatsapp-48h-antes-da-eleicao/",
    "url_hash": "a931ef0ec19d5b69e965585f"
   },
   "guid:6ad8f54a52c09500099ddd11": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-22T04:22:07+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1515081700642721",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Medida deve alcançar 17,6 milhões de empreendedores",
    "discovered_at": "2026-10-21T17:30:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1515081700642721",
    "formats": [
     "link"
    ],
@@ -6771,11 +6819,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/49e3e38e-e167-4f3e-8f1b-c6c6e2f517fa.jpg",
    "key": "guid:6ad8f54a52c09500099ddd11",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1515081700642721"
+   },
    "source_published_at": "2026-10-21T17:26:17+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Sancionada lei que perdoa dívida e aumenta limite de MEI",
-   "updated_at": "2026-10-21T17:30:18+00:00",
+   "updated_at": "2026-10-22T04:22:07+00:00",
    "url": "https://marioadolfo.com/sancionada-lei-que-perdoa-divida-e-aumenta-limite-de-mei/",
    "url_hash": "c45fc287f2d2c6128a0132e8"
   },
@@ -7203,8 +7253,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-22T04:10:14+00:00",
-  "saved_at": "2026-10-22T04:12:03+00:00"
+  "last_run_at": "2026-10-22T04:20:15+00:00",
+  "saved_at": "2026-10-22T04:22:07+00:00"
  },
  "schema": 1
 }
