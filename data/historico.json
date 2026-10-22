@@ -6365,11 +6365,19 @@
    "url_hash": "ed9e88828c1ddf1678d2ddd2"
   },
   "guid:6ad8a71c52c09500099ddb9f": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-22T04:00:28+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1515068147310743",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Operações em Autazes e Careiro da Várzea resultaram em 14 multas e no embargo de 12 áreas, que somam cerca de 252 hectares",
    "discovered_at": "2026-10-21T12:00:21+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1515068147310743",
    "formats": [
     "link"
    ],
@@ -6377,20 +6385,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6538f780-9c73-42ab-94ab-2f37791df4b3.jpg",
    "key": "guid:6ad8a71c52c09500099ddb9f",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1515068147310743"
+   },
    "source_published_at": "2026-10-21T11:54:49+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Ibama aplica R$ 2 milhões em multas durante fiscalização contra incêndios no Amazonas",
-   "updated_at": "2026-10-21T12:00:21+00:00",
+   "updated_at": "2026-10-22T04:00:28+00:00",
    "url": "https://marioadolfo.com/ibama-aplica-r-2-milhoes-em-multas-durante-fiscalizacao-contra-incendios-no-amazonas/",
    "url_hash": "3575c05c8ffaab3d115321af"
   },
   "guid:6ad8a8ee52c09500099ddbc0": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-22T04:00:52+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1515068343977390",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Em áreas de difícil acesso, o deslocamento até as urnas depende de transporte fluvial e pode envolver custos elevados",
    "discovered_at": "2026-10-21T12:10:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1515068343977390",
    "formats": [
     "link"
    ],
@@ -6398,20 +6416,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/68bb2904-2bf6-49dd-9a41-6b6cac4af521.jpg",
    "key": "guid:6ad8a8ee52c09500099ddbc0",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1515068343977390"
+   },
    "source_published_at": "2026-10-21T12:02:24+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Defensoria cobra transporte para indígenas e ribeirinhos votarem no AM",
-   "updated_at": "2026-10-21T12:10:16+00:00",
+   "updated_at": "2026-10-22T04:00:52+00:00",
    "url": "https://marioadolfo.com/defensoria-cobra-transporte-para-indigenas-e-ribeirinhos-votarem-no-am/",
    "url_hash": "ccef67f73299c601b062f93e"
   },
   "guid:6ad8ca2952c09500099ddbe9": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-22T04:01:17+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1515068593977365",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Medida busca dificultar o uso de gasolina, etanol e diesel para provocar incêndios florestais durante a emergência das queimadas.",
    "discovered_at": "2026-10-21T14:30:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1515068593977365",
    "formats": [
     "link"
    ],
@@ -6419,20 +6447,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a5ecf078-8c8a-462b-a717-5601602b6456.jpg",
    "key": "guid:6ad8ca2952c09500099ddbe9",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1515068593977365"
+   },
    "source_published_at": "2026-10-21T14:23:34+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "MPF recomenda suspender venda de combustíveis em galões no AM",
-   "updated_at": "2026-10-21T14:30:18+00:00",
+   "updated_at": "2026-10-22T04:01:17+00:00",
    "url": "https://marioadolfo.com/mpf-recomenda-suspender-venda-de-combustiveis-em-galoes-no-am/",
    "url_hash": "884b5cf823e976f0395d6ef0"
   },
   "guid:6ad8cb0c52c09500099ddbff": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-22T04:01:44+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1515068870644004",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Senador recordou investimentos de suas gestões, incluindo a criação da Universidade da Terceira Idade, e manifestou apoio ao programa Tempo de Cuidar, apresentado por Omar Aziz",
    "discovered_at": "2026-10-21T14:30:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1515068870644004",
    "formats": [
     "link"
    ],
@@ -6440,20 +6478,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/dcfc0910-f356-4088-91f3-456191a15164.jpeg",
    "key": "guid:6ad8cb0c52c09500099ddbff",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1515068870644004"
+   },
    "source_published_at": "2026-10-21T14:25:08+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Braga reforça parceria com Omar para ampliar atendimento a idosos no AM",
-   "updated_at": "2026-10-21T14:30:18+00:00",
+   "updated_at": "2026-10-22T04:01:44+00:00",
    "url": "https://marioadolfo.com/braga-reforca-parceria-com-omar-para-ampliar-atendimento-a-idosos-no-am/",
    "url_hash": "542386f75b647899f0289fbc"
   },
   "guid:6ad8ccc752c09500099ddc14": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-22T04:02:10+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1515069120643979",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Mais de 400 seções eleitorais foram deslocadas em todo o país; segundo turno ocorre no próximo domingo (25)",
    "discovered_at": "2026-10-21T14:40:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1515069120643979",
    "formats": [
     "link"
    ],
@@ -6461,11 +6509,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/22e163fd-7313-4178-b135-bda7f58543d4.webp",
    "key": "guid:6ad8ccc752c09500099ddc14",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1515069120643979"
+   },
    "source_published_at": "2026-10-21T14:32:49+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "MP Eleitoral recomenda ao TSE ampla divulgação sobre as mudanças nos locais de votação",
-   "updated_at": "2026-10-21T14:40:15+00:00",
+   "updated_at": "2026-10-22T04:02:10+00:00",
    "url": "https://marioadolfo.com/mp-eleitoral-recomenda-ao-tse-ampla-divulgacao-sobre-as-mudancas-nos-locais-de-votacao/",
    "url_hash": "a929dcc892a8af2c5a0bd487"
   },
@@ -7103,8 +7153,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-22T03:50:14+00:00",
-  "saved_at": "2026-10-22T03:50:15+00:00"
+  "last_run_at": "2026-10-22T04:00:20+00:00",
+  "saved_at": "2026-10-22T04:02:10+00:00"
  },
  "schema": 1
 }
