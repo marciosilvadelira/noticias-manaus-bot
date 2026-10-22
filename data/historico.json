@@ -7340,13 +7340,34 @@
    "updated_at": "2026-10-22T12:30:19+00:00",
    "url": "https://marioadolfo.com/ministro-acompanha-obras-do-terminal-manaus-moderna-nesta-quinta-feira-22/",
    "url_hash": "31438f1da95a71080f7f18d6"
+  },
+  "guid:6ada035952c09500099ddfae": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Campanha de Lula deu prazo até as 11h de quinta (22) para o adversário",
+   "discovered_at": "2026-10-22T12:50:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ada035952c09500099ddfae",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d64eef51-9616-418b-9e65-083642d1adfc.webp",
+   "key": "guid:6ada035952c09500099ddfae",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-22T12:40:34+00:00",
+   "status": "pending",
+   "title": "Lula aceita proposta de Flávio para quebra de sigilo bancário",
+   "updated_at": "2026-10-22T12:50:17+00:00",
+   "url": "https://marioadolfo.com/lula-aceita-proposta-de-flavio-para-quebra-de-sigilo-bancario/",
+   "url_hash": "739573aacf72a790f7c80727"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-22T12:40:14+00:00",
-  "saved_at": "2026-10-22T12:40:16+00:00"
+  "last_run_at": "2026-10-22T12:50:16+00:00",
+  "saved_at": "2026-10-22T12:50:17+00:00"
  },
  "schema": 1
 }
