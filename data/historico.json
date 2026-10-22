@@ -7550,13 +7550,34 @@
    "updated_at": "2026-10-22T16:10:17+00:00",
    "url": "https://marioadolfo.com/tre-am-conclui-preparacao-das-urnas-eletronicas-na-capital/",
    "url_hash": "0244097a7ea684a6d4d04536"
+  },
+  "guid:6ada350a52c09500099de103": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "DPU pediu uma liminar de abrangência nacional",
+   "discovered_at": "2026-10-22T16:20:20+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ada350a52c09500099de103",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c94d7bf2-c355-42a6-8b1e-15cb22cd0bf5.webp",
+   "key": "guid:6ada350a52c09500099de103",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-22T16:10:31+00:00",
+   "status": "pending",
+   "title": "Defensoria Pública pede ao STF transporte gratuito no 2º turno",
+   "updated_at": "2026-10-22T16:20:20+00:00",
+   "url": "https://marioadolfo.com/defensoria-publica-pede-ao-stf-transporte-gratuito-no-2o-turno/",
+   "url_hash": "0840653ecc3f4d5c9a6a58c7"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-22T16:10:17+00:00",
-  "saved_at": "2026-10-22T16:10:18+00:00"
+  "last_run_at": "2026-10-22T16:20:16+00:00",
+  "saved_at": "2026-10-22T16:20:20+00:00"
  },
  "schema": 1
 }
