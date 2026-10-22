@@ -7164,12 +7164,12 @@
    "guid": "6ad90e1352c09500099dde8c",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/cae379ef-4a5f-448c-b566-58b09a6fc6a0.jpeg",
    "key": "guid:6ad90e1352c09500099dde8c",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-21T19:12:55+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Amazonas reduz focos de calor e amplia operação contra incêndios florestais",
-   "updated_at": "2026-10-21T19:20:15+00:00",
+   "updated_at": "2026-10-22T19:20:16+00:00",
    "url": "https://marioadolfo.com/amazonas-reduz-focos-de-calor-e-amplia-operacao-contra-incendios-florestais/",
    "url_hash": "928c5f6da1267c0006b6dfe4"
   },
@@ -7781,13 +7781,55 @@
    "updated_at": "2026-10-22T19:10:16+00:00",
    "url": "https://marioadolfo.com/governo-do-am-e-prefeitura-de-manaus-alteram-folga-do-dia-do-servidor-publico/",
    "url_hash": "73a4b162f30d9dba9fc86c9b"
+  },
+  "guid:6ada600652c09500099de212": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Vídeos mostram os animais espalhados pela água e pelas margens do rio Solimões, na comunidade Vila do Jacaré, zona rural do município",
+   "discovered_at": "2026-10-22T19:20:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ada600652c09500099de212",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/3707c33a-ebe5-4204-9cd7-a10f0baf5392.jpeg",
+   "key": "guid:6ada600652c09500099de212",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-22T19:14:50+00:00",
+   "status": "pending",
+   "title": "Vídeos: seca causa morte de milhares de peixes em Manacapuru",
+   "updated_at": "2026-10-22T19:20:16+00:00",
+   "url": "https://marioadolfo.com/seca-causa-morte-de-milhares-de-peixes-em-manacapuru/",
+   "url_hash": "41022752dd069212f6089250"
+  },
+  "guid:6ada60b752c09500099de235": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Documento assinado passará por análise de Mendonça, no TSE",
+   "discovered_at": "2026-10-22T19:20:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ada60b752c09500099de235",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2efbfbc5-5fd8-4f04-8f00-239bfba4d3c6.jpg",
+   "key": "guid:6ada60b752c09500099de235",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-22T19:16:15+00:00",
+   "status": "pending",
+   "title": "Campanha de Lula apresenta acordo com Flávio para abrir sigilos",
+   "updated_at": "2026-10-22T19:20:16+00:00",
+   "url": "https://marioadolfo.com/campanha-de-lula-apresenta-acordo-com-flavio-para-abrir-sigilos/",
+   "url_hash": "ed5d7c0f20a5e38409c84617"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-22T19:10:15+00:00",
-  "saved_at": "2026-10-22T19:10:17+00:00"
+  "last_run_at": "2026-10-22T19:20:15+00:00",
+  "saved_at": "2026-10-22T19:20:16+00:00"
  },
  "schema": 1
 }
