@@ -7425,6 +7425,27 @@
    "url": "https://marioadolfo.com/niveis-estao-dentro-da-normalidade-no-rio-negro-e-em-outros-rios-da-bacia-do-amazonas/",
    "url_hash": "2961a0af35906e9e15ce260b"
   },
+  "guid:6ada243952c09500099de042": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "No estado, quase 46% dos MEIs deixaram de pagar algum boleto mensal, enquanto 72% têm interesse em vender para o governo, segundo pesquisa do Sebrae",
+   "discovered_at": "2026-10-22T16:10:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ada243952c09500099de042",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f8ac9972-a9c0-4707-b04e-9e5f755532cd.jpg",
+   "key": "guid:6ada243952c09500099de042",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-22T16:00:42+00:00",
+   "status": "pending",
+   "title": "Prospera MEI: no Amazonas, 133 mil microempreendedores poderão ser beneficiados",
+   "updated_at": "2026-10-22T16:10:17+00:00",
+   "url": "https://marioadolfo.com/prospera-mei-no-amazonas-133-mil-microempreendedores-poderao-ser-beneficiados/",
+   "url_hash": "b5adcd2e2c814558997d94d7"
+  },
   "guid:6ada270f52c09500099de061": {
    "attempts": [],
    "category": "Polícia",
@@ -7487,13 +7508,55 @@
    "updated_at": "2026-10-22T15:50:15+00:00",
    "url": "https://marioadolfo.com/amazonas-reforca-papel-estrategico-no-crescimento-das-operacoes-de-gas-e-energia-da-eneva/",
    "url_hash": "15b4f81e7af2c3a5665a3518"
+  },
+  "guid:6ada340052c09500099de0c0": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Mais de 4 mil urnas passaram por carga de dados, testes e lacração para o 2º turno, marcado para domingo (25)",
+   "discovered_at": "2026-10-22T16:10:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ada340052c09500099de0c0",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f07b7020-cff3-4f9e-bcd7-4c1bfa547f59.jpeg",
+   "key": "guid:6ada340052c09500099de0c0",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-22T16:06:58+00:00",
+   "status": "pending",
+   "title": "Eleições 2026: TRE-AM conclui preparação das urnas eletrônicas em Manaus",
+   "updated_at": "2026-10-22T16:10:17+00:00",
+   "url": "https://marioadolfo.com/eleicoes-2026-tre-am-conclui-preparacao-das-urnas-eletronicas-em-manaus/",
+   "url_hash": "65c826ee6001b6957723b54a"
+  },
+  "guid:6ada34be52c09500099de0ee": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Mais de 4 mil urnas passaram por carga de dados, testes e lacração para o 2º turno das Eleições 2026",
+   "discovered_at": "2026-10-22T16:10:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ada34be52c09500099de0ee",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0d0c6e20-ed7f-4093-808a-a3f7e65e040e.jpeg",
+   "key": "guid:6ada34be52c09500099de0ee",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-22T16:08:44+00:00",
+   "status": "pending",
+   "title": "TRE-AM conclui preparação das urnas eletrônicas na capital",
+   "updated_at": "2026-10-22T16:10:17+00:00",
+   "url": "https://marioadolfo.com/tre-am-conclui-preparacao-das-urnas-eletronicas-na-capital/",
+   "url_hash": "0244097a7ea684a6d4d04536"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-22T16:00:20+00:00",
-  "saved_at": "2026-10-22T16:00:25+00:00"
+  "last_run_at": "2026-10-22T16:10:17+00:00",
+  "saved_at": "2026-10-22T16:10:18+00:00"
  },
  "schema": 1
 }
