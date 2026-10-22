@@ -7445,13 +7445,34 @@
    "updated_at": "2026-10-22T15:10:16+00:00",
    "url": "https://marioadolfo.com/quatro-homens-sao-presos-suspeitos-de-furto-a-casa-no-taruma-em-manaus/",
    "url_hash": "3bce645bcb30d9a878eb470c"
+  },
+  "guid:6ada2cf352c09500099de093": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Candidato propõe ampliar o diálogo com os povos originários, incentivar a produção indígena e utilizar sua articulação em Brasília para buscar investimentos",
+   "discovered_at": "2026-10-22T15:40:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ada2cf352c09500099de093",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/400a127e-1416-4313-a5ba-8ae3cc88794f.jpeg",
+   "key": "guid:6ada2cf352c09500099de093",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-22T15:36:01+00:00",
+   "status": "pending",
+   "title": "Omar defende fortalecimento de políticas indígenas no Amazonas",
+   "updated_at": "2026-10-22T15:40:17+00:00",
+   "url": "https://marioadolfo.com/omar-defende-fortalecimento-de-politicas-indigenas-e-destaca-experiencia-para-governar-o-am/",
+   "url_hash": "5b98f1f6bd11f82d365f6653"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-22T15:30:22+00:00",
-  "saved_at": "2026-10-22T15:30:24+00:00"
+  "last_run_at": "2026-10-22T15:40:16+00:00",
+  "saved_at": "2026-10-22T15:40:18+00:00"
  },
  "schema": 1
 }
