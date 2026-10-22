@@ -6520,11 +6520,19 @@
    "url_hash": "a929dcc892a8af2c5a0bd487"
   },
   "guid:6ad8cf8252c09500099ddc2e": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-22T04:10:22+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1515074757310082",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Levantamentos Quaest, Meio/Ideia e Palver mostram o senador numericamente à frente a quatro dias do segundo turno.",
    "discovered_at": "2026-10-21T14:50:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1515074757310082",
    "formats": [
     "link"
    ],
@@ -6532,20 +6540,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/30ef0297-e1bd-4175-a810-4279bd75a878.webp",
    "key": "guid:6ad8cf8252c09500099ddc2e",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1515074757310082"
+   },
    "source_published_at": "2026-10-21T14:46:11+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Pesquisas apontam empate técnico entre Lula e Flávio Bolsonaro",
-   "updated_at": "2026-10-21T14:50:15+00:00",
+   "updated_at": "2026-10-22T04:10:22+00:00",
    "url": "https://marioadolfo.com/pesquisas-apontam-empate-tecnico-entre-lula-e-flavio-bolsonaro/",
    "url_hash": "640acf1949e1a891eb8f2fca"
   },
   "guid:6ad8d0bc52c09500099ddc4b": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-22T04:10:48+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1515075117310046",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Em encontros em Manaus, candidato defendeu qualificação profissional, estágio remunerado, ampliação da rede de saúde e construção de 40 mil moradias",
    "discovered_at": "2026-10-21T14:50:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1515075117310046",
    "formats": [
     "link"
    ],
@@ -6553,20 +6571,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/83c80973-9b41-43f6-b000-98738676ed9a.jpeg",
    "key": "guid:6ad8d0bc52c09500099ddc4b",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1515075117310046"
+   },
    "source_published_at": "2026-10-21T14:49:59+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Omar apresenta propostas para jovens e famílias do Amazonas",
-   "updated_at": "2026-10-21T14:50:15+00:00",
+   "updated_at": "2026-10-22T04:10:48+00:00",
    "url": "https://marioadolfo.com/omar-apresenta-propostas-para-jovens-e-familias-do-amazonas/",
    "url_hash": "551dd34a1989984aa912d695"
   },
   "guid:6ad8d3d652c09500099ddc60": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-22T04:11:13+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1515075430643348",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Câmeras de segurança do circuito interno de uma área próxima registraram a ação dos criminosos.",
    "discovered_at": "2026-10-21T15:10:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1515075430643348",
    "formats": [
     "link"
    ],
@@ -6574,20 +6602,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5899d2d9-3435-4cca-b9cf-bf1f507eec74.jpg",
    "key": "guid:6ad8d3d652c09500099ddc60",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1515075430643348"
+   },
    "source_published_at": "2026-10-21T15:04:45+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Vídeo: homem é executado dentro de casa no Petropolis",
-   "updated_at": "2026-10-21T15:10:18+00:00",
+   "updated_at": "2026-10-22T04:11:13+00:00",
    "url": "https://marioadolfo.com/video-homem-e-executado-dentro-de-casa-no-petropolis/",
    "url_hash": "7cd44d5d3ce3b36a2b679155"
   },
   "guid:6ad8d76e52c09500099ddc79": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-22T04:11:38+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1515075800643311",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Apurações abrangem diferentes municípios do estado e incluem análise de imagens de satélite e levantamento de informações junto a órgãos públicos",
    "discovered_at": "2026-10-21T15:20:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1515075800643311",
    "formats": [
     "link"
    ],
@@ -6595,20 +6633,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5d06c504-8aaa-47d3-ba0d-d79783db9af3.jpeg",
    "key": "guid:6ad8d76e52c09500099ddc79",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1515075800643311"
+   },
    "source_published_at": "2026-10-21T15:19:18+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "PF investiga possíveis incêndios criminosos no Amazonas",
-   "updated_at": "2026-10-21T15:20:17+00:00",
+   "updated_at": "2026-10-22T04:11:38+00:00",
    "url": "https://marioadolfo.com/pf-investiga-possiveis-incendios-criminosos-no-amazonas/",
    "url_hash": "65218a35b89c2bd3b8dfcea6"
   },
   "guid:6ad8f1e752c09500099ddc90": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-22T04:12:03+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1515076080643283",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Podem participar estudantes matriculados entre o 3º e o 8º período do curso de Direito; prova será realizada no dia 22 de novembro",
    "discovered_at": "2026-10-21T17:20:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1515076080643283",
    "formats": [
     "link"
    ],
@@ -6616,11 +6664,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e7f702e4-c9eb-4522-99ea-61e77d0c5d99.jpeg",
    "key": "guid:6ad8f1e752c09500099ddc90",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1515076080643283"
+   },
    "source_published_at": "2026-10-21T17:12:11+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Defensoria abre seleção  para cadastro reserva de estagiários de Direito",
-   "updated_at": "2026-10-21T17:20:16+00:00",
+   "updated_at": "2026-10-22T04:12:03+00:00",
    "url": "https://marioadolfo.com/defensoria-abre-selecao-para-cadastro-reserva-de-estagiarios-de-direito/",
    "url_hash": "1d152d8c4ca82508a9aa1881"
   },
@@ -7153,8 +7203,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-22T04:00:20+00:00",
-  "saved_at": "2026-10-22T04:02:10+00:00"
+  "last_run_at": "2026-10-22T04:10:14+00:00",
+  "saved_at": "2026-10-22T04:12:03+00:00"
  },
  "schema": 1
 }
