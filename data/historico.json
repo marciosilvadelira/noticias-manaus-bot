@@ -8338,13 +8338,34 @@
    "updated_at": "2026-10-23T15:20:20+00:00",
    "url": "https://marioadolfo.com/tre-am-e-ssp-am-revogam-lei-seca-em-manaus-para-o-segundo-turno/",
    "url_hash": "0e46242ef859b381e5cbe246"
+  },
+  "guid:6adb7c6452c09500099de411": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Mais de 400 profissionais estarão de prontidão em Manaus e no interior durante a votação e a apuração",
+   "discovered_at": "2026-10-23T15:30:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6adb7c6452c09500099de411",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/1429d3dc-6096-4806-91b5-0625bfc492cf.jpeg",
+   "key": "guid:6adb7c6452c09500099de411",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-23T15:27:52+00:00",
+   "status": "pending",
+   "title": "Âmbar Energia reforça operação para o segundo turno das eleições no Amazonas",
+   "updated_at": "2026-10-23T15:30:18+00:00",
+   "url": "https://marioadolfo.com/ambar-energia-reforca-operacao-para-o-segundo-turno-das-eleicoes-no-amazonas/",
+   "url_hash": "6523470945694328a5af4d1d"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-23T15:20:16+00:00",
-  "saved_at": "2026-10-23T15:20:21+00:00"
+  "last_run_at": "2026-10-23T15:30:17+00:00",
+  "saved_at": "2026-10-23T15:30:18+00:00"
  },
  "schema": 1
 }
