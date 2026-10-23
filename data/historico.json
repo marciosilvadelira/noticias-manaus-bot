@@ -8233,13 +8233,34 @@
    "updated_at": "2026-10-23T12:30:18+00:00",
    "url": "https://marioadolfo.com/flavio-bolsonaro-tem-52-e-lula-48-dos-votos-validos-aponta-real-time-big-data/",
    "url_hash": "9e186a3197ec7fa82ba4a2c3"
+  },
+  "guid:6adb64a252c09500099de36c": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Passeatas e carreatas ainda podem ocorrer até amanhã",
+   "discovered_at": "2026-10-23T13:50:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6adb64a252c09500099de36c",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/aed35e29-d56e-4091-929d-7dbb455f5e4f.jpg",
+   "key": "guid:6adb64a252c09500099de36c",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-23T13:45:51+00:00",
+   "status": "pending",
+   "title": "Propaganda eleitoral gratuita termina nesta sexta-feira",
+   "updated_at": "2026-10-23T13:50:15+00:00",
+   "url": "https://marioadolfo.com/propaganda-eleitoral-gratuita-termina-nesta-sexta-feira/",
+   "url_hash": "059cc5f8cbd686d876d5db18"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-23T13:40:17+00:00",
-  "saved_at": "2026-10-23T13:40:18+00:00"
+  "last_run_at": "2026-10-23T13:50:15+00:00",
+  "saved_at": "2026-10-23T13:50:16+00:00"
  },
  "schema": 1
 }
