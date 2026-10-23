@@ -8296,13 +8296,34 @@
    "updated_at": "2026-10-23T14:00:25+00:00",
    "url": "https://marioadolfo.com/dito-feito-mais-uma-bomba-na-reta-final-das-eleicoes/",
    "url_hash": "f548adb38aff832e6e16c662"
+  },
+  "guid:6adb72fa52c09500099de3d4": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Os interessados podem se inscrever até o dia 28 de outubro",
+   "discovered_at": "2026-10-23T14:50:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6adb72fa52c09500099de3d4",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c5b76ed0-ef36-4020-b724-da65735d94eb.jpeg",
+   "key": "guid:6adb72fa52c09500099de3d4",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-23T14:47:13+00:00",
+   "status": "pending",
+   "title": "Prefeitura de Manaus abre inscrições para nova turma do Empretec com 25 vagas",
+   "updated_at": "2026-10-23T14:50:15+00:00",
+   "url": "https://marioadolfo.com/prefeitura-de-manaus-abre-inscricoes-para-nova-turma-do-empretec-com-25-vagas-2/",
+   "url_hash": "c37741ea37c1801a31cdc2be"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-23T14:40:13+00:00",
-  "saved_at": "2026-10-23T14:40:18+00:00"
+  "last_run_at": "2026-10-23T14:50:15+00:00",
+  "saved_at": "2026-10-23T14:50:16+00:00"
  },
  "schema": 1
 }
