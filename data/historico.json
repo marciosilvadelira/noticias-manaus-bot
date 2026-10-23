@@ -8443,13 +8443,55 @@
    "updated_at": "2026-10-23T15:50:14+00:00",
    "url": "https://marioadolfo.com/homem-e-morto-com-cerca-de-10-tiros-no-bairro-compensa/",
    "url_hash": "a18387eb905a19e9848cb3ed"
+  },
+  "guid:6adb814c52c09500099de47c": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "O crime foi cometido por dois homens armados e registrado por câmeras de vídeo",
+   "discovered_at": "2026-10-23T16:00:22+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6adb814c52c09500099de47c",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c3af66a3-b928-4b70-b5e6-2ce922a20eac.jpeg",
+   "key": "guid:6adb814c52c09500099de47c",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-23T15:54:16+00:00",
+   "status": "pending",
+   "title": "Vídeo: Homem é perseguido e morto a tiros em campo de futebol em Manaus",
+   "updated_at": "2026-10-23T16:00:22+00:00",
+   "url": "https://marioadolfo.com/video-homem-e-perseguido-e-morto-a-tiros-em-campo-de-futebol-em-manaus/",
+   "url_hash": "bdeea97ac7bcafb786f60e39"
+  },
+  "guid:6adb834b52c09500099de49a": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Oportunidades são para trabalhar e morar em municípios do Paraná e de Santa Catarina; entrevistas serão realizadas em Manaus na segunda-feira (26/10)",
+   "discovered_at": "2026-10-23T16:00:22+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6adb834b52c09500099de49a",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2db45cb4-1a4d-4c1e-a8eb-dc108b11ab76.jpeg",
+   "key": "guid:6adb834b52c09500099de49a",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-23T15:55:42+00:00",
+   "status": "pending",
+   "title": "Sine Amazonas realiza seleção com mais de 300 vagas para área operacional",
+   "updated_at": "2026-10-23T16:00:22+00:00",
+   "url": "https://marioadolfo.com/sine-amazonas-realiza-selecao-com-mais-de-300-vagas-para-area-operacional/",
+   "url_hash": "68b0d679fbe89c8d2685ab36"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-23T15:50:13+00:00",
-  "saved_at": "2026-10-23T15:50:14+00:00"
+  "last_run_at": "2026-10-23T16:00:20+00:00",
+  "saved_at": "2026-10-23T16:00:22+00:00"
  },
  "schema": 1
 }
