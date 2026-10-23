@@ -8569,13 +8569,55 @@
    "updated_at": "2026-10-23T17:40:15+00:00",
    "url": "https://marioadolfo.com/voto-no-2o-turno-pode-atualizar-prova-de-vida-do-inss/",
    "url_hash": "685bd08d6f5ba859ea55f064"
+  },
+  "guid:6adb9ca352c09500099de512": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Projeto da Prefeitura de Manaus prevê retirar cabos aéreos, renovar o espaço público e preservar as 17 árvores da rua.",
+   "discovered_at": "2026-10-23T17:50:14+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6adb9ca352c09500099de512",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/7cc8cb4c-9133-4916-a637-f318c52a045f.jpg",
+   "key": "guid:6adb9ca352c09500099de512",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-23T17:44:19+00:00",
+   "status": "pending",
+   "title": "Obra na Ferreira Pena avança com calçamento e instalação de infraestrutura subterrânea",
+   "updated_at": "2026-10-23T17:50:14+00:00",
+   "url": "https://marioadolfo.com/obra-na-ferreira-pena-avanca-com-calcamento-e-instalacao-de-infraestrutura-subterranea/",
+   "url_hash": "e63f6091ecd4a6a9655823a4"
+  },
+  "guid:6adb9cdc52c09500099de51a": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A Maternidade Dr. Moura Tapajóz mantém plantão 24 horas para assistência hospitalar a mulheres durante a gravidez, parto e puerpério",
+   "discovered_at": "2026-10-23T17:50:14+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6adb9cdc52c09500099de51a",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/3ad9ae13-a523-4b71-8a76-7434580727ea.jpeg",
+   "key": "guid:6adb9cdc52c09500099de51a",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-23T17:48:18+00:00",
+   "status": "pending",
+   "title": "Prefeitura garante serviços essenciais no aniversário de Manaus e no ponto facultativo do Servidor",
+   "updated_at": "2026-10-23T17:50:14+00:00",
+   "url": "https://marioadolfo.com/prefeitura-garante-servicos-essenciais-no-aniversario-de-manaus-e-no-ponto-facultativo-do-servidor/",
+   "url_hash": "350d4a2454c60813b9c3a387"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-23T17:40:15+00:00",
-  "saved_at": "2026-10-23T17:40:16+00:00"
+  "last_run_at": "2026-10-23T17:50:13+00:00",
+  "saved_at": "2026-10-23T17:50:15+00:00"
  },
  "schema": 1
 }
