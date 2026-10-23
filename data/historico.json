@@ -8339,6 +8339,27 @@
    "url": "https://marioadolfo.com/tre-am-e-ssp-am-revogam-lei-seca-em-manaus-para-o-segundo-turno/",
    "url_hash": "0e46242ef859b381e5cbe246"
   },
+  "guid:6adb798252c09500099de404": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Empresas do setor manterão equipes de sobreaviso durante votação",
+   "discovered_at": "2026-10-23T15:40:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6adb798252c09500099de404",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/328a0d50-b06d-4d53-af85-648efa297970.jpg",
+   "key": "guid:6adb798252c09500099de404",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-23T15:36:42+00:00",
+   "status": "pending",
+   "title": "ONS fará operação especial para garantir energia no segundo turno",
+   "updated_at": "2026-10-23T15:40:15+00:00",
+   "url": "https://marioadolfo.com/ons-fara-operacao-especial-para-garantir-energia-no-segundo-turno/",
+   "url_hash": "c0f3c93f9ce17c005f053d43"
+  },
   "guid:6adb7c6452c09500099de411": {
    "attempts": [],
    "category": "Amazonas",
@@ -8359,13 +8380,55 @@
    "updated_at": "2026-10-23T15:30:18+00:00",
    "url": "https://marioadolfo.com/ambar-energia-reforca-operacao-para-o-segundo-turno-das-eleicoes-no-amazonas/",
    "url_hash": "6523470945694328a5af4d1d"
+  },
+  "guid:6adb7d8c52c09500099de42f": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "A vítima fatal foi identificada como Ezequias Glória da Silva, que foi atingida por golpes de terçado",
+   "discovered_at": "2026-10-23T15:40:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6adb7d8c52c09500099de42f",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ce478034-6ed8-419e-a28f-1ed08be492a1.jpeg",
+   "key": "guid:6adb7d8c52c09500099de42f",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-23T15:37:22+00:00",
+   "status": "pending",
+   "title": "Confusão acaba em morte, homem baleado e mulher ferida em Maués",
+   "updated_at": "2026-10-23T15:40:15+00:00",
+   "url": "https://marioadolfo.com/confusao-acaba-em-morte-homem-baleado-e-mulher-ferida-em-maues/",
+   "url_hash": "838c60d4c281888f558801bc"
+  },
+  "guid:6adb7f2352c09500099de44d": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Ações para garantir votação e apuração vão chegar a 306 municípios",
+   "discovered_at": "2026-10-23T15:40:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6adb7f2352c09500099de44d",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/660466ae-a759-4636-bc21-6de35c2e27e1.jpg",
+   "key": "guid:6adb7f2352c09500099de44d",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-23T15:39:23+00:00",
+   "status": "pending",
+   "title": "Forças Armadas mobilizam 25 mil militares para o segundo turno",
+   "updated_at": "2026-10-23T15:40:15+00:00",
+   "url": "https://marioadolfo.com/forcas-armadas-mobilizam-25-mil-militares-para-o-segundo-turno/",
+   "url_hash": "a5b641830f0c70ed85548d24"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-23T15:30:17+00:00",
-  "saved_at": "2026-10-23T15:30:18+00:00"
+  "last_run_at": "2026-10-23T15:40:14+00:00",
+  "saved_at": "2026-10-23T15:40:15+00:00"
  },
  "schema": 1
 }
