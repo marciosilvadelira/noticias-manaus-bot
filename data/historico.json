@@ -7455,11 +7455,19 @@
    "url_hash": "f08a88f98bcbbec8807ca905"
   },
   "guid:6ada181f52c09500099de02c": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-23T04:10:21+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1516059000544991",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Em algumas estações monitoradas, o volume de chuvas ficou abaixo do esperado para o período e esse comportamento deve seguir nas próximas semanas",
    "discovered_at": "2026-10-22T14:10:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1516059000544991",
    "formats": [
     "link"
    ],
@@ -7467,11 +7475,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/98ebed91-cfb2-425a-bc6a-66e7c95d3276.jpg",
    "key": "guid:6ada181f52c09500099de02c",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1516059000544991"
+   },
    "source_published_at": "2026-10-22T14:07:34+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Níveis estão dentro da normalidade no rio Negro e em outros rios da Bacia do Amazonas",
-   "updated_at": "2026-10-22T14:10:17+00:00",
+   "updated_at": "2026-10-23T04:10:21+00:00",
    "url": "https://marioadolfo.com/niveis-estao-dentro-da-normalidade-no-rio-negro-e-em-outros-rios-da-bacia-do-amazonas/",
    "url_hash": "2961a0af35906e9e15ce260b"
   },
@@ -7497,11 +7507,19 @@
    "url_hash": "b5adcd2e2c814558997d94d7"
   },
   "guid:6ada270f52c09500099de061": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-23T04:10:48+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1516059267211631",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Polícia apreendeu arma, munições, celulares e drogas durante a ocorrência na Zona Oeste da capital.",
    "discovered_at": "2026-10-22T15:10:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1516059267211631",
    "formats": [
     "link"
    ],
@@ -7509,20 +7527,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/333cb565-d243-4f45-8f70-b38a7f81b833.webp",
    "key": "guid:6ada270f52c09500099de061",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1516059267211631"
+   },
    "source_published_at": "2026-10-22T15:09:58+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Quatro homens são presos suspeitos de furto a casa no Tarumã, em Manaus",
-   "updated_at": "2026-10-22T15:10:16+00:00",
+   "updated_at": "2026-10-23T04:10:48+00:00",
    "url": "https://marioadolfo.com/quatro-homens-sao-presos-suspeitos-de-furto-a-casa-no-taruma-em-manaus/",
    "url_hash": "3bce645bcb30d9a878eb470c"
   },
   "guid:6ada2cf352c09500099de093": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-23T04:11:15+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1516059717211586",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Candidato propõe ampliar o diálogo com os povos originários, incentivar a produção indígena e utilizar sua articulação em Brasília para buscar investimentos",
    "discovered_at": "2026-10-22T15:40:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1516059717211586",
    "formats": [
     "link"
    ],
@@ -7530,20 +7558,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/400a127e-1416-4313-a5ba-8ae3cc88794f.jpeg",
    "key": "guid:6ada2cf352c09500099de093",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1516059717211586"
+   },
    "source_published_at": "2026-10-22T15:36:01+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Omar defende fortalecimento de políticas indígenas no Amazonas",
-   "updated_at": "2026-10-22T15:40:17+00:00",
+   "updated_at": "2026-10-23T04:11:15+00:00",
    "url": "https://marioadolfo.com/omar-defende-fortalecimento-de-politicas-indigenas-e-destaca-experiencia-para-governar-o-am/",
    "url_hash": "5b98f1f6bd11f82d365f6653"
   },
   "guid:6ada2e0352c09500099de0aa": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-23T04:11:43+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1516060000544891",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Resultado operacional do terceiro trimestre reflete o avanço do Complexo Azulão, com os primeiros meses de operação comercial da UTE Azulão I e a ampliação da atuação da companhia na Região Norte",
    "discovered_at": "2026-10-22T15:50:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1516060000544891",
    "formats": [
     "link"
    ],
@@ -7551,11 +7589,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/db238b20-42e1-422f-a6ba-ea8112f53c3d.jpeg",
    "key": "guid:6ada2e0352c09500099de0aa",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1516060000544891"
+   },
    "source_published_at": "2026-10-22T15:43:10+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Amazonas reforça papel estratégico no crescimento das operações de gás e energia da Eneva",
-   "updated_at": "2026-10-22T15:50:15+00:00",
+   "updated_at": "2026-10-23T04:11:43+00:00",
    "url": "https://marioadolfo.com/amazonas-reforca-papel-estrategico-no-crescimento-das-operacoes-de-gas-e-energia-da-eneva/",
    "url_hash": "15b4f81e7af2c3a5665a3518"
   },
@@ -7707,11 +7747,19 @@
    "url_hash": "a31cfdc311d1259dc2984593"
   },
   "guid:6ada561552c09500099de187": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-23T04:12:08+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1516060393878185",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "A finalidade é orientar sobre a alocação de recursos para que as obras sejam finalizadas",
    "discovered_at": "2026-10-22T18:40:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1516060393878185",
    "formats": [
     "link"
    ],
@@ -7719,11 +7767,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/1f898b96-170b-4094-9f37-1939d3aac34b.jpg",
    "key": "guid:6ada561552c09500099de187",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1516060393878185"
+   },
    "source_published_at": "2026-10-22T16:00:00+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "TCU inclui BR-319 na lista de obras rodoviárias prioritárias",
-   "updated_at": "2026-10-22T18:40:18+00:00",
+   "updated_at": "2026-10-23T04:12:08+00:00",
    "url": "https://marioadolfo.com/tcu-inclui-br-319-na-lista-de-obras-rodoviarias-prioritarias/",
    "url_hash": "863401a27574bf4eddca2c08"
   },
@@ -8046,8 +8096,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-23T04:00:18+00:00",
-  "saved_at": "2026-10-23T04:02:11+00:00"
+  "last_run_at": "2026-10-23T04:10:14+00:00",
+  "saved_at": "2026-10-23T04:12:08+00:00"
  },
  "schema": 1
 }
