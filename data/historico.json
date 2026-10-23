@@ -8183,12 +8183,12 @@
    "guid": "6ada833c52c09500099de308",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/23be1eb6-7e2b-40d8-a79a-daeb23703bbd.jpeg",
    "key": "guid:6ada833c52c09500099de308",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-22T21:46:51+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Ministro acompanha instalação da primeira estaca do novo Porto Manaus Moderna",
-   "updated_at": "2026-10-22T21:50:14+00:00",
+   "updated_at": "2026-10-23T21:50:18+00:00",
    "url": "https://marioadolfo.com/ministro-acompanha-instalacao-da-primeira-estaca-do-novo-porto-manaus-moderna/",
    "url_hash": "fea5682a1090d3ef802f50b2"
   },
@@ -8826,8 +8826,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-23T21:40:15+00:00",
-  "saved_at": "2026-10-23T21:40:16+00:00"
+  "last_run_at": "2026-10-23T21:50:17+00:00",
+  "saved_at": "2026-10-23T21:50:18+00:00"
  },
  "schema": 1
 }
