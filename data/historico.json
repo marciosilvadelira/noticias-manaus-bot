@@ -7734,11 +7734,19 @@
    "url_hash": "85b1dadcb2725927ca30dedb"
   },
   "guid:6ada49b452c09500099de140": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-23T04:30:24+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1516069993877225",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Ação é reforçada durante o período de estiagem para retirar o máximo de resíduos",
    "discovered_at": "2026-10-22T17:40:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1516069993877225",
    "formats": [
     "link"
    ],
@@ -7746,20 +7754,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/7e5be733-3a64-4f82-84b3-7f2dae7c6c45.jpg",
    "key": "guid:6ada49b452c09500099de140",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1516069993877225"
+   },
    "source_published_at": "2026-10-22T17:38:48+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Prefeitura mobiliza 500 trabalhadores e intensifica limpeza na orla de Manaus",
-   "updated_at": "2026-10-22T17:40:16+00:00",
+   "updated_at": "2026-10-23T04:30:24+00:00",
    "url": "https://marioadolfo.com/prefeitura-mobiliza-500-trabalhadores-e-intensifica-limpeza-na-orla-de-manaus/",
    "url_hash": "34da7838dd1f7804db021908"
   },
   "guid:6ada4eee52c09500099de155": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-23T04:30:50+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1516070190543872",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Evento terá 12 espaços, mais de 50 horas de programação e atividades gratuitas para todas as idades.",
    "discovered_at": "2026-10-22T18:10:19+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1516070190543872",
    "formats": [
     "link"
    ],
@@ -7767,20 +7785,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d8f5fb6e-8849-4fb7-b1c5-2db3f0a9e26e.jpg",
    "key": "guid:6ada4eee52c09500099de155",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1516070190543872"
+   },
    "source_published_at": "2026-10-22T18:07:00+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Milton Hatoum, Ailton Krenak e Jeferson Tenório estarão na Feira de Livros do Sesc",
-   "updated_at": "2026-10-22T18:10:19+00:00",
+   "updated_at": "2026-10-23T04:30:50+00:00",
    "url": "https://marioadolfo.com/milton-hatoum-ailton-krenak-e-jeferson-tenorio-estarao-na-feira-de-livros-do-sesc/",
    "url_hash": "a21a981247ca2fb86b9368f2"
   },
   "guid:6ada550152c09500099de16a": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-23T04:31:15+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1516070433877181",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Camila foi morta a tiros em novembro de 2023, em um condomínio no bairro Lago Azul. O suspeito é o policial militar Olímpio Gomes Maia, então companheiro da vítima.",
    "discovered_at": "2026-10-22T18:30:19+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1516070433877181",
    "formats": [
     "link"
    ],
@@ -7788,11 +7816,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/30746917-a910-4dd9-ab1d-441a5df6c8c7.jpg",
    "key": "guid:6ada550152c09500099de16a",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1516070433877181"
+   },
    "source_published_at": "2026-10-22T18:28:45+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Julgamento de policial acusado de matar Camila Fritz é adiado em Manaus",
-   "updated_at": "2026-10-22T18:30:19+00:00",
+   "updated_at": "2026-10-23T04:31:15+00:00",
    "url": "https://marioadolfo.com/julgamento-de-acusado-de-matar-camila-fritz-e-adiado-em-manaus/",
    "url_hash": "a31cfdc311d1259dc2984593"
   },
@@ -7828,11 +7858,19 @@
    "url_hash": "863401a27574bf4eddca2c08"
   },
   "guid:6ada56b852c09500099de1a0": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-23T04:31:41+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1516070713877153",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Promotoria local mobilizou prefeitura e Secretarias Municipais de Saúde, Educação, Cultura e Meio Ambiente",
    "discovered_at": "2026-10-22T18:50:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1516070713877153",
    "formats": [
     "link"
    ],
@@ -7840,20 +7878,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/9c2685b4-eab0-45a5-b9ce-0329c298dcc3.jpeg",
    "key": "guid:6ada56b852c09500099de1a0",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1516070713877153"
+   },
    "source_published_at": "2026-10-22T18:44:42+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Em Borba, MP recomenda medidas protetivas contra incêndios florestais e queimadas",
-   "updated_at": "2026-10-22T18:50:17+00:00",
+   "updated_at": "2026-10-23T04:31:41+00:00",
    "url": "https://marioadolfo.com/em-borba-mp-recomenda-medidas-protetivas-contra-incendios-florestais-e-queimadas/",
    "url_hash": "debec8b4b57f0cca8b881427"
   },
   "guid:6ada593752c09500099de1a8": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-23T04:32:06+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1516071083877116",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Decisão dá prazo de 60 dias para o hospital apresentar um plano para reorganizar as finanças e prevê suspensão temporária de cobranças judiciais",
    "discovered_at": "2026-10-22T18:50:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1516071083877116",
    "formats": [
     "link"
    ],
@@ -7861,11 +7909,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4924bfdc-267f-4b40-ae74-185ac5d65055.jpg",
    "key": "guid:6ada593752c09500099de1a8",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1516071083877116"
+   },
    "source_published_at": "2026-10-22T18:45:16+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Justiça aceita recuperação judicial do Hospital Beneficente Portuguesa em Manaus",
-   "updated_at": "2026-10-22T18:50:17+00:00",
+   "updated_at": "2026-10-23T04:32:06+00:00",
    "url": "https://marioadolfo.com/justica-aceita-recuperacao-judicial-do-hospital-beneficente-portuguesa-em-manaus/",
    "url_hash": "3bbfff62b6c6c9823e0e902e"
   },
@@ -8146,8 +8196,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-23T04:20:15+00:00",
-  "saved_at": "2026-10-23T04:22:07+00:00"
+  "last_run_at": "2026-10-23T04:30:18+00:00",
+  "saved_at": "2026-10-23T04:32:06+00:00"
  },
  "schema": 1
 }
