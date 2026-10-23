@@ -8317,13 +8317,34 @@
    "updated_at": "2026-10-23T14:50:15+00:00",
    "url": "https://marioadolfo.com/prefeitura-de-manaus-abre-inscricoes-para-nova-turma-do-empretec-com-25-vagas-2/",
    "url_hash": "c37741ea37c1801a31cdc2be"
+  },
+  "guid:6adb788052c09500099de3eb": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "No interior do Amazonas, caberá aos juízes eleitorais decidir sobre a restrição ao consumo de bebidas alcoólicas",
+   "discovered_at": "2026-10-23T15:20:20+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6adb788052c09500099de3eb",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b86223d7-030f-483a-8680-a3bc0a63f2d6.webp",
+   "key": "guid:6adb788052c09500099de3eb",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-23T15:10:45+00:00",
+   "status": "pending",
+   "title": "TRE-AM e SSP-AM revogam Lei Seca em Manaus para o segundo turno",
+   "updated_at": "2026-10-23T15:20:20+00:00",
+   "url": "https://marioadolfo.com/tre-am-e-ssp-am-revogam-lei-seca-em-manaus-para-o-segundo-turno/",
+   "url_hash": "0e46242ef859b381e5cbe246"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-23T15:10:17+00:00",
-  "saved_at": "2026-10-23T15:10:19+00:00"
+  "last_run_at": "2026-10-23T15:20:16+00:00",
+  "saved_at": "2026-10-23T15:20:21+00:00"
  },
  "schema": 1
 }
