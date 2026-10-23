@@ -7300,11 +7300,19 @@
    "url_hash": "7288dd17c59d3c46df59dec4"
   },
   "guid:6ad9f83952c09500099ddf62": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-23T04:00:31+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1516053073878917",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Representantes indígenas confirmaram a regularização do transporte no segundo turno das Eleições",
    "discovered_at": "2026-10-22T12:00:23+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1516053073878917",
    "formats": [
     "link"
    ],
@@ -7312,20 +7320,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c078aac1-dfeb-451a-ae43-4e5146fed5d8.jpg",
    "key": "guid:6ad9f83952c09500099ddf62",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1516053073878917"
+   },
    "source_published_at": "2026-10-22T11:58:15+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "TRE-AM e lideranças indígenas alinham transporte de eleitores do Vale do Javari para o segundo turno",
-   "updated_at": "2026-10-22T12:00:23+00:00",
+   "updated_at": "2026-10-23T04:00:31+00:00",
    "url": "https://marioadolfo.com/tre-am-e-liderancas-indigenas-alinham-transporte-de-eleitores-do-vale-do-javari-para-o-segundo-turno/",
    "url_hash": "558a4d96725470ed47923ba5"
   },
   "guid:6ada00b652c09500099ddf8f": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-23T04:00:56+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1516053287212229",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Tomé Franca visita também o Estaleiro Juruá, em Iranduba, e as obras no Aeroporto de Manaus",
    "discovered_at": "2026-10-22T12:30:19+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1516053287212229",
    "formats": [
     "link"
    ],
@@ -7333,20 +7351,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2b3bdff6-44e6-4055-a511-0bf3e30a6196.jpg",
    "key": "guid:6ada00b652c09500099ddf8f",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1516053287212229"
+   },
    "source_published_at": "2026-10-22T12:28:42+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Ministro acompanha obras do terminal Manaus Moderna nesta quinta-feira (22)",
-   "updated_at": "2026-10-22T12:30:19+00:00",
+   "updated_at": "2026-10-23T04:00:56+00:00",
    "url": "https://marioadolfo.com/ministro-acompanha-obras-do-terminal-manaus-moderna-nesta-quinta-feira-22/",
    "url_hash": "31438f1da95a71080f7f18d6"
   },
   "guid:6ada035952c09500099ddfae": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-23T04:01:21+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1516053647212193",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Campanha de Lula deu prazo até as 11h de quinta (22) para o adversário",
    "discovered_at": "2026-10-22T12:50:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1516053647212193",
    "formats": [
     "link"
    ],
@@ -7354,20 +7382,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d64eef51-9616-418b-9e65-083642d1adfc.webp",
    "key": "guid:6ada035952c09500099ddfae",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1516053647212193"
+   },
    "source_published_at": "2026-10-22T12:40:34+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Lula aceita proposta de Flávio para quebra de sigilo bancário",
-   "updated_at": "2026-10-22T12:50:17+00:00",
+   "updated_at": "2026-10-23T04:01:21+00:00",
    "url": "https://marioadolfo.com/lula-aceita-proposta-de-flavio-para-quebra-de-sigilo-bancario/",
    "url_hash": "739573aacf72a790f7c80727"
   },
   "guid:6ada0af252c09500099ddfd0": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-23T04:01:45+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1516053910545500",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Dito & Feito",
    "description": "“Para que a sociedade brasileira saiba quem é que é ladrão nesse país, quem é que é corrupto. E eu quero ver se ele tem coragem”, desafia Lula",
    "discovered_at": "2026-10-22T13:30:19+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1516053910545500",
    "formats": [
     "link"
    ],
@@ -7375,20 +7413,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/bae1b5da-f368-4913-b92d-4d196474dc9c.jpg",
    "key": "guid:6ada0af252c09500099ddfd0",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1516053910545500"
+   },
    "source_published_at": "2026-10-22T13:22:44+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Dito & Feito: QUEBRA TEU SIGILO, FLÁVIO!",
-   "updated_at": "2026-10-22T13:30:19+00:00",
+   "updated_at": "2026-10-23T04:01:45+00:00",
    "url": "https://marioadolfo.com/dito-feito-quebra-teu-sigilo-flavio/",
    "url_hash": "c5d3df2d08eeac7255df8583"
   },
   "guid:6ada169752c09500099de016": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-23T04:02:11+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1516054133878811",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "É também o último dia para a divulgação de propaganda na internet.",
    "discovered_at": "2026-10-22T14:10:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1516054133878811",
    "formats": [
     "link"
    ],
@@ -7396,11 +7444,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/55d8580f-8669-4df4-87a4-8d50262198df.jpg",
    "key": "guid:6ada169752c09500099de016",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1516054133878811"
+   },
    "source_published_at": "2026-10-22T14:02:03+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Termina hoje prazo para realização de comícios e ações de campanha",
-   "updated_at": "2026-10-22T14:10:17+00:00",
+   "updated_at": "2026-10-23T04:02:11+00:00",
    "url": "https://marioadolfo.com/termina-hoje-prazo-para-realizacao-de-comicios-e-acoes-de-campanha/",
    "url_hash": "f08a88f98bcbbec8807ca905"
   },
@@ -7996,8 +8046,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-23T03:50:15+00:00",
-  "saved_at": "2026-10-23T03:50:16+00:00"
+  "last_run_at": "2026-10-23T04:00:18+00:00",
+  "saved_at": "2026-10-23T04:02:11+00:00"
  },
  "schema": 1
 }
