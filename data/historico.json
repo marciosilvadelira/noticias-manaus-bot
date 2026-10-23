@@ -7486,11 +7486,19 @@
    "url_hash": "2961a0af35906e9e15ce260b"
   },
   "guid:6ada243952c09500099de042": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-23T04:20:23+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1516064837211074",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "No estado, quase 46% dos MEIs deixaram de pagar algum boleto mensal, enquanto 72% têm interesse em vender para o governo, segundo pesquisa do Sebrae",
    "discovered_at": "2026-10-22T16:10:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1516064837211074",
    "formats": [
     "link"
    ],
@@ -7498,11 +7506,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f8ac9972-a9c0-4707-b04e-9e5f755532cd.jpg",
    "key": "guid:6ada243952c09500099de042",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1516064837211074"
+   },
    "source_published_at": "2026-10-22T16:00:42+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Prospera MEI: no Amazonas, 133 mil microempreendedores poderão ser beneficiados",
-   "updated_at": "2026-10-22T16:10:17+00:00",
+   "updated_at": "2026-10-23T04:20:23+00:00",
    "url": "https://marioadolfo.com/prospera-mei-no-amazonas-133-mil-microempreendedores-poderao-ser-beneficiados/",
    "url_hash": "b5adcd2e2c814558997d94d7"
   },
@@ -7600,11 +7610,19 @@
    "url_hash": "15b4f81e7af2c3a5665a3518"
   },
   "guid:6ada340052c09500099de0c0": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-23T04:20:49+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1516065063877718",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Mais de 4 mil urnas passaram por carga de dados, testes e lacração para o 2º turno, marcado para domingo (25)",
    "discovered_at": "2026-10-22T16:10:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1516065063877718",
    "formats": [
     "link"
    ],
@@ -7612,20 +7630,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f07b7020-cff3-4f9e-bcd7-4c1bfa547f59.jpeg",
    "key": "guid:6ada340052c09500099de0c0",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1516065063877718"
+   },
    "source_published_at": "2026-10-22T16:06:58+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Eleições 2026: TRE-AM conclui preparação das urnas eletrônicas em Manaus",
-   "updated_at": "2026-10-22T16:10:17+00:00",
+   "updated_at": "2026-10-23T04:20:49+00:00",
    "url": "https://marioadolfo.com/eleicoes-2026-tre-am-conclui-preparacao-das-urnas-eletronicas-em-manaus/",
    "url_hash": "65c826ee6001b6957723b54a"
   },
   "guid:6ada34be52c09500099de0ee": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-23T04:21:15+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1516065327211025",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Mais de 4 mil urnas passaram por carga de dados, testes e lacração para o 2º turno das Eleições 2026",
    "discovered_at": "2026-10-22T16:10:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1516065327211025",
    "formats": [
     "link"
    ],
@@ -7633,20 +7661,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0d0c6e20-ed7f-4093-808a-a3f7e65e040e.jpeg",
    "key": "guid:6ada34be52c09500099de0ee",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1516065327211025"
+   },
    "source_published_at": "2026-10-22T16:08:44+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "TRE-AM conclui preparação das urnas eletrônicas na capital",
-   "updated_at": "2026-10-22T16:10:17+00:00",
+   "updated_at": "2026-10-23T04:21:15+00:00",
    "url": "https://marioadolfo.com/tre-am-conclui-preparacao-das-urnas-eletronicas-na-capital/",
    "url_hash": "0244097a7ea684a6d4d04536"
   },
   "guid:6ada350a52c09500099de103": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-23T04:21:41+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1516065523877672",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "DPU pediu uma liminar de abrangência nacional",
    "discovered_at": "2026-10-22T16:20:20+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1516065523877672",
    "formats": [
     "link"
    ],
@@ -7654,20 +7692,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c94d7bf2-c355-42a6-8b1e-15cb22cd0bf5.webp",
    "key": "guid:6ada350a52c09500099de103",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1516065523877672"
+   },
    "source_published_at": "2026-10-22T16:10:31+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Defensoria Pública pede ao STF transporte gratuito no 2º turno",
-   "updated_at": "2026-10-22T16:20:20+00:00",
+   "updated_at": "2026-10-23T04:21:41+00:00",
    "url": "https://marioadolfo.com/defensoria-publica-pede-ao-stf-transporte-gratuito-no-2o-turno/",
    "url_hash": "0840653ecc3f4d5c9a6a58c7"
   },
   "guid:6ada44ee52c09500099de129": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-23T04:22:07+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1516065770544314",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Canais no AM e em RR podem ser acionados em casos de ameaça de demissão, transporte ilegal de trabalhadores, retaliação ou impedimento para votar",
    "discovered_at": "2026-10-22T17:19:56+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1516065770544314",
    "formats": [
     "link"
    ],
@@ -7675,11 +7723,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a29de28e-2168-4c39-a1dc-455c361f47de.jpeg",
    "key": "guid:6ada44ee52c09500099de129",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1516065770544314"
+   },
    "source_published_at": "2026-10-22T17:18:17+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Plantão vai atender trabalhadores vítimas de assédio eleitoral no 2º turno das Eleições 2026",
-   "updated_at": "2026-10-22T17:19:56+00:00",
+   "updated_at": "2026-10-23T04:22:07+00:00",
    "url": "https://marioadolfo.com/plantao-vai-atender-trabalhadores-vitimas-de-assedio-eleitoral-no-2o-turno-das-eleicoes-2026/",
    "url_hash": "85b1dadcb2725927ca30dedb"
   },
@@ -8096,8 +8146,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-23T04:10:14+00:00",
-  "saved_at": "2026-10-23T04:12:08+00:00"
+  "last_run_at": "2026-10-23T04:20:15+00:00",
+  "saved_at": "2026-10-23T04:22:07+00:00"
  },
  "schema": 1
 }
