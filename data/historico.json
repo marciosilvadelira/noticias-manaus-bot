@@ -8758,13 +8758,34 @@
    "updated_at": "2026-10-23T20:30:19+00:00",
    "url": "https://marioadolfo.com/seca-afeta-113-mil-familias-e-deixa-46-cidades-em-emergencia-no-amazonas/",
    "url_hash": "6bb650857e52e45046d854c4"
+  },
+  "guid:6adbc3e752c09500099de62c": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Serviço oferece acompanhamento terapêutico a 250 crianças e contribui para o desenvolvimento de habilidades motoras, cognitivas, comunicativas e sociais",
+   "discovered_at": "2026-10-23T20:40:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6adbc3e752c09500099de62c",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/62db74e9-3f9e-4a88-af71-9eeea0a5bb24.jpeg",
+   "key": "guid:6adbc3e752c09500099de62c",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-23T20:32:47+00:00",
+   "status": "pending",
+   "title": "Mais de 74 mil sessões terapêuticas foram realizadas no Caic TEA Gilson Moreira",
+   "updated_at": "2026-10-23T20:40:16+00:00",
+   "url": "https://marioadolfo.com/mais-de-74-mil-sessoes-terapeuticas-foram-realizadas-no-caic-tea-gilson-moreira/",
+   "url_hash": "63613954049ca6ba204ffd67"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-23T20:30:51+00:00",
-  "saved_at": "2026-10-23T20:30:52+00:00"
+  "last_run_at": "2026-10-23T20:40:15+00:00",
+  "saved_at": "2026-10-23T20:40:17+00:00"
  },
  "schema": 1
 }
