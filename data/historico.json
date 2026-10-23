@@ -8162,12 +8162,12 @@
    "guid": "6ada7c3852c09500099de2de",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/bed88dcf-594a-413d-b5aa-594ee531a97d.jpg",
    "key": "guid:6ada7c3852c09500099de2de",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-22T21:19:48+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Ônibus serão gratuitos em Manaus no segundo turno das Eleições 2026",
-   "updated_at": "2026-10-22T21:20:16+00:00",
+   "updated_at": "2026-10-23T21:20:15+00:00",
    "url": "https://marioadolfo.com/onibus-serao-gratuitos-em-manaus-no-segundo-turno-das-eleicoes-2026/",
    "url_hash": "f37ee332b9083195671ff354"
   },
@@ -8779,13 +8779,34 @@
    "updated_at": "2026-10-23T20:40:16+00:00",
    "url": "https://marioadolfo.com/mais-de-74-mil-sessoes-terapeuticas-foram-realizadas-no-caic-tea-gilson-moreira/",
    "url_hash": "63613954049ca6ba204ffd67"
+  },
+  "guid:6adbce2e52c09500099de6bc": {
+   "attempts": [],
+   "category": "Parintins",
+   "description": "Os entorpecentes estariam escondidos em contêineres da embarcação no Porto do Dodó",
+   "discovered_at": "2026-10-23T21:20:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6adbce2e52c09500099de6bc",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/46d9f382-48f4-4e0e-8335-868061404f00.png",
+   "key": "guid:6adbce2e52c09500099de6bc",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-23T21:16:43+00:00",
+   "status": "pending",
+   "title": "Mais de 72 kg de drogas são apreendidos no porto de Parintins",
+   "updated_at": "2026-10-23T21:20:15+00:00",
+   "url": "https://marioadolfo.com/mais-de-72-kg-de-drogas-sao-apreendidos-no-porto-de-parintins/",
+   "url_hash": "8f97126ec45bfae129c453ec"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-23T21:10:15+00:00",
-  "saved_at": "2026-10-23T21:10:17+00:00"
+  "last_run_at": "2026-10-23T21:20:14+00:00",
+  "saved_at": "2026-10-23T21:20:16+00:00"
  },
  "schema": 1
 }
