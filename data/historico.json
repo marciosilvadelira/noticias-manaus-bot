@@ -8036,12 +8036,12 @@
    "guid": "6ada636552c09500099de24a",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4a327e72-3ba1-408d-92a2-6ba2f1cd8897.jpg",
    "key": "guid:6ada636552c09500099de24a",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-22T19:32:51+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "TJAM celebra posse de três desembargadores em sessão solene",
-   "updated_at": "2026-10-22T19:40:18+00:00",
+   "updated_at": "2026-10-23T19:40:15+00:00",
    "url": "https://marioadolfo.com/tjam-celebra-posse-de-tres-desembargadores-em-sessao-solene/",
    "url_hash": "75c3847185500e9f27e3f36b"
   },
@@ -8057,12 +8057,12 @@
    "guid": "6ada652c52c09500099de263",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5c065f22-db40-453c-8b5a-7dd2d40f58bf.jpeg",
    "key": "guid:6ada652c52c09500099de263",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-22T19:38:14+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Menor preço da botija de gás de 13kg em Manaus é R$ 121, aponta pesquisa",
-   "updated_at": "2026-10-22T19:40:18+00:00",
+   "updated_at": "2026-10-23T19:40:15+00:00",
    "url": "https://marioadolfo.com/menor-preco-da-botija-de-gas-de-13kg-em-manaus-e-r-121-aponta-pesquisa/",
    "url_hash": "3b65a36ce64943be09bc0e3f"
   },
@@ -8674,13 +8674,34 @@
    "updated_at": "2026-10-23T18:50:15+00:00",
    "url": "https://marioadolfo.com/ministro-do-tse-proibe-suspensao-do-canal-exercito-do-lula/",
    "url_hash": "60be076b6d7bcb2a35e1e959"
+  },
+  "guid:6adbb7ba52c09500099de5be": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Não cabe ao TSE fiscalizar \"desafios\" dos candidatos, diz ministro",
+   "discovered_at": "2026-10-23T19:40:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6adbb7ba52c09500099de5be",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5f6b8540-9984-4d64-b867-fb4a3ea9274a.jpg",
+   "key": "guid:6adbb7ba52c09500099de5be",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-23T19:39:16+00:00",
+   "status": "pending",
+   "title": "Mendonça reitera que Lula e Flávio podem abrir sigilos por ato próprio",
+   "updated_at": "2026-10-23T19:40:15+00:00",
+   "url": "https://marioadolfo.com/mendonca-reitera-que-lula-e-flavio-podem-abrir-sigilos-por-ato-proprio/",
+   "url_hash": "6e427152cddab86e23f2b144"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-23T19:30:17+00:00",
-  "saved_at": "2026-10-23T19:30:18+00:00"
+  "last_run_at": "2026-10-23T19:40:15+00:00",
+  "saved_at": "2026-10-23T19:40:16+00:00"
  },
  "schema": 1
 }
