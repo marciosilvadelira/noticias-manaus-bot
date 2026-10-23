@@ -8212,13 +8212,34 @@
    "updated_at": "2026-10-23T12:20:17+00:00",
    "url": "https://marioadolfo.com/justica-condena-funcionarios-de-maria-do-carmo-por-pagar-conta-de-luz-da-fametro-com-dinheiro-da-seduc/",
    "url_hash": "c0830acdf2b01c1bb7b37c19"
+  },
+  "guid:6adb522552c09500099de351": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Apesar da diferença de quatro pontos percentuais, os candidatos estão tecnicamente empatados, considerando a margem de erro de dois pontos percentuais para mais ou para menos.",
+   "discovered_at": "2026-10-23T12:30:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6adb522552c09500099de351",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/8a434e70-6861-47e8-8cfa-53fb39e4bdb8.jpg",
+   "key": "guid:6adb522552c09500099de351",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-23T12:28:51+00:00",
+   "status": "pending",
+   "title": "Flávio Bolsonaro tem 52% e Lula, 48% dos votos válidos, aponta Real Time Big Data",
+   "updated_at": "2026-10-23T12:30:18+00:00",
+   "url": "https://marioadolfo.com/flavio-bolsonaro-tem-52-e-lula-48-dos-votos-validos-aponta-real-time-big-data/",
+   "url_hash": "9e186a3197ec7fa82ba4a2c3"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-23T12:23:46+00:00",
-  "saved_at": "2026-10-23T12:23:48+00:00"
+  "last_run_at": "2026-10-23T12:30:17+00:00",
+  "saved_at": "2026-10-23T12:30:18+00:00"
  },
  "schema": 1
 }
