@@ -7973,12 +7973,12 @@
    "guid": "6ada5d4152c09500099de1fc",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6fa34caa-a842-4ae6-97ec-2ce4983b5a8e.jpg",
    "key": "guid:6ada5d4152c09500099de1fc",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-22T19:02:23+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Governo do AM e Prefeitura de Manaus alteram folga do Dia do Servidor Público",
-   "updated_at": "2026-10-22T19:10:16+00:00",
+   "updated_at": "2026-10-23T19:10:16+00:00",
    "url": "https://marioadolfo.com/governo-do-am-e-prefeitura-de-manaus-alteram-folga-do-dia-do-servidor-publico/",
    "url_hash": "73a4b162f30d9dba9fc86c9b"
   },
@@ -8679,8 +8679,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-23T19:00:22+00:00",
-  "saved_at": "2026-10-23T19:00:23+00:00"
+  "last_run_at": "2026-10-23T19:10:15+00:00",
+  "saved_at": "2026-10-23T19:10:17+00:00"
  },
  "schema": 1
 }
