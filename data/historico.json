@@ -8422,13 +8422,34 @@
    "updated_at": "2026-10-23T15:40:15+00:00",
    "url": "https://marioadolfo.com/forcas-armadas-mobilizam-25-mil-militares-para-o-segundo-turno/",
    "url_hash": "a5b641830f0c70ed85548d24"
+  },
+  "guid:6adb7fda52c09500099de466": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Segundo o delegado plantonista Daniel Vezzani, a vítima apresentava sinais de tortura, estava amordaçada e tinha as mãos e os pés amarrados.",
+   "discovered_at": "2026-10-23T15:50:14+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6adb7fda52c09500099de466",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/44b010a3-6495-4943-a6db-bf7a0589a8d4.png",
+   "key": "guid:6adb7fda52c09500099de466",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-23T15:41:23+00:00",
+   "status": "pending",
+   "title": "Homem é morto com cerca de 10 tiros no bairro Compensa",
+   "updated_at": "2026-10-23T15:50:14+00:00",
+   "url": "https://marioadolfo.com/homem-e-morto-com-cerca-de-10-tiros-no-bairro-compensa/",
+   "url_hash": "a18387eb905a19e9848cb3ed"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-23T15:40:14+00:00",
-  "saved_at": "2026-10-23T15:40:15+00:00"
+  "last_run_at": "2026-10-23T15:50:13+00:00",
+  "saved_at": "2026-10-23T15:50:14+00:00"
  },
  "schema": 1
 }
