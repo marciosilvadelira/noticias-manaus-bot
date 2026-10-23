@@ -8254,13 +8254,55 @@
    "updated_at": "2026-10-23T13:50:15+00:00",
    "url": "https://marioadolfo.com/propaganda-eleitoral-gratuita-termina-nesta-sexta-feira/",
    "url_hash": "059cc5f8cbd686d876d5db18"
+  },
+  "guid:6adb65ea52c09500099de386": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "São necessários R$ 43,9 milhões para garantir a conclusão da pavimentação do Lote 1C até o final de 2027.",
+   "discovered_at": "2026-10-23T14:00:25+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6adb65ea52c09500099de386",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b2ede413-0f07-474c-a604-da69986124ce.jpg",
+   "key": "guid:6adb65ea52c09500099de386",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-23T13:51:55+00:00",
+   "status": "pending",
+   "title": "TCU aponta pavimentação do Lote 1C da BR-319 como obra prioritária",
+   "updated_at": "2026-10-23T14:00:25+00:00",
+   "url": "https://marioadolfo.com/tcu-aponta-pavimentacao-do-lote-1c-da-br-319-como-obra-prioritaria/",
+   "url_hash": "5fc1eee2cae17deaeca53c8c"
+  },
+  "guid:6adb669452c09500099de39f": {
+   "attempts": [],
+   "category": "Dito & Feito",
+   "description": "Federal descobre sala secreta blindada, equipada com máquina de contar dinheiro, pertence ao  advogado Willer Tomaz ligado ao senador Flávio Bolsonaro",
+   "discovered_at": "2026-10-23T14:00:25+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6adb669452c09500099de39f",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c3cf806d-3c44-4898-bfcf-b660dce47c0a.jpeg",
+   "key": "guid:6adb669452c09500099de39f",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-23T13:59:51+00:00",
+   "status": "pending",
+   "title": "Dito & Feito: MAIS UMA BOMBA NA RETA FINAL DAS ELEIÇÕES",
+   "updated_at": "2026-10-23T14:00:25+00:00",
+   "url": "https://marioadolfo.com/dito-feito-mais-uma-bomba-na-reta-final-das-eleicoes/",
+   "url_hash": "f548adb38aff832e6e16c662"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-23T13:50:15+00:00",
-  "saved_at": "2026-10-23T13:50:16+00:00"
+  "last_run_at": "2026-10-23T14:00:24+00:00",
+  "saved_at": "2026-10-23T14:00:26+00:00"
  },
  "schema": 1
 }
