@@ -8632,13 +8632,34 @@
    "updated_at": "2026-10-23T18:00:23+00:00",
    "url": "https://marioadolfo.com/governo-do-amazonas-oficializa-promocao-de-316-policiais-militares/",
    "url_hash": "44b7556fa808dc0f0580f24e"
+  },
+  "guid:6adba26352c09500099de555": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Planejada há seis meses, distribuição de urnas mobiliza equipes terrestres e fluviais para garantir a votação em Manaus e no interior, apesar dos desafios impostos pela estiagem",
+   "discovered_at": "2026-10-23T18:10:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6adba26352c09500099de555",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/913094cb-4401-4980-8e37-08a5ba937155.jpeg",
+   "key": "guid:6adba26352c09500099de555",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-23T18:09:26+00:00",
+   "status": "pending",
+   "title": "TRE-AM inicia distribuição de mais de 4 mil urnas para o segundo turno em Manaus",
+   "updated_at": "2026-10-23T18:10:16+00:00",
+   "url": "https://marioadolfo.com/tre-am-inicia-distribuicao-de-mais-de-4-mil-urnas-para-o-segundo-turno-em-manaus/",
+   "url_hash": "0df42a81ee732bc1fc208387"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-23T18:00:20+00:00",
-  "saved_at": "2026-10-23T18:00:24+00:00"
+  "last_run_at": "2026-10-23T18:10:15+00:00",
+  "saved_at": "2026-10-23T18:10:17+00:00"
  },
  "schema": 1
 }
