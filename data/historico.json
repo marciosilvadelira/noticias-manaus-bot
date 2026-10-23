@@ -8485,13 +8485,97 @@
    "updated_at": "2026-10-23T16:00:22+00:00",
    "url": "https://marioadolfo.com/sine-amazonas-realiza-selecao-com-mais-de-300-vagas-para-area-operacional/",
    "url_hash": "68b0d679fbe89c8d2685ab36"
+  },
+  "guid:6adb966252c09500099de4b0": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Durante as diligências, os policiais trocaram tiros com os suspeitos. Os homens conseguiram fugir e abandonaram a droga no local",
+   "discovered_at": "2026-10-23T17:40:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6adb966252c09500099de4b0",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/8c40cac3-29f4-40f3-863e-6ac8dddb83d6.jpeg",
+   "key": "guid:6adb966252c09500099de4b0",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-23T17:32:12+00:00",
+   "status": "pending",
+   "title": "Polícia apreende 1,5 tonelada de skunk após troca de tiros em Novo Airão",
+   "updated_at": "2026-10-23T17:40:15+00:00",
+   "url": "https://marioadolfo.com/policia-apreende-1-5-tonelada-de-skunk-apos-troca-de-tiros-em-novo-airao/",
+   "url_hash": "11d3a434a86753af0531a60e"
+  },
+  "guid:6adb99fb52c09500099de4be": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Demandas foram enviadas à instituição por associações, lideranças indígenas e organizações representativas de comunidades tradicionais após eleitores de diversas regiões do Amazonas enfrentarem dificuldades para votar no primeiro turno",
+   "discovered_at": "2026-10-23T17:40:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6adb99fb52c09500099de4be",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/126ac0de-6793-4502-a16b-75ac4a11aae4.jpeg",
+   "key": "guid:6adb99fb52c09500099de4be",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-23T17:34:09+00:00",
+   "status": "pending",
+   "title": "Mais de 1,7 mil eleitores de comunidades no AM relatam falta de transporte no 2º turno",
+   "updated_at": "2026-10-23T17:40:15+00:00",
+   "url": "https://marioadolfo.com/eleicoes-2026-mais-de-1-7-mil-eleitores-de-comunidades-no-am-relataram-dificuldade-de-transporte/",
+   "url_hash": "579230a581c034847d98f64c"
+  },
+  "guid:6adb9b2c52c09500099de4e8": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Julgamentos ocorrem na segunda-feira (26), a partir das 10h, com transmissão pelo Facebook e YouTube.",
+   "discovered_at": "2026-10-23T17:40:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6adb9b2c52c09500099de4e8",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/db02bdc0-3816-4a74-89ec-b6c1a03eb34d.jpg",
+   "key": "guid:6adb9b2c52c09500099de4e8",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-23T17:39:18+00:00",
+   "status": "pending",
+   "title": "TCE-AM aprecia 69 processos na sessão de segunda-feira, dia 26",
+   "updated_at": "2026-10-23T17:40:15+00:00",
+   "url": "https://marioadolfo.com/tce-am-aprecia-69-processos-na-sessao-de-segunda-feira-dia-26/",
+   "url_hash": "098a5b80428dc828ba9ed0ba"
+  },
+  "guid:6adb9b6452c09500099de4ee": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Comparecimento às urnas confirma que beneficiário está vivo",
+   "discovered_at": "2026-10-23T17:40:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6adb9b6452c09500099de4ee",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/11532a6c-9a74-47e8-aca0-68cadfab84ea.jpeg",
+   "key": "guid:6adb9b6452c09500099de4ee",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-23T17:38:43+00:00",
+   "status": "pending",
+   "title": "Voto no 2º turno pode atualizar Prova de Vida do INSS",
+   "updated_at": "2026-10-23T17:40:15+00:00",
+   "url": "https://marioadolfo.com/voto-no-2o-turno-pode-atualizar-prova-de-vida-do-inss/",
+   "url_hash": "685bd08d6f5ba859ea55f064"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-23T17:30:18+00:00",
-  "saved_at": "2026-10-23T17:30:20+00:00"
+  "last_run_at": "2026-10-23T17:40:15+00:00",
+  "saved_at": "2026-10-23T17:40:16+00:00"
  },
  "schema": 1
 }
