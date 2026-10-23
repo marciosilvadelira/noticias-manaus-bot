@@ -8099,12 +8099,12 @@
    "guid": "6ada694d52c09500099de295",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/20839151-fc3c-4575-a5c2-4a4f4e0849fe.jpg",
    "key": "guid:6ada694d52c09500099de295",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-22T19:52:57+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Presidente do TSE pede à Meta relatório sobre canal Exército do Lula",
-   "updated_at": "2026-10-22T20:00:21+00:00",
+   "updated_at": "2026-10-23T20:00:21+00:00",
    "url": "https://marioadolfo.com/presidente-do-tse-pede-a-meta-relatorio-sobre-canal-exercito-do-lula/",
    "url_hash": "0ec394ed70f9718841486b9d"
   },
@@ -8721,8 +8721,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-23T19:50:18+00:00",
-  "saved_at": "2026-10-23T19:50:20+00:00"
+  "last_run_at": "2026-10-23T20:00:20+00:00",
+  "saved_at": "2026-10-23T20:00:22+00:00"
  },
  "schema": 1
 }
