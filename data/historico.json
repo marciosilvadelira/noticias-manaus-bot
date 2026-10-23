@@ -8191,13 +8191,34 @@
    "updated_at": "2026-10-22T21:50:14+00:00",
    "url": "https://marioadolfo.com/ministro-acompanha-instalacao-da-primeira-estaca-do-novo-porto-manaus-moderna/",
    "url_hash": "fea5682a1090d3ef802f50b2"
+  },
+  "guid:6adb4f3a52c09500099de32b": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Candidata Maria do Carmo tem uma longa trajetória de problemas com pagamentos como dívida milionária com instituições financeiras, calote no  IPTU e até “gato” na conta de água da Fametro",
+   "discovered_at": "2026-10-23T12:20:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6adb4f3a52c09500099de32b",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/90551b0b-aeee-4f03-b828-ca0617ed2185.webp",
+   "key": "guid:6adb4f3a52c09500099de32b",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-23T12:15:07+00:00",
+   "status": "pending",
+   "title": "Justiça condena funcionários de Maria do Carmo por pagar conta de luz da Fametro com dinheiro da Seduc",
+   "updated_at": "2026-10-23T12:20:17+00:00",
+   "url": "https://marioadolfo.com/justica-condena-funcionarios-de-maria-do-carmo-por-pagar-conta-de-luz-da-fametro-com-dinheiro-da-seduc/",
+   "url_hash": "c0830acdf2b01c1bb7b37c19"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-23T12:10:15+00:00",
-  "saved_at": "2026-10-23T12:10:16+00:00"
+  "last_run_at": "2026-10-23T12:20:16+00:00",
+  "saved_at": "2026-10-23T12:20:17+00:00"
  },
  "schema": 1
 }
