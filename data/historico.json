@@ -8929,12 +8929,12 @@
    "guid": "6adbb7ba52c09500099de5be",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5f6b8540-9984-4d64-b867-fb4a3ea9274a.jpg",
    "key": "guid:6adbb7ba52c09500099de5be",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-23T19:39:16+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Mendonça reitera que Lula e Flávio podem abrir sigilos por ato próprio",
-   "updated_at": "2026-10-23T19:40:15+00:00",
+   "updated_at": "2026-10-24T19:40:16+00:00",
    "url": "https://marioadolfo.com/mendonca-reitera-que-lula-e-flavio-podem-abrir-sigilos-por-ato-proprio/",
    "url_hash": "6e427152cddab86e23f2b144"
   },
@@ -9362,8 +9362,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-24T19:30:17+00:00",
-  "saved_at": "2026-10-24T19:30:18+00:00"
+  "last_run_at": "2026-10-24T19:40:15+00:00",
+  "saved_at": "2026-10-24T19:40:17+00:00"
  },
  "schema": 1
 }
