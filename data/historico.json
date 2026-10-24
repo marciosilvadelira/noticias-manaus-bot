@@ -8503,11 +8503,19 @@
    "url_hash": "838c60d4c281888f558801bc"
   },
   "guid:6adb7f2352c09500099de44d": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-24T04:20:22+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1517023283781896",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Ações para garantir votação e apuração vão chegar a 306 municípios",
    "discovered_at": "2026-10-23T15:40:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1517023283781896",
    "formats": [
     "link"
    ],
@@ -8515,20 +8523,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/660466ae-a759-4636-bc21-6de35c2e27e1.jpg",
    "key": "guid:6adb7f2352c09500099de44d",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1517023283781896"
+   },
    "source_published_at": "2026-10-23T15:39:23+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Forças Armadas mobilizam 25 mil militares para o segundo turno",
-   "updated_at": "2026-10-23T15:40:15+00:00",
+   "updated_at": "2026-10-24T04:20:22+00:00",
    "url": "https://marioadolfo.com/forcas-armadas-mobilizam-25-mil-militares-para-o-segundo-turno/",
    "url_hash": "a5b641830f0c70ed85548d24"
   },
   "guid:6adb7fda52c09500099de466": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-24T04:20:47+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1517023520448539",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Segundo o delegado plantonista Daniel Vezzani, a vítima apresentava sinais de tortura, estava amordaçada e tinha as mãos e os pés amarrados.",
    "discovered_at": "2026-10-23T15:50:14+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1517023520448539",
    "formats": [
     "link"
    ],
@@ -8536,20 +8554,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/44b010a3-6495-4943-a6db-bf7a0589a8d4.png",
    "key": "guid:6adb7fda52c09500099de466",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1517023520448539"
+   },
    "source_published_at": "2026-10-23T15:41:23+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Homem é morto com cerca de 10 tiros no bairro Compensa",
-   "updated_at": "2026-10-23T15:50:14+00:00",
+   "updated_at": "2026-10-24T04:20:47+00:00",
    "url": "https://marioadolfo.com/homem-e-morto-com-cerca-de-10-tiros-no-bairro-compensa/",
    "url_hash": "a18387eb905a19e9848cb3ed"
   },
   "guid:6adb814c52c09500099de47c": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-24T04:21:13+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1517023800448511",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "O crime foi cometido por dois homens armados e registrado por câmeras de vídeo",
    "discovered_at": "2026-10-23T16:00:22+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1517023800448511",
    "formats": [
     "link"
    ],
@@ -8557,20 +8585,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c3af66a3-b928-4b70-b5e6-2ce922a20eac.jpeg",
    "key": "guid:6adb814c52c09500099de47c",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1517023800448511"
+   },
    "source_published_at": "2026-10-23T15:54:16+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Vídeo: Homem é perseguido e morto a tiros em campo de futebol em Manaus",
-   "updated_at": "2026-10-23T16:00:22+00:00",
+   "updated_at": "2026-10-24T04:21:13+00:00",
    "url": "https://marioadolfo.com/video-homem-e-perseguido-e-morto-a-tiros-em-campo-de-futebol-em-manaus/",
    "url_hash": "bdeea97ac7bcafb786f60e39"
   },
   "guid:6adb834b52c09500099de49a": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-24T04:21:37+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1517024100448481",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Oportunidades são para trabalhar e morar em municípios do Paraná e de Santa Catarina; entrevistas serão realizadas em Manaus na segunda-feira (26/10)",
    "discovered_at": "2026-10-23T16:00:22+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1517024100448481",
    "formats": [
     "link"
    ],
@@ -8578,20 +8616,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2db45cb4-1a4d-4c1e-a8eb-dc108b11ab76.jpeg",
    "key": "guid:6adb834b52c09500099de49a",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1517024100448481"
+   },
    "source_published_at": "2026-10-23T15:55:42+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Sine Amazonas realiza seleção com mais de 300 vagas para área operacional",
-   "updated_at": "2026-10-23T16:00:22+00:00",
+   "updated_at": "2026-10-24T04:21:37+00:00",
    "url": "https://marioadolfo.com/sine-amazonas-realiza-selecao-com-mais-de-300-vagas-para-area-operacional/",
    "url_hash": "68b0d679fbe89c8d2685ab36"
   },
   "guid:6adb966252c09500099de4b0": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-24T04:22:02+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1517024413781783",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Durante as diligências, os policiais trocaram tiros com os suspeitos. Os homens conseguiram fugir e abandonaram a droga no local",
    "discovered_at": "2026-10-23T17:40:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1517024413781783",
    "formats": [
     "link"
    ],
@@ -8599,11 +8647,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/8c40cac3-29f4-40f3-863e-6ac8dddb83d6.jpeg",
    "key": "guid:6adb966252c09500099de4b0",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1517024413781783"
+   },
    "source_published_at": "2026-10-23T17:32:12+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Polícia apreende 1,5 tonelada de skunk após troca de tiros em Novo Airão",
-   "updated_at": "2026-10-23T17:40:15+00:00",
+   "updated_at": "2026-10-24T04:22:02+00:00",
    "url": "https://marioadolfo.com/policia-apreende-1-5-tonelada-de-skunk-apos-troca-de-tiros-em-novo-airao/",
    "url_hash": "11d3a434a86753af0531a60e"
   },
@@ -8926,8 +8976,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-24T04:10:14+00:00",
-  "saved_at": "2026-10-24T04:12:01+00:00"
+  "last_run_at": "2026-10-24T04:20:15+00:00",
+  "saved_at": "2026-10-24T04:22:02+00:00"
  },
  "schema": 1
 }
