@@ -9105,13 +9105,34 @@
    "updated_at": "2026-10-24T12:10:14+00:00",
    "url": "https://marioadolfo.com/nova-pesquisa-aponta-que-omar-aziz-chega-a-vespera-do-segundo-turno-com-60-6-dos-votos-validos/",
    "url_hash": "0bae02cd53398dc4a957daab"
+  },
+  "guid:6adcb5c452c09500099de738": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Em debate, Lula questionou atuação do senador na banca de advogados",
+   "discovered_at": "2026-10-24T13:50:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6adcb5c452c09500099de738",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4bd20da0-b2c7-43aa-a5fa-f2d7e037e8d5.jpg",
+   "key": "guid:6adcb5c452c09500099de738",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-24T13:46:14+00:00",
+   "status": "pending",
+   "title": "Flávio defende inocência do único acusado pela morte de Ana Clara",
+   "updated_at": "2026-10-24T13:50:15+00:00",
+   "url": "https://marioadolfo.com/flavio-defende-inocencia-do-unico-acusado-pela-morte-de-ana-clara/",
+   "url_hash": "87070f6bd44586515e789035"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-24T13:40:13+00:00",
-  "saved_at": "2026-10-24T13:40:14+00:00"
+  "last_run_at": "2026-10-24T13:50:13+00:00",
+  "saved_at": "2026-10-24T13:50:15+00:00"
  },
  "schema": 1
 }
