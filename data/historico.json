@@ -9294,13 +9294,34 @@
    "updated_at": "2026-10-24T15:20:14+00:00",
    "url": "https://marioadolfo.com/eneva-amplia-oportunidades-de-emprego-qualificacao-e-geracao-de-renda-no-amazonas/",
    "url_hash": "977e5b431acbda8231b6bd72"
+  },
+  "guid:6adcd87252c09500099de7d1": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Concentração no Largo de São Sebastião começa às 16h, e a organização promete dois carros de som e grupos de batucada",
+   "discovered_at": "2026-10-24T16:20:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6adcd87252c09500099de7d1",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b63e70da-6e59-4c54-a356-064787c95ce5.jpg",
+   "key": "guid:6adcd87252c09500099de7d1",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-24T16:16:02+00:00",
+   "status": "pending",
+   "title": "'Vira Vira Lula': apoiadores do presidente fazem ato no Largo de São Sebastião neste sábado",
+   "updated_at": "2026-10-24T16:20:15+00:00",
+   "url": "https://marioadolfo.com/vira-vira-lula-apoiadores-do-presidente-fazem-ato-no-largo-de-sao-sebastiao-em-manaus-neste-sabado/",
+   "url_hash": "a2cb4cb3656bbbc143d3dad0"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-24T16:10:15+00:00",
-  "saved_at": "2026-10-24T16:10:17+00:00"
+  "last_run_at": "2026-10-24T16:20:14+00:00",
+  "saved_at": "2026-10-24T16:20:15+00:00"
  },
  "schema": 1
 }
