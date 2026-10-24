@@ -9022,6 +9022,27 @@
    "url": "https://marioadolfo.com/mais-de-74-mil-sessoes-terapeuticas-foram-realizadas-no-caic-tea-gilson-moreira/",
    "url_hash": "63613954049ca6ba204ffd67"
   },
+  "guid:6adbcb2452c09500099de694": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Há vagas para cidades como Manaus, Parintins, Itacoatiara, Manacapuru, Coari, Tefé, Tabatinga e Maués",
+   "discovered_at": "2026-10-24T15:00:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6adbcb2452c09500099de694",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ffc2c9c0-524a-4787-8986-54e66a9b5e1c.jpg",
+   "key": "guid:6adbcb2452c09500099de694",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-24T14:56:44+00:00",
+   "status": "pending",
+   "title": "Americanas abre 33 vagas temporárias para a Black Friday no Amazonas",
+   "updated_at": "2026-10-24T15:00:21+00:00",
+   "url": "https://marioadolfo.com/americanas-abre-33-vagas-temporarias-para-a-black-friday-no-amazonas/",
+   "url_hash": "f59921dda12ca29498a25dbb"
+  },
   "guid:6adbcd2d52c09500099de6a7": {
    "attempts": [],
    "category": "Amazonas",
@@ -9257,8 +9278,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-24T14:50:13+00:00",
-  "saved_at": "2026-10-24T14:50:15+00:00"
+  "last_run_at": "2026-10-24T15:00:20+00:00",
+  "saved_at": "2026-10-24T15:00:21+00:00"
  },
  "schema": 1
 }
