@@ -8875,6 +8875,27 @@
    "url": "https://marioadolfo.com/ministro-do-tse-proibe-suspensao-do-canal-exercito-do-lula/",
    "url_hash": "60be076b6d7bcb2a35e1e959"
   },
+  "guid:6adbaba852c09500099de57f": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Sindicato alerta que a falta de investimentos e a insegurança nos rios comprometem a eficiência do transporte de cargas",
+   "discovered_at": "2026-10-24T12:10:14+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6adbaba852c09500099de57f",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d7c8808d-8d55-48a5-b6bf-31adc329a692.jpeg",
+   "key": "guid:6adbaba852c09500099de57f",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-24T12:00:02+00:00",
+   "status": "pending",
+   "title": "Sindarma aponta desafios para o futuro da navegação fluvial em Manaus",
+   "updated_at": "2026-10-24T12:10:14+00:00",
+   "url": "https://marioadolfo.com/sindarma-aponta-desafios-para-o-futuro-da-navegacao-fluvial-em-manaus/",
+   "url_hash": "b2e7fcc24b0e40d9b854fc8f"
+  },
   "guid:6adbb7ba52c09500099de5be": {
    "attempts": [],
    "category": "Brasil",
@@ -9021,13 +9042,55 @@
    "updated_at": "2026-10-23T21:30:17+00:00",
    "url": "https://marioadolfo.com/garantido-show-abre-inscricao-para-novos-dancarinos-em-parintins/",
    "url_hash": "ce4607d695c89b9a8b21977e"
+  },
+  "guid:6adc2abe52c09500099de6ff": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Medida foi tomada após PF constatar viagem de Willer, amigo próximo do candidato de Flávio Bolsonaro, para os EUA",
+   "discovered_at": "2026-10-24T12:10:14+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6adc2abe52c09500099de6ff",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2d78aa48-ec23-45de-89a7-bcef6d8c7cc8.webp",
+   "key": "guid:6adc2abe52c09500099de6ff",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-24T12:00:00+00:00",
+   "status": "pending",
+   "title": "Moraes determina bloqueio de até R$ 6 bilhões do advogado Willer Tomaz",
+   "updated_at": "2026-10-24T12:10:14+00:00",
+   "url": "https://marioadolfo.com/moraes-determina-bloqueio-de-ate-r-6-bilhoes-do-advogado-willer-tomaz/",
+   "url_hash": "ca2c1b8e7ae94dbff8302e09"
+  },
+  "guid:6adc9df052c09500099de716": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Levantamento divulgado na manhã deste sábado (24) mostra Omar com 21,2 pontos percentuais de vantagem sobre Maria do Carmo no interior do Amazonas; na capital, disputa aparece mais equilibrada",
+   "discovered_at": "2026-10-24T12:10:14+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6adc9df052c09500099de716",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/8c3d82ce-3647-453f-8d44-a7892213957d.jpg",
+   "key": "guid:6adc9df052c09500099de716",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-24T12:03:41+00:00",
+   "status": "pending",
+   "title": "Nova pesquisa aponta que Omar Aziz chega à véspera do segundo turno com 60,6% dos votos válidos",
+   "updated_at": "2026-10-24T12:10:14+00:00",
+   "url": "https://marioadolfo.com/nova-pesquisa-aponta-que-omar-aziz-chega-a-vespera-do-segundo-turno-com-60-6-dos-votos-validos/",
+   "url_hash": "0bae02cd53398dc4a957daab"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-24T12:00:19+00:00",
-  "saved_at": "2026-10-24T12:00:20+00:00"
+  "last_run_at": "2026-10-24T12:10:14+00:00",
+  "saved_at": "2026-10-24T12:10:15+00:00"
  },
  "schema": 1
 }
