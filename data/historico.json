@@ -9357,13 +9357,55 @@
    "updated_at": "2026-10-24T18:10:16+00:00",
    "url": "https://marioadolfo.com/eleicoes-2026-tre-am-sorteia-urnas-para-auditorias-da-votacao-no-2o-turno/",
    "url_hash": "f4e05c3a81adf12983c7bd0c"
+  },
+  "guid:6add110f52c09500099de841": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Pedidos específicos deverão ser aprovados por um juiz",
+   "discovered_at": "2026-10-24T20:20:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6add110f52c09500099de841",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0d8560a3-a2d1-4a81-98a9-6aea2bd75cd8.jpg",
+   "key": "guid:6add110f52c09500099de841",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-24T20:15:01+00:00",
+   "status": "pending",
+   "title": "Nunes Marques nega autorização para transporte de eleitores indígenas",
+   "updated_at": "2026-10-24T20:20:17+00:00",
+   "url": "https://marioadolfo.com/nunes-marques-nega-autorizacao-para-transporte-de-eleitores-indigenas/",
+   "url_hash": "10d08f93056871bbc3ef7f54"
+  },
+  "guid:6add11f052c09500099de858": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Instituição encaminhou demandas aos órgãos competentes e participou de articulação para viabilizar o deslocamento de comunidades indígenas aos locais de votação no segundo turno das eleições, neste domingo",
+   "discovered_at": "2026-10-24T20:20:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6add11f052c09500099de858",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/062e497d-02a1-4291-b671-a06a9d02deba.jpeg",
+   "key": "guid:6add11f052c09500099de858",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-24T20:17:36+00:00",
+   "status": "pending",
+   "title": "DPE-AM articula transporte de eleitores indígenas em Tonantins e Boca do Acre",
+   "updated_at": "2026-10-24T20:20:17+00:00",
+   "url": "https://marioadolfo.com/dpe-am-articula-transporte-de-eleitores-indigenas-em-tonantins-e-boca-do-acre/",
+   "url_hash": "b28919ed8ff2ac396fee88c8"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-24T20:10:13+00:00",
-  "saved_at": "2026-10-24T20:10:14+00:00"
+  "last_run_at": "2026-10-24T20:20:15+00:00",
+  "saved_at": "2026-10-24T20:20:17+00:00"
  },
  "schema": 1
 }
