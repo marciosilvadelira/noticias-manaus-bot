@@ -9231,13 +9231,34 @@
    "updated_at": "2026-10-24T14:10:14+00:00",
    "url": "https://marioadolfo.com/prefeitura-monitora-qualidade-do-ar-em-manaus-e-estuda-ampliar-sensores/",
    "url_hash": "c294af3366bfdfffe8fdb675"
+  },
+  "guid:6adcbe4f52c09500099de799": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Homem foi agredido por um grupo e teve o corpo jogado em uma área de mata na avenida Criciúma, no Grande Vitória.",
+   "discovered_at": "2026-10-24T14:30:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6adcbe4f52c09500099de799",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d7fe87e6-1277-4340-91e9-bc67d9a0b90b.jpeg",
+   "key": "guid:6adcbe4f52c09500099de799",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-24T14:21:56+00:00",
+   "status": "pending",
+   "title": "Suspeito de tentar matar duas adolescentes morre após espancamento em Manaus",
+   "updated_at": "2026-10-24T14:30:17+00:00",
+   "url": "https://marioadolfo.com/suspeito-de-tentar-matar-duas-adolescentes-morre-apos-espancamento-em-manaus/",
+   "url_hash": "99b8746e816169e21771b67f"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-24T14:20:16+00:00",
-  "saved_at": "2026-10-24T14:20:17+00:00"
+  "last_run_at": "2026-10-24T14:30:16+00:00",
+  "saved_at": "2026-10-24T14:30:17+00:00"
  },
  "schema": 1
 }
