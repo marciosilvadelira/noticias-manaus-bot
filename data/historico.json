@@ -9097,12 +9097,12 @@
    "guid": "6adbd01b52c09500099de6d5",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/138a8bca-e86d-47e0-a5d2-57252f7bdcfe.jpg",
    "key": "guid:6adbd01b52c09500099de6d5",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-23T21:24:13+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Garantido Show abre inscrição para novos dançarinos em Parintins",
-   "updated_at": "2026-10-23T21:30:17+00:00",
+   "updated_at": "2026-10-24T21:30:19+00:00",
    "url": "https://marioadolfo.com/garantido-show-abre-inscricao-para-novos-dancarinos-em-parintins/",
    "url_hash": "ce4607d695c89b9a8b21977e"
   },
@@ -9404,8 +9404,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-24T21:20:14+00:00",
-  "saved_at": "2026-10-24T21:20:14+00:00"
+  "last_run_at": "2026-10-24T21:30:18+00:00",
+  "saved_at": "2026-10-24T21:30:19+00:00"
  },
  "schema": 1
 }
