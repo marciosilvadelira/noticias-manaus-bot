@@ -9013,12 +9013,12 @@
    "guid": "6adbc3e752c09500099de62c",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/62db74e9-3f9e-4a88-af71-9eeea0a5bb24.jpeg",
    "key": "guid:6adbc3e752c09500099de62c",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-23T20:32:47+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Mais de 74 mil sessões terapêuticas foram realizadas no Caic TEA Gilson Moreira",
-   "updated_at": "2026-10-23T20:40:16+00:00",
+   "updated_at": "2026-10-24T20:40:13+00:00",
    "url": "https://marioadolfo.com/mais-de-74-mil-sessoes-terapeuticas-foram-realizadas-no-caic-tea-gilson-moreira/",
    "url_hash": "63613954049ca6ba204ffd67"
   },
@@ -9404,8 +9404,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-24T20:30:17+00:00",
-  "saved_at": "2026-10-24T20:30:18+00:00"
+  "last_run_at": "2026-10-24T20:40:13+00:00",
+  "saved_at": "2026-10-24T20:40:14+00:00"
  },
  "schema": 1
 }
