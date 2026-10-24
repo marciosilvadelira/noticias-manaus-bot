@@ -9273,13 +9273,34 @@
    "updated_at": "2026-10-24T14:30:17+00:00",
    "url": "https://marioadolfo.com/suspeito-de-tentar-matar-duas-adolescentes-morre-apos-espancamento-em-manaus/",
    "url_hash": "99b8746e816169e21771b67f"
+  },
+  "guid:6adcc99452c09500099de7b2": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Estado concentrou 40,5% das contratações realizadas pela companhia em suas áreas de atuação; investimentos também impulsionam formação profissional, empreendedorismo e agricultura familiar",
+   "discovered_at": "2026-10-24T15:20:14+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6adcc99452c09500099de7b2",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f110686e-a81d-44fd-be6a-bece3ce34e68.jpeg",
+   "key": "guid:6adcc99452c09500099de7b2",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-23T22:00:00+00:00",
+   "status": "pending",
+   "title": "Eneva amplia oportunidades de emprego, qualificação e geração de renda no AM",
+   "updated_at": "2026-10-24T15:20:14+00:00",
+   "url": "https://marioadolfo.com/eneva-amplia-oportunidades-de-emprego-qualificacao-e-geracao-de-renda-no-amazonas/",
+   "url_hash": "977e5b431acbda8231b6bd72"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-24T15:10:17+00:00",
-  "saved_at": "2026-10-24T15:10:19+00:00"
+  "last_run_at": "2026-10-24T15:20:14+00:00",
+  "saved_at": "2026-10-24T15:20:15+00:00"
  },
  "schema": 1
 }
