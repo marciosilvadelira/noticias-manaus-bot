@@ -8950,12 +8950,12 @@
    "guid": "6adbb8b052c09500099de5d3",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/7fd559d0-55c8-4c65-b288-ba09701baa26.jpg",
    "key": "guid:6adbb8b052c09500099de5d3",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-23T19:46:03+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Justiça concede progressão ao semiaberto para irmão de Djidja Cardoso",
-   "updated_at": "2026-10-23T19:50:19+00:00",
+   "updated_at": "2026-10-24T19:50:12+00:00",
    "url": "https://marioadolfo.com/justica-concede-progressao-ao-semiaberto-para-irmao-de-djidja-cardoso/",
    "url_hash": "962107cac32adf061f6c237d"
   },
@@ -9362,8 +9362,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-24T19:44:43+00:00",
-  "saved_at": "2026-10-24T19:44:44+00:00"
+  "last_run_at": "2026-10-24T19:50:12+00:00",
+  "saved_at": "2026-10-24T19:50:13+00:00"
  },
  "schema": 1
 }
