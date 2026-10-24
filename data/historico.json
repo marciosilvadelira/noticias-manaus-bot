@@ -8866,12 +8866,12 @@
    "guid": "6adbaa4a52c09500099de569",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d11679de-66c5-47d5-b6c7-6301461d1ab4.jpg",
    "key": "guid:6adbaa4a52c09500099de569",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-23T18:42:58+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Ministro do TSE proíbe suspensão do canal Exército do Lula",
-   "updated_at": "2026-10-23T18:50:15+00:00",
+   "updated_at": "2026-10-24T18:50:15+00:00",
    "url": "https://marioadolfo.com/ministro-do-tse-proibe-suspensao-do-canal-exercito-do-lula/",
    "url_hash": "60be076b6d7bcb2a35e1e959"
   },
@@ -9362,8 +9362,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-24T18:40:13+00:00",
-  "saved_at": "2026-10-24T18:40:15+00:00"
+  "last_run_at": "2026-10-24T18:50:14+00:00",
+  "saved_at": "2026-10-24T18:50:16+00:00"
  },
  "schema": 1
 }
