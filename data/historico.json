@@ -8193,11 +8193,19 @@
    "url_hash": "fea5682a1090d3ef802f50b2"
   },
   "guid:6adb4f3a52c09500099de32b": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-24T04:00:32+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1517010117116546",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Candidata Maria do Carmo tem uma longa trajetória de problemas com pagamentos como dívida milionária com instituições financeiras, calote no  IPTU e até “gato” na conta de água da Fametro",
    "discovered_at": "2026-10-23T12:20:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1517010117116546",
    "formats": [
     "link"
    ],
@@ -8205,20 +8213,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/90551b0b-aeee-4f03-b828-ca0617ed2185.webp",
    "key": "guid:6adb4f3a52c09500099de32b",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1517010117116546"
+   },
    "source_published_at": "2026-10-23T12:15:07+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Justiça condena funcionários de Maria do Carmo por pagar conta de luz da Fametro com dinheiro da Seduc",
-   "updated_at": "2026-10-23T12:20:17+00:00",
+   "updated_at": "2026-10-24T04:00:32+00:00",
    "url": "https://marioadolfo.com/justica-condena-funcionarios-de-maria-do-carmo-por-pagar-conta-de-luz-da-fametro-com-dinheiro-da-seduc/",
    "url_hash": "c0830acdf2b01c1bb7b37c19"
   },
   "guid:6adb522552c09500099de351": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-24T04:01:03+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1517010380449853",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Apesar da diferença de quatro pontos percentuais, os candidatos estão tecnicamente empatados, considerando a margem de erro de dois pontos percentuais para mais ou para menos.",
    "discovered_at": "2026-10-23T12:30:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1517010380449853",
    "formats": [
     "link"
    ],
@@ -8226,20 +8244,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/8a434e70-6861-47e8-8cfa-53fb39e4bdb8.jpg",
    "key": "guid:6adb522552c09500099de351",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1517010380449853"
+   },
    "source_published_at": "2026-10-23T12:28:51+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Flávio Bolsonaro tem 52% e Lula, 48% dos votos válidos, aponta Real Time Big Data",
-   "updated_at": "2026-10-23T12:30:18+00:00",
+   "updated_at": "2026-10-24T04:01:03+00:00",
    "url": "https://marioadolfo.com/flavio-bolsonaro-tem-52-e-lula-48-dos-votos-validos-aponta-real-time-big-data/",
    "url_hash": "9e186a3197ec7fa82ba4a2c3"
   },
   "guid:6adb64a252c09500099de36c": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-24T04:01:30+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1517010700449821",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Passeatas e carreatas ainda podem ocorrer até amanhã",
    "discovered_at": "2026-10-23T13:50:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1517010700449821",
    "formats": [
     "link"
    ],
@@ -8247,20 +8275,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/aed35e29-d56e-4091-929d-7dbb455f5e4f.jpg",
    "key": "guid:6adb64a252c09500099de36c",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1517010700449821"
+   },
    "source_published_at": "2026-10-23T13:45:51+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Propaganda eleitoral gratuita termina nesta sexta-feira",
-   "updated_at": "2026-10-23T13:50:15+00:00",
+   "updated_at": "2026-10-24T04:01:30+00:00",
    "url": "https://marioadolfo.com/propaganda-eleitoral-gratuita-termina-nesta-sexta-feira/",
    "url_hash": "059cc5f8cbd686d876d5db18"
   },
   "guid:6adb65ea52c09500099de386": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-24T04:01:56+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1517011023783122",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "São necessários R$ 43,9 milhões para garantir a conclusão da pavimentação do Lote 1C até o final de 2027.",
    "discovered_at": "2026-10-23T14:00:25+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1517011023783122",
    "formats": [
     "link"
    ],
@@ -8268,20 +8306,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b2ede413-0f07-474c-a604-da69986124ce.jpg",
    "key": "guid:6adb65ea52c09500099de386",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1517011023783122"
+   },
    "source_published_at": "2026-10-23T13:51:55+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "TCU aponta pavimentação do Lote 1C da BR-319 como obra prioritária",
-   "updated_at": "2026-10-23T14:00:25+00:00",
+   "updated_at": "2026-10-24T04:01:56+00:00",
    "url": "https://marioadolfo.com/tcu-aponta-pavimentacao-do-lote-1c-da-br-319-como-obra-prioritaria/",
    "url_hash": "5fc1eee2cae17deaeca53c8c"
   },
   "guid:6adb669452c09500099de39f": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-24T04:02:21+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1517011283783096",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Dito & Feito",
    "description": "Federal descobre sala secreta blindada, equipada com máquina de contar dinheiro, pertence ao  advogado Willer Tomaz ligado ao senador Flávio Bolsonaro",
    "discovered_at": "2026-10-23T14:00:25+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1517011283783096",
    "formats": [
     "link"
    ],
@@ -8289,11 +8337,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c3cf806d-3c44-4898-bfcf-b660dce47c0a.jpeg",
    "key": "guid:6adb669452c09500099de39f",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1517011283783096"
+   },
    "source_published_at": "2026-10-23T13:59:51+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Dito & Feito: MAIS UMA BOMBA NA RETA FINAL DAS ELEIÇÕES",
-   "updated_at": "2026-10-23T14:00:25+00:00",
+   "updated_at": "2026-10-24T04:02:21+00:00",
    "url": "https://marioadolfo.com/dito-feito-mais-uma-bomba-na-reta-final-das-eleicoes/",
    "url_hash": "f548adb38aff832e6e16c662"
   },
@@ -8826,8 +8876,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-24T03:50:14+00:00",
-  "saved_at": "2026-10-24T03:50:16+00:00"
+  "last_run_at": "2026-10-24T04:00:18+00:00",
+  "saved_at": "2026-10-24T04:02:21+00:00"
  },
  "schema": 1
 }
