@@ -8971,12 +8971,12 @@
    "guid": "6adbc25352c09500099de5f0",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e0428fc2-b3ea-4a80-8a78-474d67ae0e4f.webp",
    "key": "guid:6adbc25352c09500099de5f0",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-23T20:26:32+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Omar Aziz lidera pesquisa Projeta com 57,4% dos votos válidos e abre quase 15 pontos sobre Maria do Carmo",
-   "updated_at": "2026-10-23T20:30:19+00:00",
+   "updated_at": "2026-10-24T20:30:18+00:00",
    "url": "https://marioadolfo.com/omar-aziz-lidera-pesquisa-projeta-com-57-4-dos-votos-validos-e-abre-quase-15-pontos-sobre-maria-do-carmo/",
    "url_hash": "6a7181ca47dd3894a1cfbd95"
   },
@@ -8992,12 +8992,12 @@
    "guid": "6adbc2cc52c09500099de604",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2115fc45-72d2-4ca1-b21f-a1f9729dee17.jpeg",
    "key": "guid:6adbc2cc52c09500099de604",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-23T20:28:29+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Seca afeta 113 mil famílias e deixa 46 cidades em emergência no Amazonas",
-   "updated_at": "2026-10-23T20:30:19+00:00",
+   "updated_at": "2026-10-24T20:30:18+00:00",
    "url": "https://marioadolfo.com/seca-afeta-113-mil-familias-e-deixa-46-cidades-em-emergencia-no-amazonas/",
    "url_hash": "6bb650857e52e45046d854c4"
   },
@@ -9404,8 +9404,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-24T20:20:15+00:00",
-  "saved_at": "2026-10-24T20:20:17+00:00"
+  "last_run_at": "2026-10-24T20:30:17+00:00",
+  "saved_at": "2026-10-24T20:30:18+00:00"
  },
  "schema": 1
 }
