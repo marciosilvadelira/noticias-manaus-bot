@@ -8348,11 +8348,19 @@
    "url_hash": "f548adb38aff832e6e16c662"
   },
   "guid:6adb72fa52c09500099de3d4": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-24T04:10:21+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1517016523782572",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Os interessados podem se inscrever até o dia 28 de outubro",
    "discovered_at": "2026-10-23T14:50:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1517016523782572",
    "formats": [
     "link"
    ],
@@ -8360,20 +8368,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c5b76ed0-ef36-4020-b724-da65735d94eb.jpeg",
    "key": "guid:6adb72fa52c09500099de3d4",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1517016523782572"
+   },
    "source_published_at": "2026-10-23T14:47:13+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Prefeitura de Manaus abre inscrições para nova turma do Empretec com 25 vagas",
-   "updated_at": "2026-10-23T14:50:15+00:00",
+   "updated_at": "2026-10-24T04:10:21+00:00",
    "url": "https://marioadolfo.com/prefeitura-de-manaus-abre-inscricoes-para-nova-turma-do-empretec-com-25-vagas-2/",
    "url_hash": "c37741ea37c1801a31cdc2be"
   },
   "guid:6adb788052c09500099de3eb": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-24T04:10:46+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1517016817115876",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "No interior do Amazonas, caberá aos juízes eleitorais decidir sobre a restrição ao consumo de bebidas alcoólicas",
    "discovered_at": "2026-10-23T15:20:20+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1517016817115876",
    "formats": [
     "link"
    ],
@@ -8381,20 +8399,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b86223d7-030f-483a-8680-a3bc0a63f2d6.webp",
    "key": "guid:6adb788052c09500099de3eb",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1517016817115876"
+   },
    "source_published_at": "2026-10-23T15:10:45+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "TRE-AM e SSP-AM revogam Lei Seca em Manaus para o segundo turno",
-   "updated_at": "2026-10-23T15:20:20+00:00",
+   "updated_at": "2026-10-24T04:10:46+00:00",
    "url": "https://marioadolfo.com/tre-am-e-ssp-am-revogam-lei-seca-em-manaus-para-o-segundo-turno/",
    "url_hash": "0e46242ef859b381e5cbe246"
   },
   "guid:6adb798252c09500099de404": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-24T04:11:35+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1517017410449150",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Empresas do setor manterão equipes de sobreaviso durante votação",
    "discovered_at": "2026-10-23T15:40:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1517017410449150",
    "formats": [
     "link"
    ],
@@ -8402,20 +8430,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/328a0d50-b06d-4d53-af85-648efa297970.jpg",
    "key": "guid:6adb798252c09500099de404",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1517017410449150"
+   },
    "source_published_at": "2026-10-23T15:36:42+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "ONS fará operação especial para garantir energia no segundo turno",
-   "updated_at": "2026-10-23T15:40:15+00:00",
+   "updated_at": "2026-10-24T04:11:35+00:00",
    "url": "https://marioadolfo.com/ons-fara-operacao-especial-para-garantir-energia-no-segundo-turno/",
    "url_hash": "c0f3c93f9ce17c005f053d43"
   },
   "guid:6adb7c6452c09500099de411": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-24T04:11:10+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1517017023782522",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Mais de 400 profissionais estarão de prontidão em Manaus e no interior durante a votação e a apuração",
    "discovered_at": "2026-10-23T15:30:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1517017023782522",
    "formats": [
     "link"
    ],
@@ -8423,20 +8461,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/1429d3dc-6096-4806-91b5-0625bfc492cf.jpeg",
    "key": "guid:6adb7c6452c09500099de411",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1517017023782522"
+   },
    "source_published_at": "2026-10-23T15:27:52+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Âmbar Energia reforça operação para o segundo turno das eleições no Amazonas",
-   "updated_at": "2026-10-23T15:30:18+00:00",
+   "updated_at": "2026-10-24T04:11:10+00:00",
    "url": "https://marioadolfo.com/ambar-energia-reforca-operacao-para-o-segundo-turno-das-eleicoes-no-amazonas/",
    "url_hash": "6523470945694328a5af4d1d"
   },
   "guid:6adb7d8c52c09500099de42f": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-24T04:12:01+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1517017807115777",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "A vítima fatal foi identificada como Ezequias Glória da Silva, que foi atingida por golpes de terçado",
    "discovered_at": "2026-10-23T15:40:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1517017807115777",
    "formats": [
     "link"
    ],
@@ -8444,11 +8492,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ce478034-6ed8-419e-a28f-1ed08be492a1.jpeg",
    "key": "guid:6adb7d8c52c09500099de42f",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1517017807115777"
+   },
    "source_published_at": "2026-10-23T15:37:22+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Confusão acaba em morte, homem baleado e mulher ferida em Maués",
-   "updated_at": "2026-10-23T15:40:15+00:00",
+   "updated_at": "2026-10-24T04:12:01+00:00",
    "url": "https://marioadolfo.com/confusao-acaba-em-morte-homem-baleado-e-mulher-ferida-em-maues/",
    "url_hash": "838c60d4c281888f558801bc"
   },
@@ -8876,8 +8926,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-24T04:00:18+00:00",
-  "saved_at": "2026-10-24T04:02:21+00:00"
+  "last_run_at": "2026-10-24T04:10:14+00:00",
+  "saved_at": "2026-10-24T04:12:01+00:00"
  },
  "schema": 1
 }
