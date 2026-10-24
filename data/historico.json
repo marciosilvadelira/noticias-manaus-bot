@@ -8845,12 +8845,12 @@
    "guid": "6adba26352c09500099de555",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/913094cb-4401-4980-8e37-08a5ba937155.jpeg",
    "key": "guid:6adba26352c09500099de555",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-23T18:09:26+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "TRE-AM inicia distribuição de mais de 4 mil urnas para o segundo turno em Manaus",
-   "updated_at": "2026-10-23T18:10:16+00:00",
+   "updated_at": "2026-10-24T18:10:16+00:00",
    "url": "https://marioadolfo.com/tre-am-inicia-distribuicao-de-mais-de-4-mil-urnas-para-o-segundo-turno-em-manaus/",
    "url_hash": "0df42a81ee732bc1fc208387"
   },
@@ -9336,13 +9336,34 @@
    "updated_at": "2026-10-24T17:38:18+00:00",
    "url": "https://marioadolfo.com/estiagem-deixa-46-municipios-em-emergencia-no-am/",
    "url_hash": "44d2c038bf42daa2966117cb"
+  },
+  "guid:6adcf23452c09500099de80f": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A iniciativa integra os mecanismos de fiscalização do processo eleitoral e busca demonstrar a transparência, a segurança e a possibilidade de auditoria dos sistemas utilizados na votação.",
+   "discovered_at": "2026-10-24T18:10:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6adcf23452c09500099de80f",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/94f5be66-fa2f-45ca-9336-91c0a687ca7a.jpg",
+   "key": "guid:6adcf23452c09500099de80f",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-24T18:05:18+00:00",
+   "status": "pending",
+   "title": "Eleições 2026: TRE-AM sorteia urnas para auditorias da votação no 2º Turno",
+   "updated_at": "2026-10-24T18:10:16+00:00",
+   "url": "https://marioadolfo.com/eleicoes-2026-tre-am-sorteia-urnas-para-auditorias-da-votacao-no-2o-turno/",
+   "url_hash": "f4e05c3a81adf12983c7bd0c"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-24T18:00:20+00:00",
-  "saved_at": "2026-10-24T18:00:21+00:00"
+  "last_run_at": "2026-10-24T18:10:15+00:00",
+  "saved_at": "2026-10-24T18:10:16+00:00"
  },
  "schema": 1
 }
