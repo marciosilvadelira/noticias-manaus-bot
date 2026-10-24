@@ -9210,13 +9210,34 @@
    "updated_at": "2026-10-24T14:00:22+00:00",
    "url": "https://marioadolfo.com/mais-medicos-especialistas-oferece-224-vagas-imediatas-em-nova-chamada/",
    "url_hash": "4edd28190782a72638a3fe58"
+  },
+  "guid:6adcb9b852c09500099de784": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Equipamentos instalados na Compensa e no ramal do Brasileirinho medem a concentração de partículas e ajudam a identificar riscos provocados pela fumaça",
+   "discovered_at": "2026-10-24T14:10:14+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6adcb9b852c09500099de784",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/51aa0513-a2de-43df-abdd-ed9dddcf8328.jpeg",
+   "key": "guid:6adcb9b852c09500099de784",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-24T14:01:29+00:00",
+   "status": "pending",
+   "title": "Prefeitura monitora qualidade do ar em Manaus e estuda ampliar sensores",
+   "updated_at": "2026-10-24T14:10:14+00:00",
+   "url": "https://marioadolfo.com/prefeitura-monitora-qualidade-do-ar-em-manaus-e-estuda-ampliar-sensores/",
+   "url_hash": "c294af3366bfdfffe8fdb675"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-24T14:00:20+00:00",
-  "saved_at": "2026-10-24T14:00:22+00:00"
+  "last_run_at": "2026-10-24T14:10:13+00:00",
+  "saved_at": "2026-10-24T14:10:14+00:00"
  },
  "schema": 1
 }
