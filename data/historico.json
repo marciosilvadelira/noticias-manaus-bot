@@ -8896,6 +8896,27 @@
    "url": "https://marioadolfo.com/sindarma-aponta-desafios-para-o-futuro-da-navegacao-fluvial-em-manaus/",
    "url_hash": "b2e7fcc24b0e40d9b854fc8f"
   },
+  "guid:6adbb6fb52c09500099de5a4": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Checagem pode ser feita no-Título, Autoatendimento Eleitoral e ChatVot",
+   "discovered_at": "2026-10-24T12:20:14+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6adbb6fb52c09500099de5a4",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/9418344b-1178-465b-823d-a6c916c656dc.jpg",
+   "key": "guid:6adbb6fb52c09500099de5a4",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-24T12:10:56+00:00",
+   "status": "pending",
+   "title": "Segundo turno: saiba como consultar local de votação para domingo",
+   "updated_at": "2026-10-24T12:20:14+00:00",
+   "url": "https://marioadolfo.com/segundo-turno-saiba-como-consultar-local-de-votacao-para-domingo/",
+   "url_hash": "4cdf9c9521c1b5fcc2c5e1a0"
+  },
   "guid:6adbb7ba52c09500099de5be": {
    "attempts": [],
    "category": "Brasil",
@@ -9089,8 +9110,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-24T12:10:14+00:00",
-  "saved_at": "2026-10-24T12:10:15+00:00"
+  "last_run_at": "2026-10-24T12:20:14+00:00",
+  "saved_at": "2026-10-24T12:20:15+00:00"
  },
  "schema": 1
 }
