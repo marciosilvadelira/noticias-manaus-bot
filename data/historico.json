@@ -9399,13 +9399,34 @@
    "updated_at": "2026-10-24T20:20:17+00:00",
    "url": "https://marioadolfo.com/dpe-am-articula-transporte-de-eleitores-indigenas-em-tonantins-e-boca-do-acre/",
    "url_hash": "b28919ed8ff2ac396fee88c8"
+  },
+  "guid:6add24f652c09500099de8a6": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Aulas presenciais serão retomadas em todos os turnos, segundo a Secretaria de Educação.",
+   "discovered_at": "2026-10-24T21:40:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6add24f652c09500099de8a6",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ecdfedf6-6d9a-42db-9ccf-a9f2d55ae40b.jpg",
+   "key": "guid:6add24f652c09500099de8a6",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-24T21:38:18+00:00",
+   "status": "pending",
+   "title": "Após suspensão por fumaça, escolas estaduais do AM voltam na segunda",
+   "updated_at": "2026-10-24T21:40:16+00:00",
+   "url": "https://marioadolfo.com/apos-suspensao-por-fumaca-escolas-estaduais-do-am-voltam-na-segunda/",
+   "url_hash": "971fef0e0538ec60259c99a5"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-24T21:30:18+00:00",
-  "saved_at": "2026-10-24T21:30:19+00:00"
+  "last_run_at": "2026-10-24T21:40:15+00:00",
+  "saved_at": "2026-10-24T21:40:16+00:00"
  },
  "schema": 1
 }
