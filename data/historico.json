@@ -8824,12 +8824,12 @@
    "guid": "6adb9dae52c09500099de537",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/77ebefd0-afe0-490a-9afe-4ef660256de5.jpeg",
    "key": "guid:6adb9dae52c09500099de537",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-23T17:51:05+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Governo do Amazonas oficializa promoção de 316 policiais militares",
-   "updated_at": "2026-10-23T18:00:23+00:00",
+   "updated_at": "2026-10-24T18:00:20+00:00",
    "url": "https://marioadolfo.com/governo-do-amazonas-oficializa-promocao-de-316-policiais-militares/",
    "url_hash": "44b7556fa808dc0f0580f24e"
   },
@@ -9341,8 +9341,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-24T17:50:13+00:00",
-  "saved_at": "2026-10-24T17:50:15+00:00"
+  "last_run_at": "2026-10-24T18:00:20+00:00",
+  "saved_at": "2026-10-24T18:00:21+00:00"
  },
  "schema": 1
 }
