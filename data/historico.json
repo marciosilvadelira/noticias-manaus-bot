@@ -9509,11 +9509,19 @@
    "url_hash": "f4e05c3a81adf12983c7bd0c"
   },
   "guid:6add110f52c09500099de841": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-25T04:30:27+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1517994557018102",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Pedidos específicos deverão ser aprovados por um juiz",
    "discovered_at": "2026-10-24T20:20:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1517994557018102",
    "formats": [
     "link"
    ],
@@ -9521,20 +9529,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0d8560a3-a2d1-4a81-98a9-6aea2bd75cd8.jpg",
    "key": "guid:6add110f52c09500099de841",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1517994557018102"
+   },
    "source_published_at": "2026-10-24T20:15:01+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Nunes Marques nega autorização para transporte de eleitores indígenas",
-   "updated_at": "2026-10-24T20:20:17+00:00",
+   "updated_at": "2026-10-25T04:30:27+00:00",
    "url": "https://marioadolfo.com/nunes-marques-nega-autorizacao-para-transporte-de-eleitores-indigenas/",
    "url_hash": "10d08f93056871bbc3ef7f54"
   },
   "guid:6add11f052c09500099de858": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-25T04:30:51+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1517994857018072",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Instituição encaminhou demandas aos órgãos competentes e participou de articulação para viabilizar o deslocamento de comunidades indígenas aos locais de votação no segundo turno das eleições, neste domingo",
    "discovered_at": "2026-10-24T20:20:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1517994857018072",
    "formats": [
     "link"
    ],
@@ -9542,20 +9560,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/062e497d-02a1-4291-b671-a06a9d02deba.jpeg",
    "key": "guid:6add11f052c09500099de858",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1517994857018072"
+   },
    "source_published_at": "2026-10-24T20:17:36+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "DPE-AM articula transporte de eleitores indígenas em Tonantins e Boca do Acre",
-   "updated_at": "2026-10-24T20:20:17+00:00",
+   "updated_at": "2026-10-25T04:30:51+00:00",
    "url": "https://marioadolfo.com/dpe-am-articula-transporte-de-eleitores-indigenas-em-tonantins-e-boca-do-acre/",
    "url_hash": "b28919ed8ff2ac396fee88c8"
   },
   "guid:6add24f652c09500099de8a6": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-25T04:31:17+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1517995097018048",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Aulas presenciais serão retomadas em todos os turnos, segundo a Secretaria de Educação.",
    "discovered_at": "2026-10-24T21:40:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1517995097018048",
    "formats": [
     "link"
    ],
@@ -9563,11 +9591,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ecdfedf6-6d9a-42db-9ccf-a9f2d55ae40b.jpg",
    "key": "guid:6add24f652c09500099de8a6",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1517995097018048"
+   },
    "source_published_at": "2026-10-24T21:38:18+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Após suspensão por fumaça, escolas estaduais do AM voltam na segunda",
-   "updated_at": "2026-10-24T21:40:16+00:00",
+   "updated_at": "2026-10-25T04:31:17+00:00",
    "url": "https://marioadolfo.com/apos-suspensao-por-fumaca-escolas-estaduais-do-am-voltam-na-segunda/",
    "url_hash": "971fef0e0538ec60259c99a5"
   }
@@ -9575,8 +9605,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-25T04:20:14+00:00",
-  "saved_at": "2026-10-25T04:22:03+00:00"
+  "last_run_at": "2026-10-25T04:30:18+00:00",
+  "saved_at": "2026-10-25T04:31:17+00:00"
  },
  "schema": 1
 }
