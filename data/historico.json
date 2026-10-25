@@ -9956,13 +9956,76 @@
    "updated_at": "2026-10-25T15:00:23+00:00",
    "url": "https://marioadolfo.com/maria-do-carmo-vota-em-manaus-e-diz-ter-feito-o-que-pode-na-campanha/",
    "url_hash": "0337a01d73e5164fe744300a"
+  },
+  "guid:6ade194e52c09500099dea17": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Serviço está disponível no site solicitetransporte.serpro.gov.br",
+   "discovered_at": "2026-10-25T15:10:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ade194e52c09500099dea17",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/34fbfd2a-6a34-4f9b-ae1c-dc40a2fa7973.jpg",
+   "key": "guid:6ade194e52c09500099dea17",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-25T15:01:07+00:00",
+   "status": "pending",
+   "title": "Eleições: indígenas e quilombolas têm transporte garantido",
+   "updated_at": "2026-10-25T15:10:15+00:00",
+   "url": "https://marioadolfo.com/eleicoes-indigenas-e-quilombolas-tem-transporte-garantido/",
+   "url_hash": "3c605c146cb8e0d10f104231"
+  },
+  "guid:6ade19b952c09500099dea2b": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Número corresponde a 0,09% das 499.248 urnas empregadas",
+   "discovered_at": "2026-10-25T15:10:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ade19b952c09500099dea2b",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/1a25cf40-38cf-4c07-8506-b98814f0354b.jpg",
+   "key": "guid:6ade19b952c09500099dea2b",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-25T15:02:48+00:00",
+   "status": "pending",
+   "title": "Nas duas primeiras horas de votação, 467 urnas foram substituídas",
+   "updated_at": "2026-10-25T15:10:15+00:00",
+   "url": "https://marioadolfo.com/nas-duas-primeiras-horas-de-votacao-467-urnas-foram-substituidas/",
+   "url_hash": "8d3f909edaf700b7749eee27"
+  },
+  "guid:6ade1b0b52c09500099dea49": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Balanço inicial ponta votação pacífica no AM, com poucas ocorrências, controle de focos de queimada e apoio integrado das Forças Armadas e de Segurança",
+   "discovered_at": "2026-10-25T15:10:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ade1b0b52c09500099dea49",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e5b4339e-8c5d-4c27-9c4c-85d59d8f7e2b.jpeg",
+   "key": "guid:6ade1b0b52c09500099dea49",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-25T15:09:03+00:00",
+   "status": "pending",
+   "title": "TRE-AM destaca tranquilidade no início do 2º turno das Eleições 2026",
+   "updated_at": "2026-10-25T15:10:15+00:00",
+   "url": "https://marioadolfo.com/tre-am-destaca-tranquilidade-no-inicio-do-2o-turno-das-eleicoes-2026/",
+   "url_hash": "ab602222c6da687651d11cd0"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-25T15:00:22+00:00",
-  "saved_at": "2026-10-25T15:00:24+00:00"
+  "last_run_at": "2026-10-25T15:10:14+00:00",
+  "saved_at": "2026-10-25T15:10:15+00:00"
  },
  "schema": 1
 }
