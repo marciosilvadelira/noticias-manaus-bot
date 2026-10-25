@@ -9851,13 +9851,34 @@
    "updated_at": "2026-10-25T13:19:22+00:00",
    "url": "https://marioadolfo.com/renato-junior-afirma-que-mantera-dialogo-com-governador-e-presidente-eleitos/",
    "url_hash": "055d292dcd47abb8b5579deb"
+  },
+  "guid:6ade076452c09500099de990": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Presidente do Tribunal Regional Eleitoral informou sobre ocorrências de incêndios criminosos em Autazes e em Parintins",
+   "discovered_at": "2026-10-25T14:00:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ade076452c09500099de990",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/62f8ad3e-1f84-4fc0-8b6f-4daccf86a1a4.jpg",
+   "key": "guid:6ade076452c09500099de990",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-25T13:54:07+00:00",
+   "status": "pending",
+   "title": "Carla Reis fala sobre incêndios criminosos e desmente fake news sobre Atalaia do Norte",
+   "updated_at": "2026-10-25T14:00:19+00:00",
+   "url": "https://marioadolfo.com/carla-reis-fala-sobre-incendios-criminosos-e-desmente-fake-news-sobre-atalaia-do-norte/",
+   "url_hash": "4724161ca69e4edc2b479f94"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-25T13:50:14+00:00",
-  "saved_at": "2026-10-25T13:50:15+00:00"
+  "last_run_at": "2026-10-25T14:00:18+00:00",
+  "saved_at": "2026-10-25T14:00:19+00:00"
  },
  "schema": 1
 }
