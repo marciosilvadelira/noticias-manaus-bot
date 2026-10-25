@@ -10229,13 +10229,34 @@
    "updated_at": "2026-10-25T17:30:18+00:00",
    "url": "https://marioadolfo.com/crimes-eleitorais-balanco-parcial-aponta-89-ocorrencias-neste-domingo/",
    "url_hash": "46d900d9a421828afbf8d25a"
+  },
+  "guid:6ade3d6752c09500099debb7": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Manutenção será realizada na avenida Mário Ypiranga Monteiro, e o trânsito será desviado para a avenida Djalma Batista.",
+   "discovered_at": "2026-10-25T17:50:14+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ade3d6752c09500099debb7",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0424dab9-48ad-4fef-98e1-88007a7a36ba.jpg",
+   "key": "guid:6ade3d6752c09500099debb7",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-25T17:43:04+00:00",
+   "status": "pending",
+   "title": "Viaduto Ayrton Senna terá interdição durante a madrugada",
+   "updated_at": "2026-10-25T17:50:14+00:00",
+   "url": "https://marioadolfo.com/viaduto-ayrton-senna-tera-interdicao-durante-a-madrugada/",
+   "url_hash": "51a7b8eeab452e23032bdfce"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-25T17:40:14+00:00",
-  "saved_at": "2026-10-25T17:40:15+00:00"
+  "last_run_at": "2026-10-25T17:50:13+00:00",
+  "saved_at": "2026-10-25T17:50:14+00:00"
  },
  "schema": 1
 }
