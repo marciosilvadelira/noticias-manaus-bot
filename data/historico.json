@@ -10397,13 +10397,34 @@
    "updated_at": "2026-10-25T20:20:15+00:00",
    "url": "https://marioadolfo.com/zanin-prorroga-eleicao-em-todo-pais-por-quebra-em-transporte-publico/",
    "url_hash": "338ba77480ed4048cda25923"
+  },
+  "guid:6ade66d452c09500099dec78": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Desembargadora Carla Reis disse que o TSE não comunicou os TRE sobre a decisão do STF de prorrogar a votação em todo o país até às 19h",
+   "discovered_at": "2026-10-25T20:40:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ade66d452c09500099dec78",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0e5a9736-02ff-4f83-ad63-c0ba0bf034bc.jpeg",
+   "key": "guid:6ade66d452c09500099dec78",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-25T20:37:21+00:00",
+   "status": "pending",
+   "title": "TRE-AM diz que eleições estão encerradas e aguarda orientação do TSE sobre prorrogação do horário",
+   "updated_at": "2026-10-25T20:40:16+00:00",
+   "url": "https://marioadolfo.com/tre-am-diz-que-eleicoes-estao-encerradas-e-aguarda-orientacao-do-tse-sobre-prorrogacao-do-horario/",
+   "url_hash": "9d92f6d55f3ff0dd69b69aea"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-25T20:30:19+00:00",
-  "saved_at": "2026-10-25T20:30:20+00:00"
+  "last_run_at": "2026-10-25T20:40:15+00:00",
+  "saved_at": "2026-10-25T20:40:16+00:00"
  },
  "schema": 1
 }
