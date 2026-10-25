@@ -10565,13 +10565,34 @@
    "updated_at": "2026-10-25T23:30:16+00:00",
    "url": "https://marioadolfo.com/celina-leao-e-reeleita-governadora-do-distrito-federal/",
    "url_hash": "686b9d690769e54aa351b123"
+  },
+  "guid:6ade97a052c09500099ded72": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A candidata disse ainda que encerra a disputa eleitoral de cabeça erguida, com gratidão e consciência tranquila",
+   "discovered_at": "2026-10-25T23:59:59+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ade97a052c09500099ded72",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/220d9ae3-d48a-4732-85e1-6c3f50d2debb.jpeg",
+   "key": "guid:6ade97a052c09500099ded72",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-25T23:59:54+00:00",
+   "status": "pending",
+   "title": "Maria do Carmo agradece aos 780 mil votos e parabeniza Omar pela vitória",
+   "updated_at": "2026-10-25T23:59:59+00:00",
+   "url": "https://marioadolfo.com/maria-do-carmo-agradece-aos-780-mil-votos-e-parabeniza-omar-pela-vitoria/",
+   "url_hash": "2323454637a9e64412a210e7"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-25T23:50:14+00:00",
-  "saved_at": "2026-10-25T23:50:16+00:00"
+  "last_run_at": "2026-10-25T23:59:58+00:00",
+  "saved_at": "2026-10-25T23:59:59+00:00"
  },
  "schema": 1
 }
