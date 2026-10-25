@@ -10166,13 +10166,55 @@
    "updated_at": "2026-10-25T16:50:15+00:00",
    "url": "https://marioadolfo.com/vereadora-do-pt-e-atacada-durante-carreata-em-montes-claros/",
    "url_hash": "0c02e24b7b2c547600307c89"
+  },
+  "guid:6ade393252c09500099deb75": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Chefe do Executivo estadual reafirmou o compromisso com o povo amazonense e com o diálogo na transição de governo",
+   "discovered_at": "2026-10-25T17:20:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ade393252c09500099deb75",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/12933235-1ed1-4c69-bb31-68bd65f7af56.jpeg",
+   "key": "guid:6ade393252c09500099deb75",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-25T17:16:31+00:00",
+   "status": "pending",
+   "title": "Roberto Cidade vota em Manaus e destaca responsabilidade com o futuro",
+   "updated_at": "2026-10-25T17:20:15+00:00",
+   "url": "https://marioadolfo.com/roberto-cidade-vota-em-manaus-e-destaca-responsabilidade-com-o-futuro/",
+   "url_hash": "2671ea12fb121b7ab8595236"
+  },
+  "guid:6ade398452c09500099deb88": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Mais de 400 profissionais estarão de prontidão em Manaus e no interior durante a votação e a apuração",
+   "discovered_at": "2026-10-25T17:20:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ade398452c09500099deb88",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0fc4bfef-a7ba-4b5e-8838-b08eb021870b.jpeg",
+   "key": "guid:6ade398452c09500099deb88",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-25T17:17:39+00:00",
+   "status": "pending",
+   "title": "Âmbar Energia reforça operação para o segundo turno das eleições no Amazonas",
+   "updated_at": "2026-10-25T17:20:15+00:00",
+   "url": "https://marioadolfo.com/ambar-energia-reforca-operacao-para-o-segundo-turno-das-eleicoes-no-amazonas-2/",
+   "url_hash": "2c29003678aaab7bf93a1ed8"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-25T17:10:14+00:00",
-  "saved_at": "2026-10-25T17:10:16+00:00"
+  "last_run_at": "2026-10-25T17:20:14+00:00",
+  "saved_at": "2026-10-25T17:20:16+00:00"
  },
  "schema": 1
 }
