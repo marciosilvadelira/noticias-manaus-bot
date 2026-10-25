@@ -9746,13 +9746,55 @@
    "updated_at": "2026-10-25T11:30:24+00:00",
    "url": "https://marioadolfo.com/eleicoes-2026-omar-aziz-e-maria-do-carmo-disputam-o-governo-do-amazonas/",
    "url_hash": "3bd0fa2cdad471ec82d73b89"
+  },
+  "guid:6addfaea52c09500099de908": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Candidato do PL chegou à seção de votação acompanhado da mulher",
+   "discovered_at": "2026-10-25T13:00:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6addfaea52c09500099de908",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e6217b35-4546-42b0-b148-7500825da019.jpg",
+   "key": "guid:6addfaea52c09500099de908",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-25T12:50:38+00:00",
+   "status": "pending",
+   "title": "Ao votar no Rio de Janeiro, Flávio diz que representa a mudança",
+   "updated_at": "2026-10-25T13:00:19+00:00",
+   "url": "https://marioadolfo.com/ao-votar-no-rio-de-janeiro-flavio-diz-que-representa-a-mudanca/",
+   "url_hash": "2990abe221119b5f52cc1a60"
+  },
+  "guid:6addfb8852c09500099de91e": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "A operação conta com efetivos na capital e no interior, além de monitoramento integrado pelo CICC",
+   "discovered_at": "2026-10-25T13:00:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6addfb8852c09500099de91e",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/951bdefc-3eb7-4ad4-b197-9289e48993f8.jpeg",
+   "key": "guid:6addfb8852c09500099de91e",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-25T12:54:33+00:00",
+   "status": "pending",
+   "title": "SSP-AM mobiliza 3,6 mil servidores das Forças de Segurança para o 2º turno",
+   "updated_at": "2026-10-25T13:00:19+00:00",
+   "url": "https://marioadolfo.com/ssp-am-mobiliza-3-6-mil-servidores-das-forcas-de-seguranca-para-o-2o-turno/",
+   "url_hash": "25f33eb3f460d782ff926a0b"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-25T12:50:15+00:00",
-  "saved_at": "2026-10-25T12:50:16+00:00"
+  "last_run_at": "2026-10-25T13:00:18+00:00",
+  "saved_at": "2026-10-25T13:00:19+00:00"
  },
  "schema": 1
 }
