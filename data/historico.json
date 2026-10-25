@@ -9872,13 +9872,34 @@
    "updated_at": "2026-10-25T14:00:19+00:00",
    "url": "https://marioadolfo.com/carla-reis-fala-sobre-incendios-criminosos-e-desmente-fake-news-sobre-atalaia-do-norte/",
    "url_hash": "4724161ca69e4edc2b479f94"
+  },
+  "guid:6ade0a9f52c09500099de9bd": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Aos 80 anos, ele destacou a importância de disputar um quarto mandato presidencial e agradeceu à população pelo apoio recebido ao longo da campanha",
+   "discovered_at": "2026-10-25T14:10:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ade0a9f52c09500099de9bd",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2c5f5313-d703-43c8-b6b1-238b3cfb2b7a.jpg",
+   "key": "guid:6ade0a9f52c09500099de9bd",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-25T14:00:52+00:00",
+   "status": "pending",
+   "title": "Lula vota e agradece mobilização popular no 2º turno: 'Nunca vi nada igual'",
+   "updated_at": "2026-10-25T14:10:17+00:00",
+   "url": "https://marioadolfo.com/lula-vota-e-agradece-mobilizacao-popular-no-2o-turno-nunca-vi-nada-igual/",
+   "url_hash": "a01e7c486b6e4b812d5f3c72"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-25T14:00:18+00:00",
-  "saved_at": "2026-10-25T14:00:19+00:00"
+  "last_run_at": "2026-10-25T14:10:16+00:00",
+  "saved_at": "2026-10-25T14:10:18+00:00"
  },
  "schema": 1
 }
