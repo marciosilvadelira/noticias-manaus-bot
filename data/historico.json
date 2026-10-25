@@ -9042,6 +9042,58 @@
    "url": "https://marioadolfo.com/mais-de-74-mil-sessoes-terapeuticas-foram-realizadas-no-caic-tea-gilson-moreira/",
    "url_hash": "63613954049ca6ba204ffd67"
   },
+  "guid:6adbc51b52c09500099de647": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Eleitores amazonenses voltam às urnas para escolher governador e presidente da República neste domingo (25)",
+   "discovered_at": "2026-10-25T11:40:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6adbc51b52c09500099de647",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f819126c-6f07-4da9-a88a-d1a0c8ef39bb.jpeg",
+   "key": "guid:6adbc51b52c09500099de647",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-25T11:36:58+00:00",
+   "status": "pending",
+   "title": "Segundo turno: tudo o que você precisa saber para votar no Amazonas",
+   "updated_at": "2026-10-25T11:40:15+00:00",
+   "url": "https://marioadolfo.com/segundo-turno-tudo-o-que-voce-precisa-saber-para-votar-no-amazonas/",
+   "url_hash": "05ed9c6959252104c62a7d77"
+  },
+  "guid:6adbc5de52c09500099de65e": {
+   "attempts": [
+    {
+     "at": "2026-10-25T11:40:19+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1518270886990469",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "Omar Aziz (PSD) e Professora Maria do Carmo (PL) disputam o segundo turno da eleição para governador",
+   "discovered_at": "2026-10-25T11:40:15+00:00",
+   "fb_post_id": "107393769293726_1518270886990469",
+   "formats": [
+    "link"
+   ],
+   "guid": "6adbc5de52c09500099de65e",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0d3a3e57-d96b-4c52-ae77-60264878c0ee.webp",
+   "key": "guid:6adbc5de52c09500099de65e",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1518270886990469"
+   },
+   "source_published_at": "2026-10-25T11:36:05+00:00",
+   "status": "published",
+   "title": "Amazonas é um dos cincos estados que irá eleger governador neste domingo (25)",
+   "updated_at": "2026-10-25T11:40:19+00:00",
+   "url": "https://marioadolfo.com/amazonas-e-um-dos-cincos-estados-que-ira-eleger-governador-neste-domingo-25/",
+   "url_hash": "5fbd4aec08eb1ab97c0f8526"
+  },
   "guid:6adbcb2452c09500099de694": {
    "attempts": [
     {
@@ -9570,6 +9622,69 @@
    "url": "https://marioadolfo.com/dpe-am-articula-transporte-de-eleitores-indigenas-em-tonantins-e-boca-do-acre/",
    "url_hash": "b28919ed8ff2ac396fee88c8"
   },
+  "guid:6add129252c09500099de86e": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Tentar impedir o exercício do voto é crime eleitoral",
+   "discovered_at": "2026-10-25T11:40:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6add129252c09500099de86e",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/68dcfb6e-5108-48c6-9b07-8e4d92684c96.jpg",
+   "key": "guid:6add129252c09500099de86e",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-25T11:37:38+00:00",
+   "status": "pending",
+   "title": "Trabalhador tem direito de sair do serviço para votar; confira a lei",
+   "updated_at": "2026-10-25T11:40:15+00:00",
+   "url": "https://marioadolfo.com/trabalhador-tem-direito-de-sair-do-servico-para-votar-confira-a-lei/",
+   "url_hash": "2ca757f23a8965c82cbc7c3b"
+  },
+  "guid:6add132552c09500099de882": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Eleitor não pode pedir voto, mas pode usar camiseta de candidato",
+   "discovered_at": "2026-10-25T11:40:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6add132552c09500099de882",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a2e74feb-04a0-4c42-b890-89dafb853628.jpg",
+   "key": "guid:6add132552c09500099de882",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-25T11:37:26+00:00",
+   "status": "pending",
+   "title": "Eleições 2026: saiba o que caracteriza o crime de boca de urna",
+   "updated_at": "2026-10-25T11:40:15+00:00",
+   "url": "https://marioadolfo.com/eleicoes-2026-saiba-o-que-caracteriza-o-crime-de-boca-de-urna/",
+   "url_hash": "f2eb084587a1da089fdbd718"
+  },
+  "guid:6add18a852c09500099de898": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Mais de 5,4 mil incêndios urbanos e florestais foram combatidos neste ano",
+   "discovered_at": "2026-10-25T11:40:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6add18a852c09500099de898",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/af2e1979-26e2-4b3a-b250-6d2d76c7f8a6.jpeg",
+   "key": "guid:6add18a852c09500099de898",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-25T11:39:18+00:00",
+   "status": "pending",
+   "title": "Bombeiros intensificam combate a incêndios após aumento de 540% nas ocorrências no AM",
+   "updated_at": "2026-10-25T11:40:15+00:00",
+   "url": "https://marioadolfo.com/bombeiros-intensificam-combate-a-incendios-apos-aumento-de-540-nas-ocorrencias-no-am/",
+   "url_hash": "aafc5ba96f46946a09e9768e"
+  },
   "guid:6add24f652c09500099de8a6": {
    "attempts": [
     {
@@ -9636,8 +9751,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-25T11:30:18+00:00",
-  "saved_at": "2026-10-25T11:30:24+00:00"
+  "last_run_at": "2026-10-25T11:40:14+00:00",
+  "saved_at": "2026-10-25T11:40:19+00:00"
  },
  "schema": 1
 }
