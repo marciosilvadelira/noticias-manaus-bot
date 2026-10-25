@@ -9830,13 +9830,34 @@
    "updated_at": "2026-10-25T13:10:15+00:00",
    "url": "https://marioadolfo.com/acidente-com-carro-que-levava-urnas-eletronicas-deixa-duas-feridas-em-labrea/",
    "url_hash": "0cb5279a25e9487839dcaf69"
+  },
+  "guid:6ade001c52c09500099de977": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "O prefeito de Manaus destacou a importância da cooperação entre os governos para atender às demandas da população",
+   "discovered_at": "2026-10-25T13:19:22+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ade001c52c09500099de977",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4087c1df-9b03-44d8-8ab5-82f00c5fc9d0.jpg",
+   "key": "guid:6ade001c52c09500099de977",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-25T13:14:21+00:00",
+   "status": "pending",
+   "title": "Renato Júnior afirma que manterá diálogo com governador e presidente eleitos",
+   "updated_at": "2026-10-25T13:19:22+00:00",
+   "url": "https://marioadolfo.com/renato-junior-afirma-que-mantera-dialogo-com-governador-e-presidente-eleitos/",
+   "url_hash": "055d292dcd47abb8b5579deb"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-25T13:10:14+00:00",
-  "saved_at": "2026-10-25T13:10:15+00:00"
+  "last_run_at": "2026-10-25T13:19:22+00:00",
+  "saved_at": "2026-10-25T13:19:24+00:00"
  },
  "schema": 1
 }
