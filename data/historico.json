@@ -10418,13 +10418,34 @@
    "updated_at": "2026-10-25T20:40:16+00:00",
    "url": "https://marioadolfo.com/tre-am-diz-que-eleicoes-estao-encerradas-e-aguarda-orientacao-do-tse-sobre-prorrogacao-do-horario/",
    "url_hash": "9d92f6d55f3ff0dd69b69aea"
+  },
+  "guid:6ade6deb52c09500099deca3": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Secretaria de Segurança Pública registrou violação do sigilo do voto nos municípios de  Urucurituba, Lábrea, Codajás e Anori",
+   "discovered_at": "2026-10-25T21:10:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ade6deb52c09500099deca3",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0c714869-0cd3-4af4-b85f-6a4186a8b0d6.jpeg",
+   "key": "guid:6ade6deb52c09500099deca3",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-25T21:07:01+00:00",
+   "status": "pending",
+   "title": "Segundo turno no AM teve 20 urnas substituídas e 28 possíveis crimes eleitorais",
+   "updated_at": "2026-10-25T21:10:16+00:00",
+   "url": "https://marioadolfo.com/segundo-turno-no-am-teve-20-urnas-substituidas-e-28-possiveis-crimes-eleitorais/",
+   "url_hash": "9d15a9be1f505666735a9dc2"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-25T21:00:21+00:00",
-  "saved_at": "2026-10-25T21:00:22+00:00"
+  "last_run_at": "2026-10-25T21:10:16+00:00",
+  "saved_at": "2026-10-25T21:10:17+00:00"
  },
  "schema": 1
 }
