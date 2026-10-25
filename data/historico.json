@@ -9600,13 +9600,44 @@
    "updated_at": "2026-10-25T04:31:17+00:00",
    "url": "https://marioadolfo.com/apos-suspensao-por-fumaca-escolas-estaduais-do-am-voltam-na-segunda/",
    "url_hash": "971fef0e0538ec60259c99a5"
+  },
+  "guid:6adde5d552c09500099de8be": {
+   "attempts": [
+    {
+     "at": "2026-10-25T11:30:24+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1518263736991184",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "No primeiro turno, Aziz ficou na frente, com 40,63% dos votos válidos (841.846 votos) e Maria do Carmo ficou em segundo, com 24,49% (507.335 votos)",
+   "discovered_at": "2026-10-25T11:30:19+00:00",
+   "fb_post_id": "107393769293726_1518263736991184",
+   "formats": [
+    "link"
+   ],
+   "guid": "6adde5d552c09500099de8be",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/87b7423f-3645-47ea-b0e0-c3964ee4696a.webp",
+   "key": "guid:6adde5d552c09500099de8be",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1518263736991184"
+   },
+   "source_published_at": "2026-10-25T11:21:47+00:00",
+   "status": "published",
+   "title": "Eleições 2026: Omar Aziz e Maria do Carmo disputam o Governo do Amazonas",
+   "updated_at": "2026-10-25T11:30:24+00:00",
+   "url": "https://marioadolfo.com/eleicoes-2026-omar-aziz-e-maria-do-carmo-disputam-o-governo-do-amazonas/",
+   "url_hash": "3bd0fa2cdad471ec82d73b89"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-25T11:20:14+00:00",
-  "saved_at": "2026-10-25T11:20:14+00:00"
+  "last_run_at": "2026-10-25T11:30:18+00:00",
+  "saved_at": "2026-10-25T11:30:24+00:00"
  },
  "schema": 1
 }
