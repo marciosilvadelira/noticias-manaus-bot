@@ -10313,13 +10313,34 @@
    "updated_at": "2026-10-25T19:33:40+00:00",
    "url": "https://marioadolfo.com/tre-am-garante-transporte-a-eleitores-com-mobilidade-reduzida-no-segundo-turno/",
    "url_hash": "cd3fd761a2e3f8a21f4e521c"
+  },
+  "guid:6ade5c2152c09500099dec0f": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A ação conta com aproximadamente 300 agentes e gratuidade no transporte coletivo com 1.340 ônibus circulando",
+   "discovered_at": "2026-10-25T19:50:14+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ade5c2152c09500099dec0f",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/9bcef86f-c9dd-4b4e-b989-091af43bcc26.jpg",
+   "key": "guid:6ade5c2152c09500099dec0f",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-25T19:46:08+00:00",
+   "status": "pending",
+   "title": "Prefeitura de Manaus realiza operação especial de trânsito e transporte",
+   "updated_at": "2026-10-25T19:50:14+00:00",
+   "url": "https://marioadolfo.com/prefeitura-de-manaus-realiza-operacao-especial-de-transito-e-transporte/",
+   "url_hash": "bbd19c10ef4b1d712a564c1c"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-25T19:40:13+00:00",
-  "saved_at": "2026-10-25T19:40:14+00:00"
+  "last_run_at": "2026-10-25T19:50:13+00:00",
+  "saved_at": "2026-10-25T19:50:14+00:00"
  },
  "schema": 1
 }
