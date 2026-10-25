@@ -9788,13 +9788,55 @@
    "updated_at": "2026-10-25T13:00:19+00:00",
    "url": "https://marioadolfo.com/ssp-am-mobiliza-3-6-mil-servidores-das-forcas-de-seguranca-para-o-2o-turno/",
    "url_hash": "25f33eb3f460d782ff926a0b"
+  },
+  "guid:6addfcd952c09500099de935": {
+   "attempts": [],
+   "category": "Mundo",
+   "description": "Presidente recebeu 418 votos, contra 101 do senador. A Nova Zelândia foi o primeiro país a encerrar a votação entre os brasileiros que vivem no exterior",
+   "discovered_at": "2026-10-25T13:10:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6addfcd952c09500099de935",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e5dd13d7-eec8-480f-b64f-4a1eba886bca.JPG",
+   "key": "guid:6addfcd952c09500099de935",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-25T13:01:28+00:00",
+   "status": "pending",
+   "title": "Votos no exterior: Lula vence na Nova Zelândia e outros países seguem em apuração",
+   "updated_at": "2026-10-25T13:10:15+00:00",
+   "url": "https://marioadolfo.com/votos-no-exterior-lula-vence-na-nova-zelandia-e-outros-paises-seguem-em-apuracao/",
+   "url_hash": "ccf7d6702b459966ca04eb0b"
+  },
+  "guid:6addfd8652c09500099de940": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Veículo transportava equipamentos para as eleições deste domingo (25); vítimas foram encaminhadas a uma unidade de saúde no Acre",
+   "discovered_at": "2026-10-25T13:10:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6addfd8652c09500099de940",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/91befd9b-38b6-4e81-be26-3c20cba995bf.png",
+   "key": "guid:6addfd8652c09500099de940",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-25T13:04:14+00:00",
+   "status": "pending",
+   "title": "Acidente com carro que levava urnas eletrônicas deixa duas feridas em Lábrea",
+   "updated_at": "2026-10-25T13:10:15+00:00",
+   "url": "https://marioadolfo.com/acidente-com-carro-que-levava-urnas-eletronicas-deixa-duas-feridas-em-labrea/",
+   "url_hash": "0cb5279a25e9487839dcaf69"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-25T13:00:18+00:00",
-  "saved_at": "2026-10-25T13:00:19+00:00"
+  "last_run_at": "2026-10-25T13:10:14+00:00",
+  "saved_at": "2026-10-25T13:10:15+00:00"
  },
  "schema": 1
 }
