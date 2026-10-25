@@ -9935,13 +9935,34 @@
    "updated_at": "2026-10-25T14:50:15+00:00",
    "url": "https://marioadolfo.com/objeto-suspeito-mobiliza-grupo-marte-perto-de-local-de-votacao-em-manaus/",
    "url_hash": "243e13beaf023cb5b306768c"
+  },
+  "guid:6ade18c052c09500099de9ff": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A candidata do PL disse que acompanhará a apuração dos votos em casa",
+   "discovered_at": "2026-10-25T15:00:23+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ade18c052c09500099de9ff",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5c29de7c-eab2-4b36-b7b4-57586a8b3ec5.jpeg",
+   "key": "guid:6ade18c052c09500099de9ff",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-25T14:58:35+00:00",
+   "status": "pending",
+   "title": "Maria do Carmo vota em Manaus e diz ter feito o que pôde na campanha",
+   "updated_at": "2026-10-25T15:00:23+00:00",
+   "url": "https://marioadolfo.com/maria-do-carmo-vota-em-manaus-e-diz-ter-feito-o-que-pode-na-campanha/",
+   "url_hash": "0337a01d73e5164fe744300a"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-25T14:50:15+00:00",
-  "saved_at": "2026-10-25T14:50:16+00:00"
+  "last_run_at": "2026-10-25T15:00:22+00:00",
+  "saved_at": "2026-10-25T15:00:24+00:00"
  },
  "schema": 1
 }
