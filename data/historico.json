@@ -10040,13 +10040,34 @@
    "updated_at": "2026-10-25T15:40:17+00:00",
    "url": "https://marioadolfo.com/vontade-das-urnas-precisa-ser-respeitada-afirma-fachin-apos-votar/",
    "url_hash": "c5fcc4f01df348cc87e46449"
+  },
+  "guid:6ade249a52c09500099deace": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Senador recebeu o carinho dos eleitores. Braga declarou esperança na vitória de Lula e Omar Aziz",
+   "discovered_at": "2026-10-25T15:50:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ade249a52c09500099deace",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/70f6a4a3-04a2-43b7-9d42-9899060a5caa.jpeg",
+   "key": "guid:6ade249a52c09500099deace",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-25T15:49:32+00:00",
+   "status": "pending",
+   "title": "Eduardo Braga vota no segundo turno e reafirma confiança nas urnas",
+   "updated_at": "2026-10-25T15:50:16+00:00",
+   "url": "https://marioadolfo.com/eduardo-braga-vota-no-segundo-turno-e-reafirma-confianca-nas-urnas/",
+   "url_hash": "d57a1386dffdbbbcc0df5b87"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-25T15:40:16+00:00",
-  "saved_at": "2026-10-25T15:40:17+00:00"
+  "last_run_at": "2026-10-25T15:50:15+00:00",
+  "saved_at": "2026-10-25T15:50:17+00:00"
  },
  "schema": 1
 }
