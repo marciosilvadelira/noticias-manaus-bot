@@ -9043,11 +9043,19 @@
    "url_hash": "63613954049ca6ba204ffd67"
   },
   "guid:6adbcb2452c09500099de694": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-25T04:20:49+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1517986623685562",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Há vagas para cidades como Manaus, Parintins, Itacoatiara, Manacapuru, Coari, Tefé, Tabatinga e Maués",
    "discovered_at": "2026-10-24T15:00:21+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1517986623685562",
    "formats": [
     "link"
    ],
@@ -9055,11 +9063,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ffc2c9c0-524a-4787-8986-54e66a9b5e1c.jpg",
    "key": "guid:6adbcb2452c09500099de694",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1517986623685562"
+   },
    "source_published_at": "2026-10-24T14:56:44+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Americanas abre 33 vagas temporárias para a Black Friday no Amazonas",
-   "updated_at": "2026-10-24T15:00:21+00:00",
+   "updated_at": "2026-10-25T04:20:49+00:00",
    "url": "https://marioadolfo.com/americanas-abre-33-vagas-temporarias-para-a-black-friday-no-amazonas/",
    "url_hash": "f59921dda12ca29498a25dbb"
   },
@@ -9354,11 +9364,19 @@
    "url_hash": "c294af3366bfdfffe8fdb675"
   },
   "guid:6adcbe4f52c09500099de799": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-25T04:20:23+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1517986303685594",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Homem foi agredido por um grupo e teve o corpo jogado em uma área de mata na avenida Criciúma, no Grande Vitória.",
    "discovered_at": "2026-10-24T14:30:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1517986303685594",
    "formats": [
     "link"
    ],
@@ -9366,11 +9384,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d7fe87e6-1277-4340-91e9-bc67d9a0b90b.jpeg",
    "key": "guid:6adcbe4f52c09500099de799",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1517986303685594"
+   },
    "source_published_at": "2026-10-24T14:21:56+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Suspeito de tentar matar duas adolescentes morre após espancamento em Manaus",
-   "updated_at": "2026-10-24T14:30:17+00:00",
+   "updated_at": "2026-10-25T04:20:23+00:00",
    "url": "https://marioadolfo.com/suspeito-de-tentar-matar-duas-adolescentes-morre-apos-espancamento-em-manaus/",
    "url_hash": "99b8746e816169e21771b67f"
   },
@@ -9396,11 +9416,19 @@
    "url_hash": "977e5b431acbda8231b6bd72"
   },
   "guid:6adcd87252c09500099de7d1": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-25T04:21:12+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1517986833685541",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Concentração no Largo de São Sebastião começa às 16h, e a organização promete dois carros de som e grupos de batucada",
    "discovered_at": "2026-10-24T16:20:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1517986833685541",
    "formats": [
     "link"
    ],
@@ -9408,20 +9436,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b63e70da-6e59-4c54-a356-064787c95ce5.jpg",
    "key": "guid:6adcd87252c09500099de7d1",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1517986833685541"
+   },
    "source_published_at": "2026-10-24T16:16:02+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "'Vira Vira Lula': apoiadores do presidente fazem ato no Largo de São Sebastião neste sábado",
-   "updated_at": "2026-10-24T16:20:15+00:00",
+   "updated_at": "2026-10-25T04:21:12+00:00",
    "url": "https://marioadolfo.com/vira-vira-lula-apoiadores-do-presidente-fazem-ato-no-largo-de-sao-sebastiao-em-manaus-neste-sabado/",
    "url_hash": "a2cb4cb3656bbbc143d3dad0"
   },
   "guid:6adceaa752c09500099de7f3": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-25T04:21:38+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1517987180352173",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "De acordo com a Defesa Civil, 113.900 famílias foram atingidas pelo desastre de estiagem.",
    "discovered_at": "2026-10-24T17:38:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1517987180352173",
    "formats": [
     "link"
    ],
@@ -9429,20 +9467,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/83d91361-7b7a-4fc2-948f-b5ff58fec42c.jpg",
    "key": "guid:6adceaa752c09500099de7f3",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1517987180352173"
+   },
    "source_published_at": "2026-10-24T17:30:27+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Estiagem deixa 46 municípios em emergência no AM",
-   "updated_at": "2026-10-24T17:38:18+00:00",
+   "updated_at": "2026-10-25T04:21:38+00:00",
    "url": "https://marioadolfo.com/estiagem-deixa-46-municipios-em-emergencia-no-am/",
    "url_hash": "44d2c038bf42daa2966117cb"
   },
   "guid:6adcf23452c09500099de80f": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-25T04:22:03+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1517987567018801",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "A iniciativa integra os mecanismos de fiscalização do processo eleitoral e busca demonstrar a transparência, a segurança e a possibilidade de auditoria dos sistemas utilizados na votação.",
    "discovered_at": "2026-10-24T18:10:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1517987567018801",
    "formats": [
     "link"
    ],
@@ -9450,11 +9498,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/94f5be66-fa2f-45ca-9336-91c0a687ca7a.jpg",
    "key": "guid:6adcf23452c09500099de80f",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1517987567018801"
+   },
    "source_published_at": "2026-10-24T18:05:18+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Eleições 2026: TRE-AM sorteia urnas para auditorias da votação no 2º Turno",
-   "updated_at": "2026-10-24T18:10:16+00:00",
+   "updated_at": "2026-10-25T04:22:03+00:00",
    "url": "https://marioadolfo.com/eleicoes-2026-tre-am-sorteia-urnas-para-auditorias-da-votacao-no-2o-turno/",
    "url_hash": "f4e05c3a81adf12983c7bd0c"
   },
@@ -9525,8 +9575,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-25T04:10:14+00:00",
-  "saved_at": "2026-10-25T04:12:07+00:00"
+  "last_run_at": "2026-10-25T04:20:14+00:00",
+  "saved_at": "2026-10-25T04:22:03+00:00"
  },
  "schema": 1
 }
