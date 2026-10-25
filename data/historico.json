@@ -9893,13 +9893,55 @@
    "updated_at": "2026-10-25T14:10:17+00:00",
    "url": "https://marioadolfo.com/lula-vota-e-agradece-mobilizacao-popular-no-2o-turno-nunca-vi-nada-igual/",
    "url_hash": "a01e7c486b6e4b812d5f3c72"
+  },
+  "guid:6ade150e52c09500099de9d3": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Candidato do PSD destacou propostas para saúde, segurança e educação e afirmou que pretende governar para todos, caso seja eleito",
+   "discovered_at": "2026-10-25T14:50:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ade150e52c09500099de9d3",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/281754c4-4f05-4550-a431-db6d832d63d2.jpg",
+   "key": "guid:6ade150e52c09500099de9d3",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-25T14:43:10+00:00",
+   "status": "pending",
+   "title": "Omar Aziz vota em Manaus e diz esperar que democracia prevaleça no segundo turno",
+   "updated_at": "2026-10-25T14:50:15+00:00",
+   "url": "https://marioadolfo.com/omar-aziz-vota-em-manaus-e-diz-esperar-que-democracia-prevaleca-no-segundo-turno/",
+   "url_hash": "b06e862c9794cd1151653c9c"
+  },
+  "guid:6ade163a52c09500099de9e8": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Área nas proximidades da Escola Estadual Osmar Pedrosa foi isolada preventivamente para averiguação.",
+   "discovered_at": "2026-10-25T14:50:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ade163a52c09500099de9e8",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/399bdaea-1c64-4318-9adb-6a2bfbbb636e.jpg",
+   "key": "guid:6ade163a52c09500099de9e8",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-25T14:47:38+00:00",
+   "status": "pending",
+   "title": "Objeto suspeito mobiliza Grupo Marte perto de local de votação em Manaus",
+   "updated_at": "2026-10-25T14:50:15+00:00",
+   "url": "https://marioadolfo.com/objeto-suspeito-mobiliza-grupo-marte-perto-de-local-de-votacao-em-manaus/",
+   "url_hash": "243e13beaf023cb5b306768c"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-25T14:40:14+00:00",
-  "saved_at": "2026-10-25T14:40:15+00:00"
+  "last_run_at": "2026-10-25T14:50:15+00:00",
+  "saved_at": "2026-10-25T14:50:16+00:00"
  },
  "schema": 1
 }
