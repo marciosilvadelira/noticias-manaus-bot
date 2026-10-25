@@ -10292,13 +10292,34 @@
    "updated_at": "2026-10-25T19:00:20+00:00",
    "url": "https://marioadolfo.com/pedido-para-ampliar-horario-de-votacao-sera-avaliado-afirma-marques/",
    "url_hash": "97ebd434e8645f025964ecc4"
+  },
+  "guid:6ade58e352c09500099debfb": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Ação deste domingo (25/10) facilita o deslocamento de eleitoras e eleitores aos locais de votação nas Eleições 2026",
+   "discovered_at": "2026-10-25T19:33:40+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ade58e352c09500099debfb",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2a7227a2-d508-4716-b675-a2d2fcdf671a.jpeg",
+   "key": "guid:6ade58e352c09500099debfb",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-25T19:32:38+00:00",
+   "status": "pending",
+   "title": "TRE-AM garante transporte a eleitores com mobilidade reduzida no segundo turno",
+   "updated_at": "2026-10-25T19:33:40+00:00",
+   "url": "https://marioadolfo.com/tre-am-garante-transporte-a-eleitores-com-mobilidade-reduzida-no-segundo-turno/",
+   "url_hash": "cd3fd761a2e3f8a21f4e521c"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-25T19:30:18+00:00",
-  "saved_at": "2026-10-25T19:30:20+00:00"
+  "last_run_at": "2026-10-25T19:33:39+00:00",
+  "saved_at": "2026-10-25T19:33:41+00:00"
  },
  "schema": 1
 }
