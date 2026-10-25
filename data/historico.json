@@ -10208,13 +10208,34 @@
    "updated_at": "2026-10-25T17:20:15+00:00",
    "url": "https://marioadolfo.com/ambar-energia-reforca-operacao-para-o-segundo-turno-das-eleicoes-no-amazonas-2/",
    "url_hash": "2c29003678aaab7bf93a1ed8"
+  },
+  "guid:6ade3a1052c09500099deb9b": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Foram nove prisões em flagrante em todo o país, segundo Ministério da Justiça",
+   "discovered_at": "2026-10-25T17:30:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ade3a1052c09500099deb9b",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/46f3ed91-7620-4458-b6fe-5f7f22a88dda.jpg",
+   "key": "guid:6ade3a1052c09500099deb9b",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-25T17:20:26+00:00",
+   "status": "pending",
+   "title": "Crimes eleitorais: balanço parcial aponta 89 ocorrências neste domingo",
+   "updated_at": "2026-10-25T17:30:18+00:00",
+   "url": "https://marioadolfo.com/crimes-eleitorais-balanco-parcial-aponta-89-ocorrencias-neste-domingo/",
+   "url_hash": "46d900d9a421828afbf8d25a"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-25T17:20:14+00:00",
-  "saved_at": "2026-10-25T17:20:16+00:00"
+  "last_run_at": "2026-10-25T17:30:17+00:00",
+  "saved_at": "2026-10-25T17:30:18+00:00"
  },
  "schema": 1
 }
