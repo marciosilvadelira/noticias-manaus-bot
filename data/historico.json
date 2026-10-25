@@ -10019,13 +10019,34 @@
    "updated_at": "2026-10-25T15:10:15+00:00",
    "url": "https://marioadolfo.com/tre-am-destaca-tranquilidade-no-inicio-do-2o-turno-das-eleicoes-2026/",
    "url_hash": "ab602222c6da687651d11cd0"
+  },
+  "guid:6ade224452c09500099deaa1": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Defesa ao resultado das eleições ocorre em meio à crise no STF",
+   "discovered_at": "2026-10-25T15:40:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ade224452c09500099deaa1",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a9bb5da4-1f9f-43a8-936b-e3de9b04409f.jpg",
+   "key": "guid:6ade224452c09500099deaa1",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-25T15:38:40+00:00",
+   "status": "pending",
+   "title": "Vontade das urnas precisa ser respeitada, afirma Fachin após votar",
+   "updated_at": "2026-10-25T15:40:17+00:00",
+   "url": "https://marioadolfo.com/vontade-das-urnas-precisa-ser-respeitada-afirma-fachin-apos-votar/",
+   "url_hash": "c5fcc4f01df348cc87e46449"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-25T15:30:17+00:00",
-  "saved_at": "2026-10-25T15:30:18+00:00"
+  "last_run_at": "2026-10-25T15:40:16+00:00",
+  "saved_at": "2026-10-25T15:40:17+00:00"
  },
  "schema": 1
 }
