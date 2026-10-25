@@ -8876,11 +8876,19 @@
    "url_hash": "60be076b6d7bcb2a35e1e959"
   },
   "guid:6adbaba852c09500099de57f": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-25T04:00:54+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1517971877020370",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Sindicato alerta que a falta de investimentos e a insegurança nos rios comprometem a eficiência do transporte de cargas",
    "discovered_at": "2026-10-24T12:10:14+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1517971877020370",
    "formats": [
     "link"
    ],
@@ -8888,20 +8896,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d7c8808d-8d55-48a5-b6bf-31adc329a692.jpeg",
    "key": "guid:6adbaba852c09500099de57f",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1517971877020370"
+   },
    "source_published_at": "2026-10-24T12:00:02+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Sindarma aponta desafios para o futuro da navegação fluvial em Manaus",
-   "updated_at": "2026-10-24T12:10:14+00:00",
+   "updated_at": "2026-10-25T04:00:54+00:00",
    "url": "https://marioadolfo.com/sindarma-aponta-desafios-para-o-futuro-da-navegacao-fluvial-em-manaus/",
    "url_hash": "b2e7fcc24b0e40d9b854fc8f"
   },
   "guid:6adbb6fb52c09500099de5a4": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-25T04:01:44+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1517972297020328",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Checagem pode ser feita no-Título, Autoatendimento Eleitoral e ChatVot",
    "discovered_at": "2026-10-24T12:20:14+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1517972297020328",
    "formats": [
     "link"
    ],
@@ -8909,11 +8927,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/9418344b-1178-465b-823d-a6c916c656dc.jpg",
    "key": "guid:6adbb6fb52c09500099de5a4",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1517972297020328"
+   },
    "source_published_at": "2026-10-24T12:10:56+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Segundo turno: saiba como consultar local de votação para domingo",
-   "updated_at": "2026-10-24T12:20:14+00:00",
+   "updated_at": "2026-10-25T04:01:44+00:00",
    "url": "https://marioadolfo.com/segundo-turno-saiba-como-consultar-local-de-votacao-para-domingo/",
    "url_hash": "4cdf9c9521c1b5fcc2c5e1a0"
   },
@@ -9128,11 +9148,19 @@
    "url_hash": "2104b9a6f0628b72d6a852a8"
   },
   "guid:6adc2abe52c09500099de6ff": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-25T04:00:28+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1517971607020397",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Medida foi tomada após PF constatar viagem de Willer, amigo próximo do candidato de Flávio Bolsonaro, para os EUA",
    "discovered_at": "2026-10-24T12:10:14+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1517971607020397",
    "formats": [
     "link"
    ],
@@ -9140,20 +9168,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2d78aa48-ec23-45de-89a7-bcef6d8c7cc8.webp",
    "key": "guid:6adc2abe52c09500099de6ff",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1517971607020397"
+   },
    "source_published_at": "2026-10-24T12:00:00+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Moraes determina bloqueio de até R$ 6 bilhões do advogado Willer Tomaz",
-   "updated_at": "2026-10-24T12:10:14+00:00",
+   "updated_at": "2026-10-25T04:00:28+00:00",
    "url": "https://marioadolfo.com/moraes-determina-bloqueio-de-ate-r-6-bilhoes-do-advogado-willer-tomaz/",
    "url_hash": "ca2c1b8e7ae94dbff8302e09"
   },
   "guid:6adc9df052c09500099de716": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-25T04:01:19+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1517972103687014",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Levantamento divulgado na manhã deste sábado (24) mostra Omar com 21,2 pontos percentuais de vantagem sobre Maria do Carmo no interior do Amazonas; na capital, disputa aparece mais equilibrada",
    "discovered_at": "2026-10-24T12:10:14+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1517972103687014",
    "formats": [
     "link"
    ],
@@ -9161,20 +9199,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/8c3d82ce-3647-453f-8d44-a7892213957d.jpg",
    "key": "guid:6adc9df052c09500099de716",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1517972103687014"
+   },
    "source_published_at": "2026-10-24T12:03:41+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Nova pesquisa aponta que Omar Aziz chega à véspera do segundo turno com 60,6% dos votos válidos",
-   "updated_at": "2026-10-24T12:10:14+00:00",
+   "updated_at": "2026-10-25T04:01:19+00:00",
    "url": "https://marioadolfo.com/nova-pesquisa-aponta-que-omar-aziz-chega-a-vespera-do-segundo-turno-com-60-6-dos-votos-validos/",
    "url_hash": "0bae02cd53398dc4a957daab"
   },
   "guid:6adcb5c452c09500099de738": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-25T04:02:08+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1517972577020300",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Em debate, Lula questionou atuação do senador na banca de advogados",
    "discovered_at": "2026-10-24T13:50:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1517972577020300",
    "formats": [
     "link"
    ],
@@ -9182,11 +9230,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4bd20da0-b2c7-43aa-a5fa-f2d7e037e8d5.jpg",
    "key": "guid:6adcb5c452c09500099de738",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1517972577020300"
+   },
    "source_published_at": "2026-10-24T13:46:14+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Flávio defende inocência do único acusado pela morte de Ana Clara",
-   "updated_at": "2026-10-24T13:50:15+00:00",
+   "updated_at": "2026-10-25T04:02:08+00:00",
    "url": "https://marioadolfo.com/flavio-defende-inocencia-do-unico-acusado-pela-morte-de-ana-clara/",
    "url_hash": "87070f6bd44586515e789035"
   },
@@ -9425,8 +9475,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-25T03:50:14+00:00",
-  "saved_at": "2026-10-25T03:50:15+00:00"
+  "last_run_at": "2026-10-25T04:00:21+00:00",
+  "saved_at": "2026-10-25T04:02:08+00:00"
  },
  "schema": 1
 }
