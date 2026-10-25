@@ -10061,13 +10061,55 @@
    "updated_at": "2026-10-25T15:50:16+00:00",
    "url": "https://marioadolfo.com/eduardo-braga-vota-no-segundo-turno-e-reafirma-confianca-nas-urnas/",
    "url_hash": "d57a1386dffdbbbcc0df5b87"
+  },
+  "guid:6ade2cae52c09500099deaed": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Justiça Eleitoral reservou 48,8 mil equipamentos para substituições",
+   "discovered_at": "2026-10-25T16:30:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ade2cae52c09500099deaed",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/fe03ef6e-27c0-4e99-a3b9-69c353277307.jpg",
+   "key": "guid:6ade2cae52c09500099deaed",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-25T16:23:15+00:00",
+   "status": "pending",
+   "title": "TSE informa que 900 urnas foram substituídas até o meio-dia",
+   "updated_at": "2026-10-25T16:30:17+00:00",
+   "url": "https://marioadolfo.com/tse-informa-que-900-urnas-foram-substituidas-ate-o-meio-dia/",
+   "url_hash": "d0265e8fa960a917cefb8614"
+  },
+  "guid:6ade2d5352c09500099deb06": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "As duas apreensões somaram 15,6 quilos de entorpecentes, causando danos de mais de R`$ 830 mil ao crime organizado",
+   "discovered_at": "2026-10-25T16:30:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ade2d5352c09500099deb06",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b1072ebd-d0ff-4507-9413-2f3101357641.png",
+   "key": "guid:6ade2d5352c09500099deb06",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-25T16:27:08+00:00",
+   "status": "pending",
+   "title": "Base Arpão apreende 15 kg de drogas dentro de embarcações em Jutaí",
+   "updated_at": "2026-10-25T16:30:17+00:00",
+   "url": "https://marioadolfo.com/base-arpao-apreende-15-kg-de-drogas-dentro-de-embarcacoes-em-jutai/",
+   "url_hash": "8a70dbe0fb899eac0ea8aa78"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-25T16:20:14+00:00",
-  "saved_at": "2026-10-25T16:20:15+00:00"
+  "last_run_at": "2026-10-25T16:30:16+00:00",
+  "saved_at": "2026-10-25T16:30:17+00:00"
  },
  "schema": 1
 }
