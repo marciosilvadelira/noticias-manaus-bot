@@ -10334,13 +10334,55 @@
    "updated_at": "2026-10-25T19:50:14+00:00",
    "url": "https://marioadolfo.com/prefeitura-de-manaus-realiza-operacao-especial-de-transito-e-transporte/",
    "url_hash": "bbd19c10ef4b1d712a564c1c"
+  },
+  "guid:6ade600d52c09500099dec25": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "\"Próximo passo é pedir a prisão desses prefeitos\", diz presidente",
+   "discovered_at": "2026-10-25T20:10:13+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ade600d52c09500099dec25",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/db107349-ea11-478a-8d60-ec77736a66eb.jpg",
+   "key": "guid:6ade600d52c09500099dec25",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-25T20:02:38+00:00",
+   "status": "pending",
+   "title": "Lula pede prorrogação de votação em cidades com falhas no transporte",
+   "updated_at": "2026-10-25T20:10:13+00:00",
+   "url": "https://marioadolfo.com/lula-pede-prorrogacao-de-votacao-em-cidades-com-falhas-no-transporte/",
+   "url_hash": "b44390ecb05c67ae09e763ba"
+  },
+  "guid:6ade618b52c09500099dec3a": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Levantamento é do Instituto Pontual Pesquisas. O resultado oficial da eleição ainda será divulgado pelo Tribunal Superior Eleitoral (TSE)",
+   "discovered_at": "2026-10-25T20:10:13+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ade618b52c09500099dec3a",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f292f4a8-de2d-444c-896d-190ece0aad0c.png",
+   "key": "guid:6ade618b52c09500099dec3a",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-25T20:09:15+00:00",
+   "status": "pending",
+   "title": "Pesquisa de boca de urna aponta reeleição de Lula e vitória de Omar no Amazonas",
+   "updated_at": "2026-10-25T20:10:13+00:00",
+   "url": "https://marioadolfo.com/pesquisa-de-boca-de-urna-aponta-reeleicao-de-lula-e-vitoria-de-omar-no-amazonas/",
+   "url_hash": "6d157e20c50d9499f035e5a9"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-25T20:00:20+00:00",
-  "saved_at": "2026-10-25T20:00:22+00:00"
+  "last_run_at": "2026-10-25T20:10:13+00:00",
+  "saved_at": "2026-10-25T20:10:14+00:00"
  },
  "schema": 1
 }
