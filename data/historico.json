@@ -9064,11 +9064,19 @@
    "url_hash": "f59921dda12ca29498a25dbb"
   },
   "guid:6adbcd2d52c09500099de6a7": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-25T04:11:15+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1517978703686354",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "O dinheiro é para ações de resposta a desastres naturais em seis municípios",
    "discovered_at": "2026-10-24T14:00:22+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1517978703686354",
    "formats": [
     "link"
    ],
@@ -9076,11 +9084,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/8000e6dc-5c66-4095-9fe9-69fc17886264.jpeg",
    "key": "guid:6adbcd2d52c09500099de6a7",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1517978703686354"
+   },
    "source_published_at": "2026-10-24T13:55:46+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Governo federal libera R$ 7,9 milhões para ações emergenciais no Amazonas",
-   "updated_at": "2026-10-24T14:00:22+00:00",
+   "updated_at": "2026-10-25T04:11:15+00:00",
    "url": "https://marioadolfo.com/governo-federal-libera-r-7-9-milhoes-para-acoes-emergenciais-no-amazonas/",
    "url_hash": "cbc4a1f406455c7f637e92f7"
   },
@@ -9127,11 +9137,19 @@
    "url_hash": "ce4607d695c89b9a8b21977e"
   },
   "guid:6adbdb8452c09500099de6ea": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-25T04:10:48+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1517978073686417",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "O crime ocorreu no dia 22 de outubro de 2026, na comunidade rural Enseada do Massauari",
    "discovered_at": "2026-10-24T14:00:22+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1517978073686417",
    "formats": [
     "link"
    ],
@@ -9139,11 +9157,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/838ec9ab-1410-4ce7-a4e3-ddccde7c9711.jpg",
    "key": "guid:6adbdb8452c09500099de6ea",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1517978073686417"
+   },
    "source_published_at": "2026-10-24T13:53:54+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Justiça converte em preventiva prisão de acusado de incêndios em Boa Vista do Ramos",
-   "updated_at": "2026-10-24T14:00:22+00:00",
+   "updated_at": "2026-10-25T04:10:48+00:00",
    "url": "https://marioadolfo.com/justica-converte-em-preventiva-prisao-de-acusado-de-incendios-em-boa-vista-do-ramos/",
    "url_hash": "2104b9a6f0628b72d6a852a8"
   },
@@ -9241,11 +9261,19 @@
    "url_hash": "87070f6bd44586515e789035"
   },
   "guid:6adcb70e52c09500099de750": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-25T04:10:23+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1517977697019788",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Documentos oficiais podem ser usados mesmo que estejam vencidos",
    "discovered_at": "2026-10-24T14:00:22+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1517977697019788",
    "formats": [
     "link"
    ],
@@ -9253,20 +9281,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5cfd3333-e19e-4500-8278-adbfe379293d.jpg",
    "key": "guid:6adcb70e52c09500099de750",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1517977697019788"
+   },
    "source_published_at": "2026-10-24T13:52:03+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Saiba quais documentos são aceitos para votar neste domingo",
-   "updated_at": "2026-10-24T14:00:22+00:00",
+   "updated_at": "2026-10-25T04:10:23+00:00",
    "url": "https://marioadolfo.com/saiba-quais-documentos-sao-aceitos-para-votar-neste-domingo/",
    "url_hash": "99ffd68cf4585b613c94daff"
   },
   "guid:6adcb8f252c09500099de76b": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-25T04:11:40+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1517978990352992",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Inscrições estão abertas até dia 29 na Universidade Aberta do SUS",
    "discovered_at": "2026-10-24T14:00:22+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1517978990352992",
    "formats": [
     "link"
    ],
@@ -9274,20 +9312,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/52361da2-38cf-4d65-896f-9305dcea0bc5.jpg",
    "key": "guid:6adcb8f252c09500099de76b",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1517978990352992"
+   },
    "source_published_at": "2026-10-24T13:56:48+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Mais Médicos Especialistas oferece 224 vagas imediatas em nova chamada",
-   "updated_at": "2026-10-24T14:00:22+00:00",
+   "updated_at": "2026-10-25T04:11:40+00:00",
    "url": "https://marioadolfo.com/mais-medicos-especialistas-oferece-224-vagas-imediatas-em-nova-chamada/",
    "url_hash": "4edd28190782a72638a3fe58"
   },
   "guid:6adcb9b852c09500099de784": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-25T04:12:07+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1517979603686264",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Equipamentos instalados na Compensa e no ramal do Brasileirinho medem a concentração de partículas e ajudam a identificar riscos provocados pela fumaça",
    "discovered_at": "2026-10-24T14:10:14+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1517979603686264",
    "formats": [
     "link"
    ],
@@ -9295,11 +9343,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/51aa0513-a2de-43df-abdd-ed9dddcf8328.jpeg",
    "key": "guid:6adcb9b852c09500099de784",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1517979603686264"
+   },
    "source_published_at": "2026-10-24T14:01:29+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Prefeitura monitora qualidade do ar em Manaus e estuda ampliar sensores",
-   "updated_at": "2026-10-24T14:10:14+00:00",
+   "updated_at": "2026-10-25T04:12:07+00:00",
    "url": "https://marioadolfo.com/prefeitura-monitora-qualidade-do-ar-em-manaus-e-estuda-ampliar-sensores/",
    "url_hash": "c294af3366bfdfffe8fdb675"
   },
@@ -9475,8 +9525,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-25T04:00:21+00:00",
-  "saved_at": "2026-10-25T04:02:08+00:00"
+  "last_run_at": "2026-10-25T04:10:14+00:00",
+  "saved_at": "2026-10-25T04:12:07+00:00"
  },
  "schema": 1
 }
