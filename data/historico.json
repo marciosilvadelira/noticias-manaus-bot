@@ -10376,13 +10376,34 @@
    "updated_at": "2026-10-25T20:10:13+00:00",
    "url": "https://marioadolfo.com/pesquisa-de-boca-de-urna-aponta-reeleicao-de-lula-e-vitoria-de-omar-no-amazonas/",
    "url_hash": "6d157e20c50d9499f035e5a9"
+  },
+  "guid:6ade627752c09500099dec54": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "A medida é resultado da diminuição da circulação de ônibus e outras modalidades de transporte em massa em diversas regiões do país",
+   "discovered_at": "2026-10-25T20:20:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ade627752c09500099dec54",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4063ec2f-ffdc-4ce7-97c1-80a712cdaf29.webp",
+   "key": "guid:6ade627752c09500099dec54",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-25T20:16:44+00:00",
+   "status": "pending",
+   "title": "Zanin prorroga eleição em todo país por quebra em transporte público",
+   "updated_at": "2026-10-25T20:20:15+00:00",
+   "url": "https://marioadolfo.com/zanin-prorroga-eleicao-em-todo-pais-por-quebra-em-transporte-publico/",
+   "url_hash": "338ba77480ed4048cda25923"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-25T20:10:13+00:00",
-  "saved_at": "2026-10-25T20:10:14+00:00"
+  "last_run_at": "2026-10-25T20:20:14+00:00",
+  "saved_at": "2026-10-25T20:20:15+00:00"
  },
  "schema": 1
 }
