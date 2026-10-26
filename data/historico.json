@@ -10442,12 +10442,12 @@
    "guid": "6ade393252c09500099deb75",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/12933235-1ed1-4c69-bb31-68bd65f7af56.jpeg",
    "key": "guid:6ade393252c09500099deb75",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-25T17:16:31+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Roberto Cidade vota em Manaus e destaca responsabilidade com o futuro",
-   "updated_at": "2026-10-25T17:20:15+00:00",
+   "updated_at": "2026-10-26T17:20:15+00:00",
    "url": "https://marioadolfo.com/roberto-cidade-vota-em-manaus-e-destaca-responsabilidade-com-o-futuro/",
    "url_hash": "2671ea12fb121b7ab8595236"
   },
@@ -10463,12 +10463,12 @@
    "guid": "6ade398452c09500099deb88",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0fc4bfef-a7ba-4b5e-8838-b08eb021870b.jpeg",
    "key": "guid:6ade398452c09500099deb88",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-25T17:17:39+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Âmbar Energia reforça operação para o segundo turno das eleições no Amazonas",
-   "updated_at": "2026-10-25T17:20:15+00:00",
+   "updated_at": "2026-10-26T17:20:15+00:00",
    "url": "https://marioadolfo.com/ambar-energia-reforca-operacao-para-o-segundo-turno-das-eleicoes-no-amazonas-2/",
    "url_hash": "2c29003678aaab7bf93a1ed8"
   },
@@ -11374,13 +11374,34 @@
    "updated_at": "2026-10-26T16:40:14+00:00",
    "url": "https://marioadolfo.com/governo-do-amazonas-vai-procurar-para-para-discutir-fumaca-que-chega-a-manaus/",
    "url_hash": "971aae6b7ef2c91acbbf8d9a"
+  },
+  "guid:6adf8a2b52c09500099df029": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Deputada estadual foi eleita neste domingo (25) na chapa de Omar Aziz (PSD)",
+   "discovered_at": "2026-10-26T17:20:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6adf8a2b52c09500099df029",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0e8fbfb4-d247-4a70-96f6-528251765cd0.jpeg",
+   "key": "guid:6adf8a2b52c09500099df029",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-26T17:14:52+00:00",
+   "status": "pending",
+   "title": "Alessandra Campelo será a primeira mulher vice-governadora do Amazonas",
+   "updated_at": "2026-10-26T17:20:15+00:00",
+   "url": "https://marioadolfo.com/alessandra-campelo-sera-a-primeira-mulher-vice-governadora-do-amazonas/",
+   "url_hash": "b743200640a40e86d31b8fde"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-26T17:10:14+00:00",
-  "saved_at": "2026-10-26T17:10:15+00:00"
+  "last_run_at": "2026-10-26T17:20:15+00:00",
+  "saved_at": "2026-10-26T17:20:16+00:00"
  },
  "schema": 1
 }
