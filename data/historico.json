@@ -10724,6 +10724,27 @@
    "url": "https://marioadolfo.com/transporte-publico-tem-gratuidade-estendida-ate-as-20h-em-manaus/",
    "url_hash": "c357829fa54f0aca084e58ec"
   },
+  "guid:6ade8cd952c09500099decff": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A ex-vereadora de Itacoatiara é a primeira suplente do governador eleito no Amazonas. O ex-senador João Pedro é o segundo suplente",
+   "discovered_at": "2026-10-26T14:50:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ade8cd952c09500099decff",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ea46181c-b0c1-4299-a104-528282aef684.jpg",
+   "key": "guid:6ade8cd952c09500099decff",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-26T14:42:03+00:00",
+   "status": "pending",
+   "title": "Cheila Moreira irá assumir vaga de Omar Aziz no Senado",
+   "updated_at": "2026-10-26T14:50:15+00:00",
+   "url": "https://marioadolfo.com/cheila-moreira-ira-assumir-vaga-de-omar-aziz-no-senado/",
+   "url_hash": "ecfd8a54cecf7677a15c14ec"
+  },
   "guid:6ade8e5d52c09500099ded23": {
    "attempts": [],
    "category": "Amazonas",
@@ -11080,13 +11101,34 @@
    "updated_at": "2026-10-26T14:40:16+00:00",
    "url": "https://marioadolfo.com/tse-nega-acusacao-de-flavio-sobre-expulsao-de-fiscais-de-sala-cofre/",
    "url_hash": "a179aa6682108039e0fc0c7d"
+  },
+  "guid:6adf660052c09500099def0c": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Eleições suplementares ocorreram paralelamente à disputa presidencial",
+   "discovered_at": "2026-10-26T14:50:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6adf660052c09500099def0c",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b8892caa-dc41-40b8-bfa8-a9e33e40a723.jpg",
+   "key": "guid:6adf660052c09500099def0c",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-26T14:40:54+00:00",
+   "status": "pending",
+   "title": "Eleitores de sete cidades escolheram seus prefeitos neste 2º turno",
+   "updated_at": "2026-10-26T14:50:15+00:00",
+   "url": "https://marioadolfo.com/eleitores-de-sete-cidades-escolheram-seus-prefeitos-neste-2o-turno/",
+   "url_hash": "cda4f09394276061f7b31879"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-26T14:40:15+00:00",
-  "saved_at": "2026-10-26T14:40:17+00:00"
+  "last_run_at": "2026-10-26T14:50:14+00:00",
+  "saved_at": "2026-10-26T14:50:15+00:00"
  },
  "schema": 1
 }
