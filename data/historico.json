@@ -9043,11 +9043,19 @@
    "url_hash": "63613954049ca6ba204ffd67"
   },
   "guid:6adbc51b52c09500099de647": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-26T04:00:27+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1518948693589355",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Eleitores amazonenses voltam às urnas para escolher governador e presidente da República neste domingo (25)",
    "discovered_at": "2026-10-25T11:40:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1518948693589355",
    "formats": [
     "link"
    ],
@@ -9055,11 +9063,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f819126c-6f07-4da9-a88a-d1a0c8ef39bb.jpeg",
    "key": "guid:6adbc51b52c09500099de647",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1518948693589355"
+   },
    "source_published_at": "2026-10-25T11:36:58+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Segundo turno: tudo o que você precisa saber para votar no Amazonas",
-   "updated_at": "2026-10-25T11:40:15+00:00",
+   "updated_at": "2026-10-26T04:00:27+00:00",
    "url": "https://marioadolfo.com/segundo-turno-tudo-o-que-voce-precisa-saber-para-votar-no-amazonas/",
    "url_hash": "05ed9c6959252104c62a7d77"
   },
@@ -9644,11 +9654,19 @@
    "url_hash": "b28919ed8ff2ac396fee88c8"
   },
   "guid:6add129252c09500099de86e": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-26T04:01:22+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1518949610255930",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Tentar impedir o exercício do voto é crime eleitoral",
    "discovered_at": "2026-10-25T11:40:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1518949610255930",
    "formats": [
     "link"
    ],
@@ -9656,20 +9674,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/68dcfb6e-5108-48c6-9b07-8e4d92684c96.jpg",
    "key": "guid:6add129252c09500099de86e",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1518949610255930"
+   },
    "source_published_at": "2026-10-25T11:37:38+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Trabalhador tem direito de sair do serviço para votar; confira a lei",
-   "updated_at": "2026-10-25T11:40:15+00:00",
+   "updated_at": "2026-10-26T04:01:22+00:00",
    "url": "https://marioadolfo.com/trabalhador-tem-direito-de-sair-do-servico-para-votar-confira-a-lei/",
    "url_hash": "2ca757f23a8965c82cbc7c3b"
   },
   "guid:6add132552c09500099de882": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-26T04:00:52+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1518949326922625",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Eleitor não pode pedir voto, mas pode usar camiseta de candidato",
    "discovered_at": "2026-10-25T11:40:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1518949326922625",
    "formats": [
     "link"
    ],
@@ -9677,20 +9705,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a2e74feb-04a0-4c42-b890-89dafb853628.jpg",
    "key": "guid:6add132552c09500099de882",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1518949326922625"
+   },
    "source_published_at": "2026-10-25T11:37:26+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Eleições 2026: saiba o que caracteriza o crime de boca de urna",
-   "updated_at": "2026-10-25T11:40:15+00:00",
+   "updated_at": "2026-10-26T04:00:52+00:00",
    "url": "https://marioadolfo.com/eleicoes-2026-saiba-o-que-caracteriza-o-crime-de-boca-de-urna/",
    "url_hash": "f2eb084587a1da089fdbd718"
   },
   "guid:6add18a852c09500099de898": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-26T04:01:47+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1518949893589235",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Mais de 5,4 mil incêndios urbanos e florestais foram combatidos neste ano",
    "discovered_at": "2026-10-25T11:40:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1518949893589235",
    "formats": [
     "link"
    ],
@@ -9698,11 +9736,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/af2e1979-26e2-4b3a-b250-6d2d76c7f8a6.jpeg",
    "key": "guid:6add18a852c09500099de898",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1518949893589235"
+   },
    "source_published_at": "2026-10-25T11:39:18+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Bombeiros intensificam combate a incêndios após aumento de 540% nas ocorrências no AM",
-   "updated_at": "2026-10-25T11:40:15+00:00",
+   "updated_at": "2026-10-26T04:01:47+00:00",
    "url": "https://marioadolfo.com/bombeiros-intensificam-combate-a-incendios-apos-aumento-de-540-nas-ocorrencias-no-am/",
    "url_hash": "aafc5ba96f46946a09e9768e"
   },
@@ -9769,11 +9809,19 @@
    "url_hash": "3bd0fa2cdad471ec82d73b89"
   },
   "guid:6addfaea52c09500099de908": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-26T04:02:13+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1518950253589199",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Candidato do PL chegou à seção de votação acompanhado da mulher",
    "discovered_at": "2026-10-25T13:00:19+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1518950253589199",
    "formats": [
     "link"
    ],
@@ -9781,11 +9829,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e6217b35-4546-42b0-b148-7500825da019.jpg",
    "key": "guid:6addfaea52c09500099de908",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1518950253589199"
+   },
    "source_published_at": "2026-10-25T12:50:38+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Ao votar no Rio de Janeiro, Flávio diz que representa a mudança",
-   "updated_at": "2026-10-25T13:00:19+00:00",
+   "updated_at": "2026-10-26T04:02:13+00:00",
    "url": "https://marioadolfo.com/ao-votar-no-rio-de-janeiro-flavio-diz-que-representa-a-mudanca/",
    "url_hash": "2990abe221119b5f52cc1a60"
   },
@@ -10780,8 +10830,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-26T03:50:14+00:00",
-  "saved_at": "2026-10-26T03:50:14+00:00"
+  "last_run_at": "2026-10-26T04:00:19+00:00",
+  "saved_at": "2026-10-26T04:02:13+00:00"
  },
  "schema": 1
 }
