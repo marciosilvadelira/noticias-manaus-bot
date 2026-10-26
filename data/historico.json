@@ -10242,6 +10242,27 @@
    "url": "https://marioadolfo.com/vontade-das-urnas-precisa-ser-respeitada-afirma-fachin-apos-votar/",
    "url_hash": "c5fcc4f01df348cc87e46449"
   },
+  "guid:6ade23dc52c09500099deab6": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Três das cinco unidades móveis estão no shopping Phelippe Daou, localizado na avenida Camapuã, até o dia 30 deste mês",
+   "discovered_at": "2026-10-26T11:40:14+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ade23dc52c09500099deab6",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0b81b15a-7579-4d62-aa6d-d98269adc774.jpg",
+   "key": "guid:6ade23dc52c09500099deab6",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-26T11:30:53+00:00",
+   "status": "pending",
+   "title": "Unidades Móveis de Saúde da Mulher participam atendimentos no shopping Phelippe Daou",
+   "updated_at": "2026-10-26T11:40:14+00:00",
+   "url": "https://marioadolfo.com/unidades-moveis-de-saude-da-mulher-participam-atendimentos-no-shopping-phelippe-daou/",
+   "url_hash": "b9174e2a00d19bf94a8fd6ac"
+  },
   "guid:6ade249a52c09500099deace": {
    "attempts": [
     {
@@ -10980,8 +11001,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-26T11:30:18+00:00",
-  "saved_at": "2026-10-26T11:30:19+00:00"
+  "last_run_at": "2026-10-26T11:40:14+00:00",
+  "saved_at": "2026-10-26T11:40:15+00:00"
  },
  "schema": 1
 }
