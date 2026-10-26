@@ -10526,12 +10526,12 @@
    "guid": "6ade4eec52c09500099debcc",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/fb6d913a-8839-4c6b-90c6-ec5ab0ceea7c.jpg",
    "key": "guid:6ade4eec52c09500099debcc",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-25T18:51:51+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Secretário de Salvador tem prisão decretada por redução da frota de ônibus no dia da eleição",
-   "updated_at": "2026-10-25T19:00:20+00:00",
+   "updated_at": "2026-10-26T19:00:21+00:00",
    "url": "https://marioadolfo.com/secretario-de-salvador-tem-prisao-decretada-por-reducao-da-frota-de-onibus-no-dia-da-eleicao/",
    "url_hash": "c145240fd504100bed0b2f73"
   },
@@ -10547,12 +10547,12 @@
    "guid": "6ade4fe552c09500099debe3",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6e692f50-1a88-41a3-91c7-c1072b3b784d.webp",
    "key": "guid:6ade4fe552c09500099debe3",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-25T18:53:20+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Pedido para ampliar horário de votação será avaliado, afirma Marques",
-   "updated_at": "2026-10-25T19:00:20+00:00",
+   "updated_at": "2026-10-26T19:00:21+00:00",
    "url": "https://marioadolfo.com/pedido-para-ampliar-horario-de-votacao-sera-avaliado-afirma-marques/",
    "url_hash": "97ebd434e8645f025964ecc4"
   },
@@ -11521,13 +11521,34 @@
    "updated_at": "2026-10-26T18:10:17+00:00",
    "url": "https://marioadolfo.com/justica-estabelece-regras-para-participacao-de-menores-na-expo-manaca-2026-2/",
    "url_hash": "f4b0025e4ec851d779a101bf"
+  },
+  "guid:6adfa15b52c09500099df0d8": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "No domingo, 19,22% dos eleitores aptos se ausentaram do pleito",
+   "discovered_at": "2026-10-26T19:00:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6adfa15b52c09500099df0d8",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a4c9c402-a336-411f-95a7-da296fc6d76b.jpg",
+   "key": "guid:6adfa15b52c09500099df0d8",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-26T18:53:38+00:00",
+   "status": "pending",
+   "title": "Segundo turno das eleições registra menor abstenção em 20 anos",
+   "updated_at": "2026-10-26T19:00:21+00:00",
+   "url": "https://marioadolfo.com/segundo-turno-das-eleicoes-registra-menor-abstencao-em-20-anos/",
+   "url_hash": "9535ba9d4d9d8d0d2f6552d5"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-26T18:50:14+00:00",
-  "saved_at": "2026-10-26T18:50:15+00:00"
+  "last_run_at": "2026-10-26T19:00:20+00:00",
+  "saved_at": "2026-10-26T19:00:22+00:00"
  },
  "schema": 1
 }
