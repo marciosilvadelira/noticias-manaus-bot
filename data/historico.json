@@ -11458,13 +11458,34 @@
    "updated_at": "2026-10-26T17:30:19+00:00",
    "url": "https://marioadolfo.com/lula-cresce-em-numero-de-votos-em-todos-os-estados-flavio-recuou-em-6/",
    "url_hash": "4cd993559bca9d1b8cfc8871"
+  },
+  "guid:6adf8e0952c09500099df085": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "O anúncio foi feito nesta segunda-feira (26), por meio das redes sociais da banda",
+   "discovered_at": "2026-10-26T17:40:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6adf8e0952c09500099df085",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/10cc58bf-44a1-4327-a7b4-f6d1c3b75f92.webp",
+   "key": "guid:6adf8e0952c09500099df085",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-26T17:36:31+00:00",
+   "status": "pending",
+   "title": "Cantor é desligado da banda Rabo de Vaca após suposta agressão contra companheira",
+   "updated_at": "2026-10-26T17:40:16+00:00",
+   "url": "https://marioadolfo.com/cantor-e-desligado-da-banda-rabo-de-vaca-apos-suposta-agressao-contra-companheira/",
+   "url_hash": "424565bac30e7a339337bd4f"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-26T17:30:18+00:00",
-  "saved_at": "2026-10-26T17:30:20+00:00"
+  "last_run_at": "2026-10-26T17:40:15+00:00",
+  "saved_at": "2026-10-26T17:40:16+00:00"
  },
  "schema": 1
 }
