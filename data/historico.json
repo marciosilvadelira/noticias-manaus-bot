@@ -10733,13 +10733,55 @@
    "updated_at": "2026-10-26T01:20:15+00:00",
    "url": "https://marioadolfo.com/omar-aziz-fala-sobre-equipe-de-transicao-e-promete-corregedoria-independente/",
    "url_hash": "1840eab5af17d3ef4386afaf"
+  },
+  "guid:6adeb3ed52c09500099dee73": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Lula classificou o resultado das urnas como uma derrota do negacionismo e da mentira.",
+   "discovered_at": "2026-10-26T02:10:14+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6adeb3ed52c09500099dee73",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/8d08d874-8f8a-4c60-8480-5f59c91b0291.jpg",
+   "key": "guid:6adeb3ed52c09500099dee73",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-26T02:02:22+00:00",
+   "status": "pending",
+   "title": "Lula agradece jovens e idosos após vitória em virada inédita",
+   "updated_at": "2026-10-26T02:10:14+00:00",
+   "url": "https://marioadolfo.com/lula-agradece-jovens-e-idosos-apos-vitoria-em-virada-inedita/",
+   "url_hash": "499953a42ba7c3f9ceca5f64"
+  },
+  "guid:6adeb62a52c09500099dee8f": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Ao lado do governador eleito, senador comemora resultado das urnas, defende respeito às diferenças e aponta prioridades para saúde, infraestrutura e segurança",
+   "discovered_at": "2026-10-26T02:10:14+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6adeb62a52c09500099dee8f",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/8ae121e2-f542-4eb4-a5a0-ba2316bcec72.jpeg",
+   "key": "guid:6adeb62a52c09500099dee8f",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-26T02:10:06+00:00",
+   "status": "pending",
+   "title": "Braga destaca força da união na vitória de Omar e Lula e projeta novo momento para o AM",
+   "updated_at": "2026-10-26T02:10:14+00:00",
+   "url": "https://marioadolfo.com/braga-destaca-forca-da-uniao-na-vitoria-de-omar-e-lula-e-projeta-novo-momento-para-o-am/",
+   "url_hash": "0c7f4d342fce35e29f8f472b"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-26T02:00:20+00:00",
-  "saved_at": "2026-10-26T02:00:21+00:00"
+  "last_run_at": "2026-10-26T02:10:13+00:00",
+  "saved_at": "2026-10-26T02:10:14+00:00"
  },
  "schema": 1
 }
