@@ -10150,11 +10150,19 @@
    "url_hash": "3c605c146cb8e0d10f104231"
   },
   "guid:6ade19b952c09500099dea2b": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-26T04:30:28+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1518967913587433",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Número corresponde a 0,09% das 499.248 urnas empregadas",
    "discovered_at": "2026-10-25T15:10:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1518967913587433",
    "formats": [
     "link"
    ],
@@ -10162,20 +10170,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/1a25cf40-38cf-4c07-8506-b98814f0354b.jpg",
    "key": "guid:6ade19b952c09500099dea2b",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1518967913587433"
+   },
    "source_published_at": "2026-10-25T15:02:48+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Nas duas primeiras horas de votação, 467 urnas foram substituídas",
-   "updated_at": "2026-10-25T15:10:15+00:00",
+   "updated_at": "2026-10-26T04:30:28+00:00",
    "url": "https://marioadolfo.com/nas-duas-primeiras-horas-de-votacao-467-urnas-foram-substituidas/",
    "url_hash": "8d3f909edaf700b7749eee27"
   },
   "guid:6ade1b0b52c09500099dea49": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-26T04:30:55+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1518968143587410",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Balanço inicial ponta votação pacífica no AM, com poucas ocorrências, controle de focos de queimada e apoio integrado das Forças Armadas e de Segurança",
    "discovered_at": "2026-10-25T15:10:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1518968143587410",
    "formats": [
     "link"
    ],
@@ -10183,20 +10201,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e5b4339e-8c5d-4c27-9c4c-85d59d8f7e2b.jpeg",
    "key": "guid:6ade1b0b52c09500099dea49",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1518968143587410"
+   },
    "source_published_at": "2026-10-25T15:09:03+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "TRE-AM destaca tranquilidade no início do 2º turno das Eleições 2026",
-   "updated_at": "2026-10-25T15:10:15+00:00",
+   "updated_at": "2026-10-26T04:30:55+00:00",
    "url": "https://marioadolfo.com/tre-am-destaca-tranquilidade-no-inicio-do-2o-turno-das-eleicoes-2026/",
    "url_hash": "ab602222c6da687651d11cd0"
   },
   "guid:6ade224452c09500099deaa1": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-26T04:31:23+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1518968403587384",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Defesa ao resultado das eleições ocorre em meio à crise no STF",
    "discovered_at": "2026-10-25T15:40:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1518968403587384",
    "formats": [
     "link"
    ],
@@ -10204,20 +10232,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a9bb5da4-1f9f-43a8-936b-e3de9b04409f.jpg",
    "key": "guid:6ade224452c09500099deaa1",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1518968403587384"
+   },
    "source_published_at": "2026-10-25T15:38:40+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Vontade das urnas precisa ser respeitada, afirma Fachin após votar",
-   "updated_at": "2026-10-25T15:40:17+00:00",
+   "updated_at": "2026-10-26T04:31:23+00:00",
    "url": "https://marioadolfo.com/vontade-das-urnas-precisa-ser-respeitada-afirma-fachin-apos-votar/",
    "url_hash": "c5fcc4f01df348cc87e46449"
   },
   "guid:6ade249a52c09500099deace": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-26T04:31:51+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1518968676920690",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Senador recebeu o carinho dos eleitores. Braga declarou esperança na vitória de Lula e Omar Aziz",
    "discovered_at": "2026-10-25T15:50:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1518968676920690",
    "formats": [
     "link"
    ],
@@ -10225,20 +10263,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/70f6a4a3-04a2-43b7-9d42-9899060a5caa.jpeg",
    "key": "guid:6ade249a52c09500099deace",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1518968676920690"
+   },
    "source_published_at": "2026-10-25T15:49:32+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Eduardo Braga vota no segundo turno e reafirma confiança nas urnas",
-   "updated_at": "2026-10-25T15:50:16+00:00",
+   "updated_at": "2026-10-26T04:31:51+00:00",
    "url": "https://marioadolfo.com/eduardo-braga-vota-no-segundo-turno-e-reafirma-confianca-nas-urnas/",
    "url_hash": "d57a1386dffdbbbcc0df5b87"
   },
   "guid:6ade2cae52c09500099deaed": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-26T04:32:18+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1518969063587318",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Justiça Eleitoral reservou 48,8 mil equipamentos para substituições",
    "discovered_at": "2026-10-25T16:30:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1518969063587318",
    "formats": [
     "link"
    ],
@@ -10246,11 +10294,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/fe03ef6e-27c0-4e99-a3b9-69c353277307.jpg",
    "key": "guid:6ade2cae52c09500099deaed",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1518969063587318"
+   },
    "source_published_at": "2026-10-25T16:23:15+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "TSE informa que 900 urnas foram substituídas até o meio-dia",
-   "updated_at": "2026-10-25T16:30:17+00:00",
+   "updated_at": "2026-10-26T04:32:18+00:00",
    "url": "https://marioadolfo.com/tse-informa-que-900-urnas-foram-substituidas-ate-o-meio-dia/",
    "url_hash": "d0265e8fa960a917cefb8614"
   },
@@ -10930,8 +10980,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-26T04:20:13+00:00",
-  "saved_at": "2026-10-26T04:22:00+00:00"
+  "last_run_at": "2026-10-26T04:30:17+00:00",
+  "saved_at": "2026-10-26T04:32:18+00:00"
  },
  "schema": 1
 }
