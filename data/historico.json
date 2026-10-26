@@ -10568,12 +10568,12 @@
    "guid": "6ade58e352c09500099debfb",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2a7227a2-d508-4716-b675-a2d2fcdf671a.jpeg",
    "key": "guid:6ade58e352c09500099debfb",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-25T19:32:38+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "TRE-AM garante transporte a eleitores com mobilidade reduzida no segundo turno",
-   "updated_at": "2026-10-25T19:33:40+00:00",
+   "updated_at": "2026-10-26T19:40:15+00:00",
    "url": "https://marioadolfo.com/tre-am-garante-transporte-a-eleitores-com-mobilidade-reduzida-no-segundo-turno/",
    "url_hash": "cd3fd761a2e3f8a21f4e521c"
   },
@@ -11589,8 +11589,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-26T19:30:18+00:00",
-  "saved_at": "2026-10-26T19:30:20+00:00"
+  "last_run_at": "2026-10-26T19:40:15+00:00",
+  "saved_at": "2026-10-26T19:40:16+00:00"
  },
  "schema": 1
 }
