@@ -11585,6 +11585,27 @@
    "url": "https://marioadolfo.com/mais-de-606-mil-eleitores-no-am-deixaram-de-votar-no-segundo-turno/",
    "url_hash": "dfe3e813b8a8bf04b7522e27"
   },
+  "guid:6adfa60552c09500099df137": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Ele recebeu 1.273.975 votos superando a marca anterior que pertencia ao ex-governador Wilson Lima (União Brasil)",
+   "discovered_at": "2026-10-26T21:03:27+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6adfa60552c09500099df137",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d9fef188-7348-4c29-bb02-747b404264e6.jpg",
+   "key": "guid:6adfa60552c09500099df137",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-26T21:00:48+00:00",
+   "status": "pending",
+   "title": "Omar Aziz se torna o governador mais votado da história do Amazonas",
+   "updated_at": "2026-10-26T21:03:27+00:00",
+   "url": "https://marioadolfo.com/omar-aziz-se-torna-o-governador-mais-votado-da-historia-do-amazonas/",
+   "url_hash": "d4bfe750e1f01d9d4f8c817c"
+  },
   "guid:6adfb2e852c09500099df168": {
    "attempts": [],
    "category": "Amazonas",
@@ -11652,8 +11673,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-26T21:00:19+00:00",
-  "saved_at": "2026-10-26T21:00:21+00:00"
+  "last_run_at": "2026-10-26T21:03:27+00:00",
+  "saved_at": "2026-10-26T21:03:28+00:00"
  },
  "schema": 1
 }
