@@ -10913,6 +10913,27 @@
    "url": "https://marioadolfo.com/lula-e-reeleito-presidente-do-brasil-em-virada-historica/",
    "url_hash": "4a2df5166164d222039152ae"
   },
+  "guid:6ade9fa652c09500099dee0d": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A candidata do PL conseguiu manter os votos e repetir no segundo turno a vitória obtida nessas cidades no primeiro turno",
+   "discovered_at": "2026-10-26T12:30:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ade9fa652c09500099dee0d",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e4866a07-2aa1-4af7-b5d8-e815e432c564.jpeg",
+   "key": "guid:6ade9fa652c09500099dee0d",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-26T12:29:22+00:00",
+   "status": "pending",
+   "title": "Omar Aziz só perdeu para Maria do Carmo apenas em Apuí e Humaitá",
+   "updated_at": "2026-10-26T12:30:18+00:00",
+   "url": "https://marioadolfo.com/omar-aziz-so-perdeu-para-maria-do-carmo-apenas-em-apui-e-humaita/",
+   "url_hash": "161d412a1a32a5cb375e67e6"
+  },
   "guid:6adea28752c09500099dee35": {
    "attempts": [],
    "category": "Brasil",
@@ -11001,8 +11022,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-26T12:24:50+00:00",
-  "saved_at": "2026-10-26T12:24:51+00:00"
+  "last_run_at": "2026-10-26T12:30:17+00:00",
+  "saved_at": "2026-10-26T12:30:18+00:00"
  },
  "schema": 1
 }
