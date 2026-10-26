@@ -10673,12 +10673,12 @@
    "guid": "6ade66d452c09500099dec78",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0e5a9736-02ff-4f83-ad63-c0ba0bf034bc.jpeg",
    "key": "guid:6ade66d452c09500099dec78",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-25T20:37:21+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "TRE-AM diz que eleições estão encerradas e aguarda orientação do TSE sobre prorrogação do horário",
-   "updated_at": "2026-10-25T20:40:16+00:00",
+   "updated_at": "2026-10-26T20:40:15+00:00",
    "url": "https://marioadolfo.com/tre-am-diz-que-eleicoes-estao-encerradas-e-aguarda-orientacao-do-tse-sobre-prorrogacao-do-horario/",
    "url_hash": "9d92f6d55f3ff0dd69b69aea"
   },
@@ -11652,8 +11652,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-26T20:30:17+00:00",
-  "saved_at": "2026-10-26T20:30:18+00:00"
+  "last_run_at": "2026-10-26T20:40:14+00:00",
+  "saved_at": "2026-10-26T20:40:16+00:00"
  },
  "schema": 1
 }
