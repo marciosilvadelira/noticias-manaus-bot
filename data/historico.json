@@ -11353,13 +11353,34 @@
    "updated_at": "2026-10-26T16:20:16+00:00",
    "url": "https://marioadolfo.com/fpftech-completa-28-anos-ampliando-investimentos-em-tecnologia-e-inovacao/",
    "url_hash": "bc824530f0caa9aa8f5dbe19"
+  },
+  "guid:6adf7ff452c09500099df014": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Parte da fumaça que chegou à capital vem de focos de incêndio no Pará e na região do Baixo Amazonas",
+   "discovered_at": "2026-10-26T16:40:14+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6adf7ff452c09500099df014",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c1735463-2eeb-49c8-bff6-cc7422885ab4.jpeg",
+   "key": "guid:6adf7ff452c09500099df014",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-26T16:32:45+00:00",
+   "status": "pending",
+   "title": "Governo do Amazonas vai procurar Pará para discutir fumaça que chega a Manaus",
+   "updated_at": "2026-10-26T16:40:14+00:00",
+   "url": "https://marioadolfo.com/governo-do-amazonas-vai-procurar-para-para-discutir-fumaca-que-chega-a-manaus/",
+   "url_hash": "971aae6b7ef2c91acbbf8d9a"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-26T16:30:19+00:00",
-  "saved_at": "2026-10-26T16:30:20+00:00"
+  "last_run_at": "2026-10-26T16:40:14+00:00",
+  "saved_at": "2026-10-26T16:40:15+00:00"
  },
  "schema": 1
 }
