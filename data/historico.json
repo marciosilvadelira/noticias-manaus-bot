@@ -11122,13 +11122,55 @@
    "updated_at": "2026-10-26T14:50:15+00:00",
    "url": "https://marioadolfo.com/eleitores-de-sete-cidades-escolheram-seus-prefeitos-neste-2o-turno/",
    "url_hash": "cda4f09394276061f7b31879"
+  },
+  "guid:6adf6c8b52c09500099def42": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Subcomissão do Senado visitará unidades de saúde, ouvirá lideranças indígenas e apurará denúncias de insegurança na fronteira",
+   "discovered_at": "2026-10-26T15:30:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6adf6c8b52c09500099def42",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c1104cb3-a69b-4258-93e6-d9e389d1a74d.jpg",
+   "key": "guid:6adf6c8b52c09500099def42",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-26T15:24:03+00:00",
+   "status": "pending",
+   "title": "Senado fará diligência no Amazonas para acompanhar políticas voltadas a indígenas",
+   "updated_at": "2026-10-26T15:30:19+00:00",
+   "url": "https://marioadolfo.com/senado-fara-diligencia-no-amazonas-para-acompanhar-politicas-voltadas-a-indigenas/",
+   "url_hash": "cef8d8ef7d3c4c38e4468ec4"
+  },
+  "guid:6adf709e52c09500099def59": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Sobrinho da vítima também foi baleado, mas conseguiu fugir do local do crime",
+   "discovered_at": "2026-10-26T15:30:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6adf709e52c09500099def59",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e3ec0a99-d540-4394-9335-3eafb0677763.jpg",
+   "key": "guid:6adf709e52c09500099def59",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-26T15:26:52+00:00",
+   "status": "pending",
+   "title": "Homem é executado dentro de carro no Parque 10",
+   "updated_at": "2026-10-26T15:30:19+00:00",
+   "url": "https://marioadolfo.com/homem-e-executado-dentro-de-carro-no-parque-10/",
+   "url_hash": "12dc4ec7e920a361a25d5b52"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-26T15:20:16+00:00",
-  "saved_at": "2026-10-26T15:20:18+00:00"
+  "last_run_at": "2026-10-26T15:30:18+00:00",
+  "saved_at": "2026-10-26T15:30:20+00:00"
  },
  "schema": 1
 }
