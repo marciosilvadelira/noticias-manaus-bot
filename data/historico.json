@@ -10715,12 +10715,12 @@
    "guid": "6ade751252c09500099deccc",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6004b5e3-32b0-494c-ae0c-db7deb9b601c.webp",
    "key": "guid:6ade751252c09500099deccc",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-25T21:36:02+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "TRE-AM recebe orientação sobre horário de votação; transporte público está garantido",
-   "updated_at": "2026-10-25T21:40:14+00:00",
+   "updated_at": "2026-10-26T21:40:14+00:00",
    "url": "https://marioadolfo.com/tre-am-recebe-orientacao-sobre-horario-de-votacao-transporte-publico-esta-garantido/",
    "url_hash": "769efbe7e831fa3b99dee5d7"
   },
@@ -10736,12 +10736,12 @@
    "guid": "6ade753552c09500099decd0",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/fe39f200-4400-4ea4-b70d-069ea09db5f4.jpg",
    "key": "guid:6ade753552c09500099decd0",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-25T21:34:54+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Transporte público tem gratuidade estendida até as 20h em Manaus",
-   "updated_at": "2026-10-25T21:40:14+00:00",
+   "updated_at": "2026-10-26T21:40:14+00:00",
    "url": "https://marioadolfo.com/transporte-publico-tem-gratuidade-estendida-ate-as-20h-em-manaus/",
    "url_hash": "c357829fa54f0aca084e58ec"
   },
@@ -11715,8 +11715,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-26T21:30:19+00:00",
-  "saved_at": "2026-10-26T21:30:20+00:00"
+  "last_run_at": "2026-10-26T21:40:13+00:00",
+  "saved_at": "2026-10-26T21:40:15+00:00"
  },
  "schema": 1
 }
