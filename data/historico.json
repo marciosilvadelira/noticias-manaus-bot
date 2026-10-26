@@ -9995,11 +9995,19 @@
    "url_hash": "4724161ca69e4edc2b479f94"
   },
   "guid:6ade0a9f52c09500099de9bd": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-26T04:20:21+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1518961393588085",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Aos 80 anos, ele destacou a importância de disputar um quarto mandato presidencial e agradeceu à população pelo apoio recebido ao longo da campanha",
    "discovered_at": "2026-10-25T14:10:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1518961393588085",
    "formats": [
     "link"
    ],
@@ -10007,20 +10015,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2c5f5313-d703-43c8-b6b1-238b3cfb2b7a.jpg",
    "key": "guid:6ade0a9f52c09500099de9bd",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1518961393588085"
+   },
    "source_published_at": "2026-10-25T14:00:52+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Lula vota e agradece mobilização popular no 2º turno: 'Nunca vi nada igual'",
-   "updated_at": "2026-10-25T14:10:17+00:00",
+   "updated_at": "2026-10-26T04:20:21+00:00",
    "url": "https://marioadolfo.com/lula-vota-e-agradece-mobilizacao-popular-no-2o-turno-nunca-vi-nada-igual/",
    "url_hash": "a01e7c486b6e4b812d5f3c72"
   },
   "guid:6ade150e52c09500099de9d3": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-26T04:20:46+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1518961720254719",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Candidato do PSD destacou propostas para saúde, segurança e educação e afirmou que pretende governar para todos, caso seja eleito",
    "discovered_at": "2026-10-25T14:50:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1518961720254719",
    "formats": [
     "link"
    ],
@@ -10028,20 +10046,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/281754c4-4f05-4550-a431-db6d832d63d2.jpg",
    "key": "guid:6ade150e52c09500099de9d3",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1518961720254719"
+   },
    "source_published_at": "2026-10-25T14:43:10+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Omar Aziz vota em Manaus e diz esperar que democracia prevaleça no segundo turno",
-   "updated_at": "2026-10-25T14:50:15+00:00",
+   "updated_at": "2026-10-26T04:20:46+00:00",
    "url": "https://marioadolfo.com/omar-aziz-vota-em-manaus-e-diz-esperar-que-democracia-prevaleca-no-segundo-turno/",
    "url_hash": "b06e862c9794cd1151653c9c"
   },
   "guid:6ade163a52c09500099de9e8": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-26T04:21:12+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1518961926921365",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Área nas proximidades da Escola Estadual Osmar Pedrosa foi isolada preventivamente para averiguação.",
    "discovered_at": "2026-10-25T14:50:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1518961926921365",
    "formats": [
     "link"
    ],
@@ -10049,20 +10077,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/399bdaea-1c64-4318-9adb-6a2bfbbb636e.jpg",
    "key": "guid:6ade163a52c09500099de9e8",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1518961926921365"
+   },
    "source_published_at": "2026-10-25T14:47:38+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Objeto suspeito mobiliza Grupo Marte perto de local de votação em Manaus",
-   "updated_at": "2026-10-25T14:50:15+00:00",
+   "updated_at": "2026-10-26T04:21:12+00:00",
    "url": "https://marioadolfo.com/objeto-suspeito-mobiliza-grupo-marte-perto-de-local-de-votacao-em-manaus/",
    "url_hash": "243e13beaf023cb5b306768c"
   },
   "guid:6ade18c052c09500099de9ff": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-26T04:21:35+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1518962226921335",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "A candidata do PL disse que acompanhará a apuração dos votos em casa",
    "discovered_at": "2026-10-25T15:00:23+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1518962226921335",
    "formats": [
     "link"
    ],
@@ -10070,20 +10108,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5c29de7c-eab2-4b36-b7b4-57586a8b3ec5.jpeg",
    "key": "guid:6ade18c052c09500099de9ff",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1518962226921335"
+   },
    "source_published_at": "2026-10-25T14:58:35+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Maria do Carmo vota em Manaus e diz ter feito o que pôde na campanha",
-   "updated_at": "2026-10-25T15:00:23+00:00",
+   "updated_at": "2026-10-26T04:21:35+00:00",
    "url": "https://marioadolfo.com/maria-do-carmo-vota-em-manaus-e-diz-ter-feito-o-que-pode-na-campanha/",
    "url_hash": "0337a01d73e5164fe744300a"
   },
   "guid:6ade194e52c09500099dea17": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-26T04:22:00+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1518962573587967",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Serviço está disponível no site solicitetransporte.serpro.gov.br",
    "discovered_at": "2026-10-25T15:10:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1518962573587967",
    "formats": [
     "link"
    ],
@@ -10091,11 +10139,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/34fbfd2a-6a34-4f9b-ae1c-dc40a2fa7973.jpg",
    "key": "guid:6ade194e52c09500099dea17",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1518962573587967"
+   },
    "source_published_at": "2026-10-25T15:01:07+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Eleições: indígenas e quilombolas têm transporte garantido",
-   "updated_at": "2026-10-25T15:10:15+00:00",
+   "updated_at": "2026-10-26T04:22:00+00:00",
    "url": "https://marioadolfo.com/eleicoes-indigenas-e-quilombolas-tem-transporte-garantido/",
    "url_hash": "3c605c146cb8e0d10f104231"
   },
@@ -10880,8 +10930,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-26T04:10:15+00:00",
-  "saved_at": "2026-10-26T04:12:05+00:00"
+  "last_run_at": "2026-10-26T04:20:13+00:00",
+  "saved_at": "2026-10-26T04:22:00+00:00"
  },
  "schema": 1
 }
