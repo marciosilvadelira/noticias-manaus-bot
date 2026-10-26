@@ -10379,12 +10379,12 @@
    "guid": "6ade2df552c09500099deb22",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b974125a-b52b-466c-9e35-93b3c09dc8f8.jpg",
    "key": "guid:6ade2df552c09500099deb22",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-25T16:41:40+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Vídeo: incêndio destrói residência no conjunto João Paulo",
-   "updated_at": "2026-10-25T16:50:15+00:00",
+   "updated_at": "2026-10-26T16:50:21+00:00",
    "url": "https://marioadolfo.com/video-incendio-destroi-residencia-no-conjunto-joao-paulo/",
    "url_hash": "e4d9356a0add9c30c86fa55b"
   },
@@ -10400,12 +10400,12 @@
    "guid": "6ade31ad52c09500099deb42",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/95a2a915-f57a-4c3e-8e84-447c188da99b.jpg",
    "key": "guid:6ade31ad52c09500099deb42",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-25T16:44:40+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Ministério da Igualdade Racial quer apurar racismo em ato bolsonarista",
-   "updated_at": "2026-10-25T16:50:15+00:00",
+   "updated_at": "2026-10-26T16:50:21+00:00",
    "url": "https://marioadolfo.com/ministerio-da-igualdade-racial-quer-apurar-racismo-em-ato-bolsonarista/",
    "url_hash": "5de2e15afd9e3cff2c0901a1"
   },
@@ -10421,12 +10421,12 @@
    "guid": "6ade320f52c09500099deb5d",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/94203bb0-07e1-43a5-907a-b5ffd38664b2.jpg",
    "key": "guid:6ade320f52c09500099deb5d",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-25T16:48:08+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Vereadora do PT é atacada durante carreata em Montes Claros",
-   "updated_at": "2026-10-25T16:50:15+00:00",
+   "updated_at": "2026-10-26T16:50:21+00:00",
    "url": "https://marioadolfo.com/vereadora-do-pt-e-atacada-durante-carreata-em-montes-claros/",
    "url_hash": "0c02e24b7b2c547600307c89"
   },
@@ -11379,8 +11379,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-26T16:40:14+00:00",
-  "saved_at": "2026-10-26T16:40:15+00:00"
+  "last_run_at": "2026-10-26T16:50:20+00:00",
+  "saved_at": "2026-10-26T16:50:22+00:00"
  },
  "schema": 1
 }
