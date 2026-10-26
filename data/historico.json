@@ -10778,12 +10778,12 @@
    "guid": "6ade8e5d52c09500099ded23",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/7b2486a0-1d80-4729-9e42-4de2f0e18379.jpeg",
    "key": "guid:6ade8e5d52c09500099ded23",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-25T23:20:31+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "TRE-AM apresenta balanço do segundo turno das eleições no Amazonas",
-   "updated_at": "2026-10-25T23:30:16+00:00",
+   "updated_at": "2026-10-26T23:30:16+00:00",
    "url": "https://marioadolfo.com/tre-am-apresenta-balanco-do-segundo-turno-das-eleicoes-no-amazonas/",
    "url_hash": "bc7036e90ced2f1884be43f5"
   },
@@ -10799,12 +10799,12 @@
    "guid": "6ade900c52c09500099ded46",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d4a55134-f40c-428c-b779-3c6ae5f455f3.jpg",
    "key": "guid:6ade900c52c09500099ded46",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-25T23:27:28+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Vicentinho Júnior é eleito governador do estado do Tocantins",
-   "updated_at": "2026-10-25T23:30:16+00:00",
+   "updated_at": "2026-10-26T23:30:16+00:00",
    "url": "https://marioadolfo.com/vicentinho-junior-e-eleito-governador-do-estado-do-tocantins/",
    "url_hash": "8bc74406aea1acce9e4ba5da"
   },
@@ -10820,12 +10820,12 @@
    "guid": "6ade908052c09500099ded5c",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0a38043b-e2aa-43b3-a57e-635ca7c3cbdd.jpg",
    "key": "guid:6ade908052c09500099ded5c",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-25T23:29:12+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Celina Leão é reeleita governadora do Distrito Federal",
-   "updated_at": "2026-10-25T23:30:16+00:00",
+   "updated_at": "2026-10-26T23:30:16+00:00",
    "url": "https://marioadolfo.com/celina-leao-e-reeleita-governadora-do-distrito-federal/",
    "url_hash": "686b9d690769e54aa351b123"
   },
@@ -11715,8 +11715,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-26T23:20:14+00:00",
-  "saved_at": "2026-10-26T23:20:15+00:00"
+  "last_run_at": "2026-10-26T23:30:16+00:00",
+  "saved_at": "2026-10-26T23:30:17+00:00"
  },
  "schema": 1
 }
