@@ -10712,13 +10712,34 @@
    "updated_at": "2026-10-26T00:50:16+00:00",
    "url": "https://marioadolfo.com/rio-grande-do-norte-elege-cadu-de-lula-governador-do-estado/",
    "url_hash": "b8a370adfdc94753fde988ea"
+  },
+  "guid:6adea7b552c09500099dee51": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "O governador eleito disse que pretende solicitar auxílio ao Tribunal de Contas do Estado do Amazonas (TCE-AM) durante o processo de transição",
+   "discovered_at": "2026-10-26T01:20:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6adea7b552c09500099dee51",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/cf2ee845-ecfc-4838-9f3a-3cad4cde1cb1.jpg",
+   "key": "guid:6adea7b552c09500099dee51",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-26T01:12:22+00:00",
+   "status": "pending",
+   "title": "Omar Aziz fala sobre equipe de transição e promete corregedoria independente",
+   "updated_at": "2026-10-26T01:20:15+00:00",
+   "url": "https://marioadolfo.com/omar-aziz-fala-sobre-equipe-de-transicao-e-promete-corregedoria-independente/",
+   "url_hash": "1840eab5af17d3ef4386afaf"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-26T01:10:14+00:00",
-  "saved_at": "2026-10-26T01:10:16+00:00"
+  "last_run_at": "2026-10-26T01:20:14+00:00",
+  "saved_at": "2026-10-26T01:20:16+00:00"
  },
  "schema": 1
 }
