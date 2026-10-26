@@ -11563,13 +11563,34 @@
    "updated_at": "2026-10-26T19:10:15+00:00",
    "url": "https://marioadolfo.com/empresario-investigado-por-perseguir-mulheres-tem-arma-apreendida-em-manaus/",
    "url_hash": "b12c67c990c6b85f68fd2bc8"
+  },
+  "guid:6adfa4e752c09500099df11c": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Número de faltosos cresceu em relação ao primeiro turno, enquanto no restante do Brasil a ausência de eleitores diminuiu",
+   "discovered_at": "2026-10-26T19:20:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6adfa4e752c09500099df11c",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e891be13-29df-40a6-8495-393f3d2bf535.jpg",
+   "key": "guid:6adfa4e752c09500099df11c",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-26T19:10:58+00:00",
+   "status": "pending",
+   "title": "Mais de 606 mil eleitores no AM deixaram de votar no segundo turno",
+   "updated_at": "2026-10-26T19:20:16+00:00",
+   "url": "https://marioadolfo.com/mais-de-606-mil-eleitores-no-am-deixaram-de-votar-no-segundo-turno/",
+   "url_hash": "dfe3e813b8a8bf04b7522e27"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-26T19:10:14+00:00",
-  "saved_at": "2026-10-26T19:10:15+00:00"
+  "last_run_at": "2026-10-26T19:20:16+00:00",
+  "saved_at": "2026-10-26T19:20:17+00:00"
  },
  "schema": 1
 }
