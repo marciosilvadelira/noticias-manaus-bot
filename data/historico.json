@@ -11542,13 +11542,34 @@
    "updated_at": "2026-10-26T19:00:21+00:00",
    "url": "https://marioadolfo.com/segundo-turno-das-eleicoes-registra-menor-abstencao-em-20-anos/",
    "url_hash": "9535ba9d4d9d8d0d2f6552d5"
+  },
+  "guid:6adfa3b052c09500099df0f7": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "O empresário e lutador de jiu-jítsu Rodney  Ferreira do Vale (foto) é investigado por perseguir e assediar mulheres",
+   "discovered_at": "2026-10-26T19:10:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6adfa3b052c09500099df0f7",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a34d9274-74a4-40c3-baf6-bd637715303a.jpg",
+   "key": "guid:6adfa3b052c09500099df0f7",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-26T19:06:43+00:00",
+   "status": "pending",
+   "title": "Vídeos: 'Tarado do BYD' tem pistola apreendida em Manaus",
+   "updated_at": "2026-10-26T19:10:15+00:00",
+   "url": "https://marioadolfo.com/empresario-investigado-por-perseguir-mulheres-tem-arma-apreendida-em-manaus/",
+   "url_hash": "b12c67c990c6b85f68fd2bc8"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-26T19:00:20+00:00",
-  "saved_at": "2026-10-26T19:00:22+00:00"
+  "last_run_at": "2026-10-26T19:10:14+00:00",
+  "saved_at": "2026-10-26T19:10:15+00:00"
  },
  "schema": 1
 }
