@@ -10586,13 +10586,55 @@
    "updated_at": "2026-10-25T23:59:59+00:00",
    "url": "https://marioadolfo.com/maria-do-carmo-agradece-aos-780-mil-votos-e-parabeniza-omar-pela-vitoria/",
    "url_hash": "2323454637a9e64412a210e7"
+  },
+  "guid:6ade986552c09500099ded89": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Candidata do PP teve 66,16% dos votos até agora",
+   "discovered_at": "2026-10-26T00:10:14+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ade986552c09500099ded89",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f94ab130-6c52-4044-9599-236c96e65a7d.webp",
+   "key": "guid:6ade986552c09500099ded89",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-26T00:02:45+00:00",
+   "status": "pending",
+   "title": "Mailza Assis é reeleita governadora do Acre",
+   "updated_at": "2026-10-26T00:10:14+00:00",
+   "url": "https://marioadolfo.com/mailza-assis-e-reeleita-governadora-do-acre/",
+   "url_hash": "2f63f612ff55f64b4331d220"
+  },
+  "guid:6ade98fa52c09500099ded9e": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A vice-governadora eleita é Eliane Leal (PL), policial militar da reserva e pastora evangélica",
+   "discovered_at": "2026-10-26T00:10:14+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ade98fa52c09500099ded9e",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/cc00c886-3bbf-480b-a5e7-7db273ed977a.jpg",
+   "key": "guid:6ade98fa52c09500099ded9e",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-26T00:09:05+00:00",
+   "status": "pending",
+   "title": "Lorenzo Pazolini é eleito governador do Espírito Santo",
+   "updated_at": "2026-10-26T00:10:14+00:00",
+   "url": "https://marioadolfo.com/lorenzo-pazolini-e-eleito-governador-do-espirito-santo/",
+   "url_hash": "03d5a4b50dccf614e5c46be6"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-26T00:00:19+00:00",
-  "saved_at": "2026-10-26T00:00:20+00:00"
+  "last_run_at": "2026-10-26T00:10:13+00:00",
+  "saved_at": "2026-10-26T00:10:14+00:00"
  },
  "schema": 1
 }
