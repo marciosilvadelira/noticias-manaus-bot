@@ -10505,12 +10505,12 @@
    "guid": "6ade3d6752c09500099debb7",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0424dab9-48ad-4fef-98e1-88007a7a36ba.jpg",
    "key": "guid:6ade3d6752c09500099debb7",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-25T17:43:04+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Viaduto Ayrton Senna terá interdição durante a madrugada",
-   "updated_at": "2026-10-25T17:50:14+00:00",
+   "updated_at": "2026-10-26T17:50:17+00:00",
    "url": "https://marioadolfo.com/viaduto-ayrton-senna-tera-interdicao-durante-a-madrugada/",
    "url_hash": "51a7b8eeab452e23032bdfce"
   },
@@ -11484,8 +11484,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-26T17:40:15+00:00",
-  "saved_at": "2026-10-26T17:40:16+00:00"
+  "last_run_at": "2026-10-26T17:50:14+00:00",
+  "saved_at": "2026-10-26T17:50:18+00:00"
  },
  "schema": 1
 }
