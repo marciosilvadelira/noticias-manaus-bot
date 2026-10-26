@@ -11017,13 +11017,34 @@
    "updated_at": "2026-10-26T02:10:14+00:00",
    "url": "https://marioadolfo.com/braga-destaca-forca-da-uniao-na-vitoria-de-omar-e-lula-e-projeta-novo-momento-para-o-am/",
    "url_hash": "0c7f4d342fce35e29f8f472b"
+  },
+  "guid:6adf47c252c09500099deeac": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Efetivo atuará por 90 dias no âmbito do Plano Amazônia",
+   "discovered_at": "2026-10-26T12:40:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6adf47c252c09500099deeac",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c04350ef-b979-4e53-83bb-ae91a37f7611.webp",
+   "key": "guid:6adf47c252c09500099deeac",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-26T12:31:23+00:00",
+   "status": "pending",
+   "title": "Força Nacional reforçará segurança na fronteira com a Colômbia",
+   "updated_at": "2026-10-26T12:40:15+00:00",
+   "url": "https://marioadolfo.com/forca-nacional-reforcara-seguranca-na-fronteira-com-a-colombia/",
+   "url_hash": "dc83d5938496a19cf6d6bbcc"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-26T12:30:17+00:00",
-  "saved_at": "2026-10-26T12:30:18+00:00"
+  "last_run_at": "2026-10-26T12:40:14+00:00",
+  "saved_at": "2026-10-26T12:40:16+00:00"
  },
  "schema": 1
 }
