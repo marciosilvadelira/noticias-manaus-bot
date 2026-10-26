@@ -9116,12 +9116,12 @@
    "guid": "6adbc7cb52c09500099de675",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d4bc23be-22ad-4c54-b440-ac4bc4d13e88.jpeg",
    "key": "guid:6adbc7cb52c09500099de675",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-25T23:17:11+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Omar Aziz é eleito governador do Amazonas",
-   "updated_at": "2026-10-25T23:20:13+00:00",
+   "updated_at": "2026-10-26T23:20:14+00:00",
    "url": "https://marioadolfo.com/omar-aziz-e-eleito-governador-do-amazonas/",
    "url_hash": "a12a46a56593ecd84dfb0306"
   },
@@ -11715,8 +11715,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-26T23:10:13+00:00",
-  "saved_at": "2026-10-26T23:10:14+00:00"
+  "last_run_at": "2026-10-26T23:20:14+00:00",
+  "saved_at": "2026-10-26T23:20:15+00:00"
  },
  "schema": 1
 }
