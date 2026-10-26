@@ -10358,12 +10358,12 @@
    "guid": "6ade2d5352c09500099deb06",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b1072ebd-d0ff-4507-9413-2f3101357641.png",
    "key": "guid:6ade2d5352c09500099deb06",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-25T16:27:08+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Base Arpão apreende 15 kg de drogas dentro de embarcações em Jutaí",
-   "updated_at": "2026-10-25T16:30:17+00:00",
+   "updated_at": "2026-10-26T16:30:19+00:00",
    "url": "https://marioadolfo.com/base-arpao-apreende-15-kg-de-drogas-dentro-de-embarcacoes-em-jutai/",
    "url_hash": "8a70dbe0fb899eac0ea8aa78"
   },
@@ -11358,8 +11358,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-26T16:20:15+00:00",
-  "saved_at": "2026-10-26T16:20:17+00:00"
+  "last_run_at": "2026-10-26T16:30:19+00:00",
+  "saved_at": "2026-10-26T16:30:20+00:00"
  },
  "schema": 1
 }
