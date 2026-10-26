@@ -11479,13 +11479,55 @@
    "updated_at": "2026-10-26T17:40:16+00:00",
    "url": "https://marioadolfo.com/cantor-e-desligado-da-banda-rabo-de-vaca-apos-suposta-agressao-contra-companheira/",
    "url_hash": "424565bac30e7a339337bd4f"
+  },
+  "guid:6adf964552c09500099df0a7": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Ação móvel oferece serviços comerciais à população com mais comodidade e agilidade na resolução de demandas",
+   "discovered_at": "2026-10-26T18:10:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6adf964552c09500099df0a7",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/987212d3-64cd-429a-83a4-aa11664be0d7.jpeg",
+   "key": "guid:6adf964552c09500099df0a7",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-26T18:05:58+00:00",
+   "status": "pending",
+   "title": "Atendimento itinerante da Âmbar Energia leva serviços a 10 comunidades de Manaus",
+   "updated_at": "2026-10-26T18:10:17+00:00",
+   "url": "https://marioadolfo.com/atendimento-itinerante-da-ambar-energia-leva-servicos-a-10-comunidades-de-manaus/",
+   "url_hash": "1b0201aef6cba05edd213c4b"
+  },
+  "guid:6adf96a752c09500099df0c0": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Evento acontece no período de 27 a 31/10 no Complexo Cultural Parque do Ingá",
+   "discovered_at": "2026-10-26T18:10:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6adf96a752c09500099df0c0",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/8a092b97-4422-48d3-ab2f-99852cc7efe7.jpeg",
+   "key": "guid:6adf96a752c09500099df0c0",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-26T18:09:36+00:00",
+   "status": "pending",
+   "title": "Justiça estabelece regras para participação de menores na Expo Manacá 2026",
+   "updated_at": "2026-10-26T18:10:17+00:00",
+   "url": "https://marioadolfo.com/justica-estabelece-regras-para-participacao-de-menores-na-expo-manaca-2026-2/",
+   "url_hash": "f4b0025e4ec851d779a101bf"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-26T18:00:24+00:00",
-  "saved_at": "2026-10-26T18:00:25+00:00"
+  "last_run_at": "2026-10-26T18:10:16+00:00",
+  "saved_at": "2026-10-26T18:10:17+00:00"
  },
  "schema": 1
 }
