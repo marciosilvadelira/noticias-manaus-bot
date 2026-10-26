@@ -11185,13 +11185,55 @@
    "updated_at": "2026-10-26T15:40:17+00:00",
    "url": "https://marioadolfo.com/dpam-garante-adocao-de-adolescente-durante-audiencia-em-tonantins/",
    "url_hash": "e76730c8a0cad56a73e8fbb7"
+  },
+  "guid:6adf75ca52c09500099def8a": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Quem faltou ao primeiro turno tem até 3 de dezembro",
+   "discovered_at": "2026-10-26T15:50:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6adf75ca52c09500099def8a",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4b430f62-e95a-443e-a3d9-c4e8b8aa219b.webp",
+   "key": "guid:6adf75ca52c09500099def8a",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-26T15:47:39+00:00",
+   "status": "pending",
+   "title": "Eleitor pode justificar ausência no segundo turno até 8 de janeiro",
+   "updated_at": "2026-10-26T15:50:16+00:00",
+   "url": "https://marioadolfo.com/eleitor-pode-justificar-ausencia-no-segundo-turno-ate-8-de-janeiro/",
+   "url_hash": "5c771efaf1e2f54416341f66"
+  },
+  "guid:6adf763d52c09500099def9f": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Apurações estão sendo feitas sobre ocorrências em cinco estados",
+   "discovered_at": "2026-10-26T15:50:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6adf763d52c09500099def9f",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/85664ffb-1560-4f8f-8ced-e7c8846bd74a.webp",
+   "key": "guid:6adf763d52c09500099def9f",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-26T15:49:55+00:00",
+   "status": "pending",
+   "title": "PF investiga se problemas na circulação de ônibus prejudicaram eleitor",
+   "updated_at": "2026-10-26T15:50:16+00:00",
+   "url": "https://marioadolfo.com/pf-investiga-se-problemas-na-circulacao-de-onibus-prejudicaram-eleitor/",
+   "url_hash": "b8a549463dd31a13b0fb1d55"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-26T15:40:16+00:00",
-  "saved_at": "2026-10-26T15:40:18+00:00"
+  "last_run_at": "2026-10-26T15:50:14+00:00",
+  "saved_at": "2026-10-26T15:50:17+00:00"
  },
  "schema": 1
 }
