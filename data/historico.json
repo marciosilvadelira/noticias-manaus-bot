@@ -11164,13 +11164,34 @@
    "updated_at": "2026-10-26T15:30:19+00:00",
    "url": "https://marioadolfo.com/homem-e-executado-dentro-de-carro-no-parque-10/",
    "url_hash": "12dc4ec7e920a361a25d5b52"
+  },
+  "guid:6adf726752c09500099def75": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Após anos de convivência com o casal, adolescente teve o desejo de formalizar os vínculos familiares reconhecido pela Justiça, com atuação da Defensoria no processo",
+   "discovered_at": "2026-10-26T15:40:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6adf726752c09500099def75",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/56651a75-fe34-4f83-be20-a453c7018166.jpeg",
+   "key": "guid:6adf726752c09500099def75",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-26T15:33:02+00:00",
+   "status": "pending",
+   "title": "DPAM garante adoção de adolescente durante audiência em Tonantins",
+   "updated_at": "2026-10-26T15:40:17+00:00",
+   "url": "https://marioadolfo.com/dpam-garante-adocao-de-adolescente-durante-audiencia-em-tonantins/",
+   "url_hash": "e76730c8a0cad56a73e8fbb7"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-26T15:30:18+00:00",
-  "saved_at": "2026-10-26T15:30:20+00:00"
+  "last_run_at": "2026-10-26T15:40:16+00:00",
+  "saved_at": "2026-10-26T15:40:18+00:00"
  },
  "schema": 1
 }
