@@ -11608,12 +11608,12 @@
    "guid": "6adf8b8952c09500099df040",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/9343a9be-50c9-4359-a3f1-0c79315ce29b.jpeg",
    "key": "guid:6adf8b8952c09500099df040",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-26T17:20:55+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Caprichoso lança álbum ‘Brinquedo que Canta Seu Chão’ gravado no Bumbódromo",
-   "updated_at": "2026-10-26T17:30:19+00:00",
+   "updated_at": "2026-10-27T17:30:25+00:00",
    "url": "https://marioadolfo.com/caprichoso-lanca-album-brinquedo-que-canta-seu-chao-gravado-no-bumbodromo/",
    "url_hash": "97aed1f97c2932c1b435843d"
   },
@@ -11629,12 +11629,12 @@
    "guid": "6adf8c6c52c09500099df058",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/db45067f-4d54-4898-a9d5-be834e5eb19a.webp",
    "key": "guid:6adf8c6c52c09500099df058",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-26T17:25:32+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Votação de Lula é a maior já recebida por um presidenciável no país",
-   "updated_at": "2026-10-26T17:30:19+00:00",
+   "updated_at": "2026-10-27T17:30:25+00:00",
    "url": "https://marioadolfo.com/votacao-de-lula-e-a-maior-ja-recebida-por-um-presidenciavel-no-pais/",
    "url_hash": "3cc9e8921625f867549a1a9d"
   },
@@ -11650,12 +11650,12 @@
    "guid": "6adf8d2d52c09500099df070",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/01f56e79-69c4-4087-94f3-611c793f71c0.webp",
    "key": "guid:6adf8d2d52c09500099df070",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-26T17:28:32+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Lula cresce em número de votos em todos os estados; Flávio recuou em 6",
-   "updated_at": "2026-10-26T17:30:19+00:00",
+   "updated_at": "2026-10-27T17:30:25+00:00",
    "url": "https://marioadolfo.com/lula-cresce-em-numero-de-votos-em-todos-os-estados-flavio-recuou-em-6/",
    "url_hash": "4cd993559bca9d1b8cfc8871"
   },
@@ -12188,8 +12188,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-27T17:20:15+00:00",
-  "saved_at": "2026-10-27T17:20:18+00:00"
+  "last_run_at": "2026-10-27T17:30:24+00:00",
+  "saved_at": "2026-10-27T17:30:26+00:00"
  },
  "schema": 1
 }
