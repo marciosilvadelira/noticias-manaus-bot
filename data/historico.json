@@ -10904,12 +10904,12 @@
    "guid": "6ade99d752c09500099deda6",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/59d23c9b-eb62-444d-8dd9-820b29d705e0.jpg",
    "key": "guid:6ade99d752c09500099deda6",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-26T00:11:03+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "David Almeida parabeniza Omar pela eleição ao Governo do Amazonas",
-   "updated_at": "2026-10-26T00:20:14+00:00",
+   "updated_at": "2026-10-27T00:20:15+00:00",
    "url": "https://marioadolfo.com/david-almeida-parabeniza-omar-pela-eleicao-ao-governo-do-amazonas/",
    "url_hash": "5633243d66472872e81c9786"
   },
@@ -10925,12 +10925,12 @@
    "guid": "6ade9b2952c09500099dedce",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/365642e9-6c22-491d-9aae-2241458b0ad7.jpg",
    "key": "guid:6ade9b2952c09500099dedce",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-26T00:14:27+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Lorenzo Pazolini vence o segundo turno e vai governar o Espírito Santo",
-   "updated_at": "2026-10-26T00:20:14+00:00",
+   "updated_at": "2026-10-27T00:20:15+00:00",
    "url": "https://marioadolfo.com/lorenzo-pazolini-vence-o-segundo-turno-e-vai-governar-o-espirito-santo/",
    "url_hash": "87b4822d8bcb2746f17723d9"
   },
@@ -10946,12 +10946,12 @@
    "guid": "6ade9be552c09500099dede5",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0e15979e-713f-4f73-806f-60116272fc3f.jpg",
    "key": "guid:6ade9be552c09500099dede5",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-26T00:17:38+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Lula é reeleito presidente do Brasil em virada histórica",
-   "updated_at": "2026-10-26T00:20:14+00:00",
+   "updated_at": "2026-10-27T00:20:15+00:00",
    "url": "https://marioadolfo.com/lula-e-reeleito-presidente-do-brasil-em-virada-historica/",
    "url_hash": "4a2df5166164d222039152ae"
   },
@@ -11715,8 +11715,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-27T00:10:14+00:00",
-  "saved_at": "2026-10-27T00:10:15+00:00"
+  "last_run_at": "2026-10-27T00:20:14+00:00",
+  "saved_at": "2026-10-27T00:20:17+00:00"
  },
  "schema": 1
 }
