@@ -11952,13 +11952,34 @@
    "updated_at": "2026-10-27T11:30:18+00:00",
    "url": "https://marioadolfo.com/omar-aziz-se-reune-com-lula-para-discutir-prioridades-do-amazonas-para-2027/",
    "url_hash": "22c1a52fc12bd0ff0e7ed1fe"
+  },
+  "guid:6ae0a18552c09500099df247": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "A apuração ocorre após o portal argentino Infobae divulgar, na madrugada desta terça-feira (27), que o ex-candidato à Presidência teria deixado o território brasileiro.",
+   "discovered_at": "2026-10-27T13:10:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae0a18552c09500099df247",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ec96cae9-fff4-47af-8a72-165608b763da.jpg",
+   "key": "guid:6ae0a18552c09500099df247",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-27T13:07:12+00:00",
+   "status": "pending",
+   "title": "PF apura suposta fuga de Flávio Bolsonaro para a Argentina",
+   "updated_at": "2026-10-27T13:10:18+00:00",
+   "url": "https://marioadolfo.com/pf-apura-suposta-fuga-de-flavio-bolsonaro-para-a-argentina/",
+   "url_hash": "c91844098c5075938708c654"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-27T13:00:20+00:00",
-  "saved_at": "2026-10-27T13:00:21+00:00"
+  "last_run_at": "2026-10-27T13:10:17+00:00",
+  "saved_at": "2026-10-27T13:10:19+00:00"
  },
  "schema": 1
 }
