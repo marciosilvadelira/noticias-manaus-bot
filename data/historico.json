@@ -12036,13 +12036,34 @@
    "updated_at": "2026-10-27T14:30:21+00:00",
    "url": "https://marioadolfo.com/pf-faz-buscas-em-manaus-em-investigacao-sobre-crimes-ambientais-no-amazonas/",
    "url_hash": "4345ea392d4307484b3b0231"
+  },
+  "guid:6ae0b54f52c09500099df2ab": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Operação investiga a importação e a comercialização irregular de produtos; uma pessoa foi presa em flagrante",
+   "discovered_at": "2026-10-27T14:40:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae0b54f52c09500099df2ab",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b9d70ed9-b6b0-4066-ae16-3dcba4ec0974.jpg",
+   "key": "guid:6ae0b54f52c09500099df2ab",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-27T14:33:37+00:00",
+   "status": "pending",
+   "title": "Operação apreende anabolizantes, peptídeos e emagrecedores no AM",
+   "updated_at": "2026-10-27T14:40:19+00:00",
+   "url": "https://marioadolfo.com/operacao-apreende-anabolizantes-peptideos-e-emagrecedores-no-am/",
+   "url_hash": "936435dd3126a578a0447f92"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-27T14:30:20+00:00",
-  "saved_at": "2026-10-27T14:30:22+00:00"
+  "last_run_at": "2026-10-27T14:40:19+00:00",
+  "saved_at": "2026-10-27T14:40:20+00:00"
  },
  "schema": 1
 }
