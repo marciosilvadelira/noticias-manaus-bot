@@ -11839,12 +11839,12 @@
    "guid": "6adfb3d152c09500099df181",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/95483676-126e-4c97-ba43-25feb0224fea.jpg",
    "key": "guid:6adfb3d152c09500099df181",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-26T20:13:09+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Eleições 2026: oito partidos vão comandar 26 estados e o DF",
-   "updated_at": "2026-10-26T20:20:18+00:00",
+   "updated_at": "2026-10-27T20:20:16+00:00",
    "url": "https://marioadolfo.com/eleicoes-2026-oito-partidos-vao-comandar-26-estados-e-o-df/",
    "url_hash": "d5d39d9c50a6c7cff2127130"
   },
@@ -11860,12 +11860,12 @@
    "guid": "6adfb53952c09500099df198",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0b9b8a7b-dfd9-4301-96b0-927017242ab0.jpeg",
    "key": "guid:6adfb53952c09500099df198",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-26T20:18:45+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Justiça determina reserva de vagas para pessoas com deficiência em concursos da PMAM",
-   "updated_at": "2026-10-26T20:20:18+00:00",
+   "updated_at": "2026-10-27T20:20:16+00:00",
    "url": "https://marioadolfo.com/justica-determina-reserva-de-vagas-para-pessoas-com-deficiencia-em-concursos-da-pmam/",
    "url_hash": "7611926acfc8522bf9ff73e2"
   },
@@ -12524,8 +12524,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-27T20:10:15+00:00",
-  "saved_at": "2026-10-27T20:10:16+00:00"
+  "last_run_at": "2026-10-27T20:20:15+00:00",
+  "saved_at": "2026-10-27T20:20:16+00:00"
  },
  "schema": 1
 }
