@@ -10862,12 +10862,12 @@
    "guid": "6ade986552c09500099ded89",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f94ab130-6c52-4044-9599-236c96e65a7d.webp",
    "key": "guid:6ade986552c09500099ded89",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-26T00:02:45+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Mailza Assis é reeleita governadora do Acre",
-   "updated_at": "2026-10-26T00:10:14+00:00",
+   "updated_at": "2026-10-27T00:10:14+00:00",
    "url": "https://marioadolfo.com/mailza-assis-e-reeleita-governadora-do-acre/",
    "url_hash": "2f63f612ff55f64b4331d220"
   },
@@ -10883,12 +10883,12 @@
    "guid": "6ade98fa52c09500099ded9e",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/cc00c886-3bbf-480b-a5e7-7db273ed977a.jpg",
    "key": "guid:6ade98fa52c09500099ded9e",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-26T00:09:05+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Lorenzo Pazolini é eleito governador do Espírito Santo",
-   "updated_at": "2026-10-26T00:10:14+00:00",
+   "updated_at": "2026-10-27T00:10:14+00:00",
    "url": "https://marioadolfo.com/lorenzo-pazolini-e-eleito-governador-do-espirito-santo/",
    "url_hash": "03d5a4b50dccf614e5c46be6"
   },
@@ -11715,8 +11715,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-27T00:00:20+00:00",
-  "saved_at": "2026-10-27T00:00:21+00:00"
+  "last_run_at": "2026-10-27T00:10:14+00:00",
+  "saved_at": "2026-10-27T00:10:15+00:00"
  },
  "schema": 1
 }
