@@ -11931,13 +11931,34 @@
    "updated_at": "2026-10-27T10:30:21+00:00",
    "url": "https://marioadolfo.com/braga-ve-mdb-fortalecido-na-articulacao-entre-governo-e-congresso-e-defende-investimentos-para-o-am/",
    "url_hash": "14202ef7248ef8b19ceb6170"
+  },
+  "guid:6ae088c352c09500099df226": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Saúde, BR-319 e impactos da reforma tributária sobre a Zona Franca estão entre os temas que devem entrar na pauta",
+   "discovered_at": "2026-10-27T11:30:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae088c352c09500099df226",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b0da5e32-80b8-4d67-b759-49817de72525.jpg",
+   "key": "guid:6ae088c352c09500099df226",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-27T11:22:48+00:00",
+   "status": "pending",
+   "title": "Omar Aziz se reúne com Lula para discutir prioridades do Amazonas para 2027",
+   "updated_at": "2026-10-27T11:30:18+00:00",
+   "url": "https://marioadolfo.com/omar-aziz-se-reune-com-lula-para-discutir-prioridades-do-amazonas-para-2027/",
+   "url_hash": "22c1a52fc12bd0ff0e7ed1fe"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-27T11:20:15+00:00",
-  "saved_at": "2026-10-27T11:20:17+00:00"
+  "last_run_at": "2026-10-27T11:30:18+00:00",
+  "saved_at": "2026-10-27T11:30:19+00:00"
  },
  "schema": 1
 }
