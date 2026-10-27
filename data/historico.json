@@ -11215,11 +11215,19 @@
    "url_hash": "cda4f09394276061f7b31879"
   },
   "guid:6adf66d552c09500099def23": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-27T04:21:40+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1519929326824625",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Estados acompanharam a vitória de Lula sobre Flávio Bolsonaro no segundo turno de 2026 e mantêm histórico de escolhas alinhadas ao resultado nacional desde 1989",
    "discovered_at": "2026-10-26T16:10:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1519929326824625",
    "formats": [
     "link"
    ],
@@ -11227,11 +11235,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/3201a573-1ddd-439d-ad60-5c6ceb40cb02.webp",
    "key": "guid:6adf66d552c09500099def23",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1519929326824625"
+   },
    "source_published_at": "2026-10-26T16:00:36+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Amazonas e Minas Gerais repetem tradição e cravam vencedor para presidente desde 1989",
-   "updated_at": "2026-10-26T16:10:17+00:00",
+   "updated_at": "2026-10-27T04:21:40+00:00",
    "url": "https://marioadolfo.com/amazonas-e-minas-gerais-repetem-tradicao-e-cravam-todos-os-resultados-presidenciais-desde-1989/",
    "url_hash": "44a727e4e0dced234e2450ec"
   },
@@ -11329,11 +11339,19 @@
    "url_hash": "e76730c8a0cad56a73e8fbb7"
   },
   "guid:6adf75ca52c09500099def8a": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-27T04:20:23+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1519928460158045",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Quem faltou ao primeiro turno tem até 3 de dezembro",
    "discovered_at": "2026-10-26T15:50:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1519928460158045",
    "formats": [
     "link"
    ],
@@ -11341,20 +11359,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4b430f62-e95a-443e-a3d9-c4e8b8aa219b.webp",
    "key": "guid:6adf75ca52c09500099def8a",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1519928460158045"
+   },
    "source_published_at": "2026-10-26T15:47:39+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Eleitor pode justificar ausência no segundo turno até 8 de janeiro",
-   "updated_at": "2026-10-26T15:50:16+00:00",
+   "updated_at": "2026-10-27T04:20:23+00:00",
    "url": "https://marioadolfo.com/eleitor-pode-justificar-ausencia-no-segundo-turno-ate-8-de-janeiro/",
    "url_hash": "5c771efaf1e2f54416341f66"
   },
   "guid:6adf763d52c09500099def9f": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-27T04:20:48+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1519928663491358",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Apurações estão sendo feitas sobre ocorrências em cinco estados",
    "discovered_at": "2026-10-26T15:50:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1519928663491358",
    "formats": [
     "link"
    ],
@@ -11362,20 +11390,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/85664ffb-1560-4f8f-8ced-e7c8846bd74a.webp",
    "key": "guid:6adf763d52c09500099def9f",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1519928663491358"
+   },
    "source_published_at": "2026-10-26T15:49:55+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "PF investiga se problemas na circulação de ônibus prejudicaram eleitor",
-   "updated_at": "2026-10-26T15:50:16+00:00",
+   "updated_at": "2026-10-27T04:20:48+00:00",
    "url": "https://marioadolfo.com/pf-investiga-se-problemas-na-circulacao-de-onibus-prejudicaram-eleitor/",
    "url_hash": "b8a549463dd31a13b0fb1d55"
   },
   "guid:6adf77a452c09500099defb7": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-27T04:21:14+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1519928920157999",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Equipe do 8º CMPM venceu a Jornada de Foguetes com lançamento de foguete a 239,7 metros",
    "discovered_at": "2026-10-26T16:00:24+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1519928920157999",
    "formats": [
     "link"
    ],
@@ -11383,20 +11421,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/1f34289f-2c77-4667-8ad3-8eff56052e76.jpeg",
    "key": "guid:6adf77a452c09500099defb7",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1519928920157999"
+   },
    "source_published_at": "2026-10-26T15:56:12+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Estudantes amazonenses conquistam ouro em competição nacional de foguetes no RJ",
-   "updated_at": "2026-10-26T16:00:24+00:00",
+   "updated_at": "2026-10-27T04:21:14+00:00",
    "url": "https://marioadolfo.com/estudantes-amazonenses-conquistam-ouro-em-competicao-nacional-de-foguetes-no-rj/",
    "url_hash": "0d18f8d5a3e5058813271d46"
   },
   "guid:6adf799852c09500099defd0": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-27T04:22:06+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1519929690157922",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "As oportunidades contemplam diferentes áreas de formação, incluindo Administração, Educação, Direito, Contabilidade, Marketing e Construção Civil",
    "discovered_at": "2026-10-26T16:10:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1519929690157922",
    "formats": [
     "link"
    ],
@@ -11404,11 +11452,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b8d53e9d-cff2-4cc8-9c10-a2b1b045f437.jpeg",
    "key": "guid:6adf799852c09500099defd0",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1519929690157922"
+   },
    "source_published_at": "2026-10-26T16:04:07+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "CIEE disponibiliza 90 vagas de estágio para estudantes do Amazonas",
-   "updated_at": "2026-10-26T16:10:17+00:00",
+   "updated_at": "2026-10-27T04:22:06+00:00",
    "url": "https://marioadolfo.com/ciee-disponibiliza-90-vagas-de-estagio-para-estudantes-do-amazonas/",
    "url_hash": "78834d129f4b97b958a5b99e"
   },
@@ -11815,8 +11865,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-27T04:10:13+00:00",
-  "saved_at": "2026-10-27T04:12:07+00:00"
+  "last_run_at": "2026-10-27T04:20:17+00:00",
+  "saved_at": "2026-10-27T04:22:06+00:00"
  },
  "schema": 1
 }
