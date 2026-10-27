@@ -12141,13 +12141,55 @@
    "updated_at": "2026-10-27T16:30:19+00:00",
    "url": "https://marioadolfo.com/trio-e-preso-por-tiros-durante-manifestacao-politica-no-am/",
    "url_hash": "76e23ae64930a639947ffee1"
+  },
+  "guid:6ae0d12f52c09500099df31c": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Com as novas entregas da Operação Estiagem 2026, ajuda humanitária chega a 96 toneladas de alimentos em 15 municípios afetados pela vazante dos rios",
+   "discovered_at": "2026-10-27T16:40:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae0d12f52c09500099df31c",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d45457df-10ea-4404-a822-e033dc74b1fc.jpeg",
+   "key": "guid:6ae0d12f52c09500099df31c",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-27T16:31:21+00:00",
+   "status": "pending",
+   "title": "Governo do AM envia mais de 13 toneladas de alimentos a Anamã e Rio Preto da Eva",
+   "updated_at": "2026-10-27T16:40:17+00:00",
+   "url": "https://marioadolfo.com/governo-do-am-envia-mais-de-13-toneladas-de-alimentos-a-anama-e-rio-preto-da-eva/",
+   "url_hash": "cea49be4ab59929226a6349d"
+  },
+  "guid:6ae0d20752c09500099df332": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Proposta de ampliar contingenciamento é uma das medidas em estudo",
+   "discovered_at": "2026-10-27T16:40:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae0d20752c09500099df332",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/3d4b1772-df3c-4f76-b1fa-9ff197ab90a0.webp",
+   "key": "guid:6ae0d20752c09500099df332",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-27T16:33:09+00:00",
+   "status": "pending",
+   "title": "Governo buscará cumprir meta fiscal com diálogo, diz Durigan",
+   "updated_at": "2026-10-27T16:40:17+00:00",
+   "url": "https://marioadolfo.com/governo-buscara-cumprir-meta-fiscal-com-dialogo-diz-durigan/",
+   "url_hash": "2d5fc1146167151cd77120c1"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-27T16:30:18+00:00",
-  "saved_at": "2026-10-27T16:30:20+00:00"
+  "last_run_at": "2026-10-27T16:40:15+00:00",
+  "saved_at": "2026-10-27T16:40:17+00:00"
  },
  "schema": 1
 }
