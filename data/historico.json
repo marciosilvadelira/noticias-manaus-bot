@@ -11692,12 +11692,12 @@
    "guid": "6adf964552c09500099df0a7",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/987212d3-64cd-429a-83a4-aa11664be0d7.jpeg",
    "key": "guid:6adf964552c09500099df0a7",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-26T18:05:58+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Atendimento itinerante da Âmbar Energia leva serviços a 10 comunidades de Manaus",
-   "updated_at": "2026-10-26T18:10:17+00:00",
+   "updated_at": "2026-10-27T18:10:17+00:00",
    "url": "https://marioadolfo.com/atendimento-itinerante-da-ambar-energia-leva-servicos-a-10-comunidades-de-manaus/",
    "url_hash": "1b0201aef6cba05edd213c4b"
   },
@@ -11713,12 +11713,12 @@
    "guid": "6adf96a752c09500099df0c0",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/8a092b97-4422-48d3-ab2f-99852cc7efe7.jpeg",
    "key": "guid:6adf96a752c09500099df0c0",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-26T18:09:36+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Justiça estabelece regras para participação de menores na Expo Manacá 2026",
-   "updated_at": "2026-10-26T18:10:17+00:00",
+   "updated_at": "2026-10-27T18:10:17+00:00",
    "url": "https://marioadolfo.com/justica-estabelece-regras-para-participacao-de-menores-na-expo-manaca-2026-2/",
    "url_hash": "f4b0025e4ec851d779a101bf"
   },
@@ -12267,13 +12267,76 @@
    "updated_at": "2026-10-27T17:50:18+00:00",
    "url": "https://marioadolfo.com/festival-de-cinema-close-divulga-lista-de-27-obras-selecionadas-para-a-terceira-edicao/",
    "url_hash": "f202eceece40d988355fb546"
+  },
+  "guid:6ae0e6b352c09500099df3a8": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "As prisões ocorreram durante o cumprimento de mandados judiciais de busca e apreensão domiciliar",
+   "discovered_at": "2026-10-27T18:10:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae0e6b352c09500099df3a8",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b6ec8dec-bee1-4994-b3ae-598d83677a94.jpeg",
+   "key": "guid:6ae0e6b352c09500099df3a8",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-27T18:02:18+00:00",
+   "status": "pending",
+   "title": "Dupla é presa por tráfico de drogas e associação ao tráfico em Nhamundá",
+   "updated_at": "2026-10-27T18:10:17+00:00",
+   "url": "https://marioadolfo.com/dupla-e-presa-por-trafico-de-drogas-e-associacao-ao-trafico-em-nhamunda/",
+   "url_hash": "aaab77f4c71d9e11364dde00"
+  },
+  "guid:6ae0e75352c09500099df3c1": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Denúncias podem ser feitas pelos números (92) 3667-7741, disque-denúncia da Dema; 197 e (92) 3667-7575, da PC-AM; ou pelo 181, da SSP-AM",
+   "discovered_at": "2026-10-27T18:10:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae0e75352c09500099df3c1",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a5daa0a9-a4dc-4db6-be06-e775200a7d9d.jpeg",
+   "key": "guid:6ae0e75352c09500099df3c1",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-27T18:05:14+00:00",
+   "status": "pending",
+   "title": "PC-AM procura por suspeitos de incêndio no bairro Novo Aleixo",
+   "updated_at": "2026-10-27T18:10:17+00:00",
+   "url": "https://marioadolfo.com/pc-am-procura-por-suspeitos-de-incendio-no-bairro-novo-aleixo/",
+   "url_hash": "be57c412182fdd52aec90b25"
+  },
+  "guid:6ae0e81252c09500099df3db": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Parceria prevê um acordo de cooperação técnica prevê a união de conhecimentos e recursos educativos",
+   "discovered_at": "2026-10-27T18:10:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae0e81252c09500099df3db",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/824332ad-6c25-4c90-b196-7cd8eb1d0fee.jpeg",
+   "key": "guid:6ae0e81252c09500099df3db",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-27T18:07:42+00:00",
+   "status": "pending",
+   "title": "TCE-AM e Arquidiocese firmam parceria para ampliar educação ambiental no Amazonas",
+   "updated_at": "2026-10-27T18:10:17+00:00",
+   "url": "https://marioadolfo.com/tce-am-e-arquidiocese-firmam-parceria-para-ampliar-educacao-ambiental-no-amazonas/",
+   "url_hash": "ddd5c68ee6f92abfc38b9600"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-27T18:00:25+00:00",
-  "saved_at": "2026-10-27T18:00:26+00:00"
+  "last_run_at": "2026-10-27T18:10:16+00:00",
+  "saved_at": "2026-10-27T18:10:18+00:00"
  },
  "schema": 1
 }
