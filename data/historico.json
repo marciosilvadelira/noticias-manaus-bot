@@ -11994,13 +11994,34 @@
    "updated_at": "2026-10-27T14:10:17+00:00",
    "url": "https://marioadolfo.com/governo-do-brasil-aprova-r-45-2-milhoes-para-ajudar-o-amazonas/",
    "url_hash": "6e8ed7943d6e6964a3a97a7f"
+  },
+  "guid:6ae0b19c52c09500099df278": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Entre as vítimas está uma adolescente ferida com um golpe de faca no braço enquanto seguia na garupa de uma motocicleta por aplicativo",
+   "discovered_at": "2026-10-27T14:20:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae0b19c52c09500099df278",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c5302740-9282-4843-a447-4844587d4b61.webp",
+   "key": "guid:6ae0b19c52c09500099df278",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-27T14:17:45+00:00",
+   "status": "pending",
+   "title": "Suspeita de atacar pessoas com faca é presa na região central de Manaus",
+   "updated_at": "2026-10-27T14:20:16+00:00",
+   "url": "https://marioadolfo.com/suspeita-de-atacar-pessoas-com-faca-e-presa-na-regiao-central-de-manaus/",
+   "url_hash": "7cdf7d99c2cb14b50c250a6c"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-27T14:10:16+00:00",
-  "saved_at": "2026-10-27T14:10:17+00:00"
+  "last_run_at": "2026-10-27T14:20:15+00:00",
+  "saved_at": "2026-10-27T14:20:16+00:00"
  },
  "schema": 1
 }
