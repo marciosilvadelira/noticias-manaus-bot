@@ -11755,12 +11755,12 @@
    "guid": "6adfa3b052c09500099df0f7",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a34d9274-74a4-40c3-baf6-bd637715303a.jpg",
    "key": "guid:6adfa3b052c09500099df0f7",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-26T19:06:43+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Vídeos: 'Tarado do BYD' tem pistola apreendida em Manaus",
-   "updated_at": "2026-10-26T19:10:15+00:00",
+   "updated_at": "2026-10-27T19:10:17+00:00",
    "url": "https://marioadolfo.com/empresario-investigado-por-perseguir-mulheres-tem-arma-apreendida-em-manaus/",
    "url_hash": "b12c67c990c6b85f68fd2bc8"
   },
@@ -12414,13 +12414,55 @@
    "updated_at": "2026-10-27T19:00:26+00:00",
    "url": "https://marioadolfo.com/ambar-energia-realiza-servicos-programados-na-rede-eletrica-de-manaus/",
    "url_hash": "2d7b07c0ea46c1650930db73"
+  },
+  "guid:6ae0f57252c09500099df451": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Senador descumpriu ordem do STF para entregar passaportes",
+   "discovered_at": "2026-10-27T19:10:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae0f57252c09500099df451",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/74ab603a-a846-4fae-85d9-4172731df1b6.jpg",
+   "key": "guid:6ae0f57252c09500099df451",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-27T19:04:39+00:00",
+   "status": "pending",
+   "title": "Flávio Bolsonaro fugiu para os EUA, diz Agência Reuters",
+   "updated_at": "2026-10-27T19:10:17+00:00",
+   "url": "https://marioadolfo.com/flavio-bolsonaro-fugiu-para-os-eua-diz-agencia-reuters/",
+   "url_hash": "4c5957b88ec3d2cb1d5cf0cb"
+  },
+  "guid:6ae0f5f052c09500099df469": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Durante as eleições, entidade ajuizou 59 ações civis públicas",
+   "discovered_at": "2026-10-27T19:10:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae0f5f052c09500099df469",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/7c1c1579-a158-4585-ad3f-d14d62d02619.jpg",
+   "key": "guid:6ae0f5f052c09500099df469",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-27T18:50:00+00:00",
+   "status": "pending",
+   "title": "MPT registra quase 2 mil denúncias de assédio eleitoral no Brasil",
+   "updated_at": "2026-10-27T19:10:17+00:00",
+   "url": "https://marioadolfo.com/mpt-registra-quase-2-mil-denuncias-de-assedio-eleitoral-no-brasil/",
+   "url_hash": "c300b173c15e5ea53c574ad2"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-27T19:00:25+00:00",
-  "saved_at": "2026-10-27T19:00:26+00:00"
+  "last_run_at": "2026-10-27T19:10:16+00:00",
+  "saved_at": "2026-10-27T19:10:18+00:00"
  },
  "schema": 1
 }
