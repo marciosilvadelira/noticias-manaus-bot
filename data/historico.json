@@ -12057,13 +12057,34 @@
    "updated_at": "2026-10-27T14:40:19+00:00",
    "url": "https://marioadolfo.com/operacao-apreende-anabolizantes-peptideos-e-emagrecedores-no-am/",
    "url_hash": "936435dd3126a578a0447f92"
+  },
+  "guid:6ae0b8f652c09500099df2bf": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A intervenção é necessária para a conservação da estrutura, que recebe diariamente um fluxo intenso de veículo",
+   "discovered_at": "2026-10-27T15:20:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae0b8f652c09500099df2bf",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a0bab4cd-e1c8-4283-8a5b-0e328dc675ad.jpg",
+   "key": "guid:6ae0b8f652c09500099df2bf",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-27T15:15:51+00:00",
+   "status": "pending",
+   "title": "Prefeitura de Manaus inicia manutenção no viaduto Ayrton Senna",
+   "updated_at": "2026-10-27T15:20:18+00:00",
+   "url": "https://marioadolfo.com/prefeitura-de-manaus-inicia-manutencao-no-viaduto-ayrton-senna/",
+   "url_hash": "776224b9d0f0491cb95bc004"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-27T15:10:16+00:00",
-  "saved_at": "2026-10-27T15:10:17+00:00"
+  "last_run_at": "2026-10-27T15:20:16+00:00",
+  "saved_at": "2026-10-27T15:20:18+00:00"
  },
  "schema": 1
 }
