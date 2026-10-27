@@ -12204,13 +12204,76 @@
    "updated_at": "2026-10-27T17:40:26+00:00",
    "url": "https://marioadolfo.com/policia-federal-cancela-passaportes-de-flavio-bolsonaro/",
    "url_hash": "4ebc3b788dfcc90f4733c0b6"
+  },
+  "guid:6ae0e15e52c09500099df361": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Ação busca viabilizar o acesso às tarifas sociais de água e energia elétrica, além da revisão de faturas com valores elevados",
+   "discovered_at": "2026-10-27T17:50:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae0e15e52c09500099df361",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6b12169f-3cf9-422e-a9ef-e4590ff93309.jpeg",
+   "key": "guid:6ae0e15e52c09500099df361",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-27T17:44:05+00:00",
+   "status": "pending",
+   "title": "Defensoria atende demandas de água e energia de moradores do residencial Morar Melhor",
+   "updated_at": "2026-10-27T17:50:18+00:00",
+   "url": "https://marioadolfo.com/defensoria-atende-demandas-de-agua-e-energia-de-moradores-do-residencial-morar-melhor/",
+   "url_hash": "1ab65380860e3f0f3ad2f779"
+  },
+  "guid:6ae0e2ff52c09500099df37d": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Julgamento será em 24 de novembro",
+   "discovered_at": "2026-10-27T17:50:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae0e2ff52c09500099df37d",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/30a702fb-df14-4998-a446-a6f8c7b56ff7.webp",
+   "key": "guid:6ae0e2ff52c09500099df37d",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-27T17:45:47+00:00",
+   "status": "pending",
+   "title": "Justiça italiana adia julgamento sobre extradição de Zambelli",
+   "updated_at": "2026-10-27T17:50:18+00:00",
+   "url": "https://marioadolfo.com/justica-italiana-adia-julgamento-sobre-extradicao-de-zambelli/",
+   "url_hash": "8ce89f08f2093920d101e646"
+  },
+  "guid:6ae0e37752c09500099df392": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A seleção reúne curtas-metragens de ficção, documentários e videoclipes de diferentes regiões do Brasil",
+   "discovered_at": "2026-10-27T17:50:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae0e37752c09500099df392",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/da1ee1b7-8b40-44ac-aeb6-f4843f21b05f.jpeg",
+   "key": "guid:6ae0e37752c09500099df392",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-27T17:48:56+00:00",
+   "status": "pending",
+   "title": "Festival de Cinema Close divulga lista de 27 obras selecionadas para a terceira edição",
+   "updated_at": "2026-10-27T17:50:18+00:00",
+   "url": "https://marioadolfo.com/festival-de-cinema-close-divulga-lista-de-27-obras-selecionadas-para-a-terceira-edicao/",
+   "url_hash": "f202eceece40d988355fb546"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-27T17:40:25+00:00",
-  "saved_at": "2026-10-27T17:40:27+00:00"
+  "last_run_at": "2026-10-27T17:50:16+00:00",
+  "saved_at": "2026-10-27T17:50:19+00:00"
  },
  "schema": 1
 }
