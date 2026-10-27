@@ -10988,12 +10988,12 @@
    "guid": "6adea28752c09500099dee35",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/41c5629c-328d-4a4b-ab08-8793805e6382.jpg",
    "key": "guid:6adea28752c09500099dee35",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-26T00:45:44+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Rio Grande do Norte elege Cadu de Lula governador do estado",
-   "updated_at": "2026-10-26T00:50:16+00:00",
+   "updated_at": "2026-10-27T00:50:15+00:00",
    "url": "https://marioadolfo.com/rio-grande-do-norte-elege-cadu-de-lula-governador-do-estado/",
    "url_hash": "b8a370adfdc94753fde988ea"
   },
@@ -11715,8 +11715,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-27T00:40:14+00:00",
-  "saved_at": "2026-10-27T00:40:16+00:00"
+  "last_run_at": "2026-10-27T00:50:13+00:00",
+  "saved_at": "2026-10-27T00:50:15+00:00"
  },
  "schema": 1
 }
