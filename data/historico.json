@@ -11797,12 +11797,12 @@
    "guid": "6adfa60552c09500099df137",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d9fef188-7348-4c29-bb02-747b404264e6.jpg",
    "key": "guid:6adfa60552c09500099df137",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-26T21:00:48+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Omar Aziz se torna o governador mais votado da história do Amazonas",
-   "updated_at": "2026-10-26T21:03:27+00:00",
+   "updated_at": "2026-10-27T21:10:15+00:00",
    "url": "https://marioadolfo.com/omar-aziz-se-torna-o-governador-mais-votado-da-historia-do-amazonas/",
    "url_hash": "d4bfe750e1f01d9d4f8c817c"
   },
@@ -11881,12 +11881,12 @@
    "guid": "6adfc0a552c09500099df1b5",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/8e03e0a5-5413-4f8a-9dc9-cf50f3ee4377.jpg",
    "key": "guid:6adfc0a552c09500099df1b5",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-26T21:06:46+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Moraes manda Flávio entregar passaporte e o proíbe de deixar o país",
-   "updated_at": "2026-10-26T21:10:16+00:00",
+   "updated_at": "2026-10-27T21:10:15+00:00",
    "url": "https://marioadolfo.com/moraes-manda-flavio-entregar-passaporte-e-o-proibe-de-deixar-o-pais/",
    "url_hash": "e13b51571a9ccc915f15d303"
   },
@@ -11902,12 +11902,12 @@
    "guid": "6adfc0ff52c09500099df1cc",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/1ea98c7d-617a-410e-8812-046b54f7fc8c.jpg",
    "key": "guid:6adfc0ff52c09500099df1cc",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-26T21:08:15+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "PF registrou 86 casos de possíveis crimes eleitorais no 2º turno",
-   "updated_at": "2026-10-26T21:10:16+00:00",
+   "updated_at": "2026-10-27T21:10:15+00:00",
    "url": "https://marioadolfo.com/pf-registrou-86-casos-de-possiveis-crimes-eleitorais-no-2o-turno/",
    "url_hash": "4b6078d988c2310766cd2576"
   },
@@ -12587,8 +12587,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-27T21:00:21+00:00",
-  "saved_at": "2026-10-27T21:00:23+00:00"
+  "last_run_at": "2026-10-27T21:10:14+00:00",
+  "saved_at": "2026-10-27T21:10:15+00:00"
  },
  "schema": 1
 }
