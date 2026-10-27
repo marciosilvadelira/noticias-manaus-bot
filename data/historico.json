@@ -11734,12 +11734,12 @@
    "guid": "6adfa15b52c09500099df0d8",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a4c9c402-a336-411f-95a7-da296fc6d76b.jpg",
    "key": "guid:6adfa15b52c09500099df0d8",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-26T18:53:38+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Segundo turno das eleições registra menor abstenção em 20 anos",
-   "updated_at": "2026-10-26T19:00:21+00:00",
+   "updated_at": "2026-10-27T19:00:26+00:00",
    "url": "https://marioadolfo.com/segundo-turno-das-eleicoes-registra-menor-abstencao-em-20-anos/",
    "url_hash": "9535ba9d4d9d8d0d2f6552d5"
   },
@@ -12393,13 +12393,34 @@
    "updated_at": "2026-10-27T18:50:16+00:00",
    "url": "https://marioadolfo.com/alessandra-campelo-agradece-ao-povo-e-a-omar-honrarei-cada-voto/",
    "url_hash": "cc5628039cc6b04371f4570d"
+  },
+  "guid:6ae0f28852c09500099df439": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "As ações visam prevenir falhas e oscilações, melhorar o funcionamento do sistema e ampliar a qualidade do fornecimento de energia à população",
+   "discovered_at": "2026-10-27T19:00:26+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae0f28852c09500099df439",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/467a8932-9b58-47f0-95ad-7877be4ea035.jpeg",
+   "key": "guid:6ae0f28852c09500099df439",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-27T18:52:17+00:00",
+   "status": "pending",
+   "title": "Âmbar Energia realiza serviços programados na rede elétrica de Manaus",
+   "updated_at": "2026-10-27T19:00:26+00:00",
+   "url": "https://marioadolfo.com/ambar-energia-realiza-servicos-programados-na-rede-eletrica-de-manaus/",
+   "url_hash": "2d7b07c0ea46c1650930db73"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-27T18:50:15+00:00",
-  "saved_at": "2026-10-27T18:50:17+00:00"
+  "last_run_at": "2026-10-27T19:00:25+00:00",
+  "saved_at": "2026-10-27T19:00:26+00:00"
  },
  "schema": 1
 }
