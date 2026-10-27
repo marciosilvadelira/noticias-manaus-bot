@@ -11973,13 +11973,34 @@
    "updated_at": "2026-10-27T13:10:18+00:00",
    "url": "https://marioadolfo.com/pf-apura-suposta-fuga-de-flavio-bolsonaro-para-a-argentina/",
    "url_hash": "c91844098c5075938708c654"
+  },
+  "guid:6ae0aea352c09500099df261": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Até o momento, já são 47 planos de trabalho para assistência humanitária para apoiar as ações de resposta aos incêndios florestais e ao período de estiagem no estado",
+   "discovered_at": "2026-10-27T14:10:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae0aea352c09500099df261",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/71f55eb2-268a-4483-85ca-b6009036f907.jpg",
+   "key": "guid:6ae0aea352c09500099df261",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-27T14:03:23+00:00",
+   "status": "pending",
+   "title": "Governo do Brasil aprova R$ 45,2 milhões para ajudar o Amazonas",
+   "updated_at": "2026-10-27T14:10:17+00:00",
+   "url": "https://marioadolfo.com/governo-do-brasil-aprova-r-45-2-milhoes-para-ajudar-o-amazonas/",
+   "url_hash": "6e8ed7943d6e6964a3a97a7f"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-27T14:00:21+00:00",
-  "saved_at": "2026-10-27T14:00:23+00:00"
+  "last_run_at": "2026-10-27T14:10:16+00:00",
+  "saved_at": "2026-10-27T14:10:17+00:00"
  },
  "schema": 1
 }
