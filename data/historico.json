@@ -10756,11 +10756,19 @@
    "url_hash": "c357829fa54f0aca084e58ec"
   },
   "guid:6ade8cd952c09500099decff": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-27T04:10:47+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1519922166825341",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "A ex-vereadora de Itacoatiara é a primeira suplente do governador eleito no Amazonas. O ex-senador João Pedro é o segundo suplente",
    "discovered_at": "2026-10-26T14:50:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1519922166825341",
    "formats": [
     "link"
    ],
@@ -10768,11 +10776,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ea46181c-b0c1-4299-a104-528282aef684.jpg",
    "key": "guid:6ade8cd952c09500099decff",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1519922166825341"
+   },
    "source_published_at": "2026-10-26T14:42:03+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Cheila Moreira irá assumir vaga de Omar Aziz no Senado",
-   "updated_at": "2026-10-26T14:50:15+00:00",
+   "updated_at": "2026-10-27T04:10:47+00:00",
    "url": "https://marioadolfo.com/cheila-moreira-ira-assumir-vaga-de-omar-aziz-no-senado/",
    "url_hash": "ecfd8a54cecf7677a15c14ec"
   },
@@ -11174,11 +11184,19 @@
    "url_hash": "a179aa6682108039e0fc0c7d"
   },
   "guid:6adf660052c09500099def0c": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-27T04:10:21+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1519921796825378",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Eleições suplementares ocorreram paralelamente à disputa presidencial",
    "discovered_at": "2026-10-26T14:50:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1519921796825378",
    "formats": [
     "link"
    ],
@@ -11186,11 +11204,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b8892caa-dc41-40b8-bfa8-a9e33e40a723.jpg",
    "key": "guid:6adf660052c09500099def0c",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1519921796825378"
+   },
    "source_published_at": "2026-10-26T14:40:54+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Eleitores de sete cidades escolheram seus prefeitos neste 2º turno",
-   "updated_at": "2026-10-26T14:50:15+00:00",
+   "updated_at": "2026-10-27T04:10:21+00:00",
    "url": "https://marioadolfo.com/eleitores-de-sete-cidades-escolheram-seus-prefeitos-neste-2o-turno/",
    "url_hash": "cda4f09394276061f7b31879"
   },
@@ -11216,11 +11236,19 @@
    "url_hash": "44a727e4e0dced234e2450ec"
   },
   "guid:6adf6c8b52c09500099def42": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-27T04:11:14+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1519922510158640",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Subcomissão do Senado visitará unidades de saúde, ouvirá lideranças indígenas e apurará denúncias de insegurança na fronteira",
    "discovered_at": "2026-10-26T15:30:19+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1519922510158640",
    "formats": [
     "link"
    ],
@@ -11228,20 +11256,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c1104cb3-a69b-4258-93e6-d9e389d1a74d.jpg",
    "key": "guid:6adf6c8b52c09500099def42",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1519922510158640"
+   },
    "source_published_at": "2026-10-26T15:24:03+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Senado fará diligência no Amazonas para acompanhar políticas voltadas a indígenas",
-   "updated_at": "2026-10-26T15:30:19+00:00",
+   "updated_at": "2026-10-27T04:11:14+00:00",
    "url": "https://marioadolfo.com/senado-fara-diligencia-no-amazonas-para-acompanhar-politicas-voltadas-a-indigenas/",
    "url_hash": "cef8d8ef7d3c4c38e4468ec4"
   },
   "guid:6adf709e52c09500099def59": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-27T04:11:41+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1519922806825277",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Sobrinho da vítima também foi baleado, mas conseguiu fugir do local do crime",
    "discovered_at": "2026-10-26T15:30:19+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1519922806825277",
    "formats": [
     "link"
    ],
@@ -11249,20 +11287,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e3ec0a99-d540-4394-9335-3eafb0677763.jpg",
    "key": "guid:6adf709e52c09500099def59",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1519922806825277"
+   },
    "source_published_at": "2026-10-26T15:26:52+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Homem é executado dentro de carro no Parque 10",
-   "updated_at": "2026-10-26T15:30:19+00:00",
+   "updated_at": "2026-10-27T04:11:41+00:00",
    "url": "https://marioadolfo.com/homem-e-executado-dentro-de-carro-no-parque-10/",
    "url_hash": "12dc4ec7e920a361a25d5b52"
   },
   "guid:6adf726752c09500099def75": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-27T04:12:07+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1519923113491913",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Após anos de convivência com o casal, adolescente teve o desejo de formalizar os vínculos familiares reconhecido pela Justiça, com atuação da Defensoria no processo",
    "discovered_at": "2026-10-26T15:40:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1519923113491913",
    "formats": [
     "link"
    ],
@@ -11270,11 +11318,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/56651a75-fe34-4f83-be20-a453c7018166.jpeg",
    "key": "guid:6adf726752c09500099def75",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1519923113491913"
+   },
    "source_published_at": "2026-10-26T15:33:02+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "DPAM garante adoção de adolescente durante audiência em Tonantins",
-   "updated_at": "2026-10-26T15:40:17+00:00",
+   "updated_at": "2026-10-27T04:12:07+00:00",
    "url": "https://marioadolfo.com/dpam-garante-adocao-de-adolescente-durante-audiencia-em-tonantins/",
    "url_hash": "e76730c8a0cad56a73e8fbb7"
   },
@@ -11765,8 +11815,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-27T04:00:18+00:00",
-  "saved_at": "2026-10-27T04:02:09+00:00"
+  "last_run_at": "2026-10-27T04:10:13+00:00",
+  "saved_at": "2026-10-27T04:12:07+00:00"
  },
  "schema": 1
 }
