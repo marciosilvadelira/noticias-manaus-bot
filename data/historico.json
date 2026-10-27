@@ -12120,13 +12120,34 @@
    "updated_at": "2026-10-27T16:20:16+00:00",
    "url": "https://marioadolfo.com/aeronaves-lancaram-mais-de-3-milhoes-de-litros-de-agua-para-combater-incendios-no-am/",
    "url_hash": "2e7e6929e360baec38dca390"
+  },
+  "guid:6ae0cfcf52c09500099df306": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Polícia Civil afirma que ocorrência começou com um desentendimento na madrugada de segunda-feira (26)",
+   "discovered_at": "2026-10-27T16:30:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae0cfcf52c09500099df306",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/24f17ef0-124f-42fc-9afa-ced28940bcfe.jpeg",
+   "key": "guid:6ae0cfcf52c09500099df306",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-27T16:26:45+00:00",
+   "status": "pending",
+   "title": "Trio é preso por tiros durante manifestação política no AM",
+   "updated_at": "2026-10-27T16:30:19+00:00",
+   "url": "https://marioadolfo.com/trio-e-preso-por-tiros-durante-manifestacao-politica-no-am/",
+   "url_hash": "76e23ae64930a639947ffee1"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-27T16:20:15+00:00",
-  "saved_at": "2026-10-27T16:20:16+00:00"
+  "last_run_at": "2026-10-27T16:30:18+00:00",
+  "saved_at": "2026-10-27T16:30:20+00:00"
  },
  "schema": 1
 }
