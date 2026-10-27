@@ -11818,12 +11818,12 @@
    "guid": "6adfb2e852c09500099df168",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2645e990-953a-4c24-9426-480b2532502c.jpeg",
    "key": "guid:6adfb2e852c09500099df168",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-26T20:09:35+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Ipaam aplica R$ 13,3 milhões em multas por poluição do ar em quatro municípios",
-   "updated_at": "2026-10-26T20:10:17+00:00",
+   "updated_at": "2026-10-27T20:10:15+00:00",
    "url": "https://marioadolfo.com/ipaam-aplica-r-13-3-milhoes-em-multas-por-poluicao-do-ar-em-quatro-municipios/",
    "url_hash": "c9245148951afecf492d2539"
   },
@@ -12524,8 +12524,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-27T20:00:20+00:00",
-  "saved_at": "2026-10-27T20:00:23+00:00"
+  "last_run_at": "2026-10-27T20:10:15+00:00",
+  "saved_at": "2026-10-27T20:10:16+00:00"
  },
  "schema": 1
 }
