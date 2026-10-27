@@ -12330,13 +12330,76 @@
    "updated_at": "2026-10-27T18:10:17+00:00",
    "url": "https://marioadolfo.com/tce-am-e-arquidiocese-firmam-parceria-para-ampliar-educacao-ambiental-no-amazonas/",
    "url_hash": "ddd5c68ee6f92abfc38b9600"
+  },
+  "guid:6ae0f12952c09500099df3f4": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Corrida no dia 8 de novembro é em comemoração aos seus 35 anos de história do centro de compras",
+   "discovered_at": "2026-10-27T18:50:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae0f12952c09500099df3f4",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a50f4fd0-49a1-4254-a204-9e6bffa87451.jpg",
+   "key": "guid:6ae0f12952c09500099df3f4",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-27T18:46:20+00:00",
+   "status": "pending",
+   "title": "Amazonas Shopping entra na reta final de inscrições para o Run Day 2026",
+   "updated_at": "2026-10-27T18:50:16+00:00",
+   "url": "https://marioadolfo.com/amazonas-shopping-entra-na-reta-final-de-inscricoes-para-o-run-day-2026/",
+   "url_hash": "cacab7ad7c26fcf1a7d571e5"
+  },
+  "guid:6ae0f16552c09500099df3fe": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A ação acontecerá das 8h às 22h, no shopping Phelippe Daou, no bairro Cidade de Deus, na zona Norte da capital, na próxima sexta-feira",
+   "discovered_at": "2026-10-27T18:50:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae0f16552c09500099df3fe",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f28241d1-9953-440b-873d-5aeb09e717b9.jpg",
+   "key": "guid:6ae0f16552c09500099df3fe",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-27T18:48:53+00:00",
+   "status": "pending",
+   "title": "Megafeirão de Empregabilidade oferece mais de 2 mil vagas em Manaus",
+   "updated_at": "2026-10-27T18:50:16+00:00",
+   "url": "https://marioadolfo.com/megafeirao-de-empregabilidade-oferece-mais-de-2-mil-vagas-em-manaus/",
+   "url_hash": "ba21f945c40c3bae5268d961"
+  },
+  "guid:6ae0f1fa52c09500099df419": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Vice-governadora eleita destacou a votação histórica da chapa e reafirmou o compromisso de trabalhar pelo Amazonas",
+   "discovered_at": "2026-10-27T18:50:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae0f1fa52c09500099df419",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/01e7cda1-1c75-4e1c-a08a-485bdef2e8bb.jpeg",
+   "key": "guid:6ae0f1fa52c09500099df419",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-27T18:49:26+00:00",
+   "status": "pending",
+   "title": "Alessandra Campelo agradece ao povo e a Omar Aziz: “honrarei cada voto”",
+   "updated_at": "2026-10-27T18:50:16+00:00",
+   "url": "https://marioadolfo.com/alessandra-campelo-agradece-ao-povo-e-a-omar-honrarei-cada-voto/",
+   "url_hash": "cc5628039cc6b04371f4570d"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-27T18:40:15+00:00",
-  "saved_at": "2026-10-27T18:40:16+00:00"
+  "last_run_at": "2026-10-27T18:50:15+00:00",
+  "saved_at": "2026-10-27T18:50:17+00:00"
  },
  "schema": 1
 }
