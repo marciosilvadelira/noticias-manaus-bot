@@ -11671,12 +11671,12 @@
    "guid": "6adf8e0952c09500099df085",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/10cc58bf-44a1-4327-a7b4-f6d1c3b75f92.webp",
    "key": "guid:6adf8e0952c09500099df085",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-26T17:36:31+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Cantor é desligado da banda Rabo de Vaca após suposta agressão contra companheira",
-   "updated_at": "2026-10-26T17:40:16+00:00",
+   "updated_at": "2026-10-27T17:40:26+00:00",
    "url": "https://marioadolfo.com/cantor-e-desligado-da-banda-rabo-de-vaca-apos-suposta-agressao-contra-companheira/",
    "url_hash": "424565bac30e7a339337bd4f"
   },
@@ -12183,13 +12183,34 @@
    "updated_at": "2026-10-27T16:40:17+00:00",
    "url": "https://marioadolfo.com/governo-buscara-cumprir-meta-fiscal-com-dialogo-diz-durigan/",
    "url_hash": "2d5fc1146167151cd77120c1"
+  },
+  "guid:6ae0e04452c09500099df349": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Imprensa argentina noticiou que o senador fugiu do Brasil",
+   "discovered_at": "2026-10-27T17:40:26+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae0e04452c09500099df349",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c81cd6b4-fefe-4be5-97cb-c04acaaec483.webp",
+   "key": "guid:6ae0e04452c09500099df349",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-27T17:36:19+00:00",
+   "status": "pending",
+   "title": "Polícia Federal cancela passaportes de Flávio Bolsonaro",
+   "updated_at": "2026-10-27T17:40:26+00:00",
+   "url": "https://marioadolfo.com/policia-federal-cancela-passaportes-de-flavio-bolsonaro/",
+   "url_hash": "4ebc3b788dfcc90f4733c0b6"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-27T17:30:24+00:00",
-  "saved_at": "2026-10-27T17:30:26+00:00"
+  "last_run_at": "2026-10-27T17:40:25+00:00",
+  "saved_at": "2026-10-27T17:40:27+00:00"
  },
  "schema": 1
 }
