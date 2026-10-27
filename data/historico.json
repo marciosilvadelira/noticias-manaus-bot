@@ -12015,13 +12015,34 @@
    "updated_at": "2026-10-27T14:20:16+00:00",
    "url": "https://marioadolfo.com/suspeita-de-atacar-pessoas-com-faca-e-presa-na-regiao-central-de-manaus/",
    "url_hash": "7cdf7d99c2cb14b50c250a6c"
+  },
+  "guid:6ae0b39952c09500099df296": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Apuração começou após sistemas de monitoramento identificarem focos de calor e avançou com diligências em campo.",
+   "discovered_at": "2026-10-27T14:30:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae0b39952c09500099df296",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a822c26c-d883-4996-88c0-b40e4f56a016.png",
+   "key": "guid:6ae0b39952c09500099df296",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-27T14:23:20+00:00",
+   "status": "pending",
+   "title": "PF faz buscas em Manaus em investigação sobre crimes ambientais no Amazonas",
+   "updated_at": "2026-10-27T14:30:21+00:00",
+   "url": "https://marioadolfo.com/pf-faz-buscas-em-manaus-em-investigacao-sobre-crimes-ambientais-no-amazonas/",
+   "url_hash": "4345ea392d4307484b3b0231"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-27T14:20:15+00:00",
-  "saved_at": "2026-10-27T14:20:16+00:00"
+  "last_run_at": "2026-10-27T14:30:20+00:00",
+  "saved_at": "2026-10-27T14:30:22+00:00"
  },
  "schema": 1
 }
