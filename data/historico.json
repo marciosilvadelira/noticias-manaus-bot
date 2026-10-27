@@ -12078,13 +12078,34 @@
    "updated_at": "2026-10-27T15:20:18+00:00",
    "url": "https://marioadolfo.com/prefeitura-de-manaus-inicia-manutencao-no-viaduto-ayrton-senna/",
    "url_hash": "776224b9d0f0491cb95bc004"
+  },
+  "guid:6ae0c19552c09500099df2d6": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Apresentação da Orquestra de Câmara do Amazonas combina projeções de ‘Metrópolis’ com repertório que vai do Barroco à música contemporânea.",
+   "discovered_at": "2026-10-27T15:30:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae0c19552c09500099df2d6",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/800cebfd-bf3f-4026-9814-74cd234e70c6.jpeg",
+   "key": "guid:6ae0c19552c09500099df2d6",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-27T15:24:42+00:00",
+   "status": "pending",
+   "title": "Clássico da ficção científica inspira concerto no Teatro Amazonas",
+   "updated_at": "2026-10-27T15:30:19+00:00",
+   "url": "https://marioadolfo.com/classico-da-ficcao-cientifica-inspira-concerto-no-teatro-amazonas/",
+   "url_hash": "77dd989948410a3d5fe782ef"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-27T15:20:16+00:00",
-  "saved_at": "2026-10-27T15:20:18+00:00"
+  "last_run_at": "2026-10-27T15:30:19+00:00",
+  "saved_at": "2026-10-27T15:30:20+00:00"
  },
  "schema": 1
 }
