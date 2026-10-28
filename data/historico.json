@@ -13160,13 +13160,76 @@
    "updated_at": "2026-10-28T17:40:16+00:00",
    "url": "https://marioadolfo.com/mulher-e-presa-suspeita-de-atrair-idoso-para-emboscada-no-jorge-teixeira/",
    "url_hash": "8b1ee9566edeb458f7f9bc23"
+  },
+  "guid:6ae2342952c09500099df6f3": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Reintegração foi num terreno pertencente ao município e destinado às obras do programa habitacional do Governo Federal “Minha Casa, Minha Vida”",
+   "discovered_at": "2026-10-28T17:50:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae2342952c09500099df6f3",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/8177e381-8d8b-48e5-8c3f-f4645b344cb7.jpeg",
+   "key": "guid:6ae2342952c09500099df6f3",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-28T17:46:05+00:00",
+   "status": "pending",
+   "title": "Defensoria aponta irregularidades em reintegração de posse no Santa Etelvina",
+   "updated_at": "2026-10-28T17:50:17+00:00",
+   "url": "https://marioadolfo.com/defensoria-aponta-irregularidades-em-reintegracao-de-posse-no-santa-etelvina/",
+   "url_hash": "052fa5b880690ff66b218391"
+  },
+  "guid:6ae234bb52c09500099df6fe": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Criança de 9 anos encontrou a arma guardada em uma gaveta e a manuseava quando ocorreu o disparo, em Borba.",
+   "discovered_at": "2026-10-28T17:50:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae234bb52c09500099df6fe",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a14fc929-4fdd-4fc4-affa-fb2451f773f3.jpeg",
+   "key": "guid:6ae234bb52c09500099df6fe",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-28T17:48:16+00:00",
+   "status": "pending",
+   "title": "Menina de 2 anos morre após ser baleada pelo irmão no AM",
+   "updated_at": "2026-10-28T17:50:17+00:00",
+   "url": "https://marioadolfo.com/menina-de-2-anos-morre-apos-ser-baleada-pelo-irmao-no-am/",
+   "url_hash": "4c4d9dc85afe26ba60ac8303"
+  },
+  "guid:6ae2354b52c09500099df717": {
+   "attempts": [],
+   "category": "Parintins",
+   "description": "A festa reunirá itens oficiais e artistas ligados ao bumbá, em uma noite dedicada à cultura, à tradição e à paixão pelo boi da Baixa do São José",
+   "discovered_at": "2026-10-28T17:50:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae2354b52c09500099df717",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f3a3e2be-a2b6-476e-b6a2-126615316bcf.jpeg",
+   "key": "guid:6ae2354b52c09500099df717",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-28T17:49:36+00:00",
+   "status": "pending",
+   "title": "Garantido promove festa gratuita no Sambódromo com participação de itens oficiais",
+   "updated_at": "2026-10-28T17:50:17+00:00",
+   "url": "https://marioadolfo.com/garantido-promove-festa-gratuita-no-sambodromo-com-participacao-de-itens-oficiais/",
+   "url_hash": "8868ead5d9a8ac15102e78d5"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-28T17:40:16+00:00",
-  "saved_at": "2026-10-28T17:40:17+00:00"
+  "last_run_at": "2026-10-28T17:50:16+00:00",
+  "saved_at": "2026-10-28T17:50:18+00:00"
  },
  "schema": 1
 }
