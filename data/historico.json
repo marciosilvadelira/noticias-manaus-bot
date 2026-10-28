@@ -13055,13 +13055,34 @@
    "updated_at": "2026-10-28T16:00:21+00:00",
    "url": "https://marioadolfo.com/suspeito-de-assalto-e-baleado-apos-tentar-tomar-arma-de-pm-em-mercadinho-de-manaus/",
    "url_hash": "c5e3f182ff2a37a1efd151d5"
+  },
+  "guid:6ae22bbd52c09500099df66b": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Projetos de sustentabilidade e inovação desenvolvidos por Marcelly Câmara garantiram à estudante da UEA reconhecimento nacional e uma viagem à China",
+   "discovered_at": "2026-10-28T17:10:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae22bbd52c09500099df66b",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/9c17a5c8-dc73-4aa0-8cf5-f83d00bedf7c.JPG",
+   "key": "guid:6ae22bbd52c09500099df66b",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-28T17:08:51+00:00",
+   "status": "pending",
+   "title": "Estudante da UEA vence prêmio e leva projetos amazônicos à China",
+   "updated_at": "2026-10-28T17:10:15+00:00",
+   "url": "https://marioadolfo.com/estudante-da-uea-vence-premio-e-leva-projetos-amazonicos-a-china/",
+   "url_hash": "9e3cb8762d293b41dec33d79"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-28T17:00:24+00:00",
-  "saved_at": "2026-10-28T17:00:25+00:00"
+  "last_run_at": "2026-10-28T17:10:14+00:00",
+  "saved_at": "2026-10-28T17:10:16+00:00"
  },
  "schema": 1
 }
