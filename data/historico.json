@@ -12222,11 +12222,19 @@
    "url_hash": "2e7e6929e360baec38dca390"
   },
   "guid:6ae0cfcf52c09500099df306": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-28T04:20:25+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1520986743385550",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Polícia Civil afirma que ocorrência começou com um desentendimento na madrugada de segunda-feira (26)",
    "discovered_at": "2026-10-27T16:30:19+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1520986743385550",
    "formats": [
     "link"
    ],
@@ -12234,20 +12242,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/24f17ef0-124f-42fc-9afa-ced28940bcfe.jpeg",
    "key": "guid:6ae0cfcf52c09500099df306",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1520986743385550"
+   },
    "source_published_at": "2026-10-27T16:26:45+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Trio é preso por tiros durante manifestação política no AM",
-   "updated_at": "2026-10-27T16:30:19+00:00",
+   "updated_at": "2026-10-28T04:20:25+00:00",
    "url": "https://marioadolfo.com/trio-e-preso-por-tiros-durante-manifestacao-politica-no-am/",
    "url_hash": "76e23ae64930a639947ffee1"
   },
   "guid:6ae0d12f52c09500099df31c": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-28T04:20:51+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1520987096718848",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Com as novas entregas da Operação Estiagem 2026, ajuda humanitária chega a 96 toneladas de alimentos em 15 municípios afetados pela vazante dos rios",
    "discovered_at": "2026-10-27T16:40:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1520987096718848",
    "formats": [
     "link"
    ],
@@ -12255,20 +12273,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d45457df-10ea-4404-a822-e033dc74b1fc.jpeg",
    "key": "guid:6ae0d12f52c09500099df31c",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1520987096718848"
+   },
    "source_published_at": "2026-10-27T16:31:21+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Governo do AM envia mais de 13 toneladas de alimentos a Anamã e Rio Preto da Eva",
-   "updated_at": "2026-10-27T16:40:17+00:00",
+   "updated_at": "2026-10-28T04:20:51+00:00",
    "url": "https://marioadolfo.com/governo-do-am-envia-mais-de-13-toneladas-de-alimentos-a-anama-e-rio-preto-da-eva/",
    "url_hash": "cea49be4ab59929226a6349d"
   },
   "guid:6ae0d20752c09500099df332": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-28T04:21:19+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1520987330052158",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Proposta de ampliar contingenciamento é uma das medidas em estudo",
    "discovered_at": "2026-10-27T16:40:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1520987330052158",
    "formats": [
     "link"
    ],
@@ -12276,20 +12304,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/3d4b1772-df3c-4f76-b1fa-9ff197ab90a0.webp",
    "key": "guid:6ae0d20752c09500099df332",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1520987330052158"
+   },
    "source_published_at": "2026-10-27T16:33:09+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Governo buscará cumprir meta fiscal com diálogo, diz Durigan",
-   "updated_at": "2026-10-27T16:40:17+00:00",
+   "updated_at": "2026-10-28T04:21:19+00:00",
    "url": "https://marioadolfo.com/governo-buscara-cumprir-meta-fiscal-com-dialogo-diz-durigan/",
    "url_hash": "2d5fc1146167151cd77120c1"
   },
   "guid:6ae0e04452c09500099df349": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-28T04:21:47+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1520987633385461",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Imprensa argentina noticiou que o senador fugiu do Brasil",
    "discovered_at": "2026-10-27T17:40:26+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1520987633385461",
    "formats": [
     "link"
    ],
@@ -12297,20 +12335,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c81cd6b4-fefe-4be5-97cb-c04acaaec483.webp",
    "key": "guid:6ae0e04452c09500099df349",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1520987633385461"
+   },
    "source_published_at": "2026-10-27T17:36:19+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Polícia Federal cancela passaportes de Flávio Bolsonaro",
-   "updated_at": "2026-10-27T17:40:26+00:00",
+   "updated_at": "2026-10-28T04:21:47+00:00",
    "url": "https://marioadolfo.com/policia-federal-cancela-passaportes-de-flavio-bolsonaro/",
    "url_hash": "4ebc3b788dfcc90f4733c0b6"
   },
   "guid:6ae0e15e52c09500099df361": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-28T04:22:13+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1520987846718773",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Ação busca viabilizar o acesso às tarifas sociais de água e energia elétrica, além da revisão de faturas com valores elevados",
    "discovered_at": "2026-10-27T17:50:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1520987846718773",
    "formats": [
     "link"
    ],
@@ -12318,11 +12366,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6b12169f-3cf9-422e-a9ef-e4590ff93309.jpeg",
    "key": "guid:6ae0e15e52c09500099df361",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1520987846718773"
+   },
    "source_published_at": "2026-10-27T17:44:05+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Defensoria atende demandas de água e energia de moradores do residencial Morar Melhor",
-   "updated_at": "2026-10-27T17:50:18+00:00",
+   "updated_at": "2026-10-28T04:22:13+00:00",
    "url": "https://marioadolfo.com/defensoria-atende-demandas-de-agua-e-energia-de-moradores-do-residencial-morar-melhor/",
    "url_hash": "1ab65380860e3f0f3ad2f779"
   },
@@ -12687,8 +12737,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-28T04:10:14+00:00",
-  "saved_at": "2026-10-28T04:12:07+00:00"
+  "last_run_at": "2026-10-28T04:20:14+00:00",
+  "saved_at": "2026-10-28T04:22:13+00:00"
  },
  "schema": 1
 }
