@@ -12067,11 +12067,19 @@
    "url_hash": "7cdf7d99c2cb14b50c250a6c"
   },
   "guid:6ae0b39952c09500099df296": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-28T04:10:21+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1520979620052929",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Apuração começou após sistemas de monitoramento identificarem focos de calor e avançou com diligências em campo.",
    "discovered_at": "2026-10-27T14:30:21+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1520979620052929",
    "formats": [
     "link"
    ],
@@ -12079,20 +12087,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a822c26c-d883-4996-88c0-b40e4f56a016.png",
    "key": "guid:6ae0b39952c09500099df296",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1520979620052929"
+   },
    "source_published_at": "2026-10-27T14:23:20+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "PF faz buscas em Manaus em investigação sobre crimes ambientais no Amazonas",
-   "updated_at": "2026-10-27T14:30:21+00:00",
+   "updated_at": "2026-10-28T04:10:21+00:00",
    "url": "https://marioadolfo.com/pf-faz-buscas-em-manaus-em-investigacao-sobre-crimes-ambientais-no-amazonas/",
    "url_hash": "4345ea392d4307484b3b0231"
   },
   "guid:6ae0b54f52c09500099df2ab": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-28T04:10:47+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1520979893386235",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Operação investiga a importação e a comercialização irregular de produtos; uma pessoa foi presa em flagrante",
    "discovered_at": "2026-10-27T14:40:19+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1520979893386235",
    "formats": [
     "link"
    ],
@@ -12100,20 +12118,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b9d70ed9-b6b0-4066-ae16-3dcba4ec0974.jpg",
    "key": "guid:6ae0b54f52c09500099df2ab",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1520979893386235"
+   },
    "source_published_at": "2026-10-27T14:33:37+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Operação apreende anabolizantes, peptídeos e emagrecedores no AM",
-   "updated_at": "2026-10-27T14:40:19+00:00",
+   "updated_at": "2026-10-28T04:10:47+00:00",
    "url": "https://marioadolfo.com/operacao-apreende-anabolizantes-peptideos-e-emagrecedores-no-am/",
    "url_hash": "936435dd3126a578a0447f92"
   },
   "guid:6ae0b8f652c09500099df2bf": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-28T04:11:13+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1520980240052867",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "A intervenção é necessária para a conservação da estrutura, que recebe diariamente um fluxo intenso de veículo",
    "discovered_at": "2026-10-27T15:20:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1520980240052867",
    "formats": [
     "link"
    ],
@@ -12121,20 +12149,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a0bab4cd-e1c8-4283-8a5b-0e328dc675ad.jpg",
    "key": "guid:6ae0b8f652c09500099df2bf",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1520980240052867"
+   },
    "source_published_at": "2026-10-27T15:15:51+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Prefeitura de Manaus inicia manutenção no viaduto Ayrton Senna",
-   "updated_at": "2026-10-27T15:20:18+00:00",
+   "updated_at": "2026-10-28T04:11:13+00:00",
    "url": "https://marioadolfo.com/prefeitura-de-manaus-inicia-manutencao-no-viaduto-ayrton-senna/",
    "url_hash": "776224b9d0f0491cb95bc004"
   },
   "guid:6ae0c19552c09500099df2d6": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-28T04:11:39+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1520980493386175",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Apresentação da Orquestra de Câmara do Amazonas combina projeções de ‘Metrópolis’ com repertório que vai do Barroco à música contemporânea.",
    "discovered_at": "2026-10-27T15:30:19+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1520980493386175",
    "formats": [
     "link"
    ],
@@ -12142,20 +12180,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/800cebfd-bf3f-4026-9814-74cd234e70c6.jpeg",
    "key": "guid:6ae0c19552c09500099df2d6",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1520980493386175"
+   },
    "source_published_at": "2026-10-27T15:24:42+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Clássico da ficção científica inspira concerto no Teatro Amazonas",
-   "updated_at": "2026-10-27T15:30:19+00:00",
+   "updated_at": "2026-10-28T04:11:39+00:00",
    "url": "https://marioadolfo.com/classico-da-ficcao-cientifica-inspira-concerto-no-teatro-amazonas/",
    "url_hash": "77dd989948410a3d5fe782ef"
   },
   "guid:6ae0cebd52c09500099df2ec": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-28T04:12:07+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1520980790052812",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Aviões são utilizados no combate aéreo e os helicópteros no transporte de militares",
    "discovered_at": "2026-10-27T16:20:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1520980790052812",
    "formats": [
     "link"
    ],
@@ -12163,11 +12211,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/45347d13-2a9b-43f1-8790-0096564bdcc1.jpeg",
    "key": "guid:6ae0cebd52c09500099df2ec",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1520980790052812"
+   },
    "source_published_at": "2026-10-27T16:20:01+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Aeronaves lançaram mais de 3 milhões de litros de água para combater incêndios no AM",
-   "updated_at": "2026-10-27T16:20:16+00:00",
+   "updated_at": "2026-10-28T04:12:07+00:00",
    "url": "https://marioadolfo.com/aeronaves-lancaram-mais-de-3-milhoes-de-litros-de-agua-para-combater-incendios-no-am/",
    "url_hash": "2e7e6929e360baec38dca390"
   },
@@ -12637,8 +12687,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-28T04:00:19+00:00",
-  "saved_at": "2026-10-28T04:02:12+00:00"
+  "last_run_at": "2026-10-28T04:10:14+00:00",
+  "saved_at": "2026-10-28T04:12:07+00:00"
  },
  "schema": 1
 }
