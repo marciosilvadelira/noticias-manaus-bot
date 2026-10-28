@@ -13118,13 +13118,55 @@
    "updated_at": "2026-10-28T17:30:20+00:00",
    "url": "https://marioadolfo.com/governo-libera-r-68-6-milhoes-para-combater-incendios-e-seca-no-norte/",
    "url_hash": "24bc788ba452b40840b18797"
+  },
+  "guid:6ae22fb452c09500099df6aa": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Perda de mandato atinge todos os eleitos pela chapa, mas inelegibilidade se aplica apenas às duas candidatas consideradas fictícias",
+   "discovered_at": "2026-10-28T17:40:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae22fb452c09500099df6aa",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/918814f6-08bd-4fb9-a221-dfd491e05a42.jpeg",
+   "key": "guid:6ae22fb452c09500099df6aa",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-28T17:30:36+00:00",
+   "status": "pending",
+   "title": "TRE-AM esclarece efeitos de decisão sobre fraude à cota de gênero em Novo Aripuanã",
+   "updated_at": "2026-10-28T17:40:16+00:00",
+   "url": "https://marioadolfo.com/tre-am-esclarece-efeitos-de-decisao-sobre-fraude-a-cota-de-genero-em-novo-aripuana/",
+   "url_hash": "051b440c3e6fdc5a8793d4ca"
+  },
+  "guid:6ae2306c52c09500099df6b4": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Segundo a Polícia Civil, mulher teria ajudado a planejar emboscada para roubar R$ 20 mil da vítima, morta a tiros em abril.",
+   "discovered_at": "2026-10-28T17:40:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae2306c52c09500099df6b4",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5691a5bd-b6b8-4ba3-8a84-0c6ad4fe8730.png",
+   "key": "guid:6ae2306c52c09500099df6b4",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-28T17:33:27+00:00",
+   "status": "pending",
+   "title": "Vídeo: suspeita de atrair idoso para emboscada é presa em Manaus",
+   "updated_at": "2026-10-28T17:40:16+00:00",
+   "url": "https://marioadolfo.com/mulher-e-presa-suspeita-de-atrair-idoso-para-emboscada-no-jorge-teixeira/",
+   "url_hash": "8b1ee9566edeb458f7f9bc23"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-28T17:30:19+00:00",
-  "saved_at": "2026-10-28T17:30:20+00:00"
+  "last_run_at": "2026-10-28T17:40:16+00:00",
+  "saved_at": "2026-10-28T17:40:17+00:00"
  },
  "schema": 1
 }
