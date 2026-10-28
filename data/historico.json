@@ -12782,13 +12782,34 @@
    "updated_at": "2026-10-27T20:40:16+00:00",
    "url": "https://marioadolfo.com/inpa-abre-10-vagas-para-mestrado-em-botanica/",
    "url_hash": "3444229fb7b95c0970085b6a"
+  },
+  "guid:6ae1e79b52c09500099df51a": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "A aeronave, que transporta o parlamentar e três familiares, fez uma escala para reabastecimento no Equador antes de seguir para Miami.",
+   "discovered_at": "2026-10-28T12:30:23+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae1e79b52c09500099df51a",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/53f8ec34-f2d6-4534-8b1a-ef2323b42b5c.webp",
+   "key": "guid:6ae1e79b52c09500099df51a",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-28T12:21:27+00:00",
+   "status": "pending",
+   "title": "Voo de Flávio Bolsonaro parte do Equador rumo a Miami",
+   "updated_at": "2026-10-28T12:30:23+00:00",
+   "url": "https://marioadolfo.com/voo-de-flavio-bolsonaro-parte-do-equador-rumo-a-miami/",
+   "url_hash": "e6c3b474b663f4512037fae1"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-28T12:20:15+00:00",
-  "saved_at": "2026-10-28T12:20:16+00:00"
+  "last_run_at": "2026-10-28T12:30:22+00:00",
+  "saved_at": "2026-10-28T12:30:24+00:00"
  },
  "schema": 1
 }
