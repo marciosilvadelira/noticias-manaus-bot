@@ -12803,13 +12803,76 @@
    "updated_at": "2026-10-28T12:30:23+00:00",
    "url": "https://marioadolfo.com/voo-de-flavio-bolsonaro-parte-do-equador-rumo-a-miami/",
    "url_hash": "e6c3b474b663f4512037fae1"
+  },
+  "guid:6ae1fd3b52c09500099df537": {
+   "attempts": [],
+   "category": "Dito & Feito",
+   "description": "Com medo de ser preso, Flávio Bolsonaro deixou o Brasil na calada da noite. Operação Articulação foi liderada pelo secretário de Estado norte-americano, Marco Rubio",
+   "discovered_at": "2026-10-28T14:10:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae1fd3b52c09500099df537",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6edf6711-5bb4-4339-bb5c-b633bdefdd24.jpeg",
+   "key": "guid:6ae1fd3b52c09500099df537",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-28T14:02:31+00:00",
+   "status": "pending",
+   "title": "Dito & Feito: FUGIU, DESAPARECEU, ESCAFEDEU-SE!",
+   "updated_at": "2026-10-28T14:10:18+00:00",
+   "url": "https://marioadolfo.com/dito-feito-fugiu-desapareceu-escafedeu-se/",
+   "url_hash": "b9a3827d0ffd33ed5c48cb38"
+  },
+  "guid:6ae2012b52c09500099df569": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Matrículas começam nesta quarta-feira (28) e seguem até quinta (29), presencialmente ou por e-mail.",
+   "discovered_at": "2026-10-28T14:10:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae2012b52c09500099df569",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/cbf0ca40-3024-4906-a0ce-eb52bd080a2c.jpg",
+   "key": "guid:6ae2012b52c09500099df569",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-28T12:06:00+00:00",
+   "status": "pending",
+   "title": "Guarda Municipal de Manaus convoca 200 candidatos para curso de formação",
+   "updated_at": "2026-10-28T14:10:18+00:00",
+   "url": "https://marioadolfo.com/guarda-municipal-de-manaus-convoca-200-candidatos-para-curso-de-formacao/",
+   "url_hash": "9c86b2b4903be0524e522c90"
+  },
+  "guid:6ae201bf52c09500099df581": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Senador fugiu do país dois dias após ser derrotado nas eleições",
+   "discovered_at": "2026-10-28T14:10:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae201bf52c09500099df581",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/532d944e-cbd3-4bf7-9650-22b61a63d7cc.webp",
+   "key": "guid:6ae201bf52c09500099df581",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-28T14:09:10+00:00",
+   "status": "pending",
+   "title": "Aeronave com Flávio Bolsonaro e família pousa nos Estados Unidos",
+   "updated_at": "2026-10-28T14:10:18+00:00",
+   "url": "https://marioadolfo.com/aeronave-com-flavio-bolsonaro-e-familia-pousa-nos-estados-unidos/",
+   "url_hash": "d6524ab853db823dc7c955d0"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-28T14:00:20+00:00",
-  "saved_at": "2026-10-28T14:00:22+00:00"
+  "last_run_at": "2026-10-28T14:10:16+00:00",
+  "saved_at": "2026-10-28T14:10:19+00:00"
  },
  "schema": 1
 }
