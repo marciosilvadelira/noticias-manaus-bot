@@ -12971,13 +12971,34 @@
    "updated_at": "2026-10-28T14:50:15+00:00",
    "url": "https://marioadolfo.com/espacos-culturais-tem-horarios-alterados-no-feriado-prolongado/",
    "url_hash": "da8f6a4af4fcb1fb82464665"
+  },
+  "guid:6ae209c452c09500099df60b": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Os profissionais estão no cadastro de reserva, sendo 1.350 professores e 150 pedagogos, que iniciam as atividades na rede municipal de ensino em janeiro de 2027",
+   "discovered_at": "2026-10-28T15:00:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae209c452c09500099df60b",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a0928fb3-ce7a-4e22-9778-7994dae090a3.jpeg",
+   "key": "guid:6ae209c452c09500099df60b",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-28T14:55:15+00:00",
+   "status": "pending",
+   "title": "Prefeitura de Manaus convoca mais 1,5 mil aprovados no concurso da Semed",
+   "updated_at": "2026-10-28T15:00:21+00:00",
+   "url": "https://marioadolfo.com/prefeitura-de-manaus-convoca-mais-1-5-mil-aprovados-no-concurso-da-semed/",
+   "url_hash": "ebb4270cde7a751dd5ea39e1"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-28T14:50:14+00:00",
-  "saved_at": "2026-10-28T14:50:16+00:00"
+  "last_run_at": "2026-10-28T15:00:20+00:00",
+  "saved_at": "2026-10-28T15:00:21+00:00"
  },
  "schema": 1
 }
