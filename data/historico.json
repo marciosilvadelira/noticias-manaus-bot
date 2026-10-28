@@ -13097,13 +13097,34 @@
    "updated_at": "2026-10-28T17:20:16+00:00",
    "url": "https://marioadolfo.com/inss-alerta-para-golpes-que-usam-informacao-falsa-sobre-biometria/",
    "url_hash": "9d8d2e5c2fa9b4ed05594bcb"
+  },
+  "guid:6ae22ecc52c09500099df694": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Verba atende Amazonas, Pará e Acre e inclui ajuda humanitária",
+   "discovered_at": "2026-10-28T17:30:20+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae22ecc52c09500099df694",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0489883b-6372-404e-b6cc-4328c27c69fa.webp",
+   "key": "guid:6ae22ecc52c09500099df694",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-28T17:21:24+00:00",
+   "status": "pending",
+   "title": "Governo libera R$ 68,6 milhões para combater incêndios e seca no Norte",
+   "updated_at": "2026-10-28T17:30:20+00:00",
+   "url": "https://marioadolfo.com/governo-libera-r-68-6-milhoes-para-combater-incendios-e-seca-no-norte/",
+   "url_hash": "24bc788ba452b40840b18797"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-28T17:20:15+00:00",
-  "saved_at": "2026-10-28T17:20:17+00:00"
+  "last_run_at": "2026-10-28T17:30:19+00:00",
+  "saved_at": "2026-10-28T17:30:20+00:00"
  },
  "schema": 1
 }
