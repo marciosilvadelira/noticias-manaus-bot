@@ -11912,11 +11912,19 @@
    "url_hash": "4b6078d988c2310766cd2576"
   },
   "guid:6ae07afc52c09500099df1fd": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-28T04:00:33+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1520973506720207",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Líder do MDB no Senado avalia que novo equilíbrio de forças em Brasília exigirá diálogo e destaca parceria com Lula e Omar para garantir obras, empregos e melhorias nos serviços públicos do Amazonas",
    "discovered_at": "2026-10-27T10:30:21+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1520973506720207",
    "formats": [
     "link"
    ],
@@ -11924,20 +11932,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/784fc6de-4eb6-4ae5-bed4-861e7fe9cba3.jpg",
    "key": "guid:6ae07afc52c09500099df1fd",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1520973506720207"
+   },
    "source_published_at": "2026-10-27T10:27:22+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Braga vê MDB fortalecido na articulação entre governo e Congresso",
-   "updated_at": "2026-10-27T10:30:21+00:00",
+   "updated_at": "2026-10-28T04:00:33+00:00",
    "url": "https://marioadolfo.com/braga-ve-mdb-fortalecido-na-articulacao-entre-governo-e-congresso-e-defende-investimentos-para-o-am/",
    "url_hash": "14202ef7248ef8b19ceb6170"
   },
   "guid:6ae088c352c09500099df226": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-28T04:00:58+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1520973996720158",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Saúde, BR-319 e impactos da reforma tributária sobre a Zona Franca estão entre os temas que devem entrar na pauta",
    "discovered_at": "2026-10-27T11:30:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1520973996720158",
    "formats": [
     "link"
    ],
@@ -11945,20 +11963,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b0da5e32-80b8-4d67-b759-49817de72525.jpg",
    "key": "guid:6ae088c352c09500099df226",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1520973996720158"
+   },
    "source_published_at": "2026-10-27T11:22:48+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Omar Aziz se reúne com Lula para discutir prioridades do Amazonas para 2027",
-   "updated_at": "2026-10-27T11:30:18+00:00",
+   "updated_at": "2026-10-28T04:00:58+00:00",
    "url": "https://marioadolfo.com/omar-aziz-se-reune-com-lula-para-discutir-prioridades-do-amazonas-para-2027/",
    "url_hash": "22c1a52fc12bd0ff0e7ed1fe"
   },
   "guid:6ae0a18552c09500099df247": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-28T04:01:23+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1520974280053463",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "A apuração ocorre após o portal argentino Infobae divulgar, na madrugada desta terça-feira (27), que o ex-candidato à Presidência teria deixado o território brasileiro.",
    "discovered_at": "2026-10-27T13:10:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1520974280053463",
    "formats": [
     "link"
    ],
@@ -11966,20 +11994,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ec96cae9-fff4-47af-8a72-165608b763da.jpg",
    "key": "guid:6ae0a18552c09500099df247",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1520974280053463"
+   },
    "source_published_at": "2026-10-27T13:07:12+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "PF apura suposta fuga de Flávio Bolsonaro para a Argentina",
-   "updated_at": "2026-10-27T13:10:18+00:00",
+   "updated_at": "2026-10-28T04:01:23+00:00",
    "url": "https://marioadolfo.com/pf-apura-suposta-fuga-de-flavio-bolsonaro-para-a-argentina/",
    "url_hash": "c91844098c5075938708c654"
   },
   "guid:6ae0aea352c09500099df261": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-28T04:01:48+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1520974616720096",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Até o momento, já são 47 planos de trabalho para assistência humanitária para apoiar as ações de resposta aos incêndios florestais e ao período de estiagem no estado",
    "discovered_at": "2026-10-27T14:10:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1520974616720096",
    "formats": [
     "link"
    ],
@@ -11987,20 +12025,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/71f55eb2-268a-4483-85ca-b6009036f907.jpg",
    "key": "guid:6ae0aea352c09500099df261",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1520974616720096"
+   },
    "source_published_at": "2026-10-27T14:03:23+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Governo do Brasil aprova R$ 45,2 milhões para ajudar o Amazonas",
-   "updated_at": "2026-10-27T14:10:17+00:00",
+   "updated_at": "2026-10-28T04:01:48+00:00",
    "url": "https://marioadolfo.com/governo-do-brasil-aprova-r-45-2-milhoes-para-ajudar-o-amazonas/",
    "url_hash": "6e8ed7943d6e6964a3a97a7f"
   },
   "guid:6ae0b19c52c09500099df278": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-28T04:02:12+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1520974940053397",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Entre as vítimas está uma adolescente ferida com um golpe de faca no braço enquanto seguia na garupa de uma motocicleta por aplicativo",
    "discovered_at": "2026-10-27T14:20:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1520974940053397",
    "formats": [
     "link"
    ],
@@ -12008,11 +12056,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c5302740-9282-4843-a447-4844587d4b61.webp",
    "key": "guid:6ae0b19c52c09500099df278",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1520974940053397"
+   },
    "source_published_at": "2026-10-27T14:17:45+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Suspeita de atacar pessoas com faca é presa na região central de Manaus",
-   "updated_at": "2026-10-27T14:20:16+00:00",
+   "updated_at": "2026-10-28T04:02:12+00:00",
    "url": "https://marioadolfo.com/suspeita-de-atacar-pessoas-com-faca-e-presa-na-regiao-central-de-manaus/",
    "url_hash": "7cdf7d99c2cb14b50c250a6c"
   },
@@ -12587,8 +12637,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-28T03:53:21+00:00",
-  "saved_at": "2026-10-28T03:53:22+00:00"
+  "last_run_at": "2026-10-28T04:00:19+00:00",
+  "saved_at": "2026-10-28T04:02:12+00:00"
  },
  "schema": 1
 }
