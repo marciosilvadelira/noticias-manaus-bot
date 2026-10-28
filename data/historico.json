@@ -13265,13 +13265,34 @@
    "updated_at": "2026-10-28T18:20:16+00:00",
    "url": "https://marioadolfo.com/atletas-do-amazonas-sao-convocados-pela-confederacao-brasileira-de-tenis-de-mesa/",
    "url_hash": "e91fb0965133f72c374b1d9b"
+  },
+  "guid:6ae240ad52c09500099df788": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Varejo teve alta de 6,5% em relação ao ano anterior",
+   "discovered_at": "2026-10-28T18:40:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae240ad52c09500099df788",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/9dd67070-30db-4e79-adde-83a4f16ee3cb.jpg",
+   "key": "guid:6ae240ad52c09500099df788",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-28T18:37:21+00:00",
+   "status": "pending",
+   "title": "Consumo de alimentos cresce após proibição das bets no país, diz Abras",
+   "updated_at": "2026-10-28T18:40:17+00:00",
+   "url": "https://marioadolfo.com/consumo-de-alimentos-cresce-apos-proibicao-das-bets-no-pais-diz-abras/",
+   "url_hash": "1e451d5af398c4955fa0471d"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-28T18:30:19+00:00",
-  "saved_at": "2026-10-28T18:30:20+00:00"
+  "last_run_at": "2026-10-28T18:40:16+00:00",
+  "saved_at": "2026-10-28T18:40:19+00:00"
  },
  "schema": 1
 }
