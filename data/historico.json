@@ -12606,12 +12606,12 @@
    "guid": "6ae0f28852c09500099df439",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/467a8932-9b58-47f0-95ad-7877be4ea035.jpeg",
    "key": "guid:6ae0f28852c09500099df439",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-27T18:52:17+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Âmbar Energia realiza serviços programados na rede elétrica de Manaus",
-   "updated_at": "2026-10-27T19:00:26+00:00",
+   "updated_at": "2026-10-28T19:00:22+00:00",
    "url": "https://marioadolfo.com/ambar-energia-realiza-servicos-programados-na-rede-eletrica-de-manaus/",
    "url_hash": "2d7b07c0ea46c1650930db73"
   },
@@ -13286,13 +13286,34 @@
    "updated_at": "2026-10-28T18:40:17+00:00",
    "url": "https://marioadolfo.com/consumo-de-alimentos-cresce-apos-proibicao-das-bets-no-pais-diz-abras/",
    "url_hash": "1e451d5af398c4955fa0471d"
+  },
+  "guid:6ae2450b52c09500099df79d": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Equipes da Seminf trabalham na preparação para a concretagem da laje do bloco principal do complexo",
+   "discovered_at": "2026-10-28T19:00:22+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae2450b52c09500099df79d",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e9401cae-f2c5-4273-bb29-eb1f4652b03e.jpg",
+   "key": "guid:6ae2450b52c09500099df79d",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-28T18:57:19+00:00",
+   "status": "pending",
+   "title": "Prefeitura de Manaus avança na construção da Fundação Municipal TEA",
+   "updated_at": "2026-10-28T19:00:22+00:00",
+   "url": "https://marioadolfo.com/prefeitura-de-manaus-avanca-na-construcao-da-fundacao-municipal-tea/",
+   "url_hash": "84512469643955c1874ff7d0"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-28T18:50:15+00:00",
-  "saved_at": "2026-10-28T18:50:16+00:00"
+  "last_run_at": "2026-10-28T19:00:22+00:00",
+  "saved_at": "2026-10-28T19:00:23+00:00"
  },
  "schema": 1
 }
