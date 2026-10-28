@@ -13034,13 +13034,34 @@
    "updated_at": "2026-10-28T15:50:21+00:00",
    "url": "https://marioadolfo.com/governo-do-am-antecipa-pagamento-de-salarios-e-anuncia-datas-do-13o/",
    "url_hash": "3d90aa2d4f73827ad022f539"
+  },
+  "guid:6ae217b752c09500099df64e": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Homem foi atingido no abdômen durante luta corporal com o policial, que estava de folga no estabelecimento, no bairro Tarumã",
+   "discovered_at": "2026-10-28T16:00:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae217b752c09500099df64e",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/3c59b2b8-b4e7-42a3-9639-ae0713e20ab9.jpg",
+   "key": "guid:6ae217b752c09500099df64e",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-28T15:53:02+00:00",
+   "status": "pending",
+   "title": "Suspeito de assalto é baleado após tentar tomar arma de PM em mercadinho de Manaus",
+   "updated_at": "2026-10-28T16:00:21+00:00",
+   "url": "https://marioadolfo.com/suspeito-de-assalto-e-baleado-apos-tentar-tomar-arma-de-pm-em-mercadinho-de-manaus/",
+   "url_hash": "c5e3f182ff2a37a1efd151d5"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-28T15:50:20+00:00",
-  "saved_at": "2026-10-28T15:50:21+00:00"
+  "last_run_at": "2026-10-28T16:00:20+00:00",
+  "saved_at": "2026-10-28T16:00:22+00:00"
  },
  "schema": 1
 }
