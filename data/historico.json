@@ -13076,13 +13076,34 @@
    "updated_at": "2026-10-28T17:10:15+00:00",
    "url": "https://marioadolfo.com/estudante-da-uea-vence-premio-e-leva-projetos-amazonicos-a-china/",
    "url_hash": "9e3cb8762d293b41dec33d79"
+  },
+  "guid:6ae22de752c09500099df67f": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Órgão reforça que biometria não é obrigatória para todos benefícios",
+   "discovered_at": "2026-10-28T17:20:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae22de752c09500099df67f",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b3880468-a716-4d4b-8e26-9f40d560716f.webp",
+   "key": "guid:6ae22de752c09500099df67f",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-28T17:17:43+00:00",
+   "status": "pending",
+   "title": "INSS alerta para golpes que usam informação falsa sobre biometria",
+   "updated_at": "2026-10-28T17:20:16+00:00",
+   "url": "https://marioadolfo.com/inss-alerta-para-golpes-que-usam-informacao-falsa-sobre-biometria/",
+   "url_hash": "9d8d2e5c2fa9b4ed05594bcb"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-28T17:10:14+00:00",
-  "saved_at": "2026-10-28T17:10:16+00:00"
+  "last_run_at": "2026-10-28T17:20:15+00:00",
+  "saved_at": "2026-10-28T17:20:17+00:00"
  },
  "schema": 1
 }
