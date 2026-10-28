@@ -12929,13 +12929,34 @@
    "updated_at": "2026-10-28T14:20:15+00:00",
    "url": "https://marioadolfo.com/governo-libera-r-5-2-bilhoes-para-reforcar-assistencia-social-e-saude/",
    "url_hash": "84c4ad9b65c53d270216944e"
+  },
+  "guid:6ae2088352c09500099df5de": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Atendimentos na segurança e em unidades de saúde seguem normalmente durante o período em todo o estado",
+   "discovered_at": "2026-10-28T14:40:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae2088352c09500099df5de",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/71b1c1fc-853b-460c-a654-693c34767aa2.jpeg",
+   "key": "guid:6ae2088352c09500099df5de",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-28T14:39:03+00:00",
+   "status": "pending",
+   "title": "Governo do AM mantém serviços essenciais durante ponto facultativo e feriado de Finados",
+   "updated_at": "2026-10-28T14:40:17+00:00",
+   "url": "https://marioadolfo.com/governo-do-am-mantem-servicos-essenciais-durante-ponto-facultativo-e-feriado-de-finados/",
+   "url_hash": "0fcc1e2032db5decbbeff6ee"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-28T14:30:22+00:00",
-  "saved_at": "2026-10-28T14:30:23+00:00"
+  "last_run_at": "2026-10-28T14:40:17+00:00",
+  "saved_at": "2026-10-28T14:40:18+00:00"
  },
  "schema": 1
 }
