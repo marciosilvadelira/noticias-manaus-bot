@@ -13412,13 +13412,34 @@
    "updated_at": "2026-10-28T19:40:15+00:00",
    "url": "https://marioadolfo.com/homem-e-preso-por-maus-tratos-a-animais-em-presidente-figueiredo/",
    "url_hash": "727382c3ee3e90bdfb5d5b11"
+  },
+  "guid:6ae24f1e52c09500099df82f": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A ação prevê a retirada de fios e cabos de telefonia e internet que não são mais utilizados",
+   "discovered_at": "2026-10-28T19:50:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae24f1e52c09500099df82f",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/fc25ad09-42a4-4b17-8e6f-2fac6a76444b.jpg",
+   "key": "guid:6ae24f1e52c09500099df82f",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-28T19:40:23+00:00",
+   "status": "pending",
+   "title": "Manaus inicia nova etapa de retirada de fios e cabos sem uso no Centro Histórico",
+   "updated_at": "2026-10-28T19:50:15+00:00",
+   "url": "https://marioadolfo.com/manaus-inicia-nova-etapa-de-retirada-de-fios-e-cabos-sem-uso-no-centro-historico/",
+   "url_hash": "209bb843f24aec5a8be89de6"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-28T19:40:14+00:00",
-  "saved_at": "2026-10-28T19:40:15+00:00"
+  "last_run_at": "2026-10-28T19:50:14+00:00",
+  "saved_at": "2026-10-28T19:50:15+00:00"
  },
  "schema": 1
 }
