@@ -13223,13 +13223,34 @@
    "updated_at": "2026-10-28T17:50:17+00:00",
    "url": "https://marioadolfo.com/garantido-promove-festa-gratuita-no-sambodromo-com-participacao-de-itens-oficiais/",
    "url_hash": "8868ead5d9a8ac15102e78d5"
+  },
+  "guid:6ae235a852c09500099df735": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Nilson Aurélio Nunes, de 52 anos, estava desaparecido desde sexta-feira (23); familiares relataram que ele vinha recebendo ameaças de morte.",
+   "discovered_at": "2026-10-28T18:00:22+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae235a852c09500099df735",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/dccf0314-488c-4a51-a3eb-ddfaa5c378bd.png",
+   "key": "guid:6ae235a852c09500099df735",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-28T17:51:58+00:00",
+   "status": "pending",
+   "title": "Mecânico desaparecido é encontrado morto e enterrado em área de mata em Manaus",
+   "updated_at": "2026-10-28T18:00:22+00:00",
+   "url": "https://marioadolfo.com/mecanico-desaparecido-e-encontrado-morto-e-enterrado-em-area-de-mata-em-manaus/",
+   "url_hash": "e0406f262af6b24a96016c0e"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-28T17:50:16+00:00",
-  "saved_at": "2026-10-28T17:50:18+00:00"
+  "last_run_at": "2026-10-28T18:00:21+00:00",
+  "saved_at": "2026-10-28T18:00:22+00:00"
  },
  "schema": 1
 }
