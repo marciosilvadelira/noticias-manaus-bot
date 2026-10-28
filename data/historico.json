@@ -13307,13 +13307,118 @@
    "updated_at": "2026-10-28T19:00:22+00:00",
    "url": "https://marioadolfo.com/prefeitura-de-manaus-avanca-na-construcao-da-fundacao-municipal-tea/",
    "url_hash": "84512469643955c1874ff7d0"
+  },
+  "guid:6ae24cd452c09500099df7b8": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Inscrições serão realizadas nos dias 3 e 4 de novembro, pela internet; catálogo reúne 41 opções de qualificação profissional",
+   "discovered_at": "2026-10-28T19:40:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae24cd452c09500099df7b8",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f1af422c-bcbc-4302-87d9-ab42b93229ec.jpg",
+   "key": "guid:6ae24cd452c09500099df7b8",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-28T19:30:29+00:00",
+   "status": "pending",
+   "title": "Cetam lança edital de cursos on-line com 50.150 vagas gratuitas nesta quinta-feira",
+   "updated_at": "2026-10-28T19:40:15+00:00",
+   "url": "https://marioadolfo.com/cetam-lanca-edital-de-cursos-on-line-com-50-150-vagas-gratuitas-nesta-quinta-feira/",
+   "url_hash": "e28b4952efd9e4a0ebfeab10"
+  },
+  "guid:6ae24d6e52c09500099df7d4": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Corporação não encontrou registro de passagem por postos migratórios",
+   "discovered_at": "2026-10-28T19:40:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae24d6e52c09500099df7d4",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/83698c17-5700-4e2c-b1f9-092310f9172b.jpg",
+   "key": "guid:6ae24d6e52c09500099df7d4",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-28T19:31:58+00:00",
+   "status": "pending",
+   "title": "PF investiga circunstâncias da fuga de Flávio Bolsonaro do Brasil",
+   "updated_at": "2026-10-28T19:40:15+00:00",
+   "url": "https://marioadolfo.com/pf-investiga-circunstancias-da-fuga-de-flavio-bolsonaro-do-brasil/",
+   "url_hash": "41f9380c07a1b89e067db811"
+  },
+  "guid:6ae24dbf52c09500099df7ea": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Defesa quer derrubar condenação alegando nulidades processuais",
+   "discovered_at": "2026-10-28T19:40:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae24dbf52c09500099df7ea",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a8041a33-1171-4178-af0d-7864d5999805.jpg",
+   "key": "guid:6ae24dbf52c09500099df7ea",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-28T19:33:07+00:00",
+   "status": "pending",
+   "title": "Kassio pede à PGR parecer sobre revisão da pena de Bolsonaro",
+   "updated_at": "2026-10-28T19:40:15+00:00",
+   "url": "https://marioadolfo.com/kassio-pede-a-pgr-parecer-sobre-revisao-da-pena-de-bolsonaro/",
+   "url_hash": "337afc90502b219b1cbfed5f"
+  },
+  "guid:6ae24e4c52c09500099df800": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Programação reúne jornada online gratuita sobre vendas, desconto de 20% no Empretec e palestras com temas estratégicos para os pequenos negócios",
+   "discovered_at": "2026-10-28T19:40:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae24e4c52c09500099df800",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d058a8ee-a61c-4239-a353-c59ec802af0e.jpeg",
+   "key": "guid:6ae24e4c52c09500099df800",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-28T19:35:38+00:00",
+   "status": "pending",
+   "title": "Black Friday: Sebrae oferece oportunidades em capacitações para empreendedores",
+   "updated_at": "2026-10-28T19:40:15+00:00",
+   "url": "https://marioadolfo.com/black-friday-sebrae-oferece-oportunidades-em-capacitacoes-para-empreendedores/",
+   "url_hash": "00397c73e755d89abefd5240"
+  },
+  "guid:6ae24ea952c09500099df81a": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Um cachorro comunitário foi atacado com golpes de arma branca",
+   "discovered_at": "2026-10-28T19:40:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae24ea952c09500099df81a",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b4af4735-7465-4dcb-a99b-6b9f52e3e147.jpeg",
+   "key": "guid:6ae24ea952c09500099df81a",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-28T19:37:12+00:00",
+   "status": "pending",
+   "title": "Homem é preso por maus-tratos a animais em Presidente Figueiredo",
+   "updated_at": "2026-10-28T19:40:15+00:00",
+   "url": "https://marioadolfo.com/homem-e-preso-por-maus-tratos-a-animais-em-presidente-figueiredo/",
+   "url_hash": "727382c3ee3e90bdfb5d5b11"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-28T19:30:17+00:00",
-  "saved_at": "2026-10-28T19:30:18+00:00"
+  "last_run_at": "2026-10-28T19:40:14+00:00",
+  "saved_at": "2026-10-28T19:40:15+00:00"
  },
  "schema": 1
 }
