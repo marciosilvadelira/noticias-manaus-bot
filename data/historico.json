@@ -13013,13 +13013,34 @@
    "updated_at": "2026-10-28T15:10:17+00:00",
    "url": "https://marioadolfo.com/codam-projetos-industriais-no-amazonas-preveem-mais-de-2-mil-postos-de-trabalho/",
    "url_hash": "476bf2f496463e47afa435bf"
+  },
+  "guid:6ae2151752c09500099df63a": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Calendário garante pagamento da folha de outubro nos dias 28 e 29, do 13º salário em 12 e 13 de novembro e das folhas de novembro e dezembro nos dias 26 e 27 e 23 e 24, respectivamente",
+   "discovered_at": "2026-10-28T15:50:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae2151752c09500099df63a",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/699aabe2-c3c8-42a7-bc4a-42c5fd664b07.jpeg",
+   "key": "guid:6ae2151752c09500099df63a",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-28T15:40:32+00:00",
+   "status": "pending",
+   "title": "Governo do AM antecipa pagamento de salários e anuncia datas do 13º",
+   "updated_at": "2026-10-28T15:50:21+00:00",
+   "url": "https://marioadolfo.com/governo-do-am-antecipa-pagamento-de-salarios-e-anuncia-datas-do-13o/",
+   "url_hash": "3d90aa2d4f73827ad022f539"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-28T15:40:15+00:00",
-  "saved_at": "2026-10-28T15:40:17+00:00"
+  "last_run_at": "2026-10-28T15:50:20+00:00",
+  "saved_at": "2026-10-28T15:50:21+00:00"
  },
  "schema": 1
 }
