@@ -13433,13 +13433,34 @@
    "updated_at": "2026-10-28T19:50:15+00:00",
    "url": "https://marioadolfo.com/manaus-inicia-nova-etapa-de-retirada-de-fios-e-cabos-sem-uso-no-centro-historico/",
    "url_hash": "209bb843f24aec5a8be89de6"
+  },
+  "guid:6ae26b8352c09500099df847": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Proposta é reduzir a fila do Sisreg nos primeiros 100 dias de 2027",
+   "discovered_at": "2026-10-28T21:50:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae26b8352c09500099df847",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/3410db0b-1870-448d-aa8b-c9ad0c72f4c9.jpg",
+   "key": "guid:6ae26b8352c09500099df847",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-28T21:42:14+00:00",
+   "status": "pending",
+   "title": "Omar Aziz discute ações emergenciais para saúde do Amazonas com Padilha",
+   "updated_at": "2026-10-28T21:50:15+00:00",
+   "url": "https://marioadolfo.com/omar-aziz-discute-acoes-emergenciais-para-saude-do-amazonas-com-padilha/",
+   "url_hash": "8179c93a9ef008014a957608"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-28T21:40:14+00:00",
-  "saved_at": "2026-10-28T21:40:15+00:00"
+  "last_run_at": "2026-10-28T21:50:14+00:00",
+  "saved_at": "2026-10-28T21:50:16+00:00"
  },
  "schema": 1
 }
