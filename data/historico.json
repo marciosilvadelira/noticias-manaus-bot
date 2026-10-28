@@ -12866,13 +12866,76 @@
    "updated_at": "2026-10-28T14:10:18+00:00",
    "url": "https://marioadolfo.com/aeronave-com-flavio-bolsonaro-e-familia-pousa-nos-estados-unidos/",
    "url_hash": "d6524ab853db823dc7c955d0"
+  },
+  "guid:6ae2022552c09500099df59a": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A iniciativa oferece ensino gratuito da língua coreana e aproxima os estudantes da rede pública municipal da cultura do país asiático.",
+   "discovered_at": "2026-10-28T14:20:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae2022552c09500099df59a",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a2ad5e74-2c55-4fca-955f-86ef59eb5ff2.jpg",
+   "key": "guid:6ae2022552c09500099df59a",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-28T14:11:18+00:00",
+   "status": "pending",
+   "title": "Prefeitura e Consulado Coreano alinham ampliação do ensino de idioma em escolas de Manaus",
+   "updated_at": "2026-10-28T14:20:15+00:00",
+   "url": "https://marioadolfo.com/prefeitura-e-consulado-coreano-alinham-ampliacao-do-ensino-de-idioma-em-escolas-de-manaus/",
+   "url_hash": "0635ff00d31fe08e3d1a1fca"
+  },
+  "guid:6ae202bb52c09500099df5af": {
+   "attempts": [],
+   "category": "Parintins",
+   "description": "Em Parintins, Mateus Assayag assumiu o protagonismo na campanha de Omar Aziz",
+   "discovered_at": "2026-10-28T14:20:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae202bb52c09500099df5af",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c76cee9d-d38a-4b00-acbe-63809d63c94a.webp",
+   "key": "guid:6ae202bb52c09500099df5af",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-28T14:13:25+00:00",
+   "status": "pending",
+   "title": "Mateus e Vanessa reforçam aliança com Omar Aziz após vitória expressiva em Parintins",
+   "updated_at": "2026-10-28T14:20:15+00:00",
+   "url": "https://marioadolfo.com/mateus-e-vanessa-reforcam-alianca-com-omar-aziz-apos-vitoria-expressiva-em-parintins/",
+   "url_hash": "ed97d60ecd70113909d0d29d"
+  },
+  "guid:6ae2032352c09500099df5c8": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Crédito suplementar servirá também a outras áreas",
+   "discovered_at": "2026-10-28T14:20:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae2032352c09500099df5c8",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/bbcc03d3-7e7a-4f2d-b86e-b6071ca48c70.jpg",
+   "key": "guid:6ae2032352c09500099df5c8",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-28T14:17:09+00:00",
+   "status": "pending",
+   "title": "Governo libera R$ 5,2 bilhões para reforçar assistência social e saúde",
+   "updated_at": "2026-10-28T14:20:15+00:00",
+   "url": "https://marioadolfo.com/governo-libera-r-5-2-bilhoes-para-reforcar-assistencia-social-e-saude/",
+   "url_hash": "84c4ad9b65c53d270216944e"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-28T14:10:16+00:00",
-  "saved_at": "2026-10-28T14:10:19+00:00"
+  "last_run_at": "2026-10-28T14:20:14+00:00",
+  "saved_at": "2026-10-28T14:20:15+00:00"
  },
  "schema": 1
 }
