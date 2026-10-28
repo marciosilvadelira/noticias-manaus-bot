@@ -13454,13 +13454,34 @@
    "updated_at": "2026-10-28T21:50:15+00:00",
    "url": "https://marioadolfo.com/omar-aziz-discute-acoes-emergenciais-para-saude-do-amazonas-com-padilha/",
    "url_hash": "8179c93a9ef008014a957608"
+  },
+  "guid:6ae27dd052c09500099df871": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A medida atende recomendação enquanto durar a crise das queimadas, com exceções de serviços essenciais, comunidades isoladas",
+   "discovered_at": "2026-10-28T23:00:24+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae27dd052c09500099df871",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/63dab9b4-0d94-4873-85ff-f1d5b9ae46fb.jpeg",
+   "key": "guid:6ae27dd052c09500099df871",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-28T22:59:59+00:00",
+   "status": "pending",
+   "title": "Amazonas suspende venda de combustíveis em recipientes portáteis",
+   "updated_at": "2026-10-28T23:00:24+00:00",
+   "url": "https://marioadolfo.com/amazonas-suspende-venda-de-combustiveis-em-recipientes-portateis/",
+   "url_hash": "7a82a8253dcc8112d833105d"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-28T22:50:13+00:00",
-  "saved_at": "2026-10-28T22:50:13+00:00"
+  "last_run_at": "2026-10-28T23:00:20+00:00",
+  "saved_at": "2026-10-28T23:00:24+00:00"
  },
  "schema": 1
 }
