@@ -12669,12 +12669,12 @@
    "guid": "6ae0f75352c09500099df488",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0b875de2-b38e-4557-93a3-ee63e00b3f78.jpeg",
    "key": "guid:6ae0f75352c09500099df488",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-27T19:12:51+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Caso Deusiane: julgamento de recurso sobre absolvição de policiais é adiado",
-   "updated_at": "2026-10-27T19:20:16+00:00",
+   "updated_at": "2026-10-28T19:20:16+00:00",
    "url": "https://marioadolfo.com/caso-deusiane-julgamento-de-recurso-sobre-absolvicao-de-policiais-e-adiado/",
    "url_hash": "b8fce6e8281a083abd23afbc"
   },
@@ -12690,12 +12690,12 @@
    "guid": "6ae0f83a52c09500099df49f",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e5bdf6eb-1231-4e6c-ace2-a0a4805fff00.jpg",
    "key": "guid:6ae0f83a52c09500099df49f",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-27T19:15:57+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Inep divulga local de provas do Enem; saiba como conferir",
-   "updated_at": "2026-10-27T19:20:16+00:00",
+   "updated_at": "2026-10-28T19:20:16+00:00",
    "url": "https://marioadolfo.com/inep-divulga-local-de-provas-do-enem-saiba-como-conferir/",
    "url_hash": "7e9bab764ef5390b9df535a1"
   },
@@ -12711,12 +12711,12 @@
    "guid": "6ae0f88f52c09500099df4b7",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b3a5e3d3-fd82-45ae-aa7c-a07b96c63422.jpeg",
    "key": "guid:6ae0f88f52c09500099df4b7",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-27T19:17:15+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Escola Pública de Trânsito oferece 1.180 vagas para cursos em novembro",
-   "updated_at": "2026-10-27T19:20:16+00:00",
+   "updated_at": "2026-10-28T19:20:16+00:00",
    "url": "https://marioadolfo.com/escola-publica-de-transito-oferece-1-180-vagas-para-cursos-em-novembro/",
    "url_hash": "3f59c6c26de53d9f3fb2940a"
   },
@@ -13312,8 +13312,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-28T19:10:15+00:00",
-  "saved_at": "2026-10-28T19:10:16+00:00"
+  "last_run_at": "2026-10-28T19:20:16+00:00",
+  "saved_at": "2026-10-28T19:20:16+00:00"
  },
  "schema": 1
 }
