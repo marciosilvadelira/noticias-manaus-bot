@@ -12992,13 +12992,34 @@
    "updated_at": "2026-10-28T15:00:21+00:00",
    "url": "https://marioadolfo.com/prefeitura-de-manaus-convoca-mais-1-5-mil-aprovados-no-concurso-da-semed/",
    "url_hash": "ebb4270cde7a751dd5ea39e1"
+  },
+  "guid:6ae20d1752c09500099df624": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A 322ª reunião ordinária do Conselho de Desenvolvimento, nesta quinta-feira, será presidida pelo governador do Estado, Roberto Cidade, com 63 projetos na pauta",
+   "discovered_at": "2026-10-28T15:10:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae20d1752c09500099df624",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ef16f4eb-563b-465f-aa2a-d3411c4fc05b.jpeg",
+   "key": "guid:6ae20d1752c09500099df624",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-28T15:04:26+00:00",
+   "status": "pending",
+   "title": "Codam: projetos industriais no Amazonas preveem mais de 2 mil postos de trabalho",
+   "updated_at": "2026-10-28T15:10:17+00:00",
+   "url": "https://marioadolfo.com/codam-projetos-industriais-no-amazonas-preveem-mais-de-2-mil-postos-de-trabalho/",
+   "url_hash": "476bf2f496463e47afa435bf"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-28T15:00:20+00:00",
-  "saved_at": "2026-10-28T15:00:21+00:00"
+  "last_run_at": "2026-10-28T15:10:16+00:00",
+  "saved_at": "2026-10-28T15:10:17+00:00"
  },
  "schema": 1
 }
