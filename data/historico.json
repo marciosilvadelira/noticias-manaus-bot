@@ -12784,11 +12784,19 @@
    "url_hash": "3444229fb7b95c0970085b6a"
   },
   "guid:6ae1e79b52c09500099df51a": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-29T04:00:54+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1522046263279598",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "A aeronave, que transporta o parlamentar e três familiares, fez uma escala para reabastecimento no Equador antes de seguir para Miami.",
    "discovered_at": "2026-10-28T12:30:23+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1522046263279598",
    "formats": [
     "link"
    ],
@@ -12796,20 +12804,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/53f8ec34-f2d6-4534-8b1a-ef2323b42b5c.webp",
    "key": "guid:6ae1e79b52c09500099df51a",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1522046263279598"
+   },
    "source_published_at": "2026-10-28T12:21:27+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Voo de Flávio Bolsonaro parte do Equador rumo a Miami",
-   "updated_at": "2026-10-28T12:30:23+00:00",
+   "updated_at": "2026-10-29T04:00:54+00:00",
    "url": "https://marioadolfo.com/voo-de-flavio-bolsonaro-parte-do-equador-rumo-a-miami/",
    "url_hash": "e6c3b474b663f4512037fae1"
   },
   "guid:6ae1fd3b52c09500099df537": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-29T04:01:19+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1522046533279571",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Dito & Feito",
    "description": "Com medo de ser preso, Flávio Bolsonaro deixou o Brasil na calada da noite. Operação Articulação foi liderada pelo secretário de Estado norte-americano, Marco Rubio",
    "discovered_at": "2026-10-28T14:10:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1522046533279571",
    "formats": [
     "link"
    ],
@@ -12817,20 +12835,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6edf6711-5bb4-4339-bb5c-b633bdefdd24.jpeg",
    "key": "guid:6ae1fd3b52c09500099df537",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1522046533279571"
+   },
    "source_published_at": "2026-10-28T14:02:31+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Dito & Feito: FUGIU, DESAPARECEU, ESCAFEDEU-SE!",
-   "updated_at": "2026-10-28T14:10:18+00:00",
+   "updated_at": "2026-10-29T04:01:19+00:00",
    "url": "https://marioadolfo.com/dito-feito-fugiu-desapareceu-escafedeu-se/",
    "url_hash": "b9a3827d0ffd33ed5c48cb38"
   },
   "guid:6ae2012b52c09500099df569": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-29T04:00:28+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1522046033279621",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Matrículas começam nesta quarta-feira (28) e seguem até quinta (29), presencialmente ou por e-mail.",
    "discovered_at": "2026-10-28T14:10:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1522046033279621",
    "formats": [
     "link"
    ],
@@ -12838,20 +12866,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/cbf0ca40-3024-4906-a0ce-eb52bd080a2c.jpg",
    "key": "guid:6ae2012b52c09500099df569",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1522046033279621"
+   },
    "source_published_at": "2026-10-28T12:06:00+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Guarda Municipal de Manaus convoca 200 candidatos para curso de formação",
-   "updated_at": "2026-10-28T14:10:18+00:00",
+   "updated_at": "2026-10-29T04:00:28+00:00",
    "url": "https://marioadolfo.com/guarda-municipal-de-manaus-convoca-200-candidatos-para-curso-de-formacao/",
    "url_hash": "9c86b2b4903be0524e522c90"
   },
   "guid:6ae201bf52c09500099df581": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-29T04:01:44+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1522046856612872",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Senador fugiu do país dois dias após ser derrotado nas eleições",
    "discovered_at": "2026-10-28T14:10:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1522046856612872",
    "formats": [
     "link"
    ],
@@ -12859,20 +12897,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/532d944e-cbd3-4bf7-9650-22b61a63d7cc.webp",
    "key": "guid:6ae201bf52c09500099df581",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1522046856612872"
+   },
    "source_published_at": "2026-10-28T14:09:10+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Aeronave com Flávio Bolsonaro e família pousa nos Estados Unidos",
-   "updated_at": "2026-10-28T14:10:18+00:00",
+   "updated_at": "2026-10-29T04:01:44+00:00",
    "url": "https://marioadolfo.com/aeronave-com-flavio-bolsonaro-e-familia-pousa-nos-estados-unidos/",
    "url_hash": "d6524ab853db823dc7c955d0"
   },
   "guid:6ae2022552c09500099df59a": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-29T04:02:10+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1522047103279514",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "A iniciativa oferece ensino gratuito da língua coreana e aproxima os estudantes da rede pública municipal da cultura do país asiático.",
    "discovered_at": "2026-10-28T14:20:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1522047103279514",
    "formats": [
     "link"
    ],
@@ -12880,11 +12928,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a2ad5e74-2c55-4fca-955f-86ef59eb5ff2.jpg",
    "key": "guid:6ae2022552c09500099df59a",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1522047103279514"
+   },
    "source_published_at": "2026-10-28T14:11:18+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Prefeitura e Consulado Coreano alinham ampliação do ensino de idioma em escolas de Manaus",
-   "updated_at": "2026-10-28T14:20:15+00:00",
+   "updated_at": "2026-10-29T04:02:10+00:00",
    "url": "https://marioadolfo.com/prefeitura-e-consulado-coreano-alinham-ampliacao-do-ensino-de-idioma-em-escolas-de-manaus/",
    "url_hash": "0635ff00d31fe08e3d1a1fca"
   },
@@ -13501,8 +13551,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-29T03:50:14+00:00",
-  "saved_at": "2026-10-29T03:50:15+00:00"
+  "last_run_at": "2026-10-29T04:00:20+00:00",
+  "saved_at": "2026-10-29T04:02:10+00:00"
  },
  "schema": 1
 }
