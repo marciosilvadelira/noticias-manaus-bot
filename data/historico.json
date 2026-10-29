@@ -13885,13 +13885,34 @@
    "updated_at": "2026-10-29T14:30:19+00:00",
    "url": "https://marioadolfo.com/am-tera-mais-29-cras-conectados-a-internet-com-investimento-de-r-928-mil-do-governo-federal/",
    "url_hash": "1c7ed338f27f38888f015042"
+  },
+  "guid:6ae35e4452c09500099df992": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Competição começa nesta sexta-feira (30), com inscrições até 29 de outubro, vagas limitadas e disputa pelos títulos Absoluto e Feminino. Mestre Nacional Pedro Morales está confirmado, e a premiação total é de R$ 1.600",
+   "discovered_at": "2026-10-29T15:00:22+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae35e4452c09500099df992",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b7a97aca-15b3-4686-9648-73edadab9ad0.jpeg",
+   "key": "guid:6ae35e4452c09500099df992",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-29T14:56:52+00:00",
+   "status": "pending",
+   "title": "Campeonato Amazonense de Xadrez 2026 reúne talentos e grandes nomes da modalidade em Manaus",
+   "updated_at": "2026-10-29T15:00:22+00:00",
+   "url": "https://marioadolfo.com/campeonato-amazonense-de-xadrez-2026-reune-talentos-e-grandes-nomes-da-modalidade-em-manaus/",
+   "url_hash": "5092cd6b1a19885d18e03439"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-29T14:50:16+00:00",
-  "saved_at": "2026-10-29T14:50:17+00:00"
+  "last_run_at": "2026-10-29T15:00:22+00:00",
+  "saved_at": "2026-10-29T15:00:23+00:00"
  },
  "schema": 1
 }
