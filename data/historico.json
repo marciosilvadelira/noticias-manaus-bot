@@ -14431,13 +14431,34 @@
    "updated_at": "2026-10-29T21:00:19+00:00",
    "url": "https://marioadolfo.com/demissao-por-causa-do-voto-e-discriminatoria-e-pode-ser-questionada-na-justica-do-trabalho/",
    "url_hash": "1757e901a6bc358c84329c1b"
+  },
+  "guid:6ae3b38a52c09500099dfc32": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Cinco suspeitos são apontados como participantes diretos do crime, enquanto outros cinco são investigados por fornecer bebidas alcoólicas e favorecer envolvidos",
+   "discovered_at": "2026-10-29T21:10:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae3b38a52c09500099dfc32",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/3d44a75f-5296-44f3-a282-140d0c04f31e.jpeg",
+   "key": "guid:6ae3b38a52c09500099dfc32",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-29T21:01:50+00:00",
+   "status": "pending",
+   "title": "PC-AM indicia 10 homens por estupro coletivo de adolescente indígena",
+   "updated_at": "2026-10-29T21:10:15+00:00",
+   "url": "https://marioadolfo.com/pc-am-indicia-10-homens-por-estupro-de-adolescente-indigena/",
+   "url_hash": "d989e49b5df82dd793813f48"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-29T21:00:18+00:00",
-  "saved_at": "2026-10-29T21:00:19+00:00"
+  "last_run_at": "2026-10-29T21:10:14+00:00",
+  "saved_at": "2026-10-29T21:10:16+00:00"
  },
  "schema": 1
 }
