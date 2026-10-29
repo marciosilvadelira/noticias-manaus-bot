@@ -14200,13 +14200,34 @@
    "updated_at": "2026-10-29T17:30:19+00:00",
    "url": "https://marioadolfo.com/homem-e-preso-por-perseguir-ameacar-e-tentar-matar-ex-companheira/",
    "url_hash": "5ad06b9f895108350a4cc3b8"
+  },
+  "guid:6ae3836a52c09500099dfb00": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A medida tem validade de 180 dias e busca reduzir os impactos sobre a assistência à saúde",
+   "discovered_at": "2026-10-29T17:40:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae3836a52c09500099dfb00",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0d265904-4804-4fdd-8fc2-b4aa0e269704.jpeg",
+   "key": "guid:6ae3836a52c09500099dfb00",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-29T17:35:00+00:00",
+   "status": "pending",
+   "title": "Seca e fumaça das queimadas levam o Amazonas a decretar emergência em saúde",
+   "updated_at": "2026-10-29T17:40:16+00:00",
+   "url": "https://marioadolfo.com/seca-e-fumaca-das-queimadas-levam-o-amazonas-a-decretar-emergencia-em-saude/",
+   "url_hash": "adcbd51ece6bef4e1068bd34"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-29T17:30:18+00:00",
-  "saved_at": "2026-10-29T17:30:19+00:00"
+  "last_run_at": "2026-10-29T17:40:15+00:00",
+  "saved_at": "2026-10-29T17:40:17+00:00"
  },
  "schema": 1
 }
