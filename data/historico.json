@@ -13717,13 +13717,34 @@
    "updated_at": "2026-10-29T12:10:16+00:00",
    "url": "https://marioadolfo.com/coordenador-de-campanha-do-pl-admite-nao-ter-prova-de-fraude-eleitoral/",
    "url_hash": "7c1c2a26f75fc50df2ffa4f8"
+  },
+  "guid:6ae3392852c09500099df8b7": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "O encontro representa um primeiro passo para organizar a transferência da administração estadual",
+   "discovered_at": "2026-10-29T12:20:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae3392852c09500099df8b7",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2fb228e8-999a-45e7-8744-2d2ab35f9d56.jpg",
+   "key": "guid:6ae3392852c09500099df8b7",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-29T12:18:33+00:00",
+   "status": "pending",
+   "title": "Omar Aziz e Roberto Cidade se reúnem nesta quinta-feira para dar início à transição de governo",
+   "updated_at": "2026-10-29T12:20:16+00:00",
+   "url": "https://marioadolfo.com/omar-aziz-e-roberto-cidade-se-reunem-nesta-quinta-feira-para-dar-inicio-a-transicao-de-governo/",
+   "url_hash": "c7eaf61901692d13f2a642d4"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-29T12:10:16+00:00",
-  "saved_at": "2026-10-29T12:10:17+00:00"
+  "last_run_at": "2026-10-29T12:20:15+00:00",
+  "saved_at": "2026-10-29T12:20:16+00:00"
  },
  "schema": 1
 }
