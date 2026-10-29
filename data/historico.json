@@ -13864,13 +13864,34 @@
    "updated_at": "2026-10-29T13:30:18+00:00",
    "url": "https://marioadolfo.com/operacao-harpia-investiga-crimes-de-abuso-sexual-infantojuvenil-em-manaus/",
    "url_hash": "b7d5b1e196f6f0f06c81bcd5"
+  },
+  "guid:6ae3572852c09500099df97c": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Iniciativa do Ministério das Comunicações vai levar internet de alta velocidade e Wi-Fi às unidades de assistência social, facilitando o atendimento às famílias e o acesso a serviços públicos",
+   "discovered_at": "2026-10-29T14:30:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae3572852c09500099df97c",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/bbe2df27-918c-46bc-8885-65af34802cb2.jpg",
+   "key": "guid:6ae3572852c09500099df97c",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-29T14:28:27+00:00",
+   "status": "pending",
+   "title": "AM terá mais 29 CRAS conectados à internet com investimento de R$ 928 mil do Governo Federal",
+   "updated_at": "2026-10-29T14:30:19+00:00",
+   "url": "https://marioadolfo.com/am-tera-mais-29-cras-conectados-a-internet-com-investimento-de-r-928-mil-do-governo-federal/",
+   "url_hash": "1c7ed338f27f38888f015042"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-29T14:20:16+00:00",
-  "saved_at": "2026-10-29T14:20:20+00:00"
+  "last_run_at": "2026-10-29T14:30:19+00:00",
+  "saved_at": "2026-10-29T14:30:20+00:00"
  },
  "schema": 1
 }
