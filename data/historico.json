@@ -13843,13 +13843,34 @@
    "updated_at": "2026-10-29T13:10:16+00:00",
    "url": "https://marioadolfo.com/pf-bloqueia-mais-de-r-35-milhoes-em-operacao-contra-garimpo-ilegal-no-am/",
    "url_hash": "1f5423aded74625561654b9d"
+  },
+  "guid:6ae3481652c09500099df968": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Polícia Federal apreendeu um celular para buscar evidências de armazenamento e compartilhamento de arquivos ilegais.",
+   "discovered_at": "2026-10-29T13:30:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae3481652c09500099df968",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/32250851-0094-46e1-998e-bf462801b0c2.jpeg",
+   "key": "guid:6ae3481652c09500099df968",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-29T13:22:44+00:00",
+   "status": "pending",
+   "title": "Operação Harpia investiga crimes de abuso sexual infantojuvenil em Manaus",
+   "updated_at": "2026-10-29T13:30:18+00:00",
+   "url": "https://marioadolfo.com/operacao-harpia-investiga-crimes-de-abuso-sexual-infantojuvenil-em-manaus/",
+   "url_hash": "b7d5b1e196f6f0f06c81bcd5"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-29T13:20:14+00:00",
-  "saved_at": "2026-10-29T13:20:15+00:00"
+  "last_run_at": "2026-10-29T13:30:17+00:00",
+  "saved_at": "2026-10-29T13:30:18+00:00"
  },
  "schema": 1
 }
