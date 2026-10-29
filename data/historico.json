@@ -14032,13 +14032,34 @@
    "updated_at": "2026-10-29T15:30:22+00:00",
    "url": "https://marioadolfo.com/41a-feira-de-livros-do-sesc-comeca-nesta-quinta-feira-29-com-atividades-gratuitas/",
    "url_hash": "097c3979328c0688cf523bc3"
+  },
+  "guid:6ae3662e52c09500099dfa28": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Empregador pode ser obrigado a reintegrar e pagar salário em dobro",
+   "discovered_at": "2026-10-29T15:40:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae3662e52c09500099dfa28",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6997d15e-8a1b-40b9-a0a0-0cd4a48b66dd.jpeg",
+   "key": "guid:6ae3662e52c09500099dfa28",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-29T15:31:33+00:00",
+   "status": "pending",
+   "title": "Denúncias de assédio eleitoral no trabalho disparam 75% após 2º turno",
+   "updated_at": "2026-10-29T15:40:16+00:00",
+   "url": "https://marioadolfo.com/denuncias-de-assedio-eleitoral-no-trabalho-disparam-75-apos-2o-turno/",
+   "url_hash": "5e05d571319cea685337a3fc"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-29T15:30:21+00:00",
-  "saved_at": "2026-10-29T15:30:23+00:00"
+  "last_run_at": "2026-10-29T15:40:15+00:00",
+  "saved_at": "2026-10-29T15:40:17+00:00"
  },
  "schema": 1
 }
