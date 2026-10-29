@@ -14221,13 +14221,55 @@
    "updated_at": "2026-10-29T17:40:16+00:00",
    "url": "https://marioadolfo.com/seca-e-fumaca-das-queimadas-levam-o-amazonas-a-decretar-emergencia-em-saude/",
    "url_hash": "adcbd51ece6bef4e1068bd34"
+  },
+  "guid:6ae397b252c09500099dfb16": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Ações incluem criação de canais de denúncia e medidas para retirar conteúdos discriminatórios da internet, além da responsabilização criminal de empregadores",
+   "discovered_at": "2026-10-29T19:10:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae397b252c09500099dfb16",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a9bc8729-eb1d-4bfb-970d-01800b1c9dcf.jpg",
+   "key": "guid:6ae397b252c09500099dfb16",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-29T19:01:30+00:00",
+   "status": "pending",
+   "title": "Governo Federal anuncia medidas contra o assédio eleitoral no trabalho",
+   "updated_at": "2026-10-29T19:10:18+00:00",
+   "url": "https://marioadolfo.com/governo-federal-anuncia-medidas-contra-o-assedio-eleitoral-no-trabalho/",
+   "url_hash": "2b75b99a143935166d936570"
+  },
+  "guid:6ae3984e52c09500099dfb2d": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A entrada é gratuita, sujeita à lotação do espaço.",
+   "discovered_at": "2026-10-29T19:10:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae3984e52c09500099dfb2d",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/888b6242-c084-4f35-bc0b-3277eb90e8b4.jpeg",
+   "key": "guid:6ae3984e52c09500099dfb2d",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-29T19:03:20+00:00",
+   "status": "pending",
+   "title": "“Mata Gato” encerra outubro com exibição especial de Halloween no Casarão de Ideias",
+   "updated_at": "2026-10-29T19:10:18+00:00",
+   "url": "https://marioadolfo.com/mata-gato-encerra-outubro-com-exibicao-especial-de-halloween-no-casarao-de-ideias/",
+   "url_hash": "78c914452e1fe7a0dd3128e3"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-29T19:00:20+00:00",
-  "saved_at": "2026-10-29T19:00:21+00:00"
+  "last_run_at": "2026-10-29T19:10:16+00:00",
+  "saved_at": "2026-10-29T19:10:18+00:00"
  },
  "schema": 1
 }
