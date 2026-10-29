@@ -13625,12 +13625,12 @@
    "guid": "6ae24f1e52c09500099df82f",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/fc25ad09-42a4-4b17-8e6f-2fac6a76444b.jpg",
    "key": "guid:6ae24f1e52c09500099df82f",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-28T19:40:23+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Manaus inicia nova etapa de retirada de fios e cabos sem uso no Centro Histórico",
-   "updated_at": "2026-10-28T19:50:15+00:00",
+   "updated_at": "2026-10-29T19:50:17+00:00",
    "url": "https://marioadolfo.com/manaus-inicia-nova-etapa-de-retirada-de-fios-e-cabos-sem-uso-no-centro-historico/",
    "url_hash": "209bb843f24aec5a8be89de6"
   },
@@ -14284,13 +14284,76 @@
    "updated_at": "2026-10-29T19:40:17+00:00",
    "url": "https://marioadolfo.com/operacao-mulher-segura-quatro-homens-sao-presos-por-violencia-domestica-no-am/",
    "url_hash": "a23487840cb8ffda6688f1f4"
+  },
+  "guid:6ae3a07252c09500099dfb5e": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Réus receberam penas de 10 anos, 11 meses e 25 dias de prisão por esquema que enviou cerca de 90 quilos de maconha a São Paulo.",
+   "discovered_at": "2026-10-29T19:50:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae3a07252c09500099dfb5e",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/008b303b-be6b-4c35-92b0-c7199021ff73.jpg",
+   "key": "guid:6ae3a07252c09500099dfb5e",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-29T19:40:30+00:00",
+   "status": "pending",
+   "title": "Justiça condena dupla por tráfico de drogas no terminal de cargas do aeroporto de Manaus",
+   "updated_at": "2026-10-29T19:50:17+00:00",
+   "url": "https://marioadolfo.com/justica-condena-dupla-por-trafico-de-drogas-no-terminal-de-cargas-do-aeroporto-de-manaus/",
+   "url_hash": "d6143d0f836386249de60082"
+  },
+  "guid:6ae3a1a652c09500099dfb78": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "O animal foi encaminhado ao Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama)",
+   "discovered_at": "2026-10-29T19:50:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae3a1a652c09500099dfb78",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f3f5abb9-dd1b-46a8-a739-6b8f6f738e00.png",
+   "key": "guid:6ae3a1a652c09500099dfb78",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-29T19:48:54+00:00",
+   "status": "pending",
+   "title": "Sucuri é encontrada dentro de saco de estopa no bairro Santa Etelvina",
+   "updated_at": "2026-10-29T19:50:17+00:00",
+   "url": "https://marioadolfo.com/sucuri-e-encontrada-dentro-de-saco-de-estopa-no-bairro-santa-etelvina/",
+   "url_hash": "9639fd84d1a322cef62d4baa"
+  },
+  "guid:6ae3a25e52c09500099dfb91": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "O lançamento dos produtos, em Manaus, será realizado no dia 3 de novembro, no Escritório Bemol",
+   "discovered_at": "2026-10-29T19:50:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae3a25e52c09500099dfb91",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/03d62a18-dafb-4f57-a85b-94222767eaca.jpeg",
+   "key": "guid:6ae3a25e52c09500099dfb91",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-29T19:48:46+00:00",
+   "status": "pending",
+   "title": "Bemol traz à Região Norte smartphones JOVI X300 com tecnologia voltada à produção audiovisual",
+   "updated_at": "2026-10-29T19:50:17+00:00",
+   "url": "https://marioadolfo.com/bemol-traz-a-regiao-norte-smartphones-jovi-x300-com-tecnologia-voltada-a-producao-audiovisual/",
+   "url_hash": "d578e4f08825cf99ea5dee89"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-29T19:40:15+00:00",
-  "saved_at": "2026-10-29T19:40:17+00:00"
+  "last_run_at": "2026-10-29T19:50:15+00:00",
+  "saved_at": "2026-10-29T19:50:18+00:00"
  },
  "schema": 1
 }
