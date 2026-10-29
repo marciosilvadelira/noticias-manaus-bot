@@ -14347,13 +14347,97 @@
    "updated_at": "2026-10-29T19:50:17+00:00",
    "url": "https://marioadolfo.com/bemol-traz-a-regiao-norte-smartphones-jovi-x300-com-tecnologia-voltada-a-producao-audiovisual/",
    "url_hash": "d578e4f08825cf99ea5dee89"
+  },
+  "guid:6ae3b0fd52c09500099dfbcd": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Cerca de 120 famílias tiveram de deixar suas casas no bairro; instituição aponta irregularidades no cumprimento da ordem judicial",
+   "discovered_at": "2026-10-29T21:00:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae3b0fd52c09500099dfbcd",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/101ff926-9d49-4b4a-bc8a-eac254bf79c1.jpeg",
+   "key": "guid:6ae3b0fd52c09500099dfbcd",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-29T20:50:11+00:00",
+   "status": "pending",
+   "title": "Defensoria cobra moradia para famílias desabrigadas após reintegração de posse no Santa Etelvina",
+   "updated_at": "2026-10-29T21:00:19+00:00",
+   "url": "https://marioadolfo.com/defensoria-cobra-moradia-para-familias-desabrigadas-apos-reintegracao-de-posse-no-santa-etelvina/",
+   "url_hash": "68428da62dea5685d2d87cfa"
+  },
+  "guid:6ae3b19252c09500099dfbeb": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "O encontro reuniu representantes de órgãos públicos, instituições e da sociedade civil no auditório do TCE-AM",
+   "discovered_at": "2026-10-29T21:00:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae3b19252c09500099dfbeb",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0d019ed6-b17f-4dff-b3b6-db886d0f827b.jpeg",
+   "key": "guid:6ae3b19252c09500099dfbeb",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-29T20:53:54+00:00",
+   "status": "pending",
+   "title": "TCE-AM destaca particularidades das obras no Amazonas em seminário do TCU",
+   "updated_at": "2026-10-29T21:00:19+00:00",
+   "url": "https://marioadolfo.com/tce-am-destaca-particularidades-das-obras-no-amazonas-em-seminario-do-tcu/",
+   "url_hash": "46faaffafcf5d12a20b5136d"
+  },
+  "guid:6ae3b27252c09500099dfc02": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Procuradores ainda cobram R$ 50 milhões por danos morais coletivos",
+   "discovered_at": "2026-10-29T21:00:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae3b27252c09500099dfc02",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b4356c80-1c95-4352-9c6f-723488144abf.jpeg",
+   "key": "guid:6ae3b27252c09500099dfc02",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-29T20:58:07+00:00",
+   "status": "pending",
+   "title": "MPT vai à Justiça para que Meta apague postagens de assédio eleitoral",
+   "updated_at": "2026-10-29T21:00:19+00:00",
+   "url": "https://marioadolfo.com/mpt-vai-a-justica-para-que-meta-apague-postagens-de-assedio-eleitoral/",
+   "url_hash": "d49f7692ebac7374cb88d6d9"
+  },
+  "guid:6ae3b2e952c09500099dfc16": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A Lei garante ao trabalhador demitido por causa da eleição o direito de buscar reintegração ou indenização, além de reparação por danos morais",
+   "discovered_at": "2026-10-29T21:00:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae3b2e952c09500099dfc16",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/87e12735-58d8-4abb-8d50-76dc8931a730.jpeg",
+   "key": "guid:6ae3b2e952c09500099dfc16",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-29T20:57:58+00:00",
+   "status": "pending",
+   "title": "Demissão por causa do voto é discriminatória e pode ser questionada na Justiça do Trabalho",
+   "updated_at": "2026-10-29T21:00:19+00:00",
+   "url": "https://marioadolfo.com/demissao-por-causa-do-voto-e-discriminatoria-e-pode-ser-questionada-na-justica-do-trabalho/",
+   "url_hash": "1757e901a6bc358c84329c1b"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-29T20:50:14+00:00",
-  "saved_at": "2026-10-29T20:50:14+00:00"
+  "last_run_at": "2026-10-29T21:00:18+00:00",
+  "saved_at": "2026-10-29T21:00:19+00:00"
  },
  "schema": 1
 }
