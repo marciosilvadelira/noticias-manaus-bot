@@ -13499,12 +13499,12 @@
    "guid": "6ae2450b52c09500099df79d",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e9401cae-f2c5-4273-bb29-eb1f4652b03e.jpg",
    "key": "guid:6ae2450b52c09500099df79d",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-28T18:57:19+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Prefeitura de Manaus avança na construção da Fundação Municipal TEA",
-   "updated_at": "2026-10-28T19:00:22+00:00",
+   "updated_at": "2026-10-29T19:00:21+00:00",
    "url": "https://marioadolfo.com/prefeitura-de-manaus-avanca-na-construcao-da-fundacao-municipal-tea/",
    "url_hash": "84512469643955c1874ff7d0"
   },
@@ -14226,8 +14226,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-29T18:50:14+00:00",
-  "saved_at": "2026-10-29T18:50:15+00:00"
+  "last_run_at": "2026-10-29T19:00:20+00:00",
+  "saved_at": "2026-10-29T19:00:21+00:00"
  },
  "schema": 1
 }
