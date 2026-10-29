@@ -13906,13 +13906,55 @@
    "updated_at": "2026-10-29T15:00:22+00:00",
    "url": "https://marioadolfo.com/campeonato-amazonense-de-xadrez-2026-reune-talentos-e-grandes-nomes-da-modalidade-em-manaus/",
    "url_hash": "5092cd6b1a19885d18e03439"
+  },
+  "guid:6ae3610352c09500099df9aa": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Programa oferece 24 vagas para ingresso no primeiro semestre de 2027, nos municípios de Manaus e Tefé",
+   "discovered_at": "2026-10-29T15:10:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae3610352c09500099df9aa",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/9e1b1e7e-bdf9-4bbf-b91b-cc3ce4dec637.jpeg",
+   "key": "guid:6ae3610352c09500099df9aa",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-29T15:07:32+00:00",
+   "status": "pending",
+   "title": "UEA prorroga inscrições do Mestrado em Ciências Humanas até 3 de novembro",
+   "updated_at": "2026-10-29T15:10:15+00:00",
+   "url": "https://marioadolfo.com/uea-prorroga-inscricoes-do-mestrado-em-ciencias-humanas-ate-3-de-novembro/",
+   "url_hash": "7f175b5ae566b03ac0944d68"
+  },
+  "guid:6ae3615152c09500099df9be": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Apresentações gratuitas nos dias 31 de outubro e 1º de novembro reúnem dança, música, teatro e artes visuais em celebração à formação artística",
+   "discovered_at": "2026-10-29T15:10:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae3615152c09500099df9be",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b4253ce4-0370-4cd1-98ef-df83b2fbda0b.jpeg",
+   "key": "guid:6ae3615152c09500099df9be",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-29T15:09:01+00:00",
+   "status": "pending",
+   "title": "Teatro Amazonas abre as portas para espetáculos do Liceu de Artes e Ofícios Cláudio Santoro",
+   "updated_at": "2026-10-29T15:10:15+00:00",
+   "url": "https://marioadolfo.com/teatro-amazonas-abre-as-portas-para-espetaculos-do-liceu-de-artes-e-oficios-claudio-santoro/",
+   "url_hash": "ffcf1b6cfb5c2b2bb2857c2b"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-29T15:00:22+00:00",
-  "saved_at": "2026-10-29T15:00:23+00:00"
+  "last_run_at": "2026-10-29T15:10:15+00:00",
+  "saved_at": "2026-10-29T15:10:16+00:00"
  },
  "schema": 1
 }
