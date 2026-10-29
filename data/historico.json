@@ -13688,12 +13688,12 @@
    "guid": "6ae27ea352c09500099df88a",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d8fe065f-1a0a-4bd5-8ac1-9fa7115fc89c.webp",
    "key": "guid:6ae27ea352c09500099df88a",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-28T23:03:45+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "PF indicia Vorcaro e mais 14 investigados no caso Master",
-   "updated_at": "2026-10-28T23:10:15+00:00",
+   "updated_at": "2026-10-29T23:10:16+00:00",
    "url": "https://marioadolfo.com/pf-indicia-vorcaro-e-mais-14-investigados-no-caso-master/",
    "url_hash": "4c652841501529e9c75971ea"
   },
@@ -14457,8 +14457,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-29T23:00:21+00:00",
-  "saved_at": "2026-10-29T23:00:23+00:00"
+  "last_run_at": "2026-10-29T23:10:14+00:00",
+  "saved_at": "2026-10-29T23:10:17+00:00"
  },
  "schema": 1
 }
