@@ -13738,13 +13738,34 @@
    "updated_at": "2026-10-29T12:20:16+00:00",
    "url": "https://marioadolfo.com/omar-aziz-e-roberto-cidade-se-reunem-nesta-quinta-feira-para-dar-inicio-a-transicao-de-governo/",
    "url_hash": "c7eaf61901692d13f2a642d4"
+  },
+  "guid:6ae339c052c09500099df8d0": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Segunda fase da Gatekeeper cumpre mandados de prisão e busca e apreensão, além de bloquear até R$ 31 milhões dos investigados.",
+   "discovered_at": "2026-10-29T12:30:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae339c052c09500099df8d0",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/25f77b66-e03c-46aa-a81c-1db057ca2e71.png",
+   "key": "guid:6ae339c052c09500099df8d0",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-29T12:20:19+00:00",
+   "status": "pending",
+   "title": "PF faz operação contra tráfico de drogas por avião em Manaus e Coari",
+   "updated_at": "2026-10-29T12:30:19+00:00",
+   "url": "https://marioadolfo.com/pf-faz-operacao-contra-trafico-de-drogas-por-aviao-em-manaus-e-coari/",
+   "url_hash": "4663226745367d390c27e139"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-29T12:20:15+00:00",
-  "saved_at": "2026-10-29T12:20:16+00:00"
+  "last_run_at": "2026-10-29T12:30:18+00:00",
+  "saved_at": "2026-10-29T12:30:19+00:00"
  },
  "schema": 1
 }
