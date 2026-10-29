@@ -13094,11 +13094,19 @@
    "url_hash": "ebb4270cde7a751dd5ea39e1"
   },
   "guid:6ae20d1752c09500099df624": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-29T04:20:22+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1522059826611575",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "A 322ª reunião ordinária do Conselho de Desenvolvimento, nesta quinta-feira, será presidida pelo governador do Estado, Roberto Cidade, com 63 projetos na pauta",
    "discovered_at": "2026-10-28T15:10:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1522059826611575",
    "formats": [
     "link"
    ],
@@ -13106,20 +13114,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ef16f4eb-563b-465f-aa2a-d3411c4fc05b.jpeg",
    "key": "guid:6ae20d1752c09500099df624",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1522059826611575"
+   },
    "source_published_at": "2026-10-28T15:04:26+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Codam: projetos industriais no Amazonas preveem mais de 2 mil postos de trabalho",
-   "updated_at": "2026-10-28T15:10:17+00:00",
+   "updated_at": "2026-10-29T04:20:22+00:00",
    "url": "https://marioadolfo.com/codam-projetos-industriais-no-amazonas-preveem-mais-de-2-mil-postos-de-trabalho/",
    "url_hash": "476bf2f496463e47afa435bf"
   },
   "guid:6ae2151752c09500099df63a": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-29T04:20:47+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1522060103278214",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Calendário garante pagamento da folha de outubro nos dias 28 e 29, do 13º salário em 12 e 13 de novembro e das folhas de novembro e dezembro nos dias 26 e 27 e 23 e 24, respectivamente",
    "discovered_at": "2026-10-28T15:50:21+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1522060103278214",
    "formats": [
     "link"
    ],
@@ -13127,20 +13145,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/699aabe2-c3c8-42a7-bc4a-42c5fd664b07.jpeg",
    "key": "guid:6ae2151752c09500099df63a",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1522060103278214"
+   },
    "source_published_at": "2026-10-28T15:40:32+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Governo do AM antecipa pagamento de salários e anuncia datas do 13º",
-   "updated_at": "2026-10-28T15:50:21+00:00",
+   "updated_at": "2026-10-29T04:20:47+00:00",
    "url": "https://marioadolfo.com/governo-do-am-antecipa-pagamento-de-salarios-e-anuncia-datas-do-13o/",
    "url_hash": "3d90aa2d4f73827ad022f539"
   },
   "guid:6ae217b752c09500099df64e": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-29T04:21:13+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1522060406611517",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Homem foi atingido no abdômen durante luta corporal com o policial, que estava de folga no estabelecimento, no bairro Tarumã",
    "discovered_at": "2026-10-28T16:00:21+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1522060406611517",
    "formats": [
     "link"
    ],
@@ -13148,20 +13176,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/3c59b2b8-b4e7-42a3-9639-ae0713e20ab9.jpg",
    "key": "guid:6ae217b752c09500099df64e",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1522060406611517"
+   },
    "source_published_at": "2026-10-28T15:53:02+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Suspeito de assalto é baleado após tentar tomar arma de PM em mercadinho de Manaus",
-   "updated_at": "2026-10-28T16:00:21+00:00",
+   "updated_at": "2026-10-29T04:21:13+00:00",
    "url": "https://marioadolfo.com/suspeito-de-assalto-e-baleado-apos-tentar-tomar-arma-de-pm-em-mercadinho-de-manaus/",
    "url_hash": "c5e3f182ff2a37a1efd151d5"
   },
   "guid:6ae22bbd52c09500099df66b": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-29T04:21:38+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1522060663278158",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Projetos de sustentabilidade e inovação desenvolvidos por Marcelly Câmara garantiram à estudante da UEA reconhecimento nacional e uma viagem à China",
    "discovered_at": "2026-10-28T17:10:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1522060663278158",
    "formats": [
     "link"
    ],
@@ -13169,20 +13207,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/9c17a5c8-dc73-4aa0-8cf5-f83d00bedf7c.JPG",
    "key": "guid:6ae22bbd52c09500099df66b",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1522060663278158"
+   },
    "source_published_at": "2026-10-28T17:08:51+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Estudante da UEA vence prêmio e leva projetos amazônicos à China",
-   "updated_at": "2026-10-28T17:10:15+00:00",
+   "updated_at": "2026-10-29T04:21:38+00:00",
    "url": "https://marioadolfo.com/estudante-da-uea-vence-premio-e-leva-projetos-amazonicos-a-china/",
    "url_hash": "9e3cb8762d293b41dec33d79"
   },
   "guid:6ae22de752c09500099df67f": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-29T04:22:02+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1522061069944784",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Órgão reforça que biometria não é obrigatória para todos benefícios",
    "discovered_at": "2026-10-28T17:20:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1522061069944784",
    "formats": [
     "link"
    ],
@@ -13190,11 +13238,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b3880468-a716-4d4b-8e26-9f40d560716f.webp",
    "key": "guid:6ae22de752c09500099df67f",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1522061069944784"
+   },
    "source_published_at": "2026-10-28T17:17:43+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "INSS alerta para golpes que usam informação falsa sobre biometria",
-   "updated_at": "2026-10-28T17:20:16+00:00",
+   "updated_at": "2026-10-29T04:22:02+00:00",
    "url": "https://marioadolfo.com/inss-alerta-para-golpes-que-usam-informacao-falsa-sobre-biometria/",
    "url_hash": "9d8d2e5c2fa9b4ed05594bcb"
   },
@@ -13601,8 +13651,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-29T04:10:15+00:00",
-  "saved_at": "2026-10-29T04:12:08+00:00"
+  "last_run_at": "2026-10-29T04:20:15+00:00",
+  "saved_at": "2026-10-29T04:22:02+00:00"
  },
  "schema": 1
 }
