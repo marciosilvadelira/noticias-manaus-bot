@@ -13436,12 +13436,12 @@
    "guid": "6ae235a852c09500099df735",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/dccf0314-488c-4a51-a3eb-ddfaa5c378bd.png",
    "key": "guid:6ae235a852c09500099df735",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-28T17:51:58+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Mecânico desaparecido é encontrado morto e enterrado em área de mata em Manaus",
-   "updated_at": "2026-10-28T18:00:22+00:00",
+   "updated_at": "2026-10-29T18:00:22+00:00",
    "url": "https://marioadolfo.com/mecanico-desaparecido-e-encontrado-morto-e-enterrado-em-area-de-mata-em-manaus/",
    "url_hash": "e0406f262af6b24a96016c0e"
   },
@@ -14226,8 +14226,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-29T17:50:17+00:00",
-  "saved_at": "2026-10-29T17:50:19+00:00"
+  "last_run_at": "2026-10-29T18:00:22+00:00",
+  "saved_at": "2026-10-29T18:00:23+00:00"
  },
  "schema": 1
 }
