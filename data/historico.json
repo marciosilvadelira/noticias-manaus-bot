@@ -13249,11 +13249,19 @@
    "url_hash": "9d8d2e5c2fa9b4ed05594bcb"
   },
   "guid:6ae22ecc52c09500099df694": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-29T04:30:23+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1522066176610940",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Verba atende Amazonas, Pará e Acre e inclui ajuda humanitária",
    "discovered_at": "2026-10-28T17:30:20+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1522066176610940",
    "formats": [
     "link"
    ],
@@ -13261,20 +13269,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0489883b-6372-404e-b6cc-4328c27c69fa.webp",
    "key": "guid:6ae22ecc52c09500099df694",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1522066176610940"
+   },
    "source_published_at": "2026-10-28T17:21:24+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Governo libera R$ 68,6 milhões para combater incêndios e seca no Norte",
-   "updated_at": "2026-10-28T17:30:20+00:00",
+   "updated_at": "2026-10-29T04:30:23+00:00",
    "url": "https://marioadolfo.com/governo-libera-r-68-6-milhoes-para-combater-incendios-e-seca-no-norte/",
    "url_hash": "24bc788ba452b40840b18797"
   },
   "guid:6ae22fb452c09500099df6aa": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-29T04:30:48+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1522066466610911",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Perda de mandato atinge todos os eleitos pela chapa, mas inelegibilidade se aplica apenas às duas candidatas consideradas fictícias",
    "discovered_at": "2026-10-28T17:40:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1522066466610911",
    "formats": [
     "link"
    ],
@@ -13282,20 +13300,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/918814f6-08bd-4fb9-a221-dfd491e05a42.jpeg",
    "key": "guid:6ae22fb452c09500099df6aa",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1522066466610911"
+   },
    "source_published_at": "2026-10-28T17:30:36+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "TRE-AM esclarece efeitos de decisão sobre fraude à cota de gênero em Novo Aripuanã",
-   "updated_at": "2026-10-28T17:40:16+00:00",
+   "updated_at": "2026-10-29T04:30:48+00:00",
    "url": "https://marioadolfo.com/tre-am-esclarece-efeitos-de-decisao-sobre-fraude-a-cota-de-genero-em-novo-aripuana/",
    "url_hash": "051b440c3e6fdc5a8793d4ca"
   },
   "guid:6ae2306c52c09500099df6b4": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-29T04:31:13+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1522066769944214",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Segundo a Polícia Civil, mulher teria ajudado a planejar emboscada para roubar R$ 20 mil da vítima, morta a tiros em abril.",
    "discovered_at": "2026-10-28T17:40:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1522066769944214",
    "formats": [
     "link"
    ],
@@ -13303,20 +13331,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5691a5bd-b6b8-4ba3-8a84-0c6ad4fe8730.png",
    "key": "guid:6ae2306c52c09500099df6b4",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1522066769944214"
+   },
    "source_published_at": "2026-10-28T17:33:27+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Vídeo: suspeita de atrair idoso para emboscada é presa em Manaus",
-   "updated_at": "2026-10-28T17:40:16+00:00",
+   "updated_at": "2026-10-29T04:31:13+00:00",
    "url": "https://marioadolfo.com/mulher-e-presa-suspeita-de-atrair-idoso-para-emboscada-no-jorge-teixeira/",
    "url_hash": "8b1ee9566edeb458f7f9bc23"
   },
   "guid:6ae2342952c09500099df6f3": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-29T04:31:41+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1522067133277511",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Reintegração foi num terreno pertencente ao município e destinado às obras do programa habitacional do Governo Federal “Minha Casa, Minha Vida”",
    "discovered_at": "2026-10-28T17:50:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1522067133277511",
    "formats": [
     "link"
    ],
@@ -13324,20 +13362,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/8177e381-8d8b-48e5-8c3f-f4645b344cb7.jpeg",
    "key": "guid:6ae2342952c09500099df6f3",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1522067133277511"
+   },
    "source_published_at": "2026-10-28T17:46:05+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Defensoria aponta irregularidades em reintegração de posse no Santa Etelvina",
-   "updated_at": "2026-10-28T17:50:17+00:00",
+   "updated_at": "2026-10-29T04:31:41+00:00",
    "url": "https://marioadolfo.com/defensoria-aponta-irregularidades-em-reintegracao-de-posse-no-santa-etelvina/",
    "url_hash": "052fa5b880690ff66b218391"
   },
   "guid:6ae234bb52c09500099df6fe": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-29T04:32:05+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1522067436610814",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Criança de 9 anos encontrou a arma guardada em uma gaveta e a manuseava quando ocorreu o disparo, em Borba.",
    "discovered_at": "2026-10-28T17:50:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1522067436610814",
    "formats": [
     "link"
    ],
@@ -13345,11 +13393,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a14fc929-4fdd-4fc4-affa-fb2451f773f3.jpeg",
    "key": "guid:6ae234bb52c09500099df6fe",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1522067436610814"
+   },
    "source_published_at": "2026-10-28T17:48:16+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Menina de 2 anos morre após ser baleada pelo irmão no AM",
-   "updated_at": "2026-10-28T17:50:17+00:00",
+   "updated_at": "2026-10-29T04:32:05+00:00",
    "url": "https://marioadolfo.com/menina-de-2-anos-morre-apos-ser-baleada-pelo-irmao-no-am/",
    "url_hash": "4c4d9dc85afe26ba60ac8303"
   },
@@ -13651,8 +13701,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-29T04:20:15+00:00",
-  "saved_at": "2026-10-29T04:22:02+00:00"
+  "last_run_at": "2026-10-29T04:30:16+00:00",
+  "saved_at": "2026-10-29T04:32:05+00:00"
  },
  "schema": 1
 }
