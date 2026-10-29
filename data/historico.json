@@ -14095,13 +14095,55 @@
    "updated_at": "2026-10-29T16:00:21+00:00",
    "url": "https://marioadolfo.com/manaus-enfrenta-mais-um-dia-sem-qualidade-do-ar-boa/",
    "url_hash": "60d7099f991f328c15908497"
+  },
+  "guid:6ae3744152c09500099dfa6e": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "O curso será realizado de 4 a 6/11, das 9h às 12h, na Central do Empreendedor, localizada no shopping Phelippe Daou",
+   "discovered_at": "2026-10-29T16:40:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae3744152c09500099dfa6e",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/fdc652f4-cf14-4a64-bd81-ea1fc56613fa.jpeg",
+   "key": "guid:6ae3744152c09500099dfa6e",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-29T16:30:33+00:00",
+   "status": "pending",
+   "title": "Prefeitura de Manaus abre inscrições para curso gratuito de Metrologia Básica com 60 vagas",
+   "updated_at": "2026-10-29T16:40:16+00:00",
+   "url": "https://marioadolfo.com/prefeitura-de-manaus-abre-inscricoes-para-curso-gratuito-de-metrologia-basica-com-60-vagas/",
+   "url_hash": "d619572483896f8a156c30c1"
+  },
+  "guid:6ae374fd52c09500099dfa85": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Conselho de Desenvolvimento agora soma 277 projetos aprovados em 2026 e deve superar o melhor ano da história",
+   "discovered_at": "2026-10-29T16:40:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae374fd52c09500099dfa85",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6738ab62-243c-4610-ada3-ecaaa08609e9.jpeg",
+   "key": "guid:6ae374fd52c09500099dfa85",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-29T16:35:22+00:00",
+   "status": "pending",
+   "title": "Codam aprova recorde de investimentos de R$ 1,6 bilhão e mais de 2 mil novos empregos",
+   "updated_at": "2026-10-29T16:40:16+00:00",
+   "url": "https://marioadolfo.com/codam-aprova-recorde-de-investimentos-de-r-1-6-bilhao-e-mais-de-2-mil-novos-empregos/",
+   "url_hash": "20764d997e24aed8fb7961d4"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-29T16:30:18+00:00",
-  "saved_at": "2026-10-29T16:30:19+00:00"
+  "last_run_at": "2026-10-29T16:40:14+00:00",
+  "saved_at": "2026-10-29T16:40:16+00:00"
  },
  "schema": 1
 }
