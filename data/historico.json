@@ -13948,13 +13948,34 @@
    "updated_at": "2026-10-29T15:10:15+00:00",
    "url": "https://marioadolfo.com/teatro-amazonas-abre-as-portas-para-espetaculos-do-liceu-de-artes-e-oficios-claudio-santoro/",
    "url_hash": "ffcf1b6cfb5c2b2bb2857c2b"
+  },
+  "guid:6ae3625252c09500099df9d2": {
+   "attempts": [],
+   "category": "",
+   "description": "De acordo com o delegado Charles Araújo, coordenador do Nurrc, os quatro suspeitos, que estavam armados, entraram no coletivo e anunciaram o assalto",
+   "discovered_at": "2026-10-29T15:20:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae3625252c09500099df9d2",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c9fa1d62-e57e-4c4f-94a7-6403870bf2bf.jpg",
+   "key": "guid:6ae3625252c09500099df9d2",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-29T15:17:40+00:00",
+   "status": "pending",
+   "title": "Vídeo: grupo é procurado por assalto a ônibus da linha 650 em Manaus",
+   "updated_at": "2026-10-29T15:20:15+00:00",
+   "url": "https://marioadolfo.com/video-grupo-e-procurado-por-assalto-a-onibus-da-linha-650-em-manaus/",
+   "url_hash": "93dfe094998591a131b57eb0"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-29T15:10:15+00:00",
-  "saved_at": "2026-10-29T15:10:16+00:00"
+  "last_run_at": "2026-10-29T15:20:15+00:00",
+  "saved_at": "2026-10-29T15:20:16+00:00"
  },
  "schema": 1
 }
