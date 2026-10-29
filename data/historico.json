@@ -14137,13 +14137,55 @@
    "updated_at": "2026-10-29T16:40:16+00:00",
    "url": "https://marioadolfo.com/codam-aprova-recorde-de-investimentos-de-r-1-6-bilhao-e-mais-de-2-mil-novos-empregos/",
    "url_hash": "20764d997e24aed8fb7961d4"
+  },
+  "guid:6ae3773552c09500099dfaac": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Governador eleito afirma que transição terá participação técnica e política e cita saúde, segurança e educação entre as áreas prioritárias",
+   "discovered_at": "2026-10-29T17:00:23+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae3773552c09500099dfaac",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a503b1ce-c8ae-43e0-9046-f708c909613e.jpeg",
+   "key": "guid:6ae3773552c09500099dfaac",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-29T16:52:26+00:00",
+   "status": "pending",
+   "title": "Omar Aziz diz que vai levantar situação das secretarias antes de definir equipe de governo",
+   "updated_at": "2026-10-29T17:00:23+00:00",
+   "url": "https://marioadolfo.com/omar-aziz-diz-que-vai-levantar-situacao-das-secretarias-antes-de-definir-equipe-de-governo/",
+   "url_hash": "f939056d69faa8d19dcfddc2"
+  },
+  "guid:6ae3794652c09500099dfaba": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Festival do Cinema Brasileiro reúne salas de cinema de todo o país",
+   "discovered_at": "2026-10-29T17:00:23+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae3794652c09500099dfaba",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/7f13611d-2adf-48eb-9256-4e2a63bc4db4.webp",
+   "key": "guid:6ae3794652c09500099dfaba",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-29T16:51:15+00:00",
+   "status": "pending",
+   "title": "Começa festival de filmes brasileiros com ingressos a R$ 12",
+   "updated_at": "2026-10-29T17:00:23+00:00",
+   "url": "https://marioadolfo.com/comeca-festival-de-filmes-brasileiros-com-ingressos-a-r-12/",
+   "url_hash": "ad8460d8e825550c903143d4"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-29T16:50:16+00:00",
-  "saved_at": "2026-10-29T16:50:17+00:00"
+  "last_run_at": "2026-10-29T17:00:22+00:00",
+  "saved_at": "2026-10-29T17:00:23+00:00"
  },
  "schema": 1
 }
