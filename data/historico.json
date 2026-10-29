@@ -13457,12 +13457,12 @@
    "guid": "6ae23a4852c09500099df753",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/469676ef-00dd-4135-a6fc-ebe70ed2c198.jpg",
    "key": "guid:6ae23a4852c09500099df753",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-28T18:16:33+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Atletas do Amazonas são convocados pela Confederação Brasileira de Tênis de Mesa",
-   "updated_at": "2026-10-28T18:20:16+00:00",
+   "updated_at": "2026-10-29T18:20:14+00:00",
    "url": "https://marioadolfo.com/atletas-do-amazonas-sao-convocados-pela-confederacao-brasileira-de-tenis-de-mesa/",
    "url_hash": "e91fb0965133f72c374b1d9b"
   },
@@ -14226,8 +14226,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-29T18:10:14+00:00",
-  "saved_at": "2026-10-29T18:10:16+00:00"
+  "last_run_at": "2026-10-29T18:20:14+00:00",
+  "saved_at": "2026-10-29T18:20:15+00:00"
  },
  "schema": 1
 }
