@@ -14053,13 +14053,34 @@
    "updated_at": "2026-10-29T15:40:16+00:00",
    "url": "https://marioadolfo.com/denuncias-de-assedio-eleitoral-no-trabalho-disparam-75-apos-2o-turno/",
    "url_hash": "5e05d571319cea685337a3fc"
+  },
+  "guid:6ae3686152c09500099dfa3f": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "O pai utilizava um aplicativo de mensagens para solicitar à filha o envio de imagens íntimas",
+   "discovered_at": "2026-10-29T15:50:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae3686152c09500099dfa3f",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/96d0d8c6-a4e2-4e09-a961-c5ef2f8af372.jpeg",
+   "key": "guid:6ae3686152c09500099dfa3f",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-29T15:44:46+00:00",
+   "status": "pending",
+   "title": "Pai é preso pelo estupro da filha de 11 anos em Manaus",
+   "updated_at": "2026-10-29T15:50:15+00:00",
+   "url": "https://marioadolfo.com/pai-e-preso-pelo-estupro-da-propria-filha-em-manaus/",
+   "url_hash": "98d054a03169e27cb5cd9f3a"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-29T15:40:15+00:00",
-  "saved_at": "2026-10-29T15:40:17+00:00"
+  "last_run_at": "2026-10-29T15:50:14+00:00",
+  "saved_at": "2026-10-29T15:50:15+00:00"
  },
  "schema": 1
 }
