@@ -13801,13 +13801,55 @@
    "updated_at": "2026-10-29T13:00:21+00:00",
    "url": "https://marioadolfo.com/hemoam-reforca-apelo-por-doacao-de-sangue-voluntaria/",
    "url_hash": "b7363b61ab0c6a082f5a9b5d"
+  },
+  "guid:6ae3432952c09500099df93d": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Ação acontece nesta sexta-feira, no posto do Sine Manaus, no shopping Phelippe Daou",
+   "discovered_at": "2026-10-29T13:10:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae3432952c09500099df93d",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f203e71a-8109-4dc5-a633-d1ef4b37642d.jpeg",
+   "key": "guid:6ae3432952c09500099df93d",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-29T13:04:09+00:00",
+   "status": "pending",
+   "title": "Megafeirão de Empregabilidade em Manaus conta com participação de 30 empresas",
+   "updated_at": "2026-10-29T13:10:16+00:00",
+   "url": "https://marioadolfo.com/megafeirao-de-empregabilidade-em-manaus-conta-com-participacao-de-30-empresas/",
+   "url_hash": "7a6bfe6e3544baf46d4e49f4"
+  },
+  "guid:6ae3445952c09500099df953": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Operação Navegação Paralela mira grupo suspeito de fornecer insumos e transporte para a extração mineral clandestina, além de apurar indícios de lavagem de dinheiro",
+   "discovered_at": "2026-10-29T13:10:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae3445952c09500099df953",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/62777090-865b-4673-91ab-05c2ae46ee42.jpg",
+   "key": "guid:6ae3445952c09500099df953",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-29T13:05:28+00:00",
+   "status": "pending",
+   "title": "PF bloqueia mais de R$ 35 milhões em operação contra garimpo ilegal no AM",
+   "updated_at": "2026-10-29T13:10:16+00:00",
+   "url": "https://marioadolfo.com/pf-bloqueia-mais-de-r-35-milhoes-em-operacao-contra-garimpo-ilegal-no-am/",
+   "url_hash": "1f5423aded74625561654b9d"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-29T13:00:20+00:00",
-  "saved_at": "2026-10-29T13:00:22+00:00"
+  "last_run_at": "2026-10-29T13:10:15+00:00",
+  "saved_at": "2026-10-29T13:10:17+00:00"
  },
  "schema": 1
 }
