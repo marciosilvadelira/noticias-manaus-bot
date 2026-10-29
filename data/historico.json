@@ -13478,12 +13478,12 @@
    "guid": "6ae240ad52c09500099df788",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/9dd67070-30db-4e79-adde-83a4f16ee3cb.jpg",
    "key": "guid:6ae240ad52c09500099df788",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-28T18:37:21+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Consumo de alimentos cresce após proibição das bets no país, diz Abras",
-   "updated_at": "2026-10-28T18:40:17+00:00",
+   "updated_at": "2026-10-29T18:40:15+00:00",
    "url": "https://marioadolfo.com/consumo-de-alimentos-cresce-apos-proibicao-das-bets-no-pais-diz-abras/",
    "url_hash": "1e451d5af398c4955fa0471d"
   },
@@ -14226,8 +14226,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-29T18:30:18+00:00",
-  "saved_at": "2026-10-29T18:30:19+00:00"
+  "last_run_at": "2026-10-29T18:40:15+00:00",
+  "saved_at": "2026-10-29T18:40:16+00:00"
  },
  "schema": 1
 }
