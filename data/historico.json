@@ -13759,13 +13759,55 @@
    "updated_at": "2026-10-29T12:30:19+00:00",
    "url": "https://marioadolfo.com/pf-faz-operacao-contra-trafico-de-drogas-por-aviao-em-manaus-e-coari/",
    "url_hash": "4663226745367d390c27e139"
+  },
+  "guid:6ae33a9652c09500099df8e7": {
+   "attempts": [],
+   "category": "Dito & Feito",
+   "description": "Está na hora da direita abandonar o bolsonarismo criminoso e covarde, trabalhar um nome sério e que respeite a democracia, para disputar a próxima eleição",
+   "discovered_at": "2026-10-29T13:00:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae33a9652c09500099df8e7",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/9b911df5-6cd2-473d-9dca-858ca23c9018.jpeg",
+   "key": "guid:6ae33a9652c09500099df8e7",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-29T12:53:34+00:00",
+   "status": "pending",
+   "title": "Dito & Feito: JÁ DEU, NÃO É?",
+   "updated_at": "2026-10-29T13:00:21+00:00",
+   "url": "https://marioadolfo.com/dito-feito-ja-deu-nao-e/",
+   "url_hash": "050baf37b41bd2bf0b6ebbf6"
+  },
+  "guid:6ae3420452c09500099df928": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Normas flexibilizam critérios, mas encerra a modalidade de doação de reposição, responsável por metade das bolsas no estado",
+   "discovered_at": "2026-10-29T13:00:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae3420452c09500099df928",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5984fd89-cbdb-4422-be7a-20699dfe519b.jpeg",
+   "key": "guid:6ae3420452c09500099df928",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-29T12:58:56+00:00",
+   "status": "pending",
+   "title": "Hemoam reforça apelo por doação de sangue voluntária",
+   "updated_at": "2026-10-29T13:00:21+00:00",
+   "url": "https://marioadolfo.com/hemoam-reforca-apelo-por-doacao-de-sangue-voluntaria/",
+   "url_hash": "b7363b61ab0c6a082f5a9b5d"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-29T12:50:14+00:00",
-  "saved_at": "2026-10-29T12:50:15+00:00"
+  "last_run_at": "2026-10-29T13:00:20+00:00",
+  "saved_at": "2026-10-29T13:00:22+00:00"
  },
  "schema": 1
 }
