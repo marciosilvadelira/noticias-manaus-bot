@@ -14179,13 +14179,34 @@
    "updated_at": "2026-10-29T17:00:23+00:00",
    "url": "https://marioadolfo.com/comeca-festival-de-filmes-brasileiros-com-ingressos-a-r-12/",
    "url_hash": "ad8460d8e825550c903143d4"
+  },
+  "guid:6ae37f1552c09500099dfae1": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Vítima foi baleada pelo investigado em 2013 e voltou a sofrer ameaças e perseguição",
+   "discovered_at": "2026-10-29T17:30:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae37f1552c09500099dfae1",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/810ad5b8-da1b-43ba-9f27-76700d553e9a.jpeg",
+   "key": "guid:6ae37f1552c09500099dfae1",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-29T17:22:49+00:00",
+   "status": "pending",
+   "title": "Homem é preso por perseguir, ameaçar e tentar matar ex-companheira",
+   "updated_at": "2026-10-29T17:30:19+00:00",
+   "url": "https://marioadolfo.com/homem-e-preso-por-perseguir-ameacar-e-tentar-matar-ex-companheira/",
+   "url_hash": "5ad06b9f895108350a4cc3b8"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-29T17:20:15+00:00",
-  "saved_at": "2026-10-29T17:20:16+00:00"
+  "last_run_at": "2026-10-29T17:30:18+00:00",
+  "saved_at": "2026-10-29T17:30:19+00:00"
  },
  "schema": 1
 }
