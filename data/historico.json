@@ -13969,13 +13969,76 @@
    "updated_at": "2026-10-29T15:20:15+00:00",
    "url": "https://marioadolfo.com/video-grupo-e-procurado-por-assalto-a-onibus-da-linha-650-em-manaus/",
    "url_hash": "93dfe094998591a131b57eb0"
+  },
+  "guid:6ae3642152c09500099df9e4": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Eduardo Braga defendeu a medida em plenário e destacou a importância do benefício para manter profissionais em regiões estratégicas",
+   "discovered_at": "2026-10-29T15:30:22+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae3642152c09500099df9e4",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/fe0910ed-3665-4b89-9ec3-6eb28a2bc2b4.jpeg",
+   "key": "guid:6ae3642152c09500099df9e4",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-29T15:22:17+00:00",
+   "status": "pending",
+   "title": "Senado aprova ampliação do adicional para servidores federais em áreas de fronteira",
+   "updated_at": "2026-10-29T15:30:22+00:00",
+   "url": "https://marioadolfo.com/senado-aprova-ampliacao-do-adicional-para-servidores-federais-em-areas-de-fronteira/",
+   "url_hash": "1886b503274b40fae8ce7c50"
+  },
+  "guid:6ae3655052c09500099df9fd": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Recursos fazem parte do Move Brasil e serão geridos pelo BNDES",
+   "discovered_at": "2026-10-29T15:30:22+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae3655052c09500099df9fd",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/7e7b3f6d-be1b-4ae5-8eb1-5d6b6b65386f.jpg",
+   "key": "guid:6ae3655052c09500099df9fd",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-29T15:26:47+00:00",
+   "status": "pending",
+   "title": "Governo autoriza contrato de R$ 30 bi para motoristas de aplicativos",
+   "updated_at": "2026-10-29T15:30:22+00:00",
+   "url": "https://marioadolfo.com/governo-autoriza-contrato-de-r-30-bi-para-motoristas-de-aplicativos/",
+   "url_hash": "e92ef7e03f68805f43cb83e1"
+  },
+  "guid:6ae3658752c09500099dfa05": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Com entrada gratuita, o evento reúne editoras, livrarias, escritores e leitores",
+   "discovered_at": "2026-10-29T15:30:22+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae3658752c09500099dfa05",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c6680472-e61d-4e4f-a3ff-902c7f3f6664.jpeg",
+   "key": "guid:6ae3658752c09500099dfa05",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-29T15:27:46+00:00",
+   "status": "pending",
+   "title": "41ª Feira de Livros do Sesc começa nesta quinta-feira (29) com atividades gratuitas",
+   "updated_at": "2026-10-29T15:30:22+00:00",
+   "url": "https://marioadolfo.com/41a-feira-de-livros-do-sesc-comeca-nesta-quinta-feira-29-com-atividades-gratuitas/",
+   "url_hash": "097c3979328c0688cf523bc3"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-29T15:20:15+00:00",
-  "saved_at": "2026-10-29T15:20:16+00:00"
+  "last_run_at": "2026-10-29T15:30:21+00:00",
+  "saved_at": "2026-10-29T15:30:23+00:00"
  },
  "schema": 1
 }
