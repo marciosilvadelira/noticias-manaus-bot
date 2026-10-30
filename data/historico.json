@@ -14163,11 +14163,19 @@
    "url_hash": "e92ef7e03f68805f43cb83e1"
   },
   "guid:6ae3658752c09500099dfa05": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-30T04:30:23+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1523170306500527",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Com entrada gratuita, o evento reúne editoras, livrarias, escritores e leitores",
    "discovered_at": "2026-10-29T15:30:22+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1523170306500527",
    "formats": [
     "link"
    ],
@@ -14175,20 +14183,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c6680472-e61d-4e4f-a3ff-902c7f3f6664.jpeg",
    "key": "guid:6ae3658752c09500099dfa05",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1523170306500527"
+   },
    "source_published_at": "2026-10-29T15:27:46+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "41ª Feira de Livros do Sesc começa nesta quinta-feira (29) com atividades gratuitas",
-   "updated_at": "2026-10-29T15:30:22+00:00",
+   "updated_at": "2026-10-30T04:30:23+00:00",
    "url": "https://marioadolfo.com/41a-feira-de-livros-do-sesc-comeca-nesta-quinta-feira-29-com-atividades-gratuitas/",
    "url_hash": "097c3979328c0688cf523bc3"
   },
   "guid:6ae3662e52c09500099dfa28": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-30T04:30:47+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1523170583167166",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Empregador pode ser obrigado a reintegrar e pagar salário em dobro",
    "discovered_at": "2026-10-29T15:40:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1523170583167166",
    "formats": [
     "link"
    ],
@@ -14196,20 +14214,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6997d15e-8a1b-40b9-a0a0-0cd4a48b66dd.jpeg",
    "key": "guid:6ae3662e52c09500099dfa28",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1523170583167166"
+   },
    "source_published_at": "2026-10-29T15:31:33+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Denúncias de assédio eleitoral no trabalho disparam 75% após 2º turno",
-   "updated_at": "2026-10-29T15:40:16+00:00",
+   "updated_at": "2026-10-30T04:30:47+00:00",
    "url": "https://marioadolfo.com/denuncias-de-assedio-eleitoral-no-trabalho-disparam-75-apos-2o-turno/",
    "url_hash": "5e05d571319cea685337a3fc"
   },
   "guid:6ae3686152c09500099dfa3f": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-30T04:31:11+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1523170846500473",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "O pai utilizava um aplicativo de mensagens para solicitar à filha o envio de imagens íntimas",
    "discovered_at": "2026-10-29T15:50:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1523170846500473",
    "formats": [
     "link"
    ],
@@ -14217,20 +14245,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/96d0d8c6-a4e2-4e09-a961-c5ef2f8af372.jpeg",
    "key": "guid:6ae3686152c09500099dfa3f",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1523170846500473"
+   },
    "source_published_at": "2026-10-29T15:44:46+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Pai é preso pelo estupro da filha de 11 anos em Manaus",
-   "updated_at": "2026-10-29T15:50:15+00:00",
+   "updated_at": "2026-10-30T04:31:11+00:00",
    "url": "https://marioadolfo.com/pai-e-preso-pelo-estupro-da-propria-filha-em-manaus/",
    "url_hash": "98d054a03169e27cb5cd9f3a"
   },
   "guid:6ae36a9d52c09500099dfa58": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-30T04:31:36+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1523171123167112",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Os indicadores apresentados na capital variam entre moderado, ruim e muito ruim segundo sistema Selva",
    "discovered_at": "2026-10-29T16:00:21+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1523171123167112",
    "formats": [
     "link"
    ],
@@ -14238,20 +14276,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/40e9b0aa-7a8e-4b06-b162-d1932b1d76e4.webp",
    "key": "guid:6ae36a9d52c09500099dfa58",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1523171123167112"
+   },
    "source_published_at": "2026-10-29T15:53:07+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Manaus enfrenta mais um dia sem qualidade do ar boa",
-   "updated_at": "2026-10-29T16:00:21+00:00",
+   "updated_at": "2026-10-30T04:31:36+00:00",
    "url": "https://marioadolfo.com/manaus-enfrenta-mais-um-dia-sem-qualidade-do-ar-boa/",
    "url_hash": "60d7099f991f328c15908497"
   },
   "guid:6ae3744152c09500099dfa6e": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-30T04:32:01+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1523171383167086",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "O curso será realizado de 4 a 6/11, das 9h às 12h, na Central do Empreendedor, localizada no shopping Phelippe Daou",
    "discovered_at": "2026-10-29T16:40:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1523171383167086",
    "formats": [
     "link"
    ],
@@ -14259,11 +14307,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/fdc652f4-cf14-4a64-bd81-ea1fc56613fa.jpeg",
    "key": "guid:6ae3744152c09500099dfa6e",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1523171383167086"
+   },
    "source_published_at": "2026-10-29T16:30:33+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Prefeitura de Manaus abre inscrições para curso gratuito de Metrologia Básica com 60 vagas",
-   "updated_at": "2026-10-29T16:40:16+00:00",
+   "updated_at": "2026-10-30T04:32:01+00:00",
    "url": "https://marioadolfo.com/prefeitura-de-manaus-abre-inscricoes-para-curso-gratuito-de-metrologia-basica-com-60-vagas/",
    "url_hash": "d619572483896f8a156c30c1"
   },
@@ -14607,8 +14657,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-30T04:20:13+00:00",
-  "saved_at": "2026-10-30T04:22:01+00:00"
+  "last_run_at": "2026-10-30T04:30:16+00:00",
+  "saved_at": "2026-10-30T04:32:01+00:00"
  },
  "schema": 1
 }
