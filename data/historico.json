@@ -14008,11 +14008,19 @@
    "url_hash": "5092cd6b1a19885d18e03439"
   },
   "guid:6ae3610352c09500099df9aa": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-30T04:20:21+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1523162706501287",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Programa oferece 24 vagas para ingresso no primeiro semestre de 2027, nos municípios de Manaus e Tefé",
    "discovered_at": "2026-10-29T15:10:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1523162706501287",
    "formats": [
     "link"
    ],
@@ -14020,20 +14028,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/9e1b1e7e-bdf9-4bbf-b91b-cc3ce4dec637.jpeg",
    "key": "guid:6ae3610352c09500099df9aa",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1523162706501287"
+   },
    "source_published_at": "2026-10-29T15:07:32+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "UEA prorroga inscrições do Mestrado em Ciências Humanas até 3 de novembro",
-   "updated_at": "2026-10-29T15:10:15+00:00",
+   "updated_at": "2026-10-30T04:20:21+00:00",
    "url": "https://marioadolfo.com/uea-prorroga-inscricoes-do-mestrado-em-ciencias-humanas-ate-3-de-novembro/",
    "url_hash": "7f175b5ae566b03ac0944d68"
   },
   "guid:6ae3615152c09500099df9be": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-30T04:20:46+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1523163036501254",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Apresentações gratuitas nos dias 31 de outubro e 1º de novembro reúnem dança, música, teatro e artes visuais em celebração à formação artística",
    "discovered_at": "2026-10-29T15:10:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1523163036501254",
    "formats": [
     "link"
    ],
@@ -14041,20 +14059,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b4253ce4-0370-4cd1-98ef-df83b2fbda0b.jpeg",
    "key": "guid:6ae3615152c09500099df9be",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1523163036501254"
+   },
    "source_published_at": "2026-10-29T15:09:01+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Teatro Amazonas abre as portas para espetáculos do Liceu de Artes e Ofícios Cláudio Santoro",
-   "updated_at": "2026-10-29T15:10:15+00:00",
+   "updated_at": "2026-10-30T04:20:46+00:00",
    "url": "https://marioadolfo.com/teatro-amazonas-abre-as-portas-para-espetaculos-do-liceu-de-artes-e-oficios-claudio-santoro/",
    "url_hash": "ffcf1b6cfb5c2b2bb2857c2b"
   },
   "guid:6ae3625252c09500099df9d2": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-30T04:21:11+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1523163373167887",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "",
    "description": "De acordo com o delegado Charles Araújo, coordenador do Nurrc, os quatro suspeitos, que estavam armados, entraram no coletivo e anunciaram o assalto",
    "discovered_at": "2026-10-29T15:20:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1523163373167887",
    "formats": [
     "link"
    ],
@@ -14062,20 +14090,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c9fa1d62-e57e-4c4f-94a7-6403870bf2bf.jpg",
    "key": "guid:6ae3625252c09500099df9d2",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1523163373167887"
+   },
    "source_published_at": "2026-10-29T15:17:40+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Vídeo: grupo é procurado por assalto a ônibus da linha 650 em Manaus",
-   "updated_at": "2026-10-29T15:20:15+00:00",
+   "updated_at": "2026-10-30T04:21:11+00:00",
    "url": "https://marioadolfo.com/video-grupo-e-procurado-por-assalto-a-onibus-da-linha-650-em-manaus/",
    "url_hash": "93dfe094998591a131b57eb0"
   },
   "guid:6ae3642152c09500099df9e4": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-30T04:21:37+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1523163696501188",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Eduardo Braga defendeu a medida em plenário e destacou a importância do benefício para manter profissionais em regiões estratégicas",
    "discovered_at": "2026-10-29T15:30:22+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1523163696501188",
    "formats": [
     "link"
    ],
@@ -14083,20 +14121,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/fe0910ed-3665-4b89-9ec3-6eb28a2bc2b4.jpeg",
    "key": "guid:6ae3642152c09500099df9e4",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1523163696501188"
+   },
    "source_published_at": "2026-10-29T15:22:17+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Senado aprova ampliação do adicional para servidores federais em áreas de fronteira",
-   "updated_at": "2026-10-29T15:30:22+00:00",
+   "updated_at": "2026-10-30T04:21:37+00:00",
    "url": "https://marioadolfo.com/senado-aprova-ampliacao-do-adicional-para-servidores-federais-em-areas-de-fronteira/",
    "url_hash": "1886b503274b40fae8ce7c50"
   },
   "guid:6ae3655052c09500099df9fd": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-30T04:22:01+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1523163933167831",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Recursos fazem parte do Move Brasil e serão geridos pelo BNDES",
    "discovered_at": "2026-10-29T15:30:22+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1523163933167831",
    "formats": [
     "link"
    ],
@@ -14104,11 +14152,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/7e7b3f6d-be1b-4ae5-8eb1-5d6b6b65386f.jpg",
    "key": "guid:6ae3655052c09500099df9fd",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1523163933167831"
+   },
    "source_published_at": "2026-10-29T15:26:47+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Governo autoriza contrato de R$ 30 bi para motoristas de aplicativos",
-   "updated_at": "2026-10-29T15:30:22+00:00",
+   "updated_at": "2026-10-30T04:22:01+00:00",
    "url": "https://marioadolfo.com/governo-autoriza-contrato-de-r-30-bi-para-motoristas-de-aplicativos/",
    "url_hash": "e92ef7e03f68805f43cb83e1"
   },
@@ -14557,8 +14607,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-30T04:10:13+00:00",
-  "saved_at": "2026-10-30T04:12:10+00:00"
+  "last_run_at": "2026-10-30T04:20:13+00:00",
+  "saved_at": "2026-10-30T04:22:01+00:00"
  },
  "schema": 1
 }
