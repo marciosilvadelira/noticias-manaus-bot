@@ -13853,11 +13853,19 @@
    "url_hash": "b7363b61ab0c6a082f5a9b5d"
   },
   "guid:6ae3432952c09500099df93d": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-30T04:10:25+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1523156563168568",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Ação acontece nesta sexta-feira, no posto do Sine Manaus, no shopping Phelippe Daou",
    "discovered_at": "2026-10-29T13:10:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1523156563168568",
    "formats": [
     "link"
    ],
@@ -13865,20 +13873,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f203e71a-8109-4dc5-a633-d1ef4b37642d.jpeg",
    "key": "guid:6ae3432952c09500099df93d",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1523156563168568"
+   },
    "source_published_at": "2026-10-29T13:04:09+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Megafeirão de Empregabilidade em Manaus conta com participação de 30 empresas",
-   "updated_at": "2026-10-29T13:10:16+00:00",
+   "updated_at": "2026-10-30T04:10:25+00:00",
    "url": "https://marioadolfo.com/megafeirao-de-empregabilidade-em-manaus-conta-com-participacao-de-30-empresas/",
    "url_hash": "7a6bfe6e3544baf46d4e49f4"
   },
   "guid:6ae3445952c09500099df953": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-30T04:10:50+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1523157009835190",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Operação Navegação Paralela mira grupo suspeito de fornecer insumos e transporte para a extração mineral clandestina, além de apurar indícios de lavagem de dinheiro",
    "discovered_at": "2026-10-29T13:10:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1523157009835190",
    "formats": [
     "link"
    ],
@@ -13886,20 +13904,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/62777090-865b-4673-91ab-05c2ae46ee42.jpg",
    "key": "guid:6ae3445952c09500099df953",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1523157009835190"
+   },
    "source_published_at": "2026-10-29T13:05:28+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "PF bloqueia mais de R$ 35 milhões em operação contra garimpo ilegal no AM",
-   "updated_at": "2026-10-29T13:10:16+00:00",
+   "updated_at": "2026-10-30T04:10:50+00:00",
    "url": "https://marioadolfo.com/pf-bloqueia-mais-de-r-35-milhoes-em-operacao-contra-garimpo-ilegal-no-am/",
    "url_hash": "1f5423aded74625561654b9d"
   },
   "guid:6ae3481652c09500099df968": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-30T04:11:15+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1523157336501824",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Polícia Federal apreendeu um celular para buscar evidências de armazenamento e compartilhamento de arquivos ilegais.",
    "discovered_at": "2026-10-29T13:30:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1523157336501824",
    "formats": [
     "link"
    ],
@@ -13907,20 +13935,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/32250851-0094-46e1-998e-bf462801b0c2.jpeg",
    "key": "guid:6ae3481652c09500099df968",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1523157336501824"
+   },
    "source_published_at": "2026-10-29T13:22:44+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Operação Harpia investiga crimes de abuso sexual infantojuvenil em Manaus",
-   "updated_at": "2026-10-29T13:30:18+00:00",
+   "updated_at": "2026-10-30T04:11:15+00:00",
    "url": "https://marioadolfo.com/operacao-harpia-investiga-crimes-de-abuso-sexual-infantojuvenil-em-manaus/",
    "url_hash": "b7d5b1e196f6f0f06c81bcd5"
   },
   "guid:6ae3572852c09500099df97c": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-30T04:11:42+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1523157609835130",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Iniciativa do Ministério das Comunicações vai levar internet de alta velocidade e Wi-Fi às unidades de assistência social, facilitando o atendimento às famílias e o acesso a serviços públicos",
    "discovered_at": "2026-10-29T14:30:19+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1523157609835130",
    "formats": [
     "link"
    ],
@@ -13928,20 +13966,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/bbe2df27-918c-46bc-8885-65af34802cb2.jpg",
    "key": "guid:6ae3572852c09500099df97c",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1523157609835130"
+   },
    "source_published_at": "2026-10-29T14:28:27+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "AM terá mais 29 CRAS conectados à internet com investimento de R$ 928 mil do Governo Federal",
-   "updated_at": "2026-10-29T14:30:19+00:00",
+   "updated_at": "2026-10-30T04:11:42+00:00",
    "url": "https://marioadolfo.com/am-tera-mais-29-cras-conectados-a-internet-com-investimento-de-r-928-mil-do-governo-federal/",
    "url_hash": "1c7ed338f27f38888f015042"
   },
   "guid:6ae35e4452c09500099df992": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-30T04:12:10+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1523157856501772",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Competição começa nesta sexta-feira (30), com inscrições até 29 de outubro, vagas limitadas e disputa pelos títulos Absoluto e Feminino. Mestre Nacional Pedro Morales está confirmado, e a premiação total é de R$ 1.600",
    "discovered_at": "2026-10-29T15:00:22+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1523157856501772",
    "formats": [
     "link"
    ],
@@ -13949,11 +13997,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b7a97aca-15b3-4686-9648-73edadab9ad0.jpeg",
    "key": "guid:6ae35e4452c09500099df992",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1523157856501772"
+   },
    "source_published_at": "2026-10-29T14:56:52+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Campeonato Amazonense de Xadrez 2026 reúne talentos e grandes nomes da modalidade em Manaus",
-   "updated_at": "2026-10-29T15:00:22+00:00",
+   "updated_at": "2026-10-30T04:12:10+00:00",
    "url": "https://marioadolfo.com/campeonato-amazonense-de-xadrez-2026-reune-talentos-e-grandes-nomes-da-modalidade-em-manaus/",
    "url_hash": "5092cd6b1a19885d18e03439"
   },
@@ -14507,8 +14557,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-30T04:00:21+00:00",
-  "saved_at": "2026-10-30T04:02:11+00:00"
+  "last_run_at": "2026-10-30T04:10:13+00:00",
+  "saved_at": "2026-10-30T04:12:10+00:00"
  },
  "schema": 1
 }
