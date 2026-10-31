@@ -15118,6 +15118,37 @@
    "url": "https://marioadolfo.com/justica-manda-meta-excluir-posts-sobre-demissao-por-voto-politico/",
    "url_hash": "e8305993801b24ac8ed279d8"
   },
+  "guid:6ae50d6652c09500099dff66": {
+   "attempts": [
+    {
+     "at": "2026-10-31T11:40:21+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1524533183030906",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "A capacitação está com as inscrições abertas, disponibilizando 50 vagas. As aulas acontecerão das 9h às 11h30, na galeria dos Remédios",
+   "discovered_at": "2026-10-31T11:40:15+00:00",
+   "fb_post_id": "107393769293726_1524533183030906",
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae50d6652c09500099dff66",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d9051566-308e-4714-bd53-3b5c67ec262b.jpeg",
+   "key": "guid:6ae50d6652c09500099dff66",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1524533183030906"
+   },
+   "source_published_at": "2026-10-31T11:30:36+00:00",
+   "status": "published",
+   "title": "Treinamento gratuito prepara empreendedores na gestão de pessoas",
+   "updated_at": "2026-10-31T11:40:21+00:00",
+   "url": "https://marioadolfo.com/treinamento-gratuito-prepara-empreendedores-na-gestao-de-pessoas/",
+   "url_hash": "d6f48dc519ad96502c2a499a"
+  },
   "guid:6ae50e5652c09500099dff8e": {
    "attempts": [
     {
@@ -15148,13 +15179,75 @@
    "updated_at": "2026-10-31T11:30:26+00:00",
    "url": "https://marioadolfo.com/defensoria-pede-auxilio-moradia-para-familias-retiradas-de-terreno-no-santa-etelvina/",
    "url_hash": "d0f20d318daacab1dc46a034"
+  },
+  "guid:6ae50f3152c09500099dffa9": {
+   "attempts": [
+    {
+     "at": "2026-10-31T11:41:12+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1524533806364177",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "A celebração é após o reconhecimento oficial concedido em julho à candidatura conjunta “Teatros da Amazônia”, que inclui também o Theatro da Paz, em Belém",
+   "discovered_at": "2026-10-31T11:40:15+00:00",
+   "fb_post_id": "107393769293726_1524533806364177",
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae50f3152c09500099dffa9",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e487bb2f-99a7-444a-b9b1-f28f35f91982.jpeg",
+   "key": "guid:6ae50f3152c09500099dffa9",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1524533806364177"
+   },
+   "source_published_at": "2026-10-31T11:30:51+00:00",
+   "status": "published",
+   "title": "Teatro Amazonas recebe título de Patrimônio Mundial da Unesco na terça-feira (3)",
+   "updated_at": "2026-10-31T11:41:12+00:00",
+   "url": "https://marioadolfo.com/teatro-amazonas-recebe-titulo-de-patrimonio-mundial-da-unesco-na-terca-feira-3/",
+   "url_hash": "6ce90d1b4c218d43ee6ec0d0"
+  },
+  "guid:6ae54ffe52c09500099dffe3": {
+   "attempts": [
+    {
+     "at": "2026-10-31T11:40:45+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1524533483030876",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Polícia",
+   "description": "Crime ocorreu no bairro Senador José Esteves e causou comoção entre moradores da região",
+   "discovered_at": "2026-10-31T11:40:15+00:00",
+   "fb_post_id": "107393769293726_1524533483030876",
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae54ffe52c09500099dffe3",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/dfd9712f-f102-4604-a3e3-c3517241aad2.png",
+   "key": "guid:6ae54ffe52c09500099dffe3",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1524533483030876"
+   },
+   "source_published_at": "2026-10-31T11:30:42+00:00",
+   "status": "published",
+   "title": "Jovem de 18 anos é suspeito matar o pai com machado em Maués",
+   "updated_at": "2026-10-31T11:40:45+00:00",
+   "url": "https://marioadolfo.com/jovem-de-18-anos-e-suspeito-matar-o-pai-com-machado-em-maues/",
+   "url_hash": "eb12165f6a452514f5d26cab"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-31T11:30:19+00:00",
-  "saved_at": "2026-10-31T11:30:26+00:00"
+  "last_run_at": "2026-10-31T11:40:14+00:00",
+  "saved_at": "2026-10-31T11:41:12+00:00"
  },
  "schema": 1
 }
