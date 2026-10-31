@@ -15056,6 +15056,27 @@
    "url": "https://marioadolfo.com/obra-de-construcao-do-viaduto-passarao-alcanca-61-de-execucao/",
    "url_hash": "5afc8b270fcd3817e777cfc0"
   },
+  "guid:6ae50bba52c09500099dff23": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Esta será a 21ª edição da Coleta e acontecerá nos supermercados DB da rua Paraíba, Coroado e Dom Pedro",
+   "discovered_at": "2026-10-31T12:00:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae50bba52c09500099dff23",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/54a4a382-8b81-4a29-94c2-86acf5c99750.jpeg",
+   "key": "guid:6ae50bba52c09500099dff23",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-31T12:00:03+00:00",
+   "status": "pending",
+   "title": "​Manaus participa do Dia Nacional da Coleta de Alimentos em 7 de novembro",
+   "updated_at": "2026-10-31T12:00:19+00:00",
+   "url": "https://marioadolfo.com/manaus-participa-do-dia-nacional-da-coleta-de-alimentos-em-7-de-novembro/",
+   "url_hash": "e2cb03b20549eb09e2fee41d"
+  },
   "guid:6ae50c9b52c09500099dff3d": {
    "attempts": [
     {
@@ -15277,8 +15298,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-31T11:50:13+00:00",
-  "saved_at": "2026-10-31T11:50:17+00:00"
+  "last_run_at": "2026-10-31T12:00:18+00:00",
+  "saved_at": "2026-10-31T12:00:20+00:00"
  },
  "schema": 1
 }
