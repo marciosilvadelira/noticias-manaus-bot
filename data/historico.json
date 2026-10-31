@@ -15482,13 +15482,34 @@
    "updated_at": "2026-10-31T14:50:15+00:00",
    "url": "https://marioadolfo.com/defensoria-publica-do-amazonas-lanca-concurso-publico-com-salarios-de-ate-r-8-mil/",
    "url_hash": "b5060869b275e0dd7d3538c2"
+  },
+  "guid:6ae6021b52c09500099e00ca": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A participação é gratuita, com certificado, e não exige experiência prévia na área. Inscrição é online",
+   "discovered_at": "2026-10-31T14:59:53+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae6021b52c09500099e00ca",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/477cbd42-8594-4115-bce9-270a08906fbd.jpeg",
+   "key": "guid:6ae6021b52c09500099e00ca",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-31T14:59:36+00:00",
+   "status": "pending",
+   "title": "Oficina gratuita de audiovisual abre inscrições em Manaus; iniciativa busca valorizar histórias de idosos",
+   "updated_at": "2026-10-31T14:59:53+00:00",
+   "url": "https://marioadolfo.com/oficina-gratuita-de-audiovisual-abre-inscricoes-em-manaus-iniciativa-busca-valorizar-historias-de-idosos/",
+   "url_hash": "bee05f272743a57b008df81c"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-31T14:50:14+00:00",
-  "saved_at": "2026-10-31T14:50:15+00:00"
+  "last_run_at": "2026-10-31T14:59:52+00:00",
+  "saved_at": "2026-10-31T14:59:54+00:00"
  },
  "schema": 1
 }
