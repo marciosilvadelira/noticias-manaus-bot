@@ -15440,13 +15440,34 @@
    "updated_at": "2026-10-31T14:30:18+00:00",
    "url": "https://marioadolfo.com/operacao-inutiliza-dragas-usadas-no-garimpo-ilegal-em-tabatinga/",
    "url_hash": "977d01266d78ab84520b4e02"
+  },
+  "guid:6ae5fad952c09500099e0096": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Parintins está com a qualidade do ar “péssima”, enquanto na capital, Manaus,  é considerada “ruim”",
+   "discovered_at": "2026-10-31T14:40:14+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae5fad952c09500099e0096",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c8aca7fe-0302-4eb6-8025-db2113befadb.jpg",
+   "key": "guid:6ae5fad952c09500099e0096",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-31T14:31:52+00:00",
+   "status": "pending",
+   "title": "Mesmo com chuva, fumaça deixa qualidade do ar péssima em cidades do AM",
+   "updated_at": "2026-10-31T14:40:14+00:00",
+   "url": "https://marioadolfo.com/mesmo-com-chuva-fumaca-deixa-qualidade-do-ar-pessima-em-cidades-do-am/",
+   "url_hash": "b1a034e6c535821df9d18dbe"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-31T14:30:18+00:00",
-  "saved_at": "2026-10-31T14:30:18+00:00"
+  "last_run_at": "2026-10-31T14:40:13+00:00",
+  "saved_at": "2026-10-31T14:40:14+00:00"
  },
  "schema": 1
 }
