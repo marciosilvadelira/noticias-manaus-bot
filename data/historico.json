@@ -15263,6 +15263,27 @@
    "url": "https://marioadolfo.com/teatro-amazonas-recebe-titulo-de-patrimonio-mundial-da-unesco-na-terca-feira-3/",
    "url_hash": "6ce90d1b4c218d43ee6ec0d0"
   },
+  "guid:6ae54ed252c09500099dffce": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Edital depende da aprovação do Projeto de Lei Orçamentária Anual",
+   "discovered_at": "2026-10-31T12:10:14+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae54ed252c09500099dffce",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/3f55ec55-450e-417f-8d29-2129c1edd4b7.jpg",
+   "key": "guid:6ae54ed252c09500099dffce",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-31T12:00:46+00:00",
+   "status": "pending",
+   "title": "Terceira edição do Concurso Público Unificado pode ter até 3 mil vagas",
+   "updated_at": "2026-10-31T12:10:14+00:00",
+   "url": "https://marioadolfo.com/terceira-edicao-do-concurso-publico-unificado-pode-ter-ate-3-mil-vagas/",
+   "url_hash": "24c50c6ba587be9bf61aec6c"
+  },
   "guid:6ae54ffe52c09500099dffe3": {
    "attempts": [
     {
@@ -15293,13 +15314,55 @@
    "updated_at": "2026-10-31T11:40:45+00:00",
    "url": "https://marioadolfo.com/jovem-de-18-anos-e-suspeito-matar-o-pai-com-machado-em-maues/",
    "url_hash": "eb12165f6a452514f5d26cab"
+  },
+  "guid:6ae5512452c09500099dfffd": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "A polícia investiga se o veículo visto nas proximidades do local no momento do homicídio tem relação com os suspeitos",
+   "discovered_at": "2026-10-31T12:10:14+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae5512452c09500099dfffd",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/55d0e437-b21c-47a2-bbea-142a8abfe3d5.jpeg",
+   "key": "guid:6ae5512452c09500099dfffd",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-31T12:00:32+00:00",
+   "status": "pending",
+   "title": "Homem é morto com 10 tiros na zona norte de Manaus",
+   "updated_at": "2026-10-31T12:10:14+00:00",
+   "url": "https://marioadolfo.com/homem-e-morto-com-10-tiros-na-zona-norte-de-manaus/",
+   "url_hash": "eb605bf2c7ba9fcd6f15d30e"
+  },
+  "guid:6ae5523752c09500099e0012": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A USF Carmen Nicolau, no Lago Azul, e a USF Leonor de Freitas, na Compensa, funcionam todos os dias, das 8h às 17h",
+   "discovered_at": "2026-10-31T12:10:14+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae5523752c09500099e0012",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/aae9aa77-d272-4ff2-be9f-247dadca082d.jpg",
+   "key": "guid:6ae5523752c09500099e0012",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-31T12:00:37+00:00",
+   "status": "pending",
+   "title": "Prefeitura mantém funcionamento de serviços essenciais no Dia de Finados",
+   "updated_at": "2026-10-31T12:10:14+00:00",
+   "url": "https://marioadolfo.com/prefeitura-mantem-funcionamento-de-servicos-essenciais-no-dia-de-finados/",
+   "url_hash": "fcaeefd99b5342a970c30a6b"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-31T12:00:18+00:00",
-  "saved_at": "2026-10-31T12:00:20+00:00"
+  "last_run_at": "2026-10-31T12:10:13+00:00",
+  "saved_at": "2026-10-31T12:10:14+00:00"
  },
  "schema": 1
 }
