@@ -15503,13 +15503,55 @@
    "updated_at": "2026-10-31T14:59:53+00:00",
    "url": "https://marioadolfo.com/oficina-gratuita-de-audiovisual-abre-inscricoes-em-manaus-iniciativa-busca-valorizar-historias-de-idosos/",
    "url_hash": "bee05f272743a57b008df81c"
+  },
+  "guid:6ae6061152c09500099e00de": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Vendas de alguns produtos cresceram 421%",
+   "discovered_at": "2026-10-31T15:20:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae6061152c09500099e00de",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c3161efe-b875-4d4a-99cd-ee2c09c5bf27.jpg",
+   "key": "guid:6ae6061152c09500099e00de",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-31T15:16:29+00:00",
+   "status": "pending",
+   "title": "Acordo Mercosul-UE eleva exportações brasileiras em 21%",
+   "updated_at": "2026-10-31T15:20:15+00:00",
+   "url": "https://marioadolfo.com/acordo-mercosul-ue-eleva-exportacoes-brasileiras-em-21/",
+   "url_hash": "c1b179fb56124c3ce5f5188f"
+  },
+  "guid:6ae6065452c09500099e00f2": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Chanceleres conversaram em encontro de ministros do G20",
+   "discovered_at": "2026-10-31T15:20:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae6065452c09500099e00f2",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/dfcccf62-15f5-4425-9f2e-1773a4c63a02.jpg",
+   "key": "guid:6ae6065452c09500099e00f2",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-31T15:17:23+00:00",
+   "status": "pending",
+   "title": "Vieira encontra Rubio nos EUA após vitória de Lula e fuga de Flávio",
+   "updated_at": "2026-10-31T15:20:15+00:00",
+   "url": "https://marioadolfo.com/vieira-encontra-rubio-nos-eua-apos-vitoria-de-lula-e-fuga-de-flavio/",
+   "url_hash": "a81ba7abc71c6173a6ee39df"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-31T15:10:13+00:00",
-  "saved_at": "2026-10-31T15:10:14+00:00"
+  "last_run_at": "2026-10-31T15:20:15+00:00",
+  "saved_at": "2026-10-31T15:20:20+00:00"
  },
  "schema": 1
 }
