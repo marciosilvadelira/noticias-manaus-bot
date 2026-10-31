@@ -15461,13 +15461,34 @@
    "updated_at": "2026-10-31T14:40:14+00:00",
    "url": "https://marioadolfo.com/mesmo-com-chuva-fumaca-deixa-qualidade-do-ar-pessima-em-cidades-do-am/",
    "url_hash": "b1a034e6c535821df9d18dbe"
+  },
+  "guid:6ae5fd9e52c09500099e00ac": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Seleção oferece cinco vagas imediatas, além de cadastro de reserva, para cargos de níveis médio/técnico e superior",
+   "discovered_at": "2026-10-31T14:50:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae5fd9e52c09500099e00ac",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/fab7b20e-3636-4a5e-bd5d-30a6f41db2c0.jpg",
+   "key": "guid:6ae5fd9e52c09500099e00ac",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-31T14:42:20+00:00",
+   "status": "pending",
+   "title": "Defensoria Pública do Amazonas lança concurso público com salários de até R$ 8 mil",
+   "updated_at": "2026-10-31T14:50:15+00:00",
+   "url": "https://marioadolfo.com/defensoria-publica-do-amazonas-lanca-concurso-publico-com-salarios-de-ate-r-8-mil/",
+   "url_hash": "b5060869b275e0dd7d3538c2"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-31T14:40:13+00:00",
-  "saved_at": "2026-10-31T14:40:14+00:00"
+  "last_run_at": "2026-10-31T14:50:14+00:00",
+  "saved_at": "2026-10-31T14:50:15+00:00"
  },
  "schema": 1
 }
