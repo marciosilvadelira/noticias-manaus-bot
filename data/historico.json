@@ -15117,13 +15117,44 @@
    "updated_at": "2026-10-31T09:01:38+00:00",
    "url": "https://marioadolfo.com/justica-manda-meta-excluir-posts-sobre-demissao-por-voto-politico/",
    "url_hash": "e8305993801b24ac8ed279d8"
+  },
+  "guid:6ae50e5652c09500099dff8e": {
+   "attempts": [
+    {
+     "at": "2026-10-31T11:30:26+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1524524429698448",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "A ação aponta irregularidades e violência na reintegração de posse que atingiu mais de 80 famílias, em área onde será construído empreendimento habitacional",
+   "discovered_at": "2026-10-31T11:30:20+00:00",
+   "fb_post_id": "107393769293726_1524524429698448",
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae50e5652c09500099dff8e",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c798489a-d4a4-43a0-94a0-1254c66afbc7.jpeg",
+   "key": "guid:6ae50e5652c09500099dff8e",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1524524429698448"
+   },
+   "source_published_at": "2026-10-31T11:30:08+00:00",
+   "status": "published",
+   "title": "Defensoria pede auxílio-moradia para famílias retiradas de terreno no Santa Etelvina",
+   "updated_at": "2026-10-31T11:30:26+00:00",
+   "url": "https://marioadolfo.com/defensoria-pede-auxilio-moradia-para-familias-retiradas-de-terreno-no-santa-etelvina/",
+   "url_hash": "d0f20d318daacab1dc46a034"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-31T11:20:14+00:00",
-  "saved_at": "2026-10-31T11:20:14+00:00"
+  "last_run_at": "2026-10-31T11:30:19+00:00",
+  "saved_at": "2026-10-31T11:30:26+00:00"
  },
  "schema": 1
 }
