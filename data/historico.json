@@ -14809,11 +14809,19 @@
    "url_hash": "72e30cc597ca6657ffbd2a81"
   },
   "guid:6ae4e27252c09500099dfe58": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-31T08:56:16+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1524413316376226",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Profissionais têm até 30 de novembro para apresentar documentos e cumprir os procedimentos de posse",
    "discovered_at": "2026-10-31T08:50:24+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1524413316376226",
    "formats": [
     "link"
    ],
@@ -14821,20 +14829,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/081327dd-fcf8-40f4-a8dc-2441e5cf39f5.jpeg",
    "key": "guid:6ae4e27252c09500099dfe58",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1524413316376226"
+   },
    "source_published_at": "2026-10-30T18:32:50+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Prefeitura de Manaus nomeia 20 médicos aprovados em concurso da Semsa",
-   "updated_at": "2026-10-31T08:50:24+00:00",
+   "updated_at": "2026-10-31T08:56:16+00:00",
    "url": "https://marioadolfo.com/prefeitura-de-manaus-nomeia-20-medicos-aprovados-em-concurso-da-semsa/",
    "url_hash": "b688d0bb5c1f23e13fbde0a1"
   },
   "guid:6ae4e30c52c09500099dfe71": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-31T08:56:40+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1524413986376159",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "A meta da campanha é imunizar 282.400 animais. Vacinação segue até o dia 30 de novembro",
    "discovered_at": "2026-10-31T08:50:24+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1524413986376159",
    "formats": [
     "link"
    ],
@@ -14842,20 +14860,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/df260b2e-1ea0-4d4e-8699-499e03bee8ad.jpeg",
    "key": "guid:6ae4e30c52c09500099dfe71",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1524413986376159"
+   },
    "source_published_at": "2026-10-30T18:36:42+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Campanha de vacinação antirrábica já atendeu 140 mil animais em Manaus",
-   "updated_at": "2026-10-31T08:50:24+00:00",
+   "updated_at": "2026-10-31T08:56:40+00:00",
    "url": "https://marioadolfo.com/campanha-de-vacinacao-antirrabica-ja-atendeu-140-mil-animais-em-manaus/",
    "url_hash": "b1903c52a3934e24ca297da2"
   },
   "guid:6ae4e88652c09500099dfe8e": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-31T08:57:04+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1524414249709466",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Segunda Turma considerou a dispensa discriminatória e aplicou normas internacionais de proteção às pessoas com deficiência",
    "discovered_at": "2026-10-31T08:50:24+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1524414249709466",
    "formats": [
     "link"
    ],
@@ -14863,20 +14891,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/8ae01246-73cc-4821-b0ca-6b9ce1aa07fa.jpg",
    "key": "guid:6ae4e88652c09500099dfe8e",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1524414249709466"
+   },
    "source_published_at": "2026-10-30T19:00:24+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "TRT-11 determina reintegração de trabalhador com deficiência dispensado após afastamento",
-   "updated_at": "2026-10-31T08:50:24+00:00",
+   "updated_at": "2026-10-31T08:57:04+00:00",
    "url": "https://marioadolfo.com/trt-11-determina-reintegracao-de-trabalhador-com-deficiencia-dispensado-apos-afastamento/",
    "url_hash": "33c112947bde2a2893a0f8e7"
   },
   "guid:6ae4eb4252c09500099dfea7": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-31T08:57:30+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1524414663042758",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Visitação começa nesta sexta-feira (30) e segue até segunda (2); prefeitura mobilizará mais de mil trabalhadores e servidores para atender ao público",
    "discovered_at": "2026-10-31T08:50:24+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1524414663042758",
    "formats": [
     "link"
    ],
@@ -14884,20 +14922,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/bc2fe87c-1e68-4f7f-a426-5b99335d2814.jpg",
    "key": "guid:6ae4eb4252c09500099dfea7",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1524414663042758"
+   },
    "source_published_at": "2026-10-30T19:12:00+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Mais de 700 mil pessoas devem visitar cemitérios de Manaus no Dia de Finados",
-   "updated_at": "2026-10-31T08:50:24+00:00",
+   "updated_at": "2026-10-31T08:57:30+00:00",
    "url": "https://marioadolfo.com/mais-de-700-mil-pessoas-devem-visitar-cemiterios-de-manaus-no-dia-de-finados/",
    "url_hash": "9520b43c22c0ef3d13e6df4a"
   },
   "guid:6ae4efd852c09500099dfec0": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-31T08:57:55+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1524414893042735",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Investigação aponta que um dos suspeitos fabricou artesanalmente a arma e a vendeu ao outro.",
    "discovered_at": "2026-10-31T08:50:24+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1524414893042735",
    "formats": [
     "link"
    ],
@@ -14905,11 +14953,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/429fac65-3f0c-451b-8a0a-e84ce4b9974d.jpg",
    "key": "guid:6ae4efd852c09500099dfec0",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1524414893042735"
+   },
    "source_published_at": "2026-10-30T19:30:22+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Tios de criança de 2 anos morta a tiros são presos no interior do AM",
-   "updated_at": "2026-10-31T08:50:24+00:00",
+   "updated_at": "2026-10-31T08:57:55+00:00",
    "url": "https://marioadolfo.com/tios-de-crianca-de-2-anos-morta-a-tiros-sao-presos-no-interior-do-am/",
    "url_hash": "ab93174120393cc2d7f9aa58"
   },
@@ -15022,8 +15072,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-31T08:50:23+00:00",
-  "saved_at": "2026-10-31T08:52:08+00:00"
+  "last_run_at": "2026-10-31T08:56:08+00:00",
+  "saved_at": "2026-10-31T08:57:55+00:00"
  },
  "schema": 1
 }
