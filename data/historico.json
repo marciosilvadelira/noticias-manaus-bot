@@ -15566,13 +15566,34 @@
    "updated_at": "2026-10-31T16:10:24+00:00",
    "url": "https://marioadolfo.com/viaduto-miguel-arraes-recebe-servicos-de-modernizacao/",
    "url_hash": "fd87d3a701bf46b122243c77"
+  },
+  "guid:6ae651d252c09500099e014d": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Candidato derrotado à Presidência fugiu para os EUA",
+   "discovered_at": "2026-10-31T20:40:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae651d252c09500099e014d",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d000a178-b92d-4432-b621-3d7600c62e87.jpeg",
+   "key": "guid:6ae651d252c09500099e014d",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-31T20:39:40+00:00",
+   "status": "pending",
+   "title": "Ação Popular pede suspensão de salário do senador Flávio Bolsonaro",
+   "updated_at": "2026-10-31T20:40:15+00:00",
+   "url": "https://marioadolfo.com/acao-popular-pede-suspensao-de-salario-do-senador-flavio-bolsonaro/",
+   "url_hash": "c7ac64b5ca8c1cbf75fff633"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-31T20:30:17+00:00",
-  "saved_at": "2026-10-31T20:30:19+00:00"
+  "last_run_at": "2026-10-31T20:40:14+00:00",
+  "saved_at": "2026-10-31T20:40:15+00:00"
  },
  "schema": 1
 }
