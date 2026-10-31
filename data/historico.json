@@ -14964,11 +14964,19 @@
    "url_hash": "ab93174120393cc2d7f9aa58"
   },
   "guid:6ae4f2b052c09500099dfed6": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-31T09:00:25+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1524416433042581",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Governança climática e auditoria ambiental receberam 30 artigos cada, somando 60 dos 175 trabalhos submetidos, aproximadamente um em cada três",
    "discovered_at": "2026-10-31T08:50:24+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1524416433042581",
    "formats": [
     "link"
    ],
@@ -14976,20 +14984,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/598a0874-c248-4f58-ab23-308c2e0282ac.jpeg",
    "key": "guid:6ae4f2b052c09500099dfed6",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1524416433042581"
+   },
    "source_published_at": "2026-10-30T19:41:28+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Um em cada três artigos do concurso do TCE-AM trata de clima e auditoria ambiental",
-   "updated_at": "2026-10-31T08:50:24+00:00",
+   "updated_at": "2026-10-31T09:00:25+00:00",
    "url": "https://marioadolfo.com/um-em-cada-tres-artigos-do-concurso-do-tce-am-trata-de-clima-e-auditoria-ambiental/",
    "url_hash": "29df002fc709d70f093ea129"
   },
   "guid:6ae4f3f352c09500099dfeea": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-31T09:00:50+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1524416709709220",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Estão em andamento estão a recomposição de frisos, cimalhas e ornatos, elementos que recebem atenção especial para manter os desenhos e acabamentos originais da construção",
    "discovered_at": "2026-10-31T08:50:24+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1524416709709220",
    "formats": [
     "link"
    ],
@@ -14997,20 +15015,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/62de8e1e-af24-466e-a2af-e39494ecff88.jpg",
    "key": "guid:6ae4f3f352c09500099dfeea",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1524416709709220"
+   },
    "source_published_at": "2026-10-30T19:47:54+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Obra de recuperação do Casarão de São Vicente avança no Centro Histórico",
-   "updated_at": "2026-10-31T08:50:24+00:00",
+   "updated_at": "2026-10-31T09:00:50+00:00",
    "url": "https://marioadolfo.com/obra-de-recuperacao-do-casarao-de-sao-vicente-avanca-no-centro-historico/",
    "url_hash": "881c8e169333b7b7aa138723"
   },
   "guid:6ae4f55f52c09500099dff01": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-31T09:01:13+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1524416979709193",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Nova fase de execução terá serviços voltados à construção da trincheira, estrutura que vai integrar as avenidas Coronel Teixeira e Brasil",
    "discovered_at": "2026-10-31T08:50:24+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1524416979709193",
    "formats": [
     "link"
    ],
@@ -15018,20 +15046,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b0fd1477-96e6-4991-b6cf-536dd747b0f2.jpg",
    "key": "guid:6ae4f55f52c09500099dff01",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1524416979709193"
+   },
    "source_published_at": "2026-10-30T19:56:50+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Obra de construção do viaduto Passarão alcança 61% de execução",
-   "updated_at": "2026-10-31T08:50:24+00:00",
+   "updated_at": "2026-10-31T09:01:13+00:00",
    "url": "https://marioadolfo.com/obra-de-construcao-do-viaduto-passarao-alcanca-61-de-execucao/",
    "url_hash": "5afc8b270fcd3817e777cfc0"
   },
   "guid:6ae50c9b52c09500099dff3d": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-31T09:02:02+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1524417539709137",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Segundo a Polícia Civil,  o suspeito é da família da vítima e teria se aproveitado do ambiente doméstico para praticar o abuso",
    "discovered_at": "2026-10-31T08:50:24+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1524417539709137",
    "formats": [
     "link"
    ],
@@ -15039,20 +15077,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/fd46bc88-e335-4ebf-820d-44945e6e91f7.png",
    "key": "guid:6ae50c9b52c09500099dff3d",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1524417539709137"
+   },
    "source_published_at": "2026-10-30T21:34:12+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Jovem é preso por estuprar e enforcar criança de 10 anos em Novo Airão",
-   "updated_at": "2026-10-31T08:50:24+00:00",
+   "updated_at": "2026-10-31T09:02:02+00:00",
    "url": "https://marioadolfo.com/jovem-e-preso-por-estuprar-e-enforcar-crianca-de-10-anos-em-novo-airao/",
    "url_hash": "e0e485f936e870e1d5649ddf"
   },
   "guid:6ae50d0e52c09500099dff4e": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-10-31T09:01:38+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1524417313042493",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Decisão prevê retirada de 14 publicações e multa por descumprimento",
    "discovered_at": "2026-10-31T08:50:24+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1524417313042493",
    "formats": [
     "link"
    ],
@@ -15060,11 +15108,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f21035cd-9e09-44eb-9b50-23948b5ff639.jpg",
    "key": "guid:6ae50d0e52c09500099dff4e",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1524417313042493"
+   },
    "source_published_at": "2026-10-30T21:33:57+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Justiça manda Meta excluir posts sobre demissão por voto político",
-   "updated_at": "2026-10-31T08:50:24+00:00",
+   "updated_at": "2026-10-31T09:01:38+00:00",
    "url": "https://marioadolfo.com/justica-manda-meta-excluir-posts-sobre-demissao-por-voto-politico/",
    "url_hash": "e8305993801b24ac8ed279d8"
   }
@@ -15072,8 +15122,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-31T08:56:08+00:00",
-  "saved_at": "2026-10-31T08:57:55+00:00"
+  "last_run_at": "2026-10-31T09:00:18+00:00",
+  "saved_at": "2026-10-31T09:02:02+00:00"
  },
  "schema": 1
 }
