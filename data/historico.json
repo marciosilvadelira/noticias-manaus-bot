@@ -15587,13 +15587,34 @@
    "updated_at": "2026-10-31T20:40:15+00:00",
    "url": "https://marioadolfo.com/acao-popular-pede-suspensao-de-salario-do-senador-flavio-bolsonaro/",
    "url_hash": "c7ac64b5ca8c1cbf75fff633"
+  },
+  "guid:6ae6525752c09500099e0162": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Texto começará a ser debatido no dia 11 de novembro e precisa ser aprovado ainda este ano, a tempo de valer já para 2027",
+   "discovered_at": "2026-10-31T20:50:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae6525752c09500099e0162",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/3b240328-0318-4a2a-ac86-9c8e8c3cbe6e.jpeg",
+   "key": "guid:6ae6525752c09500099e0162",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-31T20:42:16+00:00",
+   "status": "pending",
+   "title": "Comissão do Senado confirma Eduardo Braga como relator da alíquota da CBS",
+   "updated_at": "2026-10-31T20:50:15+00:00",
+   "url": "https://marioadolfo.com/comissao-do-senado-confirma-eduardo-braga-como-relator-da-aliquota-da-cbs/",
+   "url_hash": "d1fe39754189febf31eeba3a"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-31T20:40:14+00:00",
-  "saved_at": "2026-10-31T20:40:15+00:00"
+  "last_run_at": "2026-10-31T20:50:15+00:00",
+  "saved_at": "2026-10-31T20:50:15+00:00"
  },
  "schema": 1
 }
