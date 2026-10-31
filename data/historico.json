@@ -15377,13 +15377,34 @@
    "updated_at": "2026-10-31T13:10:14+00:00",
    "url": "https://marioadolfo.com/motorista-embriagado-destroi-muro-de-delegacia-no-bairro-cidade-nova/",
    "url_hash": "c866676ceb5d1172e61d4dad"
+  },
+  "guid:6ae5f87d52c09500099e0054": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Podem se inscrever pessoas a partir de 15 anos interessadas em concluir o Ensino Fundamental II e maiores de 18 anos que desejam finalizar o Ensino Médio",
+   "discovered_at": "2026-10-31T14:20:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae5f87d52c09500099e0054",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b44306bb-5332-4fad-a995-f05bb5f0409c.jpg",
+   "key": "guid:6ae5f87d52c09500099e0054",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-31T14:19:32+00:00",
+   "status": "pending",
+   "title": "Fundação Bradesco abre 60 vagas da EJA para turmas de 2027 em Manaus",
+   "updated_at": "2026-10-31T14:20:15+00:00",
+   "url": "https://marioadolfo.com/fundacao-bradesco-abre-60-vagas-da-eja-para-turmas-de-2027-em-manaus/",
+   "url_hash": "7a5bbd18598ca28b88a2cad2"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-31T14:10:15+00:00",
-  "saved_at": "2026-10-31T14:10:15+00:00"
+  "last_run_at": "2026-10-31T14:20:14+00:00",
+  "saved_at": "2026-10-31T14:20:16+00:00"
  },
  "schema": 1
 }
