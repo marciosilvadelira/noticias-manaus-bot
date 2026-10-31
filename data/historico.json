@@ -15149,6 +15149,37 @@
    "url": "https://marioadolfo.com/treinamento-gratuito-prepara-empreendedores-na-gestao-de-pessoas/",
    "url_hash": "d6f48dc519ad96502c2a499a"
   },
+  "guid:6ae50dbc52c09500099dff78": {
+   "attempts": [
+    {
+     "at": "2026-10-31T11:50:17+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1524540499696841",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Brasil",
+   "description": "Contas de energia não sofrem cobrança extra pelo segundo mês",
+   "discovered_at": "2026-10-31T11:50:13+00:00",
+   "fb_post_id": "107393769293726_1524540499696841",
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae50dbc52c09500099dff78",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/88286156-6bd0-4c14-8b25-805448d128d2.jpg",
+   "key": "guid:6ae50dbc52c09500099dff78",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1524540499696841"
+   },
+   "source_published_at": "2026-10-31T11:45:53+00:00",
+   "status": "published",
+   "title": "Aneel mantém bandeira tarifária verde em novembro",
+   "updated_at": "2026-10-31T11:50:17+00:00",
+   "url": "https://marioadolfo.com/aneel-mantem-bandeira-tarifaria-verde-em-novembro/",
+   "url_hash": "be9c958da275c9b41a64a489"
+  },
   "guid:6ae50e5652c09500099dff8e": {
    "attempts": [
     {
@@ -15246,8 +15277,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-31T11:40:14+00:00",
-  "saved_at": "2026-10-31T11:41:12+00:00"
+  "last_run_at": "2026-10-31T11:50:13+00:00",
+  "saved_at": "2026-10-31T11:50:17+00:00"
  },
  "schema": 1
 }
