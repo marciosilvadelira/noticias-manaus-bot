@@ -15545,13 +15545,34 @@
    "updated_at": "2026-10-31T15:20:15+00:00",
    "url": "https://marioadolfo.com/vieira-encontra-rubio-nos-eua-apos-vitoria-de-lula-e-fuga-de-flavio/",
    "url_hash": "a81ba7abc71c6173a6ee39df"
+  },
+  "guid:6ae6127552c09500099e010b": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A intervenção contempla a recuperação do passeio público, melhorias no canteiro central, pintura e paisagismo, contribuindo para deixar o espaço mais organizado, conservado e adequado à circulação de pedestres",
+   "discovered_at": "2026-10-31T16:10:24+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae6127552c09500099e010b",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6c93b31d-15b2-442c-af06-06849e5e5ebe.jpeg",
+   "key": "guid:6ae6127552c09500099e010b",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-31T16:10:10+00:00",
+   "status": "pending",
+   "title": "Viaduto Miguel Arraes recebe serviços de modernização",
+   "updated_at": "2026-10-31T16:10:24+00:00",
+   "url": "https://marioadolfo.com/viaduto-miguel-arraes-recebe-servicos-de-modernizacao/",
+   "url_hash": "fd87d3a701bf46b122243c77"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-31T16:00:19+00:00",
-  "saved_at": "2026-10-31T16:00:21+00:00"
+  "last_run_at": "2026-10-31T16:10:23+00:00",
+  "saved_at": "2026-10-31T16:10:24+00:00"
  },
  "schema": 1
 }
