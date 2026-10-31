@@ -15398,13 +15398,55 @@
    "updated_at": "2026-10-31T14:20:15+00:00",
    "url": "https://marioadolfo.com/fundacao-bradesco-abre-60-vagas-da-eja-para-turmas-de-2027-em-manaus/",
    "url_hash": "7a5bbd18598ca28b88a2cad2"
+  },
+  "guid:6ae5f90852c09500099e0068": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Proposta cria regras mais duras de prisão para chefes de facções",
+   "discovered_at": "2026-10-31T14:30:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae5f90852c09500099e0068",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/7f37845d-bf25-4081-a874-c04d2759c043.jpg",
+   "key": "guid:6ae5f90852c09500099e0068",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-31T14:21:37+00:00",
+   "status": "pending",
+   "title": "Alcolumbre marca votação da PEC da segurança pública para terça-feira",
+   "updated_at": "2026-10-31T14:30:18+00:00",
+   "url": "https://marioadolfo.com/alcolumbre-marca-votacao-da-pec-da-seguranca-publica-para-terca-feira/",
+   "url_hash": "63c70d248729eb67c10faa62"
+  },
+  "guid:6ae5fa0e52c09500099e0082": {
+   "attempts": [],
+   "category": "",
+   "description": "A ação da Polícia Federal resultou também na apreensão de equipamentos e uma embarcação no Alto Rio Solimões",
+   "discovered_at": "2026-10-31T14:30:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae5fa0e52c09500099e0082",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/cbbdb764-f7c5-422e-a5b0-a4a5691540bd.jpg",
+   "key": "guid:6ae5fa0e52c09500099e0082",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-31T14:26:51+00:00",
+   "status": "pending",
+   "title": "Operação inutiliza dragas usadas no garimpo ilegal em Tabatinga",
+   "updated_at": "2026-10-31T14:30:18+00:00",
+   "url": "https://marioadolfo.com/operacao-inutiliza-dragas-usadas-no-garimpo-ilegal-em-tabatinga/",
+   "url_hash": "977d01266d78ab84520b4e02"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-31T14:20:14+00:00",
-  "saved_at": "2026-10-31T14:20:16+00:00"
+  "last_run_at": "2026-10-31T14:30:18+00:00",
+  "saved_at": "2026-10-31T14:30:18+00:00"
  },
  "schema": 1
 }
