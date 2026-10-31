@@ -15356,13 +15356,34 @@
    "updated_at": "2026-10-31T12:10:14+00:00",
    "url": "https://marioadolfo.com/prefeitura-mantem-funcionamento-de-servicos-essenciais-no-dia-de-finados/",
    "url_hash": "fcaeefd99b5342a970c30a6b"
+  },
+  "guid:6ae5e73152c09500099e0039": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Antes da ocorrência, o condutor teria se envolvido anteriormente em um acidente no bairro Santa Etelvina",
+   "discovered_at": "2026-10-31T13:10:14+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae5e73152c09500099e0039",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/af06d002-f3e3-42db-aded-c2cc4c43bc8f.jpeg",
+   "key": "guid:6ae5e73152c09500099e0039",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-31T13:09:48+00:00",
+   "status": "pending",
+   "title": "Motorista embriagado invade e destrói muro de delegacia no bairro Cidade Nova",
+   "updated_at": "2026-10-31T13:10:14+00:00",
+   "url": "https://marioadolfo.com/motorista-embriagado-destroi-muro-de-delegacia-no-bairro-cidade-nova/",
+   "url_hash": "c866676ceb5d1172e61d4dad"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-31T13:00:18+00:00",
-  "saved_at": "2026-10-31T13:00:19+00:00"
+  "last_run_at": "2026-10-31T13:10:13+00:00",
+  "saved_at": "2026-10-31T13:10:14+00:00"
  },
  "schema": 1
 }
