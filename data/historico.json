@@ -14329,12 +14329,12 @@
    "guid": "6ae374fd52c09500099dfa85",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6738ab62-243c-4610-ada3-ecaaa08609e9.jpeg",
    "key": "guid:6ae374fd52c09500099dfa85",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-29T16:35:22+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Codam aprova recorde de investimentos de R$ 1,6 bilhão e mais de 2 mil novos empregos",
-   "updated_at": "2026-10-29T16:40:16+00:00",
+   "updated_at": "2026-10-31T08:50:24+00:00",
    "url": "https://marioadolfo.com/codam-aprova-recorde-de-investimentos-de-r-1-6-bilhao-e-mais-de-2-mil-novos-empregos/",
    "url_hash": "20764d997e24aed8fb7961d4"
   },
@@ -14350,12 +14350,12 @@
    "guid": "6ae3773552c09500099dfaac",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a503b1ce-c8ae-43e0-9046-f708c909613e.jpeg",
    "key": "guid:6ae3773552c09500099dfaac",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-29T16:52:26+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Omar Aziz diz que vai levantar situação das secretarias antes de definir equipe de governo",
-   "updated_at": "2026-10-29T17:00:23+00:00",
+   "updated_at": "2026-10-31T08:50:24+00:00",
    "url": "https://marioadolfo.com/omar-aziz-diz-que-vai-levantar-situacao-das-secretarias-antes-de-definir-equipe-de-governo/",
    "url_hash": "f939056d69faa8d19dcfddc2"
   },
@@ -14371,12 +14371,12 @@
    "guid": "6ae3794652c09500099dfaba",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/7f13611d-2adf-48eb-9256-4e2a63bc4db4.webp",
    "key": "guid:6ae3794652c09500099dfaba",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-29T16:51:15+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Começa festival de filmes brasileiros com ingressos a R$ 12",
-   "updated_at": "2026-10-29T17:00:23+00:00",
+   "updated_at": "2026-10-31T08:50:24+00:00",
    "url": "https://marioadolfo.com/comeca-festival-de-filmes-brasileiros-com-ingressos-a-r-12/",
    "url_hash": "ad8460d8e825550c903143d4"
   },
@@ -14392,12 +14392,12 @@
    "guid": "6ae37f1552c09500099dfae1",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/810ad5b8-da1b-43ba-9f27-76700d553e9a.jpeg",
    "key": "guid:6ae37f1552c09500099dfae1",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-29T17:22:49+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Homem é preso por perseguir, ameaçar e tentar matar ex-companheira",
-   "updated_at": "2026-10-29T17:30:19+00:00",
+   "updated_at": "2026-10-31T08:50:24+00:00",
    "url": "https://marioadolfo.com/homem-e-preso-por-perseguir-ameacar-e-tentar-matar-ex-companheira/",
    "url_hash": "5ad06b9f895108350a4cc3b8"
   },
@@ -14413,12 +14413,12 @@
    "guid": "6ae3836a52c09500099dfb00",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0d265904-4804-4fdd-8fc2-b4aa0e269704.jpeg",
    "key": "guid:6ae3836a52c09500099dfb00",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-29T17:35:00+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Seca e fumaça das queimadas levam o Amazonas a decretar emergência em saúde",
-   "updated_at": "2026-10-29T17:40:16+00:00",
+   "updated_at": "2026-10-31T08:50:24+00:00",
    "url": "https://marioadolfo.com/seca-e-fumaca-das-queimadas-levam-o-amazonas-a-decretar-emergencia-em-saude/",
    "url_hash": "adcbd51ece6bef4e1068bd34"
   },
@@ -14434,12 +14434,12 @@
    "guid": "6ae397b252c09500099dfb16",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a9bc8729-eb1d-4bfb-970d-01800b1c9dcf.jpg",
    "key": "guid:6ae397b252c09500099dfb16",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-29T19:01:30+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Governo Federal anuncia medidas contra o assédio eleitoral no trabalho",
-   "updated_at": "2026-10-29T19:10:18+00:00",
+   "updated_at": "2026-10-31T08:50:24+00:00",
    "url": "https://marioadolfo.com/governo-federal-anuncia-medidas-contra-o-assedio-eleitoral-no-trabalho/",
    "url_hash": "2b75b99a143935166d936570"
   },
@@ -14455,12 +14455,12 @@
    "guid": "6ae3984e52c09500099dfb2d",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/888b6242-c084-4f35-bc0b-3277eb90e8b4.jpeg",
    "key": "guid:6ae3984e52c09500099dfb2d",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-29T19:03:20+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "“Mata Gato” encerra outubro com exibição especial de Halloween no Casarão de Ideias",
-   "updated_at": "2026-10-29T19:10:18+00:00",
+   "updated_at": "2026-10-31T08:50:24+00:00",
    "url": "https://marioadolfo.com/mata-gato-encerra-outubro-com-exibicao-especial-de-halloween-no-casarao-de-ideias/",
    "url_hash": "78c914452e1fe7a0dd3128e3"
   },
@@ -14476,12 +14476,12 @@
    "guid": "6ae39f7d52c09500099dfb41",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6af54100-57f5-4fb0-a46a-e70be9a12ea1.jpg",
    "key": "guid:6ae39f7d52c09500099dfb41",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-29T19:36:02+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Operação Mulher Segura: quatro homens são presos por violência doméstica no AM",
-   "updated_at": "2026-10-29T19:40:17+00:00",
+   "updated_at": "2026-10-31T08:50:24+00:00",
    "url": "https://marioadolfo.com/operacao-mulher-segura-quatro-homens-sao-presos-por-violencia-domestica-no-am/",
    "url_hash": "a23487840cb8ffda6688f1f4"
   },
@@ -14497,12 +14497,12 @@
    "guid": "6ae3a07252c09500099dfb5e",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/008b303b-be6b-4c35-92b0-c7199021ff73.jpg",
    "key": "guid:6ae3a07252c09500099dfb5e",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-29T19:40:30+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Justiça condena dupla por tráfico de drogas no terminal de cargas do aeroporto de Manaus",
-   "updated_at": "2026-10-29T19:50:17+00:00",
+   "updated_at": "2026-10-31T08:50:24+00:00",
    "url": "https://marioadolfo.com/justica-condena-dupla-por-trafico-de-drogas-no-terminal-de-cargas-do-aeroporto-de-manaus/",
    "url_hash": "d6143d0f836386249de60082"
   },
@@ -14518,12 +14518,12 @@
    "guid": "6ae3a1a652c09500099dfb78",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f3f5abb9-dd1b-46a8-a739-6b8f6f738e00.png",
    "key": "guid:6ae3a1a652c09500099dfb78",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-29T19:48:54+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Sucuri é encontrada dentro de saco de estopa no bairro Santa Etelvina",
-   "updated_at": "2026-10-29T19:50:17+00:00",
+   "updated_at": "2026-10-31T08:50:24+00:00",
    "url": "https://marioadolfo.com/sucuri-e-encontrada-dentro-de-saco-de-estopa-no-bairro-santa-etelvina/",
    "url_hash": "9639fd84d1a322cef62d4baa"
   },
@@ -14539,12 +14539,12 @@
    "guid": "6ae3a25e52c09500099dfb91",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/03d62a18-dafb-4f57-a85b-94222767eaca.jpeg",
    "key": "guid:6ae3a25e52c09500099dfb91",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-29T19:48:46+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Bemol traz à Região Norte smartphones JOVI X300 com tecnologia voltada à produção audiovisual",
-   "updated_at": "2026-10-29T19:50:17+00:00",
+   "updated_at": "2026-10-31T08:50:24+00:00",
    "url": "https://marioadolfo.com/bemol-traz-a-regiao-norte-smartphones-jovi-x300-com-tecnologia-voltada-a-producao-audiovisual/",
    "url_hash": "d578e4f08825cf99ea5dee89"
   },
@@ -14560,12 +14560,12 @@
    "guid": "6ae3b0fd52c09500099dfbcd",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/101ff926-9d49-4b4a-bc8a-eac254bf79c1.jpeg",
    "key": "guid:6ae3b0fd52c09500099dfbcd",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-29T20:50:11+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Defensoria cobra moradia para famílias desabrigadas após reintegração de posse no Santa Etelvina",
-   "updated_at": "2026-10-29T21:00:19+00:00",
+   "updated_at": "2026-10-31T08:50:24+00:00",
    "url": "https://marioadolfo.com/defensoria-cobra-moradia-para-familias-desabrigadas-apos-reintegracao-de-posse-no-santa-etelvina/",
    "url_hash": "68428da62dea5685d2d87cfa"
   },
@@ -14581,12 +14581,12 @@
    "guid": "6ae3b19252c09500099dfbeb",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0d019ed6-b17f-4dff-b3b6-db886d0f827b.jpeg",
    "key": "guid:6ae3b19252c09500099dfbeb",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-29T20:53:54+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "TCE-AM destaca particularidades das obras no Amazonas em seminário do TCU",
-   "updated_at": "2026-10-29T21:00:19+00:00",
+   "updated_at": "2026-10-31T08:50:24+00:00",
    "url": "https://marioadolfo.com/tce-am-destaca-particularidades-das-obras-no-amazonas-em-seminario-do-tcu/",
    "url_hash": "46faaffafcf5d12a20b5136d"
   },
@@ -14602,12 +14602,12 @@
    "guid": "6ae3b27252c09500099dfc02",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b4356c80-1c95-4352-9c6f-723488144abf.jpeg",
    "key": "guid:6ae3b27252c09500099dfc02",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-29T20:58:07+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "MPT vai à Justiça para que Meta apague postagens de assédio eleitoral",
-   "updated_at": "2026-10-29T21:00:19+00:00",
+   "updated_at": "2026-10-31T08:50:24+00:00",
    "url": "https://marioadolfo.com/mpt-vai-a-justica-para-que-meta-apague-postagens-de-assedio-eleitoral/",
    "url_hash": "d49f7692ebac7374cb88d6d9"
   },
@@ -14623,12 +14623,12 @@
    "guid": "6ae3b2e952c09500099dfc16",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/87e12735-58d8-4abb-8d50-76dc8931a730.jpeg",
    "key": "guid:6ae3b2e952c09500099dfc16",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-29T20:57:58+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Demissão por causa do voto é discriminatória e pode ser questionada na Justiça do Trabalho",
-   "updated_at": "2026-10-29T21:00:19+00:00",
+   "updated_at": "2026-10-31T08:50:24+00:00",
    "url": "https://marioadolfo.com/demissao-por-causa-do-voto-e-discriminatoria-e-pode-ser-questionada-na-justica-do-trabalho/",
    "url_hash": "1757e901a6bc358c84329c1b"
   },
@@ -14644,21 +14644,386 @@
    "guid": "6ae3b38a52c09500099dfc32",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/3d44a75f-5296-44f3-a282-140d0c04f31e.jpeg",
    "key": "guid:6ae3b38a52c09500099dfc32",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-10-29T21:01:50+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "PC-AM indicia 10 homens por estupro coletivo de adolescente indígena",
-   "updated_at": "2026-10-29T21:10:15+00:00",
+   "updated_at": "2026-10-31T08:50:24+00:00",
    "url": "https://marioadolfo.com/pc-am-indicia-10-homens-por-estupro-de-adolescente-indigena/",
    "url_hash": "d989e49b5df82dd793813f48"
+  },
+  "guid:6ae4cc6352c09500099dfdd6": {
+   "attempts": [
+    {
+     "at": "2026-10-31T08:50:29+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1524409043043320",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Brasil",
+   "description": "O documento atesta que os candidatos foram, de fato, escolhidos pelo eleitorado e estão aptos a tomar posse e exercer o mandato",
+   "discovered_at": "2026-10-31T08:50:24+00:00",
+   "fb_post_id": "107393769293726_1524409043043320",
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae4cc6352c09500099dfdd6",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a528226d-770e-48ca-ba60-edc4dc35f10d.jpg",
+   "key": "guid:6ae4cc6352c09500099dfdd6",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1524409043043320"
+   },
+   "source_published_at": "2026-10-30T17:00:20+00:00",
+   "status": "published",
+   "title": "Lula e demais candidatos eleitos serão diplomados até 18 de dezembro",
+   "updated_at": "2026-10-31T08:50:29+00:00",
+   "url": "https://marioadolfo.com/lula-e-demais-candidatos-eleitos-serao-diplomados-ate-18-de-dezembro/",
+   "url_hash": "9a8e2f3eea4142d3de6d4226"
+  },
+  "guid:6ae4cd7352c09500099dfdf0": {
+   "attempts": [
+    {
+     "at": "2026-10-31T08:50:55+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1524409353043289",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Brasil",
+   "description": "Cidadão não deve clicar em links enviados pela internet",
+   "discovered_at": "2026-10-31T08:50:24+00:00",
+   "fb_post_id": "107393769293726_1524409353043289",
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae4cd7352c09500099dfdf0",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c9b78831-2a2f-4a3e-8fab-1a6f1063f917.jpg",
+   "key": "guid:6ae4cd7352c09500099dfdf0",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1524409353043289"
+   },
+   "source_published_at": "2026-10-30T17:02:05+00:00",
+   "status": "published",
+   "title": "Governo alerta para golpe envolvendo o Auxílio Reconstrução",
+   "updated_at": "2026-10-31T08:50:55+00:00",
+   "url": "https://marioadolfo.com/governo-alerta-para-golpe-envolvendo-o-auxilio-reconstrucao-2/",
+   "url_hash": "9759a64df9766ea1f06095b9"
+  },
+  "guid:6ae4cecd52c09500099dfe03": {
+   "attempts": [
+    {
+     "at": "2026-10-31T08:51:20+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1524409586376599",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "A seleção é organizada pela Fundação Carlos Chagas (FCC) e prevê o preenchimento de 20 vagas imediatas",
+   "discovered_at": "2026-10-31T08:50:24+00:00",
+   "fb_post_id": "107393769293726_1524409586376599",
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae4cecd52c09500099dfe03",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4195e15a-3333-42a7-8b4d-d9d9006d81f5.jpeg",
+   "key": "guid:6ae4cecd52c09500099dfe03",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1524409586376599"
+   },
+   "source_published_at": "2026-10-30T17:08:24+00:00",
+   "status": "published",
+   "title": "Concurso público para auditor-fiscal da Semef terá provas neste domingo",
+   "updated_at": "2026-10-31T08:51:20+00:00",
+   "url": "https://marioadolfo.com/concurso-publico-para-auditor-fiscal-da-semef-tera-provas-neste-domingo/",
+   "url_hash": "fade984bce74df196f3ce9c6"
+  },
+  "guid:6ae4d86652c09500099dfe22": {
+   "attempts": [
+    {
+     "at": "2026-10-31T08:51:44+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1524409873043237",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "Espetáculo será apresentado no Teatro Américo Alvarez, localizado na Rua Ramos Ferreira, no Centro",
+   "discovered_at": "2026-10-31T08:50:24+00:00",
+   "fb_post_id": "107393769293726_1524409873043237",
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae4d86652c09500099dfe22",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/df4fa768-10a0-4a14-8676-33f7e4cef0b9.jpeg",
+   "key": "guid:6ae4d86652c09500099dfe22",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1524409873043237"
+   },
+   "source_published_at": "2026-10-30T17:53:49+00:00",
+   "status": "published",
+   "title": "Espetáculo ‘P. Help - Inquietudes com o Fim’ tem nova apresentação gratuita nesta sexta-feira",
+   "updated_at": "2026-10-31T08:51:44+00:00",
+   "url": "https://marioadolfo.com/espetaculo-p-help-inquietudes-com-o-fim-tem-nova-apresentacao-gratuita-nesta-sexta-feira/",
+   "url_hash": "a30c67d7b27456412774809e"
+  },
+  "guid:6ae4d9e252c09500099dfe3d": {
+   "attempts": [
+    {
+     "at": "2026-10-31T08:52:08+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1524410169709874",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "Batizado de Amazonas Solidário, o evento será realizado no dia 6 de novembro, às 19h, no Sambódromo de Manaus",
+   "discovered_at": "2026-10-31T08:50:24+00:00",
+   "fb_post_id": "107393769293726_1524410169709874",
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae4d9e252c09500099dfe3d",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/049d046d-9b9e-4440-a2f3-dcf7f1cc7b9c.jpeg",
+   "key": "guid:6ae4d9e252c09500099dfe3d",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1524410169709874"
+   },
+   "source_published_at": "2026-10-30T17:59:11+00:00",
+   "status": "published",
+   "title": "Campanha arrecada alimentos para famílias atingidas por queimadas e estiagem",
+   "updated_at": "2026-10-31T08:52:08+00:00",
+   "url": "https://marioadolfo.com/campanha-arrecada-alimentos-para-familias-atingidas-por-queimadas-e-estiagem/",
+   "url_hash": "72e30cc597ca6657ffbd2a81"
+  },
+  "guid:6ae4e27252c09500099dfe58": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Profissionais têm até 30 de novembro para apresentar documentos e cumprir os procedimentos de posse",
+   "discovered_at": "2026-10-31T08:50:24+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae4e27252c09500099dfe58",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/081327dd-fcf8-40f4-a8dc-2441e5cf39f5.jpeg",
+   "key": "guid:6ae4e27252c09500099dfe58",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-30T18:32:50+00:00",
+   "status": "pending",
+   "title": "Prefeitura de Manaus nomeia 20 médicos aprovados em concurso da Semsa",
+   "updated_at": "2026-10-31T08:50:24+00:00",
+   "url": "https://marioadolfo.com/prefeitura-de-manaus-nomeia-20-medicos-aprovados-em-concurso-da-semsa/",
+   "url_hash": "b688d0bb5c1f23e13fbde0a1"
+  },
+  "guid:6ae4e30c52c09500099dfe71": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A meta da campanha é imunizar 282.400 animais. Vacinação segue até o dia 30 de novembro",
+   "discovered_at": "2026-10-31T08:50:24+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae4e30c52c09500099dfe71",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/df260b2e-1ea0-4d4e-8699-499e03bee8ad.jpeg",
+   "key": "guid:6ae4e30c52c09500099dfe71",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-30T18:36:42+00:00",
+   "status": "pending",
+   "title": "Campanha de vacinação antirrábica já atendeu 140 mil animais em Manaus",
+   "updated_at": "2026-10-31T08:50:24+00:00",
+   "url": "https://marioadolfo.com/campanha-de-vacinacao-antirrabica-ja-atendeu-140-mil-animais-em-manaus/",
+   "url_hash": "b1903c52a3934e24ca297da2"
+  },
+  "guid:6ae4e88652c09500099dfe8e": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Segunda Turma considerou a dispensa discriminatória e aplicou normas internacionais de proteção às pessoas com deficiência",
+   "discovered_at": "2026-10-31T08:50:24+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae4e88652c09500099dfe8e",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/8ae01246-73cc-4821-b0ca-6b9ce1aa07fa.jpg",
+   "key": "guid:6ae4e88652c09500099dfe8e",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-30T19:00:24+00:00",
+   "status": "pending",
+   "title": "TRT-11 determina reintegração de trabalhador com deficiência dispensado após afastamento",
+   "updated_at": "2026-10-31T08:50:24+00:00",
+   "url": "https://marioadolfo.com/trt-11-determina-reintegracao-de-trabalhador-com-deficiencia-dispensado-apos-afastamento/",
+   "url_hash": "33c112947bde2a2893a0f8e7"
+  },
+  "guid:6ae4eb4252c09500099dfea7": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Visitação começa nesta sexta-feira (30) e segue até segunda (2); prefeitura mobilizará mais de mil trabalhadores e servidores para atender ao público",
+   "discovered_at": "2026-10-31T08:50:24+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae4eb4252c09500099dfea7",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/bc2fe87c-1e68-4f7f-a426-5b99335d2814.jpg",
+   "key": "guid:6ae4eb4252c09500099dfea7",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-30T19:12:00+00:00",
+   "status": "pending",
+   "title": "Mais de 700 mil pessoas devem visitar cemitérios de Manaus no Dia de Finados",
+   "updated_at": "2026-10-31T08:50:24+00:00",
+   "url": "https://marioadolfo.com/mais-de-700-mil-pessoas-devem-visitar-cemiterios-de-manaus-no-dia-de-finados/",
+   "url_hash": "9520b43c22c0ef3d13e6df4a"
+  },
+  "guid:6ae4efd852c09500099dfec0": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Investigação aponta que um dos suspeitos fabricou artesanalmente a arma e a vendeu ao outro.",
+   "discovered_at": "2026-10-31T08:50:24+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae4efd852c09500099dfec0",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/429fac65-3f0c-451b-8a0a-e84ce4b9974d.jpg",
+   "key": "guid:6ae4efd852c09500099dfec0",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-30T19:30:22+00:00",
+   "status": "pending",
+   "title": "Tios de criança de 2 anos morta a tiros são presos no interior do AM",
+   "updated_at": "2026-10-31T08:50:24+00:00",
+   "url": "https://marioadolfo.com/tios-de-crianca-de-2-anos-morta-a-tiros-sao-presos-no-interior-do-am/",
+   "url_hash": "ab93174120393cc2d7f9aa58"
+  },
+  "guid:6ae4f2b052c09500099dfed6": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Governança climática e auditoria ambiental receberam 30 artigos cada, somando 60 dos 175 trabalhos submetidos, aproximadamente um em cada três",
+   "discovered_at": "2026-10-31T08:50:24+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae4f2b052c09500099dfed6",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/598a0874-c248-4f58-ab23-308c2e0282ac.jpeg",
+   "key": "guid:6ae4f2b052c09500099dfed6",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-30T19:41:28+00:00",
+   "status": "pending",
+   "title": "Um em cada três artigos do concurso do TCE-AM trata de clima e auditoria ambiental",
+   "updated_at": "2026-10-31T08:50:24+00:00",
+   "url": "https://marioadolfo.com/um-em-cada-tres-artigos-do-concurso-do-tce-am-trata-de-clima-e-auditoria-ambiental/",
+   "url_hash": "29df002fc709d70f093ea129"
+  },
+  "guid:6ae4f3f352c09500099dfeea": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Estão em andamento estão a recomposição de frisos, cimalhas e ornatos, elementos que recebem atenção especial para manter os desenhos e acabamentos originais da construção",
+   "discovered_at": "2026-10-31T08:50:24+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae4f3f352c09500099dfeea",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/62de8e1e-af24-466e-a2af-e39494ecff88.jpg",
+   "key": "guid:6ae4f3f352c09500099dfeea",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-30T19:47:54+00:00",
+   "status": "pending",
+   "title": "Obra de recuperação do Casarão de São Vicente avança no Centro Histórico",
+   "updated_at": "2026-10-31T08:50:24+00:00",
+   "url": "https://marioadolfo.com/obra-de-recuperacao-do-casarao-de-sao-vicente-avanca-no-centro-historico/",
+   "url_hash": "881c8e169333b7b7aa138723"
+  },
+  "guid:6ae4f55f52c09500099dff01": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Nova fase de execução terá serviços voltados à construção da trincheira, estrutura que vai integrar as avenidas Coronel Teixeira e Brasil",
+   "discovered_at": "2026-10-31T08:50:24+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae4f55f52c09500099dff01",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b0fd1477-96e6-4991-b6cf-536dd747b0f2.jpg",
+   "key": "guid:6ae4f55f52c09500099dff01",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-30T19:56:50+00:00",
+   "status": "pending",
+   "title": "Obra de construção do viaduto Passarão alcança 61% de execução",
+   "updated_at": "2026-10-31T08:50:24+00:00",
+   "url": "https://marioadolfo.com/obra-de-construcao-do-viaduto-passarao-alcanca-61-de-execucao/",
+   "url_hash": "5afc8b270fcd3817e777cfc0"
+  },
+  "guid:6ae50c9b52c09500099dff3d": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Segundo a Polícia Civil,  o suspeito é da família da vítima e teria se aproveitado do ambiente doméstico para praticar o abuso",
+   "discovered_at": "2026-10-31T08:50:24+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae50c9b52c09500099dff3d",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/fd46bc88-e335-4ebf-820d-44945e6e91f7.png",
+   "key": "guid:6ae50c9b52c09500099dff3d",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-30T21:34:12+00:00",
+   "status": "pending",
+   "title": "Jovem é preso por estuprar e enforcar criança de 10 anos em Novo Airão",
+   "updated_at": "2026-10-31T08:50:24+00:00",
+   "url": "https://marioadolfo.com/jovem-e-preso-por-estuprar-e-enforcar-crianca-de-10-anos-em-novo-airao/",
+   "url_hash": "e0e485f936e870e1d5649ddf"
+  },
+  "guid:6ae50d0e52c09500099dff4e": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Decisão prevê retirada de 14 publicações e multa por descumprimento",
+   "discovered_at": "2026-10-31T08:50:24+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae50d0e52c09500099dff4e",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f21035cd-9e09-44eb-9b50-23948b5ff639.jpg",
+   "key": "guid:6ae50d0e52c09500099dff4e",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-10-30T21:33:57+00:00",
+   "status": "pending",
+   "title": "Justiça manda Meta excluir posts sobre demissão por voto político",
+   "updated_at": "2026-10-31T08:50:24+00:00",
+   "url": "https://marioadolfo.com/justica-manda-meta-excluir-posts-sobre-demissao-por-voto-politico/",
+   "url_hash": "e8305993801b24ac8ed279d8"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-10-30T08:40:15+00:00",
-  "saved_at": "2026-10-30T08:40:16+00:00"
+  "last_run_at": "2026-10-31T08:50:23+00:00",
+  "saved_at": "2026-10-31T08:52:08+00:00"
  },
  "schema": 1
 }
