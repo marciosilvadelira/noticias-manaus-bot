@@ -16039,13 +16039,76 @@
    "updated_at": "2026-11-01T18:00:19+00:00",
    "url": "https://marioadolfo.com/video-queda-de-aviao-em-humaita-deixa-casal-e-filha-gravemente-feridas/",
    "url_hash": "dd9430b66d9b1e9092aeb613"
+  },
+  "guid:6ae77e3b52c09500099e030d": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Governo repudia qualquer tipo de ameaça ou ofensa em ambiente escolar",
+   "discovered_at": "2026-11-01T18:10:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae77e3b52c09500099e030d",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c57a5738-8ee4-49e7-9e7a-44297acf9706.webp",
+   "key": "guid:6ae77e3b52c09500099e030d",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-01T18:01:53+00:00",
+   "status": "pending",
+   "title": "MEC encaminha à PF denúncias de violência política",
+   "updated_at": "2026-11-01T18:10:15+00:00",
+   "url": "https://marioadolfo.com/mec-encaminha-a-pf-denuncias-de-violencia-politica/",
+   "url_hash": "930d6f30ef501782014342d3"
+  },
+  "guid:6ae77eb052c09500099e0323": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Novas regras pretendem ampliar as opções de uso dos benefícios",
+   "discovered_at": "2026-11-01T18:10:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae77eb052c09500099e0323",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/13cf62e5-371b-4b41-9026-f96357d8ec33.webp",
+   "key": "guid:6ae77eb052c09500099e0323",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-01T18:04:04+00:00",
+   "status": "pending",
+   "title": "Recebimento de vales-alimentação e refeição mudam a partir do dia 7",
+   "updated_at": "2026-11-01T18:10:15+00:00",
+   "url": "https://marioadolfo.com/recebimento-de-vales-alimentacao-e-refeicao-mudam-a-partir-do-dia-7/",
+   "url_hash": "0736ee948788aaf4a091029b"
+  },
+  "guid:6ae77f4252c09500099e0339": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A atuação da Defensoria ocorreu durante o plantão judicial, após o cumprimento do mandado de prisão no município de Barcelos",
+   "discovered_at": "2026-11-01T18:10:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae77f4252c09500099e0339",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/1b9641a8-51c9-41fe-9cea-6debae548523.webp",
+   "key": "guid:6ae77f4252c09500099e0339",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-01T18:07:42+00:00",
+   "status": "pending",
+   "title": "Justiça solta homem preso por dívida de pensão que já havia sido paga no AM",
+   "updated_at": "2026-11-01T18:10:15+00:00",
+   "url": "https://marioadolfo.com/justica-solta-homem-preso-por-divida-de-pensao-que-ja-havia-sido-paga-no-am/",
+   "url_hash": "6b4caded445eb122bc3ab362"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-01T18:00:18+00:00",
-  "saved_at": "2026-11-01T18:00:19+00:00"
+  "last_run_at": "2026-11-01T18:10:13+00:00",
+  "saved_at": "2026-11-01T18:10:15+00:00"
  },
  "schema": 1
 }
