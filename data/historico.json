@@ -16123,13 +16123,34 @@
    "updated_at": "2026-11-01T18:20:17+00:00",
    "url": "https://marioadolfo.com/estiagem-47-municipios-estao-em-situacao-de-emergencia-no-amazonas/",
    "url_hash": "5c9e76a19c0c51d764c76e0c"
+  },
+  "guid:6ae78dd552c09500099e036b": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Muitos escolheram não esperar até segunda-feira (2), Dia de Finados, para prestar homenagens a parentes e amigos que já partiram",
+   "discovered_at": "2026-11-01T19:10:14+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae78dd552c09500099e036b",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/10d22eb1-5f59-461c-8e95-93b3067b675f.jpeg",
+   "key": "guid:6ae78dd552c09500099e036b",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-01T19:08:42+00:00",
+   "status": "pending",
+   "title": "Milhares de pessoas antecipam visitas aos cemitérios de Manaus",
+   "updated_at": "2026-11-01T19:10:14+00:00",
+   "url": "https://marioadolfo.com/milhares-de-pessoas-antecipam-visitas-aos-cemiterios-de-manaus/",
+   "url_hash": "e706aca1f103fa3b28457d79"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-01T19:03:50+00:00",
-  "saved_at": "2026-11-01T19:03:52+00:00"
+  "last_run_at": "2026-11-01T19:10:14+00:00",
+  "saved_at": "2026-11-01T19:10:15+00:00"
  },
  "schema": 1
 }
