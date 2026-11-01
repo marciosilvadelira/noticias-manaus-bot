@@ -16018,13 +16018,34 @@
    "updated_at": "2026-11-01T17:40:14+00:00",
    "url": "https://marioadolfo.com/garantido-encerra-temporada-2026-em-manaus-e-reune-itens-oficiais-no-sambodromo/",
    "url_hash": "e85561485751da6ad16eb65b"
+  },
+  "guid:6ae779be52c09500099e02d4": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Após a queda, os três foram socorridos por motoristas que passagem pelo local e encaminhados ao Hospital de Humaitá",
+   "discovered_at": "2026-11-01T18:00:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae779be52c09500099e02d4",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f7352435-9a5c-48e6-98b9-c60c9aa245b5.jpeg",
+   "key": "guid:6ae779be52c09500099e02d4",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-01T17:58:07+00:00",
+   "status": "pending",
+   "title": "Vídeo: queda de avião em Humaitá deixa casal e filha feridos",
+   "updated_at": "2026-11-01T18:00:19+00:00",
+   "url": "https://marioadolfo.com/video-queda-de-aviao-em-humaita-deixa-casal-e-filha-gravemente-feridas/",
+   "url_hash": "dd9430b66d9b1e9092aeb613"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-01T17:50:14+00:00",
-  "saved_at": "2026-11-01T17:50:15+00:00"
+  "last_run_at": "2026-11-01T18:00:18+00:00",
+  "saved_at": "2026-11-01T18:00:19+00:00"
  },
  "schema": 1
 }
