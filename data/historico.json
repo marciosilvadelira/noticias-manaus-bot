@@ -15913,13 +15913,55 @@
    "updated_at": "2026-11-01T13:20:18+00:00",
    "url": "https://marioadolfo.com/dito-feito-bye-bye-tio-sam/",
    "url_hash": "330c5fead190874cdb724b44"
+  },
+  "guid:6ae7401b52c09500099e024e": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Testemunhas apontam que dois homens chegaram ao estabelecimento em uma motocicleta e efetuaram os disparos",
+   "discovered_at": "2026-11-01T13:50:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae7401b52c09500099e024e",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/7abab1e0-6be8-40c1-ae08-ac16ad097911.webp",
+   "key": "guid:6ae7401b52c09500099e024e",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-01T13:44:12+00:00",
+   "status": "pending",
+   "title": "PM é morto com nove tiros dentro de supermercado no bairro Compensa",
+   "updated_at": "2026-11-01T13:50:15+00:00",
+   "url": "https://marioadolfo.com/pm-e-morto-com-nove-tiros-dentro-de-supermercado-no-bairro-compensa/",
+   "url_hash": "7a708b4955c3e9a2582564bf"
+  },
+  "guid:6ae7416d52c09500099e0263": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "A vítima apresentava marcas de agressão e sinais de tortura",
+   "discovered_at": "2026-11-01T13:50:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae7416d52c09500099e0263",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/14e9c1e7-e400-47f9-a6a9-22e918dd0982.jpeg",
+   "key": "guid:6ae7416d52c09500099e0263",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-01T13:44:02+00:00",
+   "status": "pending",
+   "title": "Homem desaparecido há mais de 24 horas é encontro morto no Tarumã",
+   "updated_at": "2026-11-01T13:50:15+00:00",
+   "url": "https://marioadolfo.com/homem-desaparecido-ha-mais-de-24-horas-e-encontro-morto-no-taruma/",
+   "url_hash": "9cb3e7ec681060136334993c"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-01T13:40:14+00:00",
-  "saved_at": "2026-11-01T13:40:15+00:00"
+  "last_run_at": "2026-11-01T13:50:15+00:00",
+  "saved_at": "2026-11-01T13:50:16+00:00"
  },
  "schema": 1
 }
