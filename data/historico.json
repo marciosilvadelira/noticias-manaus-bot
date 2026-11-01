@@ -15768,13 +15768,44 @@
    "updated_at": "2026-11-01T04:30:26+00:00",
    "url": "https://marioadolfo.com/comissao-do-senado-confirma-eduardo-braga-como-relator-da-aliquota-da-cbs/",
    "url_hash": "d1fe39754189febf31eeba3a"
+  },
+  "guid:6ae6a7bc52c09500099e019f": {
+   "attempts": [
+    {
+     "at": "2026-11-01T11:40:24+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1525590572925167",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Polícia",
+   "description": "A vítima foi encontrada pela irmã e estava no interior de um banheiro em um imóvel situado na Alameda Boa Fé",
+   "discovered_at": "2026-11-01T11:40:16+00:00",
+   "fb_post_id": "107393769293726_1525590572925167",
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae6a7bc52c09500099e019f",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6a532098-0b08-4809-a21b-caa701e7abe2.png",
+   "key": "guid:6ae6a7bc52c09500099e019f",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1525590572925167"
+   },
+   "source_published_at": "2026-11-01T11:30:42+00:00",
+   "status": "published",
+   "title": "Eletricista é assassinado a facadas dentro de casa na Vila da Prata",
+   "updated_at": "2026-11-01T11:40:24+00:00",
+   "url": "https://marioadolfo.com/eletricista-e-assassinado-a-facadas-dentro-de-casa-na-vila-da-prata/",
+   "url_hash": "f2cd6da973349c78ddc89ffa"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-01T11:30:17+00:00",
-  "saved_at": "2026-11-01T11:30:19+00:00"
+  "last_run_at": "2026-11-01T11:40:14+00:00",
+  "saved_at": "2026-11-01T11:40:24+00:00"
  },
  "schema": 1
 }
