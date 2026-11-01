@@ -15997,13 +15997,34 @@
    "updated_at": "2026-11-01T15:20:14+00:00",
    "url": "https://marioadolfo.com/cancer-de-prostata-matou-50-homens-por-dia-no-pais-em-2025/",
    "url_hash": "4f5875822e833183e4935563"
+  },
+  "guid:6ae777a052c09500099e02ba": {
+   "attempts": [],
+   "category": "Parintins",
+   "description": "A programação reuniu torcedores em uma noite de apresentações para celebrar o boi da Baixa do São José",
+   "discovered_at": "2026-11-01T17:40:14+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae777a052c09500099e02ba",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/65aa7b60-2a5d-4d00-ac33-8253182899ba.jpeg",
+   "key": "guid:6ae777a052c09500099e02ba",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-01T17:34:23+00:00",
+   "status": "pending",
+   "title": "Garantido encerra temporada 2026 em Manaus e reúne itens oficiais no Sambódromo",
+   "updated_at": "2026-11-01T17:40:14+00:00",
+   "url": "https://marioadolfo.com/garantido-encerra-temporada-2026-em-manaus-e-reune-itens-oficiais-no-sambodromo/",
+   "url_hash": "e85561485751da6ad16eb65b"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-01T17:30:17+00:00",
-  "saved_at": "2026-11-01T17:30:18+00:00"
+  "last_run_at": "2026-11-01T17:40:13+00:00",
+  "saved_at": "2026-11-01T17:40:14+00:00"
  },
  "schema": 1
 }
