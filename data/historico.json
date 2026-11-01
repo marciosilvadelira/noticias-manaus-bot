@@ -15861,13 +15861,44 @@
    "updated_at": "2026-11-01T12:10:21+00:00",
    "url": "https://marioadolfo.com/mte-recebe-4-3-mil-denuncias-de-assedio-eleitoral-em-tres-dias/",
    "url_hash": "8c63256a5eb32d72d99f8486"
+  },
+  "guid:6ae7361052c09500099e01d4": {
+   "attempts": [
+    {
+     "at": "2026-11-01T13:00:25+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1525653706252187",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Parintins",
+   "description": "Proposta celebra a identidade do povo parintinense, os saberes ancestrais e a genialidade artística que fazem do Boi Negro uma expressão viva da cultura amazônica",
+   "discovered_at": "2026-11-01T13:00:19+00:00",
+   "fb_post_id": "107393769293726_1525653706252187",
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae7361052c09500099e01d4",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/7e847986-c6ac-4d7b-83c7-58eaf63dd99e.jpeg",
+   "key": "guid:6ae7361052c09500099e01d4",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1525653706252187"
+   },
+   "source_published_at": "2026-11-01T12:57:00+00:00",
+   "status": "published",
+   "title": "Caprichoso anuncia “Criação Que Vem da Alma” como tema do Bicampeonato",
+   "updated_at": "2026-11-01T13:00:25+00:00",
+   "url": "https://marioadolfo.com/caprichoso-anuncia-criacao-que-vem-da-alma-como-tema-do-bicampeonato/",
+   "url_hash": "338f6574464d5d0241dff660"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-01T12:50:13+00:00",
-  "saved_at": "2026-11-01T12:50:14+00:00"
+  "last_run_at": "2026-11-01T13:00:19+00:00",
+  "saved_at": "2026-11-01T13:00:25+00:00"
  },
  "schema": 1
 }
