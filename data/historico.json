@@ -15955,13 +15955,34 @@
    "updated_at": "2026-11-01T13:50:15+00:00",
    "url": "https://marioadolfo.com/homem-desaparecido-ha-mais-de-24-horas-e-encontro-morto-no-taruma/",
    "url_hash": "9cb3e7ec681060136334993c"
+  },
+  "guid:6ae7538e52c09500099e027e": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Os entorpecentes foram apreendidos durante fiscalização no município de Boa Vista do Ramos",
+   "discovered_at": "2026-11-01T15:10:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae7538e52c09500099e027e",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/dc6b9bff-9221-43d5-8386-1b3cff24df0d.png",
+   "key": "guid:6ae7538e52c09500099e027e",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-01T15:01:56+00:00",
+   "status": "pending",
+   "title": "Polícia apreende mais de 5,8 quilos de drogas em embarcação no interior do Amazonas",
+   "updated_at": "2026-11-01T15:10:15+00:00",
+   "url": "https://marioadolfo.com/policia-apreende-mais-de-5-8-quilos-de-drogas-em-embarcacao-no-interior-do-amazonas/",
+   "url_hash": "48d56b3b1278b90e8720773a"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-01T15:00:19+00:00",
-  "saved_at": "2026-11-01T15:00:20+00:00"
+  "last_run_at": "2026-11-01T15:10:13+00:00",
+  "saved_at": "2026-11-01T15:10:16+00:00"
  },
  "schema": 1
 }
