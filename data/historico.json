@@ -15892,13 +15892,34 @@
    "updated_at": "2026-11-01T13:00:25+00:00",
    "url": "https://marioadolfo.com/caprichoso-anuncia-criacao-que-vem-da-alma-como-tema-do-bicampeonato/",
    "url_hash": "338f6574464d5d0241dff660"
+  },
+  "guid:6ae737cc52c09500099e0206": {
+   "attempts": [],
+   "category": "Dito & Feito",
+   "description": "“Quando Trump se for, os Bolsonaro devem ser deportados\". Começa a pressão do partido Democrata para expulsar os fugitivos do Brasil",
+   "discovered_at": "2026-11-01T13:20:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae737cc52c09500099e0206",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b5cda372-0d6c-4cb4-b981-ee72e7a14664.jpeg",
+   "key": "guid:6ae737cc52c09500099e0206",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-01T13:10:40+00:00",
+   "status": "pending",
+   "title": "Dito & Feito: BYE, BYE TIO SAM!",
+   "updated_at": "2026-11-01T13:20:18+00:00",
+   "url": "https://marioadolfo.com/dito-feito-bye-bye-tio-sam/",
+   "url_hash": "330c5fead190874cdb724b44"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-01T13:10:14+00:00",
-  "saved_at": "2026-11-01T13:10:14+00:00"
+  "last_run_at": "2026-11-01T13:20:17+00:00",
+  "saved_at": "2026-11-01T13:20:18+00:00"
  },
  "schema": 1
 }
