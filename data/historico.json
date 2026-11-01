@@ -15830,13 +15830,44 @@
    "updated_at": "2026-11-01T11:40:24+00:00",
    "url": "https://marioadolfo.com/eletricista-e-assassinado-a-facadas-dentro-de-casa-na-vila-da-prata/",
    "url_hash": "f2cd6da973349c78ddc89ffa"
+  },
+  "guid:6ae6a94a52c09500099e01ba": {
+   "attempts": [
+    {
+     "at": "2026-11-01T12:10:21+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1525614736256084",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Brasil",
+   "description": "Quase metade dos casos denunciados foram na Região Sudeste",
+   "discovered_at": "2026-11-01T12:10:13+00:00",
+   "fb_post_id": "107393769293726_1525614736256084",
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae6a94a52c09500099e01ba",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/22bcab54-cb35-4e47-ab45-3b9bcf8e2dcb.webp",
+   "key": "guid:6ae6a94a52c09500099e01ba",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1525614736256084"
+   },
+   "source_published_at": "2026-11-01T12:00:26+00:00",
+   "status": "published",
+   "title": "MTE recebe 4,3 mil denúncias de assédio eleitoral em três dias",
+   "updated_at": "2026-11-01T12:10:21+00:00",
+   "url": "https://marioadolfo.com/mte-recebe-4-3-mil-denuncias-de-assedio-eleitoral-em-tres-dias/",
+   "url_hash": "8c63256a5eb32d72d99f8486"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-01T12:00:19+00:00",
-  "saved_at": "2026-11-01T12:00:25+00:00"
+  "last_run_at": "2026-11-01T12:10:13+00:00",
+  "saved_at": "2026-11-01T12:10:21+00:00"
  },
  "schema": 1
 }
