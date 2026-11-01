@@ -16102,13 +16102,34 @@
    "updated_at": "2026-11-01T18:10:15+00:00",
    "url": "https://marioadolfo.com/justica-solta-homem-preso-por-divida-de-pensao-que-ja-havia-sido-paga-no-am/",
    "url_hash": "6b4caded445eb122bc3ab362"
+  },
+  "guid:6ae7808152c09500099e0353": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "De acordo com a Defesa Civil, 146.425 famílias foram atingidas pela seca",
+   "discovered_at": "2026-11-01T18:20:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae7808152c09500099e0353",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/97f84629-a48b-4265-a228-62b31a7cd344.jpeg",
+   "key": "guid:6ae7808152c09500099e0353",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-01T18:15:37+00:00",
+   "status": "pending",
+   "title": "Estiagem: 47 municípios estão em situação de emergência no Amazonas",
+   "updated_at": "2026-11-01T18:20:17+00:00",
+   "url": "https://marioadolfo.com/estiagem-47-municipios-estao-em-situacao-de-emergencia-no-amazonas/",
+   "url_hash": "5c9e76a19c0c51d764c76e0c"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-01T18:10:13+00:00",
-  "saved_at": "2026-11-01T18:10:15+00:00"
+  "last_run_at": "2026-11-01T18:20:15+00:00",
+  "saved_at": "2026-11-01T18:20:17+00:00"
  },
  "schema": 1
 }
