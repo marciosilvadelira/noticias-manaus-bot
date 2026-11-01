@@ -15976,13 +15976,34 @@
    "updated_at": "2026-11-01T15:10:15+00:00",
    "url": "https://marioadolfo.com/policia-apreende-mais-de-5-8-quilos-de-drogas-em-embarcacao-no-interior-do-amazonas/",
    "url_hash": "48d56b3b1278b90e8720773a"
+  },
+  "guid:6ae7554652c09500099e02a3": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Novembro Azul chama a atenção para os cuidados com saúde masculina",
+   "discovered_at": "2026-11-01T15:20:14+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae7554652c09500099e02a3",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6e1e456d-01c0-4d00-9ce9-1299db70f680.webp",
+   "key": "guid:6ae7554652c09500099e02a3",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-01T15:18:59+00:00",
+   "status": "pending",
+   "title": "Câncer de próstata matou 50 homens por dia no país em 2025",
+   "updated_at": "2026-11-01T15:20:14+00:00",
+   "url": "https://marioadolfo.com/cancer-de-prostata-matou-50-homens-por-dia-no-pais-em-2025/",
+   "url_hash": "4f5875822e833183e4935563"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-01T15:10:13+00:00",
-  "saved_at": "2026-11-01T15:10:16+00:00"
+  "last_run_at": "2026-11-01T15:20:13+00:00",
+  "saved_at": "2026-11-01T15:20:14+00:00"
  },
  "schema": 1
 }
