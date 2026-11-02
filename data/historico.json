@@ -16295,13 +16295,75 @@
    "updated_at": "2026-11-02T13:10:20+00:00",
    "url": "https://marioadolfo.com/lula-garante-que-programas-sociais-serao-mantidos-em-seu-quarto-mandato/",
    "url_hash": "1edc1c824b31e59498d52b94"
+  },
+  "guid:6ae88b5952c09500099e039f": {
+   "attempts": [
+    {
+     "at": "2026-11-02T13:20:25+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1526692952814929",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Brasil",
+   "description": "Ministério dos Direitos Humanos recebeu 189 denúncias ao longo dos dois últimos meses até o final das eleições",
+   "discovered_at": "2026-11-02T13:20:19+00:00",
+   "fb_post_id": "107393769293726_1526692952814929",
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae88b5952c09500099e039f",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/18e1f54d-520e-4367-840b-bed14e445201.webp",
+   "key": "guid:6ae88b5952c09500099e039f",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1526692952814929"
+   },
+   "source_published_at": "2026-11-02T13:11:17+00:00",
+   "status": "published",
+   "title": "Denúncias de violência política sobem 350% no Disque 100",
+   "updated_at": "2026-11-02T13:20:25+00:00",
+   "url": "https://marioadolfo.com/denuncias-de-violencia-politica-sobem-350-no-disque-100/",
+   "url_hash": "66a92ad9f545e2c881646561"
+  },
+  "guid:6ae88c5052c09500099e03c8": {
+   "attempts": [
+    {
+     "at": "2026-11-02T13:20:48+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1526693219481569",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "Em razão da data, o funcionamento dos estabelecimentos comerciais poderá sofrer alterações",
+   "discovered_at": "2026-11-02T13:20:19+00:00",
+   "fb_post_id": "107393769293726_1526693219481569",
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae88c5052c09500099e03c8",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d8def5fd-2b7b-4610-bc79-eb26bba60a3f.jpeg",
+   "key": "guid:6ae88c5052c09500099e03c8",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1526693219481569"
+   },
+   "source_published_at": "2026-11-02T13:16:26+00:00",
+   "status": "published",
+   "title": "Veja o que abre e fecha em Manaus durante o feriado de Finados",
+   "updated_at": "2026-11-02T13:20:48+00:00",
+   "url": "https://marioadolfo.com/veja-o-que-abre-e-fecha-em-manaus-durante-o-feriado-de-finados/",
+   "url_hash": "0fb5328369c59ae2e4d898b5"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-02T13:10:15+00:00",
-  "saved_at": "2026-11-02T13:10:20+00:00"
+  "last_run_at": "2026-11-02T13:20:19+00:00",
+  "saved_at": "2026-11-02T13:20:48+00:00"
  },
  "schema": 1
 }
