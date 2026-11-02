@@ -16512,13 +16512,55 @@
    "updated_at": "2026-11-02T14:41:05+00:00",
    "url": "https://marioadolfo.com/mutirao-previdenciario-da-defensoria-chega-a-anama-nesta-terca-feira/",
    "url_hash": "f96d5b6d4cf92c66c26235ad"
+  },
+  "guid:6ae8ad1752c09500099e0468": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Montagem do Ateliê 23 terá apresentações nesta terça e quarta-feira, às 20h, com homenagem ao artista Matheus Sabá e sorteios especiais para o público",
+   "discovered_at": "2026-11-02T15:40:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae8ad1752c09500099e0468",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/69487dca-a9b8-4565-9212-561d6e70b66b.jpeg",
+   "key": "guid:6ae8ad1752c09500099e0468",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-02T15:35:18+00:00",
+   "status": "pending",
+   "title": "Premiado espetáculo ‘Sebastião’ retorna ao Teatro Gebes Medeiros com as drags do Bar Patrícia",
+   "updated_at": "2026-11-02T15:40:18+00:00",
+   "url": "https://marioadolfo.com/premiado-espetaculo-sebastiao-retorna-ao-teatro-gebes-medeiros-com-as-drags-do-bar-patricia/",
+   "url_hash": "f182beb782d44063a1c2cfa2"
+  },
+  "guid:6ae8ade552c09500099e0488": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Ações de imunização incluem vacinação casa a casa e preparação para o Dia D, em 7 de novembro",
+   "discovered_at": "2026-11-02T15:40:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae8ade552c09500099e0488",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b65d52bd-d457-4532-8f82-97dd756667a9.jpeg",
+   "key": "guid:6ae8ade552c09500099e0488",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-02T15:37:44+00:00",
+   "status": "pending",
+   "title": "Amazonas reforça vacinação contra o sarampo na região da tríplice fronteira",
+   "updated_at": "2026-11-02T15:40:18+00:00",
+   "url": "https://marioadolfo.com/amazonas-reforca-vacinacao-contra-o-sarampo-na-regiao-da-triplice-fronteira/",
+   "url_hash": "8393323b07329d7551e0ed80"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-02T15:30:18+00:00",
-  "saved_at": "2026-11-02T15:30:20+00:00"
+  "last_run_at": "2026-11-02T15:40:17+00:00",
+  "saved_at": "2026-11-02T15:40:19+00:00"
  },
  "schema": 1
 }
