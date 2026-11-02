@@ -16264,13 +16264,44 @@
    "updated_at": "2026-11-02T04:20:49+00:00",
    "url": "https://marioadolfo.com/milhares-de-pessoas-antecipam-visitas-aos-cemiterios-de-manaus/",
    "url_hash": "e706aca1f103fa3b28457d79"
+  },
+  "guid:6ae88a0a52c09500099e0381": {
+   "attempts": [
+    {
+     "at": "2026-11-02T13:10:20+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1526684576149100",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Brasil",
+   "description": "Presidente criticou ainda a divulgação de fake news",
+   "discovered_at": "2026-11-02T13:10:15+00:00",
+   "fb_post_id": "107393769293726_1526684576149100",
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae88a0a52c09500099e0381",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/65e589be-7475-4bbe-9065-5fc78395e762.webp",
+   "key": "guid:6ae88a0a52c09500099e0381",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1526684576149100"
+   },
+   "source_published_at": "2026-11-02T13:08:27+00:00",
+   "status": "published",
+   "title": "Lula garante que programas sociais serão mantidos em seu quarto mandato",
+   "updated_at": "2026-11-02T13:10:20+00:00",
+   "url": "https://marioadolfo.com/lula-garante-que-programas-sociais-serao-mantidos-em-seu-quarto-mandato/",
+   "url_hash": "1edc1c824b31e59498d52b94"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-02T13:00:20+00:00",
-  "saved_at": "2026-11-02T13:00:20+00:00"
+  "last_run_at": "2026-11-02T13:10:15+00:00",
+  "saved_at": "2026-11-02T13:10:20+00:00"
  },
  "schema": 1
 }
