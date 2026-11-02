@@ -16638,13 +16638,34 @@
    "updated_at": "2026-11-02T19:50:18+00:00",
    "url": "https://marioadolfo.com/prefeitura-de-manaus-mobiliza-mais-de-mil-servidores-para-receber-visitantes-nos-cemiterios/",
    "url_hash": "b03d6185a094b71e4eb3f408"
+  },
+  "guid:6ae8e8cb52c09500099e0525": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Mais de 8.030 audiências estão pautadas para ocorrer nesta edição",
+   "discovered_at": "2026-11-02T20:00:25+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae8e8cb52c09500099e0525",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/371220a8-3ae9-4263-968c-e3f0f1d6a3cc.jpeg",
+   "key": "guid:6ae8e8cb52c09500099e0525",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-02T19:51:44+00:00",
+   "status": "pending",
+   "title": "Justiça inicia ‘Semana Nacional da Conciliação’ no Amazonas, nesta terça (3)",
+   "updated_at": "2026-11-02T20:00:25+00:00",
+   "url": "https://marioadolfo.com/justica-inicia-semana-nacional-da-conciliacao-no-amazonas-nesta-terca-3/",
+   "url_hash": "a62487b561b001bc81945e32"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-02T19:50:16+00:00",
-  "saved_at": "2026-11-02T19:50:18+00:00"
+  "last_run_at": "2026-11-02T20:00:24+00:00",
+  "saved_at": "2026-11-02T20:00:25+00:00"
  },
  "schema": 1
 }
