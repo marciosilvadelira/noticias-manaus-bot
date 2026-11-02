@@ -16204,11 +16204,19 @@
    "url_hash": "6b4caded445eb122bc3ab362"
   },
   "guid:6ae7808152c09500099e0353": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-02T04:20:23+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1526302406187317",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "De acordo com a Defesa Civil, 146.425 famílias foram atingidas pela seca",
    "discovered_at": "2026-11-01T18:20:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1526302406187317",
    "formats": [
     "link"
    ],
@@ -16216,20 +16224,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/97f84629-a48b-4265-a228-62b31a7cd344.jpeg",
    "key": "guid:6ae7808152c09500099e0353",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1526302406187317"
+   },
    "source_published_at": "2026-11-01T18:15:37+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Estiagem: 47 municípios estão em situação de emergência no Amazonas",
-   "updated_at": "2026-11-01T18:20:17+00:00",
+   "updated_at": "2026-11-02T04:20:23+00:00",
    "url": "https://marioadolfo.com/estiagem-47-municipios-estao-em-situacao-de-emergencia-no-amazonas/",
    "url_hash": "5c9e76a19c0c51d764c76e0c"
   },
   "guid:6ae78dd552c09500099e036b": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-02T04:20:49+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1526302716187286",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Muitos escolheram não esperar até segunda-feira (2), Dia de Finados, para prestar homenagens a parentes e amigos que já partiram",
    "discovered_at": "2026-11-01T19:10:14+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1526302716187286",
    "formats": [
     "link"
    ],
@@ -16237,11 +16255,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/10d22eb1-5f59-461c-8e95-93b3067b675f.jpeg",
    "key": "guid:6ae78dd552c09500099e036b",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1526302716187286"
+   },
    "source_published_at": "2026-11-01T19:08:42+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Milhares de pessoas antecipam visitas aos cemitérios de Manaus",
-   "updated_at": "2026-11-01T19:10:14+00:00",
+   "updated_at": "2026-11-02T04:20:49+00:00",
    "url": "https://marioadolfo.com/milhares-de-pessoas-antecipam-visitas-aos-cemiterios-de-manaus/",
    "url_hash": "e706aca1f103fa3b28457d79"
   }
@@ -16249,8 +16269,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-02T04:10:14+00:00",
-  "saved_at": "2026-11-02T04:12:01+00:00"
+  "last_run_at": "2026-11-02T04:20:15+00:00",
+  "saved_at": "2026-11-02T04:20:49+00:00"
  },
  "schema": 1
 }
