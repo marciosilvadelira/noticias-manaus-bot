@@ -16357,13 +16357,44 @@
    "updated_at": "2026-11-02T13:20:48+00:00",
    "url": "https://marioadolfo.com/veja-o-que-abre-e-fecha-em-manaus-durante-o-feriado-de-finados/",
    "url_hash": "0fb5328369c59ae2e4d898b5"
+  },
+  "guid:6ae88d5152c09500099e03e2": {
+   "attempts": [
+    {
+     "at": "2026-11-02T13:30:22+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1526700596147498",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "A entrada é gratuita, por ordem de chegada e sem reserva prévia, no Cine Teatro Guarany",
+   "discovered_at": "2026-11-02T13:30:18+00:00",
+   "fb_post_id": "107393769293726_1526700596147498",
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae88d5152c09500099e03e2",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b0f80419-4aca-40b5-a15e-c916d0da2a4c.jpeg",
+   "key": "guid:6ae88d5152c09500099e03e2",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1526700596147498"
+   },
+   "source_published_at": "2026-11-02T13:19:37+00:00",
+   "status": "published",
+   "title": "Curta amazonense “Mata-Gato” tem sessão especial em Libras",
+   "updated_at": "2026-11-02T13:30:22+00:00",
+   "url": "https://marioadolfo.com/curta-amazonense-mata-gato-tem-sessao-especial-em-libras/",
+   "url_hash": "4db9e2b5e1c1348957e9b743"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-02T13:20:19+00:00",
-  "saved_at": "2026-11-02T13:20:48+00:00"
+  "last_run_at": "2026-11-02T13:30:17+00:00",
+  "saved_at": "2026-11-02T13:30:22+00:00"
  },
  "schema": 1
 }
