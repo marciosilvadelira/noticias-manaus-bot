@@ -15894,11 +15894,19 @@
    "url_hash": "338f6574464d5d0241dff660"
   },
   "guid:6ae737cc52c09500099e0206": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-02T04:00:25+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1526285906188967",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Dito & Feito",
    "description": "“Quando Trump se for, os Bolsonaro devem ser deportados\". Começa a pressão do partido Democrata para expulsar os fugitivos do Brasil",
    "discovered_at": "2026-11-01T13:20:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1526285906188967",
    "formats": [
     "link"
    ],
@@ -15906,20 +15914,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b5cda372-0d6c-4cb4-b981-ee72e7a14664.jpeg",
    "key": "guid:6ae737cc52c09500099e0206",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1526285906188967"
+   },
    "source_published_at": "2026-11-01T13:10:40+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Dito & Feito: BYE, BYE TIO SAM!",
-   "updated_at": "2026-11-01T13:20:18+00:00",
+   "updated_at": "2026-11-02T04:00:25+00:00",
    "url": "https://marioadolfo.com/dito-feito-bye-bye-tio-sam/",
    "url_hash": "330c5fead190874cdb724b44"
   },
   "guid:6ae7401b52c09500099e024e": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-02T04:01:15+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1526287049522186",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Testemunhas apontam que dois homens chegaram ao estabelecimento em uma motocicleta e efetuaram os disparos",
    "discovered_at": "2026-11-01T13:50:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1526287049522186",
    "formats": [
     "link"
    ],
@@ -15927,20 +15945,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/7abab1e0-6be8-40c1-ae08-ac16ad097911.webp",
    "key": "guid:6ae7401b52c09500099e024e",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1526287049522186"
+   },
    "source_published_at": "2026-11-01T13:44:12+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "PM é morto com nove tiros dentro de supermercado no bairro Compensa",
-   "updated_at": "2026-11-01T13:50:15+00:00",
+   "updated_at": "2026-11-02T04:01:15+00:00",
    "url": "https://marioadolfo.com/pm-e-morto-com-nove-tiros-dentro-de-supermercado-no-bairro-compensa/",
    "url_hash": "7a708b4955c3e9a2582564bf"
   },
   "guid:6ae7416d52c09500099e0263": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-02T04:00:49+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1526286516188906",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "A vítima apresentava marcas de agressão e sinais de tortura",
    "discovered_at": "2026-11-01T13:50:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1526286516188906",
    "formats": [
     "link"
    ],
@@ -15948,20 +15976,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/14e9c1e7-e400-47f9-a6a9-22e918dd0982.jpeg",
    "key": "guid:6ae7416d52c09500099e0263",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1526286516188906"
+   },
    "source_published_at": "2026-11-01T13:44:02+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Homem desaparecido há mais de 24 horas é encontro morto no Tarumã",
-   "updated_at": "2026-11-01T13:50:15+00:00",
+   "updated_at": "2026-11-02T04:00:49+00:00",
    "url": "https://marioadolfo.com/homem-desaparecido-ha-mais-de-24-horas-e-encontro-morto-no-taruma/",
    "url_hash": "9cb3e7ec681060136334993c"
   },
   "guid:6ae7538e52c09500099e027e": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-02T04:01:40+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1526287509522140",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Os entorpecentes foram apreendidos durante fiscalização no município de Boa Vista do Ramos",
    "discovered_at": "2026-11-01T15:10:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1526287509522140",
    "formats": [
     "link"
    ],
@@ -15969,20 +16007,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/dc6b9bff-9221-43d5-8386-1b3cff24df0d.png",
    "key": "guid:6ae7538e52c09500099e027e",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1526287509522140"
+   },
    "source_published_at": "2026-11-01T15:01:56+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Polícia apreende mais de 5,8 quilos de drogas em embarcação no interior do Amazonas",
-   "updated_at": "2026-11-01T15:10:15+00:00",
+   "updated_at": "2026-11-02T04:01:40+00:00",
    "url": "https://marioadolfo.com/policia-apreende-mais-de-5-8-quilos-de-drogas-em-embarcacao-no-interior-do-amazonas/",
    "url_hash": "48d56b3b1278b90e8720773a"
   },
   "guid:6ae7554652c09500099e02a3": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-02T04:02:05+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1526288189522072",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Novembro Azul chama a atenção para os cuidados com saúde masculina",
    "discovered_at": "2026-11-01T15:20:14+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1526288189522072",
    "formats": [
     "link"
    ],
@@ -15990,11 +16038,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6e1e456d-01c0-4d00-9ce9-1299db70f680.webp",
    "key": "guid:6ae7554652c09500099e02a3",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1526288189522072"
+   },
    "source_published_at": "2026-11-01T15:18:59+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Câncer de próstata matou 50 homens por dia no país em 2025",
-   "updated_at": "2026-11-01T15:20:14+00:00",
+   "updated_at": "2026-11-02T04:02:05+00:00",
    "url": "https://marioadolfo.com/cancer-de-prostata-matou-50-homens-por-dia-no-pais-em-2025/",
    "url_hash": "4f5875822e833183e4935563"
   },
@@ -16149,8 +16199,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-02T03:50:15+00:00",
-  "saved_at": "2026-11-02T03:50:16+00:00"
+  "last_run_at": "2026-11-02T04:00:18+00:00",
+  "saved_at": "2026-11-02T04:02:05+00:00"
  },
  "schema": 1
 }
