@@ -16419,13 +16419,106 @@
    "updated_at": "2026-11-02T13:40:19+00:00",
    "url": "https://marioadolfo.com/homem-e-encontrado-morto-apos-ser-espancado-em-pizzaria-na-compensa/",
    "url_hash": "33ddf6e0db191038890473d3"
+  },
+  "guid:6ae89e6d52c09500099e041e": {
+   "attempts": [
+    {
+     "at": "2026-11-02T14:40:18+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1526755622808662",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "Capital conquistou a 28ª posição nacional, com 112,5 pontos, no resultado final do Edital de Chamamento Público nº 07/2026, do Ministério da Igualdade Racial",
+   "discovered_at": "2026-11-02T14:40:14+00:00",
+   "fb_post_id": "107393769293726_1526755622808662",
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae89e6d52c09500099e041e",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5980455c-7162-46d7-ad0e-b4ff27451725.jpeg",
+   "key": "guid:6ae89e6d52c09500099e041e",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1526755622808662"
+   },
+   "source_published_at": "2026-11-02T14:32:46+00:00",
+   "status": "published",
+   "title": "Manaus fica entre as 30 cidades mais bem classificadas em programa de igualdade racial",
+   "updated_at": "2026-11-02T14:40:18+00:00",
+   "url": "https://marioadolfo.com/manaus-fica-entre-as-30-cidades-mais-bem-classificadas-em-programa-de-igualdade-racial/",
+   "url_hash": "65b13344049d828b9d09805d"
+  },
+  "guid:6ae89f4752c09500099e0439": {
+   "attempts": [
+    {
+     "at": "2026-11-02T14:40:42+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1526755876141970",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "Unidades oferecem serviços para rastreio e tratamento oportuno dos casos de câncer de mama e do útero",
+   "discovered_at": "2026-11-02T14:40:14+00:00",
+   "fb_post_id": "107393769293726_1526755876141970",
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae89f4752c09500099e0439",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c8e4e760-e152-4654-a6b9-3412f9d5761d.jpeg",
+   "key": "guid:6ae89f4752c09500099e0439",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1526755876141970"
+   },
+   "source_published_at": "2026-11-02T14:35:46+00:00",
+   "status": "published",
+   "title": "Confira os endereços das Unidades Móveis de Saúde da Mulher em Manaus",
+   "updated_at": "2026-11-02T14:40:42+00:00",
+   "url": "https://marioadolfo.com/confira-os-enderecos-das-unidades-moveis-de-saude-da-mulher-em-manaus/",
+   "url_hash": "351bd462ebf57c1315a149e1"
+  },
+  "guid:6ae89fe052c09500099e0451": {
+   "attempts": [
+    {
+     "at": "2026-11-02T14:41:05+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1526756319475259",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "Ação oferece assistência jurídica gratuita para acesso a benefícios do INSS, atendimento médico para atualização de laudos e serviços nas áreas de Registro Civil e Família",
+   "discovered_at": "2026-11-02T14:40:14+00:00",
+   "fb_post_id": "107393769293726_1526756319475259",
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae89fe052c09500099e0451",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ff99874c-58ac-4b7c-b5d8-cd89614fcf1f.jpeg",
+   "key": "guid:6ae89fe052c09500099e0451",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1526756319475259"
+   },
+   "source_published_at": "2026-11-02T14:37:59+00:00",
+   "status": "published",
+   "title": "Mutirão Previdenciário da Defensoria chega a Anamã nesta terça-feira",
+   "updated_at": "2026-11-02T14:41:05+00:00",
+   "url": "https://marioadolfo.com/mutirao-previdenciario-da-defensoria-chega-a-anama-nesta-terca-feira/",
+   "url_hash": "f96d5b6d4cf92c66c26235ad"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-02T14:30:21+00:00",
-  "saved_at": "2026-11-02T14:30:21+00:00"
+  "last_run_at": "2026-11-02T14:40:14+00:00",
+  "saved_at": "2026-11-02T14:41:05+00:00"
  },
  "schema": 1
 }
