@@ -16388,13 +16388,44 @@
    "updated_at": "2026-11-02T13:30:22+00:00",
    "url": "https://marioadolfo.com/curta-amazonense-mata-gato-tem-sessao-especial-em-libras/",
    "url_hash": "4db9e2b5e1c1348957e9b743"
+  },
+  "guid:6ae88f9d52c09500099e03fa": {
+   "attempts": [
+    {
+     "at": "2026-11-02T13:40:19+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1526708852813339",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Polícia",
+   "description": "O local estava lotada quando o homem entrou, completamente nu e fazendo gestos obscenos, e gerou as agressões físicas",
+   "discovered_at": "2026-11-02T13:40:14+00:00",
+   "fb_post_id": "107393769293726_1526708852813339",
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae88f9d52c09500099e03fa",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/03a6dae4-5393-40a7-802d-28e698ab0f5d.jpeg",
+   "key": "guid:6ae88f9d52c09500099e03fa",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1526708852813339"
+   },
+   "source_published_at": "2026-11-02T13:33:22+00:00",
+   "status": "published",
+   "title": "Homem é encontrado morto após ser espancado em pizzaria na Compensa",
+   "updated_at": "2026-11-02T13:40:19+00:00",
+   "url": "https://marioadolfo.com/homem-e-encontrado-morto-apos-ser-espancado-em-pizzaria-na-compensa/",
+   "url_hash": "33ddf6e0db191038890473d3"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-02T13:30:17+00:00",
-  "saved_at": "2026-11-02T13:30:22+00:00"
+  "last_run_at": "2026-11-02T13:40:13+00:00",
+  "saved_at": "2026-11-02T13:40:19+00:00"
  },
  "schema": 1
 }
