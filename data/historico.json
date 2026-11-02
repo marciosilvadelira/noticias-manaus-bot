@@ -16596,13 +16596,55 @@
    "updated_at": "2026-11-02T15:50:22+00:00",
    "url": "https://marioadolfo.com/omar-aziz-recebe-representantes-do-governo-da-franca-e-discute-cooperacao-internacional/",
    "url_hash": "1a1da728f816ee826b9989e1"
+  },
+  "guid:6ae8e72a52c09500099e04de": {
+   "attempts": [],
+   "category": "Mundo",
+   "description": "Nathalia Gadelha Filgueiras tinha mais de 1.300 horas de voo e tirou licença de piloto aos 17 anos",
+   "discovered_at": "2026-11-02T19:50:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae8e72a52c09500099e04de",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e8afcb5f-83f6-44bf-852f-39b65e9b71c2.jpeg",
+   "key": "guid:6ae8e72a52c09500099e04de",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-02T19:42:32+00:00",
+   "status": "pending",
+   "title": "Brasileira de 20 anos é identificada como copilota de avião que caiu na Flórida",
+   "updated_at": "2026-11-02T19:50:18+00:00",
+   "url": "https://marioadolfo.com/brasileira-de-20-anos-e-identificada-como-copilota-de-aviao-que-caiu-na-florida/",
+   "url_hash": "6f3b153db619b235534b53a5"
+  },
+  "guid:6ae8e7e752c09500099e050d": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Servidores vão atender cerca de 700 mil visitantes nos dez cemitérios públicos da capital neste Dia de Finados",
+   "discovered_at": "2026-11-02T19:50:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae8e7e752c09500099e050d",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/982fc57c-e193-4ea2-9d4c-516f69ab1eb4.jpeg",
+   "key": "guid:6ae8e7e752c09500099e050d",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-02T19:46:24+00:00",
+   "status": "pending",
+   "title": "Prefeitura de Manaus mobiliza mais de mil servidores para receber visitantes nos cemitérios",
+   "updated_at": "2026-11-02T19:50:18+00:00",
+   "url": "https://marioadolfo.com/prefeitura-de-manaus-mobiliza-mais-de-mil-servidores-para-receber-visitantes-nos-cemiterios/",
+   "url_hash": "b03d6185a094b71e4eb3f408"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-02T19:40:15+00:00",
-  "saved_at": "2026-11-02T19:40:17+00:00"
+  "last_run_at": "2026-11-02T19:50:16+00:00",
+  "saved_at": "2026-11-02T19:50:18+00:00"
  },
  "schema": 1
 }
