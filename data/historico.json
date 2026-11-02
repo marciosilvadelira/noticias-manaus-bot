@@ -16554,13 +16554,55 @@
    "updated_at": "2026-11-02T15:40:18+00:00",
    "url": "https://marioadolfo.com/amazonas-reforca-vacinacao-contra-o-sarampo-na-regiao-da-triplice-fronteira/",
    "url_hash": "8393323b07329d7551e0ed80"
+  },
+  "guid:6ae8aed952c09500099e04aa": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "A vítima e o suspeito tiveram uma discussão momentos antes do crime, enquanto estavam em uma área utilizada para a produção de farinha",
+   "discovered_at": "2026-11-02T15:50:22+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae8aed952c09500099e04aa",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ec9fb7e7-9ab3-46d7-a9f6-a3393dbe1376.jpeg",
+   "key": "guid:6ae8aed952c09500099e04aa",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-02T15:41:32+00:00",
+   "status": "pending",
+   "title": "PC-AM prende homem por homicídio qualificado em Nhamundá",
+   "updated_at": "2026-11-02T15:50:22+00:00",
+   "url": "https://marioadolfo.com/pc-am-prende-homem-por-homicidio-qualificado-em-nhamunda/",
+   "url_hash": "52e3d1659aead79dabff79b5"
+  },
+  "guid:6ae8af6552c09500099e04c0": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Encontro com o embaixador Julien Steimer e o senador francês Olivier Cadic tratou de temas como combate às queimadas, bioeconomia, biotecnologia, inovação e enfrentamento à violência contra a mulher",
+   "discovered_at": "2026-11-02T15:50:22+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae8af6552c09500099e04c0",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/9158a16a-181b-4871-a896-f04c559aeb81.jpg",
+   "key": "guid:6ae8af6552c09500099e04c0",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-02T15:44:20+00:00",
+   "status": "pending",
+   "title": "Omar Aziz recebe representantes do governo da França e discute cooperação internacional",
+   "updated_at": "2026-11-02T15:50:22+00:00",
+   "url": "https://marioadolfo.com/omar-aziz-recebe-representantes-do-governo-da-franca-e-discute-cooperacao-internacional/",
+   "url_hash": "1a1da728f816ee826b9989e1"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-02T15:40:17+00:00",
-  "saved_at": "2026-11-02T15:40:19+00:00"
+  "last_run_at": "2026-11-02T15:50:22+00:00",
+  "saved_at": "2026-11-02T15:50:23+00:00"
  },
  "schema": 1
 }
