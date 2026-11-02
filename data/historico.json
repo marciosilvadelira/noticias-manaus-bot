@@ -16659,13 +16659,55 @@
    "updated_at": "2026-11-02T20:00:25+00:00",
    "url": "https://marioadolfo.com/justica-inicia-semana-nacional-da-conciliacao-no-amazonas-nesta-terca-3/",
    "url_hash": "a62487b561b001bc81945e32"
+  },
+  "guid:6ae9039b52c09500099e053c": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Distribuição de senhas e atendimento serão realizados das 8h às 13h",
+   "discovered_at": "2026-11-02T21:50:25+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae9039b52c09500099e053c",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e5fd91a7-67d4-4224-adf4-5620b02e158e.jpeg",
+   "key": "guid:6ae9039b52c09500099e053c",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-02T21:44:39+00:00",
+   "status": "pending",
+   "title": "Sine Amazonas divulga 374 vagas de emprego para esta terça-feira",
+   "updated_at": "2026-11-02T21:50:25+00:00",
+   "url": "https://marioadolfo.com/sine-amazonas-divulga-374-vagas-de-emprego-para-esta-terca-feira/",
+   "url_hash": "fc07b4a3e9fe38d02b08acf3"
+  },
+  "guid:6ae9047052c09500099e0563": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Defesa Civil do Amazonas classificou o risco como severo em Parintins e alto em outras cidades do interior",
+   "discovered_at": "2026-11-02T21:50:25+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae9047052c09500099e0563",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/20fe042e-b486-4169-8751-e030fb7061ef.png",
+   "key": "guid:6ae9047052c09500099e0563",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-02T21:47:28+00:00",
+   "status": "pending",
+   "title": "Fumaça de queimadas deixa 11 municípios do Amazonas com ar 'péssimo'",
+   "updated_at": "2026-11-02T21:50:25+00:00",
+   "url": "https://marioadolfo.com/fumaca-de-queimadas-deixa-11-municipios-do-amazonas-com-ar-pessimo/",
+   "url_hash": "f3d8fdc51bd0444bb7376448"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-02T21:40:14+00:00",
-  "saved_at": "2026-11-02T21:40:15+00:00"
+  "last_run_at": "2026-11-02T21:50:24+00:00",
+  "saved_at": "2026-11-02T21:50:25+00:00"
  },
  "schema": 1
 }
