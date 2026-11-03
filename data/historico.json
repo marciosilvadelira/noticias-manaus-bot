@@ -16822,13 +16822,44 @@
    "updated_at": "2026-11-03T12:50:22+00:00",
    "url": "https://marioadolfo.com/governo-do-am-afirma-que-pagamentos-do-passe-livre-estudantil-estao-em-dia/",
    "url_hash": "c6a7fde0e26a4ecd9d01650d"
+  },
+  "guid:6ae9db8652c09500099e05ae": {
+   "attempts": [
+    {
+     "at": "2026-11-03T13:20:19+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1527705466047011",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Dito & Feito",
+   "description": "Depois da derrota de Flávio nas urnas, Jair Bolsonaro volta a ter soluços e taquicardia",
+   "discovered_at": "2026-11-03T13:20:15+00:00",
+   "fb_post_id": "107393769293726_1527705466047011",
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae9db8652c09500099e05ae",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c7c7af4d-9c71-4858-ac92-63ede6e0c0ac.jpg",
+   "key": "guid:6ae9db8652c09500099e05ae",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1527705466047011"
+   },
+   "source_published_at": "2026-11-03T13:18:23+00:00",
+   "status": "published",
+   "title": "Dito & Feito: MEDO DA PAPUDINHA!",
+   "updated_at": "2026-11-03T13:20:19+00:00",
+   "url": "https://marioadolfo.com/dito-feito-medo-da-papudinha/",
+   "url_hash": "0b86135feaa2f7766c35b268"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-03T13:10:14+00:00",
-  "saved_at": "2026-11-03T13:10:14+00:00"
+  "last_run_at": "2026-11-03T13:20:14+00:00",
+  "saved_at": "2026-11-03T13:20:19+00:00"
  },
  "schema": 1
 }
