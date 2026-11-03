@@ -16853,13 +16853,44 @@
    "updated_at": "2026-11-03T13:20:19+00:00",
    "url": "https://marioadolfo.com/dito-feito-medo-da-papudinha/",
    "url_hash": "0b86135feaa2f7766c35b268"
+  },
+  "guid:6ae9e21552c09500099e05ee": {
+   "attempts": [
+    {
+     "at": "2026-11-03T13:40:23+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1527721102712114",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Brasil",
+   "description": "MEC oferece 50 mil vagas para financiamento em todo o país",
+   "discovered_at": "2026-11-03T13:40:16+00:00",
+   "fb_post_id": "107393769293726_1527721102712114",
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae9e21552c09500099e05ee",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b75467f3-277d-42a0-87f1-dfad0d76327e.jpg",
+   "key": "guid:6ae9e21552c09500099e05ee",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1527721102712114"
+   },
+   "source_published_at": "2026-11-03T13:39:56+00:00",
+   "status": "published",
+   "title": "Fies 2: inscrições para vagas remanescentes terminam nesta terça",
+   "updated_at": "2026-11-03T13:40:23+00:00",
+   "url": "https://marioadolfo.com/fies-2-inscricoes-para-vagas-remanescentes-terminam-nesta-terca/",
+   "url_hash": "d371557c8f25f2195e65fcbe"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-03T13:30:17+00:00",
-  "saved_at": "2026-11-03T13:30:18+00:00"
+  "last_run_at": "2026-11-03T13:40:15+00:00",
+  "saved_at": "2026-11-03T13:40:23+00:00"
  },
  "schema": 1
 }
