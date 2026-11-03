@@ -17132,13 +17132,34 @@
    "updated_at": "2026-11-03T15:41:14+00:00",
    "url": "https://marioadolfo.com/crianca-de-cinco-anos-vitima-de-queda-de-aviao-segue-internada-no-amazonas/",
    "url_hash": "45789cc0ef5b7993e86c5b8f"
+  },
+  "guid:6aea0dd152c09500099e06ca": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Cartórios atenderão das 8h às 14h, sem agendamento prévio; serviços de biometria terão limite de dez eleitores por dia em cada unidade",
+   "discovered_at": "2026-11-03T16:40:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aea0dd152c09500099e06ca",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f099f125-b682-4ffd-8efb-607003ce2a22.jpg",
+   "key": "guid:6aea0dd152c09500099e06ca",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-03T16:40:10+00:00",
+   "status": "pending",
+   "title": "Cadastro eleitoral reabre com atendimento direto no Fórum Eleitoral de Manaus",
+   "updated_at": "2026-11-03T16:40:15+00:00",
+   "url": "https://marioadolfo.com/cadastro-eleitoral-reabre-com-atendimento-direto-no-forum-eleitoral-de-manaus/",
+   "url_hash": "4a6f0ef1ca6026f286615c01"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-03T16:30:19+00:00",
-  "saved_at": "2026-11-03T16:30:20+00:00"
+  "last_run_at": "2026-11-03T16:40:14+00:00",
+  "saved_at": "2026-11-03T16:40:16+00:00"
  },
  "schema": 1
 }
