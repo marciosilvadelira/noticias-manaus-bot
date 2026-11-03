@@ -17363,13 +17363,55 @@
    "updated_at": "2026-11-03T18:10:25+00:00",
    "url": "https://marioadolfo.com/espetaculo-terra-de-sal-estreia-em-manaus-e-usa-universo-do-circo-para-abordar-a-inclusao-de-pcds/",
    "url_hash": "143193e32c63d0dbf5a1cad9"
+  },
+  "guid:6aea352b52c09500099e07d5": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Trabalhos de campo vão identificar setores vulneráveis e subsidiar propostas de medidas para reduzir riscos no município",
+   "discovered_at": "2026-11-03T19:30:30+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aea352b52c09500099e07d5",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6e0d90d1-5ebd-4a72-a43a-d55b58aa715a.jpg",
+   "key": "guid:6aea352b52c09500099e07d5",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-03T19:26:53+00:00",
+   "status": "pending",
+   "title": "Pesquisadores do SGB iniciam mapeamento de áreas de risco em Tefé",
+   "updated_at": "2026-11-03T19:30:30+00:00",
+   "url": "https://marioadolfo.com/pesquisadores-do-sgb-iniciam-mapeamento-de-areas-de-risco-em-tefe/",
+   "url_hash": "47138fb4ea32f5696c93bd0a"
+  },
+  "guid:6aea359452c09500099e07ec": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "As fiscalizações foram realizadas em todas as zonas de Manaus, priorizando as zonas leste e norte por serem as de maior incidência de sinistros de trânsito envolvendo motocicletas",
+   "discovered_at": "2026-11-03T19:30:30+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aea359452c09500099e07ec",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/de84a0ec-7d7d-411a-93ed-638e3a3c57bf.jpeg",
+   "key": "guid:6aea359452c09500099e07ec",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-03T19:29:16+00:00",
+   "status": "pending",
+   "title": "Fiscalização registra mais de 800 irregularidades cometidas por condutores no AM",
+   "updated_at": "2026-11-03T19:30:30+00:00",
+   "url": "https://marioadolfo.com/fiscalizacao-registra-mais-de-800-irregularidades-cometidas-por-condutores-no-am/",
+   "url_hash": "b25d6f199d08b4e88228e14a"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-03T19:20:23+00:00",
-  "saved_at": "2026-11-03T19:20:25+00:00"
+  "last_run_at": "2026-11-03T19:30:29+00:00",
+  "saved_at": "2026-11-03T19:30:30+00:00"
  },
  "schema": 1
 }
