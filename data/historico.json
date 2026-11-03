@@ -17342,13 +17342,34 @@
    "updated_at": "2026-11-03T17:50:17+00:00",
    "url": "https://marioadolfo.com/relator-do-projeto-da-cbs-braga-diz-nao-concordar-com-aliquota-de-11-3/",
    "url_hash": "c1f3595b921a22ca5b0db95e"
+  },
+  "guid:6aea20c552c09500099e07bd": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Solo do Grupo Fome questiona padrões de normalidade e será apresentado no dia 23 de novembro, no Teatro Américo Alvarez, com entrada gratuita",
+   "discovered_at": "2026-11-03T18:10:25+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aea20c552c09500099e07bd",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5d8216a4-922d-49bb-8a74-e9269434f8c2.jpeg",
+   "key": "guid:6aea20c552c09500099e07bd",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-03T18:00:30+00:00",
+   "status": "pending",
+   "title": "Espetáculo ‘Terra de Sal’ estreia em Manaus e usa universo do circo para abordar a inclusão de PcDs",
+   "updated_at": "2026-11-03T18:10:25+00:00",
+   "url": "https://marioadolfo.com/espetaculo-terra-de-sal-estreia-em-manaus-e-usa-universo-do-circo-para-abordar-a-inclusao-de-pcds/",
+   "url_hash": "143193e32c63d0dbf5a1cad9"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-03T18:00:26+00:00",
-  "saved_at": "2026-11-03T18:00:27+00:00"
+  "last_run_at": "2026-11-03T18:10:25+00:00",
+  "saved_at": "2026-11-03T18:10:25+00:00"
  },
  "schema": 1
 }
