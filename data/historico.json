@@ -16884,13 +16884,44 @@
    "updated_at": "2026-11-03T13:40:23+00:00",
    "url": "https://marioadolfo.com/fies-2-inscricoes-para-vagas-remanescentes-terminam-nesta-terca/",
    "url_hash": "d371557c8f25f2195e65fcbe"
+  },
+  "guid:6ae9e58f52c09500099e0606": {
+   "attempts": [
+    {
+     "at": "2026-11-03T14:10:22+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1527750326042525",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "Programação inclui consultas médicas e odontológicas, exames e busca ativa de pacientes com hipertensão e diabetes.",
+   "discovered_at": "2026-11-03T14:10:14+00:00",
+   "fb_post_id": "107393769293726_1527750326042525",
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae9e58f52c09500099e0606",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/82648dc2-7584-4606-8502-2deccb3aafbd.jpeg",
+   "key": "guid:6ae9e58f52c09500099e0606",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1527750326042525"
+   },
+   "source_published_at": "2026-11-03T14:03:28+00:00",
+   "status": "published",
+   "title": "Manaus reforça atendimento à saúde do homem durante o Novembro Azul",
+   "updated_at": "2026-11-03T14:10:22+00:00",
+   "url": "https://marioadolfo.com/manaus-reforca-atendimento-a-saude-do-homem-durante-o-novembro-azul/",
+   "url_hash": "41ecec6ef2771c35e3ac6853"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-03T14:00:19+00:00",
-  "saved_at": "2026-11-03T14:00:20+00:00"
+  "last_run_at": "2026-11-03T14:10:13+00:00",
+  "saved_at": "2026-11-03T14:10:22+00:00"
  },
  "schema": 1
 }
