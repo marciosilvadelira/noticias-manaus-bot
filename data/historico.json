@@ -16915,13 +16915,44 @@
    "updated_at": "2026-11-03T14:10:22+00:00",
    "url": "https://marioadolfo.com/manaus-reforca-atendimento-a-saude-do-homem-durante-o-novembro-azul/",
    "url_hash": "41ecec6ef2771c35e3ac6853"
+  },
+  "guid:6ae9ef2f52c09500099e061f": {
+   "attempts": [
+    {
+     "at": "2026-11-03T14:40:23+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1527776096039948",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "O reconhecimento ocorreu em julho deste ano e inclui também o Theatro da Paz, em Belém (PA), consolidando os Teatros da Amazônia como um bem de valor universal excepcional.",
+   "discovered_at": "2026-11-03T14:40:17+00:00",
+   "fb_post_id": "107393769293726_1527776096039948",
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae9ef2f52c09500099e061f",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/327bd111-f496-4458-abf1-5d9d32af3d29.jpeg",
+   "key": "guid:6ae9ef2f52c09500099e061f",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1527776096039948"
+   },
+   "source_published_at": "2026-11-03T14:32:41+00:00",
+   "status": "published",
+   "title": "Teatro Amazonas recebe o título de Patrimônio Mundial nesta terça-feira",
+   "updated_at": "2026-11-03T14:40:23+00:00",
+   "url": "https://marioadolfo.com/teatro-amazonas-recebe-o-titulo-de-patrimonio-mundial-nesta-terca-feira/",
+   "url_hash": "8d056b6fb77926ccbb8f8fa5"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-03T14:30:18+00:00",
-  "saved_at": "2026-11-03T14:30:19+00:00"
+  "last_run_at": "2026-11-03T14:40:14+00:00",
+  "saved_at": "2026-11-03T14:40:23+00:00"
  },
  "schema": 1
 }
