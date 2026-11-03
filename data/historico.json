@@ -17489,13 +17489,34 @@
    "updated_at": "2026-11-03T19:50:15+00:00",
    "url": "https://marioadolfo.com/programa-divida-zero-tem-prazo-ampliado-para-adesao-de-contribuintes-ate-30-de-novembro/",
    "url_hash": "54024ea22ed98ed73e438014"
+  },
+  "guid:6aea3fed52c09500099e087a": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Proposta do governo fixa salário mínimo em R$ 1.741 e superávit de R$ 18,6 bilhões; Congresso quer votar até 17 de dezembro",
+   "discovered_at": "2026-11-03T20:20:26+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aea3fed52c09500099e087a",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/fad38cee-e9e7-4a81-a9fc-54ce22ab0eb4.jpeg",
+   "key": "guid:6aea3fed52c09500099e087a",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-03T20:13:47+00:00",
+   "status": "pending",
+   "title": "Eduardo Braga será relator do Orçamento da União de 2027, estimado em R$ 7,4 trilhões",
+   "updated_at": "2026-11-03T20:20:26+00:00",
+   "url": "https://marioadolfo.com/eduardo-braga-sera-relator-do-orcamento-da-uniao-de-2027-estimado-em-r-7-4-trilhoes/",
+   "url_hash": "60eaca9ff04c95aa0da7a7f8"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-03T20:10:17+00:00",
-  "saved_at": "2026-11-03T20:10:19+00:00"
+  "last_run_at": "2026-11-03T20:20:26+00:00",
+  "saved_at": "2026-11-03T20:20:27+00:00"
  },
  "schema": 1
 }
