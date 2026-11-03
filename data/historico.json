@@ -17511,6 +17511,27 @@
    "url": "https://marioadolfo.com/eduardo-braga-sera-relator-do-orcamento-da-uniao-de-2027-estimado-em-r-7-4-trilhoes/",
    "url_hash": "60eaca9ff04c95aa0da7a7f8"
   },
+  "guid:6aea4eea52c09500099e08a6": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Segundo a Amazonastur, é previsto um aumento em 83% na arrecadação em comparação à temporada anterior",
+   "discovered_at": "2026-11-03T21:30:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aea4eea52c09500099e08a6",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0006792a-aa5d-461b-a0a3-4e4470ef10ec.jpeg",
+   "key": "guid:6aea4eea52c09500099e08a6",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-03T21:21:47+00:00",
+   "status": "pending",
+   "title": "Amazonas vai receber 17 mil turistas e movimentar R$ 16,2 milhões na temporada de cruzeiros",
+   "updated_at": "2026-11-03T21:30:19+00:00",
+   "url": "https://marioadolfo.com/amazonas-vai-receber-17-mil-turistas-e-movimentar-r-16-2-milhoes-na-temporada-de-cruzeiros/",
+   "url_hash": "33d99aa2d5af3eb0c2670b98"
+  },
   "guid:6aea4f1d52c09500099e08ac": {
    "attempts": [],
    "category": "Amazonas",
@@ -17531,13 +17552,55 @@
    "updated_at": "2026-11-03T21:20:22+00:00",
    "url": "https://marioadolfo.com/mp-eleitoral-move-22-acoes-por-derramamento-de-santinhos-no-segundo-turno-no-amazonas-derramamento-de-santinhos-no-segundo-turno-no-amazonasderramamento-de-santinhos-no-segundo-turno-am/",
    "url_hash": "d9175dc4d5ffa2e57bbd834b"
+  },
+  "guid:6aea50a252c09500099e08e1": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Os crimes foram cometidos em 2024 e 2025, em estabelecimentos da rede pública de ensino do município",
+   "discovered_at": "2026-11-03T21:30:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aea50a252c09500099e08e1",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/10639002-d323-4ace-9730-479c96c976aa.jpeg",
+   "key": "guid:6aea50a252c09500099e08e1",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-03T21:24:31+00:00",
+   "status": "pending",
+   "title": "Diretor é condenado a 14 anos de prisão por assédio contra três estudantes em Manicoré",
+   "updated_at": "2026-11-03T21:30:19+00:00",
+   "url": "https://marioadolfo.com/diretor-e-condenado-a-14-anos-de-prisao-por-assedio-contra-tres-estudantes-em-manicore/",
+   "url_hash": "590c442af9018cd340f76c72"
+  },
+  "guid:6aea512452c09500099e08fb": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Acordo com a Petrobras visa continuidade e ampliação de atividades que também incluem prospecção e pesquisa na Bacia do Rio Solimões",
+   "discovered_at": "2026-11-03T21:30:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aea512452c09500099e08fb",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e75b2a32-98be-467a-ab03-324e252c0ea4.jpeg",
+   "key": "guid:6aea512452c09500099e08fb",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-03T21:26:01+00:00",
+   "status": "pending",
+   "title": "Governo assina concessão para exploração de petróleo e gás natural em Tefé",
+   "updated_at": "2026-11-03T21:30:19+00:00",
+   "url": "https://marioadolfo.com/governo-assina-concessao-para-exploracao-de-petroleo-e-gas-natural-em-tefe/",
+   "url_hash": "40face4641c4fdde74823fac"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-03T21:20:21+00:00",
-  "saved_at": "2026-11-03T21:20:22+00:00"
+  "last_run_at": "2026-11-03T21:30:18+00:00",
+  "saved_at": "2026-11-03T21:30:20+00:00"
  },
  "schema": 1
 }
