@@ -16946,13 +16946,106 @@
    "updated_at": "2026-11-03T14:40:23+00:00",
    "url": "https://marioadolfo.com/teatro-amazonas-recebe-o-titulo-de-patrimonio-mundial-nesta-terca-feira/",
    "url_hash": "8d056b6fb77926ccbb8f8fa5"
+  },
+  "guid:6ae9f65552c09500099e0642": {
+   "attempts": [
+    {
+     "at": "2026-11-03T15:10:25+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1527799849370906",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Brasil",
+   "description": "Durigan e Lula terão uma última conversa antes do envio ao Legislativo",
+   "discovered_at": "2026-11-03T15:10:19+00:00",
+   "fb_post_id": "107393769293726_1527799849370906",
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae9f65552c09500099e0642",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/89349621-6606-4eb2-b28c-2f472dddbe3f.jpg",
+   "key": "guid:6ae9f65552c09500099e0642",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1527799849370906"
+   },
+   "source_published_at": "2026-11-03T15:00:21+00:00",
+   "status": "published",
+   "title": "Governo quer enviar MP do Imposto Seletivo ainda hoje ao Congresso",
+   "updated_at": "2026-11-03T15:10:25+00:00",
+   "url": "https://marioadolfo.com/governo-quer-enviar-mp-do-imposto-seletivo-ainda-hoje-ao-congresso/",
+   "url_hash": "1938c55335d3e6dc8fe2f8ca"
+  },
+  "guid:6ae9f73752c09500099e0657": {
+   "attempts": [
+    {
+     "at": "2026-11-03T15:10:49+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1527800196037538",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Polícia",
+   "description": "Saco plástico foi arrastado pela enxurrada até a Rua Rio Grande, no bairro Novo Aleixo, zona Norte.",
+   "discovered_at": "2026-11-03T15:10:19+00:00",
+   "fb_post_id": "107393769293726_1527800196037538",
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae9f73752c09500099e0657",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d4e30092-99f1-487a-90da-cf9030bbb551.jpeg",
+   "key": "guid:6ae9f73752c09500099e0657",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1527800196037538"
+   },
+   "source_published_at": "2026-11-03T15:03:54+00:00",
+   "status": "published",
+   "title": "Feto é encontrado em calçada após forte chuva em Manaus",
+   "updated_at": "2026-11-03T15:10:49+00:00",
+   "url": "https://marioadolfo.com/feto-e-encontrado-em-calcada-apos-forte-chuva-em-manaus/",
+   "url_hash": "c907615135a696f9e3cd4241"
+  },
+  "guid:6ae9f80652c09500099e0672": {
+   "attempts": [
+    {
+     "at": "2026-11-03T15:11:12+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1527800619370829",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Brasil",
+   "description": "Ele disse que já tinha ouvido entidades contrárias às bets em 2024",
+   "discovered_at": "2026-11-03T15:10:19+00:00",
+   "fb_post_id": "107393769293726_1527800619370829",
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae9f80652c09500099e0672",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f1a6e4e8-b668-4560-b943-c9b929d8009d.jpg",
+   "key": "guid:6ae9f80652c09500099e0672",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1527800619370829"
+   },
+   "source_published_at": "2026-11-03T15:07:12+00:00",
+   "status": "published",
+   "title": "Fux rebate críticas e diz ter percepção de que bets devem ser banidas",
+   "updated_at": "2026-11-03T15:11:12+00:00",
+   "url": "https://marioadolfo.com/fux-rebate-criticas-e-diz-ter-percepcao-de-que-bets-devem-ser-banidas/",
+   "url_hash": "66b9bfb0fd14e41924d82172"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-03T15:00:19+00:00",
-  "saved_at": "2026-11-03T15:00:20+00:00"
+  "last_run_at": "2026-11-03T15:10:19+00:00",
+  "saved_at": "2026-11-03T15:11:12+00:00"
  },
  "schema": 1
 }
