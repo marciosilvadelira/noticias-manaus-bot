@@ -17279,13 +17279,76 @@
    "updated_at": "2026-11-03T17:30:25+00:00",
    "url": "https://marioadolfo.com/ambar-reforca-seguranca-e-qualidade-do-fornecimento-de-energia-com-modernizacao-da-rede-eletrica/",
    "url_hash": "53c23959d2dbaa62c4929673"
+  },
+  "guid:6aea1c1452c09500099e0774": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Segundo a Polícia Civil, as práticas ocorriam desde que a vítima tinha oito anos",
+   "discovered_at": "2026-11-03T17:50:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aea1c1452c09500099e0774",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/01a21016-bceb-4b9e-8dea-a15a21c89056.png",
+   "key": "guid:6aea1c1452c09500099e0774",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-03T17:42:39+00:00",
+   "status": "pending",
+   "title": "Professor é preso por estupro da enteada de 15 anos em Parintins",
+   "updated_at": "2026-11-03T17:50:17+00:00",
+   "url": "https://marioadolfo.com/professor-e-preso-por-estupro-da-enteada-de-15-anos-em-parintins/",
+   "url_hash": "5a854dab3c9d372ede878405"
+  },
+  "guid:6aea1d4a52c09500099e078f": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A avaliação contempla alunos do 2º, 5º e 8º anos do ensino fundamental e tem como objetivo identificar os níveis de aprendizagem",
+   "discovered_at": "2026-11-03T17:50:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aea1d4a52c09500099e078f",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5525a0af-4e96-45fb-89de-0004806fb097.jpeg",
+   "key": "guid:6aea1d4a52c09500099e078f",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-03T17:45:31+00:00",
+   "status": "pending",
+   "title": "Estudantes da rede municipal de Manaus participam das provas do Sadeam",
+   "updated_at": "2026-11-03T17:50:17+00:00",
+   "url": "https://marioadolfo.com/estudantes-da-rede-municipal-de-manaus-participam-das-provas-do-sadeam/",
+   "url_hash": "281657ff32cfd2982a2f5997"
+  },
+  "guid:6aea1e2a52c09500099e07a7": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Segundo ele, essa alíquota não foi prevista pelos estudos da Receita Federal e do Tribunal de Contas da União",
+   "discovered_at": "2026-11-03T17:50:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aea1e2a52c09500099e07a7",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/604ff9db-33a0-4e1f-ad3a-3f0261b1e173.jpeg",
+   "key": "guid:6aea1e2a52c09500099e07a7",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-03T17:48:41+00:00",
+   "status": "pending",
+   "title": "Relator do projeto da CBS, Braga diz não concordar com alíquota de 11,3%",
+   "updated_at": "2026-11-03T17:50:17+00:00",
+   "url": "https://marioadolfo.com/relator-do-projeto-da-cbs-braga-diz-nao-concordar-com-aliquota-de-11-3/",
+   "url_hash": "c1f3595b921a22ca5b0db95e"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-03T17:40:18+00:00",
-  "saved_at": "2026-11-03T17:40:18+00:00"
+  "last_run_at": "2026-11-03T17:50:16+00:00",
+  "saved_at": "2026-11-03T17:50:17+00:00"
  },
  "schema": 1
 }
