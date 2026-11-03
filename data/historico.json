@@ -17153,13 +17153,76 @@
    "updated_at": "2026-11-03T16:40:15+00:00",
    "url": "https://marioadolfo.com/cadastro-eleitoral-reabre-com-atendimento-direto-no-forum-eleitoral-de-manaus/",
    "url_hash": "4a6f0ef1ca6026f286615c01"
+  },
+  "guid:6aea110e52c09500099e06ea": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Mutirão reúne recorde de instituições participantes com ofertas que podem chegar a descontos de até 99%",
+   "discovered_at": "2026-11-03T17:00:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aea110e52c09500099e06ea",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/701f5660-a00b-4dc3-82e4-787894bfad5b.jpeg",
+   "key": "guid:6aea110e52c09500099e06ea",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-03T16:53:42+00:00",
+   "status": "pending",
+   "title": "Com mais de 1,8 milhão inadimplentes no AM, Feirão Limpa Nome reúne mais de 3 mil empresas",
+   "updated_at": "2026-11-03T17:00:21+00:00",
+   "url": "https://marioadolfo.com/com-mais-de-1-8-milhao-inadimplentes-no-am-feirao-limpa-nome-reune-mais-de-3-mil-empresas/",
+   "url_hash": "a3c90ba12595b4a3330c8cb3"
+  },
+  "guid:6aea11e952c09500099e0700": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Alíquota incidirá em produtos prejudiciais à saúde e ao meio ambiente",
+   "discovered_at": "2026-11-03T17:00:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aea11e952c09500099e0700",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c6aa5c01-df25-48fa-a585-731a2ad26956.webp",
+   "key": "guid:6aea11e952c09500099e0700",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-03T16:56:04+00:00",
+   "status": "pending",
+   "title": "Governo envia ao Congresso MP que regulamenta o \"imposto do pecado\"",
+   "updated_at": "2026-11-03T17:00:21+00:00",
+   "url": "https://marioadolfo.com/governo-envia-ao-congresso-mp-que-regulamenta-o-imposto-do-pecado/",
+   "url_hash": "b014e2ad837f2d0ec1a219ad"
+  },
+  "guid:6aea129f52c09500099e0715": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Pesquisa identifica oportunidades para ampliar demanda, diversificar experiências e atrair investimentos",
+   "discovered_at": "2026-11-03T17:00:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aea129f52c09500099e0715",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/9ea758f0-47c9-4d42-93ab-24149a73808f.jpeg",
+   "key": "guid:6aea129f52c09500099e0715",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-03T16:59:25+00:00",
+   "status": "pending",
+   "title": "Fórum de Turismo Responsável, em Manaus, apresenta estudo inédito do BID sobre a Amazônia",
+   "updated_at": "2026-11-03T17:00:21+00:00",
+   "url": "https://marioadolfo.com/forum-de-turismo-responsavel-em-manaus-apresenta-estudo-inedito-do-bid-sobre-a-amazonia/",
+   "url_hash": "3ca8278a9d9173cc7f011993"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-03T16:50:17+00:00",
-  "saved_at": "2026-11-03T16:50:18+00:00"
+  "last_run_at": "2026-11-03T17:00:21+00:00",
+  "saved_at": "2026-11-03T17:00:22+00:00"
  },
  "schema": 1
 }
