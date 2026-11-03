@@ -17405,13 +17405,76 @@
    "updated_at": "2026-11-03T19:30:30+00:00",
    "url": "https://marioadolfo.com/fiscalizacao-registra-mais-de-800-irregularidades-cometidas-por-condutores-no-am/",
    "url_hash": "b25d6f199d08b4e88228e14a"
+  },
+  "guid:6aea366052c09500099e0803": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Apostas para o concurso especial já estão disponíveis",
+   "discovered_at": "2026-11-03T19:40:26+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aea366052c09500099e0803",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/84548042-7a1b-487c-89d8-4f21ef49ae2e.jpg",
+   "key": "guid:6aea366052c09500099e0803",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-03T19:31:59+00:00",
+   "status": "pending",
+   "title": "Mega da Virada: Caixa anuncia que prêmio deve superar R$ 1 bilhão",
+   "updated_at": "2026-11-03T19:40:26+00:00",
+   "url": "https://marioadolfo.com/mega-da-virada-caixa-anuncia-que-premio-deve-superar-r-1-bilhao/",
+   "url_hash": "668899a0dab5a431966ef87d"
+  },
+  "guid:6aea36c252c09500099e0817": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Previsão é que presidente retome atividades normalmente amanhã",
+   "discovered_at": "2026-11-03T19:40:26+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aea36c252c09500099e0817",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/3fbd27e1-9035-41e5-a8d2-c7fad026afbb.jpg",
+   "key": "guid:6aea36c252c09500099e0817",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-03T19:33:31+00:00",
+   "status": "pending",
+   "title": "Lula vai a São Paulo para fazer exames de rotina nesta terça-feira",
+   "updated_at": "2026-11-03T19:40:26+00:00",
+   "url": "https://marioadolfo.com/lula-vai-a-sao-paulo-para-fazer-exames-de-rotina-nesta-terca-feira/",
+   "url_hash": "6b8584fb664090c3e9deafa7"
+  },
+  "guid:6aea376852c09500099e082b": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Operação contará com 23 policiais militares, atendimento humanizado e acolhimento de mulheres vítimas de violência doméstica",
+   "discovered_at": "2026-11-03T19:40:26+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aea376852c09500099e082b",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/729cd27c-8a31-4555-8498-756ee4d8dff4.jpeg",
+   "key": "guid:6aea376852c09500099e082b",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-03T19:36:07+00:00",
+   "status": "pending",
+   "title": "SSP-AM lança segunda edição da Operação Mulher Segura em Manacapuru",
+   "updated_at": "2026-11-03T19:40:26+00:00",
+   "url": "https://marioadolfo.com/ssp-am-lanca-segunda-edicao-da-operacao-mulher-segura-em-manacapuru/",
+   "url_hash": "030b6a4b130478e16204f8e0"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-03T19:30:29+00:00",
-  "saved_at": "2026-11-03T19:30:30+00:00"
+  "last_run_at": "2026-11-03T19:40:26+00:00",
+  "saved_at": "2026-11-03T19:40:28+00:00"
  },
  "schema": 1
 }
