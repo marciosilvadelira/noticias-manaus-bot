@@ -17510,13 +17510,34 @@
    "updated_at": "2026-11-03T20:20:26+00:00",
    "url": "https://marioadolfo.com/eduardo-braga-sera-relator-do-orcamento-da-uniao-de-2027-estimado-em-r-7-4-trilhoes/",
    "url_hash": "60eaca9ff04c95aa0da7a7f8"
+  },
+  "guid:6aea4f1d52c09500099e08ac": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Irregularidades foram registradas na capital e no interior durante as Eleições 2026",
+   "discovered_at": "2026-11-03T21:20:22+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aea4f1d52c09500099e08ac",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/edc03c82-577c-4816-ac06-870c9a441f72.jpg",
+   "key": "guid:6aea4f1d52c09500099e08ac",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-03T21:19:27+00:00",
+   "status": "pending",
+   "title": "MP Eleitoral move 22 ações por derramamento de santinhos no 2º turno no AM",
+   "updated_at": "2026-11-03T21:20:22+00:00",
+   "url": "https://marioadolfo.com/mp-eleitoral-move-22-acoes-por-derramamento-de-santinhos-no-segundo-turno-no-amazonas-derramamento-de-santinhos-no-segundo-turno-no-amazonasderramamento-de-santinhos-no-segundo-turno-am/",
+   "url_hash": "d9175dc4d5ffa2e57bbd834b"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-03T21:18:45+00:00",
-  "saved_at": "2026-11-03T21:18:47+00:00"
+  "last_run_at": "2026-11-03T21:20:21+00:00",
+  "saved_at": "2026-11-03T21:20:22+00:00"
  },
  "schema": 1
 }
