@@ -16669,11 +16669,19 @@
    "url_hash": "6f3b153db619b235534b53a5"
   },
   "guid:6ae8e7e752c09500099e050d": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-03T04:10:25+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1527308496086708",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Servidores vão atender cerca de 700 mil visitantes nos dez cemitérios públicos da capital neste Dia de Finados",
    "discovered_at": "2026-11-02T19:50:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1527308496086708",
    "formats": [
     "link"
    ],
@@ -16681,20 +16689,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/982fc57c-e193-4ea2-9d4c-516f69ab1eb4.jpeg",
    "key": "guid:6ae8e7e752c09500099e050d",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1527308496086708"
+   },
    "source_published_at": "2026-11-02T19:46:24+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Prefeitura de Manaus mobiliza mais de mil servidores para receber visitantes nos cemitérios",
-   "updated_at": "2026-11-02T19:50:18+00:00",
+   "updated_at": "2026-11-03T04:10:25+00:00",
    "url": "https://marioadolfo.com/prefeitura-de-manaus-mobiliza-mais-de-mil-servidores-para-receber-visitantes-nos-cemiterios/",
    "url_hash": "b03d6185a094b71e4eb3f408"
   },
   "guid:6ae8e8cb52c09500099e0525": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-03T04:10:50+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1527308749420016",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Mais de 8.030 audiências estão pautadas para ocorrer nesta edição",
    "discovered_at": "2026-11-02T20:00:25+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1527308749420016",
    "formats": [
     "link"
    ],
@@ -16702,20 +16720,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/371220a8-3ae9-4263-968c-e3f0f1d6a3cc.jpeg",
    "key": "guid:6ae8e8cb52c09500099e0525",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1527308749420016"
+   },
    "source_published_at": "2026-11-02T19:51:44+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Justiça inicia ‘Semana Nacional da Conciliação’ no Amazonas, nesta terça (3)",
-   "updated_at": "2026-11-02T20:00:25+00:00",
+   "updated_at": "2026-11-03T04:10:50+00:00",
    "url": "https://marioadolfo.com/justica-inicia-semana-nacional-da-conciliacao-no-amazonas-nesta-terca-3/",
    "url_hash": "a62487b561b001bc81945e32"
   },
   "guid:6ae9039b52c09500099e053c": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-03T04:11:16+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1527309002753324",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Distribuição de senhas e atendimento serão realizados das 8h às 13h",
    "discovered_at": "2026-11-02T21:50:25+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1527309002753324",
    "formats": [
     "link"
    ],
@@ -16723,20 +16751,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e5fd91a7-67d4-4224-adf4-5620b02e158e.jpeg",
    "key": "guid:6ae9039b52c09500099e053c",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1527309002753324"
+   },
    "source_published_at": "2026-11-02T21:44:39+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Sine Amazonas divulga 374 vagas de emprego para esta terça-feira",
-   "updated_at": "2026-11-02T21:50:25+00:00",
+   "updated_at": "2026-11-03T04:11:16+00:00",
    "url": "https://marioadolfo.com/sine-amazonas-divulga-374-vagas-de-emprego-para-esta-terca-feira/",
    "url_hash": "fc07b4a3e9fe38d02b08acf3"
   },
   "guid:6ae9047052c09500099e0563": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-03T04:11:41+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1527309256086632",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Defesa Civil do Amazonas classificou o risco como severo em Parintins e alto em outras cidades do interior",
    "discovered_at": "2026-11-02T21:50:25+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1527309256086632",
    "formats": [
     "link"
    ],
@@ -16744,11 +16782,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/20fe042e-b486-4169-8751-e030fb7061ef.png",
    "key": "guid:6ae9047052c09500099e0563",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1527309256086632"
+   },
    "source_published_at": "2026-11-02T21:47:28+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Fumaça de queimadas deixa 11 municípios do Amazonas com ar 'péssimo'",
-   "updated_at": "2026-11-02T21:50:25+00:00",
+   "updated_at": "2026-11-03T04:11:41+00:00",
    "url": "https://marioadolfo.com/fumaca-de-queimadas-deixa-11-municipios-do-amazonas-com-ar-pessimo/",
    "url_hash": "f3d8fdc51bd0444bb7376448"
   }
@@ -16756,8 +16796,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-03T04:00:18+00:00",
-  "saved_at": "2026-11-03T04:02:08+00:00"
+  "last_run_at": "2026-11-03T04:10:15+00:00",
+  "saved_at": "2026-11-03T04:11:41+00:00"
  },
  "schema": 1
 }
