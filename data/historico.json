@@ -17039,13 +17039,106 @@
    "updated_at": "2026-11-03T15:11:12+00:00",
    "url": "https://marioadolfo.com/fux-rebate-criticas-e-diz-ter-percepcao-de-que-bets-devem-ser-banidas/",
    "url_hash": "66b9bfb0fd14e41924d82172"
+  },
+  "guid:6ae9fd4c52c09500099e0688": {
+   "attempts": [
+    {
+     "at": "2026-11-03T15:40:26+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1527825279368363",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Brasil",
+   "description": "Atendimentos voltam a ser feitos pela internet e nos cartórios",
+   "discovered_at": "2026-11-03T15:40:19+00:00",
+   "fb_post_id": "107393769293726_1527825279368363",
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae9fd4c52c09500099e0688",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/56e12f35-c4b5-4bb4-8e5b-8d8a4e3afe85.jpeg",
+   "key": "guid:6ae9fd4c52c09500099e0688",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1527825279368363"
+   },
+   "source_published_at": "2026-11-03T15:31:12+00:00",
+   "status": "published",
+   "title": "Justiça Eleitoral reabre cadastro e retoma serviços ao eleitor",
+   "updated_at": "2026-11-03T15:40:26+00:00",
+   "url": "https://marioadolfo.com/justica-eleitoral-reabre-cadastro-e-retoma-servicos-ao-eleitor/",
+   "url_hash": "9029e2cf6350859b39674a37"
+  },
+  "guid:6ae9fee852c09500099e069d": {
+   "attempts": [
+    {
+     "at": "2026-11-03T15:40:50+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1527825562701668",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Polícia",
+   "description": "Josué Viana Medeiros foi localizado por câmeras do programa Muralha Paulista; cerca de 300 pessoas teriam sido vítimas do esquema.",
+   "discovered_at": "2026-11-03T15:40:19+00:00",
+   "fb_post_id": "107393769293726_1527825562701668",
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae9fee852c09500099e069d",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/7e82df54-b964-4fae-b667-56d488971553.jpg",
+   "key": "guid:6ae9fee852c09500099e069d",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1527825562701668"
+   },
+   "source_published_at": "2026-11-03T15:36:23+00:00",
+   "status": "published",
+   "title": "Condenado por golpes de R$ 45 milhões no Amazonas é preso em São Paulo",
+   "updated_at": "2026-11-03T15:40:50+00:00",
+   "url": "https://marioadolfo.com/condenado-por-golpes-de-r-45-milhoes-no-amazonas-e-preso-em-sao-paulo/",
+   "url_hash": "8eed67f684fe422f0b3e664f"
+  },
+  "guid:6ae9ffc152c09500099e06b5": {
+   "attempts": [
+    {
+     "at": "2026-11-03T15:41:14+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1527825909368300",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "O acidente ocorreu pouco após a decolagem, na Transamazônica, localizada entre Humaitá e Apuí, no Amazonas",
+   "discovered_at": "2026-11-03T15:40:19+00:00",
+   "fb_post_id": "107393769293726_1527825909368300",
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae9ffc152c09500099e06b5",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/1ebe790b-d75b-4d8c-8e39-d4f7d8a17297.jpg",
+   "key": "guid:6ae9ffc152c09500099e06b5",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1527825909368300"
+   },
+   "source_published_at": "2026-11-03T15:38:32+00:00",
+   "status": "published",
+   "title": "Criança de cinco anos vítima de queda de avião segue internada no Amazonas",
+   "updated_at": "2026-11-03T15:41:14+00:00",
+   "url": "https://marioadolfo.com/crianca-de-cinco-anos-vitima-de-queda-de-aviao-segue-internada-no-amazonas/",
+   "url_hash": "45789cc0ef5b7993e86c5b8f"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-03T15:30:21+00:00",
-  "saved_at": "2026-11-03T15:30:22+00:00"
+  "last_run_at": "2026-11-03T15:40:18+00:00",
+  "saved_at": "2026-11-03T15:41:14+00:00"
  },
  "schema": 1
 }
