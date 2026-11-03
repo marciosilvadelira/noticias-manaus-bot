@@ -17216,13 +17216,34 @@
    "updated_at": "2026-11-03T17:00:21+00:00",
    "url": "https://marioadolfo.com/forum-de-turismo-responsavel-em-manaus-apresenta-estudo-inedito-do-bid-sobre-a-amazonia/",
    "url_hash": "3ca8278a9d9173cc7f011993"
+  },
+  "guid:6aea134452c09500099e072d": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Do total de oportunidades, 93 são destinadas ao programa de estágio em áreas como Administração, Direito, Contabilidade, Marketing e Construção Civil",
+   "discovered_at": "2026-11-03T17:10:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aea134452c09500099e072d",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/3c5b34e6-000c-40a8-9a05-df493295b75a.jpeg",
+   "key": "guid:6aea134452c09500099e072d",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-03T17:02:04+00:00",
+   "status": "pending",
+   "title": "​CIEE oferece 128 oportunidades de estágio e aprendizagem para jovens no Amazonas",
+   "updated_at": "2026-11-03T17:10:18+00:00",
+   "url": "https://marioadolfo.com/ciee-oferece-128-oportunidades-de-estagio-e-aprendizagem-para-jovens-no-amazonas/",
+   "url_hash": "ee8ec285cb9a56492cabb0ca"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-03T17:00:21+00:00",
-  "saved_at": "2026-11-03T17:00:22+00:00"
+  "last_run_at": "2026-11-03T17:10:18+00:00",
+  "saved_at": "2026-11-03T17:10:18+00:00"
  },
  "schema": 1
 }
