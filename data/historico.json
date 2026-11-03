@@ -16514,11 +16514,19 @@
    "url_hash": "f96d5b6d4cf92c66c26235ad"
   },
   "guid:6ae8ad1752c09500099e0468": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-03T04:00:25+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1527302492753975",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Montagem do Ateliê 23 terá apresentações nesta terça e quarta-feira, às 20h, com homenagem ao artista Matheus Sabá e sorteios especiais para o público",
    "discovered_at": "2026-11-02T15:40:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1527302492753975",
    "formats": [
     "link"
    ],
@@ -16526,20 +16534,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/69487dca-a9b8-4565-9212-561d6e70b66b.jpeg",
    "key": "guid:6ae8ad1752c09500099e0468",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1527302492753975"
+   },
    "source_published_at": "2026-11-02T15:35:18+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Premiado espetáculo ‘Sebastião’ retorna ao Teatro Gebes Medeiros com as drags do Bar Patrícia",
-   "updated_at": "2026-11-02T15:40:18+00:00",
+   "updated_at": "2026-11-03T04:00:25+00:00",
    "url": "https://marioadolfo.com/premiado-espetaculo-sebastiao-retorna-ao-teatro-gebes-medeiros-com-as-drags-do-bar-patricia/",
    "url_hash": "f182beb782d44063a1c2cfa2"
   },
   "guid:6ae8ade552c09500099e0488": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-03T04:00:50+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1527302732753951",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Ações de imunização incluem vacinação casa a casa e preparação para o Dia D, em 7 de novembro",
    "discovered_at": "2026-11-02T15:40:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1527302732753951",
    "formats": [
     "link"
    ],
@@ -16547,20 +16565,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b65d52bd-d457-4532-8f82-97dd756667a9.jpeg",
    "key": "guid:6ae8ade552c09500099e0488",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1527302732753951"
+   },
    "source_published_at": "2026-11-02T15:37:44+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Amazonas reforça vacinação contra o sarampo na região da tríplice fronteira",
-   "updated_at": "2026-11-02T15:40:18+00:00",
+   "updated_at": "2026-11-03T04:00:50+00:00",
    "url": "https://marioadolfo.com/amazonas-reforca-vacinacao-contra-o-sarampo-na-regiao-da-triplice-fronteira/",
    "url_hash": "8393323b07329d7551e0ed80"
   },
   "guid:6ae8aed952c09500099e04aa": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-03T04:01:17+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1527303269420564",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "A vítima e o suspeito tiveram uma discussão momentos antes do crime, enquanto estavam em uma área utilizada para a produção de farinha",
    "discovered_at": "2026-11-02T15:50:22+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1527303269420564",
    "formats": [
     "link"
    ],
@@ -16568,20 +16596,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ec9fb7e7-9ab3-46d7-a9f6-a3393dbe1376.jpeg",
    "key": "guid:6ae8aed952c09500099e04aa",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1527303269420564"
+   },
    "source_published_at": "2026-11-02T15:41:32+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "PC-AM prende homem por homicídio qualificado em Nhamundá",
-   "updated_at": "2026-11-02T15:50:22+00:00",
+   "updated_at": "2026-11-03T04:01:17+00:00",
    "url": "https://marioadolfo.com/pc-am-prende-homem-por-homicidio-qualificado-em-nhamunda/",
    "url_hash": "52e3d1659aead79dabff79b5"
   },
   "guid:6ae8af6552c09500099e04c0": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-03T04:01:43+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1527303649420526",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Encontro com o embaixador Julien Steimer e o senador francês Olivier Cadic tratou de temas como combate às queimadas, bioeconomia, biotecnologia, inovação e enfrentamento à violência contra a mulher",
    "discovered_at": "2026-11-02T15:50:22+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1527303649420526",
    "formats": [
     "link"
    ],
@@ -16589,20 +16627,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/9158a16a-181b-4871-a896-f04c559aeb81.jpg",
    "key": "guid:6ae8af6552c09500099e04c0",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1527303649420526"
+   },
    "source_published_at": "2026-11-02T15:44:20+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Omar Aziz recebe representantes do governo da França e discute cooperação internacional",
-   "updated_at": "2026-11-02T15:50:22+00:00",
+   "updated_at": "2026-11-03T04:01:43+00:00",
    "url": "https://marioadolfo.com/omar-aziz-recebe-representantes-do-governo-da-franca-e-discute-cooperacao-internacional/",
    "url_hash": "1a1da728f816ee826b9989e1"
   },
   "guid:6ae8e72a52c09500099e04de": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-03T04:02:08+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1527303939420497",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Mundo",
    "description": "Nathalia Gadelha Filgueiras tinha mais de 1.300 horas de voo e tirou licença de piloto aos 17 anos",
    "discovered_at": "2026-11-02T19:50:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1527303939420497",
    "formats": [
     "link"
    ],
@@ -16610,11 +16658,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e8afcb5f-83f6-44bf-852f-39b65e9b71c2.jpeg",
    "key": "guid:6ae8e72a52c09500099e04de",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1527303939420497"
+   },
    "source_published_at": "2026-11-02T19:42:32+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Brasileira de 20 anos é identificada como copilota de avião que caiu na Flórida",
-   "updated_at": "2026-11-02T19:50:18+00:00",
+   "updated_at": "2026-11-03T04:02:08+00:00",
    "url": "https://marioadolfo.com/brasileira-de-20-anos-e-identificada-como-copilota-de-aviao-que-caiu-na-florida/",
    "url_hash": "6f3b153db619b235534b53a5"
   },
@@ -16706,8 +16756,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-03T03:50:16+00:00",
-  "saved_at": "2026-11-03T03:50:18+00:00"
+  "last_run_at": "2026-11-03T04:00:18+00:00",
+  "saved_at": "2026-11-03T04:02:08+00:00"
  },
  "schema": 1
 }
