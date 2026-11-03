@@ -16791,13 +16791,44 @@
    "updated_at": "2026-11-03T04:11:41+00:00",
    "url": "https://marioadolfo.com/fumaca-de-queimadas-deixa-11-municipios-do-amazonas-com-ar-pessimo/",
    "url_hash": "f3d8fdc51bd0444bb7376448"
+  },
+  "guid:6ae9d60152c09500099e0588": {
+   "attempts": [
+    {
+     "at": "2026-11-03T12:50:22+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1527680172716207",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "O Sinetram realiza uma coletiva de imprensa nesta terça-feira (3) para prestar esclarecimentos sobre o bloqueio de novos créditos da gratuidade estudantil",
+   "discovered_at": "2026-11-03T12:50:17+00:00",
+   "fb_post_id": "107393769293726_1527680172716207",
+   "formats": [
+    "link"
+   ],
+   "guid": "6ae9d60152c09500099e0588",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c1ecbaa1-b135-44f4-a0de-823651f72776.jpg",
+   "key": "guid:6ae9d60152c09500099e0588",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1527680172716207"
+   },
+   "source_published_at": "2026-11-03T12:50:10+00:00",
+   "status": "published",
+   "title": "Governo do AM afirma que pagamentos do Passe Livre Estudantil estão em dia",
+   "updated_at": "2026-11-03T12:50:22+00:00",
+   "url": "https://marioadolfo.com/governo-do-am-afirma-que-pagamentos-do-passe-livre-estudantil-estao-em-dia/",
+   "url_hash": "c6a7fde0e26a4ecd9d01650d"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-03T12:40:17+00:00",
-  "saved_at": "2026-11-03T12:40:19+00:00"
+  "last_run_at": "2026-11-03T12:50:15+00:00",
+  "saved_at": "2026-11-03T12:50:22+00:00"
  },
  "schema": 1
 }
