@@ -18109,13 +18109,34 @@
    "updated_at": "2026-11-04T15:47:41+00:00",
    "url": "https://marioadolfo.com/operacao-boitata-mp-investiga-crimes-de-incendios-ambientais-em-sao-sebastiao-do-uatuma/",
    "url_hash": "0033223428c1ca7c62f89188"
+  },
+  "guid:6aeb585452c09500099e0aef": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Terreno fica às margens do Lago Jaraqui e foi alvo de fiscalização durante a Operação Tamoiotatá 6",
+   "discovered_at": "2026-11-04T16:20:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aeb585452c09500099e0aef",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/77a71061-66c3-4dca-9fab-1e956ccafa75.jpeg",
+   "key": "guid:6aeb585452c09500099e0aef",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-04T16:12:59+00:00",
+   "status": "pending",
+   "title": "Ipaam embarga área de 120 hectares após desmatamento e queimada em Manaquiri",
+   "updated_at": "2026-11-04T16:20:16+00:00",
+   "url": "https://marioadolfo.com/ipaam-embarga-area-de-120-hectares-apos-desmatamento-e-queimada-em-manaquiri/",
+   "url_hash": "88794610eadfdde61b63d210"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-04T16:10:14+00:00",
-  "saved_at": "2026-11-04T16:10:15+00:00"
+  "last_run_at": "2026-11-04T16:20:15+00:00",
+  "saved_at": "2026-11-04T16:20:17+00:00"
  },
  "schema": 1
 }
