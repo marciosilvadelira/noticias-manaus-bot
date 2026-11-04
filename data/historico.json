@@ -18340,13 +18340,34 @@
    "updated_at": "2026-11-04T18:50:15+00:00",
    "url": "https://marioadolfo.com/pl-lanca-rogerio-marinho-para-a-presidencia-do-senado/",
    "url_hash": "0fb286701a32f1008ff78c7d"
+  },
+  "guid:6aeb8eb052c09500099e0c00": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Mais de 150 estudantes relataram que foram prejudicados pela suspensão do benefício.  Sinetram deve retomar o serviço em até 24 horas após a intimação",
+   "discovered_at": "2026-11-04T20:10:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aeb8eb052c09500099e0c00",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6abe0d20-e745-4e55-8008-9e94e9a8fe15.jpeg",
+   "key": "guid:6aeb8eb052c09500099e0c00",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-04T20:03:37+00:00",
+   "status": "pending",
+   "title": "Justiça determina restabelecimento do Passe Livre Estudantil em Manaus",
+   "updated_at": "2026-11-04T20:10:16+00:00",
+   "url": "https://marioadolfo.com/justica-determina-restabelecimento-do-passe-livre-estudantil-em-manaus/",
+   "url_hash": "036961e076e974d4011e9640"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-04T20:00:17+00:00",
-  "saved_at": "2026-11-04T20:00:19+00:00"
+  "last_run_at": "2026-11-04T20:10:15+00:00",
+  "saved_at": "2026-11-04T20:10:17+00:00"
  },
  "schema": 1
 }
