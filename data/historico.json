@@ -18445,13 +18445,34 @@
    "updated_at": "2026-11-04T21:40:13+00:00",
    "url": "https://marioadolfo.com/cetam-prorroga-inscricoes-para-cursos-online-ate-sexta-feira/",
    "url_hash": "52c8aecd336b236a1cb83bd3"
+  },
+  "guid:6aeba74a52c09500099e0c8c": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Voto foi o primeiro desde que ele deixou o país na semana passada",
+   "discovered_at": "2026-11-04T21:50:22+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aeba74a52c09500099e0c8c",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/143f164c-ea5c-471a-9eb9-84444ee32e29.webp",
+   "key": "guid:6aeba74a52c09500099e0c8c",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-04T21:00:00+00:00",
+   "status": "pending",
+   "title": "Nos EUA, Flávio Bolsonaro vota remotamente a favor da PEC da Segurança",
+   "updated_at": "2026-11-04T21:50:22+00:00",
+   "url": "https://marioadolfo.com/nos-eua-flavio-bolsonaro-vota-remotamente-a-favor-da-pec-da-seguranca/",
+   "url_hash": "ee03b601f625f1ca8e56b98a"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-04T21:40:13+00:00",
-  "saved_at": "2026-11-04T21:40:14+00:00"
+  "last_run_at": "2026-11-04T21:50:21+00:00",
+  "saved_at": "2026-11-04T21:50:22+00:00"
  },
  "schema": 1
 }
