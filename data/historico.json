@@ -17444,11 +17444,19 @@
    "url_hash": "c1f3595b921a22ca5b0db95e"
   },
   "guid:6aea20c552c09500099e07bd": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-04T04:20:21+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1528350259315865",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Solo do Grupo Fome questiona padrões de normalidade e será apresentado no dia 23 de novembro, no Teatro Américo Alvarez, com entrada gratuita",
    "discovered_at": "2026-11-03T18:10:25+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1528350259315865",
    "formats": [
     "link"
    ],
@@ -17456,20 +17464,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5d8216a4-922d-49bb-8a74-e9269434f8c2.jpeg",
    "key": "guid:6aea20c552c09500099e07bd",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1528350259315865"
+   },
    "source_published_at": "2026-11-03T18:00:30+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Espetáculo ‘Terra de Sal’ estreia em Manaus e usa universo do circo para abordar a inclusão de PcDs",
-   "updated_at": "2026-11-03T18:10:25+00:00",
+   "updated_at": "2026-11-04T04:20:21+00:00",
    "url": "https://marioadolfo.com/espetaculo-terra-de-sal-estreia-em-manaus-e-usa-universo-do-circo-para-abordar-a-inclusao-de-pcds/",
    "url_hash": "143193e32c63d0dbf5a1cad9"
   },
   "guid:6aea352b52c09500099e07d5": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-04T04:20:44+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1528350772649147",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Trabalhos de campo vão identificar setores vulneráveis e subsidiar propostas de medidas para reduzir riscos no município",
    "discovered_at": "2026-11-03T19:30:30+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1528350772649147",
    "formats": [
     "link"
    ],
@@ -17477,20 +17495,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6e0d90d1-5ebd-4a72-a43a-d55b58aa715a.jpg",
    "key": "guid:6aea352b52c09500099e07d5",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1528350772649147"
+   },
    "source_published_at": "2026-11-03T19:26:53+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Pesquisadores do SGB iniciam mapeamento de áreas de risco em Tefé",
-   "updated_at": "2026-11-03T19:30:30+00:00",
+   "updated_at": "2026-11-04T04:20:44+00:00",
    "url": "https://marioadolfo.com/pesquisadores-do-sgb-iniciam-mapeamento-de-areas-de-risco-em-tefe/",
    "url_hash": "47138fb4ea32f5696c93bd0a"
   },
   "guid:6aea359452c09500099e07ec": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-04T04:21:09+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1528351105982447",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "As fiscalizações foram realizadas em todas as zonas de Manaus, priorizando as zonas leste e norte por serem as de maior incidência de sinistros de trânsito envolvendo motocicletas",
    "discovered_at": "2026-11-03T19:30:30+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1528351105982447",
    "formats": [
     "link"
    ],
@@ -17498,20 +17526,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/de84a0ec-7d7d-411a-93ed-638e3a3c57bf.jpeg",
    "key": "guid:6aea359452c09500099e07ec",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1528351105982447"
+   },
    "source_published_at": "2026-11-03T19:29:16+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Fiscalização registra mais de 800 irregularidades cometidas por condutores no AM",
-   "updated_at": "2026-11-03T19:30:30+00:00",
+   "updated_at": "2026-11-04T04:21:09+00:00",
    "url": "https://marioadolfo.com/fiscalizacao-registra-mais-de-800-irregularidades-cometidas-por-condutores-no-am/",
    "url_hash": "b25d6f199d08b4e88228e14a"
   },
   "guid:6aea366052c09500099e0803": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-04T04:21:36+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1528351309315760",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Apostas para o concurso especial já estão disponíveis",
    "discovered_at": "2026-11-03T19:40:26+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1528351309315760",
    "formats": [
     "link"
    ],
@@ -17519,20 +17557,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/84548042-7a1b-487c-89d8-4f21ef49ae2e.jpg",
    "key": "guid:6aea366052c09500099e0803",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1528351309315760"
+   },
    "source_published_at": "2026-11-03T19:31:59+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Mega da Virada: Caixa anuncia que prêmio deve superar R$ 1 bilhão",
-   "updated_at": "2026-11-03T19:40:26+00:00",
+   "updated_at": "2026-11-04T04:21:36+00:00",
    "url": "https://marioadolfo.com/mega-da-virada-caixa-anuncia-que-premio-deve-superar-r-1-bilhao/",
    "url_hash": "668899a0dab5a431966ef87d"
   },
   "guid:6aea36c252c09500099e0817": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-04T04:22:01+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1528352005982357",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Previsão é que presidente retome atividades normalmente amanhã",
    "discovered_at": "2026-11-03T19:40:26+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1528352005982357",
    "formats": [
     "link"
    ],
@@ -17540,11 +17588,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/3fbd27e1-9035-41e5-a8d2-c7fad026afbb.jpg",
    "key": "guid:6aea36c252c09500099e0817",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1528352005982357"
+   },
    "source_published_at": "2026-11-03T19:33:31+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Lula vai a São Paulo para fazer exames de rotina nesta terça-feira",
-   "updated_at": "2026-11-03T19:40:26+00:00",
+   "updated_at": "2026-11-04T04:22:01+00:00",
    "url": "https://marioadolfo.com/lula-vai-a-sao-paulo-para-fazer-exames-de-rotina-nesta-terca-feira/",
    "url_hash": "6b8584fb664090c3e9deafa7"
   },
@@ -17699,8 +17749,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-04T04:10:15+00:00",
-  "saved_at": "2026-11-04T04:11:57+00:00"
+  "last_run_at": "2026-11-04T04:20:13+00:00",
+  "saved_at": "2026-11-04T04:22:01+00:00"
  },
  "schema": 1
 }
