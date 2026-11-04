@@ -18046,13 +18046,55 @@
    "updated_at": "2026-11-04T15:30:18+00:00",
    "url": "https://marioadolfo.com/suspeito-e-preso-por-tentativa-de-homicidio-apos-discussao-por-vagas-de-estacionamento/",
    "url_hash": "dae28aa285a48206bcd3a114"
+  },
+  "guid:6aeb4f6552c09500099e0aa6": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Concessionária investe em soluções permanentes de captação desde estiagem recorde de 2023 e amplia a capacidade de resposta a cenários de redução do nível do Rio Negro.",
+   "discovered_at": "2026-11-04T15:40:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aeb4f6552c09500099e0aa6",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/acc3d788-2887-401d-b7b9-8f93ead776e5.jpg",
+   "key": "guid:6aeb4f6552c09500099e0aa6",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-04T15:32:14+00:00",
+   "status": "pending",
+   "title": "Águas de Manaus fortalece estrutura para manter abastecimento durante a estiagem",
+   "updated_at": "2026-11-04T15:40:15+00:00",
+   "url": "https://marioadolfo.com/aguas-de-manaus-fortalece-estrutura-para-manter-abastecimento-em-periodos-de-estiagem/",
+   "url_hash": "0358ce70111a6bdaf6667d19"
+  },
+  "guid:6aeb509352c09500099e0ac3": {
+   "attempts": [],
+   "category": "Parintins",
+   "description": "Autorização emitida pelo Ipaam tem validade até 2028 e contempla intervenções de infraestrutura e construção de unidades habitacionais",
+   "discovered_at": "2026-11-04T15:40:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aeb509352c09500099e0ac3",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/cbfcce12-aeab-45f1-97e4-2e8ee78a8f69.jpeg",
+   "key": "guid:6aeb509352c09500099e0ac3",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-04T15:36:27+00:00",
+   "status": "pending",
+   "title": "Prosai Parintins: Governo do AM garante renovação de licença ambiental de instalação",
+   "updated_at": "2026-11-04T15:40:15+00:00",
+   "url": "https://marioadolfo.com/prosai-parintins-governo-do-am-garante-renovacao-de-licenca-ambiental-de-instalacao/",
+   "url_hash": "b699cb901307927a1ebda3ce"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-04T15:30:17+00:00",
-  "saved_at": "2026-11-04T15:30:18+00:00"
+  "last_run_at": "2026-11-04T15:40:14+00:00",
+  "saved_at": "2026-11-04T15:40:15+00:00"
  },
  "schema": 1
 }
