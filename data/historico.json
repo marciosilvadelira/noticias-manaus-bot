@@ -18298,13 +18298,34 @@
    "updated_at": "2026-11-04T17:40:16+00:00",
    "url": "https://marioadolfo.com/senac-abre-inscricoes-para-cursos-gratuitos-em-manaus-borba-manacapuru-e-parintins/",
    "url_hash": "44dc64ce9cf51e5147511f18"
+  },
+  "guid:6aeb77ba52c09500099e0bd3": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Suspeitos utilizavam armas de fogo, roubaram um posto de combustível e até expulsavam as vítimas de suas residências por cobranças de dívidas",
+   "discovered_at": "2026-11-04T18:30:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aeb77ba52c09500099e0bd3",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a3156c34-0843-4702-b9c3-d706ef9f6c35.jpeg",
+   "key": "guid:6aeb77ba52c09500099e0bd3",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-04T18:23:41+00:00",
+   "status": "pending",
+   "title": "Dupla é presa por roubo e extorsões ao cobrar dívidas de agiotagem em Manaus",
+   "updated_at": "2026-11-04T18:30:19+00:00",
+   "url": "https://marioadolfo.com/dupla-e-presa-por-roubo-e-extorsoes-ao-cobrar-dividas-de-agiotagem-em-manaus/",
+   "url_hash": "d9c1739802825e801e6decfa"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-04T18:20:17+00:00",
-  "saved_at": "2026-11-04T18:20:18+00:00"
+  "last_run_at": "2026-11-04T18:30:17+00:00",
+  "saved_at": "2026-11-04T18:30:20+00:00"
  },
  "schema": 1
 }
