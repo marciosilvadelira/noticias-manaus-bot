@@ -18151,13 +18151,55 @@
    "updated_at": "2026-11-04T16:30:20+00:00",
    "url": "https://marioadolfo.com/mulher-e-presa-por-simular-o-proprio-sequestro-em-manaus/",
    "url_hash": "4ee09010b6cdc18bf745bc93"
+  },
+  "guid:6aeb5fbc52c09500099e0b31": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Balanço inclui patrulhamento, abordagens, prisões, atendimento de ocorrências e ações preventivas",
+   "discovered_at": "2026-11-04T16:50:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aeb5fbc52c09500099e0b31",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/616c35d0-6395-4eeb-876b-650288432b1b.jpeg",
+   "key": "guid:6aeb5fbc52c09500099e0b31",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-04T16:42:36+00:00",
+   "status": "pending",
+   "title": "Guarda Municipal realiza mais de 1,7 mil ações no mês de outubro",
+   "updated_at": "2026-11-04T16:50:16+00:00",
+   "url": "https://marioadolfo.com/guarda-municipal-realiza-mais-de-1-7-mil-acoes-no-mes-de-outubro/",
+   "url_hash": "e5701f7da9e7670a880d1364"
+  },
+  "guid:6aeb605052c09500099e0b3d": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Líder do MDB criticou a atuação de lobbies e destacou impactos na economia popular",
+   "discovered_at": "2026-11-04T16:50:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aeb605052c09500099e0b3d",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/79f83dac-5b25-4f9b-9ad8-a9b4941d6da9.jpeg",
+   "key": "guid:6aeb605052c09500099e0b3d",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-04T16:43:23+00:00",
+   "status": "pending",
+   "title": "Eduardo Braga defende fim das Bets e alerta para risco de MP caducar",
+   "updated_at": "2026-11-04T16:50:16+00:00",
+   "url": "https://marioadolfo.com/eduardo-braga-defende-fim-das-bets-e-alerta-para-risco-de-mp-caducar/",
+   "url_hash": "bbcb56ea243d003d20bbe104"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-04T16:40:24+00:00",
-  "saved_at": "2026-11-04T16:40:26+00:00"
+  "last_run_at": "2026-11-04T16:50:15+00:00",
+  "saved_at": "2026-11-04T16:50:16+00:00"
  },
  "schema": 1
 }
