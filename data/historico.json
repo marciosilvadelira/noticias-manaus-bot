@@ -18130,13 +18130,34 @@
    "updated_at": "2026-11-04T16:20:16+00:00",
    "url": "https://marioadolfo.com/ipaam-embarga-area-de-120-hectares-apos-desmatamento-e-queimada-em-manaquiri/",
    "url_hash": "88794610eadfdde61b63d210"
+  },
+  "guid:6aeb5b0c52c09500099e0b0b": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "A mulher confessou o crime à polícia e afirmou que simulou o próprio sequestro por causa de uma dívida de R$ 50 mil com agiotas.",
+   "discovered_at": "2026-11-04T16:30:20+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aeb5b0c52c09500099e0b0b",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/8dee23eb-6cb1-4aee-9a4c-4bf8aab3c40b.png",
+   "key": "guid:6aeb5b0c52c09500099e0b0b",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-04T16:26:38+00:00",
+   "status": "pending",
+   "title": "Mulher é presa por simular o próprio sequestro em Manaus",
+   "updated_at": "2026-11-04T16:30:20+00:00",
+   "url": "https://marioadolfo.com/mulher-e-presa-por-simular-o-proprio-sequestro-em-manaus/",
+   "url_hash": "4ee09010b6cdc18bf745bc93"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-04T16:20:15+00:00",
-  "saved_at": "2026-11-04T16:20:17+00:00"
+  "last_run_at": "2026-11-04T16:30:19+00:00",
+  "saved_at": "2026-11-04T16:30:21+00:00"
  },
  "schema": 1
 }
