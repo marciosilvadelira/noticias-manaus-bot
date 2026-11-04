@@ -17795,6 +17795,27 @@
    "url": "https://marioadolfo.com/governo-assina-concessao-para-exploracao-de-petroleo-e-gas-natural-em-tefe/",
    "url_hash": "40face4641c4fdde74823fac"
   },
+  "guid:6aea6b6852c09500099e0925": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Estrutura foi montada no Instituto Nacional de Criminalística (INC)",
+   "discovered_at": "2026-11-04T11:30:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aea6b6852c09500099e0925",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/8bf0ce16-52c0-4937-a401-4fdcd1fd77b6.jpg",
+   "key": "guid:6aea6b6852c09500099e0925",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-04T11:30:00+00:00",
+   "status": "pending",
+   "title": "PF inaugura laboratório para combater garimpo ilegal na Amazônia",
+   "updated_at": "2026-11-04T11:30:17+00:00",
+   "url": "https://marioadolfo.com/pf-inaugura-laboratorio-para-combater-garimpo-ilegal-na-amazonia/",
+   "url_hash": "204e8b0b9b64394886435015"
+  },
   "guid:6aea7fdb52c09500099e097a": {
    "attempts": [],
    "category": "Brasil",
@@ -17820,8 +17841,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-04T11:20:22+00:00",
-  "saved_at": "2026-11-04T11:20:23+00:00"
+  "last_run_at": "2026-11-04T11:30:16+00:00",
+  "saved_at": "2026-11-04T11:30:17+00:00"
  },
  "schema": 1
 }
