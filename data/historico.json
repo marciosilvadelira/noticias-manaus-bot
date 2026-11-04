@@ -18424,13 +18424,34 @@
    "updated_at": "2026-11-04T20:20:13+00:00",
    "url": "https://marioadolfo.com/semulsp-prefe-retira-mais-de-5-mil-toneladas-de-lixo-descartado-irregularmente-em-outubro/",
    "url_hash": "c273eeaf26414f0e75b906b9"
+  },
+  "guid:6aeba57d52c09500099e0c72": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Interessados têm até as 23h59, do dia 6 de novembro, para se inscrever na terceira oferta de 2026 dos cursos de qualificação profissional à distância",
+   "discovered_at": "2026-11-04T21:40:13+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aeba57d52c09500099e0c72",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/fa84c03a-790a-4e11-b814-e1ba3c74695f.jpeg",
+   "key": "guid:6aeba57d52c09500099e0c72",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-04T21:38:42+00:00",
+   "status": "pending",
+   "title": "Cetam prorroga inscrições para cursos online até sexta-feira",
+   "updated_at": "2026-11-04T21:40:13+00:00",
+   "url": "https://marioadolfo.com/cetam-prorroga-inscricoes-para-cursos-online-ate-sexta-feira/",
+   "url_hash": "52c8aecd336b236a1cb83bd3"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-04T21:33:35+00:00",
-  "saved_at": "2026-11-04T21:33:36+00:00"
+  "last_run_at": "2026-11-04T21:40:13+00:00",
+  "saved_at": "2026-11-04T21:40:14+00:00"
  },
  "schema": 1
 }
