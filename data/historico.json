@@ -17983,13 +17983,76 @@
    "updated_at": "2026-11-04T15:20:14+00:00",
    "url": "https://marioadolfo.com/menino-ney-e-preso-suspeito-de-trafico-de-drogas-na-zona-norte-de-manaus/",
    "url_hash": "ecd20007e15c02060acd54f3"
+  },
+  "guid:6aeb4c9d52c09500099e0a60": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "No local, também foi encontrado um cachimbo, utilizado supostamente para o consumo de entorpecentes.",
+   "discovered_at": "2026-11-04T15:30:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aeb4c9d52c09500099e0a60",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/47a34260-3d9e-4aa6-a5a1-087bc075cb00.png",
+   "key": "guid:6aeb4c9d52c09500099e0a60",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-04T15:20:36+00:00",
+   "status": "pending",
+   "title": "Homem é morto a facadas no Complexo Viário Rei Pelé",
+   "updated_at": "2026-11-04T15:30:18+00:00",
+   "url": "https://marioadolfo.com/homem-e-morto-a-facadas-no-complexo-viario-rei-pele/",
+   "url_hash": "0388859d1f6f81bbe330050e"
+  },
+  "guid:6aeb4d6f52c09500099e0a7c": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Wegovy só era disponível no Brasil em forma de caneta injetável",
+   "discovered_at": "2026-11-04T15:30:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aeb4d6f52c09500099e0a7c",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/65b1b4d4-cb7b-473a-9424-85f0c8e28f63.jpg",
+   "key": "guid:6aeb4d6f52c09500099e0a7c",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-04T15:23:19+00:00",
+   "status": "pending",
+   "title": "Anvisa aprova primeiro medicamento de GLP-1 oral para obesidade",
+   "updated_at": "2026-11-04T15:30:18+00:00",
+   "url": "https://marioadolfo.com/anvisa-aprova-primeiro-medicamento-de-glp-1-oral-para-obesidade/",
+   "url_hash": "038f6616fe8746df40da2c80"
+  },
+  "guid:6aeb4e3552c09500099e0a91": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "O indivíduo teria efetuado diversos disparos de arma de fogo em uma via pública de grande movimento",
+   "discovered_at": "2026-11-04T15:30:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aeb4e3552c09500099e0a91",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/7ec798a8-b972-48d3-b40f-5728042e97b6.jpg",
+   "key": "guid:6aeb4e3552c09500099e0a91",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-04T15:27:11+00:00",
+   "status": "pending",
+   "title": "Suspeito é preso por tentativa de homicídio após discussão por vagas de estacionamento",
+   "updated_at": "2026-11-04T15:30:18+00:00",
+   "url": "https://marioadolfo.com/suspeito-e-preso-por-tentativa-de-homicidio-apos-discussao-por-vagas-de-estacionamento/",
+   "url_hash": "dae28aa285a48206bcd3a114"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-04T15:20:14+00:00",
-  "saved_at": "2026-11-04T15:20:15+00:00"
+  "last_run_at": "2026-11-04T15:30:17+00:00",
+  "saved_at": "2026-11-04T15:30:18+00:00"
  },
  "schema": 1
 }
