@@ -18319,13 +18319,34 @@
    "updated_at": "2026-11-04T18:30:19+00:00",
    "url": "https://marioadolfo.com/dupla-e-presa-por-roubo-e-extorsoes-ao-cobrar-dividas-de-agiotagem-em-manaus/",
    "url_hash": "d9c1739802825e801e6decfa"
+  },
+  "guid:6aeb7ce752c09500099e0beb": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Partido terá a maior bancada da Casa na próxima legislatura, com 29 das 81 cadeiras",
+   "discovered_at": "2026-11-04T18:50:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aeb7ce752c09500099e0beb",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/44dac697-786a-445c-8c9e-b264c6865801.webp",
+   "key": "guid:6aeb7ce752c09500099e0beb",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-04T18:44:58+00:00",
+   "status": "pending",
+   "title": "PL lança Rogério Marinho para a presidência do Senado",
+   "updated_at": "2026-11-04T18:50:15+00:00",
+   "url": "https://marioadolfo.com/pl-lanca-rogerio-marinho-para-a-presidencia-do-senado/",
+   "url_hash": "0fb286701a32f1008ff78c7d"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-04T18:40:14+00:00",
-  "saved_at": "2026-11-04T18:40:15+00:00"
+  "last_run_at": "2026-11-04T18:50:14+00:00",
+  "saved_at": "2026-11-04T18:50:15+00:00"
  },
  "schema": 1
 }
