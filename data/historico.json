@@ -17878,13 +17878,55 @@
    "updated_at": "2026-11-04T11:10:16+00:00",
    "url": "https://marioadolfo.com/senado-aprova-pec-da-seguranca-publica-sem-reducao-da-maioridade-penal/",
    "url_hash": "b9a4a37d78ab317ff80754ee"
+  },
+  "guid:6aeb264c52c09500099e09aa": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A equipe indicada por Omar Aziz deverá trabalhar em conjunto com os três representantes do atual governo estadual, formando uma comissão de seis integrantes",
+   "discovered_at": "2026-11-04T12:50:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aeb264c52c09500099e09aa",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/804e8086-3ad6-455b-b455-68c9bd99ea93.jpg",
+   "key": "guid:6aeb264c52c09500099e09aa",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-04T12:42:00+00:00",
+   "status": "pending",
+   "title": "Omar escolhe Alessandra Campelo, Thomaz Nogueira e Lucas Brandão para equipe de transição",
+   "updated_at": "2026-11-04T12:50:16+00:00",
+   "url": "https://marioadolfo.com/omar-escolhe-alessandra-campelo-thomaz-nogueira-e-lucas-brandao-para-equipe-de-transicao/",
+   "url_hash": "a3357680f46cdb9c491b61ed"
+  },
+  "guid:6aeb284b52c09500099e09cb": {
+   "attempts": [],
+   "category": "Dito & Feito",
+   "description": "Texto enviado ao Congresso pelo governo Lula (PT) prevê um salário mínimo de 1.741 reais para o próximo ano",
+   "discovered_at": "2026-11-04T12:50:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aeb284b52c09500099e09cb",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/bb4259e9-9363-4ac1-a2be-244f534cc080.jpeg",
+   "key": "guid:6aeb284b52c09500099e09cb",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-04T12:50:00+00:00",
+   "status": "pending",
+   "title": "Dito & Feito: Eduardo Braga é o relator do Orçamento 2027",
+   "updated_at": "2026-11-04T12:50:16+00:00",
+   "url": "https://marioadolfo.com/dito-feito-eduardo-braga-e-o-relator-do-orcamento-2027/",
+   "url_hash": "d96fa5a78f8f2287f5d912ee"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-04T12:40:15+00:00",
-  "saved_at": "2026-11-04T12:40:16+00:00"
+  "last_run_at": "2026-11-04T12:50:15+00:00",
+  "saved_at": "2026-11-04T12:50:16+00:00"
  },
  "schema": 1
 }
