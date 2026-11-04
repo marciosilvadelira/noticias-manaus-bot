@@ -18193,13 +18193,34 @@
    "updated_at": "2026-11-04T16:50:16+00:00",
    "url": "https://marioadolfo.com/eduardo-braga-defende-fim-das-bets-e-alerta-para-risco-de-mp-caducar/",
    "url_hash": "bbcb56ea243d003d20bbe104"
+  },
+  "guid:6aeb61df52c09500099e0b63": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "O objetivo é reforçar a segurança territorial, prevenindo a entrada de bebidas alcoólicas, drogas e outras situações que possam colocar em risco a integridade das comunidades",
+   "discovered_at": "2026-11-04T17:00:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aeb61df52c09500099e0b63",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e7b482d7-efe3-4271-ac40-eaa4fcf7a014.jpeg",
+   "key": "guid:6aeb61df52c09500099e0b63",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-04T16:54:25+00:00",
+   "status": "pending",
+   "title": "Indígenas pedem criação de nova barreira de fiscalização em Barreirinha",
+   "updated_at": "2026-11-04T17:00:19+00:00",
+   "url": "https://marioadolfo.com/indigenas-pedem-criacao-de-nova-barreira-de-fiscalizacao-em-barreirinha/",
+   "url_hash": "cab1c41119046b3b24d91e36"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-04T16:50:15+00:00",
-  "saved_at": "2026-11-04T16:50:16+00:00"
+  "last_run_at": "2026-11-04T17:00:19+00:00",
+  "saved_at": "2026-11-04T17:00:20+00:00"
  },
  "schema": 1
 }
