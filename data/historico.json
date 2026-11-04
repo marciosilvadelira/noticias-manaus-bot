@@ -17599,11 +17599,19 @@
    "url_hash": "6b8584fb664090c3e9deafa7"
   },
   "guid:6aea376852c09500099e082b": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-04T04:30:24+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1528358775981680",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Operação contará com 23 policiais militares, atendimento humanizado e acolhimento de mulheres vítimas de violência doméstica",
    "discovered_at": "2026-11-03T19:40:26+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1528358775981680",
    "formats": [
     "link"
    ],
@@ -17611,20 +17619,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/729cd27c-8a31-4555-8498-756ee4d8dff4.jpeg",
    "key": "guid:6aea376852c09500099e082b",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1528358775981680"
+   },
    "source_published_at": "2026-11-03T19:36:07+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "SSP-AM lança segunda edição da Operação Mulher Segura em Manacapuru",
-   "updated_at": "2026-11-03T19:40:26+00:00",
+   "updated_at": "2026-11-04T04:30:24+00:00",
    "url": "https://marioadolfo.com/ssp-am-lanca-segunda-edicao-da-operacao-mulher-segura-em-manacapuru/",
    "url_hash": "030b6a4b130478e16204f8e0"
   },
   "guid:6aea392b52c09500099e0851": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-04T04:30:50+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1528359005981657",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "A ampliação do prazo dá à população mais tempo para colocar em dia as obrigações com o fisco municipal",
    "discovered_at": "2026-11-03T19:50:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1528359005981657",
    "formats": [
     "link"
    ],
@@ -17632,20 +17650,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/3e58ad5b-20de-4610-8f30-a4ee47e874bd.jpeg",
    "key": "guid:6aea392b52c09500099e0851",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1528359005981657"
+   },
    "source_published_at": "2026-11-03T19:44:38+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Programa Dívida Zero tem prazo ampliado para adesão de contribuintes até 30 de novembro",
-   "updated_at": "2026-11-03T19:50:15+00:00",
+   "updated_at": "2026-11-04T04:30:50+00:00",
    "url": "https://marioadolfo.com/programa-divida-zero-tem-prazo-ampliado-para-adesao-de-contribuintes-ate-30-de-novembro/",
    "url_hash": "54024ea22ed98ed73e438014"
   },
   "guid:6aea3fed52c09500099e087a": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-04T04:31:15+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1528359315981626",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Proposta do governo fixa salário mínimo em R$ 1.741 e superávit de R$ 18,6 bilhões; Congresso quer votar até 17 de dezembro",
    "discovered_at": "2026-11-03T20:20:26+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1528359315981626",
    "formats": [
     "link"
    ],
@@ -17653,20 +17681,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/fad38cee-e9e7-4a81-a9fc-54ce22ab0eb4.jpeg",
    "key": "guid:6aea3fed52c09500099e087a",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1528359315981626"
+   },
    "source_published_at": "2026-11-03T20:13:47+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Eduardo Braga será relator do Orçamento da União de 2027, estimado em R$ 7,4 trilhões",
-   "updated_at": "2026-11-03T20:20:26+00:00",
+   "updated_at": "2026-11-04T04:31:15+00:00",
    "url": "https://marioadolfo.com/eduardo-braga-sera-relator-do-orcamento-da-uniao-de-2027-estimado-em-r-7-4-trilhoes/",
    "url_hash": "60eaca9ff04c95aa0da7a7f8"
   },
   "guid:6aea4eea52c09500099e08a6": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-04T04:32:06+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1528360165981541",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Segundo a Amazonastur, é previsto um aumento em 83% na arrecadação em comparação à temporada anterior",
    "discovered_at": "2026-11-03T21:30:19+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1528360165981541",
    "formats": [
     "link"
    ],
@@ -17674,20 +17712,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0006792a-aa5d-461b-a0a3-4e4470ef10ec.jpeg",
    "key": "guid:6aea4eea52c09500099e08a6",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1528360165981541"
+   },
    "source_published_at": "2026-11-03T21:21:47+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Amazonas vai receber 17 mil turistas e movimentar R$ 16,2 milhões na temporada de cruzeiros",
-   "updated_at": "2026-11-03T21:30:19+00:00",
+   "updated_at": "2026-11-04T04:32:06+00:00",
    "url": "https://marioadolfo.com/amazonas-vai-receber-17-mil-turistas-e-movimentar-r-16-2-milhoes-na-temporada-de-cruzeiros/",
    "url_hash": "33d99aa2d5af3eb0c2670b98"
   },
   "guid:6aea4f1d52c09500099e08ac": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-04T04:31:40+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1528359569314934",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Irregularidades foram registradas na capital e no interior durante as Eleições 2026",
    "discovered_at": "2026-11-03T21:20:22+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1528359569314934",
    "formats": [
     "link"
    ],
@@ -17695,11 +17743,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/edc03c82-577c-4816-ac06-870c9a441f72.jpg",
    "key": "guid:6aea4f1d52c09500099e08ac",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1528359569314934"
+   },
    "source_published_at": "2026-11-03T21:19:27+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "MP Eleitoral move 22 ações por derramamento de santinhos no 2º turno no AM",
-   "updated_at": "2026-11-03T21:20:22+00:00",
+   "updated_at": "2026-11-04T04:31:40+00:00",
    "url": "https://marioadolfo.com/mp-eleitoral-move-22-acoes-por-derramamento-de-santinhos-no-segundo-turno-no-amazonas-derramamento-de-santinhos-no-segundo-turno-no-amazonasderramamento-de-santinhos-no-segundo-turno-am/",
    "url_hash": "d9175dc4d5ffa2e57bbd834b"
   },
@@ -17749,8 +17799,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-04T04:20:13+00:00",
-  "saved_at": "2026-11-04T04:22:01+00:00"
+  "last_run_at": "2026-11-04T04:30:17+00:00",
+  "saved_at": "2026-11-04T04:32:06+00:00"
  },
  "schema": 1
 }
