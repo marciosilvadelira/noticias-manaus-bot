@@ -17765,12 +17765,12 @@
    "guid": "6aea50a252c09500099e08e1",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/10639002-d323-4ace-9730-479c96c976aa.jpeg",
    "key": "guid:6aea50a252c09500099e08e1",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-03T21:24:31+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Diretor é condenado a 14 anos de prisão por assédio contra três estudantes em Manicoré",
-   "updated_at": "2026-11-03T21:30:19+00:00",
+   "updated_at": "2026-11-04T21:30:16+00:00",
    "url": "https://marioadolfo.com/diretor-e-condenado-a-14-anos-de-prisao-por-assedio-contra-tres-estudantes-em-manicore/",
    "url_hash": "590c442af9018cd340f76c72"
   },
@@ -17786,12 +17786,12 @@
    "guid": "6aea512452c09500099e08fb",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e75b2a32-98be-467a-ab03-324e252c0ea4.jpeg",
    "key": "guid:6aea512452c09500099e08fb",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-03T21:26:01+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Governo assina concessão para exploração de petróleo e gás natural em Tefé",
-   "updated_at": "2026-11-03T21:30:19+00:00",
+   "updated_at": "2026-11-04T21:30:16+00:00",
    "url": "https://marioadolfo.com/governo-assina-concessao-para-exploracao-de-petroleo-e-gas-natural-em-tefe/",
    "url_hash": "40face4641c4fdde74823fac"
   },
@@ -18429,8 +18429,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-04T21:20:15+00:00",
-  "saved_at": "2026-11-04T21:20:17+00:00"
+  "last_run_at": "2026-11-04T21:30:15+00:00",
+  "saved_at": "2026-11-04T21:30:17+00:00"
  },
  "schema": 1
 }
