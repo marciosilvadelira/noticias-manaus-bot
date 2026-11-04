@@ -17941,13 +17941,34 @@
    "updated_at": "2026-11-04T14:50:15+00:00",
    "url": "https://marioadolfo.com/ingressos-para-o-festival-de-parintins-custam-ate-r-4-8-mil-em-2027/",
    "url_hash": "934182b01b238afcd76c2a78"
+  },
+  "guid:6aeb4a0952c09500099e0a2d": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Regiões com menor participação ampliaram presença no programa",
+   "discovered_at": "2026-11-04T15:10:39+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aeb4a0952c09500099e0a2d",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ecc0ce8e-161f-4598-b567-bd8ab01fb916.jpg",
+   "key": "guid:6aeb4a0952c09500099e0a2d",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-04T15:09:57+00:00",
+   "status": "pending",
+   "title": "Lei Rouanet tem recorde de 25,6 mil projetos e de R$ 1,67 bi captados",
+   "updated_at": "2026-11-04T15:10:39+00:00",
+   "url": "https://marioadolfo.com/lei-rouanet-tem-recorde-de-25-6-mil-projetos-e-de-r-1-67-bi-captados/",
+   "url_hash": "b79b68d27a004a50387bdb0e"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-04T15:00:27+00:00",
-  "saved_at": "2026-11-04T15:00:29+00:00"
+  "last_run_at": "2026-11-04T15:10:38+00:00",
+  "saved_at": "2026-11-04T15:10:39+00:00"
  },
  "schema": 1
 }
