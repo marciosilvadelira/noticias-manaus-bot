@@ -18361,13 +18361,76 @@
    "updated_at": "2026-11-04T20:10:16+00:00",
    "url": "https://marioadolfo.com/justica-determina-restabelecimento-do-passe-livre-estudantil-em-manaus/",
    "url_hash": "036961e076e974d4011e9640"
+  },
+  "guid:6aeb906652c09500099e0c2d": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Condenado por assalto a comércio em Tefé, homem levou celulares e R$ 1,4 mil do estabelecimento em 2022",
+   "discovered_at": "2026-11-04T20:20:13+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aeb906652c09500099e0c2d",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4008c4ff-9baa-4fbe-aa84-266e1fb1196e.png",
+   "key": "guid:6aeb906652c09500099e0c2d",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-04T20:11:45+00:00",
+   "status": "pending",
+   "title": "Homem condenado por roubo praticado em Tefé é preso em Manaus",
+   "updated_at": "2026-11-04T20:20:13+00:00",
+   "url": "https://marioadolfo.com/homem-condenado-por-roubo-praticado-em-tefe-e-preso-em-manaus/",
+   "url_hash": "9ab3f0160bd16aa172a4576c"
+  },
+  "guid:6aeb91c252c09500099e0c44": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Abertura de vagas caiu 43,5% na comparação com mesmo mês de 2025",
+   "discovered_at": "2026-11-04T20:20:13+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aeb91c252c09500099e0c44",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/abd3d834-3946-4272-96a9-a68813496db1.webp",
+   "key": "guid:6aeb91c252c09500099e0c44",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-04T20:14:11+00:00",
+   "status": "pending",
+   "title": "Brasil cria 121,3 mil postos de trabalho em setembro, aponta Caged",
+   "updated_at": "2026-11-04T20:20:13+00:00",
+   "url": "https://marioadolfo.com/brasil-cria-121-3-mil-postos-de-trabalho-em-setembro-aponta-caged/",
+   "url_hash": "b7d62d4537ca4e3419eb4c06"
+  },
+  "guid:6aeb928152c09500099e0c5a": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Os resíduos recolhidos foram encaminhados ao aterro sanitário municipal, enquanto materiais que exigem tratamento específico receberam destinação adequada",
+   "discovered_at": "2026-11-04T20:20:13+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aeb928152c09500099e0c5a",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0418b76a-f5d7-4a6b-8142-7202cc19340b.png",
+   "key": "guid:6aeb928152c09500099e0c5a",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-04T20:17:47+00:00",
+   "status": "pending",
+   "title": "Semulsp retira mais de 5 mil toneladas de lixo descartado irregularmente em outubro",
+   "updated_at": "2026-11-04T20:20:13+00:00",
+   "url": "https://marioadolfo.com/semulsp-prefe-retira-mais-de-5-mil-toneladas-de-lixo-descartado-irregularmente-em-outubro/",
+   "url_hash": "c273eeaf26414f0e75b906b9"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-04T20:10:15+00:00",
-  "saved_at": "2026-11-04T20:10:17+00:00"
+  "last_run_at": "2026-11-04T20:20:13+00:00",
+  "saved_at": "2026-11-04T20:20:14+00:00"
  },
  "schema": 1
 }
