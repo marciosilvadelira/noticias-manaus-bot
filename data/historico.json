@@ -17794,13 +17794,34 @@
    "updated_at": "2026-11-03T21:30:19+00:00",
    "url": "https://marioadolfo.com/governo-assina-concessao-para-exploracao-de-petroleo-e-gas-natural-em-tefe/",
    "url_hash": "40face4641c4fdde74823fac"
+  },
+  "guid:6aea7fdb52c09500099e097a": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "O texto teve apoio unânime dos senadores votantes, com 73 votos favoráveis e nenhum contrário, em primeiro turno. No segundo turno, o placar foi de 75 votos favoráveis e nenhum contrário",
+   "discovered_at": "2026-11-04T11:10:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aea7fdb52c09500099e097a",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c98a2b17-4a8d-4c51-a953-9b1bb7962779.jpg",
+   "key": "guid:6aea7fdb52c09500099e097a",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-04T11:00:39+00:00",
+   "status": "pending",
+   "title": "Senado aprova PEC da Segurança Pública sem redução da maioridade penal",
+   "updated_at": "2026-11-04T11:10:16+00:00",
+   "url": "https://marioadolfo.com/senado-aprova-pec-da-seguranca-publica-sem-reducao-da-maioridade-penal/",
+   "url_hash": "b9a4a37d78ab317ff80754ee"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-04T11:00:23+00:00",
-  "saved_at": "2026-11-04T11:00:26+00:00"
+  "last_run_at": "2026-11-04T11:10:16+00:00",
+  "saved_at": "2026-11-04T11:10:17+00:00"
  },
  "schema": 1
 }
