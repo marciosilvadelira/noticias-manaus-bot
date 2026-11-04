@@ -17134,11 +17134,19 @@
    "url_hash": "45789cc0ef5b7993e86c5b8f"
   },
   "guid:6aea0dd152c09500099e06ca": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-04T04:00:27+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1528335755983982",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Cartórios atenderão das 8h às 14h, sem agendamento prévio; serviços de biometria terão limite de dez eleitores por dia em cada unidade",
    "discovered_at": "2026-11-03T16:40:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1528335755983982",
    "formats": [
     "link"
    ],
@@ -17146,20 +17154,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f099f125-b682-4ffd-8efb-607003ce2a22.jpg",
    "key": "guid:6aea0dd152c09500099e06ca",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1528335755983982"
+   },
    "source_published_at": "2026-11-03T16:40:10+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Cadastro eleitoral reabre com atendimento direto no Fórum Eleitoral de Manaus",
-   "updated_at": "2026-11-03T16:40:15+00:00",
+   "updated_at": "2026-11-04T04:00:27+00:00",
    "url": "https://marioadolfo.com/cadastro-eleitoral-reabre-com-atendimento-direto-no-forum-eleitoral-de-manaus/",
    "url_hash": "4a6f0ef1ca6026f286615c01"
   },
   "guid:6aea110e52c09500099e06ea": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-04T04:00:52+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1528336005983957",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Mutirão reúne recorde de instituições participantes com ofertas que podem chegar a descontos de até 99%",
    "discovered_at": "2026-11-03T17:00:21+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1528336005983957",
    "formats": [
     "link"
    ],
@@ -17167,20 +17185,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/701f5660-a00b-4dc3-82e4-787894bfad5b.jpeg",
    "key": "guid:6aea110e52c09500099e06ea",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1528336005983957"
+   },
    "source_published_at": "2026-11-03T16:53:42+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Com mais de 1,8 milhão inadimplentes no AM, Feirão Limpa Nome reúne mais de 3 mil empresas",
-   "updated_at": "2026-11-03T17:00:21+00:00",
+   "updated_at": "2026-11-04T04:00:52+00:00",
    "url": "https://marioadolfo.com/com-mais-de-1-8-milhao-inadimplentes-no-am-feirao-limpa-nome-reune-mais-de-3-mil-empresas/",
    "url_hash": "a3c90ba12595b4a3330c8cb3"
   },
   "guid:6aea11e952c09500099e0700": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-04T04:01:15+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1528336259317265",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Alíquota incidirá em produtos prejudiciais à saúde e ao meio ambiente",
    "discovered_at": "2026-11-03T17:00:21+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1528336259317265",
    "formats": [
     "link"
    ],
@@ -17188,20 +17216,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c6aa5c01-df25-48fa-a585-731a2ad26956.webp",
    "key": "guid:6aea11e952c09500099e0700",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1528336259317265"
+   },
    "source_published_at": "2026-11-03T16:56:04+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Governo envia ao Congresso MP que regulamenta o \"imposto do pecado\"",
-   "updated_at": "2026-11-03T17:00:21+00:00",
+   "updated_at": "2026-11-04T04:01:15+00:00",
    "url": "https://marioadolfo.com/governo-envia-ao-congresso-mp-que-regulamenta-o-imposto-do-pecado/",
    "url_hash": "b014e2ad837f2d0ec1a219ad"
   },
   "guid:6aea129f52c09500099e0715": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-04T04:01:44+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1528336565983901",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Pesquisa identifica oportunidades para ampliar demanda, diversificar experiências e atrair investimentos",
    "discovered_at": "2026-11-03T17:00:21+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1528336565983901",
    "formats": [
     "link"
    ],
@@ -17209,20 +17247,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/9ea758f0-47c9-4d42-93ab-24149a73808f.jpeg",
    "key": "guid:6aea129f52c09500099e0715",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1528336565983901"
+   },
    "source_published_at": "2026-11-03T16:59:25+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Fórum de Turismo Responsável, em Manaus, apresenta estudo inédito do BID sobre a Amazônia",
-   "updated_at": "2026-11-03T17:00:21+00:00",
+   "updated_at": "2026-11-04T04:01:44+00:00",
    "url": "https://marioadolfo.com/forum-de-turismo-responsavel-em-manaus-apresenta-estudo-inedito-do-bid-sobre-a-amazonia/",
    "url_hash": "3ca8278a9d9173cc7f011993"
   },
   "guid:6aea134452c09500099e072d": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-04T04:02:07+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1528336785983879",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Do total de oportunidades, 93 são destinadas ao programa de estágio em áreas como Administração, Direito, Contabilidade, Marketing e Construção Civil",
    "discovered_at": "2026-11-03T17:10:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1528336785983879",
    "formats": [
     "link"
    ],
@@ -17230,11 +17278,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/3c5b34e6-000c-40a8-9a05-df493295b75a.jpeg",
    "key": "guid:6aea134452c09500099e072d",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1528336785983879"
+   },
    "source_published_at": "2026-11-03T17:02:04+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "​CIEE oferece 128 oportunidades de estágio e aprendizagem para jovens no Amazonas",
-   "updated_at": "2026-11-03T17:10:18+00:00",
+   "updated_at": "2026-11-04T04:02:07+00:00",
    "url": "https://marioadolfo.com/ciee-oferece-128-oportunidades-de-estagio-e-aprendizagem-para-jovens-no-amazonas/",
    "url_hash": "ee8ec285cb9a56492cabb0ca"
   },
@@ -17599,8 +17649,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-04T03:50:15+00:00",
-  "saved_at": "2026-11-04T03:50:18+00:00"
+  "last_run_at": "2026-11-04T04:00:19+00:00",
+  "saved_at": "2026-11-04T04:02:07+00:00"
  },
  "schema": 1
 }
