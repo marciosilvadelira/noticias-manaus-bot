@@ -17837,6 +17837,27 @@
    "url": "https://marioadolfo.com/boi-garantido-lanca-edital-de-toadas-para-a-disputa-do-festival-de-parintins-2027/",
    "url_hash": "ca3c52eefd2f39ab94d3ca2a"
   },
+  "guid:6aea77f552c09500099e0953": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Produtores de Apuí também conquistam oito classificações em outros dois concursos nacionais, reforçando a qualidade do café produzido em sistemas agroflorestais no sul do Amazonas",
+   "discovered_at": "2026-11-04T12:10:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aea77f552c09500099e0953",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/1adea755-dd65-4fba-85f6-3fd15b6c73ae.jpeg",
+   "key": "guid:6aea77f552c09500099e0953",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-04T12:00:37+00:00",
+   "status": "pending",
+   "title": "Café Apuí Agroflorestal amplia número de finalistas do Coffee of the Year",
+   "updated_at": "2026-11-04T12:10:16+00:00",
+   "url": "https://marioadolfo.com/cafe-apui-agroflorestal-amplia-numero-de-finalistas-do-coffee-of-the-year/",
+   "url_hash": "abfb97a8ba6d8c274f1fa399"
+  },
   "guid:6aea7fdb52c09500099e097a": {
    "attempts": [],
    "category": "Brasil",
@@ -17862,8 +17883,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-04T12:00:19+00:00",
-  "saved_at": "2026-11-04T12:00:20+00:00"
+  "last_run_at": "2026-11-04T12:10:15+00:00",
+  "saved_at": "2026-11-04T12:10:16+00:00"
  },
  "schema": 1
 }
