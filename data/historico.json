@@ -18088,13 +18088,34 @@
    "updated_at": "2026-11-04T15:40:15+00:00",
    "url": "https://marioadolfo.com/prosai-parintins-governo-do-am-garante-renovacao-de-licenca-ambiental-de-instalacao/",
    "url_hash": "b699cb901307927a1ebda3ce"
+  },
+  "guid:6aeb511152c09500099e0ad9": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Ação com órgãos ambientais e de segurança pública já resultou em uma prisão em flagrante",
+   "discovered_at": "2026-11-04T15:47:41+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aeb511152c09500099e0ad9",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/8f1638cd-2ebf-44a3-b22a-9767379a0052.jpeg",
+   "key": "guid:6aeb511152c09500099e0ad9",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-04T15:40:36+00:00",
+   "status": "pending",
+   "title": "Operação Boitatá: MP investiga incêndios ambientais em São Sebastião do Uatumã",
+   "updated_at": "2026-11-04T15:47:41+00:00",
+   "url": "https://marioadolfo.com/operacao-boitata-mp-investiga-crimes-de-incendios-ambientais-em-sao-sebastiao-do-uatuma/",
+   "url_hash": "0033223428c1ca7c62f89188"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-04T15:40:14+00:00",
-  "saved_at": "2026-11-04T15:40:15+00:00"
+  "last_run_at": "2026-11-04T15:47:41+00:00",
+  "saved_at": "2026-11-04T15:47:42+00:00"
  },
  "schema": 1
 }
