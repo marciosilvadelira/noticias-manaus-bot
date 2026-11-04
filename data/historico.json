@@ -17289,11 +17289,19 @@
    "url_hash": "ee8ec285cb9a56492cabb0ca"
   },
   "guid:6aea17c152c09500099e0742": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-04T04:10:22+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1528342685983289",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Apresentação acontece, às 20h, no Teatro Amazonas e reúne a Amazonas Filarmônica e o Coral do Amazonas em um programa dedicado a duas importantes composições do repertório clássico",
    "discovered_at": "2026-11-03T17:30:25+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1528342685983289",
    "formats": [
     "link"
    ],
@@ -17301,20 +17309,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/40e3f07b-73ed-49cd-8d63-27363fdf0a95.jpeg",
    "key": "guid:6aea17c152c09500099e0742",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1528342685983289"
+   },
    "source_published_at": "2026-11-03T17:21:19+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Amazonas Filarmônica recebe maestro libanês Toufic Maatouk para concerto internacional nesta quinta (5)",
-   "updated_at": "2026-11-03T17:30:25+00:00",
+   "updated_at": "2026-11-04T04:10:22+00:00",
    "url": "https://marioadolfo.com/amazonas-filarmonica-recebe-maestro-libanes-toufic-maatouk-para-concerto-internacional-nesta-quinta-5/",
    "url_hash": "db601341dac2a6b2a7ac688e"
   },
   "guid:6aea194852c09500099e0757": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-04T04:10:45+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1528343009316590",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Com investimentos de R$ 5,5 bilhões até 2031, a distribuidora prevê a renovação da rede em todo o estado",
    "discovered_at": "2026-11-03T17:30:25+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1528343009316590",
    "formats": [
     "link"
    ],
@@ -17322,20 +17340,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/11ac3123-d420-4164-a769-1e6e831acc09.jpeg",
    "key": "guid:6aea194852c09500099e0757",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1528343009316590"
+   },
    "source_published_at": "2026-11-03T17:28:58+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Âmbar reforça segurança e qualidade do fornecimento de energia com modernização da rede elétrica",
-   "updated_at": "2026-11-03T17:30:25+00:00",
+   "updated_at": "2026-11-04T04:10:45+00:00",
    "url": "https://marioadolfo.com/ambar-reforca-seguranca-e-qualidade-do-fornecimento-de-energia-com-modernizacao-da-rede-eletrica/",
    "url_hash": "53c23959d2dbaa62c4929673"
   },
   "guid:6aea1c1452c09500099e0774": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-04T04:11:08+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1528343215983236",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Segundo a Polícia Civil, as práticas ocorriam desde que a vítima tinha oito anos",
    "discovered_at": "2026-11-03T17:50:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1528343215983236",
    "formats": [
     "link"
    ],
@@ -17343,20 +17371,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/01a21016-bceb-4b9e-8dea-a15a21c89056.png",
    "key": "guid:6aea1c1452c09500099e0774",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1528343215983236"
+   },
    "source_published_at": "2026-11-03T17:42:39+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Professor é preso por estupro da enteada de 15 anos em Parintins",
-   "updated_at": "2026-11-03T17:50:17+00:00",
+   "updated_at": "2026-11-04T04:11:08+00:00",
    "url": "https://marioadolfo.com/professor-e-preso-por-estupro-da-enteada-de-15-anos-em-parintins/",
    "url_hash": "5a854dab3c9d372ede878405"
   },
   "guid:6aea1d4a52c09500099e078f": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-04T04:11:33+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1528343559316535",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "A avaliação contempla alunos do 2º, 5º e 8º anos do ensino fundamental e tem como objetivo identificar os níveis de aprendizagem",
    "discovered_at": "2026-11-03T17:50:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1528343559316535",
    "formats": [
     "link"
    ],
@@ -17364,20 +17402,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5525a0af-4e96-45fb-89de-0004806fb097.jpeg",
    "key": "guid:6aea1d4a52c09500099e078f",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1528343559316535"
+   },
    "source_published_at": "2026-11-03T17:45:31+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Estudantes da rede municipal de Manaus participam das provas do Sadeam",
-   "updated_at": "2026-11-03T17:50:17+00:00",
+   "updated_at": "2026-11-04T04:11:33+00:00",
    "url": "https://marioadolfo.com/estudantes-da-rede-municipal-de-manaus-participam-das-provas-do-sadeam/",
    "url_hash": "281657ff32cfd2982a2f5997"
   },
   "guid:6aea1e2a52c09500099e07a7": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-04T04:11:57+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1528343915983166",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Segundo ele, essa alíquota não foi prevista pelos estudos da Receita Federal e do Tribunal de Contas da União",
    "discovered_at": "2026-11-03T17:50:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1528343915983166",
    "formats": [
     "link"
    ],
@@ -17385,11 +17433,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/604ff9db-33a0-4e1f-ad3a-3f0261b1e173.jpeg",
    "key": "guid:6aea1e2a52c09500099e07a7",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1528343915983166"
+   },
    "source_published_at": "2026-11-03T17:48:41+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Relator do projeto da CBS, Braga diz não concordar com alíquota de 11,3%",
-   "updated_at": "2026-11-03T17:50:17+00:00",
+   "updated_at": "2026-11-04T04:11:57+00:00",
    "url": "https://marioadolfo.com/relator-do-projeto-da-cbs-braga-diz-nao-concordar-com-aliquota-de-11-3/",
    "url_hash": "c1f3595b921a22ca5b0db95e"
   },
@@ -17649,8 +17699,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-04T04:00:19+00:00",
-  "saved_at": "2026-11-04T04:02:07+00:00"
+  "last_run_at": "2026-11-04T04:10:15+00:00",
+  "saved_at": "2026-11-04T04:11:57+00:00"
  },
  "schema": 1
 }
