@@ -17920,13 +17920,34 @@
    "updated_at": "2026-11-04T12:50:16+00:00",
    "url": "https://marioadolfo.com/dito-feito-eduardo-braga-e-o-relator-do-orcamento-2027/",
    "url_hash": "d96fa5a78f8f2287f5d912ee"
+  },
+  "guid:6aeb37ae52c09500099e09f7": {
+   "attempts": [],
+   "category": "Parintins",
+   "description": "Valores variam conforme o setor e a modalidade; entrada avulsa mais barata custa R$ 500, na meia-entrada.",
+   "discovered_at": "2026-11-04T14:50:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aeb37ae52c09500099e09f7",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b126cc8f-7b8d-4521-8c57-29d14c07ef6d.jpeg",
+   "key": "guid:6aeb37ae52c09500099e09f7",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-04T14:47:21+00:00",
+   "status": "pending",
+   "title": "Ingressos para o Festival de Parintins custam até R$ 4,8 mil em 2027",
+   "updated_at": "2026-11-04T14:50:15+00:00",
+   "url": "https://marioadolfo.com/ingressos-para-o-festival-de-parintins-custam-ate-r-4-8-mil-em-2027/",
+   "url_hash": "934182b01b238afcd76c2a78"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-04T14:40:14+00:00",
-  "saved_at": "2026-11-04T14:40:16+00:00"
+  "last_run_at": "2026-11-04T14:50:15+00:00",
+  "saved_at": "2026-11-04T14:50:16+00:00"
  },
  "schema": 1
 }
