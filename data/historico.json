@@ -19044,13 +19044,34 @@
    "updated_at": "2026-11-05T16:00:24+00:00",
    "url": "https://marioadolfo.com/perfurar-poco-sem-autorizacao-pode-gerar-multas-de-ate-r-100-mil/",
    "url_hash": "e5a258d5c332411a25df7003"
+  },
+  "guid:6aecb26152c09500099e0e9d": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A campanha tem como objetivo evitar que a doença volte a circular na capital amazonense, que não registra casos da doença",
+   "discovered_at": "2026-11-05T16:50:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aecb26152c09500099e0e9d",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b0b0a79e-3834-4e01-9687-f30f4334c844.jpeg",
+   "key": "guid:6aecb26152c09500099e0e9d",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-05T16:48:46+00:00",
+   "status": "pending",
+   "title": "Manaus terá ‘Dia D’ de vacinação contra o sarampo neste sábado (7)",
+   "updated_at": "2026-11-05T16:50:15+00:00",
+   "url": "https://marioadolfo.com/manaus-tera-dia-d-de-vacinacao-contra-o-sarampo-neste-sabado-7/",
+   "url_hash": "24c3786d9276a9b753e051db"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-05T16:47:31+00:00",
-  "saved_at": "2026-11-05T16:47:33+00:00"
+  "last_run_at": "2026-11-05T16:50:15+00:00",
+  "saved_at": "2026-11-05T16:50:16+00:00"
  },
  "schema": 1
 }
