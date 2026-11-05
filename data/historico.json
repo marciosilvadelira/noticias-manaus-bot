@@ -18427,12 +18427,12 @@
    "guid": "6aeb650652c09500099e0b7d",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f6f4d3b1-b4b1-4f1e-9a98-dceb46b8a9dd.jpg",
    "key": "guid:6aeb650652c09500099e0b7d",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-04T17:05:31+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "TCE-AM amplia atuação de comitê para fiscalização de políticas climáticas",
-   "updated_at": "2026-11-04T17:10:16+00:00",
+   "updated_at": "2026-11-05T17:10:18+00:00",
    "url": "https://marioadolfo.com/tce-am-amplia-atuacao-de-comite-para-fiscalizacao-de-politicas-climaticas/",
    "url_hash": "a0a35413c47cbcbaaf72f673"
   },
@@ -19091,8 +19091,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-05T17:00:19+00:00",
-  "saved_at": "2026-11-05T17:00:20+00:00"
+  "last_run_at": "2026-11-05T17:10:15+00:00",
+  "saved_at": "2026-11-05T17:10:19+00:00"
  },
  "schema": 1
 }
