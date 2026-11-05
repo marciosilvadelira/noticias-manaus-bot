@@ -18981,13 +18981,55 @@
    "updated_at": "2026-11-05T15:40:17+00:00",
    "url": "https://marioadolfo.com/acordo-inclui-familias-do-bairro-santa-etelvina-em-programa-habitacional/",
    "url_hash": "22555480409e1b94d71c0c08"
+  },
+  "guid:6aeca3a352c09500099e0e47": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Nas ações também foram destruíram seis aeronaves e apreenderam outras quatro",
+   "discovered_at": "2026-11-05T15:50:20+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aeca3a352c09500099e0e47",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a5040133-6d99-41c2-a6f5-ddfc3120328c.jpeg",
+   "key": "guid:6aeca3a352c09500099e0e47",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-05T15:43:58+00:00",
+   "status": "pending",
+   "title": "PF destrói 15 pistas de pouso clandestinas de garimpo em terra indígena",
+   "updated_at": "2026-11-05T15:50:20+00:00",
+   "url": "https://marioadolfo.com/pf-destroi-15-pistas-de-pouso-clandestinas-de-garimpo-em-terra-indigena/",
+   "url_hash": "3ecea8c2dcef65c552083918"
+  },
+  "guid:6aeca4c252c09500099e0e5d": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A entrega do kit acontece na loja Shop do Pé Sports, no segundo piso do shopping",
+   "discovered_at": "2026-11-05T15:50:20+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aeca4c252c09500099e0e5d",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/af2d5ff3-5ab6-46a4-8fc4-6e6e916e04cc.jpeg",
+   "key": "guid:6aeca4c252c09500099e0e5d",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-05T15:47:52+00:00",
+   "status": "pending",
+   "title": "Amazonas Shopping realiza entrega de kits para corrida nesta sexta-feira e sábado",
+   "updated_at": "2026-11-05T15:50:20+00:00",
+   "url": "https://marioadolfo.com/amazonas-shopping-realiza-entrega-de-kits-para-corrida-nesta-sexta-feira-e-sabado/",
+   "url_hash": "a601ef6106f5ca501ba58d33"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-05T15:40:15+00:00",
-  "saved_at": "2026-11-05T15:40:18+00:00"
+  "last_run_at": "2026-11-05T15:50:17+00:00",
+  "saved_at": "2026-11-05T15:50:20+00:00"
  },
  "schema": 1
 }
