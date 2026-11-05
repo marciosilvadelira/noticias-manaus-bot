@@ -18897,13 +18897,34 @@
    "updated_at": "2026-11-05T15:10:23+00:00",
    "url": "https://marioadolfo.com/operacao-mira-rede-ilegal-de-bets-que-movimentou-r-734-milhoes/",
    "url_hash": "8ae55c484599f5c03204418e"
+  },
+  "guid:6aec9e8852c09500099e0dea": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Inscrições começam nesta sexta-feira (6) no site da Cesgranrio",
+   "discovered_at": "2026-11-05T15:30:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aec9e8852c09500099e0dea",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/cf96fa6a-a642-4610-bca0-f61e23ad0470.jpg",
+   "key": "guid:6aec9e8852c09500099e0dea",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-05T15:28:18+00:00",
+   "status": "pending",
+   "title": "IBGE abre seleção para mais de 27 mil recenseadores temporários",
+   "updated_at": "2026-11-05T15:30:19+00:00",
+   "url": "https://marioadolfo.com/ibge-abre-selecao-para-mais-de-27-mil-recenseadores-temporarios/",
+   "url_hash": "f1fd33c7374adbc096f02b71"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-05T15:20:16+00:00",
-  "saved_at": "2026-11-05T15:20:17+00:00"
+  "last_run_at": "2026-11-05T15:30:18+00:00",
+  "saved_at": "2026-11-05T15:30:19+00:00"
  },
  "schema": 1
 }
