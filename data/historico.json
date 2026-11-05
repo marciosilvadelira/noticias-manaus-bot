@@ -19233,13 +19233,55 @@
    "updated_at": "2026-11-05T19:10:17+00:00",
    "url": "https://marioadolfo.com/bombeiros-enviam-16-militares-e-cinco-viaturas-para-reforcar-combate-a-incendios-em-parintins/",
    "url_hash": "cda091fea9165f79dfa06991"
+  },
+  "guid:6aecd4bc52c09500099e0f7f": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "As exibições ocorrem no Cineteatro Guarany, com sessões diárias às 18h30 e entrada gratuita",
+   "discovered_at": "2026-11-05T19:20:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aecd4bc52c09500099e0f7f",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c279b80b-28fe-4540-a6c5-fd5240c9b6d7.jpeg",
+   "key": "guid:6aecd4bc52c09500099e0f7f",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-05T19:12:07+00:00",
+   "status": "pending",
+   "title": "Mostra Internacional de Cinema Japonês segue com sessões gratuitas em Manaus até sábado",
+   "updated_at": "2026-11-05T19:20:15+00:00",
+   "url": "https://marioadolfo.com/mostra-internacional-de-cinema-japones-segue-com-sessoes-gratuitas-em-manaus-ate-sabado/",
+   "url_hash": "383fff9b79b2471f6480e34d"
+  },
+  "guid:6aecd61252c09500099e0f96": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Fraude sem envolvimento da candidata impugna apenas a chapa",
+   "discovered_at": "2026-11-05T19:20:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aecd61252c09500099e0f96",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/200e4409-bb61-42b8-b916-7ec0715fa051.jpg",
+   "key": "guid:6aecd61252c09500099e0f96",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-05T19:17:17+00:00",
+   "status": "pending",
+   "title": "TSE altera entendimento sobre cota de gênero e mantém mandato",
+   "updated_at": "2026-11-05T19:20:15+00:00",
+   "url": "https://marioadolfo.com/tse-altera-entendimento-sobre-cota-de-genero-e-mantem-mandato/",
+   "url_hash": "10e356ed5741117841ff082d"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-05T19:10:17+00:00",
-  "saved_at": "2026-11-05T19:10:18+00:00"
+  "last_run_at": "2026-11-05T19:20:14+00:00",
+  "saved_at": "2026-11-05T19:20:17+00:00"
  },
  "schema": 1
 }
