@@ -19317,13 +19317,34 @@
    "updated_at": "2026-11-05T19:40:16+00:00",
    "url": "https://marioadolfo.com/eduardo-braga-relaciona-novo-investimento-de-r-3-3-bilhoes-da-honda-a-seguranca-juridica-da-zona-franca/",
    "url_hash": "12eac0850e1d0285c0ad6a07"
+  },
+  "guid:6aecded052c09500099e0fd9": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Empreendimento em Silves abre 32 vagas e fortalece a formação e a contratação de profissionais amazonenses",
+   "discovered_at": "2026-11-05T20:00:20+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aecded052c09500099e0fd9",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e45a4180-777b-481f-a843-dd16e1067820.jpg",
+   "key": "guid:6aecded052c09500099e0fd9",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-05T19:55:14+00:00",
+   "status": "pending",
+   "title": "Ampliação do Complexo Azulão reforça geração de emprego qualificado no interior do AM",
+   "updated_at": "2026-11-05T20:00:20+00:00",
+   "url": "https://marioadolfo.com/ampliacao-do-complexo-azulao-reforca-geracao-de-emprego-qualificado-no-interior-do-am/",
+   "url_hash": "99d09baadd811466cd1963ab"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-05T19:50:13+00:00",
-  "saved_at": "2026-11-05T19:50:14+00:00"
+  "last_run_at": "2026-11-05T20:00:19+00:00",
+  "saved_at": "2026-11-05T20:00:20+00:00"
  },
  "schema": 1
 }
