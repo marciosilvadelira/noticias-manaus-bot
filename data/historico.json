@@ -18834,13 +18834,34 @@
    "updated_at": "2026-11-05T14:10:16+00:00",
    "url": "https://marioadolfo.com/nucleo-de-hemoterapia-pede-mobilizacao-de-doadores-em-parintins/",
    "url_hash": "ea2eac9bf0777b6a8b130b26"
+  },
+  "guid:6aec8d5e52c09500099e0d91": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Testemunhas relataram que os atiradores já aguardavam a chegada do homem.",
+   "discovered_at": "2026-11-05T14:20:14+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aec8d5e52c09500099e0d91",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/61c47000-dd56-4336-ba60-7af42aff9f52.jpg",
+   "key": "guid:6aec8d5e52c09500099e0d91",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-05T14:10:36+00:00",
+   "status": "pending",
+   "title": "Passageiro é morto a tiros ao chegar de lancha na Balsa Amarela",
+   "updated_at": "2026-11-05T14:20:14+00:00",
+   "url": "https://marioadolfo.com/passageiro-e-morto-a-tiros-ao-chegar-de-lancha-na-balsa-amarela/",
+   "url_hash": "29a8822dea024ce4f3227e48"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-05T14:10:15+00:00",
-  "saved_at": "2026-11-05T14:10:17+00:00"
+  "last_run_at": "2026-11-05T14:20:14+00:00",
+  "saved_at": "2026-11-05T14:20:15+00:00"
  },
  "schema": 1
 }
