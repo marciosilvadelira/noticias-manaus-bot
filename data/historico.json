@@ -19086,13 +19086,76 @@
    "updated_at": "2026-11-05T17:00:19+00:00",
    "url": "https://marioadolfo.com/eleitos-no-amazonas-serao-diplomados-no-dia-18-de-dezembro-no-tjam/",
    "url_hash": "d6523a32a15ff6fe714c37f0"
+  },
+  "guid:6aecba9b52c09500099e0edd": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Colaboração inédita entre os três grupos reúne diferentes linguagens musicais em apresentação nesta sexta-feira (6), às 20h",
+   "discovered_at": "2026-11-05T17:30:20+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aecba9b52c09500099e0edd",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/3c815556-3ec2-40ba-a2c3-c96bf96ab1f1.jpeg",
+   "key": "guid:6aecba9b52c09500099e0edd",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-05T17:22:36+00:00",
+   "status": "pending",
+   "title": "Teatro Amazonas recebe pela espetáculo “Sinfonia da Floresta” nesta sexta-feira",
+   "updated_at": "2026-11-05T17:30:20+00:00",
+   "url": "https://marioadolfo.com/teatro-amazonas-recebe-pela-espetaculo-sinfonia-da-floresta-nesta-sexta-feira/",
+   "url_hash": "ad5e4bb6d6ed0450d59e3dd0"
+  },
+  "guid:6aecbb9b52c09500099e0ef5": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Certame será realizado exclusivamente pela internet e contará com 25 lotes disponíveis para arrematação",
+   "discovered_at": "2026-11-05T17:30:20+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aecbb9b52c09500099e0ef5",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/01efc20e-da75-42fb-8c05-29a08b8f0c4c.jpeg",
+   "key": "guid:6aecbb9b52c09500099e0ef5",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-05T17:27:47+00:00",
+   "status": "pending",
+   "title": "Leilão do TRT-11 reúne terrenos, imóveis, embarcação, veículos e outros bens no dia 30",
+   "updated_at": "2026-11-05T17:30:20+00:00",
+   "url": "https://marioadolfo.com/leilao-do-trt-11-reune-terrenos-imoveis-embarcacao-veiculos-e-outros-bens-no-dia-30/",
+   "url_hash": "b3427a98b3f2403e2ada0537"
+  },
+  "guid:6aecbcaf52c09500099e0f0c": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Quatro dos cinco grandes grupos de atividades econômicas registraram saldo positivo no estado amazonense no mês de setembro",
+   "discovered_at": "2026-11-05T17:30:20+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aecbcaf52c09500099e0f0c",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a8d72463-ea26-4631-8d3d-aafcbcc7735a.jpeg",
+   "key": "guid:6aecbcaf52c09500099e0f0c",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-05T17:29:56+00:00",
+   "status": "pending",
+   "title": "Amazonas gera 4,4 mil empregos com carteira assinada em setembro",
+   "updated_at": "2026-11-05T17:30:20+00:00",
+   "url": "https://marioadolfo.com/amazonas-gera-4-4-mil-empregos-com-carteira-assinada-em-setembro/",
+   "url_hash": "29caa6242d94379387c6b120"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-05T17:20:14+00:00",
-  "saved_at": "2026-11-05T17:20:16+00:00"
+  "last_run_at": "2026-11-05T17:30:18+00:00",
+  "saved_at": "2026-11-05T17:30:20+00:00"
  },
  "schema": 1
 }
