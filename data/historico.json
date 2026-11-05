@@ -18855,13 +18855,34 @@
    "updated_at": "2026-11-05T14:20:14+00:00",
    "url": "https://marioadolfo.com/passageiro-e-morto-a-tiros-ao-chegar-de-lancha-na-balsa-amarela/",
    "url_hash": "29a8822dea024ce4f3227e48"
+  },
+  "guid:6aec90ed52c09500099e0db4": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Vítima estava com mãos e pés amarrados e apresentava várias lesões pelo corpo",
+   "discovered_at": "2026-11-05T14:30:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aec90ed52c09500099e0db4",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f539fcd7-32e7-483a-98c8-d9224e92c11c.jpg",
+   "key": "guid:6aec90ed52c09500099e0db4",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-05T14:26:18+00:00",
+   "status": "pending",
+   "title": "Homem é encontrado ferido e amarrado no Ramal do Brasileirinho",
+   "updated_at": "2026-11-05T14:30:17+00:00",
+   "url": "https://marioadolfo.com/homem-e-encontrado-ferido-e-amarrado-no-ramal-do-brasileirinho/",
+   "url_hash": "63bfde3cbe5011c4d19827d4"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-05T14:20:14+00:00",
-  "saved_at": "2026-11-05T14:20:15+00:00"
+  "last_run_at": "2026-11-05T14:30:15+00:00",
+  "saved_at": "2026-11-05T14:30:18+00:00"
  },
  "schema": 1
 }
