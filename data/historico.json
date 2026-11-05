@@ -18876,13 +18876,34 @@
    "updated_at": "2026-11-05T14:30:17+00:00",
    "url": "https://marioadolfo.com/homem-e-encontrado-ferido-e-amarrado-no-ramal-do-brasileirinho/",
    "url_hash": "63bfde3cbe5011c4d19827d4"
+  },
+  "guid:6aec9afe52c09500099e0dd4": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Cerca de 200 policiais civis de seis estados cumprem mandados de busca",
+   "discovered_at": "2026-11-05T15:10:23+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aec9afe52c09500099e0dd4",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2145edf7-6c13-4e1b-9309-92f0d8c31017.jpeg",
+   "key": "guid:6aec9afe52c09500099e0dd4",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-05T15:08:54+00:00",
+   "status": "pending",
+   "title": "Operação mira rede ilegal de bets que movimentou R$ 734 milhões",
+   "updated_at": "2026-11-05T15:10:23+00:00",
+   "url": "https://marioadolfo.com/operacao-mira-rede-ilegal-de-bets-que-movimentou-r-734-milhoes/",
+   "url_hash": "8ae55c484599f5c03204418e"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-05T15:00:20+00:00",
-  "saved_at": "2026-11-05T15:00:21+00:00"
+  "last_run_at": "2026-11-05T15:10:21+00:00",
+  "saved_at": "2026-11-05T15:10:23+00:00"
  },
  "schema": 1
 }
