@@ -19275,13 +19275,55 @@
    "updated_at": "2026-11-05T19:20:15+00:00",
    "url": "https://marioadolfo.com/tse-altera-entendimento-sobre-cota-de-genero-e-mantem-mandato/",
    "url_hash": "10e356ed5741117841ff082d"
+  },
+  "guid:6aecd97b52c09500099e0faa": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A campanha terá três ondas de promoções durante o mês de novembro",
+   "discovered_at": "2026-11-05T19:40:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aecd97b52c09500099e0faa",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/3b3e981c-2b8f-4a11-ad44-c21100c967b5.jpeg",
+   "key": "guid:6aecd97b52c09500099e0faa",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-05T19:32:27+00:00",
+   "status": "pending",
+   "title": "Black Friday na Bemol terá milhares de ofertas e 5% de cashback em produtos Baumon",
+   "updated_at": "2026-11-05T19:40:16+00:00",
+   "url": "https://marioadolfo.com/black-friday-na-bemol-tera-milhares-de-ofertas-e-5-de-cashback-em-produtos-baumon/",
+   "url_hash": "30f6c5df6194a9ead93319b0"
+  },
+  "guid:6aecda5052c09500099e0fc0": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Anúncio ocorreu durante a celebração dos 50 anos da empresa e prevê a geração de mais de 2 mil empregos diretos e ampliação da produção até 2029",
+   "discovered_at": "2026-11-05T19:40:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aecda5052c09500099e0fc0",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/be591e4f-9364-4258-9742-0da2abfb46e2.jpeg",
+   "key": "guid:6aecda5052c09500099e0fc0",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-05T19:39:59+00:00",
+   "status": "pending",
+   "title": "Eduardo Braga relaciona novo investimento de R$ 3,3 bilhões da Honda à segurança jurídica da Zona Franca",
+   "updated_at": "2026-11-05T19:40:16+00:00",
+   "url": "https://marioadolfo.com/eduardo-braga-relaciona-novo-investimento-de-r-3-3-bilhoes-da-honda-a-seguranca-juridica-da-zona-franca/",
+   "url_hash": "12eac0850e1d0285c0ad6a07"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-05T19:30:17+00:00",
-  "saved_at": "2026-11-05T19:30:18+00:00"
+  "last_run_at": "2026-11-05T19:40:15+00:00",
+  "saved_at": "2026-11-05T19:40:16+00:00"
  },
  "schema": 1
 }
