@@ -18658,12 +18658,12 @@
    "guid": "6aeba74a52c09500099e0c8c",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/143f164c-ea5c-471a-9eb9-84444ee32e29.webp",
    "key": "guid:6aeba74a52c09500099e0c8c",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-04T21:00:00+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Nos EUA, Flávio Bolsonaro vota remotamente a favor da PEC da Segurança",
-   "updated_at": "2026-11-04T21:50:22+00:00",
+   "updated_at": "2026-11-05T21:00:18+00:00",
    "url": "https://marioadolfo.com/nos-eua-flavio-bolsonaro-vota-remotamente-a-favor-da-pec-da-seguranca/",
    "url_hash": "ee03b601f625f1ca8e56b98a"
   },
@@ -19364,8 +19364,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-05T20:50:14+00:00",
-  "saved_at": "2026-11-05T20:50:16+00:00"
+  "last_run_at": "2026-11-05T21:00:18+00:00",
+  "saved_at": "2026-11-05T21:00:18+00:00"
  },
  "schema": 1
 }
