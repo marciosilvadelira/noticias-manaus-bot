@@ -18666,13 +18666,55 @@
    "updated_at": "2026-11-04T21:50:22+00:00",
    "url": "https://marioadolfo.com/nos-eua-flavio-bolsonaro-vota-remotamente-a-favor-da-pec-da-seguranca/",
    "url_hash": "ee03b601f625f1ca8e56b98a"
+  },
+  "guid:6aec6d7d52c09500099e0ca5": {
+   "attempts": [],
+   "category": "Dito & Feito",
+   "description": "Te cuida Flávio fujão, o presidente dos EUA pode não ser mais escudo pra ninguém",
+   "discovered_at": "2026-11-05T12:10:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aec6d7d52c09500099e0ca5",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/cd2433a2-db8c-449d-ae45-1333a232b03b.jpg",
+   "key": "guid:6aec6d7d52c09500099e0ca5",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-05T12:00:49+00:00",
+   "status": "pending",
+   "title": "Dito & Feito: TRUMP TEM DIA DE FLÁVIO",
+   "updated_at": "2026-11-05T12:10:15+00:00",
+   "url": "https://marioadolfo.com/dito-feito-trump-tem-dia-de-flavio/",
+   "url_hash": "290794ced5996e0f9eca0623"
+  },
+  "guid:6aec706f52c09500099e0cf2": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Entidades reivindicam a garantia do transporte gratuito para os estudantes e alertam para os impactos da suspensão do benefício",
+   "discovered_at": "2026-11-05T12:10:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aec706f52c09500099e0cf2",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/47506dbe-799b-4cdc-bc0f-00b05666169d.jpg",
+   "key": "guid:6aec706f52c09500099e0cf2",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-05T12:05:57+00:00",
+   "status": "pending",
+   "title": "Audiência pública debate sobre passe livre estudantil em Manaus",
+   "updated_at": "2026-11-05T12:10:15+00:00",
+   "url": "https://marioadolfo.com/audiencia-publica-debate-sobre-passe-livre-estudantil-em-manaus/",
+   "url_hash": "e7d905e228d3a3f063a28324"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-05T12:00:19+00:00",
-  "saved_at": "2026-11-05T12:00:21+00:00"
+  "last_run_at": "2026-11-05T12:10:15+00:00",
+  "saved_at": "2026-11-05T12:10:16+00:00"
  },
  "schema": 1
 }
