@@ -19338,13 +19338,34 @@
    "updated_at": "2026-11-05T20:00:20+00:00",
    "url": "https://marioadolfo.com/ampliacao-do-complexo-azulao-reforca-geracao-de-emprego-qualificado-no-interior-do-am/",
    "url_hash": "99d09baadd811466cd1963ab"
+  },
+  "guid:6aecea1452c09500099e1009": {
+   "attempts": [],
+   "category": "Parintins",
+   "description": "Bruno Munduruku e Josian Ramos ministram oficina em Osasco nesta quinta-feira (5), para difundir conhecimentos sobre dança, ancestralidade e cultura amazônica",
+   "discovered_at": "2026-11-05T20:50:14+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aecea1452c09500099e1009",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/8b969a35-8565-4b4e-8b66-1d93daa38b4e.jpeg",
+   "key": "guid:6aecea1452c09500099e1009",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-05T20:43:50+00:00",
+   "status": "pending",
+   "title": "Coreógrafos amazonenses levam a tradição do Boi-Bumbá de Parintins para São Paulo",
+   "updated_at": "2026-11-05T20:50:14+00:00",
+   "url": "https://marioadolfo.com/coreografos-amazonenses-levam-a-tradicao-do-boi-bumba-de-parintins-para-sao-paulo/",
+   "url_hash": "b5c506e59132001e4a1adb64"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-05T20:40:13+00:00",
-  "saved_at": "2026-11-05T20:40:14+00:00"
+  "last_run_at": "2026-11-05T20:50:14+00:00",
+  "saved_at": "2026-11-05T20:50:16+00:00"
  },
  "schema": 1
 }
