@@ -17951,11 +17951,19 @@
    "url_hash": "a3357680f46cdb9c491b61ed"
   },
   "guid:6aeb284b52c09500099e09cb": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-05T04:10:19+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1529392799211611",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Dito & Feito",
    "description": "Texto enviado ao Congresso pelo governo Lula (PT) prevê um salário mínimo de 1.741 reais para o próximo ano",
    "discovered_at": "2026-11-04T12:50:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1529392799211611",
    "formats": [
     "link"
    ],
@@ -17963,20 +17971,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/bb4259e9-9363-4ac1-a2be-244f534cc080.jpeg",
    "key": "guid:6aeb284b52c09500099e09cb",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1529392799211611"
+   },
    "source_published_at": "2026-11-04T12:50:00+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Dito & Feito: Eduardo Braga é o relator do Orçamento 2027",
-   "updated_at": "2026-11-04T12:50:16+00:00",
+   "updated_at": "2026-11-05T04:10:19+00:00",
    "url": "https://marioadolfo.com/dito-feito-eduardo-braga-e-o-relator-do-orcamento-2027/",
    "url_hash": "d96fa5a78f8f2287f5d912ee"
   },
   "guid:6aeb37ae52c09500099e09f7": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-05T04:10:44+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1529393192544905",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Parintins",
    "description": "Valores variam conforme o setor e a modalidade; entrada avulsa mais barata custa R$ 500, na meia-entrada.",
    "discovered_at": "2026-11-04T14:50:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1529393192544905",
    "formats": [
     "link"
    ],
@@ -17984,20 +18002,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b126cc8f-7b8d-4521-8c57-29d14c07ef6d.jpeg",
    "key": "guid:6aeb37ae52c09500099e09f7",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1529393192544905"
+   },
    "source_published_at": "2026-11-04T14:47:21+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Ingressos para o Festival de Parintins custam até R$ 4,8 mil em 2027",
-   "updated_at": "2026-11-04T14:50:15+00:00",
+   "updated_at": "2026-11-05T04:10:44+00:00",
    "url": "https://marioadolfo.com/ingressos-para-o-festival-de-parintins-custam-ate-r-4-8-mil-em-2027/",
    "url_hash": "934182b01b238afcd76c2a78"
   },
   "guid:6aeb4a0952c09500099e0a2d": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-05T04:11:11+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1529393512544873",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Regiões com menor participação ampliaram presença no programa",
    "discovered_at": "2026-11-04T15:10:39+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1529393512544873",
    "formats": [
     "link"
    ],
@@ -18005,20 +18033,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ecc0ce8e-161f-4598-b567-bd8ab01fb916.jpg",
    "key": "guid:6aeb4a0952c09500099e0a2d",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1529393512544873"
+   },
    "source_published_at": "2026-11-04T15:09:57+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Lei Rouanet tem recorde de 25,6 mil projetos e de R$ 1,67 bi captados",
-   "updated_at": "2026-11-04T15:10:39+00:00",
+   "updated_at": "2026-11-05T04:11:11+00:00",
    "url": "https://marioadolfo.com/lei-rouanet-tem-recorde-de-25-6-mil-projetos-e-de-r-1-67-bi-captados/",
    "url_hash": "b79b68d27a004a50387bdb0e"
   },
   "guid:6aeb4aee52c09500099e0a45": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-05T04:11:37+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1529393762544848",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Os policiais encontraram uma porção de maconha do tipo skunk, pedras de óxi, R$ 950 em espécie e uma maquininha de cartão",
    "discovered_at": "2026-11-04T15:20:14+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1529393762544848",
    "formats": [
     "link"
    ],
@@ -18026,20 +18064,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2bc421d1-580f-478f-9701-6d907c4f3c80.png",
    "key": "guid:6aeb4aee52c09500099e0a45",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1529393762544848"
+   },
    "source_published_at": "2026-11-04T15:14:11+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "“Menino Ney” é preso suspeito de tráfico de drogas na zona norte de Manaus",
-   "updated_at": "2026-11-04T15:20:14+00:00",
+   "updated_at": "2026-11-05T04:11:37+00:00",
    "url": "https://marioadolfo.com/menino-ney-e-preso-suspeito-de-trafico-de-drogas-na-zona-norte-de-manaus/",
    "url_hash": "ecd20007e15c02060acd54f3"
   },
   "guid:6aeb4c9d52c09500099e0a60": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-05T04:12:06+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1529394032544821",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "No local, também foi encontrado um cachimbo, utilizado supostamente para o consumo de entorpecentes.",
    "discovered_at": "2026-11-04T15:30:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1529394032544821",
    "formats": [
     "link"
    ],
@@ -18047,11 +18095,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/47a34260-3d9e-4aa6-a5a1-087bc075cb00.png",
    "key": "guid:6aeb4c9d52c09500099e0a60",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1529394032544821"
+   },
    "source_published_at": "2026-11-04T15:20:36+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Homem é morto a facadas no Complexo Viário Rei Pelé",
-   "updated_at": "2026-11-04T15:30:18+00:00",
+   "updated_at": "2026-11-05T04:12:06+00:00",
    "url": "https://marioadolfo.com/homem-e-morto-a-facadas-no-complexo-viario-rei-pele/",
    "url_hash": "0388859d1f6f81bbe330050e"
   },
@@ -18521,8 +18571,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-05T04:00:18+00:00",
-  "saved_at": "2026-11-05T04:02:03+00:00"
+  "last_run_at": "2026-11-05T04:10:13+00:00",
+  "saved_at": "2026-11-05T04:12:06+00:00"
  },
  "schema": 1
 }
