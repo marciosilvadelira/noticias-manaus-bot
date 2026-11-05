@@ -19065,13 +19065,34 @@
    "updated_at": "2026-11-05T16:50:15+00:00",
    "url": "https://marioadolfo.com/manaus-tera-dia-d-de-vacinacao-contra-o-sarampo-neste-sabado-7/",
    "url_hash": "24c3786d9276a9b753e051db"
+  },
+  "guid:6aecb40c52c09500099e0ebf": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Cerimônia oficializa os resultados das urnas e marca a última etapa do processo eleitoral antes da posse dos novos representantes",
+   "discovered_at": "2026-11-05T17:00:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aecb40c52c09500099e0ebf",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ae8e48b9-8374-4c26-8bc3-b7a5c0380408.jpeg",
+   "key": "guid:6aecb40c52c09500099e0ebf",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-05T16:53:51+00:00",
+   "status": "pending",
+   "title": "Eleitos no Amazonas serão diplomados no dia 18 de dezembro no TJAM",
+   "updated_at": "2026-11-05T17:00:19+00:00",
+   "url": "https://marioadolfo.com/eleitos-no-amazonas-serao-diplomados-no-dia-18-de-dezembro-no-tjam/",
+   "url_hash": "d6523a32a15ff6fe714c37f0"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-05T16:50:15+00:00",
-  "saved_at": "2026-11-05T16:50:16+00:00"
+  "last_run_at": "2026-11-05T17:00:19+00:00",
+  "saved_at": "2026-11-05T17:00:20+00:00"
  },
  "schema": 1
 }
