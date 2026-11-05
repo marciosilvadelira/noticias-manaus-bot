@@ -18792,13 +18792,55 @@
    "updated_at": "2026-11-05T14:00:22+00:00",
    "url": "https://marioadolfo.com/pirarucu-de-manejo-tera-reajuste-de-32-77-no-preco-minimo-no-amazonas-em-2027/",
    "url_hash": "c3f4b83b6f676befe452850f"
+  },
+  "guid:6aec8bf752c09500099e0d67": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Liminar suspendeu apoio policial à remoção de cerca de 40 pessoas e exige cumprimento de procedimentos prévios com atuação da Comissão de Soluções Fundiárias do TJAM",
+   "discovered_at": "2026-11-05T14:10:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aec8bf752c09500099e0d67",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ae021239-42c0-4c72-aab2-780281fa6166.png",
+   "key": "guid:6aec8bf752c09500099e0d67",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-05T14:01:18+00:00",
+   "status": "pending",
+   "title": "Justiça suspende reintegração de posse prevista para esta quinta em Manaus",
+   "updated_at": "2026-11-05T14:10:16+00:00",
+   "url": "https://marioadolfo.com/justica-suspende-reintegracao-de-posse-prevista-para-esta-quinta-em-manaus/",
+   "url_hash": "c52561a335a03c8e47a4e571"
+  },
+  "guid:6aec8d0752c09500099e0d7c": {
+   "attempts": [],
+   "category": "Parintins",
+   "description": "O alerta foi feito pela diretora do serviço, Eliana Castro, que destaca a necessidade de garantir o atendimento a pacientes internados nos hospitais",
+   "discovered_at": "2026-11-05T14:10:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aec8d0752c09500099e0d7c",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/93ee7c74-7ffa-4cf9-b026-ba1b85eb52f6.jpeg",
+   "key": "guid:6aec8d0752c09500099e0d7c",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-05T14:06:01+00:00",
+   "status": "pending",
+   "title": "Núcleo de Hemoterapia pede mobilização de doadores em Parintins",
+   "updated_at": "2026-11-05T14:10:16+00:00",
+   "url": "https://marioadolfo.com/nucleo-de-hemoterapia-pede-mobilizacao-de-doadores-em-parintins/",
+   "url_hash": "ea2eac9bf0777b6a8b130b26"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-05T14:00:20+00:00",
-  "saved_at": "2026-11-05T14:00:23+00:00"
+  "last_run_at": "2026-11-05T14:10:15+00:00",
+  "saved_at": "2026-11-05T14:10:17+00:00"
  },
  "schema": 1
 }
