@@ -18511,12 +18511,12 @@
    "guid": "6aeb77ba52c09500099e0bd3",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a3156c34-0843-4702-b9c3-d706ef9f6c35.jpeg",
    "key": "guid:6aeb77ba52c09500099e0bd3",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-04T18:23:41+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Dupla é presa por roubo e extorsões ao cobrar dívidas de agiotagem em Manaus",
-   "updated_at": "2026-11-04T18:30:19+00:00",
+   "updated_at": "2026-11-05T18:30:24+00:00",
    "url": "https://marioadolfo.com/dupla-e-presa-por-roubo-e-extorsoes-ao-cobrar-dividas-de-agiotagem-em-manaus/",
    "url_hash": "d9c1739802825e801e6decfa"
   },
@@ -19175,8 +19175,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-05T18:20:13+00:00",
-  "saved_at": "2026-11-05T18:20:15+00:00"
+  "last_run_at": "2026-11-05T18:30:23+00:00",
+  "saved_at": "2026-11-05T18:30:25+00:00"
  },
  "schema": 1
 }
