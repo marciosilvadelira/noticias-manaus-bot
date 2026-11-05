@@ -19149,13 +19149,34 @@
    "updated_at": "2026-11-05T17:30:20+00:00",
    "url": "https://marioadolfo.com/amazonas-gera-4-4-mil-empregos-com-carteira-assinada-em-setembro/",
    "url_hash": "29caa6242d94379387c6b120"
+  },
+  "guid:6aecbfe052c09500099e0f28": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "O suspeito desferiu diversos tapas e socos no rosto da mulher, causando-lhe lesões graves",
+   "discovered_at": "2026-11-05T17:50:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aecbfe052c09500099e0f28",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/35eb384c-a2f0-4de6-b638-6ffaeb0507f4.jpeg",
+   "key": "guid:6aecbfe052c09500099e0f28",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-05T17:44:52+00:00",
+   "status": "pending",
+   "title": "Homem que agrediu ex-mulher em Eirunepé e fugiu para Manaus é preso",
+   "updated_at": "2026-11-05T17:50:15+00:00",
+   "url": "https://marioadolfo.com/homem-que-agrediu-ex-mulher-em-eirunepe-e-fugiu-para-manaus-e-preso/",
+   "url_hash": "519a862cbb7d61009de78749"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-05T17:40:13+00:00",
-  "saved_at": "2026-11-05T17:40:14+00:00"
+  "last_run_at": "2026-11-05T17:50:14+00:00",
+  "saved_at": "2026-11-05T17:50:15+00:00"
  },
  "schema": 1
 }
