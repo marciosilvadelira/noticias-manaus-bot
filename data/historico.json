@@ -19339,6 +19339,27 @@
    "url": "https://marioadolfo.com/ampliacao-do-complexo-azulao-reforca-geracao-de-emprego-qualificado-no-interior-do-am/",
    "url_hash": "99d09baadd811466cd1963ab"
   },
+  "guid:6aece14d52c09500099e0ff8": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Encontro reuniu o embaixador Yasushi Noguchi, representantes diplomáticos e empresários ligados ao Polo Industrial de Manaus",
+   "discovered_at": "2026-11-05T22:00:20+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aece14d52c09500099e0ff8",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/729fe9b2-8080-4d25-8e03-434de58d203d.jpeg",
+   "key": "guid:6aece14d52c09500099e0ff8",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-05T21:58:42+00:00",
+   "status": "pending",
+   "title": "Governador eleito, Omar Aziz recebe comitiva japonesa e discute parcerias para o Amazonas",
+   "updated_at": "2026-11-05T22:00:20+00:00",
+   "url": "https://marioadolfo.com/governador-eleito-omar-aziz-recebe-comitiva-japonesa-e-discute-parcerias-para-o-amazonas/",
+   "url_hash": "c013a96aed6976c291e3c0a8"
+  },
   "guid:6aecea1452c09500099e1009": {
    "attempts": [],
    "category": "Parintins",
@@ -19364,8 +19385,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-05T21:50:14+00:00",
-  "saved_at": "2026-11-05T21:50:15+00:00"
+  "last_run_at": "2026-11-05T22:00:18+00:00",
+  "saved_at": "2026-11-05T22:00:20+00:00"
  },
  "schema": 1
 }
