@@ -18729,13 +18729,34 @@
    "updated_at": "2026-11-05T13:20:15+00:00",
    "url": "https://marioadolfo.com/pf-deflagra-tres-operacoes-contra-o-abuso-sexual-infantojuvenil-em-manaus/",
    "url_hash": "9c9c4bab265a3e0678ba94f8"
+  },
+  "guid:6aec821a52c09500099e0d26": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Medida, que vigora em fevereiro, está no Diário Oficial da União",
+   "discovered_at": "2026-11-05T13:30:20+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aec821a52c09500099e0d26",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5ee56622-1c70-40e7-a56d-cce9af72d2b7.jpg",
+   "key": "guid:6aec821a52c09500099e0d26",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-05T13:20:25+00:00",
+   "status": "pending",
+   "title": "Governo publica MP das alíquotas do 'Imposto do Pecado' para 2027",
+   "updated_at": "2026-11-05T13:30:20+00:00",
+   "url": "https://marioadolfo.com/governo-publica-mp-das-aliquotas-do-imposto-do-pecado-para-2027/",
+   "url_hash": "5de83334278e2e717e4d2b73"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-05T13:20:15+00:00",
-  "saved_at": "2026-11-05T13:20:16+00:00"
+  "last_run_at": "2026-11-05T13:30:18+00:00",
+  "saved_at": "2026-11-05T13:30:21+00:00"
  },
  "schema": 1
 }
