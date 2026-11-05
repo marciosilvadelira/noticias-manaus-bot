@@ -18708,13 +18708,34 @@
    "updated_at": "2026-11-05T12:10:15+00:00",
    "url": "https://marioadolfo.com/audiencia-publica-debate-sobre-passe-livre-estudantil-em-manaus/",
    "url_hash": "e7d905e228d3a3f063a28324"
+  },
+  "guid:6aec803a52c09500099e0d0d": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "As ações têm como objetivo identificar e responsabilizar pessoas envolvidas em diferentes modalidades dessa prática criminosa",
+   "discovered_at": "2026-11-05T13:20:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aec803a52c09500099e0d0d",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/611ab0db-c1c3-4b13-8810-dba39fd46501.jpg",
+   "key": "guid:6aec803a52c09500099e0d0d",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-05T13:13:47+00:00",
+   "status": "pending",
+   "title": "PF deflagra três operações contra o abuso sexual infantojuvenil em Manaus",
+   "updated_at": "2026-11-05T13:20:15+00:00",
+   "url": "https://marioadolfo.com/pf-deflagra-tres-operacoes-contra-o-abuso-sexual-infantojuvenil-em-manaus/",
+   "url_hash": "9c9c4bab265a3e0678ba94f8"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-05T13:10:13+00:00",
-  "saved_at": "2026-11-05T13:10:15+00:00"
+  "last_run_at": "2026-11-05T13:20:15+00:00",
+  "saved_at": "2026-11-05T13:20:16+00:00"
  },
  "schema": 1
 }
