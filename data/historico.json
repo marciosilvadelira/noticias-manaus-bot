@@ -18771,13 +18771,34 @@
    "updated_at": "2026-11-05T13:50:15+00:00",
    "url": "https://marioadolfo.com/amazonas-reforca-acoes-contra-o-sarampo-com-a-implantacao-de-comite-de-operacoes/",
    "url_hash": "3304f3364c2f55bbd204c372"
+  },
+  "guid:6aec898052c09500099e0d51": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "O valor, que atualmente é de R$ 10,74, passará para R$ 14,26",
+   "discovered_at": "2026-11-05T14:00:22+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aec898052c09500099e0d51",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d1aa8ff9-d63f-40ac-a05d-4cf7afa9ad0e.jpeg",
+   "key": "guid:6aec898052c09500099e0d51",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-05T13:54:05+00:00",
+   "status": "pending",
+   "title": "Pirarucu de manejo terá reajuste de 32,77% no preço mínimo no Amazonas em 2027",
+   "updated_at": "2026-11-05T14:00:22+00:00",
+   "url": "https://marioadolfo.com/pirarucu-de-manejo-tera-reajuste-de-32-77-no-preco-minimo-no-amazonas-em-2027/",
+   "url_hash": "c3f4b83b6f676befe452850f"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-05T13:50:15+00:00",
-  "saved_at": "2026-11-05T13:50:16+00:00"
+  "last_run_at": "2026-11-05T14:00:20+00:00",
+  "saved_at": "2026-11-05T14:00:23+00:00"
  },
  "schema": 1
 }
