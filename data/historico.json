@@ -18448,12 +18448,12 @@
    "guid": "6aeb6afe52c09500099e0b93",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/235cb4f2-4ebe-40d8-8a80-0450110d923a.jpg",
    "key": "guid:6aeb6afe52c09500099e0b93",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-04T17:31:02+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Amazônia POP divulga horários dos shows das três noites do festival em Manaus",
-   "updated_at": "2026-11-04T17:40:16+00:00",
+   "updated_at": "2026-11-05T17:40:14+00:00",
    "url": "https://marioadolfo.com/amazonia-pop-divulga-horarios-dos-shows-das-tres-noites-do-festival-em-manaus/",
    "url_hash": "6bd2f327f5fa78c1eb8c451e"
   },
@@ -18469,12 +18469,12 @@
    "guid": "6aeb6c0452c09500099e0ba7",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/55a4b4ef-091b-4099-a239-68ec960b204a.jpeg",
    "key": "guid:6aeb6c0452c09500099e0ba7",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-04T17:33:22+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Confira os novos locais de atendimento das Carretas de Saúde no AM",
-   "updated_at": "2026-11-04T17:40:16+00:00",
+   "updated_at": "2026-11-05T17:40:14+00:00",
    "url": "https://marioadolfo.com/confira-os-novos-locais-de-atendimento-das-carretas-de-saude-no-am/",
    "url_hash": "3f35e32ed5567d596e7a5138"
   },
@@ -18490,12 +18490,12 @@
    "guid": "6aeb6cb852c09500099e0bbe",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5f0ca868-7c12-469b-9934-86d5a9542ee7.jpeg",
    "key": "guid:6aeb6cb852c09500099e0bbe",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-04T17:35:53+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Senac abre inscrições para cursos gratuitos em Manaus, Borba, Manacapuru e Parintins",
-   "updated_at": "2026-11-04T17:40:16+00:00",
+   "updated_at": "2026-11-05T17:40:14+00:00",
    "url": "https://marioadolfo.com/senac-abre-inscricoes-para-cursos-gratuitos-em-manaus-borba-manacapuru-e-parintins/",
    "url_hash": "44dc64ce9cf51e5147511f18"
   },
@@ -19154,8 +19154,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-05T17:30:18+00:00",
-  "saved_at": "2026-11-05T17:30:20+00:00"
+  "last_run_at": "2026-11-05T17:40:13+00:00",
+  "saved_at": "2026-11-05T17:40:14+00:00"
  },
  "schema": 1
 }
