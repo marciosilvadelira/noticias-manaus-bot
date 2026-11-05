@@ -18918,13 +18918,76 @@
    "updated_at": "2026-11-05T15:30:19+00:00",
    "url": "https://marioadolfo.com/ibge-abre-selecao-para-mais-de-27-mil-recenseadores-temporarios/",
    "url_hash": "f1fd33c7374adbc096f02b71"
+  },
+  "guid:6aec9f2052c09500099e0df3": {
+   "attempts": [],
+   "category": "Parintins",
+   "description": "Implantação da rede, escavação de poços e construção dos Centros de Reservação e Distribuição seguem em execução, e o CRD2 já está em operação",
+   "discovered_at": "2026-11-05T15:40:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aec9f2052c09500099e0df3",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/89ab567a-9c54-47ce-87a8-bc00581648ef.jpeg",
+   "key": "guid:6aec9f2052c09500099e0df3",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-05T15:31:19+00:00",
+   "status": "pending",
+   "title": "Prosai Parintins avança nas obras do sistema de abastecimento de água",
+   "updated_at": "2026-11-05T15:40:17+00:00",
+   "url": "https://marioadolfo.com/prosai-parintins-avanca-nas-obras-do-sistema-de-abastecimento-de-agua/",
+   "url_hash": "25a7422bedffd6723904242c"
+  },
+  "guid:6aeca16252c09500099e0e18": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Ação mobilizou cerca de 20 agentes na avenida 7 de Maio, em Santa Etelvina, com fiscalização de carros e motocicletas",
+   "discovered_at": "2026-11-05T15:40:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aeca16252c09500099e0e18",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0ce0c79b-e406-4045-8983-bb8a9868945a.jpeg",
+   "key": "guid:6aeca16252c09500099e0e18",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-05T15:34:40+00:00",
+   "status": "pending",
+   "title": "Operação intensifica abordagens e amplia policiamento na zona norte de Manaus",
+   "updated_at": "2026-11-05T15:40:17+00:00",
+   "url": "https://marioadolfo.com/operacao-intensifica-abordagens-e-amplia-policiamento-na-zona-norte-de-manaus/",
+   "url_hash": "5546157496754a9ef75459a2"
+  },
+  "guid:6aeca21e52c09500099e0e2e": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "As famílias foram retiradas de uma área na Rua 7 de Maio. Elas serão cadastradas em unidades do Minha Casa, Minha Vida",
+   "discovered_at": "2026-11-05T15:40:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aeca21e52c09500099e0e2e",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c483300d-d2c1-41db-a4a8-e70e832ea9d6.jpeg",
+   "key": "guid:6aeca21e52c09500099e0e2e",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-05T15:39:30+00:00",
+   "status": "pending",
+   "title": "Acordo inclui famílias do bairro Santa Etelvina em programa habitacional",
+   "updated_at": "2026-11-05T15:40:17+00:00",
+   "url": "https://marioadolfo.com/acordo-inclui-familias-do-bairro-santa-etelvina-em-programa-habitacional/",
+   "url_hash": "22555480409e1b94d71c0c08"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-05T15:30:18+00:00",
-  "saved_at": "2026-11-05T15:30:19+00:00"
+  "last_run_at": "2026-11-05T15:40:15+00:00",
+  "saved_at": "2026-11-05T15:40:18+00:00"
  },
  "schema": 1
 }
