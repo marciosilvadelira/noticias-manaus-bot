@@ -18637,12 +18637,12 @@
    "guid": "6aeba57d52c09500099e0c72",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/fa84c03a-790a-4e11-b814-e1ba3c74695f.jpeg",
    "key": "guid:6aeba57d52c09500099e0c72",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-04T21:38:42+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Cetam prorroga inscrições para cursos online até sexta-feira",
-   "updated_at": "2026-11-04T21:40:13+00:00",
+   "updated_at": "2026-11-05T21:40:14+00:00",
    "url": "https://marioadolfo.com/cetam-prorroga-inscricoes-para-cursos-online-ate-sexta-feira/",
    "url_hash": "52c8aecd336b236a1cb83bd3"
   },
@@ -19364,8 +19364,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-05T21:30:16+00:00",
-  "saved_at": "2026-11-05T21:30:18+00:00"
+  "last_run_at": "2026-11-05T21:40:14+00:00",
+  "saved_at": "2026-11-05T21:40:15+00:00"
  },
  "schema": 1
 }
