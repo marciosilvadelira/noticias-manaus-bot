@@ -17796,11 +17796,19 @@
    "url_hash": "40face4641c4fdde74823fac"
   },
   "guid:6aea6b6852c09500099e0925": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-05T04:00:50+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1529385322545692",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Estrutura foi montada no Instituto Nacional de Criminalística (INC)",
    "discovered_at": "2026-11-04T11:30:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1529385322545692",
    "formats": [
     "link"
    ],
@@ -17808,20 +17816,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/8bf0ce16-52c0-4937-a401-4fdcd1fd77b6.jpg",
    "key": "guid:6aea6b6852c09500099e0925",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1529385322545692"
+   },
    "source_published_at": "2026-11-04T11:30:00+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "PF inaugura laboratório para combater garimpo ilegal na Amazônia",
-   "updated_at": "2026-11-04T11:30:17+00:00",
+   "updated_at": "2026-11-05T04:00:50+00:00",
    "url": "https://marioadolfo.com/pf-inaugura-laboratorio-para-combater-garimpo-ilegal-na-amazonia/",
    "url_hash": "204e8b0b9b64394886435015"
   },
   "guid:6aea750d52c09500099e093a": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-05T04:01:14+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1529385849212306",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Parintins",
    "description": "Cada autor poderá inscrever até cinco obras, incluindo parcerias de até dois coautores",
    "discovered_at": "2026-11-04T11:50:14+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1529385849212306",
    "formats": [
     "link"
    ],
@@ -17829,20 +17847,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ae608765-a772-49cb-9db5-60651998bf6a.jpg",
    "key": "guid:6aea750d52c09500099e093a",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1529385849212306"
+   },
    "source_published_at": "2026-11-04T11:40:39+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Boi Garantido lança edital de toadas para a disputa do Festival de Parintins 2027",
-   "updated_at": "2026-11-04T11:50:14+00:00",
+   "updated_at": "2026-11-05T04:01:14+00:00",
    "url": "https://marioadolfo.com/boi-garantido-lanca-edital-de-toadas-para-a-disputa-do-festival-de-parintins-2027/",
    "url_hash": "ca3c52eefd2f39ab94d3ca2a"
   },
   "guid:6aea77f552c09500099e0953": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-05T04:01:39+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1529386339212257",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Produtores de Apuí também conquistam oito classificações em outros dois concursos nacionais, reforçando a qualidade do café produzido em sistemas agroflorestais no sul do Amazonas",
    "discovered_at": "2026-11-04T12:10:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1529386339212257",
    "formats": [
     "link"
    ],
@@ -17850,20 +17878,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/1adea755-dd65-4fba-85f6-3fd15b6c73ae.jpeg",
    "key": "guid:6aea77f552c09500099e0953",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1529386339212257"
+   },
    "source_published_at": "2026-11-04T12:00:37+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Café Apuí Agroflorestal amplia número de finalistas do Coffee of the Year",
-   "updated_at": "2026-11-04T12:10:16+00:00",
+   "updated_at": "2026-11-05T04:01:39+00:00",
    "url": "https://marioadolfo.com/cafe-apui-agroflorestal-amplia-numero-de-finalistas-do-coffee-of-the-year/",
    "url_hash": "abfb97a8ba6d8c274f1fa399"
   },
   "guid:6aea7fdb52c09500099e097a": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-05T04:00:24+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1529384939212397",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "O texto teve apoio unânime dos senadores votantes, com 73 votos favoráveis e nenhum contrário, em primeiro turno. No segundo turno, o placar foi de 75 votos favoráveis e nenhum contrário",
    "discovered_at": "2026-11-04T11:10:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1529384939212397",
    "formats": [
     "link"
    ],
@@ -17871,20 +17909,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c98a2b17-4a8d-4c51-a953-9b1bb7962779.jpg",
    "key": "guid:6aea7fdb52c09500099e097a",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1529384939212397"
+   },
    "source_published_at": "2026-11-04T11:00:39+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Senado aprova PEC da Segurança Pública sem redução da maioridade penal",
-   "updated_at": "2026-11-04T11:10:16+00:00",
+   "updated_at": "2026-11-05T04:00:24+00:00",
    "url": "https://marioadolfo.com/senado-aprova-pec-da-seguranca-publica-sem-reducao-da-maioridade-penal/",
    "url_hash": "b9a4a37d78ab317ff80754ee"
   },
   "guid:6aeb264c52c09500099e09aa": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-05T04:02:03+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1529386589212232",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "A equipe indicada por Omar Aziz deverá trabalhar em conjunto com os três representantes do atual governo estadual, formando uma comissão de seis integrantes",
    "discovered_at": "2026-11-04T12:50:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1529386589212232",
    "formats": [
     "link"
    ],
@@ -17892,11 +17940,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/804e8086-3ad6-455b-b455-68c9bd99ea93.jpg",
    "key": "guid:6aeb264c52c09500099e09aa",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1529386589212232"
+   },
    "source_published_at": "2026-11-04T12:42:00+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Omar escolhe Alessandra Campelo, Thomaz Nogueira e Lucas Brandão para equipe de transição",
-   "updated_at": "2026-11-04T12:50:16+00:00",
+   "updated_at": "2026-11-05T04:02:03+00:00",
    "url": "https://marioadolfo.com/omar-escolhe-alessandra-campelo-thomaz-nogueira-e-lucas-brandao-para-equipe-de-transicao/",
    "url_hash": "a3357680f46cdb9c491b61ed"
   },
@@ -18471,8 +18521,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-05T03:50:13+00:00",
-  "saved_at": "2026-11-05T03:50:15+00:00"
+  "last_run_at": "2026-11-05T04:00:18+00:00",
+  "saved_at": "2026-11-05T04:02:03+00:00"
  },
  "schema": 1
 }
