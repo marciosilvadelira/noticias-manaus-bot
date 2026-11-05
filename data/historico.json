@@ -19170,13 +19170,55 @@
    "updated_at": "2026-11-05T17:50:15+00:00",
    "url": "https://marioadolfo.com/homem-que-agrediu-ex-mulher-em-eirunepe-e-fugiu-para-manaus-e-preso/",
    "url_hash": "519a862cbb7d61009de78749"
+  },
+  "guid:6aecd02c52c09500099e0f41": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Empreendimento em Silves abre 32 vagas e fortalece a formação e a contratação de profissionais amazonenses",
+   "discovered_at": "2026-11-05T19:00:20+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aecd02c52c09500099e0f41",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/370d4376-7ae6-4740-920e-91b1b0c8b10a.jpeg",
+   "key": "guid:6aecd02c52c09500099e0f41",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-05T18:52:01+00:00",
+   "status": "pending",
+   "title": "Ampliação do Complexo Azulão reforça geração de emprego qualificado no interior do Amazonas",
+   "updated_at": "2026-11-05T19:00:20+00:00",
+   "url": "https://marioadolfo.com/ampliacao-do-complexo-azulao-reforca-geracao-de-emprego-qualificado-no-interior-do-amazonas/",
+   "url_hash": "7cf1310dd1cc2e9e2616eb93"
+  },
+  "guid:6aecd08152c09500099e0f54": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Além da construção da rotatória, os serviços incluem a implantação das trincheiras do túnel e a preparação dos canteiros centrais, que receberão o paisagismo",
+   "discovered_at": "2026-11-05T19:00:20+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aecd08152c09500099e0f54",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/018e3c86-34ff-45be-8887-844b5a07cb34.jpg",
+   "key": "guid:6aecd08152c09500099e0f54",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-05T18:40:00+00:00",
+   "status": "pending",
+   "title": "Obra do complexo Passarão alcança 66% e avança para construção da rotatória na zona Oeste",
+   "updated_at": "2026-11-05T19:00:20+00:00",
+   "url": "https://marioadolfo.com/obra-do-complexo-passarao-alcanca-66-e-avanca-para-construcao-da-rotatoria-na-zona-oeste/",
+   "url_hash": "a37e8ac0698060d61ab37a89"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-05T18:50:13+00:00",
-  "saved_at": "2026-11-05T18:50:14+00:00"
+  "last_run_at": "2026-11-05T19:00:19+00:00",
+  "saved_at": "2026-11-05T19:00:20+00:00"
  },
  "schema": 1
 }
