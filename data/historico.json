@@ -19023,13 +19023,34 @@
    "updated_at": "2026-11-05T15:50:20+00:00",
    "url": "https://marioadolfo.com/amazonas-shopping-realiza-entrega-de-kits-para-corrida-nesta-sexta-feira-e-sabado/",
    "url_hash": "a601ef6106f5ca501ba58d33"
+  },
+  "guid:6aeca58252c09500099e0e71": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Ipaam orienta sobre documentos, custos e procedimentos para perfurar poços tubulares e utilizar a água",
+   "discovered_at": "2026-11-05T16:00:24+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aeca58252c09500099e0e71",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6fd0b408-97fc-4585-87d7-d1567fbaf61c.jpeg",
+   "key": "guid:6aeca58252c09500099e0e71",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-05T15:52:14+00:00",
+   "status": "pending",
+   "title": "Perfurar poço sem autorização pode gerar multas de até R$ 100 mil",
+   "updated_at": "2026-11-05T16:00:24+00:00",
+   "url": "https://marioadolfo.com/perfurar-poco-sem-autorizacao-pode-gerar-multas-de-ate-r-100-mil/",
+   "url_hash": "e5a258d5c332411a25df7003"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-05T15:50:17+00:00",
-  "saved_at": "2026-11-05T15:50:20+00:00"
+  "last_run_at": "2026-11-05T16:00:23+00:00",
+  "saved_at": "2026-11-05T16:00:25+00:00"
  },
  "schema": 1
 }
