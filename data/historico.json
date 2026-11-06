@@ -19923,13 +19923,34 @@
    "updated_at": "2026-11-06T15:30:19+00:00",
    "url": "https://marioadolfo.com/amazonia-pop-divulga-horarios-dos-shows-das-tres-noites-do-festival-em-manaus-2/",
    "url_hash": "e277f945b5cb83cbc6d5bdc2"
+  },
+  "guid:6aedf25052c09500099e1205": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Lucas dos Santos Nascimento, de 26 anos, havia sido acolhido, no dia 6 de agosto, em uma instituição de recuperação de pessoas com dependência química na BR-174",
+   "discovered_at": "2026-11-06T15:40:13+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aedf25052c09500099e1205",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/7b6a9222-6fd0-44b9-83bb-96534eddce70.png",
+   "key": "guid:6aedf25052c09500099e1205",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-06T15:33:52+00:00",
+   "status": "pending",
+   "title": "Dupla é presa suspeita de matar jovem que saiu de centro de reabilitação",
+   "updated_at": "2026-11-06T15:40:13+00:00",
+   "url": "https://marioadolfo.com/dupla-e-presa-suspeita-de-matar-jovem-que-saiu-de-centro-de-reabilitacao/",
+   "url_hash": "7f528e676c23f8691200e27e"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-06T15:30:18+00:00",
-  "saved_at": "2026-11-06T15:30:20+00:00"
+  "last_run_at": "2026-11-06T15:40:13+00:00",
+  "saved_at": "2026-11-06T15:40:14+00:00"
  },
  "schema": 1
 }
