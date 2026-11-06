@@ -19579,12 +19579,12 @@
    "guid": "6aecea1452c09500099e1009",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/8b969a35-8565-4b4e-8b66-1d93daa38b4e.jpeg",
    "key": "guid:6aecea1452c09500099e1009",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-05T20:43:50+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Coreógrafos amazonenses levam a tradição do Boi-Bumbá de Parintins para São Paulo",
-   "updated_at": "2026-11-05T20:50:14+00:00",
+   "updated_at": "2026-11-06T20:50:14+00:00",
    "url": "https://marioadolfo.com/coreografos-amazonenses-levam-a-tradicao-do-boi-bumba-de-parintins-para-sao-paulo/",
    "url_hash": "b5c506e59132001e4a1adb64"
   },
@@ -20259,13 +20259,34 @@
    "updated_at": "2026-11-06T20:40:14+00:00",
    "url": "https://marioadolfo.com/amazonas-leva-vacinacao-contra-o-sarampo-a-pessoas-de-12-meses-a-59-anos/",
    "url_hash": "93a3053f8e08667be91a1bae"
+  },
+  "guid:6aee3c5c52c09500099e13d8": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Presidente diz que o pobre não pagará a conta do ajuste fiscal",
+   "discovered_at": "2026-11-06T20:50:14+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aee3c5c52c09500099e13d8",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/1aae7d14-e464-4103-af54-c47ee3cb22cb.webp",
+   "key": "guid:6aee3c5c52c09500099e13d8",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-06T20:46:28+00:00",
+   "status": "pending",
+   "title": "Lula quer levar Brasil à condição de país desenvolvido em quatro anos",
+   "updated_at": "2026-11-06T20:50:14+00:00",
+   "url": "https://marioadolfo.com/lula-quer-levar-brasil-a-condicao-de-pais-desenvolvido-em-quatro-anos/",
+   "url_hash": "57f77f871c0a7f8414271b2e"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-06T20:40:13+00:00",
-  "saved_at": "2026-11-06T20:40:14+00:00"
+  "last_run_at": "2026-11-06T20:50:13+00:00",
+  "saved_at": "2026-11-06T20:50:14+00:00"
  },
  "schema": 1
 }
