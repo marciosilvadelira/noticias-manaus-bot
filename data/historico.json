@@ -19839,13 +19839,55 @@
    "updated_at": "2026-11-06T15:00:21+00:00",
    "url": "https://marioadolfo.com/video-embarcacao-bate-em-barranco-proximo-a-novo-airao/",
    "url_hash": "4b49de14f6f05095157c162e"
+  },
+  "guid:6aedeb7152c09500099e11ab": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Previsão é de especialistas de diferentes países reunidos em webinário",
+   "discovered_at": "2026-11-06T15:10:14+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aedeb7152c09500099e11ab",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f1ff94f2-2655-45ff-ab7f-66baf06313ba.jpg",
+   "key": "guid:6aedeb7152c09500099e11ab",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-06T15:02:30+00:00",
+   "status": "pending",
+   "title": "País pode chegar a 860 mil casos prováveis de dengue em 2027",
+   "updated_at": "2026-11-06T15:10:14+00:00",
+   "url": "https://marioadolfo.com/pais-pode-chegar-a-860-mil-casos-provaveis-de-dengue-em-2027/",
+   "url_hash": "61a2f69442c8161445ba74c2"
+  },
+  "guid:6aedec2452c09500099e11c3": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Foi cumprido mandado de prisão contra uma investigada, além de busca e apreensão na residência dela",
+   "discovered_at": "2026-11-06T15:10:14+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aedec2452c09500099e11c3",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/04a2910b-4c6d-4c5d-a10f-24e138cd276d.jpg",
+   "key": "guid:6aedec2452c09500099e11c3",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-06T15:06:58+00:00",
+   "status": "pending",
+   "title": "PF investiga grupo que transportava drogas em voos comerciais no AM",
+   "updated_at": "2026-11-06T15:10:14+00:00",
+   "url": "https://marioadolfo.com/pf-investiga-grupo-que-transportava-drogas-em-voos-comerciais-no-am/",
+   "url_hash": "a8da235f44744d1beaf74909"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-06T15:00:21+00:00",
-  "saved_at": "2026-11-06T15:00:22+00:00"
+  "last_run_at": "2026-11-06T15:10:14+00:00",
+  "saved_at": "2026-11-06T15:10:15+00:00"
  },
  "schema": 1
 }
