@@ -18668,11 +18668,19 @@
    "url_hash": "ee03b601f625f1ca8e56b98a"
   },
   "guid:6aec6d7d52c09500099e0ca5": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-06T04:00:25+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1530409275776630",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Dito & Feito",
    "description": "Te cuida Flávio fujão, o presidente dos EUA pode não ser mais escudo pra ninguém",
    "discovered_at": "2026-11-05T12:10:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1530409275776630",
    "formats": [
     "link"
    ],
@@ -18680,20 +18688,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/cd2433a2-db8c-449d-ae45-1333a232b03b.jpg",
    "key": "guid:6aec6d7d52c09500099e0ca5",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1530409275776630"
+   },
    "source_published_at": "2026-11-05T12:00:49+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Dito & Feito: TRUMP TEM DIA DE FLÁVIO",
-   "updated_at": "2026-11-05T12:10:15+00:00",
+   "updated_at": "2026-11-06T04:00:25+00:00",
    "url": "https://marioadolfo.com/dito-feito-trump-tem-dia-de-flavio/",
    "url_hash": "290794ced5996e0f9eca0623"
   },
   "guid:6aec706f52c09500099e0cf2": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-06T04:00:54+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1530409669109924",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Entidades reivindicam a garantia do transporte gratuito para os estudantes e alertam para os impactos da suspensão do benefício",
    "discovered_at": "2026-11-05T12:10:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1530409669109924",
    "formats": [
     "link"
    ],
@@ -18701,16 +18719,26 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/47506dbe-799b-4cdc-bc0f-00b05666169d.jpg",
    "key": "guid:6aec706f52c09500099e0cf2",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1530409669109924"
+   },
    "source_published_at": "2026-11-05T12:05:57+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Audiência pública debate sobre passe livre estudantil em Manaus",
-   "updated_at": "2026-11-05T12:10:15+00:00",
+   "updated_at": "2026-11-06T04:00:54+00:00",
    "url": "https://marioadolfo.com/audiencia-publica-debate-sobre-passe-livre-estudantil-em-manaus/",
    "url_hash": "e7d905e228d3a3f063a28324"
   },
   "guid:6aec803a52c09500099e0d0d": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-06T04:01:44+00:00",
+     "error": "[uncertain] sem resposta da Meta: tempo esgotado: The read operation timed out",
+     "fb_post_id": null,
+     "format": "link",
+     "result": "uncertain"
+    }
+   ],
    "category": "Polícia",
    "description": "As ações têm como objetivo identificar e responsabilizar pessoas envolvidas em diferentes modalidades dessa prática criminosa",
    "discovered_at": "2026-11-05T13:20:15+00:00",
@@ -18721,21 +18749,29 @@
    "guid": "6aec803a52c09500099e0d0d",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/611ab0db-c1c3-4b13-8810-dba39fd46501.jpg",
    "key": "guid:6aec803a52c09500099e0d0d",
-   "note": "",
+   "note": "resultado incerto; será conferido antes de nova tentativa",
    "posts": {},
    "source_published_at": "2026-11-05T13:13:47+00:00",
-   "status": "pending",
+   "status": "uncertain",
    "title": "PF deflagra três operações contra o abuso sexual infantojuvenil em Manaus",
-   "updated_at": "2026-11-05T13:20:15+00:00",
+   "updated_at": "2026-11-06T04:01:44+00:00",
    "url": "https://marioadolfo.com/pf-deflagra-tres-operacoes-contra-o-abuso-sexual-infantojuvenil-em-manaus/",
    "url_hash": "9c9c4bab265a3e0678ba94f8"
   },
   "guid:6aec821a52c09500099e0d26": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-06T04:02:10+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1530410765776481",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Medida, que vigora em fevereiro, está no Diário Oficial da União",
    "discovered_at": "2026-11-05T13:30:20+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1530410765776481",
    "formats": [
     "link"
    ],
@@ -18743,20 +18779,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5ee56622-1c70-40e7-a56d-cce9af72d2b7.jpg",
    "key": "guid:6aec821a52c09500099e0d26",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1530410765776481"
+   },
    "source_published_at": "2026-11-05T13:20:25+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Governo publica MP das alíquotas do 'Imposto do Pecado' para 2027",
-   "updated_at": "2026-11-05T13:30:20+00:00",
+   "updated_at": "2026-11-06T04:02:10+00:00",
    "url": "https://marioadolfo.com/governo-publica-mp-das-aliquotas-do-imposto-do-pecado-para-2027/",
    "url_hash": "5de83334278e2e717e4d2b73"
   },
   "guid:6aec87f952c09500099e0d3b": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-06T04:02:36+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1530411079109783",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Coordenado pela FVS-RCP,  grupo integra setores técnicos da  Saúde para ampliar o monitoramento e a resposta à doença no estado",
    "discovered_at": "2026-11-05T13:50:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1530411079109783",
    "formats": [
     "link"
    ],
@@ -18764,20 +18810,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a6feffb6-a33a-4766-b659-df8c9255717d.jpeg",
    "key": "guid:6aec87f952c09500099e0d3b",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1530411079109783"
+   },
    "source_published_at": "2026-11-05T13:46:05+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Amazonas reforça ações contra o sarampo com a implantação de comitê de operações",
-   "updated_at": "2026-11-05T13:50:15+00:00",
+   "updated_at": "2026-11-06T04:02:36+00:00",
    "url": "https://marioadolfo.com/amazonas-reforca-acoes-contra-o-sarampo-com-a-implantacao-de-comite-de-operacoes/",
    "url_hash": "3304f3364c2f55bbd204c372"
   },
   "guid:6aec898052c09500099e0d51": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-06T04:03:00+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1530411405776417",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "O valor, que atualmente é de R$ 10,74, passará para R$ 14,26",
    "discovered_at": "2026-11-05T14:00:22+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1530411405776417",
    "formats": [
     "link"
    ],
@@ -18785,11 +18841,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d1aa8ff9-d63f-40ac-a05d-4cf7afa9ad0e.jpeg",
    "key": "guid:6aec898052c09500099e0d51",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1530411405776417"
+   },
    "source_published_at": "2026-11-05T13:54:05+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Pirarucu de manejo terá reajuste de 32,77% no preço mínimo no Amazonas em 2027",
-   "updated_at": "2026-11-05T14:00:22+00:00",
+   "updated_at": "2026-11-06T04:03:00+00:00",
    "url": "https://marioadolfo.com/pirarucu-de-manejo-tera-reajuste-de-32-77-no-preco-minimo-no-amazonas-em-2027/",
    "url_hash": "c3f4b83b6f676befe452850f"
   },
@@ -19406,8 +19464,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-06T03:50:15+00:00",
-  "saved_at": "2026-11-06T03:50:18+00:00"
+  "last_run_at": "2026-11-06T04:00:19+00:00",
+  "saved_at": "2026-11-06T04:03:00+00:00"
  },
  "schema": 1
 }
