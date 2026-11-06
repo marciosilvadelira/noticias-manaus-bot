@@ -19650,13 +19650,34 @@
    "updated_at": "2026-11-06T12:40:15+00:00",
    "url": "https://marioadolfo.com/dito-feito-a-casa-caiu-para-familia-bolsonaro/",
    "url_hash": "f07cd0b3e106fe4ac2d6f4ac"
+  },
+  "guid:6aedcdc952c09500099e10d0": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Nova etapa inclui organização dos cabos ativos e descarte de material abandonado pelas empresas.",
+   "discovered_at": "2026-11-06T13:00:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aedcdc952c09500099e10d0",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/dd5a7233-ab49-4e9c-8c8c-81e09fa6519a.jpg",
+   "key": "guid:6aedcdc952c09500099e10d0",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-06T12:57:08+00:00",
+   "status": "pending",
+   "title": "Retirada de fios sem uso no Centro deve alcançar 70 quilômetros em Manaus",
+   "updated_at": "2026-11-06T13:00:19+00:00",
+   "url": "https://marioadolfo.com/retirada-de-fios-sem-uso-no-centro-deve-alcancar-70-quilometros-em-manaus/",
+   "url_hash": "bf68e7c996a289f92090d000"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-06T12:50:13+00:00",
-  "saved_at": "2026-11-06T12:50:15+00:00"
+  "last_run_at": "2026-11-06T13:00:19+00:00",
+  "saved_at": "2026-11-06T13:00:20+00:00"
  },
  "schema": 1
 }
