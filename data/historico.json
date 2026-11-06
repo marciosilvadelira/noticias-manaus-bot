@@ -20175,13 +20175,55 @@
    "updated_at": "2026-11-06T17:50:16+00:00",
    "url": "https://marioadolfo.com/jovem-e-presa-com-maconha-em-pote-de-margarina-durante-visita-em-delegacia-no-am/",
    "url_hash": "6c3df6a07896977dba0f3c64"
+  },
+  "guid:6aee122c52c09500099e1366": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Suspeito, que trabalha como motorista de aplicativo, foi contratado para executar a vítima e não tinha relação com ela, segundo a Polícia Civil",
+   "discovered_at": "2026-11-06T18:00:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aee122c52c09500099e1366",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2eaaf736-9788-4a88-83ac-6768517decbb.png",
+   "key": "guid:6aee122c52c09500099e1366",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-06T17:53:21+00:00",
+   "status": "pending",
+   "title": "Venezuelano é preso por tentativa de homicídio contra empresário na Compensa",
+   "updated_at": "2026-11-06T18:00:19+00:00",
+   "url": "https://marioadolfo.com/venezuelano-e-preso-por-tentativa-de-homicidio-contra-empresario-na-compensa/",
+   "url_hash": "73f7216faa59355a637dec9a"
+  },
+  "guid:6aee136152c09500099e136d": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Medida foi tomada após sindicato descumprir prazo para retomar o Passe Livre Estudantil",
+   "discovered_at": "2026-11-06T18:00:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aee136152c09500099e136d",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/88c80a45-d020-4032-8e41-a3dcf3c30ff1.jpg",
+   "key": "guid:6aee136152c09500099e136d",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-06T17:52:59+00:00",
+   "status": "pending",
+   "title": "Justiça determina bloqueio de R$ 5 milhões do Sinetram em Manaus",
+   "updated_at": "2026-11-06T18:00:19+00:00",
+   "url": "https://marioadolfo.com/justica-determina-bloqueio-de-r-5-milhoes-do-sinetram-em-manaus/",
+   "url_hash": "09a9421e8beb27bd41b9f829"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-06T17:50:16+00:00",
-  "saved_at": "2026-11-06T17:50:17+00:00"
+  "last_run_at": "2026-11-06T18:00:18+00:00",
+  "saved_at": "2026-11-06T18:00:19+00:00"
  },
  "schema": 1
 }
