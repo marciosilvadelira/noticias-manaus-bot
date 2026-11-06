@@ -19987,6 +19987,27 @@
    "url": "https://marioadolfo.com/pesquisa-aponta-aumento-de-3-79-no-valor-medio-da-cesta-basica-em-novembro/",
    "url_hash": "f5e12630fed1bac38b848a8a"
   },
+  "guid:6aedf55952c09500099e124d": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Acidente ocorreu durante serviços de drenagem; moradores foram informados de que o abastecimento poderá levar cerca de cinco horas para ser restabelecido",
+   "discovered_at": "2026-11-06T16:50:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aedf55952c09500099e124d",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6d93fa21-1a5b-416b-9436-cffdbe49a7ca.jpeg",
+   "key": "guid:6aedf55952c09500099e124d",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-06T16:49:22+00:00",
+   "status": "pending",
+   "title": "Obra do Ará Mirá rompe tubulação de gás e interrompe fornecimento na Morada do Sol, em Manaus",
+   "updated_at": "2026-11-06T16:50:17+00:00",
+   "url": "https://marioadolfo.com/obra-do-ara-mira-rompe-tubulacao-de-gas-e-interrompe-fornecimento-na-morada-do-sol-em-manaus/",
+   "url_hash": "acc532ed68d3d9e41becb41d"
+  },
   "guid:6aedf70052c09500099e1270": {
    "attempts": [],
    "category": "Polícia",
@@ -20075,8 +20096,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-06T16:40:15+00:00",
-  "saved_at": "2026-11-06T16:40:18+00:00"
+  "last_run_at": "2026-11-06T16:50:17+00:00",
+  "saved_at": "2026-11-06T16:50:18+00:00"
  },
  "schema": 1
 }
