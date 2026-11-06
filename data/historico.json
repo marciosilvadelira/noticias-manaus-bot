@@ -19986,13 +19986,97 @@
    "updated_at": "2026-11-06T15:50:16+00:00",
    "url": "https://marioadolfo.com/pesquisa-aponta-aumento-de-3-79-no-valor-medio-da-cesta-basica-em-novembro/",
    "url_hash": "f5e12630fed1bac38b848a8a"
+  },
+  "guid:6aedf70052c09500099e1270": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "O casal já estava separado há cerca de um ano",
+   "discovered_at": "2026-11-06T16:00:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aedf70052c09500099e1270",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/828d6961-6cf0-403e-b13f-beb00d286246.jpeg",
+   "key": "guid:6aedf70052c09500099e1270",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-06T15:50:21+00:00",
+   "status": "pending",
+   "title": "Em Tefé, homem é preso em flagrante por estupro e furto contra a ex-companheira",
+   "updated_at": "2026-11-06T16:00:21+00:00",
+   "url": "https://marioadolfo.com/em-tefe-homem-e-preso-em-flagrante-por-estupro-e-furto-contra-a-ex-companheira/",
+   "url_hash": "3802a62cf8606eb770a0eb6e"
+  },
+  "guid:6aedf78f52c09500099e1288": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Bloqueio começa às 23h e segue até a madrugada de segunda-feira (9); motoristas deverão utilizar desvio pela avenida Brasil",
+   "discovered_at": "2026-11-06T16:00:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aedf78f52c09500099e1288",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c185a56e-e730-42a5-bd54-6e8e2fb474ff.jpeg",
+   "key": "guid:6aedf78f52c09500099e1288",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-06T15:53:45+00:00",
+   "status": "pending",
+   "title": "Alça do Complexo Viário Passarão será interditada neste sábado (7)",
+   "updated_at": "2026-11-06T16:00:21+00:00",
+   "url": "https://marioadolfo.com/alca-do-complexo-viario-passarao-sera-interditada-neste-sabado-7/",
+   "url_hash": "3eb1e6b36c6f204d2e303118"
+  },
+  "guid:6aedf85252c09500099e12a1": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Iniciativa visa a agilizar a concessão ou indeferimento do benefício",
+   "discovered_at": "2026-11-06T16:00:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aedf85252c09500099e12a1",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/367efea1-4ee7-463b-81e3-1d74537c00ae.webp",
+   "key": "guid:6aedf85252c09500099e12a1",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-06T15:59:59+00:00",
+   "status": "pending",
+   "title": "Governo altera regras da perícia para concessão do auxílio-doença",
+   "updated_at": "2026-11-06T16:00:21+00:00",
+   "url": "https://marioadolfo.com/governo-altera-regras-da-pericia-para-concessao-do-auxilio-doenca/",
+   "url_hash": "c9c23e63dc13502651b5a94a"
+  },
+  "guid:6aedf8e752c09500099e12a8": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Com investimento total de cerca de R$ 54 milhões, projeto estadual viabiliza a construção de 50 estruturas que beneficiarão populações que dependem do transporte fluvial",
+   "discovered_at": "2026-11-06T16:00:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aedf8e752c09500099e12a8",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e3057881-9159-4d92-8eb1-7db798b681c1.jpeg",
+   "key": "guid:6aedf8e752c09500099e12a8",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-06T15:59:01+00:00",
+   "status": "pending",
+   "title": "Novos terminais flutuantes são enviados  para comunidades do interior do Amazonas",
+   "updated_at": "2026-11-06T16:00:21+00:00",
+   "url": "https://marioadolfo.com/novos-terminais-flutuantes-sao-enviados-para-comunidades-do-interior-do-amazonas/",
+   "url_hash": "c640cb8755d150dc53feee68"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-06T15:50:14+00:00",
-  "saved_at": "2026-11-06T15:50:17+00:00"
+  "last_run_at": "2026-11-06T16:00:20+00:00",
+  "saved_at": "2026-11-06T16:00:22+00:00"
  },
  "schema": 1
 }
