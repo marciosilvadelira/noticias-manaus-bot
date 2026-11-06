@@ -19390,12 +19390,12 @@
    "guid": "6aecd02c52c09500099e0f41",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/370d4376-7ae6-4740-920e-91b1b0c8b10a.jpeg",
    "key": "guid:6aecd02c52c09500099e0f41",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-05T18:52:01+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Ampliação do Complexo Azulão reforça geração de emprego qualificado no interior do Amazonas",
-   "updated_at": "2026-11-05T19:00:20+00:00",
+   "updated_at": "2026-11-06T19:00:19+00:00",
    "url": "https://marioadolfo.com/ampliacao-do-complexo-azulao-reforca-geracao-de-emprego-qualificado-no-interior-do-amazonas/",
    "url_hash": "7cf1310dd1cc2e9e2616eb93"
   },
@@ -20243,8 +20243,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-06T18:50:13+00:00",
-  "saved_at": "2026-11-06T18:50:15+00:00"
+  "last_run_at": "2026-11-06T19:00:18+00:00",
+  "saved_at": "2026-11-06T19:00:19+00:00"
  },
  "schema": 1
 }
