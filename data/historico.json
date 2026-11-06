@@ -19818,13 +19818,34 @@
    "updated_at": "2026-11-06T14:50:13+00:00",
    "url": "https://marioadolfo.com/ambar-energia-mobiliza-870-profissionais-para-o-enem-no-amazonas/",
    "url_hash": "a434ded95cb5ec9b345ce1c9"
+  },
+  "guid:6aedea5f52c09500099e118e": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "As circunstâncias do acidente ainda deverão ser esclarecidas pela Capitania dos Portos, responsável pela apuração",
+   "discovered_at": "2026-11-06T15:00:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aedea5f52c09500099e118e",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c26fa07d-1456-4455-8cc7-0db3d5f7f95f.png",
+   "key": "guid:6aedea5f52c09500099e118e",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-06T14:59:21+00:00",
+   "status": "pending",
+   "title": "Vídeo: embarcação bate em barranco próximo a Novo Airão",
+   "updated_at": "2026-11-06T15:00:21+00:00",
+   "url": "https://marioadolfo.com/video-embarcacao-bate-em-barranco-proximo-a-novo-airao/",
+   "url_hash": "4b49de14f6f05095157c162e"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-06T14:50:13+00:00",
-  "saved_at": "2026-11-06T14:50:13+00:00"
+  "last_run_at": "2026-11-06T15:00:21+00:00",
+  "saved_at": "2026-11-06T15:00:22+00:00"
  },
  "schema": 1
 }
