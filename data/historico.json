@@ -19671,13 +19671,55 @@
    "updated_at": "2026-11-06T13:00:19+00:00",
    "url": "https://marioadolfo.com/retirada-de-fios-sem-uso-no-centro-deve-alcancar-70-quilometros-em-manaus/",
    "url_hash": "bf68e7c996a289f92090d000"
+  },
+  "guid:6aede06952c09500099e10ea": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "O certame prevê a seleção de 14 projetos culturais, apresentados por agentes culturais de Manaus",
+   "discovered_at": "2026-11-06T14:20:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aede06952c09500099e10ea",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/475bbc36-8973-41c0-aa78-7afeb70d9773.jpg",
+   "key": "guid:6aede06952c09500099e10ea",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-06T14:15:27+00:00",
+   "status": "pending",
+   "title": "Prefeitura de Manaus lança edital para audiovisual com investimento de R$ 850 mil",
+   "updated_at": "2026-11-06T14:20:17+00:00",
+   "url": "https://marioadolfo.com/prefeitura-de-manaus-lanca-edital-de-fomento-ao-audiovisual-com-investimento-de-r-850-mil/",
+   "url_hash": "7795f4629e6c52693c0bdac6"
+  },
+  "guid:6aede11b52c09500099e1103": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Encontro com Werner Kornexl reuniu a vice-governadora eleita, Alessandra Campelo, e os deputados federais Sidney Leite e Pauderney Avelino",
+   "discovered_at": "2026-11-06T14:20:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aede11b52c09500099e1103",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/110915b7-94b7-4172-859f-a646f11f6ff4.jpeg",
+   "key": "guid:6aede11b52c09500099e1103",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-06T14:17:46+00:00",
+   "status": "pending",
+   "title": "Omar recebe coordenador do Banco Mundial e discute apoio a ações ambientais",
+   "updated_at": "2026-11-06T14:20:17+00:00",
+   "url": "https://marioadolfo.com/omar-aziz-recebe-coordenador-do-banco-mundial-e-discute-apoio-a-acoes-ambientais-no-am/",
+   "url_hash": "042ec8e622c0384fe59cc1a1"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-06T14:10:15+00:00",
-  "saved_at": "2026-11-06T14:10:19+00:00"
+  "last_run_at": "2026-11-06T14:20:16+00:00",
+  "saved_at": "2026-11-06T14:20:17+00:00"
  },
  "schema": 1
 }
