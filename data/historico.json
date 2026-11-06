@@ -19902,13 +19902,34 @@
    "updated_at": "2026-11-06T15:20:15+00:00",
    "url": "https://marioadolfo.com/caprichoso-e-cedem-lancam-livro-que-documenta-a-evolucao-dos-rituais/",
    "url_hash": "514546ece3eec8a6d78cc0e6"
+  },
+  "guid:6aedf15d52c09500099e11ef": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Marina Sena, Fresno, Karol Conká e Gaby Amarantos estão entre os destaques do evento, que acontece de 6 a 8 de dezembro, no Centro Cultural dos Povos da Amazônia",
+   "discovered_at": "2026-11-06T15:30:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aedf15d52c09500099e11ef",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/98422e7f-4059-4519-b784-50f18e18b1d8.jpeg",
+   "key": "guid:6aedf15d52c09500099e11ef",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-06T15:26:37+00:00",
+   "status": "pending",
+   "title": "Amazônia POP divulga horários dos shows das três noites do festival em Manaus",
+   "updated_at": "2026-11-06T15:30:19+00:00",
+   "url": "https://marioadolfo.com/amazonia-pop-divulga-horarios-dos-shows-das-tres-noites-do-festival-em-manaus-2/",
+   "url_hash": "e277f945b5cb83cbc6d5bdc2"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-06T15:20:15+00:00",
-  "saved_at": "2026-11-06T15:20:16+00:00"
+  "last_run_at": "2026-11-06T15:30:18+00:00",
+  "saved_at": "2026-11-06T15:30:20+00:00"
  },
  "schema": 1
 }
