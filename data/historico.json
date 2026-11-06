@@ -19306,12 +19306,12 @@
    "guid": "6aecba9b52c09500099e0edd",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/3c815556-3ec2-40ba-a2c3-c96bf96ab1f1.jpeg",
    "key": "guid:6aecba9b52c09500099e0edd",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-05T17:22:36+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Teatro Amazonas recebe pela espetáculo “Sinfonia da Floresta” nesta sexta-feira",
-   "updated_at": "2026-11-05T17:30:20+00:00",
+   "updated_at": "2026-11-06T17:30:16+00:00",
    "url": "https://marioadolfo.com/teatro-amazonas-recebe-pela-espetaculo-sinfonia-da-floresta-nesta-sexta-feira/",
    "url_hash": "ad5e4bb6d6ed0450d59e3dd0"
   },
@@ -19327,12 +19327,12 @@
    "guid": "6aecbb9b52c09500099e0ef5",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/01efc20e-da75-42fb-8c05-29a08b8f0c4c.jpeg",
    "key": "guid:6aecbb9b52c09500099e0ef5",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-05T17:27:47+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Leilão do TRT-11 reúne terrenos, imóveis, embarcação, veículos e outros bens no dia 30",
-   "updated_at": "2026-11-05T17:30:20+00:00",
+   "updated_at": "2026-11-06T17:30:16+00:00",
    "url": "https://marioadolfo.com/leilao-do-trt-11-reune-terrenos-imoveis-embarcacao-veiculos-e-outros-bens-no-dia-30/",
    "url_hash": "b3427a98b3f2403e2ada0537"
   },
@@ -19348,12 +19348,12 @@
    "guid": "6aecbcaf52c09500099e0f0c",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a8d72463-ea26-4631-8d3d-aafcbcc7735a.jpeg",
    "key": "guid:6aecbcaf52c09500099e0f0c",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-05T17:29:56+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Amazonas gera 4,4 mil empregos com carteira assinada em setembro",
-   "updated_at": "2026-11-05T17:30:20+00:00",
+   "updated_at": "2026-11-06T17:30:16+00:00",
    "url": "https://marioadolfo.com/amazonas-gera-4-4-mil-empregos-com-carteira-assinada-em-setembro/",
    "url_hash": "29caa6242d94379387c6b120"
   },
@@ -20091,13 +20091,55 @@
    "updated_at": "2026-11-06T16:00:21+00:00",
    "url": "https://marioadolfo.com/novos-terminais-flutuantes-sao-enviados-para-comunidades-do-interior-do-amazonas/",
    "url_hash": "c640cb8755d150dc53feee68"
+  },
+  "guid:6aee0cc052c09500099e12e6": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Paralisação pode começar a partir de 0h01 do dia 9. Categoria ameaçou greve caso salários não sejam pagos até sábado (7)",
+   "discovered_at": "2026-11-06T17:30:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aee0cc052c09500099e12e6",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/52ea0d26-e7aa-4be2-ac56-b4aab5724f4a.jpeg",
+   "key": "guid:6aee0cc052c09500099e12e6",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-06T17:24:12+00:00",
+   "status": "pending",
+   "title": "Rodoviários anunciam greve de até 70% da frota em Manaus na segunda-feira (9)",
+   "updated_at": "2026-11-06T17:30:16+00:00",
+   "url": "https://marioadolfo.com/rodoviarios-anunciam-greve-de-ate-70-da-frota-em-manaus-na-segunda-feira-9/",
+   "url_hash": "316657b5805e0e36e727969f"
+  },
+  "guid:6aee0d7252c09500099e1302": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "AGU informa que vai recorrer da decisão",
+   "discovered_at": "2026-11-06T17:30:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aee0d7252c09500099e1302",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/fa6eabe9-01da-4d7e-a7b5-4e69db909be4.webp",
+   "key": "guid:6aee0d7252c09500099e1302",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-06T17:26:17+00:00",
+   "status": "pending",
+   "title": "Justiça autoriza volta do funcionamento de três bets no Brasil",
+   "updated_at": "2026-11-06T17:30:16+00:00",
+   "url": "https://marioadolfo.com/justica-autoriza-volta-do-funcionamento-de-tres-bets-no-brasil/",
+   "url_hash": "e8cbb558cbcf1dcc6b5fbbcc"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-06T17:20:13+00:00",
-  "saved_at": "2026-11-06T17:20:15+00:00"
+  "last_run_at": "2026-11-06T17:30:15+00:00",
+  "saved_at": "2026-11-06T17:30:17+00:00"
  },
  "schema": 1
 }
