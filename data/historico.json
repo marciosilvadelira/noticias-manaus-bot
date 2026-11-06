@@ -19411,12 +19411,12 @@
    "guid": "6aecd08152c09500099e0f54",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/018e3c86-34ff-45be-8887-844b5a07cb34.jpg",
    "key": "guid:6aecd08152c09500099e0f54",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-05T18:40:00+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Obra do complexo Passarão alcança 66% e avança para construção da rotatória na zona Oeste",
-   "updated_at": "2026-11-05T19:00:20+00:00",
+   "updated_at": "2026-11-06T18:40:14+00:00",
    "url": "https://marioadolfo.com/obra-do-complexo-passarao-alcanca-66-e-avanca-para-construcao-da-rotatoria-na-zona-oeste/",
    "url_hash": "a37e8ac0698060d61ab37a89"
   },
@@ -20243,8 +20243,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-06T18:30:17+00:00",
-  "saved_at": "2026-11-06T18:30:18+00:00"
+  "last_run_at": "2026-11-06T18:40:13+00:00",
+  "saved_at": "2026-11-06T18:40:15+00:00"
  },
  "schema": 1
 }
