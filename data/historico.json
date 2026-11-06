@@ -19713,13 +19713,55 @@
    "updated_at": "2026-11-06T14:20:17+00:00",
    "url": "https://marioadolfo.com/omar-aziz-recebe-coordenador-do-banco-mundial-e-discute-apoio-a-acoes-ambientais-no-am/",
    "url_hash": "042ec8e622c0384fe59cc1a1"
+  },
+  "guid:6aede1cc52c09500099e111e": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Atualização de dados é procedimento padrão do instituto",
+   "discovered_at": "2026-11-06T14:30:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aede1cc52c09500099e111e",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/614e201c-aa25-42df-9c04-014ffd0bbeea.jpg",
+   "key": "guid:6aede1cc52c09500099e111e",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-06T14:21:44+00:00",
+   "status": "pending",
+   "title": "IBGE confirma crescimento de 3,4% da economia em 2024",
+   "updated_at": "2026-11-06T14:30:18+00:00",
+   "url": "https://marioadolfo.com/ibge-confirma-crescimento-de-3-4-da-economia-em-2024/",
+   "url_hash": "801d5684c5a227d3d58691a8"
+  },
+  "guid:6aede3be52c09500099e1137": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Desde a implantação do novo documento, o estado contabiliza mais de 1,3 milhão de CINs já emitidas",
+   "discovered_at": "2026-11-06T14:30:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aede3be52c09500099e1137",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/9e27d7c9-2b45-4118-8e50-4227c69eafca.jpeg",
+   "key": "guid:6aede3be52c09500099e1137",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-06T14:29:06+00:00",
+   "status": "pending",
+   "title": "AM emite mais de 360 mil Carteiras de Identidade entre janeiro e outubro de 2026",
+   "updated_at": "2026-11-06T14:30:18+00:00",
+   "url": "https://marioadolfo.com/am-emite-mais-de-360-mil-carteiras-de-identidade-entre-janeiro-e-outubro-de-2026/",
+   "url_hash": "233a08e1b55c30f41b37128b"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-06T14:20:16+00:00",
-  "saved_at": "2026-11-06T14:20:17+00:00"
+  "last_run_at": "2026-11-06T14:30:18+00:00",
+  "saved_at": "2026-11-06T14:30:19+00:00"
  },
  "schema": 1
 }
