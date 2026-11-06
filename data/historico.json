@@ -19881,13 +19881,34 @@
    "updated_at": "2026-11-06T15:10:14+00:00",
    "url": "https://marioadolfo.com/pf-investiga-grupo-que-transportava-drogas-em-voos-comerciais-no-am/",
    "url_hash": "a8da235f44744d1beaf74909"
+  },
+  "guid:6aedef7b52c09500099e11d9": {
+   "attempts": [],
+   "category": "Parintins",
+   "description": "Obra reúne registros de mais de 30 anos de apresentações dos rituais do Caprichoso na arena do Bumbódromo",
+   "discovered_at": "2026-11-06T15:20:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aedef7b52c09500099e11d9",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c0a62d71-3c29-4ff2-991e-e4a7b07a4199.jpeg",
+   "key": "guid:6aedef7b52c09500099e11d9",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-06T15:18:53+00:00",
+   "status": "pending",
+   "title": "Caprichoso e CEDEM lançam livro que documenta a evolução dos Rituais",
+   "updated_at": "2026-11-06T15:20:15+00:00",
+   "url": "https://marioadolfo.com/caprichoso-e-cedem-lancam-livro-que-documenta-a-evolucao-dos-rituais/",
+   "url_hash": "514546ece3eec8a6d78cc0e6"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-06T15:10:14+00:00",
-  "saved_at": "2026-11-06T15:10:15+00:00"
+  "last_run_at": "2026-11-06T15:20:15+00:00",
+  "saved_at": "2026-11-06T15:20:16+00:00"
  },
  "schema": 1
 }
