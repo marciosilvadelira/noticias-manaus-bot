@@ -18737,24 +18737,33 @@
      "fb_post_id": null,
      "format": "link",
      "result": "uncertain"
+    },
+    {
+     "at": "2026-11-06T04:10:26+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1530416532442571",
+     "format": "link",
+     "result": "published"
     }
    ],
    "category": "Polícia",
    "description": "As ações têm como objetivo identificar e responsabilizar pessoas envolvidas em diferentes modalidades dessa prática criminosa",
    "discovered_at": "2026-11-05T13:20:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1530416532442571",
    "formats": [
     "link"
    ],
    "guid": "6aec803a52c09500099e0d0d",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/611ab0db-c1c3-4b13-8810-dba39fd46501.jpg",
    "key": "guid:6aec803a52c09500099e0d0d",
-   "note": "resultado incerto; será conferido antes de nova tentativa",
-   "posts": {},
+   "note": "não encontrada na Página; nova tentativa",
+   "posts": {
+    "link": "107393769293726_1530416532442571"
+   },
    "source_published_at": "2026-11-05T13:13:47+00:00",
-   "status": "uncertain",
+   "status": "published",
    "title": "PF deflagra três operações contra o abuso sexual infantojuvenil em Manaus",
-   "updated_at": "2026-11-06T04:01:44+00:00",
+   "updated_at": "2026-11-06T04:10:26+00:00",
    "url": "https://marioadolfo.com/pf-deflagra-tres-operacoes-contra-o-abuso-sexual-infantojuvenil-em-manaus/",
    "url_hash": "9c9c4bab265a3e0678ba94f8"
   },
@@ -18852,11 +18861,19 @@
    "url_hash": "c3f4b83b6f676befe452850f"
   },
   "guid:6aec8bf752c09500099e0d67": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-06T04:10:53+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1530416795775878",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Liminar suspendeu apoio policial à remoção de cerca de 40 pessoas e exige cumprimento de procedimentos prévios com atuação da Comissão de Soluções Fundiárias do TJAM",
    "discovered_at": "2026-11-05T14:10:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1530416795775878",
    "formats": [
     "link"
    ],
@@ -18864,20 +18881,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ae021239-42c0-4c72-aab2-780281fa6166.png",
    "key": "guid:6aec8bf752c09500099e0d67",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1530416795775878"
+   },
    "source_published_at": "2026-11-05T14:01:18+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Justiça suspende reintegração de posse prevista para esta quinta em Manaus",
-   "updated_at": "2026-11-05T14:10:16+00:00",
+   "updated_at": "2026-11-06T04:10:53+00:00",
    "url": "https://marioadolfo.com/justica-suspende-reintegracao-de-posse-prevista-para-esta-quinta-em-manaus/",
    "url_hash": "c52561a335a03c8e47a4e571"
   },
   "guid:6aec8d0752c09500099e0d7c": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-06T04:11:19+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1530417092442515",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Parintins",
    "description": "O alerta foi feito pela diretora do serviço, Eliana Castro, que destaca a necessidade de garantir o atendimento a pacientes internados nos hospitais",
    "discovered_at": "2026-11-05T14:10:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1530417092442515",
    "formats": [
     "link"
    ],
@@ -18885,20 +18912,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/93ee7c74-7ffa-4cf9-b026-ba1b85eb52f6.jpeg",
    "key": "guid:6aec8d0752c09500099e0d7c",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1530417092442515"
+   },
    "source_published_at": "2026-11-05T14:06:01+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Núcleo de Hemoterapia pede mobilização de doadores em Parintins",
-   "updated_at": "2026-11-05T14:10:16+00:00",
+   "updated_at": "2026-11-06T04:11:19+00:00",
    "url": "https://marioadolfo.com/nucleo-de-hemoterapia-pede-mobilizacao-de-doadores-em-parintins/",
    "url_hash": "ea2eac9bf0777b6a8b130b26"
   },
   "guid:6aec8d5e52c09500099e0d91": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-06T04:11:45+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1530417335775824",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Testemunhas relataram que os atiradores já aguardavam a chegada do homem.",
    "discovered_at": "2026-11-05T14:20:14+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1530417335775824",
    "formats": [
     "link"
    ],
@@ -18906,20 +18943,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/61c47000-dd56-4336-ba60-7af42aff9f52.jpg",
    "key": "guid:6aec8d5e52c09500099e0d91",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1530417335775824"
+   },
    "source_published_at": "2026-11-05T14:10:36+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Passageiro é morto a tiros ao chegar de lancha na Balsa Amarela",
-   "updated_at": "2026-11-05T14:20:14+00:00",
+   "updated_at": "2026-11-06T04:11:45+00:00",
    "url": "https://marioadolfo.com/passageiro-e-morto-a-tiros-ao-chegar-de-lancha-na-balsa-amarela/",
    "url_hash": "29a8822dea024ce4f3227e48"
   },
   "guid:6aec90ed52c09500099e0db4": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-06T04:12:13+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1530417635775794",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Vítima estava com mãos e pés amarrados e apresentava várias lesões pelo corpo",
    "discovered_at": "2026-11-05T14:30:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1530417635775794",
    "formats": [
     "link"
    ],
@@ -18927,11 +18974,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f539fcd7-32e7-483a-98c8-d9224e92c11c.jpg",
    "key": "guid:6aec90ed52c09500099e0db4",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1530417635775794"
+   },
    "source_published_at": "2026-11-05T14:26:18+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Homem é encontrado ferido e amarrado no Ramal do Brasileirinho",
-   "updated_at": "2026-11-05T14:30:17+00:00",
+   "updated_at": "2026-11-06T04:12:13+00:00",
    "url": "https://marioadolfo.com/homem-e-encontrado-ferido-e-amarrado-no-ramal-do-brasileirinho/",
    "url_hash": "63bfde3cbe5011c4d19827d4"
   },
@@ -19464,8 +19513,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-06T04:00:19+00:00",
-  "saved_at": "2026-11-06T04:03:00+00:00"
+  "last_run_at": "2026-11-06T04:10:15+00:00",
+  "saved_at": "2026-11-06T04:12:13+00:00"
  },
  "schema": 1
 }
