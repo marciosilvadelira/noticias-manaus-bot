@@ -20217,13 +20217,34 @@
    "updated_at": "2026-11-06T18:00:19+00:00",
    "url": "https://marioadolfo.com/justica-determina-bloqueio-de-r-5-milhoes-do-sinetram-em-manaus/",
    "url_hash": "09a9421e8beb27bd41b9f829"
+  },
+  "guid:6aee17ef52c09500099e139b": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Primeira reunião foi gerenciada pela vice-governadora eleita, Alessandra Campelo, seguindo orientação de Omar para garantir transparência no levantamento de dados",
+   "discovered_at": "2026-11-06T18:20:14+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aee17ef52c09500099e139b",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/49d7f61c-1017-4e23-a99a-c5677cb820af.jpeg",
+   "key": "guid:6aee17ef52c09500099e139b",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-06T18:11:27+00:00",
+   "status": "pending",
+   "title": "Comissão de Transição inicia trabalhos para sucessão no Governo do Amazonas",
+   "updated_at": "2026-11-06T18:20:14+00:00",
+   "url": "https://marioadolfo.com/comissao-de-transicao-inicia-trabalhos-para-sucessao-no-governo-do-amazonas/",
+   "url_hash": "77b89d5e99d856d564163748"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-06T18:10:14+00:00",
-  "saved_at": "2026-11-06T18:10:15+00:00"
+  "last_run_at": "2026-11-06T18:20:13+00:00",
+  "saved_at": "2026-11-06T18:20:14+00:00"
  },
  "schema": 1
 }
