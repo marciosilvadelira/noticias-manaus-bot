@@ -19755,13 +19755,76 @@
    "updated_at": "2026-11-06T14:30:18+00:00",
    "url": "https://marioadolfo.com/am-emite-mais-de-360-mil-carteiras-de-identidade-entre-janeiro-e-outubro-de-2026/",
    "url_hash": "233a08e1b55c30f41b37128b"
+  },
+  "guid:6aede6e152c09500099e114d": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Reginaldo Paiva Campos, de 55 anos, estava com os tornozelos amarrados dentro do próprio estabelecimento.",
+   "discovered_at": "2026-11-06T14:50:13+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aede6e152c09500099e114d",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/58e9ece1-36a6-4236-ba81-a59bbc50dd22.jpg",
+   "key": "guid:6aede6e152c09500099e114d",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-06T14:42:10+00:00",
+   "status": "pending",
+   "title": "Cabeleireiro é encontrado morto com tornozelos amarrados em salão em Autazes",
+   "updated_at": "2026-11-06T14:50:13+00:00",
+   "url": "https://marioadolfo.com/cabeleireiro-e-encontrado-morto-com-tornozelos-amarrados-em-salao-em-autazes/",
+   "url_hash": "f654f0f187311c1801432001"
+  },
+  "guid:6aede77852c09500099e1162": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Iniciativa beneficia aproximadamente mil estudantes na zona rural de Manaus.",
+   "discovered_at": "2026-11-06T14:50:13+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aede77852c09500099e1162",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e43a150d-695a-4b27-975f-f5302ac813b3.jpeg",
+   "key": "guid:6aede77852c09500099e1162",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-06T14:44:33+00:00",
+   "status": "pending",
+   "title": "Aegea e Unicef levam soluções de saneamento e higiene a escolas ribeirinhas de Manaus",
+   "updated_at": "2026-11-06T14:50:13+00:00",
+   "url": "https://marioadolfo.com/aegea-e-unicef-levam-solucoes-de-saneamento-e-higiene-a-escolas-ribeirinhas-de-manaus/",
+   "url_hash": "6c62f171a743227bc9af18b7"
+  },
+  "guid:6aede82a52c09500099e117a": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "O plano de contingência abrange a capital e o interior e tem como objetivo reduzir o risco de interrupções não programadas",
+   "discovered_at": "2026-11-06T14:50:13+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aede82a52c09500099e117a",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/49848bc1-9ea5-4f2a-91e7-aaa807dd2df3.jpeg",
+   "key": "guid:6aede82a52c09500099e117a",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-06T14:46:34+00:00",
+   "status": "pending",
+   "title": "Âmbar Energia mobiliza 870 profissionais para o Enem no Amazonas",
+   "updated_at": "2026-11-06T14:50:13+00:00",
+   "url": "https://marioadolfo.com/ambar-energia-mobiliza-870-profissionais-para-o-enem-no-amazonas/",
+   "url_hash": "a434ded95cb5ec9b345ce1c9"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-06T14:40:14+00:00",
-  "saved_at": "2026-11-06T14:40:16+00:00"
+  "last_run_at": "2026-11-06T14:50:13+00:00",
+  "saved_at": "2026-11-06T14:50:13+00:00"
  },
  "schema": 1
 }
