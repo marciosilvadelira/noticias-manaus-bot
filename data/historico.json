@@ -19432,12 +19432,12 @@
    "guid": "6aecd3cf52c09500099e0f6a",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0dd10327-3985-468d-81cb-7dfe0d1edb38.jpeg",
    "key": "guid:6aecd3cf52c09500099e0f6a",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-05T19:09:30+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Bombeiros enviam 16 militares e cinco viaturas para reforçar combate a incêndios em Parintins",
-   "updated_at": "2026-11-05T19:10:17+00:00",
+   "updated_at": "2026-11-06T19:10:15+00:00",
    "url": "https://marioadolfo.com/bombeiros-enviam-16-militares-e-cinco-viaturas-para-reforcar-combate-a-incendios-em-parintins/",
    "url_hash": "cda091fea9165f79dfa06991"
   },
@@ -20243,8 +20243,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-06T19:00:18+00:00",
-  "saved_at": "2026-11-06T19:00:19+00:00"
+  "last_run_at": "2026-11-06T19:10:14+00:00",
+  "saved_at": "2026-11-06T19:10:16+00:00"
  },
  "schema": 1
 }
