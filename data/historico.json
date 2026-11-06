@@ -19944,13 +19944,55 @@
    "updated_at": "2026-11-06T15:40:13+00:00",
    "url": "https://marioadolfo.com/dupla-e-presa-suspeita-de-matar-jovem-que-saiu-de-centro-de-reabilitacao/",
    "url_hash": "7f528e676c23f8691200e27e"
+  },
+  "guid:6aedf48452c09500099e1230": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "A operação cumpriu uma mandado de prisão preventiva contra um suspeito em Tabatinga",
+   "discovered_at": "2026-11-06T15:50:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aedf48452c09500099e1230",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0c1eea83-555e-4bf2-9f24-8b3bd9893afd.jpeg",
+   "key": "guid:6aedf48452c09500099e1230",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-06T15:40:40+00:00",
+   "status": "pending",
+   "title": "PF investiga grupo por possível falsificação de documentos públicos",
+   "updated_at": "2026-11-06T15:50:16+00:00",
+   "url": "https://marioadolfo.com/pf-investiga-grupo-por-possivel-falsificacao-de-documentos-publicos/",
+   "url_hash": "39749193cc531163d347886c"
+  },
+  "guid:6aedf51c52c09500099e1247": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Neste mês, a média registrada foi de R$ 300,23, enquanto, no mês anterior, o valor foi de R$ 289,27",
+   "discovered_at": "2026-11-06T15:50:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aedf51c52c09500099e1247",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/571e379e-8827-4ecf-a6f2-0070d24fbd37.jpeg",
+   "key": "guid:6aedf51c52c09500099e1247",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-06T15:43:15+00:00",
+   "status": "pending",
+   "title": "Pesquisa aponta aumento de 3,79% no valor médio da cesta básica em novembro",
+   "updated_at": "2026-11-06T15:50:16+00:00",
+   "url": "https://marioadolfo.com/pesquisa-aponta-aumento-de-3-79-no-valor-medio-da-cesta-basica-em-novembro/",
+   "url_hash": "f5e12630fed1bac38b848a8a"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-06T15:40:13+00:00",
-  "saved_at": "2026-11-06T15:40:14+00:00"
+  "last_run_at": "2026-11-06T15:50:14+00:00",
+  "saved_at": "2026-11-06T15:50:17+00:00"
  },
  "schema": 1
 }
