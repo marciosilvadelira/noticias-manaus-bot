@@ -19140,11 +19140,19 @@
    "url_hash": "22555480409e1b94d71c0c08"
   },
   "guid:6aeca3a352c09500099e0e47": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-06T04:30:27+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1530430385774519",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Nas ações também foram destruíram seis aeronaves e apreenderam outras quatro",
    "discovered_at": "2026-11-05T15:50:20+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1530430385774519",
    "formats": [
     "link"
    ],
@@ -19152,20 +19160,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a5040133-6d99-41c2-a6f5-ddfc3120328c.jpeg",
    "key": "guid:6aeca3a352c09500099e0e47",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1530430385774519"
+   },
    "source_published_at": "2026-11-05T15:43:58+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "PF destrói 15 pistas de pouso clandestinas de garimpo em terra indígena",
-   "updated_at": "2026-11-05T15:50:20+00:00",
+   "updated_at": "2026-11-06T04:30:27+00:00",
    "url": "https://marioadolfo.com/pf-destroi-15-pistas-de-pouso-clandestinas-de-garimpo-em-terra-indigena/",
    "url_hash": "3ecea8c2dcef65c552083918"
   },
   "guid:6aeca4c252c09500099e0e5d": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-06T04:30:53+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1530430645774493",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "A entrega do kit acontece na loja Shop do Pé Sports, no segundo piso do shopping",
    "discovered_at": "2026-11-05T15:50:20+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1530430645774493",
    "formats": [
     "link"
    ],
@@ -19173,20 +19191,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/af2d5ff3-5ab6-46a4-8fc4-6e6e916e04cc.jpeg",
    "key": "guid:6aeca4c252c09500099e0e5d",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1530430645774493"
+   },
    "source_published_at": "2026-11-05T15:47:52+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Amazonas Shopping realiza entrega de kits para corrida nesta sexta-feira e sábado",
-   "updated_at": "2026-11-05T15:50:20+00:00",
+   "updated_at": "2026-11-06T04:30:53+00:00",
    "url": "https://marioadolfo.com/amazonas-shopping-realiza-entrega-de-kits-para-corrida-nesta-sexta-feira-e-sabado/",
    "url_hash": "a601ef6106f5ca501ba58d33"
   },
   "guid:6aeca58252c09500099e0e71": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-06T04:31:18+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1530430912441133",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Ipaam orienta sobre documentos, custos e procedimentos para perfurar poços tubulares e utilizar a água",
    "discovered_at": "2026-11-05T16:00:24+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1530430912441133",
    "formats": [
     "link"
    ],
@@ -19194,20 +19222,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6fd0b408-97fc-4585-87d7-d1567fbaf61c.jpeg",
    "key": "guid:6aeca58252c09500099e0e71",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1530430912441133"
+   },
    "source_published_at": "2026-11-05T15:52:14+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Perfurar poço sem autorização pode gerar multas de até R$ 100 mil",
-   "updated_at": "2026-11-05T16:00:24+00:00",
+   "updated_at": "2026-11-06T04:31:18+00:00",
    "url": "https://marioadolfo.com/perfurar-poco-sem-autorizacao-pode-gerar-multas-de-ate-r-100-mil/",
    "url_hash": "e5a258d5c332411a25df7003"
   },
   "guid:6aecb26152c09500099e0e9d": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-06T04:31:42+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1530431162441108",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "A campanha tem como objetivo evitar que a doença volte a circular na capital amazonense, que não registra casos da doença",
    "discovered_at": "2026-11-05T16:50:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1530431162441108",
    "formats": [
     "link"
    ],
@@ -19215,20 +19253,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b0b0a79e-3834-4e01-9687-f30f4334c844.jpeg",
    "key": "guid:6aecb26152c09500099e0e9d",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1530431162441108"
+   },
    "source_published_at": "2026-11-05T16:48:46+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Manaus terá ‘Dia D’ de vacinação contra o sarampo neste sábado (7)",
-   "updated_at": "2026-11-05T16:50:15+00:00",
+   "updated_at": "2026-11-06T04:31:42+00:00",
    "url": "https://marioadolfo.com/manaus-tera-dia-d-de-vacinacao-contra-o-sarampo-neste-sabado-7/",
    "url_hash": "24c3786d9276a9b753e051db"
   },
   "guid:6aecb40c52c09500099e0ebf": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-06T04:32:08+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1530431512441073",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Cerimônia oficializa os resultados das urnas e marca a última etapa do processo eleitoral antes da posse dos novos representantes",
    "discovered_at": "2026-11-05T17:00:19+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1530431512441073",
    "formats": [
     "link"
    ],
@@ -19236,11 +19284,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ae8e48b9-8374-4c26-8bc3-b7a5c0380408.jpeg",
    "key": "guid:6aecb40c52c09500099e0ebf",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1530431512441073"
+   },
    "source_published_at": "2026-11-05T16:53:51+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Eleitos no Amazonas serão diplomados no dia 18 de dezembro no TJAM",
-   "updated_at": "2026-11-05T17:00:19+00:00",
+   "updated_at": "2026-11-06T04:32:08+00:00",
    "url": "https://marioadolfo.com/eleitos-no-amazonas-serao-diplomados-no-dia-18-de-dezembro-no-tjam/",
    "url_hash": "d6523a32a15ff6fe714c37f0"
   },
@@ -19563,8 +19613,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-06T04:20:14+00:00",
-  "saved_at": "2026-11-06T04:22:14+00:00"
+  "last_run_at": "2026-11-06T04:30:18+00:00",
+  "saved_at": "2026-11-06T04:32:08+00:00"
  },
  "schema": 1
 }
