@@ -19629,13 +19629,34 @@
    "updated_at": "2026-11-06T10:40:18+00:00",
    "url": "https://marioadolfo.com/policia-civil-amanhece-na-casa-de-maria-do-carmo/",
    "url_hash": "f70d2d6b20f55c304127b252"
+  },
+  "guid:6aedc62c52c09500099e1079": {
+   "attempts": [],
+   "category": "Dito & Feito",
+   "description": "Flávio perdeu a disputa pela Presidência da República, Jair vai perder a patente militar e Eduardo, condenado pelo STF não poderá retornar tão cedo ao Brasil, senão será preso",
+   "discovered_at": "2026-11-06T12:40:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aedc62c52c09500099e1079",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/83b6a058-28fa-4e10-b632-e5d6ce46bd5c.jpeg",
+   "key": "guid:6aedc62c52c09500099e1079",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-06T12:36:56+00:00",
+   "status": "pending",
+   "title": "Dito & Feito: A CASA CAIU PARA FAMÍLIA BOLSONARO",
+   "updated_at": "2026-11-06T12:40:15+00:00",
+   "url": "https://marioadolfo.com/dito-feito-a-casa-caiu-para-familia-bolsonaro/",
+   "url_hash": "f07cd0b3e106fe4ac2d6f4ac"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-06T12:30:17+00:00",
-  "saved_at": "2026-11-06T12:30:18+00:00"
+  "last_run_at": "2026-11-06T12:40:14+00:00",
+  "saved_at": "2026-11-06T12:40:16+00:00"
  },
  "schema": 1
 }
