@@ -19608,13 +19608,34 @@
    "updated_at": "2026-11-05T22:10:14+00:00",
    "url": "https://marioadolfo.com/renato-junior-articula-agenda-conjunta-com-omar-aziz-eduardo-braga-e-36-vereadores-de-manaus/",
    "url_hash": "31686707a2286c609abb87d2"
+  },
+  "guid:6aedac8452c09500099e105e": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Operação ocorreu na manhã desta sexta-feira (6) e faz parte de investigação sobre a divulgação de vídeo manipulado envolvendo a imagem da filha do governador eleito Omar Aziz.",
+   "discovered_at": "2026-11-06T10:40:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aedac8452c09500099e105e",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6429d553-bd5a-4371-bc87-efae4323e93d.jpeg",
+   "key": "guid:6aedac8452c09500099e105e",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-06T10:36:31+00:00",
+   "status": "pending",
+   "title": "Polícia Civil amanhece na casa de Maria do Carmo",
+   "updated_at": "2026-11-06T10:40:18+00:00",
+   "url": "https://marioadolfo.com/policia-civil-amanhece-na-casa-de-maria-do-carmo/",
+   "url_hash": "f70d2d6b20f55c304127b252"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-06T10:30:17+00:00",
-  "saved_at": "2026-11-06T10:30:18+00:00"
+  "last_run_at": "2026-11-06T10:40:17+00:00",
+  "saved_at": "2026-11-06T10:40:19+00:00"
  },
  "schema": 1
 }
