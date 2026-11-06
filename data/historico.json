@@ -19600,12 +19600,12 @@
    "guid": "6aecfc4752c09500099e103f",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/7ac7395c-73f2-4e22-b7c0-6313fb5f64c1.jpg",
    "key": "guid:6aecfc4752c09500099e103f",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-05T22:04:00+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Renato Junior articula agenda conjunta com Omar Aziz, Eduardo Braga e 36 vereadores de Manaus",
-   "updated_at": "2026-11-05T22:10:14+00:00",
+   "updated_at": "2026-11-06T22:10:15+00:00",
    "url": "https://marioadolfo.com/renato-junior-articula-agenda-conjunta-com-omar-aziz-eduardo-braga-e-36-vereadores-de-manaus/",
    "url_hash": "31686707a2286c609abb87d2"
   },
@@ -20306,8 +20306,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-06T22:03:37+00:00",
-  "saved_at": "2026-11-06T22:03:38+00:00"
+  "last_run_at": "2026-11-06T22:10:15+00:00",
+  "saved_at": "2026-11-06T22:10:15+00:00"
  },
  "schema": 1
 }
