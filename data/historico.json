@@ -20501,13 +20501,34 @@
    "updated_at": "2026-11-06T21:00:23+00:00",
    "url": "https://marioadolfo.com/tce-am-orienta-orgaos-sobre-determinacao-para-gestao-de-residuos-no-carnaval-de-manaus-2027/",
    "url_hash": "f5574d185abdc0a94f7c4737"
+  },
+  "guid:6aee6a0c52c09500099e1416": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Ele foi preso em flagrante no dia 14 de outubro após manter o próprio filho, de apenas 1 ano de idade, sob cárcere privado e ameaça",
+   "discovered_at": "2026-11-07T11:50:13+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aee6a0c52c09500099e1416",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ae674854-0a37-45ac-a795-9f8d02410590.png",
+   "key": "guid:6aee6a0c52c09500099e1416",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-07T11:40:56+00:00",
+   "status": "pending",
+   "title": "Homem que fez filho de 1 ano refém em Manaus morre dentro de presídio",
+   "updated_at": "2026-11-07T11:50:13+00:00",
+   "url": "https://marioadolfo.com/homem-que-fez-filho-de-1-ano-refem-em-manaus-morre-dentro-de-presidio/",
+   "url_hash": "19a60d6e42fc547425368232"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-07T11:40:14+00:00",
-  "saved_at": "2026-11-07T11:40:15+00:00"
+  "last_run_at": "2026-11-07T11:50:13+00:00",
+  "saved_at": "2026-11-07T11:50:14+00:00"
  },
  "schema": 1
 }
