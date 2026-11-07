@@ -20627,13 +20627,34 @@
    "updated_at": "2026-11-07T15:00:22+00:00",
    "url": "https://marioadolfo.com/no-am-mais-de-41-mil-alunos-da-rede-estadual-estao-inscritos-para-o-enem-2026/",
    "url_hash": "555614558b9ad1d2681d27bc"
+  },
+  "guid:6aef3f6452c09500099e14c5": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Cantor amazonense foi a principal atração do Amazonas Solidário, que também teve apresentações de Garantido e Caprichoso para arrecadar alimentos às famílias atingidas pela estiagem e pelas queimadas",
+   "discovered_at": "2026-11-07T15:20:14+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aef3f6452c09500099e14c5",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/89acd314-b811-439c-8e80-b3daeecca9c1.jpeg",
+   "key": "guid:6aef3f6452c09500099e14c5",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-07T15:12:05+00:00",
+   "status": "pending",
+   "title": "Filho do Piseiro comanda noite de música e solidariedade promovida por Eduardo Braga",
+   "updated_at": "2026-11-07T15:20:14+00:00",
+   "url": "https://marioadolfo.com/filho-do-piseiro-comanda-noite-de-musica-e-solidariedade-promovida-por-eduardo-braga/",
+   "url_hash": "ae05ea7ba5722b97a0280d14"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-07T15:10:14+00:00",
-  "saved_at": "2026-11-07T15:10:15+00:00"
+  "last_run_at": "2026-11-07T15:20:14+00:00",
+  "saved_at": "2026-11-07T15:20:15+00:00"
  },
  "schema": 1
 }
