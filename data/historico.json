@@ -20543,13 +20543,34 @@
    "updated_at": "2026-11-07T11:50:13+00:00",
    "url": "https://marioadolfo.com/homem-que-fez-filho-de-1-ano-refem-em-manaus-morre-dentro-de-presidio/",
    "url_hash": "19a60d6e42fc547425368232"
+  },
+  "guid:6aef192a52c09500099e145d": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Evento reúne misticismo, oráculos, dança, música, terapias alternativas e empreendedorismo nos dias 28 e 29 de novembro no Mercado de Origem da Amazônia",
+   "discovered_at": "2026-11-07T12:40:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aef192a52c09500099e145d",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/28568cc8-3cea-4362-9f29-29762f42ab26.jpg",
+   "key": "guid:6aef192a52c09500099e145d",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-07T12:30:50+00:00",
+   "status": "pending",
+   "title": "Manaus recebe a 1ª edição da Feira Mágica da Amazônia com programação cultural gratuita",
+   "updated_at": "2026-11-07T12:40:15+00:00",
+   "url": "https://marioadolfo.com/manaus-recebe-a-1a-edicao-da-feira-magica-da-amazonia-com-programacao-cultural-gratuita/",
+   "url_hash": "1fc25c369681d467e6c10e17"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-07T12:30:17+00:00",
-  "saved_at": "2026-11-07T12:30:18+00:00"
+  "last_run_at": "2026-11-07T12:40:14+00:00",
+  "saved_at": "2026-11-07T12:40:17+00:00"
  },
  "schema": 1
 }
