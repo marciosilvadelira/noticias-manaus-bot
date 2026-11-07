@@ -20075,11 +20075,19 @@
    "url_hash": "e277f945b5cb83cbc6d5bdc2"
   },
   "guid:6aedf25052c09500099e1205": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-07T04:30:42+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1531479802336244",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Lucas dos Santos Nascimento, de 26 anos, havia sido acolhido, no dia 6 de agosto, em uma instituição de recuperação de pessoas com dependência química na BR-174",
    "discovered_at": "2026-11-06T15:40:13+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1531479802336244",
    "formats": [
     "link"
    ],
@@ -20087,20 +20095,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/7b6a9222-6fd0-44b9-83bb-96534eddce70.png",
    "key": "guid:6aedf25052c09500099e1205",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1531479802336244"
+   },
    "source_published_at": "2026-11-06T15:33:52+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Dupla é presa suspeita de matar jovem que saiu de centro de reabilitação",
-   "updated_at": "2026-11-06T15:40:13+00:00",
+   "updated_at": "2026-11-07T04:30:42+00:00",
    "url": "https://marioadolfo.com/dupla-e-presa-suspeita-de-matar-jovem-que-saiu-de-centro-de-reabilitacao/",
    "url_hash": "7f528e676c23f8691200e27e"
   },
   "guid:6aedf48452c09500099e1230": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-07T04:31:10+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1531480852336139",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "A operação cumpriu uma mandado de prisão preventiva contra um suspeito em Tabatinga",
    "discovered_at": "2026-11-06T15:50:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1531480852336139",
    "formats": [
     "link"
    ],
@@ -20108,20 +20126,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0c1eea83-555e-4bf2-9f24-8b3bd9893afd.jpeg",
    "key": "guid:6aedf48452c09500099e1230",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1531480852336139"
+   },
    "source_published_at": "2026-11-06T15:40:40+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "PF investiga grupo por possível falsificação de documentos públicos",
-   "updated_at": "2026-11-06T15:50:16+00:00",
+   "updated_at": "2026-11-07T04:31:10+00:00",
    "url": "https://marioadolfo.com/pf-investiga-grupo-por-possivel-falsificacao-de-documentos-publicos/",
    "url_hash": "39749193cc531163d347886c"
   },
   "guid:6aedf51c52c09500099e1247": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-07T04:31:36+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1531481645669393",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Neste mês, a média registrada foi de R$ 300,23, enquanto, no mês anterior, o valor foi de R$ 289,27",
    "discovered_at": "2026-11-06T15:50:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1531481645669393",
    "formats": [
     "link"
    ],
@@ -20129,11 +20157,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/571e379e-8827-4ecf-a6f2-0070d24fbd37.jpeg",
    "key": "guid:6aedf51c52c09500099e1247",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1531481645669393"
+   },
    "source_published_at": "2026-11-06T15:43:15+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Pesquisa aponta aumento de 3,79% no valor médio da cesta básica em novembro",
-   "updated_at": "2026-11-06T15:50:16+00:00",
+   "updated_at": "2026-11-07T04:31:36+00:00",
    "url": "https://marioadolfo.com/pesquisa-aponta-aumento-de-3-79-no-valor-medio-da-cesta-basica-em-novembro/",
    "url_hash": "f5e12630fed1bac38b848a8a"
   },
@@ -20159,11 +20189,19 @@
    "url_hash": "acc532ed68d3d9e41becb41d"
   },
   "guid:6aedf70052c09500099e1270": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-07T04:32:02+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1531482882335936",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "O casal já estava separado há cerca de um ano",
    "discovered_at": "2026-11-06T16:00:21+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1531482882335936",
    "formats": [
     "link"
    ],
@@ -20171,20 +20209,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/828d6961-6cf0-403e-b13f-beb00d286246.jpeg",
    "key": "guid:6aedf70052c09500099e1270",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1531482882335936"
+   },
    "source_published_at": "2026-11-06T15:50:21+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Em Tefé, homem é preso em flagrante por estupro e furto contra a ex-companheira",
-   "updated_at": "2026-11-06T16:00:21+00:00",
+   "updated_at": "2026-11-07T04:32:02+00:00",
    "url": "https://marioadolfo.com/em-tefe-homem-e-preso-em-flagrante-por-estupro-e-furto-contra-a-ex-companheira/",
    "url_hash": "3802a62cf8606eb770a0eb6e"
   },
   "guid:6aedf78f52c09500099e1288": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-07T04:32:26+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1531483799002511",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Bloqueio começa às 23h e segue até a madrugada de segunda-feira (9); motoristas deverão utilizar desvio pela avenida Brasil",
    "discovered_at": "2026-11-06T16:00:21+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1531483799002511",
    "formats": [
     "link"
    ],
@@ -20192,11 +20240,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c185a56e-e730-42a5-bd54-6e8e2fb474ff.jpeg",
    "key": "guid:6aedf78f52c09500099e1288",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1531483799002511"
+   },
    "source_published_at": "2026-11-06T15:53:45+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Alça do Complexo Viário Passarão será interditada neste sábado (7)",
-   "updated_at": "2026-11-06T16:00:21+00:00",
+   "updated_at": "2026-11-07T04:32:26+00:00",
    "url": "https://marioadolfo.com/alca-do-complexo-viario-passarao-sera-interditada-neste-sabado-7/",
    "url_hash": "3eb1e6b36c6f204d2e303118"
   },
@@ -20456,8 +20506,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-07T04:20:14+00:00",
-  "saved_at": "2026-11-07T04:22:00+00:00"
+  "last_run_at": "2026-11-07T04:30:17+00:00",
+  "saved_at": "2026-11-07T04:32:26+00:00"
  },
  "schema": 1
 }
