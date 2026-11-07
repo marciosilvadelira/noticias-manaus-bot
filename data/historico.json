@@ -20439,6 +20439,27 @@
    "url": "https://marioadolfo.com/comissao-de-transicao-inicia-trabalhos-para-sucessao-no-governo-do-amazonas/",
    "url_hash": "77b89d5e99d856d564163748"
   },
+  "guid:6aee1ad352c09500099e13ba": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Crianças de um ano de idade a jovens de até 29 anos precisam receber duas doses de vacina, enquanto os de 30 a 59 anos, uma dose",
+   "discovered_at": "2026-11-07T12:00:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aee1ad352c09500099e13ba",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d88d24f8-bd58-4604-82eb-4aab176b78d9.jpeg",
+   "key": "guid:6aee1ad352c09500099e13ba",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-07T12:00:17+00:00",
+   "status": "pending",
+   "title": "Manaus realiza ‘Dia D’ contra o sarampo em 10 unidades de saúde neste sábado (7)",
+   "updated_at": "2026-11-07T12:00:19+00:00",
+   "url": "https://marioadolfo.com/manaus-realiza-dia-d-contra-o-sarampo-em-10-unidades-de-saude-neste-sabado-7/",
+   "url_hash": "76947b21e7805af591e3e1eb"
+  },
   "guid:6aee3a9a52c09500099e13c1": {
    "attempts": [],
    "category": "Amazonas",
@@ -20527,8 +20548,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-07T11:50:13+00:00",
-  "saved_at": "2026-11-07T11:50:14+00:00"
+  "last_run_at": "2026-11-07T12:00:19+00:00",
+  "saved_at": "2026-11-07T12:00:20+00:00"
  },
  "schema": 1
 }
