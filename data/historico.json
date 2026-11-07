@@ -20493,12 +20493,12 @@
    "guid": "6aee3c5c52c09500099e13d8",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/1aae7d14-e464-4103-af54-c47ee3cb22cb.webp",
    "key": "guid:6aee3c5c52c09500099e13d8",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-06T20:46:28+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Lula quer levar Brasil à condição de país desenvolvido em quatro anos",
-   "updated_at": "2026-11-06T20:50:14+00:00",
+   "updated_at": "2026-11-07T20:50:14+00:00",
    "url": "https://marioadolfo.com/lula-quer-levar-brasil-a-condicao-de-pais-desenvolvido-em-quatro-anos/",
    "url_hash": "57f77f871c0a7f8414271b2e"
   },
@@ -20695,8 +20695,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-07T20:40:14+00:00",
-  "saved_at": "2026-11-07T20:40:16+00:00"
+  "last_run_at": "2026-11-07T20:50:13+00:00",
+  "saved_at": "2026-11-07T20:50:14+00:00"
  },
  "schema": 1
 }
