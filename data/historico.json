@@ -20346,12 +20346,12 @@
    "guid": "6aee0f0152c09500099e1320",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/70065bd1-13f3-46d5-a8db-78d7eaf117ac.jpeg",
    "key": "guid:6aee0f0152c09500099e1320",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-06T17:36:06+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Amazonas registra redução de 29% nos casos de malária em 2026, diz FVS",
-   "updated_at": "2026-11-06T17:40:14+00:00",
+   "updated_at": "2026-11-07T17:40:14+00:00",
    "url": "https://marioadolfo.com/amazonas-registra-reducao-de-29-nos-casos-de-malaria-em-2026-diz-fvs/",
    "url_hash": "125b60540cd789cdd4e37858"
   },
@@ -20695,8 +20695,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-07T17:30:17+00:00",
-  "saved_at": "2026-11-07T17:30:19+00:00"
+  "last_run_at": "2026-11-07T17:40:14+00:00",
+  "saved_at": "2026-11-07T17:40:15+00:00"
  },
  "schema": 1
 }
