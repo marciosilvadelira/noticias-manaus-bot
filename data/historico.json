@@ -19765,11 +19765,19 @@
    "url_hash": "042ec8e622c0384fe59cc1a1"
   },
   "guid:6aede1cc52c09500099e111e": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-07T04:10:22+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1531457462338478",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Atualização de dados é procedimento padrão do instituto",
    "discovered_at": "2026-11-06T14:30:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1531457462338478",
    "formats": [
     "link"
    ],
@@ -19777,20 +19785,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/614e201c-aa25-42df-9c04-014ffd0bbeea.jpg",
    "key": "guid:6aede1cc52c09500099e111e",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1531457462338478"
+   },
    "source_published_at": "2026-11-06T14:21:44+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "IBGE confirma crescimento de 3,4% da economia em 2024",
-   "updated_at": "2026-11-06T14:30:18+00:00",
+   "updated_at": "2026-11-07T04:10:22+00:00",
    "url": "https://marioadolfo.com/ibge-confirma-crescimento-de-3-4-da-economia-em-2024/",
    "url_hash": "801d5684c5a227d3d58691a8"
   },
   "guid:6aede3be52c09500099e1137": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-07T04:10:47+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1531457705671787",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Desde a implantação do novo documento, o estado contabiliza mais de 1,3 milhão de CINs já emitidas",
    "discovered_at": "2026-11-06T14:30:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1531457705671787",
    "formats": [
     "link"
    ],
@@ -19798,20 +19816,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/9e27d7c9-2b45-4118-8e50-4227c69eafca.jpeg",
    "key": "guid:6aede3be52c09500099e1137",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1531457705671787"
+   },
    "source_published_at": "2026-11-06T14:29:06+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "AM emite mais de 360 mil Carteiras de Identidade entre janeiro e outubro de 2026",
-   "updated_at": "2026-11-06T14:30:18+00:00",
+   "updated_at": "2026-11-07T04:10:47+00:00",
    "url": "https://marioadolfo.com/am-emite-mais-de-360-mil-carteiras-de-identidade-entre-janeiro-e-outubro-de-2026/",
    "url_hash": "233a08e1b55c30f41b37128b"
   },
   "guid:6aede6e152c09500099e114d": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-07T04:11:11+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1531457955671762",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Reginaldo Paiva Campos, de 55 anos, estava com os tornozelos amarrados dentro do próprio estabelecimento.",
    "discovered_at": "2026-11-06T14:50:13+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1531457955671762",
    "formats": [
     "link"
    ],
@@ -19819,20 +19847,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/58e9ece1-36a6-4236-ba81-a59bbc50dd22.jpg",
    "key": "guid:6aede6e152c09500099e114d",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1531457955671762"
+   },
    "source_published_at": "2026-11-06T14:42:10+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Cabeleireiro é encontrado morto com tornozelos amarrados em salão em Autazes",
-   "updated_at": "2026-11-06T14:50:13+00:00",
+   "updated_at": "2026-11-07T04:11:11+00:00",
    "url": "https://marioadolfo.com/cabeleireiro-e-encontrado-morto-com-tornozelos-amarrados-em-salao-em-autazes/",
    "url_hash": "f654f0f187311c1801432001"
   },
   "guid:6aede77852c09500099e1162": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-07T04:11:36+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1531458502338374",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Iniciativa beneficia aproximadamente mil estudantes na zona rural de Manaus.",
    "discovered_at": "2026-11-06T14:50:13+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1531458502338374",
    "formats": [
     "link"
    ],
@@ -19840,20 +19878,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e43a150d-695a-4b27-975f-f5302ac813b3.jpeg",
    "key": "guid:6aede77852c09500099e1162",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1531458502338374"
+   },
    "source_published_at": "2026-11-06T14:44:33+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Aegea e Unicef levam soluções de saneamento e higiene a escolas ribeirinhas de Manaus",
-   "updated_at": "2026-11-06T14:50:13+00:00",
+   "updated_at": "2026-11-07T04:11:36+00:00",
    "url": "https://marioadolfo.com/aegea-e-unicef-levam-solucoes-de-saneamento-e-higiene-a-escolas-ribeirinhas-de-manaus/",
    "url_hash": "6c62f171a743227bc9af18b7"
   },
   "guid:6aede82a52c09500099e117a": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-07T04:12:04+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1531459005671657",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "O plano de contingência abrange a capital e o interior e tem como objetivo reduzir o risco de interrupções não programadas",
    "discovered_at": "2026-11-06T14:50:13+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1531459005671657",
    "formats": [
     "link"
    ],
@@ -19861,11 +19909,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/49848bc1-9ea5-4f2a-91e7-aaa807dd2df3.jpeg",
    "key": "guid:6aede82a52c09500099e117a",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1531459005671657"
+   },
    "source_published_at": "2026-11-06T14:46:34+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Âmbar Energia mobiliza 870 profissionais para o Enem no Amazonas",
-   "updated_at": "2026-11-06T14:50:13+00:00",
+   "updated_at": "2026-11-07T04:12:04+00:00",
    "url": "https://marioadolfo.com/ambar-energia-mobiliza-870-profissionais-para-o-enem-no-amazonas/",
    "url_hash": "a434ded95cb5ec9b345ce1c9"
   },
@@ -20356,8 +20406,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-07T04:00:20+00:00",
-  "saved_at": "2026-11-07T04:02:08+00:00"
+  "last_run_at": "2026-11-07T04:10:14+00:00",
+  "saved_at": "2026-11-07T04:12:04+00:00"
  },
  "schema": 1
 }
