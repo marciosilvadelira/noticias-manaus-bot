@@ -20648,13 +20648,34 @@
    "updated_at": "2026-11-07T15:20:14+00:00",
    "url": "https://marioadolfo.com/filho-do-piseiro-comanda-noite-de-musica-e-solidariedade-promovida-por-eduardo-braga/",
    "url_hash": "ae05ea7ba5722b97a0280d14"
+  },
+  "guid:6aef41aa52c09500099e14e0": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Medida anunciada pela Prefeitura contempla os dias 8 e 15 de novembro, entre 7h e 20h.",
+   "discovered_at": "2026-11-07T15:30:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aef41aa52c09500099e14e0",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/3918c944-6cfd-497b-93ee-2a4f528c7756.jpg",
+   "key": "guid:6aef41aa52c09500099e14e0",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-07T15:24:03+00:00",
+   "status": "pending",
+   "title": "Manaus libera gratuidade nos ônibus para candidatos do Enem",
+   "updated_at": "2026-11-07T15:30:16+00:00",
+   "url": "https://marioadolfo.com/manaus-libera-gratuidade-nos-onibus-para-candidatos-do-enem/",
+   "url_hash": "143ed454b4248055ca08a85a"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-07T15:20:14+00:00",
-  "saved_at": "2026-11-07T15:20:15+00:00"
+  "last_run_at": "2026-11-07T15:30:16+00:00",
+  "saved_at": "2026-11-07T15:30:17+00:00"
  },
  "schema": 1
 }
