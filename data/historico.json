@@ -20585,13 +20585,55 @@
    "updated_at": "2026-11-07T14:40:15+00:00",
    "url": "https://marioadolfo.com/lula-sanciona-exame-que-ira-avaliar-qualidade-de-alunos-de-medicina/",
    "url_hash": "706a21ad795bc1fbc612fac6"
+  },
+  "guid:6aef3b6d52c09500099e148f": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Parceria com empresa AMZ AI Robotics prevê desenvolvimento de robôs humanoides e soluções de IA para a educação",
+   "discovered_at": "2026-11-07T15:00:22+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aef3b6d52c09500099e148f",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/726804f0-55f7-4188-940d-51e72923e2b1.jpeg",
+   "key": "guid:6aef3b6d52c09500099e148f",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-07T14:55:23+00:00",
+   "status": "pending",
+   "title": "EST/UEA avança na implantação de laboratório de robótica humanoide e IA",
+   "updated_at": "2026-11-07T15:00:22+00:00",
+   "url": "https://marioadolfo.com/est-uea-avanca-na-implantacao-de-laboratorio-de-robotica-humanoide-e-ia/",
+   "url_hash": "0c7a30b532e8491970fdaf9e"
+  },
+  "guid:6aef3c1052c09500099e14a8": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Secretaria de Estado de Educação orienta quanto ao que pode e não pode fazer no dia da prova",
+   "discovered_at": "2026-11-07T15:00:22+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aef3c1052c09500099e14a8",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6a6b992e-bada-43cb-ab13-c9b03f74306e.jpeg",
+   "key": "guid:6aef3c1052c09500099e14a8",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-07T14:58:30+00:00",
+   "status": "pending",
+   "title": "No AM, mais de 41 mil alunos da rede estadual estão inscritos para o Enem 2026",
+   "updated_at": "2026-11-07T15:00:22+00:00",
+   "url": "https://marioadolfo.com/no-am-mais-de-41-mil-alunos-da-rede-estadual-estao-inscritos-para-o-enem-2026/",
+   "url_hash": "555614558b9ad1d2681d27bc"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-07T14:50:14+00:00",
-  "saved_at": "2026-11-07T14:50:15+00:00"
+  "last_run_at": "2026-11-07T15:00:21+00:00",
+  "saved_at": "2026-11-07T15:00:22+00:00"
  },
  "schema": 1
 }
