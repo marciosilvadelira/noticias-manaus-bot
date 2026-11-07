@@ -20514,12 +20514,12 @@
    "guid": "6aee3e5e52c09500099e1401",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6f6818a6-47ed-4acf-94bd-307e58318fb8.jpeg",
    "key": "guid:6aee3e5e52c09500099e1401",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-06T20:55:26+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "TCE-AM orienta órgãos sobre determinação para gestão de resíduos no Carnaval de Manaus 2027",
-   "updated_at": "2026-11-06T21:00:23+00:00",
+   "updated_at": "2026-11-07T21:00:23+00:00",
    "url": "https://marioadolfo.com/tce-am-orienta-orgaos-sobre-determinacao-para-gestao-de-residuos-no-carnaval-de-manaus-2027/",
    "url_hash": "f5574d185abdc0a94f7c4737"
   },
@@ -20695,8 +20695,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-07T20:50:13+00:00",
-  "saved_at": "2026-11-07T20:50:14+00:00"
+  "last_run_at": "2026-11-07T21:00:22+00:00",
+  "saved_at": "2026-11-07T21:00:23+00:00"
  },
  "schema": 1
 }
