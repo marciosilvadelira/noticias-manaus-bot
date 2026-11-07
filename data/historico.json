@@ -19920,11 +19920,19 @@
    "url_hash": "a434ded95cb5ec9b345ce1c9"
   },
   "guid:6aedea5f52c09500099e118e": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-07T04:20:20+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1531469109003980",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "As circunstâncias do acidente ainda deverão ser esclarecidas pela Capitania dos Portos, responsável pela apuração",
    "discovered_at": "2026-11-06T15:00:21+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1531469109003980",
    "formats": [
     "link"
    ],
@@ -19932,20 +19940,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c26fa07d-1456-4455-8cc7-0db3d5f7f95f.png",
    "key": "guid:6aedea5f52c09500099e118e",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1531469109003980"
+   },
    "source_published_at": "2026-11-06T14:59:21+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Vídeo: embarcação bate em barranco próximo a Novo Airão",
-   "updated_at": "2026-11-06T15:00:21+00:00",
+   "updated_at": "2026-11-07T04:20:20+00:00",
    "url": "https://marioadolfo.com/video-embarcacao-bate-em-barranco-proximo-a-novo-airao/",
    "url_hash": "4b49de14f6f05095157c162e"
   },
   "guid:6aedeb7152c09500099e11ab": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-07T04:20:45+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1531469672337257",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Previsão é de especialistas de diferentes países reunidos em webinário",
    "discovered_at": "2026-11-06T15:10:14+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1531469672337257",
    "formats": [
     "link"
    ],
@@ -19953,20 +19971,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f1ff94f2-2655-45ff-ab7f-66baf06313ba.jpg",
    "key": "guid:6aedeb7152c09500099e11ab",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1531469672337257"
+   },
    "source_published_at": "2026-11-06T15:02:30+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "País pode chegar a 860 mil casos prováveis de dengue em 2027",
-   "updated_at": "2026-11-06T15:10:14+00:00",
+   "updated_at": "2026-11-07T04:20:45+00:00",
    "url": "https://marioadolfo.com/pais-pode-chegar-a-860-mil-casos-provaveis-de-dengue-em-2027/",
    "url_hash": "61a2f69442c8161445ba74c2"
   },
   "guid:6aedec2452c09500099e11c3": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-07T04:21:10+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1531469929003898",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Foi cumprido mandado de prisão contra uma investigada, além de busca e apreensão na residência dela",
    "discovered_at": "2026-11-06T15:10:14+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1531469929003898",
    "formats": [
     "link"
    ],
@@ -19974,20 +20002,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/04a2910b-4c6d-4c5d-a10f-24e138cd276d.jpg",
    "key": "guid:6aedec2452c09500099e11c3",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1531469929003898"
+   },
    "source_published_at": "2026-11-06T15:06:58+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "PF investiga grupo que transportava drogas em voos comerciais no AM",
-   "updated_at": "2026-11-06T15:10:14+00:00",
+   "updated_at": "2026-11-07T04:21:10+00:00",
    "url": "https://marioadolfo.com/pf-investiga-grupo-que-transportava-drogas-em-voos-comerciais-no-am/",
    "url_hash": "a8da235f44744d1beaf74909"
   },
   "guid:6aedef7b52c09500099e11d9": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-07T04:21:35+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1531470219003869",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Parintins",
    "description": "Obra reúne registros de mais de 30 anos de apresentações dos rituais do Caprichoso na arena do Bumbódromo",
    "discovered_at": "2026-11-06T15:20:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1531470219003869",
    "formats": [
     "link"
    ],
@@ -19995,20 +20033,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c0a62d71-3c29-4ff2-991e-e4a7b07a4199.jpeg",
    "key": "guid:6aedef7b52c09500099e11d9",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1531470219003869"
+   },
    "source_published_at": "2026-11-06T15:18:53+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Caprichoso e CEDEM lançam livro que documenta a evolução dos Rituais",
-   "updated_at": "2026-11-06T15:20:15+00:00",
+   "updated_at": "2026-11-07T04:21:35+00:00",
    "url": "https://marioadolfo.com/caprichoso-e-cedem-lancam-livro-que-documenta-a-evolucao-dos-rituais/",
    "url_hash": "514546ece3eec8a6d78cc0e6"
   },
   "guid:6aedf15d52c09500099e11ef": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-07T04:22:00+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1531470479003843",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Marina Sena, Fresno, Karol Conká e Gaby Amarantos estão entre os destaques do evento, que acontece de 6 a 8 de dezembro, no Centro Cultural dos Povos da Amazônia",
    "discovered_at": "2026-11-06T15:30:19+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1531470479003843",
    "formats": [
     "link"
    ],
@@ -20016,11 +20064,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/98422e7f-4059-4519-b784-50f18e18b1d8.jpeg",
    "key": "guid:6aedf15d52c09500099e11ef",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1531470479003843"
+   },
    "source_published_at": "2026-11-06T15:26:37+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Amazônia POP divulga horários dos shows das três noites do festival em Manaus",
-   "updated_at": "2026-11-06T15:30:19+00:00",
+   "updated_at": "2026-11-07T04:22:00+00:00",
    "url": "https://marioadolfo.com/amazonia-pop-divulga-horarios-dos-shows-das-tres-noites-do-festival-em-manaus-2/",
    "url_hash": "e277f945b5cb83cbc6d5bdc2"
   },
@@ -20406,8 +20456,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-07T04:10:14+00:00",
-  "saved_at": "2026-11-07T04:12:04+00:00"
+  "last_run_at": "2026-11-07T04:20:14+00:00",
+  "saved_at": "2026-11-07T04:22:00+00:00"
  },
  "schema": 1
 }
