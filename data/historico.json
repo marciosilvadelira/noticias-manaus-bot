@@ -20388,12 +20388,12 @@
    "guid": "6aee122c52c09500099e1366",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2eaaf736-9788-4a88-83ac-6768517decbb.png",
    "key": "guid:6aee122c52c09500099e1366",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-06T17:53:21+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Venezuelano é preso por tentativa de homicídio contra empresário na Compensa",
-   "updated_at": "2026-11-06T18:00:19+00:00",
+   "updated_at": "2026-11-07T18:00:20+00:00",
    "url": "https://marioadolfo.com/venezuelano-e-preso-por-tentativa-de-homicidio-contra-empresario-na-compensa/",
    "url_hash": "73f7216faa59355a637dec9a"
   },
@@ -20409,12 +20409,12 @@
    "guid": "6aee136152c09500099e136d",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/88c80a45-d020-4032-8e41-a3dcf3c30ff1.jpg",
    "key": "guid:6aee136152c09500099e136d",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-06T17:52:59+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Justiça determina bloqueio de R$ 5 milhões do Sinetram em Manaus",
-   "updated_at": "2026-11-06T18:00:19+00:00",
+   "updated_at": "2026-11-07T18:00:20+00:00",
    "url": "https://marioadolfo.com/justica-determina-bloqueio-de-r-5-milhoes-do-sinetram-em-manaus/",
    "url_hash": "09a9421e8beb27bd41b9f829"
   },
@@ -20695,8 +20695,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-07T17:50:14+00:00",
-  "saved_at": "2026-11-07T17:50:15+00:00"
+  "last_run_at": "2026-11-07T18:00:19+00:00",
+  "saved_at": "2026-11-07T18:00:21+00:00"
  },
  "schema": 1
 }
