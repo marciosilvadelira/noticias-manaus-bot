@@ -20367,12 +20367,12 @@
    "guid": "6aee106552c09500099e133b",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2425ba95-a7b7-405f-97b9-a153a21a584d.png",
    "key": "guid:6aee106552c09500099e133b",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-06T17:44:33+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Jovem é presa com maconha em pote de margarina durante visita em delegacia no AM",
-   "updated_at": "2026-11-06T17:50:16+00:00",
+   "updated_at": "2026-11-07T17:50:15+00:00",
    "url": "https://marioadolfo.com/jovem-e-presa-com-maconha-em-pote-de-margarina-durante-visita-em-delegacia-no-am/",
    "url_hash": "6c3df6a07896977dba0f3c64"
   },
@@ -20695,8 +20695,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-07T17:40:14+00:00",
-  "saved_at": "2026-11-07T17:40:15+00:00"
+  "last_run_at": "2026-11-07T17:50:14+00:00",
+  "saved_at": "2026-11-07T17:50:15+00:00"
  },
  "schema": 1
 }
