@@ -19610,11 +19610,19 @@
    "url_hash": "31686707a2286c609abb87d2"
   },
   "guid:6aedac8452c09500099e105e": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-07T04:00:26+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1531443422339882",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Operação ocorreu na manhã desta sexta-feira (6) e faz parte de investigação sobre a divulgação de vídeo manipulado envolvendo a imagem da filha do governador eleito Omar Aziz.",
    "discovered_at": "2026-11-06T10:40:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1531443422339882",
    "formats": [
     "link"
    ],
@@ -19622,20 +19630,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6429d553-bd5a-4371-bc87-efae4323e93d.jpeg",
    "key": "guid:6aedac8452c09500099e105e",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1531443422339882"
+   },
    "source_published_at": "2026-11-06T10:36:31+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Polícia Civil amanhece na casa de Maria do Carmo",
-   "updated_at": "2026-11-06T10:40:18+00:00",
+   "updated_at": "2026-11-07T04:00:26+00:00",
    "url": "https://marioadolfo.com/policia-civil-amanhece-na-casa-de-maria-do-carmo/",
    "url_hash": "f70d2d6b20f55c304127b252"
   },
   "guid:6aedc62c52c09500099e1079": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-07T04:00:52+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1531444542339770",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Dito & Feito",
    "description": "Flávio perdeu a disputa pela Presidência da República, Jair vai perder a patente militar e Eduardo, condenado pelo STF não poderá retornar tão cedo ao Brasil, senão será preso",
    "discovered_at": "2026-11-06T12:40:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1531444542339770",
    "formats": [
     "link"
    ],
@@ -19643,20 +19661,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/83b6a058-28fa-4e10-b632-e5d6ce46bd5c.jpeg",
    "key": "guid:6aedc62c52c09500099e1079",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1531444542339770"
+   },
    "source_published_at": "2026-11-06T12:36:56+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Dito & Feito: A CASA CAIU PARA FAMÍLIA BOLSONARO",
-   "updated_at": "2026-11-06T12:40:15+00:00",
+   "updated_at": "2026-11-07T04:00:52+00:00",
    "url": "https://marioadolfo.com/dito-feito-a-casa-caiu-para-familia-bolsonaro/",
    "url_hash": "f07cd0b3e106fe4ac2d6f4ac"
   },
   "guid:6aedcdc952c09500099e10d0": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-07T04:01:18+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1531445609006330",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Nova etapa inclui organização dos cabos ativos e descarte de material abandonado pelas empresas.",
    "discovered_at": "2026-11-06T13:00:19+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1531445609006330",
    "formats": [
     "link"
    ],
@@ -19664,20 +19692,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/dd5a7233-ab49-4e9c-8c8c-81e09fa6519a.jpg",
    "key": "guid:6aedcdc952c09500099e10d0",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1531445609006330"
+   },
    "source_published_at": "2026-11-06T12:57:08+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Retirada de fios sem uso no Centro deve alcançar 70 quilômetros em Manaus",
-   "updated_at": "2026-11-06T13:00:19+00:00",
+   "updated_at": "2026-11-07T04:01:18+00:00",
    "url": "https://marioadolfo.com/retirada-de-fios-sem-uso-no-centro-deve-alcancar-70-quilometros-em-manaus/",
    "url_hash": "bf68e7c996a289f92090d000"
   },
   "guid:6aede06952c09500099e10ea": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-07T04:01:43+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1531446329006258",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "O certame prevê a seleção de 14 projetos culturais, apresentados por agentes culturais de Manaus",
    "discovered_at": "2026-11-06T14:20:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1531446329006258",
    "formats": [
     "link"
    ],
@@ -19685,20 +19723,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/475bbc36-8973-41c0-aa78-7afeb70d9773.jpg",
    "key": "guid:6aede06952c09500099e10ea",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1531446329006258"
+   },
    "source_published_at": "2026-11-06T14:15:27+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Prefeitura de Manaus lança edital para audiovisual com investimento de R$ 850 mil",
-   "updated_at": "2026-11-06T14:20:17+00:00",
+   "updated_at": "2026-11-07T04:01:43+00:00",
    "url": "https://marioadolfo.com/prefeitura-de-manaus-lanca-edital-de-fomento-ao-audiovisual-com-investimento-de-r-850-mil/",
    "url_hash": "7795f4629e6c52693c0bdac6"
   },
   "guid:6aede11b52c09500099e1103": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-07T04:02:08+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1531447155672842",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Encontro com Werner Kornexl reuniu a vice-governadora eleita, Alessandra Campelo, e os deputados federais Sidney Leite e Pauderney Avelino",
    "discovered_at": "2026-11-06T14:20:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1531447155672842",
    "formats": [
     "link"
    ],
@@ -19706,11 +19754,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/110915b7-94b7-4172-859f-a646f11f6ff4.jpeg",
    "key": "guid:6aede11b52c09500099e1103",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1531447155672842"
+   },
    "source_published_at": "2026-11-06T14:17:46+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Omar recebe coordenador do Banco Mundial e discute apoio a ações ambientais",
-   "updated_at": "2026-11-06T14:20:17+00:00",
+   "updated_at": "2026-11-07T04:02:08+00:00",
    "url": "https://marioadolfo.com/omar-aziz-recebe-coordenador-do-banco-mundial-e-discute-apoio-a-acoes-ambientais-no-am/",
    "url_hash": "042ec8e622c0384fe59cc1a1"
   },
@@ -20306,8 +20356,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-07T03:50:14+00:00",
-  "saved_at": "2026-11-07T03:50:15+00:00"
+  "last_run_at": "2026-11-07T04:00:20+00:00",
+  "saved_at": "2026-11-07T04:02:08+00:00"
  },
  "schema": 1
 }
