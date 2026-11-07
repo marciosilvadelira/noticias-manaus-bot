@@ -20304,12 +20304,12 @@
    "guid": "6aee0cc052c09500099e12e6",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/52ea0d26-e7aa-4be2-ac56-b4aab5724f4a.jpeg",
    "key": "guid:6aee0cc052c09500099e12e6",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-06T17:24:12+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Rodoviários anunciam greve de até 70% da frota em Manaus na segunda-feira (9)",
-   "updated_at": "2026-11-06T17:30:16+00:00",
+   "updated_at": "2026-11-07T17:30:19+00:00",
    "url": "https://marioadolfo.com/rodoviarios-anunciam-greve-de-ate-70-da-frota-em-manaus-na-segunda-feira-9/",
    "url_hash": "316657b5805e0e36e727969f"
   },
@@ -20325,12 +20325,12 @@
    "guid": "6aee0d7252c09500099e1302",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/fa6eabe9-01da-4d7e-a7b5-4e69db909be4.webp",
    "key": "guid:6aee0d7252c09500099e1302",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-06T17:26:17+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Justiça autoriza volta do funcionamento de três bets no Brasil",
-   "updated_at": "2026-11-06T17:30:16+00:00",
+   "updated_at": "2026-11-07T17:30:19+00:00",
    "url": "https://marioadolfo.com/justica-autoriza-volta-do-funcionamento-de-tres-bets-no-brasil/",
    "url_hash": "e8cbb558cbcf1dcc6b5fbbcc"
   },
@@ -20695,8 +20695,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-07T17:20:14+00:00",
-  "saved_at": "2026-11-07T17:20:15+00:00"
+  "last_run_at": "2026-11-07T17:30:17+00:00",
+  "saved_at": "2026-11-07T17:30:19+00:00"
  },
  "schema": 1
 }
