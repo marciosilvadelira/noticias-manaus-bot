@@ -20472,12 +20472,12 @@
    "guid": "6aee3a9a52c09500099e13c1",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0bff1256-72db-49f1-9bcc-bf797775b9c5.jpeg",
    "key": "guid:6aee3a9a52c09500099e13c1",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-06T20:39:26+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Amazonas leva vacinação contra o sarampo a pessoas de 12 meses a 59 anos",
-   "updated_at": "2026-11-06T20:40:14+00:00",
+   "updated_at": "2026-11-07T20:40:16+00:00",
    "url": "https://marioadolfo.com/amazonas-leva-vacinacao-contra-o-sarampo-a-pessoas-de-12-meses-a-59-anos/",
    "url_hash": "93a3053f8e08667be91a1bae"
   },
@@ -20695,8 +20695,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-07T20:30:19+00:00",
-  "saved_at": "2026-11-07T20:30:20+00:00"
+  "last_run_at": "2026-11-07T20:40:14+00:00",
+  "saved_at": "2026-11-07T20:40:16+00:00"
  },
  "schema": 1
 }
