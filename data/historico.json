@@ -20262,12 +20262,12 @@
    "guid": "6aedf85252c09500099e12a1",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/367efea1-4ee7-463b-81e3-1d74537c00ae.webp",
    "key": "guid:6aedf85252c09500099e12a1",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-06T15:59:59+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Governo altera regras da perícia para concessão do auxílio-doença",
-   "updated_at": "2026-11-06T16:00:21+00:00",
+   "updated_at": "2026-11-07T16:00:21+00:00",
    "url": "https://marioadolfo.com/governo-altera-regras-da-pericia-para-concessao-do-auxilio-doenca/",
    "url_hash": "c9c23e63dc13502651b5a94a"
   },
@@ -20283,12 +20283,12 @@
    "guid": "6aedf8e752c09500099e12a8",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e3057881-9159-4d92-8eb1-7db798b681c1.jpeg",
    "key": "guid:6aedf8e752c09500099e12a8",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-06T15:59:01+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Novos terminais flutuantes são enviados  para comunidades do interior do Amazonas",
-   "updated_at": "2026-11-06T16:00:21+00:00",
+   "updated_at": "2026-11-07T16:00:21+00:00",
    "url": "https://marioadolfo.com/novos-terminais-flutuantes-sao-enviados-para-comunidades-do-interior-do-amazonas/",
    "url_hash": "c640cb8755d150dc53feee68"
   },
@@ -20544,6 +20544,27 @@
    "url": "https://marioadolfo.com/homem-que-fez-filho-de-1-ano-refem-em-manaus-morre-dentro-de-presidio/",
    "url_hash": "19a60d6e42fc547425368232"
   },
+  "guid:6aef171852c09500099e143e": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Estado contabilizou mais de R$ 1,2 bilhão em danos ao crime durante operações de fronteira e combate a crimes ambientais",
+   "discovered_at": "2026-11-07T16:00:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aef171852c09500099e143e",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/bdc8b4e5-36b0-477c-955b-7dff87803dad.jpg",
+   "key": "guid:6aef171852c09500099e143e",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-07T16:00:08+00:00",
+   "status": "pending",
+   "title": "Amazonas lidera ranking nacional de prejuízo ao crime organizado em 2026",
+   "updated_at": "2026-11-07T16:00:21+00:00",
+   "url": "https://marioadolfo.com/amazonas-lidera-ranking-nacional-de-prejuizo-ao-crime-organizado-em-2026/",
+   "url_hash": "a4c854a784de5c5cc298d9e4"
+  },
   "guid:6aef192a52c09500099e145d": {
    "attempts": [],
    "category": "Amazonas",
@@ -20674,8 +20695,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-07T15:50:14+00:00",
-  "saved_at": "2026-11-07T15:50:15+00:00"
+  "last_run_at": "2026-11-07T16:00:20+00:00",
+  "saved_at": "2026-11-07T16:00:21+00:00"
  },
  "schema": 1
 }
