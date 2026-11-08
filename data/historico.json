@@ -20440,11 +20440,19 @@
    "url_hash": "77b89d5e99d856d564163748"
   },
   "guid:6aee1ad352c09500099e13ba": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-08T04:00:58+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1532497668901124",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Crianças de um ano de idade a jovens de até 29 anos precisam receber duas doses de vacina, enquanto os de 30 a 59 anos, uma dose",
    "discovered_at": "2026-11-07T12:00:19+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1532497668901124",
    "formats": [
     "link"
    ],
@@ -20452,11 +20460,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d88d24f8-bd58-4604-82eb-4aab176b78d9.jpeg",
    "key": "guid:6aee1ad352c09500099e13ba",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1532497668901124"
+   },
    "source_published_at": "2026-11-07T12:00:17+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Manaus realiza ‘Dia D’ contra o sarampo em 10 unidades de saúde neste sábado (7)",
-   "updated_at": "2026-11-07T12:00:19+00:00",
+   "updated_at": "2026-11-08T04:00:58+00:00",
    "url": "https://marioadolfo.com/manaus-realiza-dia-d-contra-o-sarampo-em-10-unidades-de-saude-neste-sabado-7/",
    "url_hash": "76947b21e7805af591e3e1eb"
   },
@@ -20524,11 +20534,19 @@
    "url_hash": "f5574d185abdc0a94f7c4737"
   },
   "guid:6aee6a0c52c09500099e1416": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-08T04:00:30+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1532497308901160",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Ele foi preso em flagrante no dia 14 de outubro após manter o próprio filho, de apenas 1 ano de idade, sob cárcere privado e ameaça",
    "discovered_at": "2026-11-07T11:50:13+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1532497308901160",
    "formats": [
     "link"
    ],
@@ -20536,11 +20554,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ae674854-0a37-45ac-a795-9f8d02410590.png",
    "key": "guid:6aee6a0c52c09500099e1416",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1532497308901160"
+   },
    "source_published_at": "2026-11-07T11:40:56+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Homem que fez filho de 1 ano refém em Manaus morre dentro de presídio",
-   "updated_at": "2026-11-07T11:50:13+00:00",
+   "updated_at": "2026-11-08T04:00:30+00:00",
    "url": "https://marioadolfo.com/homem-que-fez-filho-de-1-ano-refem-em-manaus-morre-dentro-de-presidio/",
    "url_hash": "19a60d6e42fc547425368232"
   },
@@ -20566,11 +20586,19 @@
    "url_hash": "a4c854a784de5c5cc298d9e4"
   },
   "guid:6aef192a52c09500099e145d": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-08T04:01:26+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1532498132234411",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Evento reúne misticismo, oráculos, dança, música, terapias alternativas e empreendedorismo nos dias 28 e 29 de novembro no Mercado de Origem da Amazônia",
    "discovered_at": "2026-11-07T12:40:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1532498132234411",
    "formats": [
     "link"
    ],
@@ -20578,20 +20606,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/28568cc8-3cea-4362-9f29-29762f42ab26.jpg",
    "key": "guid:6aef192a52c09500099e145d",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1532498132234411"
+   },
    "source_published_at": "2026-11-07T12:30:50+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Manaus recebe a 1ª edição da Feira Mágica da Amazônia com programação cultural gratuita",
-   "updated_at": "2026-11-07T12:40:15+00:00",
+   "updated_at": "2026-11-08T04:01:26+00:00",
    "url": "https://marioadolfo.com/manaus-recebe-a-1a-edicao-da-feira-magica-da-amazonia-com-programacao-cultural-gratuita/",
    "url_hash": "1fc25c369681d467e6c10e17"
   },
   "guid:6aef376452c09500099e1477": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-08T04:01:54+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1532498498901041",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Presidente disse que Enamed vai melhorar o atendimento à população",
    "discovered_at": "2026-11-07T14:40:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1532498498901041",
    "formats": [
     "link"
    ],
@@ -20599,20 +20637,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/62833d3a-f9c4-41d6-9ec4-30984cc23968.jpg",
    "key": "guid:6aef376452c09500099e1477",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1532498498901041"
+   },
    "source_published_at": "2026-11-07T14:39:25+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Lula sanciona exame que irá avaliar qualidade de alunos de medicina",
-   "updated_at": "2026-11-07T14:40:15+00:00",
+   "updated_at": "2026-11-08T04:01:54+00:00",
    "url": "https://marioadolfo.com/lula-sanciona-exame-que-ira-avaliar-qualidade-de-alunos-de-medicina/",
    "url_hash": "706a21ad795bc1fbc612fac6"
   },
   "guid:6aef3b6d52c09500099e148f": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-08T04:02:20+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1532498998900991",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Parceria com empresa AMZ AI Robotics prevê desenvolvimento de robôs humanoides e soluções de IA para a educação",
    "discovered_at": "2026-11-07T15:00:22+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1532498998900991",
    "formats": [
     "link"
    ],
@@ -20620,11 +20668,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/726804f0-55f7-4188-940d-51e72923e2b1.jpeg",
    "key": "guid:6aef3b6d52c09500099e148f",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1532498998900991"
+   },
    "source_published_at": "2026-11-07T14:55:23+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "EST/UEA avança na implantação de laboratório de robótica humanoide e IA",
-   "updated_at": "2026-11-07T15:00:22+00:00",
+   "updated_at": "2026-11-08T04:02:20+00:00",
    "url": "https://marioadolfo.com/est-uea-avanca-na-implantacao-de-laboratorio-de-robotica-humanoide-e-ia/",
    "url_hash": "0c7a30b532e8491970fdaf9e"
   },
@@ -20695,8 +20745,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-08T03:50:14+00:00",
-  "saved_at": "2026-11-08T03:50:15+00:00"
+  "last_run_at": "2026-11-08T04:00:20+00:00",
+  "saved_at": "2026-11-08T04:02:20+00:00"
  },
  "schema": 1
 }
