@@ -20812,6 +20812,37 @@
    "url": "https://marioadolfo.com/dito-feito-nem-freud-explica/",
    "url_hash": "ac797a63c67b0f32b7160884"
   },
+  "guid:6af0717a52c09500099e1544": {
+   "attempts": [
+    {
+     "at": "2026-11-08T15:20:20+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1533055145512043",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "Sensores registraram índices acima de 150 em bairros como Chapada, Coroado e Aleixo; Defesa Civil emitiu alerta de risco alto.",
+   "discovered_at": "2026-11-08T15:20:14+00:00",
+   "fb_post_id": "107393769293726_1533055145512043",
+   "formats": [
+    "link"
+   ],
+   "guid": "6af0717a52c09500099e1544",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a42f01d8-2edb-4d28-bef3-76afacc73528.jpeg",
+   "key": "guid:6af0717a52c09500099e1544",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1533055145512043"
+   },
+   "source_published_at": "2026-11-08T15:14:26+00:00",
+   "status": "published",
+   "title": "Qualidade do ar em Manaus chega a nível insalubre neste domingo",
+   "updated_at": "2026-11-08T15:20:20+00:00",
+   "url": "https://marioadolfo.com/qualidade-do-ar-em-manaus-chega-a-nivel-insalubre-neste-domingo/",
+   "url_hash": "0f71b53e5255a4cf6e8ea8bc"
+  },
   "guid:6af0733e52c09500099e154f": {
    "attempts": [
     {
@@ -20909,8 +20940,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-08T15:10:16+00:00",
-  "saved_at": "2026-11-08T15:10:16+00:00"
+  "last_run_at": "2026-11-08T15:20:14+00:00",
+  "saved_at": "2026-11-08T15:20:20+00:00"
  },
  "schema": 1
 }
