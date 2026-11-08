@@ -20565,11 +20565,19 @@
    "url_hash": "19a60d6e42fc547425368232"
   },
   "guid:6aef171852c09500099e143e": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-08T04:11:37+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1532516278899263",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Estado contabilizou mais de R$ 1,2 bilhão em danos ao crime durante operações de fronteira e combate a crimes ambientais",
    "discovered_at": "2026-11-07T16:00:21+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1532516278899263",
    "formats": [
     "link"
    ],
@@ -20577,11 +20585,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/bdc8b4e5-36b0-477c-955b-7dff87803dad.jpg",
    "key": "guid:6aef171852c09500099e143e",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1532516278899263"
+   },
    "source_published_at": "2026-11-07T16:00:08+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Amazonas lidera ranking nacional de prejuízo ao crime organizado em 2026",
-   "updated_at": "2026-11-07T16:00:21+00:00",
+   "updated_at": "2026-11-08T04:11:37+00:00",
    "url": "https://marioadolfo.com/amazonas-lidera-ranking-nacional-de-prejuizo-ao-crime-organizado-em-2026/",
    "url_hash": "a4c854a784de5c5cc298d9e4"
   },
@@ -20679,11 +20689,19 @@
    "url_hash": "0c7a30b532e8491970fdaf9e"
   },
   "guid:6aef3c1052c09500099e14a8": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-08T04:10:23+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1532513885566169",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Secretaria de Estado de Educação orienta quanto ao que pode e não pode fazer no dia da prova",
    "discovered_at": "2026-11-07T15:00:22+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1532513885566169",
    "formats": [
     "link"
    ],
@@ -20691,20 +20709,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6a6b992e-bada-43cb-ab13-c9b03f74306e.jpeg",
    "key": "guid:6aef3c1052c09500099e14a8",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1532513885566169"
+   },
    "source_published_at": "2026-11-07T14:58:30+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "No AM, mais de 41 mil alunos da rede estadual estão inscritos para o Enem 2026",
-   "updated_at": "2026-11-07T15:00:22+00:00",
+   "updated_at": "2026-11-08T04:10:23+00:00",
    "url": "https://marioadolfo.com/no-am-mais-de-41-mil-alunos-da-rede-estadual-estao-inscritos-para-o-enem-2026/",
    "url_hash": "555614558b9ad1d2681d27bc"
   },
   "guid:6aef3f6452c09500099e14c5": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-08T04:10:48+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1532514875566070",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Cantor amazonense foi a principal atração do Amazonas Solidário, que também teve apresentações de Garantido e Caprichoso para arrecadar alimentos às famílias atingidas pela estiagem e pelas queimadas",
    "discovered_at": "2026-11-07T15:20:14+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1532514875566070",
    "formats": [
     "link"
    ],
@@ -20712,20 +20740,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/89acd314-b811-439c-8e80-b3daeecca9c1.jpeg",
    "key": "guid:6aef3f6452c09500099e14c5",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1532514875566070"
+   },
    "source_published_at": "2026-11-07T15:12:05+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Filho do Piseiro comanda noite de música e solidariedade promovida por Eduardo Braga",
-   "updated_at": "2026-11-07T15:20:14+00:00",
+   "updated_at": "2026-11-08T04:10:48+00:00",
    "url": "https://marioadolfo.com/filho-do-piseiro-comanda-noite-de-musica-e-solidariedade-promovida-por-eduardo-braga/",
    "url_hash": "ae05ea7ba5722b97a0280d14"
   },
   "guid:6aef41aa52c09500099e14e0": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-08T04:11:12+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1532515915565966",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Medida anunciada pela Prefeitura contempla os dias 8 e 15 de novembro, entre 7h e 20h.",
    "discovered_at": "2026-11-07T15:30:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1532515915565966",
    "formats": [
     "link"
    ],
@@ -20733,11 +20771,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/3918c944-6cfd-497b-93ee-2a4f528c7756.jpg",
    "key": "guid:6aef41aa52c09500099e14e0",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1532515915565966"
+   },
    "source_published_at": "2026-11-07T15:24:03+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Manaus libera gratuidade nos ônibus para candidatos do Enem",
-   "updated_at": "2026-11-07T15:30:16+00:00",
+   "updated_at": "2026-11-08T04:11:12+00:00",
    "url": "https://marioadolfo.com/manaus-libera-gratuidade-nos-onibus-para-candidatos-do-enem/",
    "url_hash": "143ed454b4248055ca08a85a"
   }
@@ -20745,8 +20785,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-08T04:00:20+00:00",
-  "saved_at": "2026-11-08T04:02:20+00:00"
+  "last_run_at": "2026-11-08T04:10:14+00:00",
+  "saved_at": "2026-11-08T04:11:37+00:00"
  },
  "schema": 1
 }
