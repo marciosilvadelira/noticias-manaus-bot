@@ -20873,13 +20873,44 @@
    "updated_at": "2026-11-08T13:20:22+00:00",
    "url": "https://marioadolfo.com/gravida-em-trabalho-de-parto-e-resgatada-de-helicoptero-em-comunidade-do-amazonas/",
    "url_hash": "75894593239f12a15f21bc7c"
+  },
+  "guid:6af08a4e52c09500099e1581": {
+   "attempts": [
+    {
+     "at": "2026-11-08T14:50:21+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1533026152181609",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Polícia",
+   "description": "Fiscalização ocorreu na avenida do Turismo, zona Oeste, e também identificou venda de bebidas alcoólicas para menores de idade.",
+   "discovered_at": "2026-11-08T14:50:14+00:00",
+   "fb_post_id": "107393769293726_1533026152181609",
+   "formats": [
+    "link"
+   ],
+   "guid": "6af08a4e52c09500099e1581",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/927573ed-ce1a-40e5-a850-2e198960f436.jpeg",
+   "key": "guid:6af08a4e52c09500099e1581",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1533026152181609"
+   },
+   "source_published_at": "2026-11-08T14:48:57+00:00",
+   "status": "published",
+   "title": "Operação em posto de gasolina apreende pistola e três paredões de som em Manaus",
+   "updated_at": "2026-11-08T14:50:21+00:00",
+   "url": "https://marioadolfo.com/operacao-em-posto-de-gasolina-apreende-pistola-e-tres-paredoes-de-som-em-manaus/",
+   "url_hash": "2629331d89e8466cb424b23b"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-08T14:44:23+00:00",
-  "saved_at": "2026-11-08T14:44:28+00:00"
+  "last_run_at": "2026-11-08T14:50:14+00:00",
+  "saved_at": "2026-11-08T14:50:21+00:00"
  },
  "schema": 1
 }
