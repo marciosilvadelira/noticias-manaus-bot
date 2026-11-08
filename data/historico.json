@@ -20935,13 +20935,44 @@
    "updated_at": "2026-11-08T14:50:21+00:00",
    "url": "https://marioadolfo.com/operacao-em-posto-de-gasolina-apreende-pistola-e-tres-paredoes-de-som-em-manaus/",
    "url_hash": "2629331d89e8466cb424b23b"
+  },
+  "guid:6af0945852c09500099e15dd": {
+   "attempts": [
+    {
+     "at": "2026-11-08T15:30:22+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1533066958844195",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "Uma multidão recebeu o senador com motociata pelas ruas de Maués; programação incluiu visita à produção de guaraná e festa promovida pela prefeitura em homenagem aos servidores",
+   "discovered_at": "2026-11-08T15:30:17+00:00",
+   "fb_post_id": "107393769293726_1533066958844195",
+   "formats": [
+    "link"
+   ],
+   "guid": "6af0945852c09500099e15dd",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/776518de-f4d3-48e4-859a-19a5240d225c.jpeg",
+   "key": "guid:6af0945852c09500099e15dd",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1533066958844195"
+   },
+   "source_published_at": "2026-11-08T15:27:13+00:00",
+   "status": "published",
+   "title": "Eduardo Braga reforça compromisso de trabalho com o município de Maués",
+   "updated_at": "2026-11-08T15:30:22+00:00",
+   "url": "https://marioadolfo.com/eduardo-braga-reforca-compromisso-de-trabalho-com-o-municipio-de-maues/",
+   "url_hash": "e27437eed1e964f1ae6a6b39"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-08T15:20:14+00:00",
-  "saved_at": "2026-11-08T15:20:20+00:00"
+  "last_run_at": "2026-11-08T15:30:16+00:00",
+  "saved_at": "2026-11-08T15:30:22+00:00"
  },
  "schema": 1
 }
