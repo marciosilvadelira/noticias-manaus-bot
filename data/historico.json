@@ -20966,13 +20966,75 @@
    "updated_at": "2026-11-08T15:30:22+00:00",
    "url": "https://marioadolfo.com/eduardo-braga-reforca-compromisso-de-trabalho-com-o-municipio-de-maues/",
    "url_hash": "e27437eed1e964f1ae6a6b39"
+  },
+  "guid:6af0953452c09500099e15f4": {
+   "attempts": [
+    {
+     "at": "2026-11-08T17:50:50+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1533196995497858",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Brasil",
+   "description": "Outros 35% avaliam que ele foi para os Estados Unidos para evitar uma perseguição política.",
+   "discovered_at": "2026-11-08T17:50:15+00:00",
+   "fb_post_id": "107393769293726_1533196995497858",
+   "formats": [
+    "link"
+   ],
+   "guid": "6af0953452c09500099e15f4",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d10a25ae-a381-4a4a-b3d0-f27cc450cbb6.jpeg",
+   "key": "guid:6af0953452c09500099e15f4",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1533196995497858"
+   },
+   "source_published_at": "2026-11-08T17:43:20+00:00",
+   "status": "published",
+   "title": "Pesquisa aponta que 62% reprovam fuga de Flávio Bolsonaro para os EUA",
+   "updated_at": "2026-11-08T17:50:50+00:00",
+   "url": "https://marioadolfo.com/pesquisa-aponta-que-62-reprovam-fuga-de-flavio-bolsonaro-para-os-eua/",
+   "url_hash": "591f15a9ed485b43dd894a3b"
+  },
+  "guid:6af0b27452c09500099e1606": {
+   "attempts": [
+    {
+     "at": "2026-11-08T17:50:22+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1533196705497887",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "Conhecido como Chicão, ele foi encontrado morto na sede da empresa, localizada na rodovia BR-174",
+   "discovered_at": "2026-11-08T17:50:15+00:00",
+   "fb_post_id": "107393769293726_1533196705497887",
+   "formats": [
+    "link"
+   ],
+   "guid": "6af0b27452c09500099e1606",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a59fbd54-96ef-40e4-8175-79151bb4bd03.jpg",
+   "key": "guid:6af0b27452c09500099e1606",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1533196705497887"
+   },
+   "source_published_at": "2026-11-08T17:41:52+00:00",
+   "status": "published",
+   "title": "Morre aos 74 anos o empresário Helder Peixoto, fundador do Grupo São Pedro",
+   "updated_at": "2026-11-08T17:50:22+00:00",
+   "url": "https://marioadolfo.com/morre-aos-74-anos-o-empresario-helder-peixoto-fundador-do-grupo-sao-pedro/",
+   "url_hash": "2f2aea27cdeb23e7ddb627d0"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-08T17:40:14+00:00",
-  "saved_at": "2026-11-08T17:40:15+00:00"
+  "last_run_at": "2026-11-08T17:50:14+00:00",
+  "saved_at": "2026-11-08T17:50:50+00:00"
  },
  "schema": 1
 }
