@@ -21028,13 +21028,44 @@
    "updated_at": "2026-11-08T17:50:22+00:00",
    "url": "https://marioadolfo.com/morre-aos-74-anos-o-empresario-helder-peixoto-fundador-do-grupo-sao-pedro/",
    "url_hash": "2f2aea27cdeb23e7ddb627d0"
+  },
+  "guid:6af0bb7e52c09500099e163e": {
+   "attempts": [
+    {
+     "at": "2026-11-08T18:20:25+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1533220845495473",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Brasil",
+   "description": "Candidatos precisam fazer texto no gênero dissertativo-argumentativo",
+   "discovered_at": "2026-11-08T18:20:15+00:00",
+   "fb_post_id": "107393769293726_1533220845495473",
+   "formats": [
+    "link"
+   ],
+   "guid": "6af0bb7e52c09500099e163e",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/29c5dab9-4d12-4e59-9877-cc47dca6487a.webp",
+   "key": "guid:6af0bb7e52c09500099e163e",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1533220845495473"
+   },
+   "source_published_at": "2026-11-08T18:14:53+00:00",
+   "status": "published",
+   "title": "Tema da redação do Enem é “Valorização do SUS como direito universal”",
+   "updated_at": "2026-11-08T18:20:25+00:00",
+   "url": "https://marioadolfo.com/tema-da-redacao-do-enem-e-valorizacao-do-sus-como-direito-universal/",
+   "url_hash": "6259532a8916a2e3efecddfe"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-08T18:10:15+00:00",
-  "saved_at": "2026-11-08T18:10:16+00:00"
+  "last_run_at": "2026-11-08T18:20:14+00:00",
+  "saved_at": "2026-11-08T18:20:25+00:00"
  },
  "schema": 1
 }
