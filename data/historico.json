@@ -20811,13 +20811,44 @@
    "updated_at": "2026-11-08T12:50:22+00:00",
    "url": "https://marioadolfo.com/dito-feito-nem-freud-explica/",
    "url_hash": "ac797a63c67b0f32b7160884"
+  },
+  "guid:6af0733e52c09500099e154f": {
+   "attempts": [
+    {
+     "at": "2026-11-08T13:10:21+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1532924452191779",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Brasil",
+   "description": "De acordo com o Instituto Nacional de Estudos e Pesquisas Educacionais (Inep), a entrada nos locais de exames só serão permitidas das 12h às 13h (horário de Brasília)",
+   "discovered_at": "2026-11-08T13:10:15+00:00",
+   "fb_post_id": "107393769293726_1532924452191779",
+   "formats": [
+    "link"
+   ],
+   "guid": "6af0733e52c09500099e154f",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ebf8c7f7-2d7c-4b55-8364-082fc1c33f6e.jpg",
+   "key": "guid:6af0733e52c09500099e154f",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1532924452191779"
+   },
+   "source_published_at": "2026-11-08T13:07:17+00:00",
+   "status": "published",
+   "title": "Enem começa a ser aplicado neste domingo; mais de 5 milhões estão inscritos",
+   "updated_at": "2026-11-08T13:10:21+00:00",
+   "url": "https://marioadolfo.com/enem-comeca-a-ser-aplicado-neste-domingo-mais-de-5-milhoes-estao-inscritos/",
+   "url_hash": "0db722b895e40bc2fcec7ab5"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-08T13:00:19+00:00",
-  "saved_at": "2026-11-08T13:00:20+00:00"
+  "last_run_at": "2026-11-08T13:10:14+00:00",
+  "saved_at": "2026-11-08T13:10:21+00:00"
  },
  "schema": 1
 }
