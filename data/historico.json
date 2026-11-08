@@ -20780,13 +20780,44 @@
    "updated_at": "2026-11-08T04:11:12+00:00",
    "url": "https://marioadolfo.com/manaus-libera-gratuidade-nos-onibus-para-candidatos-do-enem/",
    "url_hash": "143ed454b4248055ca08a85a"
+  },
+  "guid:6af06d6152c09500099e1501": {
+   "attempts": [
+    {
+     "at": "2026-11-08T12:50:22+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1532906355526922",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Dito & Feito",
+   "description": "Onde encaixar a extrema-direita bolsonarista?  Entre os “psicopatas”, os “dissonantes cognitivos” ou os “neuróticos obsessivos”?",
+   "discovered_at": "2026-11-08T12:50:15+00:00",
+   "fb_post_id": "107393769293726_1532906355526922",
+   "formats": [
+    "link"
+   ],
+   "guid": "6af06d6152c09500099e1501",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b2afcdcf-ebab-4823-ab12-e1bd180b1717.jpg",
+   "key": "guid:6af06d6152c09500099e1501",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1532906355526922"
+   },
+   "source_published_at": "2026-11-08T12:49:37+00:00",
+   "status": "published",
+   "title": "Dito & Feito: NEM FREUD EXPLICA",
+   "updated_at": "2026-11-08T12:50:22+00:00",
+   "url": "https://marioadolfo.com/dito-feito-nem-freud-explica/",
+   "url_hash": "ac797a63c67b0f32b7160884"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-08T12:40:13+00:00",
-  "saved_at": "2026-11-08T12:40:14+00:00"
+  "last_run_at": "2026-11-08T12:50:15+00:00",
+  "saved_at": "2026-11-08T12:50:22+00:00"
  },
  "schema": 1
 }
