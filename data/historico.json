@@ -21121,13 +21121,75 @@
    "updated_at": "2026-11-09T12:50:20+00:00",
    "url": "https://marioadolfo.com/atraso-nos-salarios-paralisa-metade-dos-onibus-em-manaus-nesta-segunda/",
    "url_hash": "26ffcbd702fa0a0847c9a3b6"
+  },
+  "guid:6af1c1fa52c09500099e1692": {
+   "attempts": [
+    {
+     "at": "2026-11-09T13:10:25+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1534014582082766",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Brasil",
+   "description": "Cerca de 65% desses estudantes compareceram ao exame neste domingo",
+   "discovered_at": "2026-11-09T13:10:17+00:00",
+   "fb_post_id": "107393769293726_1534014582082766",
+   "formats": [
+    "link"
+   ],
+   "guid": "6af1c1fa52c09500099e1692",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ec9c52d9-b268-4c99-88c5-897e65c007e9.webp",
+   "key": "guid:6af1c1fa52c09500099e1692",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1534014582082766"
+   },
+   "source_published_at": "2026-11-09T13:06:25+00:00",
+   "status": "published",
+   "title": "Enem registra aumento na participação de alunos da rede pública",
+   "updated_at": "2026-11-09T13:10:25+00:00",
+   "url": "https://marioadolfo.com/enem-registra-aumento-na-participacao-de-alunos-da-rede-publica/",
+   "url_hash": "d81203e8b01b2f92dd8578ec"
+  },
+  "guid:6af1c56b52c09500099e16ac": {
+   "attempts": [
+    {
+     "at": "2026-11-09T13:10:52+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1534014975416060",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "Atalaia do Norte, Benjamin Constant e Tabatinga recebem recursos",
+   "discovered_at": "2026-11-09T13:10:17+00:00",
+   "fb_post_id": "107393769293726_1534014975416060",
+   "formats": [
+    "link"
+   ],
+   "guid": "6af1c56b52c09500099e16ac",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2d48e02c-93fa-402c-93b0-ca38b80f3e3b.jpg",
+   "key": "guid:6af1c56b52c09500099e16ac",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1534014975416060"
+   },
+   "source_published_at": "2026-11-09T13:09:58+00:00",
+   "status": "published",
+   "title": "Saúde repassa R$ 524 mil para conter casos de sarampo no Amazonas",
+   "updated_at": "2026-11-09T13:10:52+00:00",
+   "url": "https://marioadolfo.com/saude-repassa-r-524-mil-para-conter-casos-de-sarampo-no-amazonas/",
+   "url_hash": "2df54b5d2c2ac88bcc134bf2"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-09T13:00:19+00:00",
-  "saved_at": "2026-11-09T13:00:20+00:00"
+  "last_run_at": "2026-11-09T13:10:16+00:00",
+  "saved_at": "2026-11-09T13:10:52+00:00"
  },
  "schema": 1
 }
