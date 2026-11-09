@@ -21868,13 +21868,34 @@
    "updated_at": "2026-11-09T20:03:43+00:00",
    "url": "https://marioadolfo.com/uea-e-semed-anunciam-vagas-em-cursos-de-mestrado-para-profissionais-da-rede-municipal-de-ensino/",
    "url_hash": "46bced742c26685d0c3a02c3"
+  },
+  "guid:6af2272852c09500099e197d": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Para a Procuradoria, o objetivo da investigação foi cumprido",
+   "discovered_at": "2026-11-09T20:10:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af2272852c09500099e197d",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6d8c6b1b-cbd6-494a-bbf5-3cc6ef79f5f8.webp",
+   "key": "guid:6af2272852c09500099e197d",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-09T20:05:17+00:00",
+   "status": "pending",
+   "title": "PGR pede ao Supremo arquivamento do inquérito das fake news",
+   "updated_at": "2026-11-09T20:10:18+00:00",
+   "url": "https://marioadolfo.com/pgr-pede-ao-supremo-arquivamento-do-inquerito-das-fake-news/",
+   "url_hash": "8c576cd2b3d5e2ac913d1b12"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-09T20:03:42+00:00",
-  "saved_at": "2026-11-09T20:03:43+00:00"
+  "last_run_at": "2026-11-09T20:10:17+00:00",
+  "saved_at": "2026-11-09T20:10:18+00:00"
  },
  "schema": 1
 }
