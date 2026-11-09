@@ -21763,13 +21763,55 @@
    "updated_at": "2026-11-09T19:30:19+00:00",
    "url": "https://marioadolfo.com/prefeitura-de-manaus-convoca-aprovados-no-bolsa-universidade-2027-para-entrega-de-documentacao/",
    "url_hash": "8a0068fccd316a829fc78e5b"
+  },
+  "guid:6af2204f52c09500099e1905": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Operação Lei Seca foi intensificada entre a noite de sexta-feira (06/11) e a manhã desta segunda-feira (09/11) em Manaus",
+   "discovered_at": "2026-11-09T19:40:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af2204f52c09500099e1905",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/7c6aee01-4f63-4771-8a64-c4028038f0eb.jpeg",
+   "key": "guid:6af2204f52c09500099e1905",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-09T19:36:44+00:00",
+   "status": "pending",
+   "title": "Fiscalização contabiliza mais de mil infrações de trânsito no fim de semana",
+   "updated_at": "2026-11-09T19:40:16+00:00",
+   "url": "https://marioadolfo.com/fiscalizacao-contabiliza-mais-de-mil-infracoes-de-transito-no-fim-de-semana/",
+   "url_hash": "e81417ea5f90f36daf448981"
+  },
+  "guid:6af2211252c09500099e191b": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Senador afirma que benefícios da reforma tributária, aliados às obras na BR-319 e às dragagens dos rios, podem reduzir o custo de vida das famílias amazonenses",
+   "discovered_at": "2026-11-09T19:40:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af2211252c09500099e191b",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d78c884c-3daf-4e9e-8ae3-44bad1de5197.jpeg",
+   "key": "guid:6af2211252c09500099e191b",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-09T19:39:05+00:00",
+   "status": "pending",
+   "title": "Eduardo Braga prevê alimentos mais baratos com imposto zero da cesta básica a partir de 2027",
+   "updated_at": "2026-11-09T19:40:16+00:00",
+   "url": "https://marioadolfo.com/eduardo-braga-preve-alimentos-mais-baratos-com-imposto-zero-da-cesta-basica-a-partir-de-2027/",
+   "url_hash": "c7419459a95e1213de4944f0"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-09T19:30:18+00:00",
-  "saved_at": "2026-11-09T19:30:20+00:00"
+  "last_run_at": "2026-11-09T19:40:16+00:00",
+  "saved_at": "2026-11-09T19:40:17+00:00"
  },
  "schema": 1
 }
