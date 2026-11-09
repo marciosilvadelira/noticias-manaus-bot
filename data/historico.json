@@ -21276,13 +21276,44 @@
    "updated_at": "2026-11-09T14:00:28+00:00",
    "url": "https://marioadolfo.com/fumaca-volta-a-encobrir-parintins-e-prefeito-faz-apelo-contra-queimadas/",
    "url_hash": "47cf1740a0cab1fe2f6d7f23"
+  },
+  "guid:6af1d38752c09500099e171e": {
+   "attempts": [
+    {
+     "at": "2026-11-09T14:20:36+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1534080728742818",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "Menino chegou a ser socorrido e levado ao hospital, mas não resistiu; mãe foi apresentada à polícia pelo Conselho Tutelar",
+   "discovered_at": "2026-11-09T14:20:28+00:00",
+   "fb_post_id": "107393769293726_1534080728742818",
+   "formats": [
+    "link"
+   ],
+   "guid": "6af1d38752c09500099e171e",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0ccfd389-e59a-4685-9f51-c59c361dddfd.jpg",
+   "key": "guid:6af1d38752c09500099e171e",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1534080728742818"
+   },
+   "source_published_at": "2026-11-09T14:17:46+00:00",
+   "status": "published",
+   "title": "Menino de 6 anos morre atropelado por moto conduzida por adolescente em Itacoatiara",
+   "updated_at": "2026-11-09T14:20:36+00:00",
+   "url": "https://marioadolfo.com/menino-de-6-anos-morre-atropelado-por-moto-conduzida-por-adolescente-em-itacoatiara/",
+   "url_hash": "bcbd67341613fb97681dcba8"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-09T14:10:16+00:00",
-  "saved_at": "2026-11-09T14:10:16+00:00"
+  "last_run_at": "2026-11-09T14:20:27+00:00",
+  "saved_at": "2026-11-09T14:20:36+00:00"
  },
  "schema": 1
 }
