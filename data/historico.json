@@ -21090,13 +21090,44 @@
    "updated_at": "2026-11-09T12:30:25+00:00",
    "url": "https://marioadolfo.com/lula-se-compromete-com-responsabilidade-fiscal-e-busca-conciliacao/",
    "url_hash": "a34053a501cc4eabc5fd95b6"
+  },
+  "guid:6af1be7152c09500099e1674": {
+   "attempts": [
+    {
+     "at": "2026-11-09T12:50:20+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1533997332084491",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "Rodoviários iniciaram a suspensão do serviço após não receberem os pagamentos; sindicato prevê redução da frota para 30% e ameaça paralisação total",
+   "discovered_at": "2026-11-09T12:50:15+00:00",
+   "fb_post_id": "107393769293726_1533997332084491",
+   "formats": [
+    "link"
+   ],
+   "guid": "6af1be7152c09500099e1674",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/257adbeb-980a-4b73-95bd-fff68b19c0cb.jpg",
+   "key": "guid:6af1be7152c09500099e1674",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1533997332084491"
+   },
+   "source_published_at": "2026-11-09T12:45:33+00:00",
+   "status": "published",
+   "title": "Atraso nos salários paralisa metade dos ônibus em Manaus nesta segunda",
+   "updated_at": "2026-11-09T12:50:20+00:00",
+   "url": "https://marioadolfo.com/atraso-nos-salarios-paralisa-metade-dos-onibus-em-manaus-nesta-segunda/",
+   "url_hash": "26ffcbd702fa0a0847c9a3b6"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-09T12:40:16+00:00",
-  "saved_at": "2026-11-09T12:40:17+00:00"
+  "last_run_at": "2026-11-09T12:50:14+00:00",
+  "saved_at": "2026-11-09T12:50:20+00:00"
  },
  "schema": 1
 }
