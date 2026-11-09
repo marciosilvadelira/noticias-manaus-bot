@@ -21369,13 +21369,137 @@
    "updated_at": "2026-11-09T15:40:30+00:00",
    "url": "https://marioadolfo.com/gas-do-povo-governo-prorroga-vigencia-do-auxilio-ate-2031/",
    "url_hash": "3c609154a6f1834d7f368881"
+  },
+  "guid:6af1e9a652c09500099e1770": {
+   "attempts": [
+    {
+     "at": "2026-11-09T15:50:27+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1534153425402215",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "A paralisação atinge 40% da frota do transporte coletivo da capital por atraso de salários",
+   "discovered_at": "2026-11-09T15:50:19+00:00",
+   "fb_post_id": "107393769293726_1534153425402215",
+   "formats": [
+    "link"
+   ],
+   "guid": "6af1e9a652c09500099e1770",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b7ecfa8d-e636-41d3-bb7c-87f8353c347a.png",
+   "key": "guid:6af1e9a652c09500099e1770",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1534153425402215"
+   },
+   "source_published_at": "2026-11-09T15:43:49+00:00",
+   "status": "published",
+   "title": "Ufam, Ifam e UEA suspendem atividades por conta de greve de ônibus",
+   "updated_at": "2026-11-09T15:50:27+00:00",
+   "url": "https://marioadolfo.com/ufam-ifam-e-uea-suspendem-atividades-por-conta-de-greve-de-onibus/",
+   "url_hash": "ac33c7bcb32fb4175ae38111"
+  },
+  "guid:6af1e9ef52c09500099e177b": {
+   "attempts": [
+    {
+     "at": "2026-11-09T15:50:57+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1534153922068832",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Brasil",
+   "description": "Programa atende atualmente 15 milhões de famílias",
+   "discovered_at": "2026-11-09T15:50:19+00:00",
+   "fb_post_id": "107393769293726_1534153922068832",
+   "formats": [
+    "link"
+   ],
+   "guid": "6af1e9ef52c09500099e177b",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5cc98908-c91b-4908-80ed-43b1e5ba3983.jpg",
+   "key": "guid:6af1e9ef52c09500099e177b",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1534153922068832"
+   },
+   "source_published_at": "2026-11-09T15:45:32+00:00",
+   "status": "published",
+   "title": "Gás do Povo: governo prorroga vigência do auxílio até 2031",
+   "updated_at": "2026-11-09T15:50:57+00:00",
+   "url": "https://marioadolfo.com/gas-do-povo-governo-prorroga-vigencia-do-auxilio-ate-2031-2/",
+   "url_hash": "fc053cace5020ffaf56cd8b7"
+  },
+  "guid:6af1ea4d52c09500099e1793": {
+   "attempts": [
+    {
+     "at": "2026-11-09T15:51:51+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1534154642068760",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "Decisão judicial aplica ao cargo o mesmo entendimento que havia restabelecido o certame para analista, jornalista e técnico legislativo",
+   "discovered_at": "2026-11-09T15:50:19+00:00",
+   "fb_post_id": "107393769293726_1534154642068760",
+   "formats": [
+    "link"
+   ],
+   "guid": "6af1ea4d52c09500099e1793",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/bd3fb528-d34c-4b66-82bb-0896118c536c.jpeg",
+   "key": "guid:6af1ea4d52c09500099e1793",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1534154642068760"
+   },
+   "source_published_at": "2026-11-09T15:48:16+00:00",
+   "status": "published",
+   "title": "Justiça restabelece concurso da Câmara de Manaus para o cargo de Redator",
+   "updated_at": "2026-11-09T15:51:51+00:00",
+   "url": "https://marioadolfo.com/justica-restabelece-concurso-da-camara-de-manaus-para-o-cargo-de-redator/",
+   "url_hash": "52efa546c8404d29b5184ca9"
+  },
+  "guid:6af1eb0152c09500099e17a8": {
+   "attempts": [
+    {
+     "at": "2026-11-09T15:51:25+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1534154285402129",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Polícia",
+   "description": "Agressão ocorreu durante uma discussão na casa de familiares; suspeito tentou fugir pela janela ao perceber a chegada da polícia.",
+   "discovered_at": "2026-11-09T15:50:19+00:00",
+   "fb_post_id": "107393769293726_1534154285402129",
+   "formats": [
+    "link"
+   ],
+   "guid": "6af1eb0152c09500099e17a8",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a919a2d2-8023-4b51-9417-c6787f5519fb.jpeg",
+   "key": "guid:6af1eb0152c09500099e17a8",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1534154285402129"
+   },
+   "source_published_at": "2026-11-09T15:48:06+00:00",
+   "status": "published",
+   "title": "Homem agride irmã com mesa e acaba preso em Alvarães",
+   "updated_at": "2026-11-09T15:51:25+00:00",
+   "url": "https://marioadolfo.com/homem-agride-irma-com-mesa-e-acaba-preso-em-alvaraes/",
+   "url_hash": "39c8ba12cdef7dc6178f2477"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-09T15:40:15+00:00",
-  "saved_at": "2026-11-09T15:40:30+00:00"
+  "last_run_at": "2026-11-09T15:50:16+00:00",
+  "saved_at": "2026-11-09T15:51:51+00:00"
  },
  "schema": 1
 }
