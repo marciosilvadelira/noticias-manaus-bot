@@ -21889,13 +21889,34 @@
    "updated_at": "2026-11-09T20:10:18+00:00",
    "url": "https://marioadolfo.com/pgr-pede-ao-supremo-arquivamento-do-inquerito-das-fake-news/",
    "url_hash": "8c576cd2b3d5e2ac913d1b12"
+  },
+  "guid:6af2443c52c09500099e1992": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "O Governo reafirmou que os pagamentos referentes à gratuidade estudantil estão em dia; já foram pagos R$ 27 milhões destinados ao benefício",
+   "discovered_at": "2026-11-09T22:20:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af2443c52c09500099e1992",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/3d6a6019-f826-4139-a182-884259c1996d.jpeg",
+   "key": "guid:6af2443c52c09500099e1992",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-09T22:13:19+00:00",
+   "status": "pending",
+   "title": "Governo do Amazonas anuncia novo repasse de R$ 4 milhões para Passe Livre estudantil",
+   "updated_at": "2026-11-09T22:20:16+00:00",
+   "url": "https://marioadolfo.com/governo-do-amazonas-anuncia-novo-repasse-de-r-4-milhoes-para-passe-livre-estudantil/",
+   "url_hash": "be89ce86bac84c24fadc1835"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-09T22:10:17+00:00",
-  "saved_at": "2026-11-09T22:10:19+00:00"
+  "last_run_at": "2026-11-09T22:20:15+00:00",
+  "saved_at": "2026-11-09T22:20:17+00:00"
  },
  "schema": 1
 }
