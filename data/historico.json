@@ -21183,13 +21183,75 @@
    "updated_at": "2026-11-09T13:10:52+00:00",
    "url": "https://marioadolfo.com/saude-repassa-r-524-mil-para-conter-casos-de-sarampo-no-amazonas/",
    "url_hash": "2df54b5d2c2ac88bcc134bf2"
+  },
+  "guid:6af1c63552c09500099e16c2": {
+   "attempts": [
+    {
+     "at": "2026-11-09T13:20:23+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1534023362081888",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Brasil",
+   "description": "PGR alega que liberação de casas de apostas gera insegurança jurídica",
+   "discovered_at": "2026-11-09T13:20:15+00:00",
+   "fb_post_id": "107393769293726_1534023362081888",
+   "formats": [
+    "link"
+   ],
+   "guid": "6af1c63552c09500099e16c2",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/53cefe6f-8de3-48b6-9839-bc8003f9c1a5.jpg",
+   "key": "guid:6af1c63552c09500099e16c2",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1534023362081888"
+   },
+   "source_published_at": "2026-11-09T13:12:27+00:00",
+   "status": "published",
+   "title": "Fux suspende todas as ações judiciais contra proibição de bets no país",
+   "updated_at": "2026-11-09T13:20:23+00:00",
+   "url": "https://marioadolfo.com/fux-suspende-todas-as-acoes-judiciais-contra-proibicao-de-bets-no-pais/",
+   "url_hash": "ec1f8c7866cd75018874d377"
+  },
+  "guid:6af1c6e752c09500099e16dc": {
+   "attempts": [
+    {
+     "at": "2026-11-09T13:20:52+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1534023732081851",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "Filme de Orlando Júnior foi escolhido pelo Júri Oficial e também venceu nas categorias Melhor Direção e Melhor Elenco; o diretor integrou equipes de outras duas produções premiadas",
+   "discovered_at": "2026-11-09T13:20:15+00:00",
+   "fb_post_id": "107393769293726_1534023732081851",
+   "formats": [
+    "link"
+   ],
+   "guid": "6af1c6e752c09500099e16dc",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/cb626554-232f-4cda-ae3e-2074bcd2f4e1.jpeg",
+   "key": "guid:6af1c6e752c09500099e16dc",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1534023732081851"
+   },
+   "source_published_at": "2026-11-09T13:14:34+00:00",
+   "status": "published",
+   "title": "‘O Dilema de Antônia’ é eleito Melhor Curta-Metragem Amazonense da Mostra 2026",
+   "updated_at": "2026-11-09T13:20:52+00:00",
+   "url": "https://marioadolfo.com/o-dilema-de-antonia-e-eleito-melhor-curta-metragem-amazonense-da-mostra-2026/",
+   "url_hash": "9da4fe85a3742db5740f2ca7"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-09T13:10:16+00:00",
-  "saved_at": "2026-11-09T13:10:52+00:00"
+  "last_run_at": "2026-11-09T13:20:15+00:00",
+  "saved_at": "2026-11-09T13:20:52+00:00"
  },
  "schema": 1
 }
