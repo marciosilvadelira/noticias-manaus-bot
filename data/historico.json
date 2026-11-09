@@ -21493,13 +21493,75 @@
    "updated_at": "2026-11-09T15:51:25+00:00",
    "url": "https://marioadolfo.com/homem-agride-irma-com-mesa-e-acaba-preso-em-alvaraes/",
    "url_hash": "39c8ba12cdef7dc6178f2477"
+  },
+  "guid:6af1ebf452c09500099e17d0": {
+   "attempts": [
+    {
+     "at": "2026-11-09T16:00:28+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1534162172068007",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Polícia",
+   "description": "Operação Natal Mais Seguro começa nesta segunda-feira (9) e reúne efetivo de diferentes unidades da corporação na capital e no interior.",
+   "discovered_at": "2026-11-09T16:00:21+00:00",
+   "fb_post_id": "107393769293726_1534162172068007",
+   "formats": [
+    "link"
+   ],
+   "guid": "6af1ebf452c09500099e17d0",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/1e499513-fe71-4cf1-ac95-880a92cee6e2.jpeg",
+   "key": "guid:6af1ebf452c09500099e17d0",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1534162172068007"
+   },
+   "source_published_at": "2026-11-09T15:53:53+00:00",
+   "status": "published",
+   "title": "Amazonas lança operação com reforço de 1,6 mil policiais para o fim de ano",
+   "updated_at": "2026-11-09T16:00:28+00:00",
+   "url": "https://marioadolfo.com/amazonas-lanca-operacao-com-reforco-de-1-6-mil-policiais-para-o-fim-de-ano/",
+   "url_hash": "f03f61282ed2ee7957d2cf86"
+  },
+  "guid:6af1ed8752c09500099e17ea": {
+   "attempts": [
+    {
+     "at": "2026-11-09T16:00:54+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1534162642067960",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "Do total, 11 são processos adiados e pedidos de vista, sendo cinco recursos, três representações, dois embargos de declaração e uma prestação de contas",
+   "discovered_at": "2026-11-09T16:00:21+00:00",
+   "fb_post_id": "107393769293726_1534162642067960",
+   "formats": [
+    "link"
+   ],
+   "guid": "6af1ed8752c09500099e17ea",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6caec304-b938-42de-aa23-223078577f31.jpeg",
+   "key": "guid:6af1ed8752c09500099e17ea",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1534162642067960"
+   },
+   "source_published_at": "2026-11-09T15:59:08+00:00",
+   "status": "published",
+   "title": "TCE-AM aprecia 79 processos na sessão desta terça-feira (10)",
+   "updated_at": "2026-11-09T16:00:54+00:00",
+   "url": "https://marioadolfo.com/tce-am-aprecia-79-processos-na-sessao-desta-terca-feira-10/",
+   "url_hash": "16977fcee70dfeb83cebf9e8"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-09T15:50:16+00:00",
-  "saved_at": "2026-11-09T15:51:51+00:00"
+  "last_run_at": "2026-11-09T16:00:20+00:00",
+  "saved_at": "2026-11-09T16:00:54+00:00"
  },
  "schema": 1
 }
