@@ -21648,13 +21648,44 @@
    "updated_at": "2026-11-09T17:10:22+00:00",
    "url": "https://marioadolfo.com/projeto-de-biodigestores-rende-a-eneva-certificado-de-reconhecimento-da-lei-de-incentivo-a-reciclagem/",
    "url_hash": "bfbe302ec37afe802750c909"
+  },
+  "guid:6af1ff3152c09500099e1863": {
+   "attempts": [
+    {
+     "at": "2026-11-09T17:20:22+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1534226692061555",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Polícia",
+   "description": "O homem ainda tentou matar a sogra. A segunda vítima está internada",
+   "discovered_at": "2026-11-09T17:20:16+00:00",
+   "fb_post_id": "107393769293726_1534226692061555",
+   "formats": [
+    "link"
+   ],
+   "guid": "6af1ff3152c09500099e1863",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/3838d84b-ba41-4420-93a8-71ee33af0fb3.jpeg",
+   "key": "guid:6af1ff3152c09500099e1863",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1534226692061555"
+   },
+   "source_published_at": "2026-11-09T17:14:58+00:00",
+   "status": "published",
+   "title": "Mulher é morta a facadas pelo marido, que também morre em Tefé",
+   "updated_at": "2026-11-09T17:20:22+00:00",
+   "url": "https://marioadolfo.com/mulher-e-morta-a-facadas-pelo-marido-que-tambem-morre-em-tefe/",
+   "url_hash": "9a2be46b6ea794b28d8379cf"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-09T17:10:15+00:00",
-  "saved_at": "2026-11-09T17:10:22+00:00"
+  "last_run_at": "2026-11-09T17:20:15+00:00",
+  "saved_at": "2026-11-09T17:20:22+00:00"
  },
  "schema": 1
 }
