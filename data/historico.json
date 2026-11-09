@@ -21721,13 +21721,55 @@
    "updated_at": "2026-11-09T19:20:19+00:00",
    "url": "https://marioadolfo.com/nomeacao-de-maria-benigno-reforca-maioria-feminina-no-pleno-do-tre-am/",
    "url_hash": "191c3b1a653c5c166372b6d8"
+  },
+  "guid:6af21cff52c09500099e18d0": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A declaração foi feita pelo prefeito de Manaus, Renato Junior, durante aula inaugural da nova turma de guardas municipais",
+   "discovered_at": "2026-11-09T19:30:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af21cff52c09500099e18d0",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c6b518ea-7b8e-49c7-98f6-ff5f2db944ba.jpeg",
+   "key": "guid:6af21cff52c09500099e18d0",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-09T19:24:34+00:00",
+   "status": "pending",
+   "title": "Centro de Manaus receberá reforço de 200 novos guardas municipais, anuncia prefeito",
+   "updated_at": "2026-11-09T19:30:19+00:00",
+   "url": "https://marioadolfo.com/centro-de-manaus-recebera-reforco-de-200-novos-guardas-municipais-anuncia-prefeito/",
+   "url_hash": "fd95ac4efc5e25102b2febc8"
+  },
+  "guid:6af21e2652c09500099e18ef": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "O processo, de caráter presencial e eliminatório, ocorre de 9 a 13 de novembro",
+   "discovered_at": "2026-11-09T19:30:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af21e2652c09500099e18ef",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d5ad59ae-8135-4a05-940b-9f8321f4d92a.jpeg",
+   "key": "guid:6af21e2652c09500099e18ef",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-09T19:26:53+00:00",
+   "status": "pending",
+   "title": "Prefeitura de Manaus convoca aprovados no Bolsa Universidade 2027 para entrega de documentação",
+   "updated_at": "2026-11-09T19:30:19+00:00",
+   "url": "https://marioadolfo.com/prefeitura-de-manaus-convoca-aprovados-no-bolsa-universidade-2027-para-entrega-de-documentacao/",
+   "url_hash": "8a0068fccd316a829fc78e5b"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-09T19:20:18+00:00",
-  "saved_at": "2026-11-09T19:20:19+00:00"
+  "last_run_at": "2026-11-09T19:30:18+00:00",
+  "saved_at": "2026-11-09T19:30:20+00:00"
  },
  "schema": 1
 }
