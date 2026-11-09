@@ -21245,13 +21245,44 @@
    "updated_at": "2026-11-09T13:20:52+00:00",
    "url": "https://marioadolfo.com/o-dilema-de-antonia-e-eleito-melhor-curta-metragem-amazonense-da-mostra-2026/",
    "url_hash": "9da4fe85a3742db5740f2ca7"
+  },
+  "guid:6af1cf5e52c09500099e1708": {
+   "attempts": [
+    {
+     "at": "2026-11-09T14:00:28+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1534063812077843",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Parintins",
+   "description": "Qualidade do ar voltou a ser classificada como péssima; incêndios atingem áreas urbanas e rurais do município.",
+   "discovered_at": "2026-11-09T14:00:22+00:00",
+   "fb_post_id": "107393769293726_1534063812077843",
+   "formats": [
+    "link"
+   ],
+   "guid": "6af1cf5e52c09500099e1708",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/3d0fd9e8-6708-452b-b374-8064944dcf6d.jpeg",
+   "key": "guid:6af1cf5e52c09500099e1708",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1534063812077843"
+   },
+   "source_published_at": "2026-11-09T13:52:23+00:00",
+   "status": "published",
+   "title": "Fumaça volta a encobrir Parintins, e prefeito faz apelo contra queimadas",
+   "updated_at": "2026-11-09T14:00:28+00:00",
+   "url": "https://marioadolfo.com/fumaca-volta-a-encobrir-parintins-e-prefeito-faz-apelo-contra-queimadas/",
+   "url_hash": "47cf1740a0cab1fe2f6d7f23"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-09T13:50:14+00:00",
-  "saved_at": "2026-11-09T13:50:14+00:00"
+  "last_run_at": "2026-11-09T14:00:20+00:00",
+  "saved_at": "2026-11-09T14:00:28+00:00"
  },
  "schema": 1
 }
