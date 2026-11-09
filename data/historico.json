@@ -21338,13 +21338,44 @@
    "updated_at": "2026-11-09T15:20:25+00:00",
    "url": "https://marioadolfo.com/prefeitura-de-manaus-abre-60-vagas-para-curso-de-leitura-de-componentes/",
    "url_hash": "da1c34169fefd5c18314362b"
+  },
+  "guid:6af1e90e52c09500099e1759": {
+   "attempts": [
+    {
+     "at": "2026-11-09T15:40:30+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1534145135403044",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Brasil",
+   "description": "Programa atende atualmente 15 milhões de famílias no país",
+   "discovered_at": "2026-11-09T15:40:16+00:00",
+   "fb_post_id": "107393769293726_1534145135403044",
+   "formats": [
+    "link"
+   ],
+   "guid": "6af1e90e52c09500099e1759",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/fe438d72-8dc4-4022-95a1-1ffcbfa0197d.webp",
+   "key": "guid:6af1e90e52c09500099e1759",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1534145135403044"
+   },
+   "source_published_at": "2026-11-09T15:40:15+00:00",
+   "status": "published",
+   "title": "Gás do Povo: governo prorroga vigência do auxílio até 2031",
+   "updated_at": "2026-11-09T15:40:30+00:00",
+   "url": "https://marioadolfo.com/gas-do-povo-governo-prorroga-vigencia-do-auxilio-ate-2031/",
+   "url_hash": "3c609154a6f1834d7f368881"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-09T15:30:19+00:00",
-  "saved_at": "2026-11-09T15:30:20+00:00"
+  "last_run_at": "2026-11-09T15:40:15+00:00",
+  "saved_at": "2026-11-09T15:40:30+00:00"
  },
  "schema": 1
 }
