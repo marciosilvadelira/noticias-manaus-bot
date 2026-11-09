@@ -21679,13 +21679,34 @@
    "updated_at": "2026-11-09T17:20:22+00:00",
    "url": "https://marioadolfo.com/mulher-e-morta-a-facadas-pelo-marido-que-tambem-morre-em-tefe/",
    "url_hash": "9a2be46b6ea794b28d8379cf"
+  },
+  "guid:6af201c952c09500099e189c": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Lucas Lobo da Silva confessou o crime. Pelo menos cinco pessoas participaram das agressões no ramal do Brasileirinho",
+   "discovered_at": "2026-11-09T17:30:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af201c952c09500099e189c",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/bb95ba4a-6c2f-473d-a14b-c4fae10a1353.jpeg",
+   "key": "guid:6af201c952c09500099e189c",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-09T17:25:48+00:00",
+   "status": "pending",
+   "title": "Jovem é preso suspeito de participar de linchamento de homem em Manaus",
+   "updated_at": "2026-11-09T17:30:19+00:00",
+   "url": "https://marioadolfo.com/jovem-e-preso-suspeito-de-participar-de-linchamento-de-homem-em-manaus/",
+   "url_hash": "24db2f438d318ae1139d8851"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-09T17:20:15+00:00",
-  "saved_at": "2026-11-09T17:20:22+00:00"
+  "last_run_at": "2026-11-09T17:30:19+00:00",
+  "saved_at": "2026-11-09T17:30:20+00:00"
  },
  "schema": 1
 }
