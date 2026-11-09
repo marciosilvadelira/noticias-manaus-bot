@@ -21555,13 +21555,75 @@
    "updated_at": "2026-11-09T16:00:54+00:00",
    "url": "https://marioadolfo.com/tce-am-aprecia-79-processos-na-sessao-desta-terca-feira-10/",
    "url_hash": "16977fcee70dfeb83cebf9e8"
+  },
+  "guid:6af1f95252c09500099e180c": {
+   "attempts": [
+    {
+     "at": "2026-11-09T17:00:27+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1534211348729756",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "A nova atração deverá funcionar regularmente no primeiro fim de semana de cada mês, com sessões e horários previamente divulgados pela prefeitura",
+   "discovered_at": "2026-11-09T17:00:21+00:00",
+   "fb_post_id": "107393769293726_1534211348729756",
+   "formats": [
+    "link"
+   ],
+   "guid": "6af1f95252c09500099e180c",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f1cb7d48-7cb1-4870-80fc-173ac8fa399e.jpeg",
+   "key": "guid:6af1f95252c09500099e180c",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1534211348729756"
+   },
+   "source_published_at": "2026-11-09T16:50:28+00:00",
+   "status": "published",
+   "title": "Prefeitura de Manaus inaugura ‘Casinha Neon’ no Parque Cidade da Criança",
+   "updated_at": "2026-11-09T17:00:27+00:00",
+   "url": "https://marioadolfo.com/prefeitura-de-manaus-inaugura-casinha-neon-no-parque-cidade-da-crianca/",
+   "url_hash": "45076eecfe8f1c949403025c"
+  },
+  "guid:6af1fa9c52c09500099e1831": {
+   "attempts": [
+    {
+     "at": "2026-11-09T17:00:53+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1534211705396387",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "David Barrera, da Espanha, e Dario di Vietri, da Itália, participam pela primeira vez de apresentações no Brasil",
+   "discovered_at": "2026-11-09T17:00:21+00:00",
+   "fb_post_id": "107393769293726_1534211705396387",
+   "formats": [
+    "link"
+   ],
+   "guid": "6af1fa9c52c09500099e1831",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b64ef636-6681-478e-a3db-e3306ae215eb.jpeg",
+   "key": "guid:6af1fa9c52c09500099e1831",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1534211705396387"
+   },
+   "source_published_at": "2026-11-09T16:57:07+00:00",
+   "status": "published",
+   "title": "Teatro Amazonas recebe artistas internacionais em edição do Encontro de Tenores do Brasil",
+   "updated_at": "2026-11-09T17:00:53+00:00",
+   "url": "https://marioadolfo.com/teatro-amazonas-recebe-artistas-internacionais-em-edicao-do-encontro-de-tenores-do-brasil/",
+   "url_hash": "16a033d5a35c4fb540f5d142"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-09T16:50:15+00:00",
-  "saved_at": "2026-11-09T16:50:16+00:00"
+  "last_run_at": "2026-11-09T17:00:21+00:00",
+  "saved_at": "2026-11-09T17:00:53+00:00"
  },
  "schema": 1
 }
