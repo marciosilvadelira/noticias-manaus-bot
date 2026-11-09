@@ -21059,13 +21059,44 @@
    "updated_at": "2026-11-08T18:20:25+00:00",
    "url": "https://marioadolfo.com/tema-da-redacao-do-enem-e-valorizacao-do-sus-como-direito-universal/",
    "url_hash": "6259532a8916a2e3efecddfe"
+  },
+  "guid:6af1bb2452c09500099e165a": {
+   "attempts": [
+    {
+     "at": "2026-11-09T12:30:25+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1533981215419436",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Brasil",
+   "description": "Em pronunciamento, o presidente reforçou prioridades do governo",
+   "discovered_at": "2026-11-09T12:30:18+00:00",
+   "fb_post_id": "107393769293726_1533981215419436",
+   "formats": [
+    "link"
+   ],
+   "guid": "6af1bb2452c09500099e165a",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0285e276-17fd-46cd-8434-67d9ddedb3ab.jpg",
+   "key": "guid:6af1bb2452c09500099e165a",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1533981215419436"
+   },
+   "source_published_at": "2026-11-09T12:25:18+00:00",
+   "status": "published",
+   "title": "Lula se compromete com responsabilidade fiscal e busca conciliação",
+   "updated_at": "2026-11-09T12:30:25+00:00",
+   "url": "https://marioadolfo.com/lula-se-compromete-com-responsabilidade-fiscal-e-busca-conciliacao/",
+   "url_hash": "a34053a501cc4eabc5fd95b6"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-09T12:20:15+00:00",
-  "saved_at": "2026-11-09T12:20:16+00:00"
+  "last_run_at": "2026-11-09T12:30:17+00:00",
+  "saved_at": "2026-11-09T12:30:25+00:00"
  },
  "schema": 1
 }
