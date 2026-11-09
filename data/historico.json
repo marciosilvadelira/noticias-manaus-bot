@@ -21617,13 +21617,44 @@
    "updated_at": "2026-11-09T17:00:53+00:00",
    "url": "https://marioadolfo.com/teatro-amazonas-recebe-artistas-internacionais-em-edicao-do-encontro-de-tenores-do-brasil/",
    "url_hash": "16a033d5a35c4fb540f5d142"
+  },
+  "guid:6af1fbb352c09500099e184b": {
+   "attempts": [
+    {
+     "at": "2026-11-09T17:10:22+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1534218778729013",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "Homenagem do Ministério do Meio Ambiente e Mudança do Clima destaca contribuição da companhia para a economia circular e a destinação sustentável de resíduos",
+   "discovered_at": "2026-11-09T17:10:15+00:00",
+   "fb_post_id": "107393769293726_1534218778729013",
+   "formats": [
+    "link"
+   ],
+   "guid": "6af1fbb352c09500099e184b",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0ec1475c-b4cc-41eb-8dd8-4292c42841d1.jpeg",
+   "key": "guid:6af1fbb352c09500099e184b",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1534218778729013"
+   },
+   "source_published_at": "2026-11-09T17:01:50+00:00",
+   "status": "published",
+   "title": "Projeto de biodigestores rende à Eneva Certificado de Reconhecimento da Lei de Incentivo à Reciclagem",
+   "updated_at": "2026-11-09T17:10:22+00:00",
+   "url": "https://marioadolfo.com/projeto-de-biodigestores-rende-a-eneva-certificado-de-reconhecimento-da-lei-de-incentivo-a-reciclagem/",
+   "url_hash": "bfbe302ec37afe802750c909"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-09T17:00:21+00:00",
-  "saved_at": "2026-11-09T17:00:53+00:00"
+  "last_run_at": "2026-11-09T17:10:15+00:00",
+  "saved_at": "2026-11-09T17:10:22+00:00"
  },
  "schema": 1
 }
