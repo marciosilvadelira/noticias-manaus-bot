@@ -21826,13 +21826,34 @@
    "updated_at": "2026-11-09T19:50:16+00:00",
    "url": "https://marioadolfo.com/homem-e-por-descumprir-medida-protetiva-e-furtar-flutuante-da-ex-companheira/",
    "url_hash": "9a64070a649d71ab6020c9ba"
+  },
+  "guid:6af2240152c09500099e1946": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Crimes teriam começado em dezembro de 2025, na Venezuela, e continuaram após a chegada da família a Manaus",
+   "discovered_at": "2026-11-09T20:00:24+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af2240152c09500099e1946",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/423eaba0-ee00-4f29-ae35-36c770f84468.png",
+   "key": "guid:6af2240152c09500099e1946",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-09T19:54:54+00:00",
+   "status": "pending",
+   "title": "Venezuelano é preso em Manaus por estupro da própria filha de 15 anos",
+   "updated_at": "2026-11-09T20:00:24+00:00",
+   "url": "https://marioadolfo.com/venezuelano-e-preso-em-manaus-por-estupro-da-propria-filha-de-15-anos/",
+   "url_hash": "3d029a1b962eeb031ac6732b"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-09T19:50:15+00:00",
-  "saved_at": "2026-11-09T19:50:16+00:00"
+  "last_run_at": "2026-11-09T20:00:23+00:00",
+  "saved_at": "2026-11-09T20:00:24+00:00"
  },
  "schema": 1
 }
