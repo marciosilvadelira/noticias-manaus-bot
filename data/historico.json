@@ -22467,13 +22467,76 @@
    "updated_at": "2026-11-10T19:40:17+00:00",
    "url": "https://marioadolfo.com/tio-e-preso-por-estuprar-e-engravidar-a-sobrinha-em-careiro-da-varzea/",
    "url_hash": "a8aa146aa15f2287417b0bea"
+  },
+  "guid:6af372bd52c09500099e1b93": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Nova regra aprovada pelo CNJ permitirá corrigir registros antigos e criar base nacional de dados sobre mortes em intervenções de segurança pública",
+   "discovered_at": "2026-11-10T19:50:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af372bd52c09500099e1b93",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b6509896-5a46-4435-89dd-32cb21cf9cb5.jpg",
+   "key": "guid:6af372bd52c09500099e1b93",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-10T19:41:04+00:00",
+   "status": "pending",
+   "title": "Certidões de óbito passam a identificar mortes ocorridas durante intervenções policiais",
+   "updated_at": "2026-11-10T19:50:15+00:00",
+   "url": "https://marioadolfo.com/certidoes-de-obito-passam-a-identificar-mortes-ocorridas-durante-intervencoes-policiais/",
+   "url_hash": "8cb6058fb193d98c157bfb8c"
+  },
+  "guid:6af3737152c09500099e1bac": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Nova modalidade permite resgatar ganhos de até R$ 2.428,80",
+   "discovered_at": "2026-11-10T19:50:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af3737152c09500099e1bac",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/8a077c80-2539-418e-9479-260508fe2b84.jpg",
+   "key": "guid:6af3737152c09500099e1bac",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-10T19:42:35+00:00",
+   "status": "pending",
+   "title": "Caixa passa a pagar prêmios de loterias via Pix em apostas digitais",
+   "updated_at": "2026-11-10T19:50:15+00:00",
+   "url": "https://marioadolfo.com/caixa-passa-a-pagar-premios-de-loterias-via-pix-em-apostas-digitais/",
+   "url_hash": "8c1746ce481926cff6bc62c0"
+  },
+  "guid:6af3746a52c09500099e1bc0": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "O crime ocorreu em 2024, na residência onde o casal vivia, no bairro Gilberto Mestrinho",
+   "discovered_at": "2026-11-10T19:50:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af3746a52c09500099e1bc0",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/1954be1d-507d-4fbe-a0f1-3ffdbccef161.jpeg",
+   "key": "guid:6af3746a52c09500099e1bc0",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-10T19:48:27+00:00",
+   "status": "pending",
+   "title": "Feminicídio: réu é condenado a mais de 24 anos de prisão pelo morte da companheira",
+   "updated_at": "2026-11-10T19:50:15+00:00",
+   "url": "https://marioadolfo.com/reu-e-condenado-a-mais-de-24-anos-de-prisao-pelo-morte-da-companheira/",
+   "url_hash": "2459b4471873d4fba6685331"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-10T19:40:16+00:00",
-  "saved_at": "2026-11-10T19:40:19+00:00"
+  "last_run_at": "2026-11-10T19:50:14+00:00",
+  "saved_at": "2026-11-10T19:50:16+00:00"
  },
  "schema": 1
 }
