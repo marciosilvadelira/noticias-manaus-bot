@@ -22320,13 +22320,34 @@
    "updated_at": "2026-11-10T15:40:22+00:00",
    "url": "https://marioadolfo.com/nota-fiscal-amazonense-sorteia-r-300-mil-em-premios-na-proxima-quarta-feira/",
    "url_hash": "81a0de954e27453fb67c56db"
+  },
+  "guid:6af3499052c09500099e1acc": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Comissão formada por 33 servidores examina a movimentação financeira de candidatos e partidos; apresentação das contas é etapa obrigatória do processo eleitoral e exige atenção aos prazos e às regras da legislação.",
+   "discovered_at": "2026-11-10T16:50:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af3499052c09500099e1acc",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0eea9791-e795-4d68-84d0-3e71c104e849.jpg",
+   "key": "guid:6af3499052c09500099e1acc",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-10T16:47:42+00:00",
+   "status": "pending",
+   "title": "TRE-AM intensifica análise das prestações de contas das Eleições 2026",
+   "updated_at": "2026-11-10T16:50:17+00:00",
+   "url": "https://marioadolfo.com/tre-am-intensifica-analise-das-prestacoes-de-contas-das-eleicoes-2026/",
+   "url_hash": "c20036b18cb98ec06b519778"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-10T16:40:16+00:00",
-  "saved_at": "2026-11-10T16:40:18+00:00"
+  "last_run_at": "2026-11-10T16:50:16+00:00",
+  "saved_at": "2026-11-10T16:50:17+00:00"
  },
  "schema": 1
 }
