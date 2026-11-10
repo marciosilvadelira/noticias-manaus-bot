@@ -22341,13 +22341,34 @@
    "updated_at": "2026-11-10T16:50:17+00:00",
    "url": "https://marioadolfo.com/tre-am-intensifica-analise-das-prestacoes-de-contas-das-eleicoes-2026/",
    "url_hash": "c20036b18cb98ec06b519778"
+  },
+  "guid:6af34b3c52c09500099e1ae3": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "São eles: genérico de semaglutida e Loryvia (produto similar)",
+   "discovered_at": "2026-11-10T18:00:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af34b3c52c09500099e1ae3",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6918725f-0d3c-43f2-a62d-b41a3d941313.jpg",
+   "key": "guid:6af34b3c52c09500099e1ae3",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-10T17:53:44+00:00",
+   "status": "pending",
+   "title": "Anvisa registra duas novas canetas emagrecedoras de semaglutida",
+   "updated_at": "2026-11-10T18:00:21+00:00",
+   "url": "https://marioadolfo.com/anvisa-registra-duas-novas-canetas-emagrecedoras-de-semaglutida/",
+   "url_hash": "eabb4dfe7a455c9c30de0786"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-10T17:50:14+00:00",
-  "saved_at": "2026-11-10T17:50:19+00:00"
+  "last_run_at": "2026-11-10T18:00:20+00:00",
+  "saved_at": "2026-11-10T18:00:22+00:00"
  },
  "schema": 1
 }
