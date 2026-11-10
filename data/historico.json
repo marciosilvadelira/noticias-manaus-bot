@@ -22206,13 +22206,44 @@
    "updated_at": "2026-11-10T14:30:25+00:00",
    "url": "https://marioadolfo.com/pf-faz-operacao-contra-fraude-em-registro-de-armas-e-apreende-arma-em-manaus/",
    "url_hash": "63e39a338644d623415bddb5"
+  },
+  "guid:6af32eaf52c09500099e1a6e": {
+   "attempts": [
+    {
+     "at": "2026-11-10T15:00:31+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1535201948630696",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Brasil",
+   "description": "Objetivo é evitar impacto inflacionário da alta de preços do petróleo",
+   "discovered_at": "2026-11-10T15:00:22+00:00",
+   "fb_post_id": "107393769293726_1535201948630696",
+   "formats": [
+    "link"
+   ],
+   "guid": "6af32eaf52c09500099e1a6e",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b358118d-ab7c-4214-a137-59ad8ee565a7.jpg",
+   "key": "guid:6af32eaf52c09500099e1a6e",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1535201948630696"
+   },
+   "source_published_at": "2026-11-10T14:52:50+00:00",
+   "status": "published",
+   "title": "Governo prorroga até 9 de dezembro desoneração da gasolina e do etanol",
+   "updated_at": "2026-11-10T15:00:31+00:00",
+   "url": "https://marioadolfo.com/governo-prorroga-ate-9-de-dezembro-desoneracao-da-gasolina-e-do-etanol/",
+   "url_hash": "665808669dbfbc09e30f32b6"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-10T14:50:16+00:00",
-  "saved_at": "2026-11-10T14:50:17+00:00"
+  "last_run_at": "2026-11-10T15:00:22+00:00",
+  "saved_at": "2026-11-10T15:00:31+00:00"
  },
  "schema": 1
 }
