@@ -22530,13 +22530,76 @@
    "updated_at": "2026-11-10T19:50:15+00:00",
    "url": "https://marioadolfo.com/reu-e-condenado-a-mais-de-24-anos-de-prisao-pelo-morte-da-companheira/",
    "url_hash": "2459b4471873d4fba6685331"
+  },
+  "guid:6af3755d52c09500099e1bd9": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Conselheiro Josué Cláudio de Souza, participou, na manhã desta terça-feira (10), da solenidade de entrega da Medalha e Diploma da Ordem do Mérito Judiciário 2026",
+   "discovered_at": "2026-11-10T20:00:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af3755d52c09500099e1bd9",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/7ec5a66e-1b10-4bd6-a595-c06bc1cbaf1c.jpg",
+   "key": "guid:6af3755d52c09500099e1bd9",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-10T18:00:00+00:00",
+   "status": "pending",
+   "title": "Vice-presidente do TCE-AM participa de solenidade do Mérito Judiciário",
+   "updated_at": "2026-11-10T20:00:21+00:00",
+   "url": "https://marioadolfo.com/vice-presidente-do-tce-am-participa-de-solenidade-do-merito-judiciario/",
+   "url_hash": "e326a025a243679c1bf50a11"
+  },
+  "guid:6af375fa52c09500099e1bee": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Restrição segue até março de 2027 e estabelece regras para a captura e comercialização do pescado no estado",
+   "discovered_at": "2026-11-10T20:00:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af375fa52c09500099e1bee",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/9f849e20-cd1c-4707-87f3-769f20b3ac53.jpeg",
+   "key": "guid:6af375fa52c09500099e1bee",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-10T19:53:32+00:00",
+   "status": "pending",
+   "title": "Pesca de oito espécies fica proibida a partir de domingo (15/11) no Amazonas",
+   "updated_at": "2026-11-10T20:00:21+00:00",
+   "url": "https://marioadolfo.com/pesca-de-oito-especies-fica-proibida-a-partir-de-domingo-15-11-no-amazonas/",
+   "url_hash": "5b7c09a3e61094d7941c41e1"
+  },
+  "guid:6af3767452c09500099e1c04": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A ação acontece nesta quinta-feira (12) das 8h às 13h, na unidade do Nova Era localizada na avenida Max Teixeira",
+   "discovered_at": "2026-11-10T20:00:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af3767452c09500099e1c04",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a045690f-422c-4eaf-b8c6-34203e821a83.jpeg",
+   "key": "guid:6af3767452c09500099e1c04",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-10T19:55:58+00:00",
+   "status": "pending",
+   "title": "Supermercado promove ação de empregabilidade com vagas exclusivas para PcD",
+   "updated_at": "2026-11-10T20:00:21+00:00",
+   "url": "https://marioadolfo.com/supermercado-promove-acao-de-empregabilidade-com-vagas-exclusivas-para-pcd/",
+   "url_hash": "fed265c1f496f0431522c25e"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-10T19:50:14+00:00",
-  "saved_at": "2026-11-10T19:50:16+00:00"
+  "last_run_at": "2026-11-10T20:00:20+00:00",
+  "saved_at": "2026-11-10T20:00:21+00:00"
  },
  "schema": 1
 }
