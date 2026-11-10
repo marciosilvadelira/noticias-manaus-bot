@@ -21836,11 +21836,19 @@
    "url_hash": "e81417ea5f90f36daf448981"
   },
   "guid:6af2211252c09500099e191b": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-10T04:10:24+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1534673388683552",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Senador afirma que benefícios da reforma tributária, aliados às obras na BR-319 e às dragagens dos rios, podem reduzir o custo de vida das famílias amazonenses",
    "discovered_at": "2026-11-09T19:40:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1534673388683552",
    "formats": [
     "link"
    ],
@@ -21848,20 +21856,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d78c884c-3daf-4e9e-8ae3-44bad1de5197.jpeg",
    "key": "guid:6af2211252c09500099e191b",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1534673388683552"
+   },
    "source_published_at": "2026-11-09T19:39:05+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Eduardo Braga prevê alimentos mais baratos com imposto zero da cesta básica a partir de 2027",
-   "updated_at": "2026-11-09T19:40:16+00:00",
+   "updated_at": "2026-11-10T04:10:24+00:00",
    "url": "https://marioadolfo.com/eduardo-braga-preve-alimentos-mais-baratos-com-imposto-zero-da-cesta-basica-a-partir-de-2027/",
    "url_hash": "c7419459a95e1213de4944f0"
   },
   "guid:6af221e152c09500099e1936": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-10T04:10:49+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1534673702016854",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "A vítima relatou que o autor apresentava comportamento agressivo e controlador durante os 15 anos de relacionamento",
    "discovered_at": "2026-11-09T19:50:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1534673702016854",
    "formats": [
     "link"
    ],
@@ -21869,20 +21887,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/aa4772a8-6920-4cfa-b662-b4fdabe17999.png",
    "key": "guid:6af221e152c09500099e1936",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1534673702016854"
+   },
    "source_published_at": "2026-11-09T19:48:07+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Homem é por descumprir medida protetiva e furtar flutuante da ex-companheira no AM",
-   "updated_at": "2026-11-09T19:50:16+00:00",
+   "updated_at": "2026-11-10T04:10:49+00:00",
    "url": "https://marioadolfo.com/homem-e-por-descumprir-medida-protetiva-e-furtar-flutuante-da-ex-companheira/",
    "url_hash": "9a64070a649d71ab6020c9ba"
   },
   "guid:6af2240152c09500099e1946": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-10T04:11:16+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1534674012016823",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Crimes teriam começado em dezembro de 2025, na Venezuela, e continuaram após a chegada da família a Manaus",
    "discovered_at": "2026-11-09T20:00:24+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1534674012016823",
    "formats": [
     "link"
    ],
@@ -21890,20 +21918,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/423eaba0-ee00-4f29-ae35-36c770f84468.png",
    "key": "guid:6af2240152c09500099e1946",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1534674012016823"
+   },
    "source_published_at": "2026-11-09T19:54:54+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Venezuelano é preso em Manaus por estupro da própria filha de 15 anos",
-   "updated_at": "2026-11-09T20:00:24+00:00",
+   "updated_at": "2026-11-10T04:11:16+00:00",
    "url": "https://marioadolfo.com/venezuelano-e-preso-em-manaus-por-estupro-da-propria-filha-de-15-anos/",
    "url_hash": "3d029a1b962eeb031ac6732b"
   },
   "guid:6af2257c52c09500099e1964": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-10T04:11:42+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1534674508683440",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Edital dispõe de oportunidades nos programas de Educação, Letras e Artes e Processos e Tecnologias Educacionais",
    "discovered_at": "2026-11-09T20:03:43+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1534674508683440",
    "formats": [
     "link"
    ],
@@ -21911,20 +21949,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/602b3a74-fb61-48d9-ad4d-2a660c73a358.jpeg",
    "key": "guid:6af2257c52c09500099e1964",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1534674508683440"
+   },
    "source_published_at": "2026-11-09T20:02:39+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "UEA e Semed anunciam vagas em cursos de mestrado para profissionais da rede municipal de ensino",
-   "updated_at": "2026-11-09T20:03:43+00:00",
+   "updated_at": "2026-11-10T04:11:42+00:00",
    "url": "https://marioadolfo.com/uea-e-semed-anunciam-vagas-em-cursos-de-mestrado-para-profissionais-da-rede-municipal-de-ensino/",
    "url_hash": "46bced742c26685d0c3a02c3"
   },
   "guid:6af2272852c09500099e197d": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-10T04:12:09+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1534675092016715",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Para a Procuradoria, o objetivo da investigação foi cumprido",
    "discovered_at": "2026-11-09T20:10:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1534675092016715",
    "formats": [
     "link"
    ],
@@ -21932,11 +21980,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6d8c6b1b-cbd6-494a-bbf5-3cc6ef79f5f8.webp",
    "key": "guid:6af2272852c09500099e197d",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1534675092016715"
+   },
    "source_published_at": "2026-11-09T20:05:17+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "PGR pede ao Supremo arquivamento do inquérito das fake news",
-   "updated_at": "2026-11-09T20:10:18+00:00",
+   "updated_at": "2026-11-10T04:12:09+00:00",
    "url": "https://marioadolfo.com/pgr-pede-ao-supremo-arquivamento-do-inquerito-das-fake-news/",
    "url_hash": "8c576cd2b3d5e2ac913d1b12"
   },
@@ -21965,8 +22015,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-10T04:00:20+00:00",
-  "saved_at": "2026-11-10T04:02:14+00:00"
+  "last_run_at": "2026-11-10T04:10:15+00:00",
+  "saved_at": "2026-11-10T04:12:09+00:00"
  },
  "schema": 1
 }
