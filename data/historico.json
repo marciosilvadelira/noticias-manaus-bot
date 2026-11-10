@@ -22698,13 +22698,34 @@
    "updated_at": "2026-11-10T20:20:15+00:00",
    "url": "https://marioadolfo.com/residencia-em-medicina-de-familia-e-comunidade-tem-inscricoes-abertas-para-29-vagas/",
    "url_hash": "fece790b68a2becb0ec97c20"
+  },
+  "guid:6af37c4952c09500099e1c88": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A interdição é no trecho entre a rua Epaminondas e avenida Eduardo Ribeiro",
+   "discovered_at": "2026-11-10T20:30:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af37c4952c09500099e1c88",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c6279a75-8e1b-4265-bfd6-43e41a02b068.jpg",
+   "key": "guid:6af37c4952c09500099e1c88",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-10T20:21:16+00:00",
+   "status": "pending",
+   "title": "Rua 10 de Julho está interditada até sexta (13) para obras no Centro de Manaus",
+   "updated_at": "2026-11-10T20:30:17+00:00",
+   "url": "https://marioadolfo.com/rua-10-de-julho-esta-interditada-ate-sexta-13-para-obras-no-centro-de-manaus/",
+   "url_hash": "34fce8dbc8429131236b381e"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-10T20:20:14+00:00",
-  "saved_at": "2026-11-10T20:20:15+00:00"
+  "last_run_at": "2026-11-10T20:30:17+00:00",
+  "saved_at": "2026-11-10T20:30:18+00:00"
  },
  "schema": 1
 }
