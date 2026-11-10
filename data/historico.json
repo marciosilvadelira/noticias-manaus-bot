@@ -22237,13 +22237,44 @@
    "updated_at": "2026-11-10T15:00:31+00:00",
    "url": "https://marioadolfo.com/governo-prorroga-ate-9-de-dezembro-desoneracao-da-gasolina-e-do-etanol/",
    "url_hash": "665808669dbfbc09e30f32b6"
+  },
+  "guid:6af3362052c09500099e1aa0": {
+   "attempts": [
+    {
+     "at": "2026-11-10T15:30:28+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1535230341961190",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Brasil",
+   "description": "Petição foi feita também na Corte Interamericana de Direitos Humanos",
+   "discovered_at": "2026-11-10T15:30:20+00:00",
+   "fb_post_id": "107393769293726_1535230341961190",
+   "formats": [
+    "link"
+   ],
+   "guid": "6af3362052c09500099e1aa0",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2c897481-e408-4816-bc40-f21c6c12940d.jpg",
+   "key": "guid:6af3362052c09500099e1aa0",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1535230341961190"
+   },
+   "source_published_at": "2026-11-10T15:27:18+00:00",
+   "status": "published",
+   "title": "Defesa de Vorcaro reforça pedido de soltura no STF",
+   "updated_at": "2026-11-10T15:30:28+00:00",
+   "url": "https://marioadolfo.com/defesa-de-vorcaro-reforca-pedido-de-soltura-no-stf/",
+   "url_hash": "23ad466df6ef7525aaa0ccb6"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-10T15:20:17+00:00",
-  "saved_at": "2026-11-10T15:20:17+00:00"
+  "last_run_at": "2026-11-10T15:30:19+00:00",
+  "saved_at": "2026-11-10T15:30:28+00:00"
  },
  "schema": 1
 }
