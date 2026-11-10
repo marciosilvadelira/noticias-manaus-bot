@@ -22782,13 +22782,34 @@
    "updated_at": "2026-11-10T21:00:20+00:00",
    "url": "https://marioadolfo.com/adua-pede-audiencia-publica-para-debater-crise-climatica-em-parintins/",
    "url_hash": "ad260286d9aaeb1b79eb6cb6"
+  },
+  "guid:6af385b852c09500099e1d03": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Filme acumula 9 prêmios em festivais de todo o país e recebe o Prêmio Clamor Popular em Florianópolis",
+   "discovered_at": "2026-11-10T21:10:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af385b852c09500099e1d03",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/82b7c8d8-6c1e-4b2f-88f5-b01d5ce77cb9.jpeg",
+   "key": "guid:6af385b852c09500099e1d03",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-10T21:01:28+00:00",
+   "status": "pending",
+   "title": "Mata Gato confirma força do horror amazonense em festivais nacionais",
+   "updated_at": "2026-11-10T21:10:19+00:00",
+   "url": "https://marioadolfo.com/mata-gato-confirma-forca-do-horror-amazonense-em-festivais-nacionais/",
+   "url_hash": "92a4e017086107e185207921"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-10T21:00:19+00:00",
-  "saved_at": "2026-11-10T21:00:21+00:00"
+  "last_run_at": "2026-11-10T21:10:16+00:00",
+  "saved_at": "2026-11-10T21:10:19+00:00"
  },
  "schema": 1
 }
