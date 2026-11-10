@@ -22635,13 +22635,76 @@
    "updated_at": "2026-11-10T20:10:17+00:00",
    "url": "https://marioadolfo.com/homem-e-procurado-por-furto-em-instituicao-de-ensino-no-bairro-flores/",
    "url_hash": "b069dba80bc9886b818dd9ca"
+  },
+  "guid:6af3799e52c09500099e1c44": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "A vítima, de 21 anos, ficou gravemente ferida e permanece internada",
+   "discovered_at": "2026-11-10T20:20:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af3799e52c09500099e1c44",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2629c5ec-e206-423f-bd21-fe2f3d09d2e0.png",
+   "key": "guid:6af3799e52c09500099e1c44",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-10T19:00:00+00:00",
+   "status": "pending",
+   "title": "Homem é preso por tentar matar jovem com terçado durante briga no AM",
+   "updated_at": "2026-11-10T20:20:15+00:00",
+   "url": "https://marioadolfo.com/homem-e-preso-por-tentar-matar-jovem-com-tercado-no-amazonas/",
+   "url_hash": "884a68ae1d551c248045c328"
+  },
+  "guid:6af37a6452c09500099e1c5f": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Acompanhar os valores com antecedência ajuda a identificar falsas promoções, comparar ofertas e evitar prejuízos durante o período de descontos",
+   "discovered_at": "2026-11-10T20:20:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af37a6452c09500099e1c5f",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/00928417-161c-4735-bb21-b7573d5c959e.jpeg",
+   "key": "guid:6af37a6452c09500099e1c5f",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-10T20:13:08+00:00",
+   "status": "pending",
+   "title": "Procon-AM orienta consumidores a monitorar preços antes da Black Friday",
+   "updated_at": "2026-11-10T20:20:15+00:00",
+   "url": "https://marioadolfo.com/procon-am-orienta-consumidores-a-monitorar-precos-antes-da-black-friday/",
+   "url_hash": "42465744a6bdf751b075f090"
+  },
+  "guid:6af37b7852c09500099e1c74": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "As inscrições acontecem de 10 a 30 de novembro e os interessados podem consultar o edital no site da Comissão Estadual de Residência Médica do Amazonas",
+   "discovered_at": "2026-11-10T20:20:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af37b7852c09500099e1c74",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5fab2b27-b3f2-4148-ae0a-290a8b2b8d94.jpeg",
+   "key": "guid:6af37b7852c09500099e1c74",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-10T20:16:58+00:00",
+   "status": "pending",
+   "title": "Residência em Medicina de Família e Comunidade tem inscrições abertas para 29 vagas",
+   "updated_at": "2026-11-10T20:20:15+00:00",
+   "url": "https://marioadolfo.com/residencia-em-medicina-de-familia-e-comunidade-tem-inscricoes-abertas-para-29-vagas/",
+   "url_hash": "fece790b68a2becb0ec97c20"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-10T20:10:15+00:00",
-  "saved_at": "2026-11-10T20:10:18+00:00"
+  "last_run_at": "2026-11-10T20:20:14+00:00",
+  "saved_at": "2026-11-10T20:20:15+00:00"
  },
  "schema": 1
 }
