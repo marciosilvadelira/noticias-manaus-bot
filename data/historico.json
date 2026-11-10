@@ -22113,13 +22113,44 @@
    "updated_at": "2026-11-10T11:50:26+00:00",
    "url": "https://marioadolfo.com/justica-rejeita-recurso-e-mantem-juri-popular-para-acusado-da-morte-de-paulo-onca/",
    "url_hash": "68b6ed8c585aa8bffd133ec6"
+  },
+  "guid:6af311b752c09500099e1a01": {
+   "attempts": [
+    {
+     "at": "2026-11-10T13:00:27+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1535094608641430",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "Categoria cobra pagamento de salários atrasados até as 10h desta terça-feira (10); caso os valores não sejam depositados, trabalhadores prometem recolher os coletivos às garagens",
+   "discovered_at": "2026-11-10T13:00:21+00:00",
+   "fb_post_id": "107393769293726_1535094608641430",
+   "formats": [
+    "link"
+   ],
+   "guid": "6af311b752c09500099e1a01",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4abab53d-4d43-43ff-8c65-2705f806cb37.jpg",
+   "key": "guid:6af311b752c09500099e1a01",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1535094608641430"
+   },
+   "source_published_at": "2026-11-10T12:52:26+00:00",
+   "status": "published",
+   "title": "Ônibus voltam a circular com 100% da frota em Manaus; rodoviários ameaçam nova paralisação",
+   "updated_at": "2026-11-10T13:00:27+00:00",
+   "url": "https://marioadolfo.com/onibus-voltam-a-circular-com-100-da-frota-em-manaus-rodoviarios-ameacam-nova-paralisacao/",
+   "url_hash": "1af03d6da4ef62d6073508bc"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-10T12:50:14+00:00",
-  "saved_at": "2026-11-10T12:50:15+00:00"
+  "last_run_at": "2026-11-10T13:00:20+00:00",
+  "saved_at": "2026-11-10T13:00:27+00:00"
  },
  "schema": 1
 }
