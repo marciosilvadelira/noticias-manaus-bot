@@ -22082,13 +22082,44 @@
    "updated_at": "2026-11-10T11:40:58+00:00",
    "url": "https://marioadolfo.com/tony-medeiros-assume-presidencia-do-concultura/",
    "url_hash": "39718a761aedd049e420cf7f"
+  },
+  "guid:6af2825752c09500099e19e3": {
+   "attempts": [
+    {
+     "at": "2026-11-10T11:50:26+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1535036108647280",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "A desembargadora Luísa Cristina destacou a gravidade das agressões",
+   "discovered_at": "2026-11-10T11:50:15+00:00",
+   "fb_post_id": "107393769293726_1535036108647280",
+   "formats": [
+    "link"
+   ],
+   "guid": "6af2825752c09500099e19e3",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/afb7447e-7d85-4098-b311-f88a6caf052a.jpg",
+   "key": "guid:6af2825752c09500099e19e3",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1535036108647280"
+   },
+   "source_published_at": "2026-11-10T11:40:22+00:00",
+   "status": "published",
+   "title": "Justiça rejeita recurso e mantém júri popular para acusado da morte de Paulo Onça",
+   "updated_at": "2026-11-10T11:50:26+00:00",
+   "url": "https://marioadolfo.com/justica-rejeita-recurso-e-mantem-juri-popular-para-acusado-da-morte-de-paulo-onca/",
+   "url_hash": "68b6ed8c585aa8bffd133ec6"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-10T11:40:17+00:00",
-  "saved_at": "2026-11-10T11:40:58+00:00"
+  "last_run_at": "2026-11-10T11:50:14+00:00",
+  "saved_at": "2026-11-10T11:50:26+00:00"
  },
  "schema": 1
 }
