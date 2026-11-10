@@ -22238,6 +22238,27 @@
    "url": "https://marioadolfo.com/governo-prorroga-ate-9-de-dezembro-desoneracao-da-gasolina-e-do-etanol/",
    "url_hash": "665808669dbfbc09e30f32b6"
   },
+  "guid:6af32fd152c09500099e1a83": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Programa alcança 1,6 milhão de pessoas no estado, com investimento de R$ 22,7 milhões neste mês e previsão de emissão de mais de 188 mil novos vales nesta terça-feira (10/11)",
+   "discovered_at": "2026-11-10T16:00:26+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af32fd152c09500099e1a83",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/9f10a762-b48c-4ac4-a4cd-6b166740d4fa.jpg",
+   "key": "guid:6af32fd152c09500099e1a83",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-10T16:00:06+00:00",
+   "status": "pending",
+   "title": "Gás do Povo beneficia mais de 486,6 mil famílias no Amazonas em novembro",
+   "updated_at": "2026-11-10T16:00:26+00:00",
+   "url": "https://marioadolfo.com/gas-do-povo-beneficia-mais-de-486-6-mil-familias-no-amazonas-em-novembro/",
+   "url_hash": "13002bf3f1fd0a7b53785126"
+  },
   "guid:6af3362052c09500099e1aa0": {
    "attempts": [
     {
@@ -22304,8 +22325,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-10T15:50:15+00:00",
-  "saved_at": "2026-11-10T15:50:16+00:00"
+  "last_run_at": "2026-11-10T16:00:23+00:00",
+  "saved_at": "2026-11-10T16:00:27+00:00"
  },
  "schema": 1
 }
