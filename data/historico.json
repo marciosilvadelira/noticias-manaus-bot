@@ -22175,13 +22175,44 @@
    "updated_at": "2026-11-10T14:20:22+00:00",
    "url": "https://marioadolfo.com/dito-feito-eles-ainda-acreditam-que-flavio-vai-mudar-o-fugindo-para-os-eua/",
    "url_hash": "d237ff5ec9979690f08e2ada"
+  },
+  "guid:6af327b652c09500099e1a58": {
+   "attempts": [
+    {
+     "at": "2026-11-10T14:30:25+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1535173221966902",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Polícia",
+   "description": "Investigação apura apresentação de documentos falsos para conseguir Certificado de Registro junto ao Exército Brasileiro",
+   "discovered_at": "2026-11-10T14:30:19+00:00",
+   "fb_post_id": "107393769293726_1535173221966902",
+   "formats": [
+    "link"
+   ],
+   "guid": "6af327b652c09500099e1a58",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/eaa720fd-7c6e-4c80-a81f-c69d018d14bf.jpg",
+   "key": "guid:6af327b652c09500099e1a58",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1535173221966902"
+   },
+   "source_published_at": "2026-11-10T14:21:22+00:00",
+   "status": "published",
+   "title": "PF faz operação contra fraude em registro de armas e apreende arma em Manaus",
+   "updated_at": "2026-11-10T14:30:25+00:00",
+   "url": "https://marioadolfo.com/pf-faz-operacao-contra-fraude-em-registro-de-armas-e-apreende-arma-em-manaus/",
+   "url_hash": "63e39a338644d623415bddb5"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-10T14:20:15+00:00",
-  "saved_at": "2026-11-10T14:20:22+00:00"
+  "last_run_at": "2026-11-10T14:30:18+00:00",
+  "saved_at": "2026-11-10T14:30:25+00:00"
  },
  "schema": 1
 }
