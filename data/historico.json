@@ -21681,11 +21681,19 @@
    "url_hash": "9a2be46b6ea794b28d8379cf"
   },
   "guid:6af201c952c09500099e189c": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-10T04:00:28+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1534667065350851",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Lucas Lobo da Silva confessou o crime. Pelo menos cinco pessoas participaram das agressões no ramal do Brasileirinho",
    "discovered_at": "2026-11-09T17:30:19+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1534667065350851",
    "formats": [
     "link"
    ],
@@ -21693,20 +21701,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/bb95ba4a-6c2f-473d-a14b-c4fae10a1353.jpeg",
    "key": "guid:6af201c952c09500099e189c",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1534667065350851"
+   },
    "source_published_at": "2026-11-09T17:25:48+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Jovem é preso suspeito de participar de linchamento de homem em Manaus",
-   "updated_at": "2026-11-09T17:30:19+00:00",
+   "updated_at": "2026-11-10T04:00:28+00:00",
    "url": "https://marioadolfo.com/jovem-e-preso-suspeito-de-participar-de-linchamento-de-homem-em-manaus/",
    "url_hash": "24db2f438d318ae1139d8851"
   },
   "guid:6af21bf252c09500099e18b5": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-10T04:00:53+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1534667348684156",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Integrante da Corte desde 2024 como juíza substituta, a advogada passará a ocupar a titularidade na classe dos juristas",
    "discovered_at": "2026-11-09T19:20:19+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1534667348684156",
    "formats": [
     "link"
    ],
@@ -21714,20 +21732,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c3b77002-c5f4-42c7-b4e0-3a301b690ad2.jpeg",
    "key": "guid:6af21bf252c09500099e18b5",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1534667348684156"
+   },
    "source_published_at": "2026-11-09T19:18:33+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Nomeação de Maria Benigno reforça maioria feminina no pleno do TRE-AM",
-   "updated_at": "2026-11-09T19:20:19+00:00",
+   "updated_at": "2026-11-10T04:00:53+00:00",
    "url": "https://marioadolfo.com/nomeacao-de-maria-benigno-reforca-maioria-feminina-no-pleno-do-tre-am/",
    "url_hash": "191c3b1a653c5c166372b6d8"
   },
   "guid:6af21cff52c09500099e18d0": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-10T04:01:20+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1534667588684132",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "A declaração foi feita pelo prefeito de Manaus, Renato Junior, durante aula inaugural da nova turma de guardas municipais",
    "discovered_at": "2026-11-09T19:30:19+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1534667588684132",
    "formats": [
     "link"
    ],
@@ -21735,20 +21763,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c6b518ea-7b8e-49c7-98f6-ff5f2db944ba.jpeg",
    "key": "guid:6af21cff52c09500099e18d0",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1534667588684132"
+   },
    "source_published_at": "2026-11-09T19:24:34+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Centro de Manaus receberá reforço de 200 novos guardas municipais, anuncia prefeito",
-   "updated_at": "2026-11-09T19:30:19+00:00",
+   "updated_at": "2026-11-10T04:01:20+00:00",
    "url": "https://marioadolfo.com/centro-de-manaus-recebera-reforco-de-200-novos-guardas-municipais-anuncia-prefeito/",
    "url_hash": "fd95ac4efc5e25102b2febc8"
   },
   "guid:6af21e2652c09500099e18ef": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-10T04:01:49+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1534667882017436",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "O processo, de caráter presencial e eliminatório, ocorre de 9 a 13 de novembro",
    "discovered_at": "2026-11-09T19:30:19+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1534667882017436",
    "formats": [
     "link"
    ],
@@ -21756,20 +21794,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d5ad59ae-8135-4a05-940b-9f8321f4d92a.jpeg",
    "key": "guid:6af21e2652c09500099e18ef",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1534667882017436"
+   },
    "source_published_at": "2026-11-09T19:26:53+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Prefeitura de Manaus convoca aprovados no Bolsa Universidade 2027 para entrega de documentação",
-   "updated_at": "2026-11-09T19:30:19+00:00",
+   "updated_at": "2026-11-10T04:01:49+00:00",
    "url": "https://marioadolfo.com/prefeitura-de-manaus-convoca-aprovados-no-bolsa-universidade-2027-para-entrega-de-documentacao/",
    "url_hash": "8a0068fccd316a829fc78e5b"
   },
   "guid:6af2204f52c09500099e1905": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-10T04:02:14+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1534668145350743",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Operação Lei Seca foi intensificada entre a noite de sexta-feira (06/11) e a manhã desta segunda-feira (09/11) em Manaus",
    "discovered_at": "2026-11-09T19:40:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1534668145350743",
    "formats": [
     "link"
    ],
@@ -21777,11 +21825,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/7c6aee01-4f63-4771-8a64-c4028038f0eb.jpeg",
    "key": "guid:6af2204f52c09500099e1905",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1534668145350743"
+   },
    "source_published_at": "2026-11-09T19:36:44+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Fiscalização contabiliza mais de mil infrações de trânsito no fim de semana",
-   "updated_at": "2026-11-09T19:40:16+00:00",
+   "updated_at": "2026-11-10T04:02:14+00:00",
    "url": "https://marioadolfo.com/fiscalizacao-contabiliza-mais-de-mil-infracoes-de-transito-no-fim-de-semana/",
    "url_hash": "e81417ea5f90f36daf448981"
   },
@@ -21915,8 +21965,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-10T03:50:14+00:00",
-  "saved_at": "2026-11-10T03:50:15+00:00"
+  "last_run_at": "2026-11-10T04:00:20+00:00",
+  "saved_at": "2026-11-10T04:02:14+00:00"
  },
  "schema": 1
 }
