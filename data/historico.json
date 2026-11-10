@@ -22362,13 +22362,55 @@
    "updated_at": "2026-11-10T18:00:21+00:00",
    "url": "https://marioadolfo.com/anvisa-registra-duas-novas-canetas-emagrecedoras-de-semaglutida/",
    "url_hash": "eabb4dfe7a455c9c30de0786"
+  },
+  "guid:6af35d5f52c09500099e1af9": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Ação será realizada nesta quinta-feira (12), das 8h às 13h, na Casa do Trabalhador, em parceria com ACNUR e Hermanitos",
+   "discovered_at": "2026-11-10T18:20:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af35d5f52c09500099e1af9",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e4fc3227-8d6b-4683-8972-3a6a2e6b3376.jpeg",
+   "key": "guid:6af35d5f52c09500099e1af9",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-10T18:10:59+00:00",
+   "status": "pending",
+   "title": "Feira de Empregabilidade reúne vagas e serviços para pessoas refugiadas e migrantes",
+   "updated_at": "2026-11-10T18:20:17+00:00",
+   "url": "https://marioadolfo.com/feira-de-empregabilidade-reune-vagas-e-servicos-para-pessoas-refugiadas-e-migrantes/",
+   "url_hash": "ec13cee28e5538cf3e9df19a"
+  },
+  "guid:6af35e6a52c09500099e1b14": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Programação de itinerâncias inclui ação conjunta com o TST em Pacaraima e atividades educativas em Borba e Novo Aripuanã",
+   "discovered_at": "2026-11-10T18:20:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af35e6a52c09500099e1b14",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/effe45d6-bc34-46d2-bd89-abdea74281d4.jpeg",
+   "key": "guid:6af35e6a52c09500099e1b14",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-10T18:16:52+00:00",
+   "status": "pending",
+   "title": "Justiça Itinerante realizará atendimentos em dois municípios do Amazonas e cinco de Roraima",
+   "updated_at": "2026-11-10T18:20:17+00:00",
+   "url": "https://marioadolfo.com/justica-itinerante-realizara-atendimentos-em-dois-municipios-do-amazonas-e-cinco-de-roraima/",
+   "url_hash": "912389b3222923497764ac4c"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-10T18:10:16+00:00",
-  "saved_at": "2026-11-10T18:10:18+00:00"
+  "last_run_at": "2026-11-10T18:20:16+00:00",
+  "saved_at": "2026-11-10T18:20:18+00:00"
  },
  "schema": 1
 }
