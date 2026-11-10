@@ -22404,13 +22404,34 @@
    "updated_at": "2026-11-10T18:20:17+00:00",
    "url": "https://marioadolfo.com/justica-itinerante-realizara-atendimentos-em-dois-municipios-do-amazonas-e-cinco-de-roraima/",
    "url_hash": "912389b3222923497764ac4c"
+  },
+  "guid:6af3601f52c09500099e1b33": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Os últimos meses do ano representam uma oportunidade tanto para quem deseja ingressar no mercado de trabalho através do estágio",
+   "discovered_at": "2026-11-10T18:30:22+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af3601f52c09500099e1b33",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/cc92a268-b138-4b47-8c44-7b4f9154286a.jpeg",
+   "key": "guid:6af3601f52c09500099e1b33",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-10T18:21:53+00:00",
+   "status": "pending",
+   "title": "Polo Industrial, comércio e logística concentram oportunidades de estágio no Amazonas",
+   "updated_at": "2026-11-10T18:30:22+00:00",
+   "url": "https://marioadolfo.com/polo-industrial-comercio-e-logistica-concentram-oportunidades-de-estagio-no-amazonas/",
+   "url_hash": "8664e48bda3323cf06ede6d3"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-10T18:20:16+00:00",
-  "saved_at": "2026-11-10T18:20:18+00:00"
+  "last_run_at": "2026-11-10T18:30:20+00:00",
+  "saved_at": "2026-11-10T18:30:23+00:00"
  },
  "schema": 1
 }
