@@ -22268,13 +22268,44 @@
    "updated_at": "2026-11-10T15:30:28+00:00",
    "url": "https://marioadolfo.com/defesa-de-vorcaro-reforca-pedido-de-soltura-no-stf/",
    "url_hash": "23ad466df6ef7525aaa0ccb6"
+  },
+  "guid:6af3389052c09500099e1ab6": {
+   "attempts": [
+    {
+     "at": "2026-11-10T15:40:22+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1535239468626944",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "Concorrem no sorteio mensal cerca de 350 mil pessoas e, no sorteio regional, quem fez compras com o CPF na nota em 14 municípios do Sul do Amazonas",
+   "discovered_at": "2026-11-10T15:40:16+00:00",
+   "fb_post_id": "107393769293726_1535239468626944",
+   "formats": [
+    "link"
+   ],
+   "guid": "6af3389052c09500099e1ab6",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/32c341fe-b813-4e3f-8741-f45c3569e59a.jpeg",
+   "key": "guid:6af3389052c09500099e1ab6",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1535239468626944"
+   },
+   "source_published_at": "2026-11-10T15:32:12+00:00",
+   "status": "published",
+   "title": "Nota Fiscal Amazonense sorteia R$ 300 mil em prêmios na próxima quarta-feira",
+   "updated_at": "2026-11-10T15:40:22+00:00",
+   "url": "https://marioadolfo.com/nota-fiscal-amazonense-sorteia-r-300-mil-em-premios-na-proxima-quarta-feira/",
+   "url_hash": "81a0de954e27453fb67c56db"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-10T15:30:19+00:00",
-  "saved_at": "2026-11-10T15:30:28+00:00"
+  "last_run_at": "2026-11-10T15:40:15+00:00",
+  "saved_at": "2026-11-10T15:40:22+00:00"
  },
  "schema": 1
 }
