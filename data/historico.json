@@ -22144,13 +22144,44 @@
    "updated_at": "2026-11-10T13:00:27+00:00",
    "url": "https://marioadolfo.com/onibus-voltam-a-circular-com-100-da-frota-em-manaus-rodoviarios-ameacam-nova-paralisacao/",
    "url_hash": "1af03d6da4ef62d6073508bc"
+  },
+  "guid:6af3240c52c09500099e1a20": {
+   "attempts": [
+    {
+     "at": "2026-11-10T14:20:22+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1535164531967771",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Dito & Feito",
+   "description": "Cientista aponta que a extrema-direita bolsonarista foi acometida de Dissonância Cognitiva. Isto é, eles nunca abandonam a crença. Mudam a interpretação dos fatos",
+   "discovered_at": "2026-11-10T14:20:16+00:00",
+   "fb_post_id": "107393769293726_1535164531967771",
+   "formats": [
+    "link"
+   ],
+   "guid": "6af3240c52c09500099e1a20",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5cb73b31-8c96-4b4d-9c83-c378e8942004.jpeg",
+   "key": "guid:6af3240c52c09500099e1a20",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1535164531967771"
+   },
+   "source_published_at": "2026-11-10T14:11:01+00:00",
+   "status": "published",
+   "title": "Dito & Feito: ELES AINDA ACREDITAM QUE FLÁVIO VAI MUDAR O FUGINDO PARA OS EUA",
+   "updated_at": "2026-11-10T14:20:22+00:00",
+   "url": "https://marioadolfo.com/dito-feito-eles-ainda-acreditam-que-flavio-vai-mudar-o-fugindo-para-os-eua/",
+   "url_hash": "d237ff5ec9979690f08e2ada"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-10T14:10:15+00:00",
-  "saved_at": "2026-11-10T14:10:16+00:00"
+  "last_run_at": "2026-11-10T14:20:15+00:00",
+  "saved_at": "2026-11-10T14:20:22+00:00"
  },
  "schema": 1
 }
