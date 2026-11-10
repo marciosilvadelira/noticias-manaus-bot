@@ -22719,13 +22719,55 @@
    "updated_at": "2026-11-10T20:30:17+00:00",
    "url": "https://marioadolfo.com/rua-10-de-julho-esta-interditada-ate-sexta-13-para-obras-no-centro-de-manaus/",
    "url_hash": "34fce8dbc8429131236b381e"
+  },
+  "guid:6af37e3352c09500099e1c9f": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A audiência de quinta-feira (12) busca aproximar as partes e discutir alternativas para o impasse que envolve o transporte coletivo",
+   "discovered_at": "2026-11-10T20:40:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af37e3352c09500099e1c9f",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f9042c65-243e-4482-8c13-eb5e7f1eba82.jpg",
+   "key": "guid:6af37e3352c09500099e1c9f",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-10T20:30:55+00:00",
+   "status": "pending",
+   "title": "Justiça marca audiência para discutir suspensão do Passe Livre e greve de ônibus em Manaus",
+   "updated_at": "2026-11-10T20:40:16+00:00",
+   "url": "https://marioadolfo.com/justica-marca-audiencia-para-discutir-suspensao-do-passe-livre-e-greve-de-onibus-em-manaus/",
+   "url_hash": "eada3e1823d9c47027f92e4c"
+  },
+  "guid:6af37f9752c09500099e1cc7": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Durante o cumprimento de busca e apreensão, a equipe policial encontrou arquivos com conteúdos relacionados a abuso sexual infantojuvenil",
+   "discovered_at": "2026-11-10T20:40:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af37f9752c09500099e1cc7",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/58385c13-4536-4316-8022-bd011fd96790.jpg",
+   "key": "guid:6af37f9752c09500099e1cc7",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-10T20:36:05+00:00",
+   "status": "pending",
+   "title": "Homem é preso por armazenamento de pornografia infantojuvenil em Manaus",
+   "updated_at": "2026-11-10T20:40:16+00:00",
+   "url": "https://marioadolfo.com/homem-e-preso-por-armazenamento-de-pornografia-infantojuvenil-em-manaus/",
+   "url_hash": "2f9b915939276c9da5dff127"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-10T20:30:17+00:00",
-  "saved_at": "2026-11-10T20:30:18+00:00"
+  "last_run_at": "2026-11-10T20:40:15+00:00",
+  "saved_at": "2026-11-10T20:40:16+00:00"
  },
  "schema": 1
 }
