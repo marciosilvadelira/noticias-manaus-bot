@@ -22020,13 +22020,75 @@
    "updated_at": "2026-11-10T04:20:29+00:00",
    "url": "https://marioadolfo.com/governo-do-amazonas-anuncia-novo-repasse-de-r-4-milhoes-para-passe-livre-estudantil/",
    "url_hash": "be89ce86bac84c24fadc1835"
+  },
+  "guid:6af27cf252c09500099e19b6": {
+   "attempts": [
+    {
+     "at": "2026-11-10T11:40:27+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1535028521981372",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Brasil",
+   "description": "Modalidade precisa do aval da diretoria e terá regra de transição",
+   "discovered_at": "2026-11-10T11:40:17+00:00",
+   "fb_post_id": "107393769293726_1535028521981372",
+   "formats": [
+    "link"
+   ],
+   "guid": "6af27cf252c09500099e19b6",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/9cf05771-45c7-4f55-9d65-01fa611328fd.jpg",
+   "key": "guid:6af27cf252c09500099e19b6",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1535028521981372"
+   },
+   "source_published_at": "2026-11-10T11:30:20+00:00",
+   "status": "published",
+   "title": "Aneel propõe Tarifa Hora Certa para reduzir valor em função do horário",
+   "updated_at": "2026-11-10T11:40:27+00:00",
+   "url": "https://marioadolfo.com/aneel-propoe-tarifa-hora-certa-para-reduzir-valor-em-funcao-do-horario/",
+   "url_hash": "e6dbc009dfc64fc3959ab116"
+  },
+  "guid:6af281c452c09500099e19ce": {
+   "attempts": [
+    {
+     "at": "2026-11-10T11:40:58+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1535028875314670",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "Ao retornar à presidência, Tony destaca a importância de contribuir para o planejamento e a execução das políticas públicas culturais",
+   "discovered_at": "2026-11-10T11:40:17+00:00",
+   "fb_post_id": "107393769293726_1535028875314670",
+   "formats": [
+    "link"
+   ],
+   "guid": "6af281c452c09500099e19ce",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/fb3e60d5-a813-44f1-aab0-f6427a9e3c05.jpeg",
+   "key": "guid:6af281c452c09500099e19ce",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1535028875314670"
+   },
+   "source_published_at": "2026-11-10T11:35:17+00:00",
+   "status": "published",
+   "title": "Tony Medeiros assume presidência do Concultura",
+   "updated_at": "2026-11-10T11:40:58+00:00",
+   "url": "https://marioadolfo.com/tony-medeiros-assume-presidencia-do-concultura/",
+   "url_hash": "39718a761aedd049e420cf7f"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-10T11:30:18+00:00",
-  "saved_at": "2026-11-10T11:30:18+00:00"
+  "last_run_at": "2026-11-10T11:40:17+00:00",
+  "saved_at": "2026-11-10T11:40:58+00:00"
  },
  "schema": 1
 }
