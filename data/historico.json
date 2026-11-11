@@ -23108,13 +23108,34 @@
    "updated_at": "2026-11-11T14:20:16+00:00",
    "url": "https://marioadolfo.com/video-saiba-quem-e-cheila-moreira-suplente-de-omar-aziz-que-assumira-vaga-no-senado/",
    "url_hash": "bd86bb372dca88aa064f86c5"
+  },
+  "guid:6af47a6852c09500099e1de4": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Presidente falou durante a COP31 em Antália, na Turquia",
+   "discovered_at": "2026-11-11T14:30:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af47a6852c09500099e1de4",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4a0d8a4d-a397-4bef-884b-44b459db9454.jpg",
+   "key": "guid:6af47a6852c09500099e1de4",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-11T14:25:33+00:00",
+   "status": "pending",
+   "title": "Lula: planeta não pode esperar em meio a guerras e conflitos",
+   "updated_at": "2026-11-11T14:30:19+00:00",
+   "url": "https://marioadolfo.com/lula-planeta-nao-pode-esperar-em-meio-a-guerras-e-conflitos/",
+   "url_hash": "cbc1c72a4f996573ee22d1b5"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-11T14:20:15+00:00",
-  "saved_at": "2026-11-11T14:20:17+00:00"
+  "last_run_at": "2026-11-11T14:30:18+00:00",
+  "saved_at": "2026-11-11T14:30:20+00:00"
  },
  "schema": 1
 }
