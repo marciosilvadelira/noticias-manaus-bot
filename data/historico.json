@@ -23192,13 +23192,34 @@
    "updated_at": "2026-11-11T15:00:23+00:00",
    "url": "https://marioadolfo.com/portas-abertas-servicos-gratuitos-de-saude-esporte-e-lazer-neste-sabado-14-11/",
    "url_hash": "528624528002ea4e56c66eee"
+  },
+  "guid:6af484ad52c09500099e1e42": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A conselheira-presidente Yara Amazônia Lins destacou que o reconhecimento é resultado do trabalho integrado das unidades do Tribunal",
+   "discovered_at": "2026-11-11T15:10:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af484ad52c09500099e1e42",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/365b6bce-1ec8-45cf-b666-b288884f160a.jpg",
+   "key": "guid:6af484ad52c09500099e1e42",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-11T15:10:04+00:00",
+   "status": "pending",
+   "title": "Com 100% de avaliação, TCE-AM conquista Selo Diamante de transparência pela 4ª vez",
+   "updated_at": "2026-11-11T15:10:17+00:00",
+   "url": "https://marioadolfo.com/com-100-de-avaliacao-tce-am-conquista-selo-diamante-de-transparencia-pela-4a-vez/",
+   "url_hash": "e5840a97952faf0cfe8ff910"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-11T15:00:22+00:00",
-  "saved_at": "2026-11-11T15:00:24+00:00"
+  "last_run_at": "2026-11-11T15:10:16+00:00",
+  "saved_at": "2026-11-11T15:10:17+00:00"
  },
  "schema": 1
 }
