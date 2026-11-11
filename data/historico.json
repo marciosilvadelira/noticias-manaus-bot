@@ -23087,13 +23087,34 @@
    "updated_at": "2026-11-11T14:00:21+00:00",
    "url": "https://marioadolfo.com/dito-feito-fumaca-assassina/",
    "url_hash": "2aab5b9ba67e88238a3273c5"
+  },
+  "guid:6af476c552c09500099e1dbc": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Pedagoga e ex-vereadora de Itacoatiara, petista construiu trajetória política no interior do Amazonas e terá mandato em Brasília até 2031",
+   "discovered_at": "2026-11-11T14:20:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af476c552c09500099e1dbc",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/7f4e5cbd-ef40-4fde-8dc4-076f6a5cf1ea.jpeg",
+   "key": "guid:6af476c552c09500099e1dbc",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-11T14:18:37+00:00",
+   "status": "pending",
+   "title": "Vídeo: saiba quem é Cheila Moreira, suplente de Omar Aziz que assumirá vaga no Senado",
+   "updated_at": "2026-11-11T14:20:16+00:00",
+   "url": "https://marioadolfo.com/video-saiba-quem-e-cheila-moreira-suplente-de-omar-aziz-que-assumira-vaga-no-senado/",
+   "url_hash": "bd86bb372dca88aa064f86c5"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-11T14:10:16+00:00",
-  "saved_at": "2026-11-11T14:10:17+00:00"
+  "last_run_at": "2026-11-11T14:20:15+00:00",
+  "saved_at": "2026-11-11T14:20:17+00:00"
  },
  "schema": 1
 }
