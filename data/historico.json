@@ -23045,13 +23045,34 @@
    "updated_at": "2026-11-11T12:10:18+00:00",
    "url": "https://marioadolfo.com/vidpf-investiga-esquema-de-fraudes-bancarias-no-am/",
    "url_hash": "980150f831e84737facb69a8"
+  },
+  "guid:6af45a7d52c09500099e1d6d": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Estão sendo implantados 125 metros de rede para conectar a nova estrutura de drenagem da rua Ferreira Pena ao sistema do entorno",
+   "discovered_at": "2026-11-11T12:20:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af45a7d52c09500099e1d6d",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/80abfb0b-ecc6-4e9b-bff6-9e2e491457ad.jpg",
+   "key": "guid:6af45a7d52c09500099e1d6d",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-11T12:12:40+00:00",
+   "status": "pending",
+   "title": "Primeira rua gastronômica de Manaus recebe obras de drenagem",
+   "updated_at": "2026-11-11T12:20:15+00:00",
+   "url": "https://marioadolfo.com/primeira-rua-gastronomica-de-manaus-recebe-obras-de-drenagem/",
+   "url_hash": "d4e897411159eeac3a99d806"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-11T12:10:17+00:00",
-  "saved_at": "2026-11-11T12:10:19+00:00"
+  "last_run_at": "2026-11-11T12:20:14+00:00",
+  "saved_at": "2026-11-11T12:20:15+00:00"
  },
  "schema": 1
 }
