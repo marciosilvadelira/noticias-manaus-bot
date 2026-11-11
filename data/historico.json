@@ -23234,13 +23234,76 @@
    "updated_at": "2026-11-11T15:20:18+00:00",
    "url": "https://marioadolfo.com/virada-amazonica-reune-companhias-premiadas-em-programacao-cultural-em-manaus-e-novo-airao/",
    "url_hash": "ac426db557984809f2666244"
+  },
+  "guid:6af48c5552c09500099e1e78": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Policiais localizaram duas malas com drogas em lancha que vinha de Tabatinga com destino a Manaus",
+   "discovered_at": "2026-11-11T15:50:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af48c5552c09500099e1e78",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/950c288b-1be0-4a0d-8704-bbab19a41fd8.png",
+   "key": "guid:6af48c5552c09500099e1e78",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-11T15:42:56+00:00",
+   "status": "pending",
+   "title": "Mais de 30 kg de drogas são apreendidas em embarcação no rio Solimões",
+   "updated_at": "2026-11-11T15:50:16+00:00",
+   "url": "https://marioadolfo.com/mais-de-30-kg-de-drogas-sao-apreendidas-em-embarcacao-no-rio-solimoes/",
+   "url_hash": "a4ff6daae92dca9528407711"
+  },
+  "guid:6af48d3952c09500099e1e8d": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Ato assinado pelo senador Davi Alcolumbre está no Diário Oficial",
+   "discovered_at": "2026-11-11T15:50:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af48d3952c09500099e1e8d",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e54a479f-07fb-4994-bc5e-d91e937e5895.jpeg",
+   "key": "guid:6af48d3952c09500099e1e8d",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-11T15:45:00+00:00",
+   "status": "pending",
+   "title": "Congresso prorroga por 60 dias MP que proíbe bets no país",
+   "updated_at": "2026-11-11T15:50:16+00:00",
+   "url": "https://marioadolfo.com/congresso-prorroga-por-60-dias-mp-que-proibe-bets-no-pais/",
+   "url_hash": "7219a47afad827d679913e1b"
+  },
+  "guid:6af48dd852c09500099e1ea3": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Entre consultas com cardiologista e exames de eletrocardiograma (ECG), ecocardiograma convencional e teste ergométrico, unidade móvel tem capacidade para mais de 3 mil atendimentos por mês",
+   "discovered_at": "2026-11-11T15:50:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af48dd852c09500099e1ea3",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/404fa1f6-081e-4020-9e1f-37eb074fe7ee.jpeg",
+   "key": "guid:6af48dd852c09500099e1ea3",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-11T15:49:16+00:00",
+   "status": "pending",
+   "title": "‘Carreta do Coração’ amplia oferta de serviços especializados em cardiologia",
+   "updated_at": "2026-11-11T15:50:16+00:00",
+   "url": "https://marioadolfo.com/carreta-do-coracao-amplia-oferta-de-servicos-especializados-em-cardiologia/",
+   "url_hash": "44dac0e4697021a7d7c0d5a9"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-11T15:40:17+00:00",
-  "saved_at": "2026-11-11T15:40:20+00:00"
+  "last_run_at": "2026-11-11T15:50:15+00:00",
+  "saved_at": "2026-11-11T15:50:16+00:00"
  },
  "schema": 1
 }
