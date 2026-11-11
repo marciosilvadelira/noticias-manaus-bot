@@ -23129,13 +23129,34 @@
    "updated_at": "2026-11-11T14:30:19+00:00",
    "url": "https://marioadolfo.com/lula-planeta-nao-pode-esperar-em-meio-a-guerras-e-conflitos/",
    "url_hash": "cbc1c72a4f996573ee22d1b5"
+  },
+  "guid:6af47b5e52c09500099e1dfa": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Segundo IBGE, 11,5% das cidades têm iniciativas para reduzir emissões",
+   "discovered_at": "2026-11-11T14:50:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af47b5e52c09500099e1dfa",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/698ec89c-5564-40ff-ad74-deddab170d3b.jpg",
+   "key": "guid:6af47b5e52c09500099e1dfa",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-11T14:42:33+00:00",
+   "status": "pending",
+   "title": "Três em cada quatro municípios sofreram impacto ambiental em dois anos",
+   "updated_at": "2026-11-11T14:50:16+00:00",
+   "url": "https://marioadolfo.com/tres-em-cada-quatro-municipios-sofreram-impacto-ambiental-em-dois-anos/",
+   "url_hash": "77013679416ce07660a90b34"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-11T14:40:14+00:00",
-  "saved_at": "2026-11-11T14:40:15+00:00"
+  "last_run_at": "2026-11-11T14:50:15+00:00",
+  "saved_at": "2026-11-11T14:50:16+00:00"
  },
  "schema": 1
 }
