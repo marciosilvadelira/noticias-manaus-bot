@@ -23402,13 +23402,34 @@
    "updated_at": "2026-11-11T17:20:18+00:00",
    "url": "https://marioadolfo.com/cidades-do-amazonas-estao-em-alerta-severo-para-qualidade-do-ar/",
    "url_hash": "accf9d9262c5381d34bb5e28"
+  },
+  "guid:6af4a88a52c09500099e1f46": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Segundo a administração, a decoração remete à identidade visual do Amazonas Shopping e aos 35 anos do empreendimento",
+   "discovered_at": "2026-11-11T17:50:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af4a88a52c09500099e1f46",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/fb7944b4-294b-4a69-b18c-43c762d75233.jpeg",
+   "key": "guid:6af4a88a52c09500099e1f46",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-11T17:48:15+00:00",
+   "status": "pending",
+   "title": "Decoração natalina em verde e amarelo é inspirada em aniversário, explica shopping",
+   "updated_at": "2026-11-11T17:50:15+00:00",
+   "url": "https://marioadolfo.com/decoracao-natalina-em-verde-e-amarelo-e-inspirada-em-aniversario-explica-shopping/",
+   "url_hash": "113bc9bd36f7b4bdb3ad2690"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-11T17:40:17+00:00",
-  "saved_at": "2026-11-11T17:40:19+00:00"
+  "last_run_at": "2026-11-11T17:50:14+00:00",
+  "saved_at": "2026-11-11T17:50:16+00:00"
  },
  "schema": 1
 }
