@@ -23570,13 +23570,55 @@
    "updated_at": "2026-11-11T19:50:17+00:00",
    "url": "https://marioadolfo.com/mpam-denuncia-medico-por-morte-de-crianca-de-6-anos-apos-sedacao/",
    "url_hash": "4307b147c7bfe0635df045bb"
+  },
+  "guid:6af4c95e52c09500099e202b": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Campanha convida os consumidores nortistas  a antecipar as compras de fim de ano e garantir produtos favoritos com preços especiais",
+   "discovered_at": "2026-11-11T20:10:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af4c95e52c09500099e202b",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a7ecbcf3-c277-42eb-b2aa-9b931465b0f7.jpeg",
+   "key": "guid:6af4c95e52c09500099e202b",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-11T20:03:40+00:00",
+   "status": "pending",
+   "title": "O Boticário abre Beauty Week no Norte com até 70% de desconto",
+   "updated_at": "2026-11-11T20:10:16+00:00",
+   "url": "https://marioadolfo.com/o-boticario-abre-beauty-week-no-norte-com-ate-70-de-desconto/",
+   "url_hash": "b76caf7a83cd24f949741cf6"
+  },
+  "guid:6af4caaa52c09500099e2043": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A ação acontecerá das 8h30 às 12h na escola estadual Professor Aristóteles Comandante de Alencar",
+   "discovered_at": "2026-11-11T20:10:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af4caaa52c09500099e2043",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a47cf68d-c9f0-42f6-861d-0a1ba0adffdc.jpeg",
+   "key": "guid:6af4caaa52c09500099e2043",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-11T20:08:16+00:00",
+   "status": "pending",
+   "title": "Vacina antirrábica gratuita estará disponível em evento no Coroado nesta sexta-feira (13)",
+   "updated_at": "2026-11-11T20:10:16+00:00",
+   "url": "https://marioadolfo.com/vacina-antirrabica-gratuita-estara-disponivel-em-evento-no-coroado-nesta-sexta-feira-13/",
+   "url_hash": "ee39573f4c7ca7898f7e0b75"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-11T20:00:21+00:00",
-  "saved_at": "2026-11-11T20:00:24+00:00"
+  "last_run_at": "2026-11-11T20:10:16+00:00",
+  "saved_at": "2026-11-11T20:10:17+00:00"
  },
  "schema": 1
 }
