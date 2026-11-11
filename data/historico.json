@@ -23549,13 +23549,34 @@
    "updated_at": "2026-11-11T19:00:22+00:00",
    "url": "https://marioadolfo.com/abatedouro-recebe-licenca-no-amazonas-e-deve-processar-mais-de-200-jacares/",
    "url_hash": "fe71190b94704cdf7b04b88e"
+  },
+  "guid:6af4c4d552c09500099e2010": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Segundo o processo, em fevereiro de 2021 o médico aplicou várias doses do medicamento Midazolam na criança",
+   "discovered_at": "2026-11-11T19:50:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af4c4d552c09500099e2010",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/24de422f-0942-4497-8043-63e80471fe3f.jpeg",
+   "key": "guid:6af4c4d552c09500099e2010",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-11T19:43:41+00:00",
+   "status": "pending",
+   "title": "MPAM denuncia médico por morte de criança de 6 anos após sedação",
+   "updated_at": "2026-11-11T19:50:17+00:00",
+   "url": "https://marioadolfo.com/mpam-denuncia-medico-por-morte-de-crianca-de-6-anos-apos-sedacao/",
+   "url_hash": "4307b147c7bfe0635df045bb"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-11T19:40:15+00:00",
-  "saved_at": "2026-11-11T19:40:16+00:00"
+  "last_run_at": "2026-11-11T19:50:16+00:00",
+  "saved_at": "2026-11-11T19:50:17+00:00"
  },
  "schema": 1
 }
