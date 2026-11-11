@@ -23297,13 +23297,34 @@
    "updated_at": "2026-11-11T15:50:16+00:00",
    "url": "https://marioadolfo.com/carreta-do-coracao-amplia-oferta-de-servicos-especializados-em-cardiologia/",
    "url_hash": "44dac0e4697021a7d7c0d5a9"
+  },
+  "guid:6af48f1b52c09500099e1ebf": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Há tendência de alta em 18 estados, mas ministério diz ser esperado",
+   "discovered_at": "2026-11-11T16:00:23+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af48f1b52c09500099e1ebf",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a2eb33d1-5863-4d70-9139-d561e050f2a0.jpeg",
+   "key": "guid:6af48f1b52c09500099e1ebf",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-11T15:53:57+00:00",
+   "status": "pending",
+   "title": "Casos e mortes por covid-19 no país caem em relação ao ano passado",
+   "updated_at": "2026-11-11T16:00:23+00:00",
+   "url": "https://marioadolfo.com/casos-e-mortes-por-covid-19-no-pais-caem-em-relacao-ao-ano-passado/",
+   "url_hash": "f2fd8a776a0644caa9b483f6"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-11T15:50:15+00:00",
-  "saved_at": "2026-11-11T15:50:16+00:00"
+  "last_run_at": "2026-11-11T16:00:22+00:00",
+  "saved_at": "2026-11-11T16:00:24+00:00"
  },
  "schema": 1
 }
