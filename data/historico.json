@@ -22735,11 +22735,19 @@
    "url_hash": "fed265c1f496f0431522c25e"
   },
   "guid:6af3778052c09500099e1c1b": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-11T04:30:23+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1535794925238065",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Vice-governadora eleita gerencia a transição na área da saúde sob orientação de Omar Aziz, que cumpre agenda em Brasília",
    "discovered_at": "2026-11-10T20:10:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1535794925238065",
    "formats": [
     "link"
    ],
@@ -22747,20 +22755,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/80b0a896-de48-45ae-8262-87a48a47c0a7.jpeg",
    "key": "guid:6af3778052c09500099e1c1b",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1535794925238065"
+   },
    "source_published_at": "2026-11-10T20:01:46+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Transição de governo: Alessandra Campelo ouve servidores sobre funcionamento do Sisreg",
-   "updated_at": "2026-11-10T20:10:17+00:00",
+   "updated_at": "2026-11-11T04:30:23+00:00",
    "url": "https://marioadolfo.com/transicao-de-governo-alessandra-campelo-ouve-servidores-sobre-funcionamento-do-sisreg/",
    "url_hash": "f59972bb345f2d2a440181dc"
   },
   "guid:6af378ba52c09500099e1c32": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-11T04:30:49+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1535795191904705",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "As informações podem ser repassadas pelos números (92) 98513-3618, do 12º DIP; (92) 3667-7575, da PC-AM; ou 181, da SSP-AM",
    "discovered_at": "2026-11-10T20:10:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1535795191904705",
    "formats": [
     "link"
    ],
@@ -22768,11 +22786,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ac417a61-b232-464d-83cf-6004885f9600.jpeg",
    "key": "guid:6af378ba52c09500099e1c32",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1535795191904705"
+   },
    "source_published_at": "2026-11-10T20:07:40+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Vídeo: homem é procurado por furto em instituição de ensino no bairro Flores",
-   "updated_at": "2026-11-10T20:10:17+00:00",
+   "updated_at": "2026-11-11T04:30:49+00:00",
    "url": "https://marioadolfo.com/homem-e-procurado-por-furto-em-instituicao-de-ensino-no-bairro-flores/",
    "url_hash": "b069dba80bc9886b818dd9ca"
   },
@@ -22808,11 +22828,19 @@
    "url_hash": "884a68ae1d551c248045c328"
   },
   "guid:6af37a6452c09500099e1c5f": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-11T04:31:15+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1535795488571342",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Acompanhar os valores com antecedência ajuda a identificar falsas promoções, comparar ofertas e evitar prejuízos durante o período de descontos",
    "discovered_at": "2026-11-10T20:20:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1535795488571342",
    "formats": [
     "link"
    ],
@@ -22820,20 +22848,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/00928417-161c-4735-bb21-b7573d5c959e.jpeg",
    "key": "guid:6af37a6452c09500099e1c5f",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1535795488571342"
+   },
    "source_published_at": "2026-11-10T20:13:08+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Procon-AM orienta consumidores a monitorar preços antes da Black Friday",
-   "updated_at": "2026-11-10T20:20:15+00:00",
+   "updated_at": "2026-11-11T04:31:15+00:00",
    "url": "https://marioadolfo.com/procon-am-orienta-consumidores-a-monitorar-precos-antes-da-black-friday/",
    "url_hash": "42465744a6bdf751b075f090"
   },
   "guid:6af37b7852c09500099e1c74": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-11T04:31:40+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1535795865237971",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "As inscrições acontecem de 10 a 30 de novembro e os interessados podem consultar o edital no site da Comissão Estadual de Residência Médica do Amazonas",
    "discovered_at": "2026-11-10T20:20:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1535795865237971",
    "formats": [
     "link"
    ],
@@ -22841,20 +22879,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5fab2b27-b3f2-4148-ae0a-290a8b2b8d94.jpeg",
    "key": "guid:6af37b7852c09500099e1c74",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1535795865237971"
+   },
    "source_published_at": "2026-11-10T20:16:58+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Residência em Medicina de Família e Comunidade tem inscrições abertas para 29 vagas",
-   "updated_at": "2026-11-10T20:20:15+00:00",
+   "updated_at": "2026-11-11T04:31:40+00:00",
    "url": "https://marioadolfo.com/residencia-em-medicina-de-familia-e-comunidade-tem-inscricoes-abertas-para-29-vagas/",
    "url_hash": "fece790b68a2becb0ec97c20"
   },
   "guid:6af37c4952c09500099e1c88": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-11T04:32:07+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1535796118571279",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "A interdição é no trecho entre a rua Epaminondas e avenida Eduardo Ribeiro",
    "discovered_at": "2026-11-10T20:30:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1535796118571279",
    "formats": [
     "link"
    ],
@@ -22862,11 +22910,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c6279a75-8e1b-4265-bfd6-43e41a02b068.jpg",
    "key": "guid:6af37c4952c09500099e1c88",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1535796118571279"
+   },
    "source_published_at": "2026-11-10T20:21:16+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Rua 10 de Julho está interditada até sexta (13) para obras no Centro de Manaus",
-   "updated_at": "2026-11-10T20:30:17+00:00",
+   "updated_at": "2026-11-11T04:32:07+00:00",
    "url": "https://marioadolfo.com/rua-10-de-julho-esta-interditada-ate-sexta-13-para-obras-no-centro-de-manaus/",
    "url_hash": "34fce8dbc8429131236b381e"
   },
@@ -22979,8 +23029,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-11T04:20:16+00:00",
-  "saved_at": "2026-11-11T04:22:15+00:00"
+  "last_run_at": "2026-11-11T04:30:17+00:00",
+  "saved_at": "2026-11-11T04:32:07+00:00"
  },
  "schema": 1
 }
