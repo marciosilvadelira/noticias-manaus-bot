@@ -23465,13 +23465,34 @@
    "updated_at": "2026-11-11T18:20:16+00:00",
    "url": "https://marioadolfo.com/jovem-e-preso-por-receptacao-de-carro-furtado-em-manaus/",
    "url_hash": "b6c3175865f202d4aad7098e"
+  },
+  "guid:6af4b0de52c09500099e1fa2": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Ação mobilizou efetivo na avenida Getúlio Vargas; área central está há mais de 40 dias sem roubos e furtos em coletivos",
+   "discovered_at": "2026-11-11T18:40:20+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af4b0de52c09500099e1fa2",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2b46a81c-a765-470c-a892-f58ca8148a48.jpeg",
+   "key": "guid:6af4b0de52c09500099e1fa2",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-11T18:35:01+00:00",
+   "status": "pending",
+   "title": "Policiais militarem reforçam abordagens em ônibus no Centro de Manaus",
+   "updated_at": "2026-11-11T18:40:20+00:00",
+   "url": "https://marioadolfo.com/policiais-militarem-reforcam-abordagens-em-onibus-no-centro-de-manaus/",
+   "url_hash": "734a27c0d860e9299f42caa6"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-11T18:30:18+00:00",
-  "saved_at": "2026-11-11T18:30:21+00:00"
+  "last_run_at": "2026-11-11T18:40:17+00:00",
+  "saved_at": "2026-11-11T18:40:20+00:00"
  },
  "schema": 1
 }
