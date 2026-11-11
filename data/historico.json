@@ -22239,11 +22239,19 @@
    "url_hash": "665808669dbfbc09e30f32b6"
   },
   "guid:6af32fd152c09500099e1a83": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-11T04:00:27+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1535774601906764",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Programa alcança 1,6 milhão de pessoas no estado, com investimento de R$ 22,7 milhões neste mês e previsão de emissão de mais de 188 mil novos vales nesta terça-feira (10/11)",
    "discovered_at": "2026-11-10T16:00:26+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1535774601906764",
    "formats": [
     "link"
    ],
@@ -22251,11 +22259,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/9f10a762-b48c-4ac4-a4cd-6b166740d4fa.jpg",
    "key": "guid:6af32fd152c09500099e1a83",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1535774601906764"
+   },
    "source_published_at": "2026-11-10T16:00:06+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Gás do Povo beneficia mais de 486,6 mil famílias no Amazonas em novembro",
-   "updated_at": "2026-11-10T16:00:26+00:00",
+   "updated_at": "2026-11-11T04:00:27+00:00",
    "url": "https://marioadolfo.com/gas-do-povo-beneficia-mais-de-486-6-mil-familias-no-amazonas-em-novembro/",
    "url_hash": "13002bf3f1fd0a7b53785126"
   },
@@ -22322,11 +22332,19 @@
    "url_hash": "81a0de954e27453fb67c56db"
   },
   "guid:6af3499052c09500099e1acc": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-11T04:00:52+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1535774928573398",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Comissão formada por 33 servidores examina a movimentação financeira de candidatos e partidos; apresentação das contas é etapa obrigatória do processo eleitoral e exige atenção aos prazos e às regras da legislação.",
    "discovered_at": "2026-11-10T16:50:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1535774928573398",
    "formats": [
     "link"
    ],
@@ -22334,20 +22352,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0eea9791-e795-4d68-84d0-3e71c104e849.jpg",
    "key": "guid:6af3499052c09500099e1acc",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1535774928573398"
+   },
    "source_published_at": "2026-11-10T16:47:42+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "TRE-AM intensifica análise das prestações de contas das Eleições 2026",
-   "updated_at": "2026-11-10T16:50:17+00:00",
+   "updated_at": "2026-11-11T04:00:52+00:00",
    "url": "https://marioadolfo.com/tre-am-intensifica-analise-das-prestacoes-de-contas-das-eleicoes-2026/",
    "url_hash": "c20036b18cb98ec06b519778"
   },
   "guid:6af34b3c52c09500099e1ae3": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-11T04:01:16+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1535775175240040",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "São eles: genérico de semaglutida e Loryvia (produto similar)",
    "discovered_at": "2026-11-10T18:00:21+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1535775175240040",
    "formats": [
     "link"
    ],
@@ -22355,20 +22383,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6918725f-0d3c-43f2-a62d-b41a3d941313.jpg",
    "key": "guid:6af34b3c52c09500099e1ae3",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1535775175240040"
+   },
    "source_published_at": "2026-11-10T17:53:44+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Anvisa registra duas novas canetas emagrecedoras de semaglutida",
-   "updated_at": "2026-11-10T18:00:21+00:00",
+   "updated_at": "2026-11-11T04:01:16+00:00",
    "url": "https://marioadolfo.com/anvisa-registra-duas-novas-canetas-emagrecedoras-de-semaglutida/",
    "url_hash": "eabb4dfe7a455c9c30de0786"
   },
   "guid:6af35d5f52c09500099e1af9": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-11T04:02:08+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1535775788573312",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Ação será realizada nesta quinta-feira (12), das 8h às 13h, na Casa do Trabalhador, em parceria com ACNUR e Hermanitos",
    "discovered_at": "2026-11-10T18:20:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1535775788573312",
    "formats": [
     "link"
    ],
@@ -22376,11 +22414,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e4fc3227-8d6b-4683-8972-3a6a2e6b3376.jpeg",
    "key": "guid:6af35d5f52c09500099e1af9",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1535775788573312"
+   },
    "source_published_at": "2026-11-10T18:10:59+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Feira de Empregabilidade reúne vagas e serviços para pessoas refugiadas e migrantes",
-   "updated_at": "2026-11-10T18:20:17+00:00",
+   "updated_at": "2026-11-11T04:02:08+00:00",
    "url": "https://marioadolfo.com/feira-de-empregabilidade-reune-vagas-e-servicos-para-pessoas-refugiadas-e-migrantes/",
    "url_hash": "ec13cee28e5538cf3e9df19a"
   },
@@ -22532,11 +22572,19 @@
    "url_hash": "2459b4471873d4fba6685331"
   },
   "guid:6af3755d52c09500099e1bd9": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-11T04:01:43+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1535775488573342",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Conselheiro Josué Cláudio de Souza, participou, na manhã desta terça-feira (10), da solenidade de entrega da Medalha e Diploma da Ordem do Mérito Judiciário 2026",
    "discovered_at": "2026-11-10T20:00:21+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1535775488573342",
    "formats": [
     "link"
    ],
@@ -22544,11 +22592,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/7ec5a66e-1b10-4bd6-a595-c06bc1cbaf1c.jpg",
    "key": "guid:6af3755d52c09500099e1bd9",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1535775488573342"
+   },
    "source_published_at": "2026-11-10T18:00:00+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Vice-presidente do TCE-AM participa de solenidade do Mérito Judiciário",
-   "updated_at": "2026-11-10T20:00:21+00:00",
+   "updated_at": "2026-11-11T04:01:43+00:00",
    "url": "https://marioadolfo.com/vice-presidente-do-tce-am-participa-de-solenidade-do-merito-judiciario/",
    "url_hash": "e326a025a243679c1bf50a11"
   },
@@ -22829,8 +22879,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-11T03:50:14+00:00",
-  "saved_at": "2026-11-11T03:50:15+00:00"
+  "last_run_at": "2026-11-11T04:00:19+00:00",
+  "saved_at": "2026-11-11T04:02:08+00:00"
  },
  "schema": 1
 }
