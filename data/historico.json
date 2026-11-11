@@ -23507,13 +23507,55 @@
    "updated_at": "2026-11-11T18:50:18+00:00",
    "url": "https://marioadolfo.com/produtores-de-cafe-de-silves-levam-o-amazonas-a-semana-internacional-do-cafe-2026/",
    "url_hash": "12d753e8e30942245c42bd91"
+  },
+  "guid:6af4b82652c09500099e1fd2": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Os dados mostram que em Manaus e nas estações mais próximas ao município os níveis já começam a ficar abaixo do esperado para o período",
+   "discovered_at": "2026-11-11T19:00:22+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af4b82652c09500099e1fd2",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/765ac728-0160-4139-9d10-d8d491904935.jpeg",
+   "key": "guid:6af4b82652c09500099e1fd2",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-11T18:51:15+00:00",
+   "status": "pending",
+   "title": "Chuvas abaixo do previsto prolongam o período da vazante na bacia do Amazonas",
+   "updated_at": "2026-11-11T19:00:22+00:00",
+   "url": "https://marioadolfo.com/chuvas-abaixo-do-previsto-prolongam-o-periodo-da-vazante-na-bacia-do-amazonas/",
+   "url_hash": "819b28affd80248251ced716"
+  },
+  "guid:6af4b97952c09500099e1ff4": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A previsão é que os animais sejam comercializados em uma feira marcada para 6 de dezembro, em Tefé",
+   "discovered_at": "2026-11-11T19:00:22+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af4b97952c09500099e1ff4",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/483900e9-0fe6-4e13-81fc-2cf2bebfba52.jpeg",
+   "key": "guid:6af4b97952c09500099e1ff4",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-11T18:56:01+00:00",
+   "status": "pending",
+   "title": "Abatedouro recebe licença no Amazonas e deve processar mais de 200 jacarés",
+   "updated_at": "2026-11-11T19:00:22+00:00",
+   "url": "https://marioadolfo.com/abatedouro-recebe-licenca-no-amazonas-e-deve-processar-mais-de-200-jacares/",
+   "url_hash": "fe71190b94704cdf7b04b88e"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-11T18:50:16+00:00",
-  "saved_at": "2026-11-11T18:50:19+00:00"
+  "last_run_at": "2026-11-11T19:00:21+00:00",
+  "saved_at": "2026-11-11T19:00:23+00:00"
  },
  "schema": 1
 }
