@@ -23423,13 +23423,55 @@
    "updated_at": "2026-11-11T17:50:15+00:00",
    "url": "https://marioadolfo.com/decoracao-natalina-em-verde-e-amarelo-e-inspirada-em-aniversario-explica-shopping/",
    "url_hash": "113bc9bd36f7b4bdb3ad2690"
+  },
+  "guid:6af4ae0252c09500099e1f65": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Suspeitos foram identificados pela placa da motocicleta usada no crime; objetos roubados foram recuperados",
+   "discovered_at": "2026-11-11T18:20:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af4ae0252c09500099e1f65",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e1dfeb60-e6b8-4367-a13b-e523daaf659a.jpeg",
+   "key": "guid:6af4ae0252c09500099e1f65",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-11T18:10:49+00:00",
+   "status": "pending",
+   "title": "Dupla é presa por tráfico de drogas e roubo na zona leste de Manaus",
+   "updated_at": "2026-11-11T18:20:16+00:00",
+   "url": "https://marioadolfo.com/dupla-e-presa-por-trafico-de-drogas-e-roubo-na-zona-leste-de-manaus/",
+   "url_hash": "b8b83692e658e94a0793f4a6"
+  },
+  "guid:6af4af8b52c09500099e1f7d": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "O mandado de prisão preventiva foi localizado após a realização na consulta do sistema",
+   "discovered_at": "2026-11-11T18:20:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af4af8b52c09500099e1f7d",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/52db9baf-fedb-4aa0-8eaf-3e6f37fcd5a8.png",
+   "key": "guid:6af4af8b52c09500099e1f7d",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-11T18:15:01+00:00",
+   "status": "pending",
+   "title": "Jovem é preso por receptação de carro furtado em Manaus",
+   "updated_at": "2026-11-11T18:20:16+00:00",
+   "url": "https://marioadolfo.com/jovem-e-preso-por-receptacao-de-carro-furtado-em-manaus/",
+   "url_hash": "b6c3175865f202d4aad7098e"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-11T18:10:16+00:00",
-  "saved_at": "2026-11-11T18:10:18+00:00"
+  "last_run_at": "2026-11-11T18:20:15+00:00",
+  "saved_at": "2026-11-11T18:20:17+00:00"
  },
  "schema": 1
 }
