@@ -23319,6 +23319,27 @@
    "url": "https://marioadolfo.com/casos-e-mortes-por-covid-19-no-pais-caem-em-relacao-ao-ano-passado/",
    "url_hash": "f2fd8a776a0644caa9b483f6"
   },
+  "guid:6af4921a52c09500099e1ed8": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "A ex-candidata a governadora afirmou que não assistiu ao conteúdo e defendeu punição aos responsáveis por eventual publicação criminosa",
+   "discovered_at": "2026-11-11T17:20:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af4921a52c09500099e1ed8",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f208f3d6-b737-4eca-9077-293d97942894.png",
+   "key": "guid:6af4921a52c09500099e1ed8",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-11T17:20:11+00:00",
+   "status": "pending",
+   "title": "Maria do Carmo presta depoimento à polícia sobre vídeo envolvendo filha de Omar Aziz",
+   "updated_at": "2026-11-11T17:20:18+00:00",
+   "url": "https://marioadolfo.com/maria-do-carmo-presta-depoimento-a-policia-sobre-video-envolvendo-filha-de-omar-aziz/",
+   "url_hash": "ee4e2afead475956d5b56ea9"
+  },
   "guid:6af4a0bf52c09500099e1ef2": {
    "attempts": [],
    "category": "Amazonas",
@@ -23339,13 +23360,55 @@
    "updated_at": "2026-11-11T17:10:15+00:00",
    "url": "https://marioadolfo.com/justica-eleitoral-cobra-multa-de-r-15-mil-de-sargento-salazar-e-kidson-maia/",
    "url_hash": "eed58f9f226d7dd4a8f5b709"
+  },
+  "guid:6af4a21a52c09500099e1f0d": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A conduta decorre de irregularidades identificadas durante uma intervenção na avenida Mário Ypiranga Monteiro",
+   "discovered_at": "2026-11-11T17:20:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af4a21a52c09500099e1f0d",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a42a6eb2-6075-4f16-b982-4d12103034dc.jpeg",
+   "key": "guid:6af4a21a52c09500099e1f0d",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-11T17:15:24+00:00",
+   "status": "pending",
+   "title": "Águas de Manaus é multada em R$ 272 mil após motociclista cair em vala no Adrianópolis",
+   "updated_at": "2026-11-11T17:20:18+00:00",
+   "url": "https://marioadolfo.com/aguas-de-manaus-e-multada-em-r-272-mil-apos-motociclista-cair-em-vala-no-adrianopolis/",
+   "url_hash": "a5fe31a4f425b1145c480966"
+  },
+  "guid:6af4a2d652c09500099e1f24": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Fumaça de incêndios florestais está severo em quatro municípios",
+   "discovered_at": "2026-11-11T17:20:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af4a2d652c09500099e1f24",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a69ea672-8161-4415-8277-620c21741e3e.jpeg",
+   "key": "guid:6af4a2d652c09500099e1f24",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-11T17:19:05+00:00",
+   "status": "pending",
+   "title": "Cidades do Amazonas estão em alerta severo para qualidade do ar",
+   "updated_at": "2026-11-11T17:20:18+00:00",
+   "url": "https://marioadolfo.com/cidades-do-amazonas-estao-em-alerta-severo-para-qualidade-do-ar/",
+   "url_hash": "accf9d9262c5381d34bb5e28"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-11T17:10:14+00:00",
-  "saved_at": "2026-11-11T17:10:16+00:00"
+  "last_run_at": "2026-11-11T17:20:16+00:00",
+  "saved_at": "2026-11-11T17:20:19+00:00"
  },
  "schema": 1
 }
