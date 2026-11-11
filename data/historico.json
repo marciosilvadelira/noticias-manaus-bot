@@ -23150,13 +23150,55 @@
    "updated_at": "2026-11-11T14:50:16+00:00",
    "url": "https://marioadolfo.com/tres-em-cada-quatro-municipios-sofreram-impacto-ambiental-em-dois-anos/",
    "url_hash": "77013679416ce07660a90b34"
+  },
+  "guid:6af4811052c09500099e1e15": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Inscrições acontecem até dia 23 de novembro de 2026, pela internet",
+   "discovered_at": "2026-11-11T15:00:23+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af4811052c09500099e1e15",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/cba276ab-c911-46dc-858f-6f10d6c20ed1.jpeg",
+   "key": "guid:6af4811052c09500099e1e15",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-11T14:55:13+00:00",
+   "status": "pending",
+   "title": "PMAM abre 270 vagas para ingresso nos Colégios Militares em 2027",
+   "updated_at": "2026-11-11T15:00:23+00:00",
+   "url": "https://marioadolfo.com/pmam-abre-270-vagas-para-ingresso-nos-colegios-militares-em-2027/",
+   "url_hash": "939cfb9025933629cb40b0a9"
+  },
+  "guid:6af4820052c09500099e1e2d": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Ação gratuita acontece no Sest Senat, unidade Jorge Teixeira, das 8h às 12h, com serviços de saúde, atividades esportivas, lazer e orientação profissional",
+   "discovered_at": "2026-11-11T15:00:23+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af4820052c09500099e1e2d",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/cc3d70db-007e-43b7-83a1-91ba5539fe7f.jpeg",
+   "key": "guid:6af4820052c09500099e1e2d",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-11T14:58:09+00:00",
+   "status": "pending",
+   "title": "Portas Abertas: serviços gratuitos de saúde, esporte e lazer neste sábado (14/11)",
+   "updated_at": "2026-11-11T15:00:23+00:00",
+   "url": "https://marioadolfo.com/portas-abertas-servicos-gratuitos-de-saude-esporte-e-lazer-neste-sabado-14-11/",
+   "url_hash": "528624528002ea4e56c66eee"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-11T14:50:15+00:00",
-  "saved_at": "2026-11-11T14:50:16+00:00"
+  "last_run_at": "2026-11-11T15:00:22+00:00",
+  "saved_at": "2026-11-11T15:00:24+00:00"
  },
  "schema": 1
 }
