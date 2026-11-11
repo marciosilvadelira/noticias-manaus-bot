@@ -23213,13 +23213,34 @@
    "updated_at": "2026-11-11T15:10:17+00:00",
    "url": "https://marioadolfo.com/com-100-de-avaliacao-tce-am-conquista-selo-diamante-de-transparencia-pela-4a-vez/",
    "url_hash": "e5840a97952faf0cfe8ff910"
+  },
+  "guid:6af4863552c09500099e1e58": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "De 18 a 26 de novembro, evento combina nove apresentações teatrais, oito delas gratuitas, duas exposições e oficinas que aproximam estudantes dos processos de criação artística",
+   "discovered_at": "2026-11-11T15:20:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af4863552c09500099e1e58",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/98fe1e64-17f0-41ae-a4e5-ded52dbe6b1c.jpeg",
+   "key": "guid:6af4863552c09500099e1e58",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-11T15:17:58+00:00",
+   "status": "pending",
+   "title": "Virada Amazônica reúne companhias premiadas em programação cultural em Manaus e Novo Airão",
+   "updated_at": "2026-11-11T15:20:18+00:00",
+   "url": "https://marioadolfo.com/virada-amazonica-reune-companhias-premiadas-em-programacao-cultural-em-manaus-e-novo-airao/",
+   "url_hash": "ac426db557984809f2666244"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-11T15:10:16+00:00",
-  "saved_at": "2026-11-11T15:10:17+00:00"
+  "last_run_at": "2026-11-11T15:20:17+00:00",
+  "saved_at": "2026-11-11T15:20:19+00:00"
  },
  "schema": 1
 }
