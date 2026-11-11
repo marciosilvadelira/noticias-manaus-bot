@@ -23066,13 +23066,34 @@
    "updated_at": "2026-11-11T12:20:15+00:00",
    "url": "https://marioadolfo.com/primeira-rua-gastronomica-de-manaus-recebe-obras-de-drenagem/",
    "url_hash": "d4e897411159eeac3a99d806"
+  },
+  "guid:6af4720752c09500099e1d8d": {
+   "attempts": [],
+   "category": "Dito & Feito",
+   "description": "Nuvens de fumaça formadas pelas queimadas afetam cerca de 140 mil pessoas por  ano com doenças cardíacas e respiratórias, reduzindo a expectativa de vida na região em 2 a 4 anos",
+   "discovered_at": "2026-11-11T14:00:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af4720752c09500099e1d8d",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f7f3b6c7-ca87-42dd-89e8-04475e397f23.jpeg",
+   "key": "guid:6af4720752c09500099e1d8d",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-11T13:57:38+00:00",
+   "status": "pending",
+   "title": "Dito & Feito: FUMAÇA  ASSASSINA",
+   "updated_at": "2026-11-11T14:00:21+00:00",
+   "url": "https://marioadolfo.com/dito-feito-fumaca-assassina/",
+   "url_hash": "2aab5b9ba67e88238a3273c5"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-11T13:50:16+00:00",
-  "saved_at": "2026-11-11T13:50:18+00:00"
+  "last_run_at": "2026-11-11T14:00:21+00:00",
+  "saved_at": "2026-11-11T14:00:22+00:00"
  },
  "schema": 1
 }
