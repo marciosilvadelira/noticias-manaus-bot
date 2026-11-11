@@ -23016,12 +23016,12 @@
    "guid": "6af3ac4252c09500099e1d29",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/bfde5a81-bb58-42f4-9a5d-8fa30c659128.jpeg",
    "key": "guid:6af3ac4252c09500099e1d29",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-10T23:46:36+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Omar Aziz articula emendas para enfrentar desafios do Amazonas em 2027",
-   "updated_at": "2026-11-10T23:50:15+00:00",
+   "updated_at": "2026-11-11T23:50:16+00:00",
    "url": "https://marioadolfo.com/omar-aziz-articula-emendas-para-enfrentar-desafios-do-amazonas-em-2027/",
    "url_hash": "86967b5961ffc1cb518596d3"
   },
@@ -23659,8 +23659,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-11T23:40:15+00:00",
-  "saved_at": "2026-11-11T23:40:17+00:00"
+  "last_run_at": "2026-11-11T23:50:14+00:00",
+  "saved_at": "2026-11-11T23:50:16+00:00"
  },
  "schema": 1
 }
