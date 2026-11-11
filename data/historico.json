@@ -22549,11 +22549,19 @@
    "url_hash": "a8aa146aa15f2287417b0bea"
   },
   "guid:6af372bd52c09500099e1b93": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-11T04:20:23+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1535788765238681",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Nova regra aprovada pelo CNJ permitirá corrigir registros antigos e criar base nacional de dados sobre mortes em intervenções de segurança pública",
    "discovered_at": "2026-11-10T19:50:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1535788765238681",
    "formats": [
     "link"
    ],
@@ -22561,20 +22569,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b6509896-5a46-4435-89dd-32cb21cf9cb5.jpg",
    "key": "guid:6af372bd52c09500099e1b93",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1535788765238681"
+   },
    "source_published_at": "2026-11-10T19:41:04+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Certidões de óbito passam a identificar mortes ocorridas durante intervenções policiais",
-   "updated_at": "2026-11-10T19:50:15+00:00",
+   "updated_at": "2026-11-11T04:20:23+00:00",
    "url": "https://marioadolfo.com/certidoes-de-obito-passam-a-identificar-mortes-ocorridas-durante-intervencoes-policiais/",
    "url_hash": "8cb6058fb193d98c157bfb8c"
   },
   "guid:6af3737152c09500099e1bac": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-11T04:20:48+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1535788945238663",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Nova modalidade permite resgatar ganhos de até R$ 2.428,80",
    "discovered_at": "2026-11-10T19:50:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1535788945238663",
    "formats": [
     "link"
    ],
@@ -22582,20 +22600,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/8a077c80-2539-418e-9479-260508fe2b84.jpg",
    "key": "guid:6af3737152c09500099e1bac",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1535788945238663"
+   },
    "source_published_at": "2026-11-10T19:42:35+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Caixa passa a pagar prêmios de loterias via Pix em apostas digitais",
-   "updated_at": "2026-11-10T19:50:15+00:00",
+   "updated_at": "2026-11-11T04:20:48+00:00",
    "url": "https://marioadolfo.com/caixa-passa-a-pagar-premios-de-loterias-via-pix-em-apostas-digitais/",
    "url_hash": "8c1746ce481926cff6bc62c0"
   },
   "guid:6af3746a52c09500099e1bc0": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-11T04:21:13+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1535789151905309",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "O crime ocorreu em 2024, na residência onde o casal vivia, no bairro Gilberto Mestrinho",
    "discovered_at": "2026-11-10T19:50:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1535789151905309",
    "formats": [
     "link"
    ],
@@ -22603,11 +22631,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/1954be1d-507d-4fbe-a0f1-3ffdbccef161.jpeg",
    "key": "guid:6af3746a52c09500099e1bc0",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1535789151905309"
+   },
    "source_published_at": "2026-11-10T19:48:27+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Feminicídio: réu é condenado a mais de 24 anos de prisão pelo morte da companheira",
-   "updated_at": "2026-11-10T19:50:15+00:00",
+   "updated_at": "2026-11-11T04:21:13+00:00",
    "url": "https://marioadolfo.com/reu-e-condenado-a-mais-de-24-anos-de-prisao-pelo-morte-da-companheira/",
    "url_hash": "2459b4471873d4fba6685331"
   },
@@ -22643,11 +22673,19 @@
    "url_hash": "e326a025a243679c1bf50a11"
   },
   "guid:6af375fa52c09500099e1bee": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-11T04:21:42+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1535789398571951",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Restrição segue até março de 2027 e estabelece regras para a captura e comercialização do pescado no estado",
    "discovered_at": "2026-11-10T20:00:21+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1535789398571951",
    "formats": [
     "link"
    ],
@@ -22655,20 +22693,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/9f849e20-cd1c-4707-87f3-769f20b3ac53.jpeg",
    "key": "guid:6af375fa52c09500099e1bee",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1535789398571951"
+   },
    "source_published_at": "2026-11-10T19:53:32+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Pesca de oito espécies fica proibida a partir de domingo (15/11) no Amazonas",
-   "updated_at": "2026-11-10T20:00:21+00:00",
+   "updated_at": "2026-11-11T04:21:42+00:00",
    "url": "https://marioadolfo.com/pesca-de-oito-especies-fica-proibida-a-partir-de-domingo-15-11-no-amazonas/",
    "url_hash": "5b7c09a3e61094d7941c41e1"
   },
   "guid:6af3767452c09500099e1c04": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-11T04:22:15+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1535789861905238",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "A ação acontece nesta quinta-feira (12) das 8h às 13h, na unidade do Nova Era localizada na avenida Max Teixeira",
    "discovered_at": "2026-11-10T20:00:21+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1535789861905238",
    "formats": [
     "link"
    ],
@@ -22676,11 +22724,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a045690f-422c-4eaf-b8c6-34203e821a83.jpeg",
    "key": "guid:6af3767452c09500099e1c04",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1535789861905238"
+   },
    "source_published_at": "2026-11-10T19:55:58+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Supermercado promove ação de empregabilidade com vagas exclusivas para PcD",
-   "updated_at": "2026-11-10T20:00:21+00:00",
+   "updated_at": "2026-11-11T04:22:15+00:00",
    "url": "https://marioadolfo.com/supermercado-promove-acao-de-empregabilidade-com-vagas-exclusivas-para-pcd/",
    "url_hash": "fed265c1f496f0431522c25e"
   },
@@ -22929,8 +22979,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-11T04:10:14+00:00",
-  "saved_at": "2026-11-11T04:12:05+00:00"
+  "last_run_at": "2026-11-11T04:20:16+00:00",
+  "saved_at": "2026-11-11T04:22:15+00:00"
  },
  "schema": 1
 }
