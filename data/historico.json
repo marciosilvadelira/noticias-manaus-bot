@@ -23318,13 +23318,34 @@
    "updated_at": "2026-11-11T16:00:23+00:00",
    "url": "https://marioadolfo.com/casos-e-mortes-por-covid-19-no-pais-caem-em-relacao-ao-ano-passado/",
    "url_hash": "f2fd8a776a0644caa9b483f6"
+  },
+  "guid:6af4a0bf52c09500099e1ef2": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A multa é por propaganda eleitoral antecipada negativa contra David Almeida (Avante), ex-candidato ao Governo do Amazonas",
+   "discovered_at": "2026-11-11T17:10:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af4a0bf52c09500099e1ef2",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/16e9cecc-edf6-4cc2-b4c1-32cbdb570c71.jpeg",
+   "key": "guid:6af4a0bf52c09500099e1ef2",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-11T17:09:56+00:00",
+   "status": "pending",
+   "title": "Justiça Eleitoral cobra multa de R$ 15 mil de Sargento Salazar e Kidson Maia",
+   "updated_at": "2026-11-11T17:10:15+00:00",
+   "url": "https://marioadolfo.com/justica-eleitoral-cobra-multa-de-r-15-mil-de-sargento-salazar-e-kidson-maia/",
+   "url_hash": "eed58f9f226d7dd4a8f5b709"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-11T17:00:22+00:00",
-  "saved_at": "2026-11-11T17:00:24+00:00"
+  "last_run_at": "2026-11-11T17:10:14+00:00",
+  "saved_at": "2026-11-11T17:10:16+00:00"
  },
  "schema": 1
 }
