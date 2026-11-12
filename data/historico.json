@@ -24316,13 +24316,76 @@
    "updated_at": "2026-11-12T18:00:21+00:00",
    "url": "https://marioadolfo.com/mpam-investiga-possivel-atuacao-irregular-de-servidores-municipais-na-policia-civil-em-tefe/",
    "url_hash": "0fd461282334a39a267afc92"
+  },
+  "guid:6af5fe6852c09500099e2305": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Casos graves, no entanto, continuam em níveis baixos",
+   "discovered_at": "2026-11-12T18:10:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af5fe6852c09500099e2305",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6f2b90c9-86ca-48a6-ba83-39447da3d2a7.jpg",
+   "key": "guid:6af5fe6852c09500099e2305",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-12T18:00:48+00:00",
+   "status": "pending",
+   "title": "Fiocruz: aumentam casos de síndrome respiratória aguda por covid-19",
+   "updated_at": "2026-11-12T18:10:17+00:00",
+   "url": "https://marioadolfo.com/fiocruz-aumentam-casos-de-sindrome-respiratoria-aguda-por-covid-19/",
+   "url_hash": "c3df0dcd41d98f7325dd91bb"
+  },
+  "guid:6af5fe9152c09500099e230c": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Fumaça que ainda atinge a capital amazonense tem origem principalmente no oeste paraense, segundo Serafim Corrêa",
+   "discovered_at": "2026-11-12T18:10:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af5fe9152c09500099e230c",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/8bbbf1c4-c22d-4025-a1aa-2e81c33562c6.jpeg",
+   "key": "guid:6af5fe9152c09500099e230c",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-12T18:01:31+00:00",
+   "status": "pending",
+   "title": "Focos de incêndio diminuem no oeste do Pará e fumaça pode diminuir em Manaus",
+   "updated_at": "2026-11-12T18:10:17+00:00",
+   "url": "https://marioadolfo.com/focos-de-incendio-diminuem-no-oeste-do-para-e-fumaca-pode-diminuir-em-manaus-fumaca-que-ainda-atinge-a-capital-amazonense-tem-origem-principalmente-no-oeste-paraense-segundo-serafim-cor/",
+   "url_hash": "1d49f7bc066fb3f13cdf1598"
+  },
+  "guid:6af5fefa52c09500099e2330": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A seleção ocorrerá em duas etapas: cadastro online, de caráter eliminatório, e análise documental, de caráter classificatório",
+   "discovered_at": "2026-11-12T18:10:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af5fefa52c09500099e2330",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/114f75cb-db11-4c03-b6f1-48219c0ccaf6.jpeg",
+   "key": "guid:6af5fefa52c09500099e2330",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-12T18:03:07+00:00",
+   "status": "pending",
+   "title": "MPAM abre seleção para estágio de nível médio e superior nesta sexta (13)",
+   "updated_at": "2026-11-12T18:10:17+00:00",
+   "url": "https://marioadolfo.com/mpam-abre-selecao-para-estagio-de-nivel-medio-e-superior-nesta-sexta-13/",
+   "url_hash": "e30c61325f53243041fa4c02"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-12T18:00:20+00:00",
-  "saved_at": "2026-11-12T18:00:21+00:00"
+  "last_run_at": "2026-11-12T18:10:17+00:00",
+  "saved_at": "2026-11-12T18:10:18+00:00"
  },
  "schema": 1
 }
