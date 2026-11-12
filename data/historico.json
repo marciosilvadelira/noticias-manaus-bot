@@ -24127,13 +24127,55 @@
    "updated_at": "2026-11-12T15:40:20+00:00",
    "url": "https://marioadolfo.com/ultima-feira-d-de-2026-tera-11-dias-de-duracao/",
    "url_hash": "5717d638443c9e5e5ec9f40f"
+  },
+  "guid:6af5ddc452c09500099e2220": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Justiça determinou que dinheiro do imóvel vá para empreiteira OAS",
+   "discovered_at": "2026-11-12T15:50:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af5ddc452c09500099e2220",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/3e2b37b9-199c-4059-adc3-0b106f880b79.webp",
+   "key": "guid:6af5ddc452c09500099e2220",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-12T15:41:17+00:00",
+   "status": "pending",
+   "title": "Lula cobra pedido de desculpas da imprensa sobre triplex em Guarujá",
+   "updated_at": "2026-11-12T15:50:17+00:00",
+   "url": "https://marioadolfo.com/lula-cobra-pedido-de-desculpas-da-imprensa-sobre-triplex-em-guaruja/",
+   "url_hash": "38db665eaf38a6ed0a9e0a1c"
+  },
+  "guid:6af5de9252c09500099e223c": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Policiais encontraram porções de cocaína, maconha e oxi, além de dinheiro em espécie com a suspeita",
+   "discovered_at": "2026-11-12T15:50:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af5de9252c09500099e223c",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/8befd972-fc50-41ca-9452-4daf17348139.jpeg",
+   "key": "guid:6af5de9252c09500099e223c",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-12T15:45:05+00:00",
+   "status": "pending",
+   "title": "Mulher é presa por tráfico de drogas em bar no bairro Compensa",
+   "updated_at": "2026-11-12T15:50:17+00:00",
+   "url": "https://marioadolfo.com/mulher-e-presa-por-trafico-de-drogas-no-bairro-compensa/",
+   "url_hash": "8e3336948921a6021f2ba5a5"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-12T15:40:17+00:00",
-  "saved_at": "2026-11-12T15:40:21+00:00"
+  "last_run_at": "2026-11-12T15:50:15+00:00",
+  "saved_at": "2026-11-12T15:50:18+00:00"
  },
  "schema": 1
 }
