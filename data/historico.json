@@ -23026,11 +23026,19 @@
    "url_hash": "86967b5961ffc1cb518596d3"
   },
   "guid:6af457e852c09500099e1d4c": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-12T04:00:33+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1536895551794669",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Operação cumpriu quatro mandados de busca e apreensão em Rio Preto da Eva.  PF apura estelionato, associação criminosa e lavagem de dinheiro",
    "discovered_at": "2026-11-11T12:10:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1536895551794669",
    "formats": [
     "link"
    ],
@@ -23038,20 +23046,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f736a215-61c8-4260-a222-7992dae9ad13.jpeg",
    "key": "guid:6af457e852c09500099e1d4c",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1536895551794669"
+   },
    "source_published_at": "2026-11-11T12:01:04+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Vídeo: PF investiga esquema de fraudes bancárias no AM",
-   "updated_at": "2026-11-11T12:10:18+00:00",
+   "updated_at": "2026-11-12T04:00:33+00:00",
    "url": "https://marioadolfo.com/vidpf-investiga-esquema-de-fraudes-bancarias-no-am/",
    "url_hash": "980150f831e84737facb69a8"
   },
   "guid:6af45a7d52c09500099e1d6d": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-12T04:01:00+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1536896048461286",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Estão sendo implantados 125 metros de rede para conectar a nova estrutura de drenagem da rua Ferreira Pena ao sistema do entorno",
    "discovered_at": "2026-11-11T12:20:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1536896048461286",
    "formats": [
     "link"
    ],
@@ -23059,20 +23077,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/80abfb0b-ecc6-4e9b-bff6-9e2e491457ad.jpg",
    "key": "guid:6af45a7d52c09500099e1d6d",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1536896048461286"
+   },
    "source_published_at": "2026-11-11T12:12:40+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Primeira rua gastronômica de Manaus recebe obras de drenagem",
-   "updated_at": "2026-11-11T12:20:15+00:00",
+   "updated_at": "2026-11-12T04:01:00+00:00",
    "url": "https://marioadolfo.com/primeira-rua-gastronomica-de-manaus-recebe-obras-de-drenagem/",
    "url_hash": "d4e897411159eeac3a99d806"
   },
   "guid:6af4720752c09500099e1d8d": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-12T04:01:25+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1536896275127930",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Dito & Feito",
    "description": "Nuvens de fumaça formadas pelas queimadas afetam cerca de 140 mil pessoas por  ano com doenças cardíacas e respiratórias, reduzindo a expectativa de vida na região em 2 a 4 anos",
    "discovered_at": "2026-11-11T14:00:21+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1536896275127930",
    "formats": [
     "link"
    ],
@@ -23080,20 +23108,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f7f3b6c7-ca87-42dd-89e8-04475e397f23.jpeg",
    "key": "guid:6af4720752c09500099e1d8d",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1536896275127930"
+   },
    "source_published_at": "2026-11-11T13:57:38+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Dito & Feito: FUMAÇA  ASSASSINA",
-   "updated_at": "2026-11-11T14:00:21+00:00",
+   "updated_at": "2026-11-12T04:01:25+00:00",
    "url": "https://marioadolfo.com/dito-feito-fumaca-assassina/",
    "url_hash": "2aab5b9ba67e88238a3273c5"
   },
   "guid:6af476c552c09500099e1dbc": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-12T04:01:52+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1536896681794556",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Pedagoga e ex-vereadora de Itacoatiara, petista construiu trajetória política no interior do Amazonas e terá mandato em Brasília até 2031",
    "discovered_at": "2026-11-11T14:20:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1536896681794556",
    "formats": [
     "link"
    ],
@@ -23101,20 +23139,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/7f4e5cbd-ef40-4fde-8dc4-076f6a5cf1ea.jpeg",
    "key": "guid:6af476c552c09500099e1dbc",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1536896681794556"
+   },
    "source_published_at": "2026-11-11T14:18:37+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Vídeo: saiba quem é Cheila Moreira, suplente de Omar Aziz que assumirá vaga no Senado",
-   "updated_at": "2026-11-11T14:20:16+00:00",
+   "updated_at": "2026-11-12T04:01:52+00:00",
    "url": "https://marioadolfo.com/video-saiba-quem-e-cheila-moreira-suplente-de-omar-aziz-que-assumira-vaga-no-senado/",
    "url_hash": "bd86bb372dca88aa064f86c5"
   },
   "guid:6af47a6852c09500099e1de4": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-12T04:02:20+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1536897011794523",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Presidente falou durante a COP31 em Antália, na Turquia",
    "discovered_at": "2026-11-11T14:30:19+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1536897011794523",
    "formats": [
     "link"
    ],
@@ -23122,11 +23170,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4a0d8a4d-a397-4bef-884b-44b459db9454.jpg",
    "key": "guid:6af47a6852c09500099e1de4",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1536897011794523"
+   },
    "source_published_at": "2026-11-11T14:25:33+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Lula: planeta não pode esperar em meio a guerras e conflitos",
-   "updated_at": "2026-11-11T14:30:19+00:00",
+   "updated_at": "2026-11-12T04:02:20+00:00",
    "url": "https://marioadolfo.com/lula-planeta-nao-pode-esperar-em-meio-a-guerras-e-conflitos/",
    "url_hash": "cbc1c72a4f996573ee22d1b5"
   },
@@ -23659,8 +23709,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-12T03:50:24+00:00",
-  "saved_at": "2026-11-12T03:50:25+00:00"
+  "last_run_at": "2026-11-12T04:00:18+00:00",
+  "saved_at": "2026-11-12T04:02:20+00:00"
  },
  "schema": 1
 }
