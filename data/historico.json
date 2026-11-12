@@ -24043,13 +24043,55 @@
    "updated_at": "2026-11-12T15:20:15+00:00",
    "url": "https://marioadolfo.com/serra-da-valeria-vira-patrimonio-cultural-e-historico-de-parintins/",
    "url_hash": "90120519abd015e8f4091ba1"
+  },
+  "guid:6af5d92952c09500099e219d": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Segunda parcela começou a ser depositada nesta quinta-feira (12) e segue até sexta-feira (13)",
+   "discovered_at": "2026-11-12T15:30:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af5d92952c09500099e219d",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ae3fabbf-9f7d-42d4-ac9a-bbdc7e6dc641.jpeg",
+   "key": "guid:6af5d92952c09500099e219d",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-12T15:22:13+00:00",
+   "status": "pending",
+   "title": "Governo inicia pagamento do 13º salário e injeta R$ 1,3 bilhão na economia do Amazonas",
+   "updated_at": "2026-11-12T15:30:21+00:00",
+   "url": "https://marioadolfo.com/governo-inicia-pagamento-do-13o-salario-e-injeta-r-1-3-bilhao-na-economia-do-amazonas/",
+   "url_hash": "eabd93016dada7bf834e3177"
+  },
+  "guid:6af5d9b952c09500099e21b5": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Senador se reuniu com o presidente e o vice-presidente do Supremo Tribunal Federal, Edson Fachin e Alexandre de Moraes, respectivamente, para debater o orçamento",
+   "discovered_at": "2026-11-12T15:30:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af5d9b952c09500099e21b5",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4d952053-cc7e-4f9e-8b8d-aadb184737bb.jpeg",
+   "key": "guid:6af5d9b952c09500099e21b5",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-12T15:24:10+00:00",
+   "status": "pending",
+   "title": "Eduardo Braga defende votação do pacote fiscal do governo",
+   "updated_at": "2026-11-12T15:30:21+00:00",
+   "url": "https://marioadolfo.com/eduardo-braga-defende-votacao-do-pacote-fiscal-do-governo/",
+   "url_hash": "a5def7dffbd065587dd70d87"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-12T15:20:15+00:00",
-  "saved_at": "2026-11-12T15:20:16+00:00"
+  "last_run_at": "2026-11-12T15:30:20+00:00",
+  "saved_at": "2026-11-12T15:30:22+00:00"
  },
  "schema": 1
 }
