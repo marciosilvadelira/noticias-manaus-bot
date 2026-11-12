@@ -23783,12 +23783,12 @@
    "guid": "6af4c95e52c09500099e202b",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a7ecbcf3-c277-42eb-b2aa-9b931465b0f7.jpeg",
    "key": "guid:6af4c95e52c09500099e202b",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-11T20:03:40+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "O Boticário abre Beauty Week no Norte com até 70% de desconto",
-   "updated_at": "2026-11-11T20:10:16+00:00",
+   "updated_at": "2026-11-12T20:10:18+00:00",
    "url": "https://marioadolfo.com/o-boticario-abre-beauty-week-no-norte-com-ate-70-de-desconto/",
    "url_hash": "b76caf7a83cd24f949741cf6"
   },
@@ -23804,12 +23804,12 @@
    "guid": "6af4caaa52c09500099e2043",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a47cf68d-c9f0-42f6-861d-0a1ba0adffdc.jpeg",
    "key": "guid:6af4caaa52c09500099e2043",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-11T20:08:16+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Vacina antirrábica gratuita estará disponível em evento no Coroado nesta sexta-feira (13)",
-   "updated_at": "2026-11-11T20:10:16+00:00",
+   "updated_at": "2026-11-12T20:10:18+00:00",
    "url": "https://marioadolfo.com/vacina-antirrabica-gratuita-estara-disponivel-em-evento-no-coroado-nesta-sexta-feira-13/",
    "url_hash": "ee39573f4c7ca7898f7e0b75"
   },
@@ -24443,6 +24443,27 @@
    "url": "https://marioadolfo.com/obras-da-primeira-rua-gastronomica-de-manaus-chegam-a-60-de-execucao/",
    "url_hash": "ccb621bda0821e3788e0310e"
   },
+  "guid:6af6172252c09500099e239d": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Escala entra em vigor no dia 16 de dezembro",
+   "discovered_at": "2026-11-12T20:10:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af6172252c09500099e239d",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/763c2999-b391-4056-950a-a38ff6c13859.webp",
+   "key": "guid:6af6172252c09500099e239d",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-12T19:50:23+00:00",
+   "status": "pending",
+   "title": "Dino mantém prazo inicial da 5x2, mas flexibiliza regra de transição",
+   "updated_at": "2026-11-12T20:10:18+00:00",
+   "url": "https://marioadolfo.com/dino-mantem-prazo-inicial-da-5x2-mas-flexibiliza-regra-de-transicao/",
+   "url_hash": "60ec679ace5b00d608520942"
+  },
   "guid:6af6178c52c09500099e23b0": {
    "attempts": [],
    "category": "Polícia",
@@ -24463,13 +24484,34 @@
    "updated_at": "2026-11-12T19:50:17+00:00",
    "url": "https://marioadolfo.com/terceiro-suspeito-de-participar-de-estupro-coletivo-e-tentativa-de-feminicidio/",
    "url_hash": "20e5a66303acd973b13a7111"
+  },
+  "guid:6af6194852c09500099e23d0": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Audiência reuniu representantes do sindicato dos rodoviários e das empresas, com a presença do Ministério Público do Trabalho",
+   "discovered_at": "2026-11-12T20:10:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af6194852c09500099e23d0",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/000a0a3a-15e7-4d17-aa8d-0a553fbce8cc.jpeg",
+   "key": "guid:6af6194852c09500099e23d0",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-12T19:55:12+00:00",
+   "status": "pending",
+   "title": "Rodoviários e empresas de ônibus de Manaus fecham acordo após paralisação",
+   "updated_at": "2026-11-12T20:10:18+00:00",
+   "url": "https://marioadolfo.com/rodoviarios-e-empresas-de-onibus-de-manaus-fecham-acordo-apos-paralisacao/",
+   "url_hash": "b298cec46757972ffedde65b"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-12T20:00:20+00:00",
-  "saved_at": "2026-11-12T20:00:43+00:00"
+  "last_run_at": "2026-11-12T20:10:15+00:00",
+  "saved_at": "2026-11-12T20:10:18+00:00"
  },
  "schema": 1
 }
