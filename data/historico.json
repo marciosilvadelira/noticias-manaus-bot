@@ -23980,13 +23980,76 @@
    "updated_at": "2026-11-12T15:10:17+00:00",
    "url": "https://marioadolfo.com/prefeitura-de-manaus-abre-60-vagas-para-curso-de-seguranca-em-maquinas-e-equipamentos/",
    "url_hash": "9c945dc3b128c5f8c5077b61"
+  },
+  "guid:6af5d6f852c09500099e214c": {
+   "attempts": [],
+   "category": "Parintins",
+   "description": "Os dados fazem parte do levantamento de 2026 divulgado pela Associação dos Membros dos Tribunais de Contas do Brasil (Atricon), no qual o município atingiu o índice geral de 69,5%",
+   "discovered_at": "2026-11-12T15:20:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af5d6f852c09500099e214c",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d8f4e1b7-6ad9-4c56-888f-5271c4e9291c.jpeg",
+   "key": "guid:6af5d6f852c09500099e214c",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-12T15:12:29+00:00",
+   "status": "pending",
+   "title": "Parintins entra no Top 10 da Transparência Pública do Amazonas",
+   "updated_at": "2026-11-12T15:20:15+00:00",
+   "url": "https://marioadolfo.com/parintins-entra-no-top-10-da-transparencia-publica-do-amazonas/",
+   "url_hash": "fd5c1fd93e0bc537757ec6cd"
+  },
+  "guid:6af5d79352c09500099e2164": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A ocorrência foi registrada por volta das 6h, na altura do quilômetro 30 da rodovia, durante uma viagem com destino ao município de Itacoatiara",
+   "discovered_at": "2026-11-12T15:20:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af5d79352c09500099e2164",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/cb0914c4-babd-4a5f-a191-e7f875a94ddd.png",
+   "key": "guid:6af5d79352c09500099e2164",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-12T15:17:14+00:00",
+   "status": "pending",
+   "title": "Vídeo: uma pessoa morre e outras quatro ficam feridas em acidenete na AM-010",
+   "updated_at": "2026-11-12T15:20:15+00:00",
+   "url": "https://marioadolfo.com/video-uma-pessoa-morre-e-outras-quatro-ficam-feridas-em-acidenete-na-am-010/",
+   "url_hash": "ddc4e584e2a87df31c124d14"
+  },
+  "guid:6af5d81352c09500099e2172": {
+   "attempts": [],
+   "category": "Parintins",
+   "description": "Lei sancionada pelo prefeito protege complexo arqueológico, paisagem e tradições ribeirinhas",
+   "discovered_at": "2026-11-12T15:20:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af5d81352c09500099e2172",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/83f6b408-eb93-49fd-9d95-21599e6901b3.jpeg",
+   "key": "guid:6af5d81352c09500099e2172",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-12T15:17:22+00:00",
+   "status": "pending",
+   "title": "Serra da Valéria vira patrimônio cultural e histórico de Parintins",
+   "updated_at": "2026-11-12T15:20:15+00:00",
+   "url": "https://marioadolfo.com/serra-da-valeria-vira-patrimonio-cultural-e-historico-de-parintins/",
+   "url_hash": "90120519abd015e8f4091ba1"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-12T15:10:17+00:00",
-  "saved_at": "2026-11-12T15:10:18+00:00"
+  "last_run_at": "2026-11-12T15:20:15+00:00",
+  "saved_at": "2026-11-12T15:20:16+00:00"
  },
  "schema": 1
 }
