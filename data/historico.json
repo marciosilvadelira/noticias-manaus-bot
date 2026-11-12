@@ -23875,13 +23875,34 @@
    "updated_at": "2026-11-12T12:20:15+00:00",
    "url": "https://marioadolfo.com/pim-ja-produziu-mais-de-1-8-milhao-de-motocicletas-em-2026/",
    "url_hash": "4ef7003067d0d629421210ef"
+  },
+  "guid:6af5c0bc52c09500099e20ba": {
+   "attempts": [],
+   "category": "Dito & Feito",
+   "description": "“Eu não vou ser responsabilizada pelo erro de terceiros”, disse tirando o corpo fora",
+   "discovered_at": "2026-11-12T13:50:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af5c0bc52c09500099e20ba",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e7036cdf-27df-4c4f-b5ea-a71be88a0494.jpeg",
+   "key": "guid:6af5c0bc52c09500099e20ba",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-12T13:44:08+00:00",
+   "status": "pending",
+   "title": "Dito & Feito: MARIA JOGA SEUS MARQUETEIROS NO FOGO",
+   "updated_at": "2026-11-12T13:50:18+00:00",
+   "url": "https://marioadolfo.com/dito-feito-maria-joga-seus-marqueteiros-no-fogo/",
+   "url_hash": "3a4b765d396e445c030fae69"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-12T13:40:18+00:00",
-  "saved_at": "2026-11-12T13:40:19+00:00"
+  "last_run_at": "2026-11-12T13:50:17+00:00",
+  "saved_at": "2026-11-12T13:50:19+00:00"
  },
  "schema": 1
 }
