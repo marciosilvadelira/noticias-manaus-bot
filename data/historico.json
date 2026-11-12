@@ -23181,11 +23181,19 @@
    "url_hash": "cbc1c72a4f996573ee22d1b5"
   },
   "guid:6af47b5e52c09500099e1dfa": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-12T04:09:53+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1536901978460693",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Segundo IBGE, 11,5% das cidades têm iniciativas para reduzir emissões",
    "discovered_at": "2026-11-11T14:50:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1536901978460693",
    "formats": [
     "link"
    ],
@@ -23193,20 +23201,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/698ec89c-5564-40ff-ad74-deddab170d3b.jpg",
    "key": "guid:6af47b5e52c09500099e1dfa",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1536901978460693"
+   },
    "source_published_at": "2026-11-11T14:42:33+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Três em cada quatro municípios sofreram impacto ambiental em dois anos",
-   "updated_at": "2026-11-11T14:50:16+00:00",
+   "updated_at": "2026-11-12T04:09:53+00:00",
    "url": "https://marioadolfo.com/tres-em-cada-quatro-municipios-sofreram-impacto-ambiental-em-dois-anos/",
    "url_hash": "77013679416ce07660a90b34"
   },
   "guid:6af4811052c09500099e1e15": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-12T04:10:19+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1536902268460664",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Inscrições acontecem até dia 23 de novembro de 2026, pela internet",
    "discovered_at": "2026-11-11T15:00:23+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1536902268460664",
    "formats": [
     "link"
    ],
@@ -23214,20 +23232,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/cba276ab-c911-46dc-858f-6f10d6c20ed1.jpeg",
    "key": "guid:6af4811052c09500099e1e15",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1536902268460664"
+   },
    "source_published_at": "2026-11-11T14:55:13+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "PMAM abre 270 vagas para ingresso nos Colégios Militares em 2027",
-   "updated_at": "2026-11-11T15:00:23+00:00",
+   "updated_at": "2026-11-12T04:10:19+00:00",
    "url": "https://marioadolfo.com/pmam-abre-270-vagas-para-ingresso-nos-colegios-militares-em-2027/",
    "url_hash": "939cfb9025933629cb40b0a9"
   },
   "guid:6af4820052c09500099e1e2d": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-12T04:10:46+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1536902571793967",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Ação gratuita acontece no Sest Senat, unidade Jorge Teixeira, das 8h às 12h, com serviços de saúde, atividades esportivas, lazer e orientação profissional",
    "discovered_at": "2026-11-11T15:00:23+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1536902571793967",
    "formats": [
     "link"
    ],
@@ -23235,20 +23263,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/cc3d70db-007e-43b7-83a1-91ba5539fe7f.jpeg",
    "key": "guid:6af4820052c09500099e1e2d",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1536902571793967"
+   },
    "source_published_at": "2026-11-11T14:58:09+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Portas Abertas: serviços gratuitos de saúde, esporte e lazer neste sábado (14/11)",
-   "updated_at": "2026-11-11T15:00:23+00:00",
+   "updated_at": "2026-11-12T04:10:46+00:00",
    "url": "https://marioadolfo.com/portas-abertas-servicos-gratuitos-de-saude-esporte-e-lazer-neste-sabado-14-11/",
    "url_hash": "528624528002ea4e56c66eee"
   },
   "guid:6af484ad52c09500099e1e42": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-12T04:11:10+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1536902791793945",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "A conselheira-presidente Yara Amazônia Lins destacou que o reconhecimento é resultado do trabalho integrado das unidades do Tribunal",
    "discovered_at": "2026-11-11T15:10:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1536902791793945",
    "formats": [
     "link"
    ],
@@ -23256,20 +23294,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/365b6bce-1ec8-45cf-b666-b288884f160a.jpg",
    "key": "guid:6af484ad52c09500099e1e42",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1536902791793945"
+   },
    "source_published_at": "2026-11-11T15:10:04+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Com 100% de avaliação, TCE-AM conquista Selo Diamante de transparência pela 4ª vez",
-   "updated_at": "2026-11-11T15:10:17+00:00",
+   "updated_at": "2026-11-12T04:11:10+00:00",
    "url": "https://marioadolfo.com/com-100-de-avaliacao-tce-am-conquista-selo-diamante-de-transparencia-pela-4a-vez/",
    "url_hash": "e5840a97952faf0cfe8ff910"
   },
   "guid:6af4863552c09500099e1e58": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-12T04:11:39+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1536903005127257",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "De 18 a 26 de novembro, evento combina nove apresentações teatrais, oito delas gratuitas, duas exposições e oficinas que aproximam estudantes dos processos de criação artística",
    "discovered_at": "2026-11-11T15:20:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1536903005127257",
    "formats": [
     "link"
    ],
@@ -23277,11 +23325,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/98fe1e64-17f0-41ae-a4e5-ded52dbe6b1c.jpeg",
    "key": "guid:6af4863552c09500099e1e58",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1536903005127257"
+   },
    "source_published_at": "2026-11-11T15:17:58+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Virada Amazônica reúne companhias premiadas em programação cultural em Manaus e Novo Airão",
-   "updated_at": "2026-11-11T15:20:18+00:00",
+   "updated_at": "2026-11-12T04:11:39+00:00",
    "url": "https://marioadolfo.com/virada-amazonica-reune-companhias-premiadas-em-programacao-cultural-em-manaus-e-novo-airao/",
    "url_hash": "ac426db557984809f2666244"
   },
@@ -23709,8 +23759,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-12T04:00:18+00:00",
-  "saved_at": "2026-11-12T04:02:20+00:00"
+  "last_run_at": "2026-11-12T04:09:43+00:00",
+  "saved_at": "2026-11-12T04:11:39+00:00"
  },
  "schema": 1
 }
