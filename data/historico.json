@@ -23699,12 +23699,12 @@
    "guid": "6af4b75452c09500099e1fbb",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2b17f04d-5f63-411e-84c8-d812f8a40cc4.png",
    "key": "guid:6af4b75452c09500099e1fbb",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-11T18:46:21+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Produtores de café de Silves levam o Amazonas à Semana Internacional do Café 2026",
-   "updated_at": "2026-11-11T18:50:18+00:00",
+   "updated_at": "2026-11-12T18:50:16+00:00",
    "url": "https://marioadolfo.com/produtores-de-cafe-de-silves-levam-o-amazonas-a-semana-internacional-do-cafe-2026/",
    "url_hash": "12d753e8e30942245c42bd91"
   },
@@ -24426,8 +24426,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-12T18:40:14+00:00",
-  "saved_at": "2026-11-12T18:40:15+00:00"
+  "last_run_at": "2026-11-12T18:50:15+00:00",
+  "saved_at": "2026-11-12T18:50:16+00:00"
  },
  "schema": 1
 }
