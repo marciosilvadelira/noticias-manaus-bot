@@ -23657,12 +23657,12 @@
    "guid": "6af4af8b52c09500099e1f7d",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/52db9baf-fedb-4aa0-8eaf-3e6f37fcd5a8.png",
    "key": "guid:6af4af8b52c09500099e1f7d",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-11T18:15:01+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Jovem é preso por receptação de carro furtado em Manaus",
-   "updated_at": "2026-11-11T18:20:16+00:00",
+   "updated_at": "2026-11-12T18:20:18+00:00",
    "url": "https://marioadolfo.com/jovem-e-preso-por-receptacao-de-carro-furtado-em-manaus/",
    "url_hash": "b6c3175865f202d4aad7098e"
   },
@@ -24379,13 +24379,34 @@
    "updated_at": "2026-11-12T18:10:17+00:00",
    "url": "https://marioadolfo.com/mpam-abre-selecao-para-estagio-de-nivel-medio-e-superior-nesta-sexta-13/",
    "url_hash": "e30c61325f53243041fa4c02"
+  },
+  "guid:6af6017652c09500099e2346": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Com o tema “Entre Rios e Rotas”, a segunda edição do Arte no Busão reúne obras de artistas de Manaus, Parintins e Novo Airão e convida o público a encontrá-las pela cidade",
+   "discovered_at": "2026-11-12T18:20:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af6017652c09500099e2346",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/15c7459f-f5f7-4518-a39f-df6041b4995c.jpeg",
+   "key": "guid:6af6017652c09500099e2346",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-12T18:13:22+00:00",
+   "status": "pending",
+   "title": "Dez ônibus viram galerias de arte a céu aberto nas ruas de Manaus",
+   "updated_at": "2026-11-12T18:20:18+00:00",
+   "url": "https://marioadolfo.com/dez-onibus-viram-galerias-de-arte-a-ceu-aberto-nas-ruas-de-manaus/",
+   "url_hash": "5401fb98aa4155d13927f848"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-12T18:10:17+00:00",
-  "saved_at": "2026-11-12T18:10:18+00:00"
+  "last_run_at": "2026-11-12T18:20:16+00:00",
+  "saved_at": "2026-11-12T18:20:19+00:00"
  },
  "schema": 1
 }
