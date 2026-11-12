@@ -24169,13 +24169,55 @@
    "updated_at": "2026-11-12T15:50:17+00:00",
    "url": "https://marioadolfo.com/mulher-e-presa-por-trafico-de-drogas-no-bairro-compensa/",
    "url_hash": "8e3336948921a6021f2ba5a5"
+  },
+  "guid:6af5e4c352c09500099e2254": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Em parceria com o Sesc Mesa Brasil, festival oferece ingresso solidário por R$ 70, mediante doação de 1 kg de alimento não perecível",
+   "discovered_at": "2026-11-12T16:20:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af5e4c352c09500099e2254",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/7ea724fd-fda4-4661-9a75-81100241cd85.jpg",
+   "key": "guid:6af5e4c352c09500099e2254",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-12T16:10:50+00:00",
+   "status": "pending",
+   "title": "Festival Amazônia POP une música e solidariedade para arrecadar 9 toneladas de alimentos em Manaus",
+   "updated_at": "2026-11-12T16:20:17+00:00",
+   "url": "https://marioadolfo.com/festival-amazonia-pop-une-musica-e-solidariedade-para-arrecadar-9-toneladas-de-alimentos-em-manaus/",
+   "url_hash": "7dbf77119ceaa4c37c57a623"
+  },
+  "guid:6af5e5b952c09500099e226c": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Celulares e cadernos com anotações foram apreendidos durante a ação",
+   "discovered_at": "2026-11-12T16:20:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af5e5b952c09500099e226c",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e24f05e1-1cd4-44e2-b991-b68091a78b25.png",
+   "key": "guid:6af5e5b952c09500099e226c",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-12T16:14:58+00:00",
+   "status": "pending",
+   "title": "Suspeitos de atuar como pistoleiros são presos em condomínio na Ponta Negra",
+   "updated_at": "2026-11-12T16:20:17+00:00",
+   "url": "https://marioadolfo.com/suspeitos-de-atuar-como-pistoleiros-sao-presos-em-condominio-na-ponta-negra/",
+   "url_hash": "c7b5eb731e6143bcb9bfdd9e"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-12T16:10:15+00:00",
-  "saved_at": "2026-11-12T16:10:16+00:00"
+  "last_run_at": "2026-11-12T16:20:16+00:00",
+  "saved_at": "2026-11-12T16:20:18+00:00"
  },
  "schema": 1
 }
