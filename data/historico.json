@@ -23460,11 +23460,19 @@
    "url_hash": "f2fd8a776a0644caa9b483f6"
   },
   "guid:6af4921a52c09500099e1ed8": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-12T04:31:16+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1536915448459346",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "A ex-candidata a governadora afirmou que não assistiu ao conteúdo e defendeu punição aos responsáveis por eventual publicação criminosa",
    "discovered_at": "2026-11-11T17:20:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1536915448459346",
    "formats": [
     "link"
    ],
@@ -23472,11 +23480,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f208f3d6-b737-4eca-9077-293d97942894.png",
    "key": "guid:6af4921a52c09500099e1ed8",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1536915448459346"
+   },
    "source_published_at": "2026-11-11T17:20:11+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Maria do Carmo presta depoimento à polícia sobre vídeo envolvendo filha de Omar Aziz",
-   "updated_at": "2026-11-11T17:20:18+00:00",
+   "updated_at": "2026-11-12T04:31:16+00:00",
    "url": "https://marioadolfo.com/maria-do-carmo-presta-depoimento-a-policia-sobre-video-envolvendo-filha-de-omar-aziz/",
    "url_hash": "ee4e2afead475956d5b56ea9"
   },
@@ -23512,11 +23522,19 @@
    "url_hash": "eed58f9f226d7dd4a8f5b709"
   },
   "guid:6af4a21a52c09500099e1f0d": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-12T04:30:24+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1536914871792737",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "A conduta decorre de irregularidades identificadas durante uma intervenção na avenida Mário Ypiranga Monteiro",
    "discovered_at": "2026-11-11T17:20:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1536914871792737",
    "formats": [
     "link"
    ],
@@ -23524,20 +23542,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a42a6eb2-6075-4f16-b982-4d12103034dc.jpeg",
    "key": "guid:6af4a21a52c09500099e1f0d",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1536914871792737"
+   },
    "source_published_at": "2026-11-11T17:15:24+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Águas de Manaus é multada em R$ 272 mil após motociclista cair em vala no Adrianópolis",
-   "updated_at": "2026-11-11T17:20:18+00:00",
+   "updated_at": "2026-11-12T04:30:24+00:00",
    "url": "https://marioadolfo.com/aguas-de-manaus-e-multada-em-r-272-mil-apos-motociclista-cair-em-vala-no-adrianopolis/",
    "url_hash": "a5fe31a4f425b1145c480966"
   },
   "guid:6af4a2d652c09500099e1f24": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-12T04:30:49+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1536915125126045",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Fumaça de incêndios florestais está severo em quatro municípios",
    "discovered_at": "2026-11-11T17:20:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1536915125126045",
    "formats": [
     "link"
    ],
@@ -23545,20 +23573,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a69ea672-8161-4415-8277-620c21741e3e.jpeg",
    "key": "guid:6af4a2d652c09500099e1f24",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1536915125126045"
+   },
    "source_published_at": "2026-11-11T17:19:05+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Cidades do Amazonas estão em alerta severo para qualidade do ar",
-   "updated_at": "2026-11-11T17:20:18+00:00",
+   "updated_at": "2026-11-12T04:30:49+00:00",
    "url": "https://marioadolfo.com/cidades-do-amazonas-estao-em-alerta-severo-para-qualidade-do-ar/",
    "url_hash": "accf9d9262c5381d34bb5e28"
   },
   "guid:6af4a88a52c09500099e1f46": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-12T04:31:41+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1536915741792650",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Segundo a administração, a decoração remete à identidade visual do Amazonas Shopping e aos 35 anos do empreendimento",
    "discovered_at": "2026-11-11T17:50:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1536915741792650",
    "formats": [
     "link"
    ],
@@ -23566,20 +23604,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/fb7944b4-294b-4a69-b18c-43c762d75233.jpeg",
    "key": "guid:6af4a88a52c09500099e1f46",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1536915741792650"
+   },
    "source_published_at": "2026-11-11T17:48:15+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Decoração natalina em verde e amarelo é inspirada em aniversário, explica shopping",
-   "updated_at": "2026-11-11T17:50:15+00:00",
+   "updated_at": "2026-11-12T04:31:41+00:00",
    "url": "https://marioadolfo.com/decoracao-natalina-em-verde-e-amarelo-e-inspirada-em-aniversario-explica-shopping/",
    "url_hash": "113bc9bd36f7b4bdb3ad2690"
   },
   "guid:6af4ae0252c09500099e1f65": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-12T04:32:11+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1536916075125950",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Suspeitos foram identificados pela placa da motocicleta usada no crime; objetos roubados foram recuperados",
    "discovered_at": "2026-11-11T18:20:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1536916075125950",
    "formats": [
     "link"
    ],
@@ -23587,11 +23635,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e1dfeb60-e6b8-4367-a13b-e523daaf659a.jpeg",
    "key": "guid:6af4ae0252c09500099e1f65",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1536916075125950"
+   },
    "source_published_at": "2026-11-11T18:10:49+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Dupla é presa por tráfico de drogas e roubo na zona leste de Manaus",
-   "updated_at": "2026-11-11T18:20:16+00:00",
+   "updated_at": "2026-11-12T04:32:11+00:00",
    "url": "https://marioadolfo.com/dupla-e-presa-por-trafico-de-drogas-e-roubo-na-zona-leste-de-manaus/",
    "url_hash": "b8b83692e658e94a0793f4a6"
   },
@@ -23809,8 +23859,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-12T04:20:15+00:00",
-  "saved_at": "2026-11-12T04:22:14+00:00"
+  "last_run_at": "2026-11-12T04:30:16+00:00",
+  "saved_at": "2026-11-12T04:32:11+00:00"
  },
  "schema": 1
 }
