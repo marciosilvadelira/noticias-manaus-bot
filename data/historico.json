@@ -24085,13 +24085,55 @@
    "updated_at": "2026-11-12T15:30:21+00:00",
    "url": "https://marioadolfo.com/eduardo-braga-defende-votacao-do-pacote-fiscal-do-governo/",
    "url_hash": "a5def7dffbd065587dd70d87"
+  },
+  "guid:6af5da7f52c09500099e21de": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Campanha Back Friday coincide com pagamento do 13º salário e nova edição do Feirão Serasa Limpa Nome",
+   "discovered_at": "2026-11-12T15:40:20+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af5da7f52c09500099e21de",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d04074ea-255a-4242-9af8-d87e28c5a4d6.jpeg",
+   "key": "guid:6af5da7f52c09500099e21de",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-12T15:39:17+00:00",
+   "status": "pending",
+   "title": "Pesquisa aponta que 36% dos brasileiros querem aproveitar a Black Friday para negociar dívidas",
+   "updated_at": "2026-11-12T15:40:20+00:00",
+   "url": "https://marioadolfo.com/pesquisa-aponta-que-36-dos-brasileiros-querem-aproveitar-a-black-friday-para-negociar-dividas/",
+   "url_hash": "b59739f24fc03d9cb54dfb61"
+  },
+  "guid:6af5dd4c52c09500099e2208": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A edição de dezembro já conta com mais de 50 marcas brasileiras confirmadas",
+   "discovered_at": "2026-11-12T15:40:20+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af5dd4c52c09500099e2208",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/1a9283c8-95fd-4d80-8eec-4980a5a2fb11.jpeg",
+   "key": "guid:6af5dd4c52c09500099e2208",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-12T15:39:08+00:00",
+   "status": "pending",
+   "title": "Última Feira D de 2026 terá 11 dias de duração",
+   "updated_at": "2026-11-12T15:40:20+00:00",
+   "url": "https://marioadolfo.com/ultima-feira-d-de-2026-tera-11-dias-de-duracao/",
+   "url_hash": "5717d638443c9e5e5ec9f40f"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-12T15:30:20+00:00",
-  "saved_at": "2026-11-12T15:30:22+00:00"
+  "last_run_at": "2026-11-12T15:40:17+00:00",
+  "saved_at": "2026-11-12T15:40:21+00:00"
  },
  "schema": 1
 }
