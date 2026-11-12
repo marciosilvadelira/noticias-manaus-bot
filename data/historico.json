@@ -24232,13 +24232,34 @@
    "updated_at": "2026-11-12T16:30:20+00:00",
    "url": "https://marioadolfo.com/tre-am-homologa-oficialmente-resultados-do-segundo-turno-das-eleicoes-2026/",
    "url_hash": "d332e3b150735e3af59b7bd6"
+  },
+  "guid:6af5f2af52c09500099e22a1": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "A vítima voltava para casa quando foi surpreendida e ofendida pelos autores",
+   "discovered_at": "2026-11-12T17:20:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af5f2af52c09500099e22a1",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/780f99d5-36a7-45f1-a029-8664eacc9fff.png",
+   "key": "guid:6af5f2af52c09500099e22a1",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-12T17:12:48+00:00",
+   "status": "pending",
+   "title": "Trio é preso por tentar matar jovem durante emboscada no AM",
+   "updated_at": "2026-11-12T17:20:18+00:00",
+   "url": "https://marioadolfo.com/trio-e-preso-por-tentar-matar-jovem-durante-emboscada/",
+   "url_hash": "94673806f34d3e36c03bae58"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-12T17:10:15+00:00",
-  "saved_at": "2026-11-12T17:10:16+00:00"
+  "last_run_at": "2026-11-12T17:20:17+00:00",
+  "saved_at": "2026-11-12T17:20:18+00:00"
  },
  "schema": 1
 }
