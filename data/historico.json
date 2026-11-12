@@ -23938,13 +23938,55 @@
    "updated_at": "2026-11-12T15:00:23+00:00",
    "url": "https://marioadolfo.com/defensoria-apresenta-projeto-para-fortalecer-cotas-raciais-em-concursos-publicos-no-am/",
    "url_hash": "75a6d47455dd5db7b879554d"
+  },
+  "guid:6af5d42e52c09500099e211d": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Texto será apreciado nesta quinta-feira (12), a partir das 16h",
+   "discovered_at": "2026-11-12T15:10:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af5d42e52c09500099e211d",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/744e989b-59b0-47ed-90fe-8f27fb7e219d.jpg",
+   "key": "guid:6af5d42e52c09500099e211d",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-12T15:03:52+00:00",
+   "status": "pending",
+   "title": "Senado deve votar ajuste fiscal com previsão de economia de R$ 60 bi",
+   "updated_at": "2026-11-12T15:10:17+00:00",
+   "url": "https://marioadolfo.com/senado-deve-votar-ajuste-fiscal-com-previsao-de-economia-de-r-60-bi/",
+   "url_hash": "b51762b9294214148d75c77d"
+  },
+  "guid:6af5d56152c09500099e2134": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Durante a capacitação, os participantes conhecerão requisitos de segurança, medidas de proteção e práticas de prevenção de acidentes na operação, utilização e manutenção de máquinas e equipamentos",
+   "discovered_at": "2026-11-12T15:10:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af5d56152c09500099e2134",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/887ef092-0940-4e68-baa5-dd5f37d2d2ec.jpeg",
+   "key": "guid:6af5d56152c09500099e2134",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-12T15:06:29+00:00",
+   "status": "pending",
+   "title": "Prefeitura de Manaus abre 60 vagas para curso de segurança em máquinas e equipamentos",
+   "updated_at": "2026-11-12T15:10:17+00:00",
+   "url": "https://marioadolfo.com/prefeitura-de-manaus-abre-60-vagas-para-curso-de-seguranca-em-maquinas-e-equipamentos/",
+   "url_hash": "9c945dc3b128c5f8c5077b61"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-12T15:00:22+00:00",
-  "saved_at": "2026-11-12T15:00:23+00:00"
+  "last_run_at": "2026-11-12T15:10:17+00:00",
+  "saved_at": "2026-11-12T15:10:18+00:00"
  },
  "schema": 1
 }
