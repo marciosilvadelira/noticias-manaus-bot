@@ -24505,13 +24505,34 @@
    "updated_at": "2026-11-12T20:10:18+00:00",
    "url": "https://marioadolfo.com/rodoviarios-e-empresas-de-onibus-de-manaus-fecham-acordo-apos-paralisacao/",
    "url_hash": "b298cec46757972ffedde65b"
+  },
+  "guid:6af625c752c09500099e23e8": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Prazo foi determinado durante audiência de conciliação foi realizada na manhã desta quinta-feira, no Fórum Cível Desembargadora Euza Maria Naice de Vasconcellos",
+   "discovered_at": "2026-11-12T20:50:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af625c752c09500099e23e8",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6735cc7f-470d-4060-bf57-55b7b63b9bf8.jpeg",
+   "key": "guid:6af625c752c09500099e23e8",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-12T20:50:02+00:00",
+   "status": "pending",
+   "title": "Prefeitura de Manaus tem 24 horas para avaliar proposta de retorno do Passe Livre Estudantil",
+   "updated_at": "2026-11-12T20:50:19+00:00",
+   "url": "https://marioadolfo.com/prefeitura-de-manaus-tem-24-horas-para-avaliar-proposta-de-retorno-do-passe-livre-estudantil/",
+   "url_hash": "7f4a709cffe92a4ebb2111db"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-12T20:40:15+00:00",
-  "saved_at": "2026-11-12T20:40:17+00:00"
+  "last_run_at": "2026-11-12T20:50:15+00:00",
+  "saved_at": "2026-11-12T20:50:20+00:00"
  },
  "schema": 1
 }
