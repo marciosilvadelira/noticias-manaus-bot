@@ -23336,11 +23336,19 @@
    "url_hash": "ac426db557984809f2666244"
   },
   "guid:6af48c5552c09500099e1e78": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-12T04:20:25+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1536908878460003",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Policiais localizaram duas malas com drogas em lancha que vinha de Tabatinga com destino a Manaus",
    "discovered_at": "2026-11-11T15:50:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1536908878460003",
    "formats": [
     "link"
    ],
@@ -23348,20 +23356,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/950c288b-1be0-4a0d-8704-bbab19a41fd8.png",
    "key": "guid:6af48c5552c09500099e1e78",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1536908878460003"
+   },
    "source_published_at": "2026-11-11T15:42:56+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Mais de 30 kg de drogas são apreendidas em embarcação no rio Solimões",
-   "updated_at": "2026-11-11T15:50:16+00:00",
+   "updated_at": "2026-11-12T04:20:25+00:00",
    "url": "https://marioadolfo.com/mais-de-30-kg-de-drogas-sao-apreendidas-em-embarcacao-no-rio-solimoes/",
    "url_hash": "a4ff6daae92dca9528407711"
   },
   "guid:6af48d3952c09500099e1e8d": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-12T04:20:51+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1536909085126649",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Ato assinado pelo senador Davi Alcolumbre está no Diário Oficial",
    "discovered_at": "2026-11-11T15:50:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1536909085126649",
    "formats": [
     "link"
    ],
@@ -23369,20 +23387,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e54a479f-07fb-4994-bc5e-d91e937e5895.jpeg",
    "key": "guid:6af48d3952c09500099e1e8d",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1536909085126649"
+   },
    "source_published_at": "2026-11-11T15:45:00+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Congresso prorroga por 60 dias MP que proíbe bets no país",
-   "updated_at": "2026-11-11T15:50:16+00:00",
+   "updated_at": "2026-11-12T04:20:51+00:00",
    "url": "https://marioadolfo.com/congresso-prorroga-por-60-dias-mp-que-proibe-bets-no-pais/",
    "url_hash": "7219a47afad827d679913e1b"
   },
   "guid:6af48dd852c09500099e1ea3": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-12T04:21:18+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1536909401793284",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Entre consultas com cardiologista e exames de eletrocardiograma (ECG), ecocardiograma convencional e teste ergométrico, unidade móvel tem capacidade para mais de 3 mil atendimentos por mês",
    "discovered_at": "2026-11-11T15:50:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1536909401793284",
    "formats": [
     "link"
    ],
@@ -23390,20 +23418,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/404fa1f6-081e-4020-9e1f-37eb074fe7ee.jpeg",
    "key": "guid:6af48dd852c09500099e1ea3",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1536909401793284"
+   },
    "source_published_at": "2026-11-11T15:49:16+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "‘Carreta do Coração’ amplia oferta de serviços especializados em cardiologia",
-   "updated_at": "2026-11-11T15:50:16+00:00",
+   "updated_at": "2026-11-12T04:21:18+00:00",
    "url": "https://marioadolfo.com/carreta-do-coracao-amplia-oferta-de-servicos-especializados-em-cardiologia/",
    "url_hash": "44dac0e4697021a7d7c0d5a9"
   },
   "guid:6af48f1b52c09500099e1ebf": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-12T04:21:45+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1536909668459924",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Há tendência de alta em 18 estados, mas ministério diz ser esperado",
    "discovered_at": "2026-11-11T16:00:23+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1536909668459924",
    "formats": [
     "link"
    ],
@@ -23411,11 +23449,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a2eb33d1-5863-4d70-9139-d561e050f2a0.jpeg",
    "key": "guid:6af48f1b52c09500099e1ebf",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1536909668459924"
+   },
    "source_published_at": "2026-11-11T15:53:57+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Casos e mortes por covid-19 no país caem em relação ao ano passado",
-   "updated_at": "2026-11-11T16:00:23+00:00",
+   "updated_at": "2026-11-12T04:21:45+00:00",
    "url": "https://marioadolfo.com/casos-e-mortes-por-covid-19-no-pais-caem-em-relacao-ao-ano-passado/",
    "url_hash": "f2fd8a776a0644caa9b483f6"
   },
@@ -23441,11 +23481,19 @@
    "url_hash": "ee4e2afead475956d5b56ea9"
   },
   "guid:6af4a0bf52c09500099e1ef2": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-12T04:22:14+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1536909941793230",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "A multa é por propaganda eleitoral antecipada negativa contra David Almeida (Avante), ex-candidato ao Governo do Amazonas",
    "discovered_at": "2026-11-11T17:10:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1536909941793230",
    "formats": [
     "link"
    ],
@@ -23453,11 +23501,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/16e9cecc-edf6-4cc2-b4c1-32cbdb570c71.jpeg",
    "key": "guid:6af4a0bf52c09500099e1ef2",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1536909941793230"
+   },
    "source_published_at": "2026-11-11T17:09:56+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Justiça Eleitoral cobra multa de R$ 15 mil de Sargento Salazar e Kidson Maia",
-   "updated_at": "2026-11-11T17:10:15+00:00",
+   "updated_at": "2026-11-12T04:22:14+00:00",
    "url": "https://marioadolfo.com/justica-eleitoral-cobra-multa-de-r-15-mil-de-sargento-salazar-e-kidson-maia/",
    "url_hash": "eed58f9f226d7dd4a8f5b709"
   },
@@ -23759,8 +23809,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-12T04:09:43+00:00",
-  "saved_at": "2026-11-12T04:11:39+00:00"
+  "last_run_at": "2026-11-12T04:20:15+00:00",
+  "saved_at": "2026-11-12T04:22:14+00:00"
  },
  "schema": 1
 }
