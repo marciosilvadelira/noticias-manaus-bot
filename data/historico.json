@@ -23854,13 +23854,34 @@
    "updated_at": "2026-11-11T22:00:21+00:00",
    "url": "https://marioadolfo.com/manaus-tera-seis-toneladas-de-pirarucu-fresco-a-venda-a-partir-de-r-8-o-quilo/",
    "url_hash": "f39804a67bd7fff672011a08"
+  },
+  "guid:6af5ab6152c09500099e2094": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Em outubro, saíram das linhas de montagem 185.064 motocicletas",
+   "discovered_at": "2026-11-12T12:20:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af5ab6152c09500099e2094",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4864e118-91a1-43d1-a3e1-9b90f0bca9ab.jpg",
+   "key": "guid:6af5ab6152c09500099e2094",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-12T12:10:33+00:00",
+   "status": "pending",
+   "title": "PIM já produziu mais de 1,8 milhão de motocicletas em 2026",
+   "updated_at": "2026-11-12T12:20:15+00:00",
+   "url": "https://marioadolfo.com/pim-ja-produziu-mais-de-1-8-milhao-de-motocicletas-em-2026/",
+   "url_hash": "4ef7003067d0d629421210ef"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-12T12:10:15+00:00",
-  "saved_at": "2026-11-12T12:10:16+00:00"
+  "last_run_at": "2026-11-12T12:20:14+00:00",
+  "saved_at": "2026-11-12T12:20:15+00:00"
  },
  "schema": 1
 }
