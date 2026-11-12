@@ -23678,12 +23678,12 @@
    "guid": "6af4b0de52c09500099e1fa2",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2b46a81c-a765-470c-a892-f58ca8148a48.jpeg",
    "key": "guid:6af4b0de52c09500099e1fa2",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-11T18:35:01+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Policiais militarem reforçam abordagens em ônibus no Centro de Manaus",
-   "updated_at": "2026-11-11T18:40:20+00:00",
+   "updated_at": "2026-11-12T18:40:15+00:00",
    "url": "https://marioadolfo.com/policiais-militarem-reforcam-abordagens-em-onibus-no-centro-de-manaus/",
    "url_hash": "734a27c0d860e9299f42caa6"
   },
@@ -24400,13 +24400,34 @@
    "updated_at": "2026-11-12T18:20:18+00:00",
    "url": "https://marioadolfo.com/dez-onibus-viram-galerias-de-arte-a-ceu-aberto-nas-ruas-de-manaus/",
    "url_hash": "5401fb98aa4155d13927f848"
+  },
+  "guid:6af6074952c09500099e235d": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Alessandra Campelo e integrantes da equipe de transição conversaram com a conselheira Yara Lins e auditores de controle externo para  reunir informações sobre diagnóstico do estado.",
+   "discovered_at": "2026-11-12T18:40:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af6074952c09500099e235d",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a7abcd32-628c-41f6-bcb8-464372b3e610.jpeg",
+   "key": "guid:6af6074952c09500099e235d",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-12T18:39:00+00:00",
+   "status": "pending",
+   "title": "Comissão de transição se reúne com presidente do TCE-AM para subsidiar próximo governo",
+   "updated_at": "2026-11-12T18:40:15+00:00",
+   "url": "https://marioadolfo.com/comissao-de-transicao-se-reune-com-presidente-do-tce-am-para-subsidiar-proximo-governo/",
+   "url_hash": "8de584bdc2f19eeab545cc5c"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-12T18:30:18+00:00",
-  "saved_at": "2026-11-12T18:30:19+00:00"
+  "last_run_at": "2026-11-12T18:40:14+00:00",
+  "saved_at": "2026-11-12T18:40:15+00:00"
  },
  "schema": 1
 }
