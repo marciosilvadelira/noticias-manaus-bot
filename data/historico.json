@@ -23917,13 +23917,34 @@
    "updated_at": "2026-11-12T14:20:18+00:00",
    "url": "https://marioadolfo.com/ipaam-embarga-1-7-mil-hectares-atingidos-por-queimadas-no-careiro/",
    "url_hash": "30c7f19931644596b49a77a1"
+  },
+  "guid:6af5d28c52c09500099e2108": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Iniciativa busca ampliar a reserva de vagas para pessoas negras, indígenas e quilombolas em concursos estaduais e municipais",
+   "discovered_at": "2026-11-12T15:00:23+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af5d28c52c09500099e2108",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/afe9a844-7f8a-4895-9e6d-91612faad57b.jpeg",
+   "key": "guid:6af5d28c52c09500099e2108",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-12T14:54:58+00:00",
+   "status": "pending",
+   "title": "Defensoria apresenta projeto para fortalecer cotas raciais em concursos públicos no AM",
+   "updated_at": "2026-11-12T15:00:23+00:00",
+   "url": "https://marioadolfo.com/defensoria-apresenta-projeto-para-fortalecer-cotas-raciais-em-concursos-publicos-no-am/",
+   "url_hash": "75a6d47455dd5db7b879554d"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-12T14:50:15+00:00",
-  "saved_at": "2026-11-12T14:50:16+00:00"
+  "last_run_at": "2026-11-12T15:00:22+00:00",
+  "saved_at": "2026-11-12T15:00:23+00:00"
  },
  "schema": 1
 }
