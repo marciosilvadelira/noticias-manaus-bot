@@ -24526,13 +24526,34 @@
    "updated_at": "2026-11-12T20:50:19+00:00",
    "url": "https://marioadolfo.com/prefeitura-de-manaus-tem-24-horas-para-avaliar-proposta-de-retorno-do-passe-livre-estudantil/",
    "url_hash": "7f4a709cffe92a4ebb2111db"
+  },
+  "guid:6af626c552c09500099e2409": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "O menor preço da gasolina comum passou de R$ 7,09, em outubro, para R$ 6,29, em novembro",
+   "discovered_at": "2026-11-12T21:00:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af626c552c09500099e2409",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/1ab2b4ac-0334-477a-a640-55900528c985.jpeg",
+   "key": "guid:6af626c552c09500099e2409",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-12T20:53:14+00:00",
+   "status": "pending",
+   "title": "Pesquisa aponta redução de R$ 0,80 no preço da gasolina comum em novembro, em Manaus",
+   "updated_at": "2026-11-12T21:00:21+00:00",
+   "url": "https://marioadolfo.com/pesquisa-aponta-reducao-de-r-0-80-no-preco-da-gasolina-comum-em-novembro-em-manaus/",
+   "url_hash": "eafb8397978bc95095c1ce7a"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-12T20:50:15+00:00",
-  "saved_at": "2026-11-12T20:50:20+00:00"
+  "last_run_at": "2026-11-12T21:00:20+00:00",
+  "saved_at": "2026-11-12T21:00:21+00:00"
  },
  "schema": 1
 }
