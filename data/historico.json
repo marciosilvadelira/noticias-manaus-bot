@@ -24211,13 +24211,34 @@
    "updated_at": "2026-11-12T16:20:17+00:00",
    "url": "https://marioadolfo.com/suspeitos-de-atuar-como-pistoleiros-sao-presos-em-condominio-na-ponta-negra/",
    "url_hash": "c7b5eb731e6143bcb9bfdd9e"
+  },
+  "guid:6af5e79352c09500099e2282": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Pleno da corte aprovou nesta quinta-feira o relatório final de totalização dos votos do segundo turno",
+   "discovered_at": "2026-11-12T16:30:20+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af5e79352c09500099e2282",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f0071fd0-84c3-488c-95cd-c073a9e3e146.jpeg",
+   "key": "guid:6af5e79352c09500099e2282",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-12T16:24:10+00:00",
+   "status": "pending",
+   "title": "TRE-AM homologa oficialmente resultados do segundo turno das Eleições 2026",
+   "updated_at": "2026-11-12T16:30:20+00:00",
+   "url": "https://marioadolfo.com/tre-am-homologa-oficialmente-resultados-do-segundo-turno-das-eleicoes-2026/",
+   "url_hash": "d332e3b150735e3af59b7bd6"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-12T16:20:16+00:00",
-  "saved_at": "2026-11-12T16:20:18+00:00"
+  "last_run_at": "2026-11-12T16:30:19+00:00",
+  "saved_at": "2026-11-12T16:30:20+00:00"
  },
  "schema": 1
 }
