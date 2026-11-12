@@ -23825,12 +23825,12 @@
    "guid": "6af4d76a52c09500099e2059",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/7160d407-ce66-484d-80eb-37c27d4abfee.png",
    "key": "guid:6af4d76a52c09500099e2059",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-11T21:04:57+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Pai é preso por espancar a abusar sexualmente da filha em Manaus",
-   "updated_at": "2026-11-11T21:10:17+00:00",
+   "updated_at": "2026-11-12T21:10:15+00:00",
    "url": "https://marioadolfo.com/pai-preso-por-espancar-e-abusar-da-filha-em-manaus/",
    "url_hash": "96380041169533ab0333e42c"
   },
@@ -24552,8 +24552,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-12T21:00:20+00:00",
-  "saved_at": "2026-11-12T21:00:21+00:00"
+  "last_run_at": "2026-11-12T21:10:14+00:00",
+  "saved_at": "2026-11-12T21:10:15+00:00"
  },
  "schema": 1
 }
