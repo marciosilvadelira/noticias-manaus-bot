@@ -24831,13 +24831,34 @@
    "updated_at": "2026-11-13T11:20:16+00:00",
    "url": "https://marioadolfo.com/rodoviarios-e-empresas-fecham-acordo-apos-paralisacao-de-onibus-em-manaus/",
    "url_hash": "bc87a17123ed655e2ac47d19"
+  },
+  "guid:6af7002f52c09500099e2490": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Veículo conduzido por Richard Pontes saiu da pista e atingiu uma árvore na Avenida das Torres, na zona Centro-Sul.",
+   "discovered_at": "2026-11-13T12:20:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af7002f52c09500099e2490",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/9d0a37b8-b829-4ef2-89bf-bf9fd2db7495.jpg",
+   "key": "guid:6af7002f52c09500099e2490",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-13T12:20:17+00:00",
+   "status": "pending",
+   "title": "Vídeo: filho de secretário estadual morre em acidente de trânsito em Manaus",
+   "updated_at": "2026-11-13T12:20:18+00:00",
+   "url": "https://marioadolfo.com/video-filho-de-secretario-estadual-morre-em-acidente-de-transito-em-manaus/",
+   "url_hash": "86c4496df36d748d8f44f4c4"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-13T12:10:17+00:00",
-  "saved_at": "2026-11-13T12:10:19+00:00"
+  "last_run_at": "2026-11-13T12:20:17+00:00",
+  "saved_at": "2026-11-13T12:20:18+00:00"
  },
  "schema": 1
 }
