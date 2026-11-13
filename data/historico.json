@@ -24978,13 +24978,34 @@
    "updated_at": "2026-11-13T15:30:18+00:00",
    "url": "https://marioadolfo.com/instabilidade-na-microsoft-afeta-servicos-do-governo-do-amazonas/",
    "url_hash": "25294b73dffece60cdb5f276"
+  },
+  "guid:6af72eaa52c09500099e2558": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Varejista participa da exposição “Amazonas Além do Tempo”, que está aberta até o dia 30 de novembro",
+   "discovered_at": "2026-11-13T15:40:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af72eaa52c09500099e2558",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d94ea8f7-c06b-49cc-902f-8336a93fd19f.jpeg",
+   "key": "guid:6af72eaa52c09500099e2558",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-13T15:38:37+00:00",
+   "status": "pending",
+   "title": "Bemol resgata nostalgia das Cabines de Música na exposição dos 35 anos do Amazonas Shopping",
+   "updated_at": "2026-11-13T15:40:17+00:00",
+   "url": "https://marioadolfo.com/bemol-resgata-nostalgia-das-cabines-de-musica-na-exposicao-dos-35-anos-do-amazonas-shopping-2/",
+   "url_hash": "02394e63bb34e59f7224d13d"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-13T15:30:18+00:00",
-  "saved_at": "2026-11-13T15:30:19+00:00"
+  "last_run_at": "2026-11-13T15:40:16+00:00",
+  "saved_at": "2026-11-13T15:40:17+00:00"
  },
  "schema": 1
 }
