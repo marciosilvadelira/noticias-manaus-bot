@@ -24852,13 +24852,34 @@
    "updated_at": "2026-11-13T12:20:18+00:00",
    "url": "https://marioadolfo.com/video-filho-de-secretario-estadual-morre-em-acidente-de-transito-em-manaus/",
    "url_hash": "86c4496df36d748d8f44f4c4"
+  },
+  "guid:6af7029252c09500099e24a8": {
+   "attempts": [],
+   "category": "Dito & Feito",
+   "description": "Justiça determina devolução de R$ 2,4 milhões à OAS referentes ao tríplex atribuído a Lula na Lava Jato",
+   "discovered_at": "2026-11-13T12:40:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af7029252c09500099e24a8",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6147aea9-4f6a-492c-ad31-28c2e208ea14.jpeg",
+   "key": "guid:6af7029252c09500099e24a8",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-13T12:34:52+00:00",
+   "status": "pending",
+   "title": "Dito & Feito: E AGORA, COMO FICA A CARA PAU DE SÉRGIO MORO?",
+   "updated_at": "2026-11-13T12:40:19+00:00",
+   "url": "https://marioadolfo.com/dito-feito-e-agora-como-fica-a-cara-pau-de-sergio-moro/",
+   "url_hash": "87b5cf03ba7ace1969a70a11"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-13T12:30:18+00:00",
-  "saved_at": "2026-11-13T12:30:19+00:00"
+  "last_run_at": "2026-11-13T12:40:17+00:00",
+  "saved_at": "2026-11-13T12:40:20+00:00"
  },
  "schema": 1
 }
