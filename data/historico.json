@@ -23856,11 +23856,19 @@
    "url_hash": "f39804a67bd7fff672011a08"
   },
   "guid:6af5ab6152c09500099e2094": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-13T04:00:27+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1538026281681596",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Em outubro, saíram das linhas de montagem 185.064 motocicletas",
    "discovered_at": "2026-11-12T12:20:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1538026281681596",
    "formats": [
     "link"
    ],
@@ -23868,20 +23876,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4864e118-91a1-43d1-a3e1-9b90f0bca9ab.jpg",
    "key": "guid:6af5ab6152c09500099e2094",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1538026281681596"
+   },
    "source_published_at": "2026-11-12T12:10:33+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "PIM já produziu mais de 1,8 milhão de motocicletas em 2026",
-   "updated_at": "2026-11-12T12:20:15+00:00",
+   "updated_at": "2026-11-13T04:00:27+00:00",
    "url": "https://marioadolfo.com/pim-ja-produziu-mais-de-1-8-milhao-de-motocicletas-em-2026/",
    "url_hash": "4ef7003067d0d629421210ef"
   },
   "guid:6af5c0bc52c09500099e20ba": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-13T04:00:51+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1538026648348226",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Dito & Feito",
    "description": "“Eu não vou ser responsabilizada pelo erro de terceiros”, disse tirando o corpo fora",
    "discovered_at": "2026-11-12T13:50:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1538026648348226",
    "formats": [
     "link"
    ],
@@ -23889,20 +23907,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e7036cdf-27df-4c4f-b5ea-a71be88a0494.jpeg",
    "key": "guid:6af5c0bc52c09500099e20ba",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1538026648348226"
+   },
    "source_published_at": "2026-11-12T13:44:08+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Dito & Feito: MARIA JOGA SEUS MARQUETEIROS NO FOGO",
-   "updated_at": "2026-11-12T13:50:18+00:00",
+   "updated_at": "2026-11-13T04:00:51+00:00",
    "url": "https://marioadolfo.com/dito-feito-maria-joga-seus-marqueteiros-no-fogo/",
    "url_hash": "3a4b765d396e445c030fae69"
   },
   "guid:6af5c88952c09500099e20ef": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-13T04:01:17+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1538026988348192",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Áreas foram identificadas durante operação de fiscalização; infrações foram registradas em nome de responsáveis desconhecidos.",
    "discovered_at": "2026-11-12T14:20:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1538026988348192",
    "formats": [
     "link"
    ],
@@ -23910,20 +23938,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/fd641011-92f7-478c-a1ed-89120a46b9cd.jpeg",
    "key": "guid:6af5c88952c09500099e20ef",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1538026988348192"
+   },
    "source_published_at": "2026-11-12T14:11:57+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Ipaam embarga 1,7 mil hectares atingidos por queimadas no Careiro",
-   "updated_at": "2026-11-12T14:20:18+00:00",
+   "updated_at": "2026-11-13T04:01:17+00:00",
    "url": "https://marioadolfo.com/ipaam-embarga-1-7-mil-hectares-atingidos-por-queimadas-no-careiro/",
    "url_hash": "30c7f19931644596b49a77a1"
   },
   "guid:6af5d28c52c09500099e2108": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-13T04:01:43+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1538027248348166",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Iniciativa busca ampliar a reserva de vagas para pessoas negras, indígenas e quilombolas em concursos estaduais e municipais",
    "discovered_at": "2026-11-12T15:00:23+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1538027248348166",
    "formats": [
     "link"
    ],
@@ -23931,20 +23969,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/afe9a844-7f8a-4895-9e6d-91612faad57b.jpeg",
    "key": "guid:6af5d28c52c09500099e2108",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1538027248348166"
+   },
    "source_published_at": "2026-11-12T14:54:58+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Defensoria apresenta projeto para fortalecer cotas raciais em concursos públicos no AM",
-   "updated_at": "2026-11-12T15:00:23+00:00",
+   "updated_at": "2026-11-13T04:01:43+00:00",
    "url": "https://marioadolfo.com/defensoria-apresenta-projeto-para-fortalecer-cotas-raciais-em-concursos-publicos-no-am/",
    "url_hash": "75a6d47455dd5db7b879554d"
   },
   "guid:6af5d42e52c09500099e211d": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-13T04:02:08+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1538027595014798",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Texto será apreciado nesta quinta-feira (12), a partir das 16h",
    "discovered_at": "2026-11-12T15:10:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1538027595014798",
    "formats": [
     "link"
    ],
@@ -23952,11 +24000,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/744e989b-59b0-47ed-90fe-8f27fb7e219d.jpg",
    "key": "guid:6af5d42e52c09500099e211d",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1538027595014798"
+   },
    "source_published_at": "2026-11-12T15:03:52+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Senado deve votar ajuste fiscal com previsão de economia de R$ 60 bi",
-   "updated_at": "2026-11-12T15:10:17+00:00",
+   "updated_at": "2026-11-13T04:02:08+00:00",
    "url": "https://marioadolfo.com/senado-deve-votar-ajuste-fiscal-com-previsao-de-economia-de-r-60-bi/",
    "url_hash": "b51762b9294214148d75c77d"
   },
@@ -24552,8 +24602,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-13T03:50:14+00:00",
-  "saved_at": "2026-11-13T03:50:15+00:00"
+  "last_run_at": "2026-11-13T04:00:20+00:00",
+  "saved_at": "2026-11-13T04:02:08+00:00"
  },
  "schema": 1
 }
