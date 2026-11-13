@@ -24873,13 +24873,34 @@
    "updated_at": "2026-11-13T12:40:19+00:00",
    "url": "https://marioadolfo.com/dito-feito-e-agora-como-fica-a-cara-pau-de-sergio-moro/",
    "url_hash": "87b5cf03ba7ace1969a70a11"
+  },
+  "guid:6af70b6e52c09500099e24d9": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Consolidação dos dados de 2024 mostra que o Estado ficou com o 4º maior crescimento entre as unidades da Federação",
+   "discovered_at": "2026-11-13T13:10:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af70b6e52c09500099e24d9",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e87bc1d7-c923-426f-be98-aec4454737e8.jpeg",
+   "key": "guid:6af70b6e52c09500099e24d9",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-13T13:10:05+00:00",
+   "status": "pending",
+   "title": "PIB do Amazonas cresce acima da média nacional",
+   "updated_at": "2026-11-13T13:10:16+00:00",
+   "url": "https://marioadolfo.com/pib-do-amazonas-cresce-acima-da-media-nacional-2/",
+   "url_hash": "2484d805f52c993313b16126"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-13T13:00:21+00:00",
-  "saved_at": "2026-11-13T13:00:22+00:00"
+  "last_run_at": "2026-11-13T13:10:15+00:00",
+  "saved_at": "2026-11-13T13:10:17+00:00"
  },
  "schema": 1
 }
