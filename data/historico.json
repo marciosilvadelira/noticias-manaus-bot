@@ -25377,13 +25377,34 @@
    "updated_at": "2026-11-13T19:10:15+00:00",
    "url": "https://marioadolfo.com/aplicativo-oferece-botao-do-panico-para-proteger-mulheres-vitimas-de-violencia-em-manaus/",
    "url_hash": "d1f7b9de4f9896ce0800fae5"
+  },
+  "guid:6af7609852c09500099e2763": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "O procedimento no Conselho Regional de Enfermagem do Amazonas vai avaliar a conduta profissional de Raiza Bentes Paiva",
+   "discovered_at": "2026-11-13T19:20:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af7609852c09500099e2763",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/99650ab8-6d09-4bc8-9058-3cbd4826a0bf.png",
+   "key": "guid:6af7609852c09500099e2763",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-13T19:12:52+00:00",
+   "status": "pending",
+   "title": "Caso Benício: julgamento de técnica de enfermagem é remarcado para 27 de novembro",
+   "updated_at": "2026-11-13T19:20:17+00:00",
+   "url": "https://marioadolfo.com/caso-benicio-julgamento-de-tecnica-de-enfermagem-e-remarcado-para-27-de-novembro/",
+   "url_hash": "05966442ce1cf469997c37ff"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-13T19:10:14+00:00",
-  "saved_at": "2026-11-13T19:10:15+00:00"
+  "last_run_at": "2026-11-13T19:20:16+00:00",
+  "saved_at": "2026-11-13T19:20:17+00:00"
  },
  "schema": 1
 }
