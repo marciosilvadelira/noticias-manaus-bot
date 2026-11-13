@@ -25398,13 +25398,34 @@
    "updated_at": "2026-11-13T19:20:17+00:00",
    "url": "https://marioadolfo.com/caso-benicio-julgamento-de-tecnica-de-enfermagem-e-remarcado-para-27-de-novembro/",
    "url_hash": "05966442ce1cf469997c37ff"
+  },
+  "guid:6af76c4e52c09500099e278a": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Primeiro prognóstico para 2027 indica crescimento na produção de feijão e milho, enquanto estimativas de arroz e soja permanecem estáveis",
+   "discovered_at": "2026-11-13T20:10:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af76c4e52c09500099e278a",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/8ce40f5b-2608-4306-9120-5fdb4dc9ad66.jpg",
+   "key": "guid:6af76c4e52c09500099e278a",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-13T20:02:21+00:00",
+   "status": "pending",
+   "title": "Safra de grãos do AM deve alcançar 71,8 mil toneladas em 2026, aponta IBGE",
+   "updated_at": "2026-11-13T20:10:17+00:00",
+   "url": "https://marioadolfo.com/safra-de-graos-do-am-deve-alcancar-71-8-mil-toneladas-em-2026-aponta-ibge/",
+   "url_hash": "5f0f4ddd4bd715b82f8a3433"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-13T20:00:26+00:00",
-  "saved_at": "2026-11-13T20:00:28+00:00"
+  "last_run_at": "2026-11-13T20:10:16+00:00",
+  "saved_at": "2026-11-13T20:10:17+00:00"
  },
  "schema": 1
 }
