@@ -24810,13 +24810,34 @@
    "updated_at": "2026-11-13T11:10:16+00:00",
    "url": "https://marioadolfo.com/pgr-e-contra-revisar-condenacao-de-jair-bolsonaro/",
    "url_hash": "9f26b4ef0a3595ed7b218ec8"
+  },
+  "guid:6af6f18652c09500099e2478": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Trabalhadores não terão o dia de greve descontado do salário nem sofrerão punições; sindicatos pediram encerramento do processo",
+   "discovered_at": "2026-11-13T11:20:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af6f18652c09500099e2478",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/50507222-d444-4f55-bec3-6efb03e1f7a1.jpg",
+   "key": "guid:6af6f18652c09500099e2478",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-13T11:17:19+00:00",
+   "status": "pending",
+   "title": "Rodoviários e empresas fecham acordo após paralisação de ônibus em Manaus",
+   "updated_at": "2026-11-13T11:20:16+00:00",
+   "url": "https://marioadolfo.com/rodoviarios-e-empresas-fecham-acordo-apos-paralisacao-de-onibus-em-manaus/",
+   "url_hash": "bc87a17123ed655e2ac47d19"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-13T11:10:15+00:00",
-  "saved_at": "2026-11-13T11:10:16+00:00"
+  "last_run_at": "2026-11-13T11:20:15+00:00",
+  "saved_at": "2026-11-13T11:20:17+00:00"
  },
  "schema": 1
 }
