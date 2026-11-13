@@ -25083,13 +25083,55 @@
    "updated_at": "2026-11-13T16:10:16+00:00",
    "url": "https://marioadolfo.com/video-loja-de-equipamentos-agricolas-e-furtada-durante-a-madrugada-no-centro-de-manaus/",
    "url_hash": "81a92f6f3734416a0387608b"
+  },
+  "guid:6af739d252c09500099e25eb": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Para ele, esta é a principal estratégia no combate ao crime organizado",
+   "discovered_at": "2026-11-13T16:40:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af739d252c09500099e25eb",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/86f7a057-2b2e-466b-8cf5-b79d2be985d6.jpg",
+   "key": "guid:6af739d252c09500099e25eb",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-13T16:30:37+00:00",
+   "status": "pending",
+   "title": "Ministro da Justiça defende enfraquecimento econômico de facções",
+   "updated_at": "2026-11-13T16:40:16+00:00",
+   "url": "https://marioadolfo.com/ministro-da-justica-defende-enfraquecimento-economico-de-faccoes/",
+   "url_hash": "46b8af0f3cd012c93aaf6249"
+  },
+  "guid:6af73b6c52c09500099e2600": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Monitoramento por satélite resultou em 682 autuações e 763 embargos entre maio e outubro de 2026",
+   "discovered_at": "2026-11-13T16:40:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af73b6c52c09500099e2600",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/be0be78a-20f4-49db-bfb9-c25f6938d697.jpeg",
+   "key": "guid:6af73b6c52c09500099e2600",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-13T16:36:46+00:00",
+   "status": "pending",
+   "title": "Fiscalização por satélite aplica R$ 53,9 milhões em multas por desmatamento no AM",
+   "updated_at": "2026-11-13T16:40:16+00:00",
+   "url": "https://marioadolfo.com/fiscalizacao-por-satelite-aplica-r-53-9-milhoes-em-multas-por-desmatamento-no-am/",
+   "url_hash": "24782b58676d36a53f67fab5"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-13T16:30:20+00:00",
-  "saved_at": "2026-11-13T16:30:22+00:00"
+  "last_run_at": "2026-11-13T16:40:15+00:00",
+  "saved_at": "2026-11-13T16:40:16+00:00"
  },
  "schema": 1
 }
