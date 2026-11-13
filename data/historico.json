@@ -24011,11 +24011,19 @@
    "url_hash": "b51762b9294214148d75c77d"
   },
   "guid:6af5d56152c09500099e2134": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-13T04:10:23+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1538033035014254",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Durante a capacitação, os participantes conhecerão requisitos de segurança, medidas de proteção e práticas de prevenção de acidentes na operação, utilização e manutenção de máquinas e equipamentos",
    "discovered_at": "2026-11-12T15:10:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1538033035014254",
    "formats": [
     "link"
    ],
@@ -24023,20 +24031,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/887ef092-0940-4e68-baa5-dd5f37d2d2ec.jpeg",
    "key": "guid:6af5d56152c09500099e2134",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1538033035014254"
+   },
    "source_published_at": "2026-11-12T15:06:29+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Prefeitura de Manaus abre 60 vagas para curso de segurança em máquinas e equipamentos",
-   "updated_at": "2026-11-12T15:10:17+00:00",
+   "updated_at": "2026-11-13T04:10:23+00:00",
    "url": "https://marioadolfo.com/prefeitura-de-manaus-abre-60-vagas-para-curso-de-seguranca-em-maquinas-e-equipamentos/",
    "url_hash": "9c945dc3b128c5f8c5077b61"
   },
   "guid:6af5d6f852c09500099e214c": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-13T04:10:48+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1538033308347560",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Parintins",
    "description": "Os dados fazem parte do levantamento de 2026 divulgado pela Associação dos Membros dos Tribunais de Contas do Brasil (Atricon), no qual o município atingiu o índice geral de 69,5%",
    "discovered_at": "2026-11-12T15:20:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1538033308347560",
    "formats": [
     "link"
    ],
@@ -24044,20 +24062,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d8f4e1b7-6ad9-4c56-888f-5271c4e9291c.jpeg",
    "key": "guid:6af5d6f852c09500099e214c",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1538033308347560"
+   },
    "source_published_at": "2026-11-12T15:12:29+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Parintins entra no Top 10 da Transparência Pública do Amazonas",
-   "updated_at": "2026-11-12T15:20:15+00:00",
+   "updated_at": "2026-11-13T04:10:48+00:00",
    "url": "https://marioadolfo.com/parintins-entra-no-top-10-da-transparencia-publica-do-amazonas/",
    "url_hash": "fd5c1fd93e0bc537757ec6cd"
   },
   "guid:6af5d79352c09500099e2164": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-13T04:11:13+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1538033708347520",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "A ocorrência foi registrada por volta das 6h, na altura do quilômetro 30 da rodovia, durante uma viagem com destino ao município de Itacoatiara",
    "discovered_at": "2026-11-12T15:20:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1538033708347520",
    "formats": [
     "link"
    ],
@@ -24065,20 +24093,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/cb0914c4-babd-4a5f-a191-e7f875a94ddd.png",
    "key": "guid:6af5d79352c09500099e2164",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1538033708347520"
+   },
    "source_published_at": "2026-11-12T15:17:14+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Vídeo: uma pessoa morre e outras quatro ficam feridas em acidenete na AM-010",
-   "updated_at": "2026-11-12T15:20:15+00:00",
+   "updated_at": "2026-11-13T04:11:13+00:00",
    "url": "https://marioadolfo.com/video-uma-pessoa-morre-e-outras-quatro-ficam-feridas-em-acidenete-na-am-010/",
    "url_hash": "ddc4e584e2a87df31c124d14"
   },
   "guid:6af5d81352c09500099e2172": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-13T04:11:38+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1538034008347490",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Parintins",
    "description": "Lei sancionada pelo prefeito protege complexo arqueológico, paisagem e tradições ribeirinhas",
    "discovered_at": "2026-11-12T15:20:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1538034008347490",
    "formats": [
     "link"
    ],
@@ -24086,20 +24124,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/83f6b408-eb93-49fd-9d95-21599e6901b3.jpeg",
    "key": "guid:6af5d81352c09500099e2172",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1538034008347490"
+   },
    "source_published_at": "2026-11-12T15:17:22+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Serra da Valéria vira patrimônio cultural e histórico de Parintins",
-   "updated_at": "2026-11-12T15:20:15+00:00",
+   "updated_at": "2026-11-13T04:11:38+00:00",
    "url": "https://marioadolfo.com/serra-da-valeria-vira-patrimonio-cultural-e-historico-de-parintins/",
    "url_hash": "90120519abd015e8f4091ba1"
   },
   "guid:6af5d92952c09500099e219d": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-13T04:12:04+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1538034298347461",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Segunda parcela começou a ser depositada nesta quinta-feira (12) e segue até sexta-feira (13)",
    "discovered_at": "2026-11-12T15:30:21+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1538034298347461",
    "formats": [
     "link"
    ],
@@ -24107,11 +24155,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ae3fabbf-9f7d-42d4-ac9a-bbdc7e6dc641.jpeg",
    "key": "guid:6af5d92952c09500099e219d",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1538034298347461"
+   },
    "source_published_at": "2026-11-12T15:22:13+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Governo inicia pagamento do 13º salário e injeta R$ 1,3 bilhão na economia do Amazonas",
-   "updated_at": "2026-11-12T15:30:21+00:00",
+   "updated_at": "2026-11-13T04:12:04+00:00",
    "url": "https://marioadolfo.com/governo-inicia-pagamento-do-13o-salario-e-injeta-r-1-3-bilhao-na-economia-do-amazonas/",
    "url_hash": "eabd93016dada7bf834e3177"
   },
@@ -24602,8 +24652,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-13T04:00:20+00:00",
-  "saved_at": "2026-11-13T04:02:08+00:00"
+  "last_run_at": "2026-11-13T04:10:15+00:00",
+  "saved_at": "2026-11-13T04:12:04+00:00"
  },
  "schema": 1
 }
