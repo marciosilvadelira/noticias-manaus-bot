@@ -24936,13 +24936,34 @@
    "updated_at": "2026-11-13T14:20:17+00:00",
    "url": "https://marioadolfo.com/homem-em-situacao-de-rua-e-morto-a-facadas-apos-discussao-em-avenida-de-manaus/",
    "url_hash": "1db797e26f31aa6d369d74cc"
+  },
+  "guid:6af71f5052c09500099e251f": {
+   "attempts": [],
+   "category": "Parintins",
+   "description": "Decreto estabelece grupo permanente de articulação entre Prefeitura, Defesa Civil, Bombeiros e Ipaam para acompanhar incêndios e os efeitos da fumaça",
+   "discovered_at": "2026-11-13T14:40:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af71f5052c09500099e251f",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/454d767f-96ff-42ae-8b2b-0b7a159fb1b5.jpeg",
+   "key": "guid:6af71f5052c09500099e251f",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-13T14:35:20+00:00",
+   "status": "pending",
+   "title": "Parintins cria comitê para monitorar e combater queimadas",
+   "updated_at": "2026-11-13T14:40:16+00:00",
+   "url": "https://marioadolfo.com/parintins-cria-comite-para-monitorar-e-combater-queimadas/",
+   "url_hash": "3e27093b3d0b7a09be6c2af7"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-13T14:30:19+00:00",
-  "saved_at": "2026-11-13T14:30:21+00:00"
+  "last_run_at": "2026-11-13T14:40:15+00:00",
+  "saved_at": "2026-11-13T14:40:17+00:00"
  },
  "schema": 1
 }
