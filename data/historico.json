@@ -24592,12 +24592,12 @@
    "guid": "6af6017652c09500099e2346",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/15c7459f-f5f7-4518-a39f-df6041b4995c.jpeg",
    "key": "guid:6af6017652c09500099e2346",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-12T18:13:22+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Dez ônibus viram galerias de arte a céu aberto nas ruas de Manaus",
-   "updated_at": "2026-11-12T18:20:18+00:00",
+   "updated_at": "2026-11-13T18:20:17+00:00",
    "url": "https://marioadolfo.com/dez-onibus-viram-galerias-de-arte-a-ceu-aberto-nas-ruas-de-manaus/",
    "url_hash": "5401fb98aa4155d13927f848"
   },
@@ -25277,8 +25277,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-13T18:10:14+00:00",
-  "saved_at": "2026-11-13T18:10:15+00:00"
+  "last_run_at": "2026-11-13T18:20:16+00:00",
+  "saved_at": "2026-11-13T18:20:18+00:00"
  },
  "schema": 1
 }
