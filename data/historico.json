@@ -25335,13 +25335,55 @@
    "updated_at": "2026-11-13T18:40:15+00:00",
    "url": "https://marioadolfo.com/motorista-de-app-e-preso-por-por-roubo-durante-corrida-na-zona-oeste-de-manaus/",
    "url_hash": "506bf5bd11fcf32527914235"
+  },
+  "guid:6af75f0d52c09500099e2732": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "O crime ocorreu em 30 de julho de 2022, quando o réu surpreendeu a vítima, que estava na varanda de uma das testemunhas bebendo água, e desferiu golpes de faca na região do tórax",
+   "discovered_at": "2026-11-13T19:10:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af75f0d52c09500099e2732",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ae5ffdf8-9ebd-400d-9ef9-aca5a51c6d4d.jpeg",
+   "key": "guid:6af75f0d52c09500099e2732",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-13T19:05:30+00:00",
+   "status": "pending",
+   "title": "Homem é condenado a mais de 7 anos de prisão por homicídio em Pauini",
+   "updated_at": "2026-11-13T19:10:15+00:00",
+   "url": "https://marioadolfo.com/homem-e-condenado-a-mais-de-7-anos-de-prisao-por-homicidio-em-pauini/",
+   "url_hash": "0071a52752b4953443f1f36e"
+  },
+  "guid:6af75fc852c09500099e2747": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "“SOS Guardiã Maria da Penha” permite o envio imediato da localização da vítima, em tempo real, à Central de Monitoramento da Guarda Municipal de Manaus",
+   "discovered_at": "2026-11-13T19:10:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af75fc852c09500099e2747",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/1bea479c-0eaa-4423-9a88-a25671587dcc.jpg",
+   "key": "guid:6af75fc852c09500099e2747",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-13T19:09:57+00:00",
+   "status": "pending",
+   "title": "Aplicativo oferece botão do pânico para proteger mulheres vítimas de violência em Manaus",
+   "updated_at": "2026-11-13T19:10:15+00:00",
+   "url": "https://marioadolfo.com/aplicativo-oferece-botao-do-panico-para-proteger-mulheres-vitimas-de-violencia-em-manaus/",
+   "url_hash": "d1f7b9de4f9896ce0800fae5"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-13T19:00:22+00:00",
-  "saved_at": "2026-11-13T19:00:23+00:00"
+  "last_run_at": "2026-11-13T19:10:14+00:00",
+  "saved_at": "2026-11-13T19:10:15+00:00"
  },
  "schema": 1
 }
