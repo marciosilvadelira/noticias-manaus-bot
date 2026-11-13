@@ -24613,12 +24613,12 @@
    "guid": "6af6074952c09500099e235d",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a7abcd32-628c-41f6-bcb8-464372b3e610.jpeg",
    "key": "guid:6af6074952c09500099e235d",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-12T18:39:00+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Comissão de transição se reúne com presidente do TCE-AM para subsidiar próximo governo",
-   "updated_at": "2026-11-12T18:40:15+00:00",
+   "updated_at": "2026-11-13T18:40:15+00:00",
    "url": "https://marioadolfo.com/comissao-de-transicao-se-reune-com-presidente-do-tce-am-para-subsidiar-proximo-governo/",
    "url_hash": "8de584bdc2f19eeab545cc5c"
   },
@@ -25293,13 +25293,55 @@
    "updated_at": "2026-11-13T18:30:19+00:00",
    "url": "https://marioadolfo.com/posto-de-gasolina-de-manaus-e-condenado-a-pagar-r-259-mil-por-cartel/",
    "url_hash": "f79630b87863ee532817ae81"
+  },
+  "guid:6af7576952c09500099e26d8": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Ação inédita vale para consumidores residenciais, de baixa renda e rurais nos 62 municípios do Amazonas; clientes em dia também concorrem",
+   "discovered_at": "2026-11-13T18:40:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af7576952c09500099e26d8",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/566cbf19-eb80-46c3-acb9-adb43d31444a.png",
+   "key": "guid:6af7576952c09500099e26d8",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-13T18:35:23+00:00",
+   "status": "pending",
+   "title": "Âmbar Energia dá desconto de até 80% em dívidas e R$ 1,5 milhão em prêmios",
+   "updated_at": "2026-11-13T18:40:15+00:00",
+   "url": "https://marioadolfo.com/ambar-energia-da-desconto-de-ate-80-em-dividas-e-r-1-5-milhao-em-premios/",
+   "url_hash": "21840e08c0265efd1adf29d0"
+  },
+  "guid:6af7588752c09500099e26ea": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Homem teria sacado uma arma ao chegar à casa da vítima, roubado o celular e a levado para outro imóvel",
+   "discovered_at": "2026-11-13T18:40:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af7588752c09500099e26ea",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b8613fad-fbd3-438e-87b7-4bf99dfe9a20.jpg",
+   "key": "guid:6af7588752c09500099e26ea",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-13T18:40:10+00:00",
+   "status": "pending",
+   "title": "Motorista de app é preso por por roubo durante corrida na zona oeste de Manaus",
+   "updated_at": "2026-11-13T18:40:15+00:00",
+   "url": "https://marioadolfo.com/motorista-de-app-e-preso-por-por-roubo-durante-corrida-na-zona-oeste-de-manaus/",
+   "url_hash": "506bf5bd11fcf32527914235"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-13T18:30:18+00:00",
-  "saved_at": "2026-11-13T18:30:20+00:00"
+  "last_run_at": "2026-11-13T18:40:15+00:00",
+  "saved_at": "2026-11-13T18:40:16+00:00"
  },
  "schema": 1
 }
