@@ -24487,12 +24487,12 @@
    "guid": "6af5f5dc52c09500099e22d6",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/286e1a43-6df2-4e6c-b935-6276abd6338a.jpeg",
    "key": "guid:6af5f5dc52c09500099e22d6",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-12T17:25:55+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Jovens são presas com 10 kg de cocaína dentro de mala em Jutaí",
-   "updated_at": "2026-11-12T17:30:19+00:00",
+   "updated_at": "2026-11-13T17:30:20+00:00",
    "url": "https://marioadolfo.com/jovens-sao-presas-com-10-kg-de-cocaina-dentro-de-mala-em-jutai/",
    "url_hash": "b1544a48e8964187168f17c5"
   },
@@ -25172,8 +25172,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-13T17:20:14+00:00",
-  "saved_at": "2026-11-13T17:20:16+00:00"
+  "last_run_at": "2026-11-13T17:30:19+00:00",
+  "saved_at": "2026-11-13T17:30:20+00:00"
  },
  "schema": 1
 }
