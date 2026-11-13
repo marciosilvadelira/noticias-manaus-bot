@@ -24748,6 +24748,27 @@
    "url": "https://marioadolfo.com/pesquisa-aponta-reducao-de-r-0-80-no-preco-da-gasolina-comum-em-novembro-em-manaus/",
    "url_hash": "eafb8397978bc95095c1ce7a"
   },
+  "guid:6af6714852c09500099e241f": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Proposta altera o arcabouço fiscal e estabelece novas regras para compensações da Lei Kandir",
+   "discovered_at": "2026-11-13T11:10:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af6714852c09500099e241f",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4bcf8e13-ac06-4c79-bfc9-f4d0a8b5591d.jpg",
+   "key": "guid:6af6714852c09500099e241f",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-13T11:06:04+00:00",
+   "status": "pending",
+   "title": "Senado aprova texto-base do projeto de ajuste fiscal, relatado por Eduardo Braga",
+   "updated_at": "2026-11-13T11:10:16+00:00",
+   "url": "https://marioadolfo.com/senado-aprova-texto-base-do-projeto-de-ajuste-fiscal-relatado-por-eduardo-braga/",
+   "url_hash": "f4ac4d2bd05ede2f4b3faa25"
+  },
   "guid:6af6ecf152c09500099e2440": {
    "attempts": [],
    "category": "Brasil",
@@ -24768,13 +24789,34 @@
    "updated_at": "2026-11-13T11:00:22+00:00",
    "url": "https://marioadolfo.com/casos-de-mpox-ultrapassam-mil-em-2026-e-se-concentram-em-seis-estados/",
    "url_hash": "43e36c91229a62cced33401f"
+  },
+  "guid:6af6efa152c09500099e2463": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Defesa alega falta de acesso à investigação",
+   "discovered_at": "2026-11-13T11:10:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af6efa152c09500099e2463",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c01a4270-1606-4082-be20-cf641b394d84.jpeg",
+   "key": "guid:6af6efa152c09500099e2463",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-13T11:09:58+00:00",
+   "status": "pending",
+   "title": "PGR é contra revisar condenação de Jair Bolsonaro",
+   "updated_at": "2026-11-13T11:10:16+00:00",
+   "url": "https://marioadolfo.com/pgr-e-contra-revisar-condenacao-de-jair-bolsonaro/",
+   "url_hash": "9f26b4ef0a3595ed7b218ec8"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-13T11:00:22+00:00",
-  "saved_at": "2026-11-13T11:00:22+00:00"
+  "last_run_at": "2026-11-13T11:10:15+00:00",
+  "saved_at": "2026-11-13T11:10:16+00:00"
  },
  "schema": 1
 }
