@@ -24915,13 +24915,34 @@
    "updated_at": "2026-11-13T14:10:17+00:00",
    "url": "https://marioadolfo.com/trf1-mantem-indenizacao-ao-povo-mura-por-demora-na-demarcacao-de-terra-indigena/",
    "url_hash": "d48aeb6b429a0a1a457bcc5d"
+  },
+  "guid:6af719a452c09500099e2508": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Crime ocorreu na manhã desta sexta-feira (13), na avenida Professor Nilton Lins, no Parque das Laranjeiras; vítima ainda não foi identificada",
+   "discovered_at": "2026-11-13T14:20:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af719a452c09500099e2508",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4b517049-6bad-4110-bd03-5d1ae620040c.jpg",
+   "key": "guid:6af719a452c09500099e2508",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-13T14:11:27+00:00",
+   "status": "pending",
+   "title": "Homem em situação de rua é morto a facadas após discussão em avenida de Manaus",
+   "updated_at": "2026-11-13T14:20:17+00:00",
+   "url": "https://marioadolfo.com/homem-em-situacao-de-rua-e-morto-a-facadas-apos-discussao-em-avenida-de-manaus/",
+   "url_hash": "1db797e26f31aa6d369d74cc"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-13T14:10:16+00:00",
-  "saved_at": "2026-11-13T14:10:17+00:00"
+  "last_run_at": "2026-11-13T14:20:16+00:00",
+  "saved_at": "2026-11-13T14:20:17+00:00"
  },
  "schema": 1
 }
