@@ -24529,12 +24529,12 @@
    "guid": "6af5fe6852c09500099e2305",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6f2b90c9-86ca-48a6-ba83-39447da3d2a7.jpg",
    "key": "guid:6af5fe6852c09500099e2305",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-12T18:00:48+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Fiocruz: aumentam casos de síndrome respiratória aguda por covid-19",
-   "updated_at": "2026-11-12T18:10:17+00:00",
+   "updated_at": "2026-11-13T18:10:15+00:00",
    "url": "https://marioadolfo.com/fiocruz-aumentam-casos-de-sindrome-respiratoria-aguda-por-covid-19/",
    "url_hash": "c3df0dcd41d98f7325dd91bb"
   },
@@ -24550,12 +24550,12 @@
    "guid": "6af5fe9152c09500099e230c",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/8bbbf1c4-c22d-4025-a1aa-2e81c33562c6.jpeg",
    "key": "guid:6af5fe9152c09500099e230c",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-12T18:01:31+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Focos de incêndio diminuem no oeste do Pará e fumaça pode diminuir em Manaus",
-   "updated_at": "2026-11-12T18:10:17+00:00",
+   "updated_at": "2026-11-13T18:10:15+00:00",
    "url": "https://marioadolfo.com/focos-de-incendio-diminuem-no-oeste-do-para-e-fumaca-pode-diminuir-em-manaus-fumaca-que-ainda-atinge-a-capital-amazonense-tem-origem-principalmente-no-oeste-paraense-segundo-serafim-cor/",
    "url_hash": "1d49f7bc066fb3f13cdf1598"
   },
@@ -24571,12 +24571,12 @@
    "guid": "6af5fefa52c09500099e2330",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/114f75cb-db11-4c03-b6f1-48219c0ccaf6.jpeg",
    "key": "guid:6af5fefa52c09500099e2330",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-12T18:03:07+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "MPAM abre seleção para estágio de nível médio e superior nesta sexta (13)",
-   "updated_at": "2026-11-12T18:10:17+00:00",
+   "updated_at": "2026-11-13T18:10:15+00:00",
    "url": "https://marioadolfo.com/mpam-abre-selecao-para-estagio-de-nivel-medio-e-superior-nesta-sexta-13/",
    "url_hash": "e30c61325f53243041fa4c02"
   },
@@ -25189,6 +25189,27 @@
    "url": "https://marioadolfo.com/construnorte-2026-inicia-com-inovacao-e-novas-tecnologias-para-o-setor-construtivo/",
    "url_hash": "0ee84961c1334390037cc783"
   },
+  "guid:6af74f3652c09500099e265a": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "O homem também praticava violência psicológica contra a vítima de 11 anos",
+   "discovered_at": "2026-11-13T18:10:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af74f3652c09500099e265a",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/904be7d8-60de-44c0-8664-ff35aad84eaf.png",
+   "key": "guid:6af74f3652c09500099e265a",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-13T18:02:10+00:00",
+   "status": "pending",
+   "title": "Padrasto é preso suspeito de estuprar e ameaçar a enteada em Manacapuru",
+   "updated_at": "2026-11-13T18:10:15+00:00",
+   "url": "https://marioadolfo.com/padrasto-e-preso-suspeito-de-estuprar-e-ameacar-a-enteada-em-manacapuru/",
+   "url_hash": "54d4d47d148f4c3f9cdb27b1"
+  },
   "guid:6af74f9352c09500099e266d": {
    "attempts": [],
    "category": "Amazonas",
@@ -25209,13 +25230,55 @@
    "updated_at": "2026-11-13T18:00:20+00:00",
    "url": "https://marioadolfo.com/prefeitura-de-manaus-finaliza-participacao-de-mais-de-66-mil-estudantes-no-sadeam/",
    "url_hash": "f24d36883b7e9eec1f2669f9"
+  },
+  "guid:6af7501352c09500099e2681": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Benefício será oferecido das 7h às 20h nos ônibus convencionais; candidatos deverão apresentar cartão de inscrição e documento com foto",
+   "discovered_at": "2026-11-13T18:10:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af7501352c09500099e2681",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4e99f0b2-8648-44c6-a406-ebee46d616b5.webp",
+   "key": "guid:6af7501352c09500099e2681",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-13T18:01:16+00:00",
+   "status": "pending",
+   "title": "Enem 2026: ônibus terão gratuidade em Manaus neste domingo",
+   "updated_at": "2026-11-13T18:10:15+00:00",
+   "url": "https://marioadolfo.com/enem-2026-onibus-terao-gratuidade-em-manaus-neste-domingo/",
+   "url_hash": "51990fcf32d2412658cfe63b"
+  },
+  "guid:6af750cc52c09500099e26a8": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Uma mulher, de 20 anos, e um homem, de 23, estavam foragidos da Justiça paraense e foram localizados no bairro Novo Israel, zona norte",
+   "discovered_at": "2026-11-13T18:10:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af750cc52c09500099e26a8",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f93893bb-e5d8-479e-9502-72150f97ea4e.jpeg",
+   "key": "guid:6af750cc52c09500099e26a8",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-13T18:04:45+00:00",
+   "status": "pending",
+   "title": "Líderes de organização criminosa do Pará são presos em Manaus",
+   "updated_at": "2026-11-13T18:10:15+00:00",
+   "url": "https://marioadolfo.com/lideres-de-organizacao-criminosa-do-para-sao-presos-em-manaus/",
+   "url_hash": "e7e2622d2c0964413a56e46a"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-13T18:00:19+00:00",
-  "saved_at": "2026-11-13T18:00:21+00:00"
+  "last_run_at": "2026-11-13T18:10:14+00:00",
+  "saved_at": "2026-11-13T18:10:15+00:00"
  },
  "schema": 1
 }
