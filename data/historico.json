@@ -24321,11 +24321,19 @@
    "url_hash": "8e3336948921a6021f2ba5a5"
   },
   "guid:6af5e4c352c09500099e2254": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-13T04:30:27+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1538046765012881",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Em parceria com o Sesc Mesa Brasil, festival oferece ingresso solidário por R$ 70, mediante doação de 1 kg de alimento não perecível",
    "discovered_at": "2026-11-12T16:20:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1538046765012881",
    "formats": [
     "link"
    ],
@@ -24333,20 +24341,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/7ea724fd-fda4-4661-9a75-81100241cd85.jpg",
    "key": "guid:6af5e4c352c09500099e2254",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1538046765012881"
+   },
    "source_published_at": "2026-11-12T16:10:50+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Festival Amazônia POP une música e solidariedade para arrecadar 9 toneladas de alimentos em Manaus",
-   "updated_at": "2026-11-12T16:20:17+00:00",
+   "updated_at": "2026-11-13T04:30:27+00:00",
    "url": "https://marioadolfo.com/festival-amazonia-pop-une-musica-e-solidariedade-para-arrecadar-9-toneladas-de-alimentos-em-manaus/",
    "url_hash": "7dbf77119ceaa4c37c57a623"
   },
   "guid:6af5e5b952c09500099e226c": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-13T04:30:52+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1538047055012852",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Celulares e cadernos com anotações foram apreendidos durante a ação",
    "discovered_at": "2026-11-12T16:20:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1538047055012852",
    "formats": [
     "link"
    ],
@@ -24354,20 +24372,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e24f05e1-1cd4-44e2-b991-b68091a78b25.png",
    "key": "guid:6af5e5b952c09500099e226c",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1538047055012852"
+   },
    "source_published_at": "2026-11-12T16:14:58+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Suspeitos de atuar como pistoleiros são presos em condomínio na Ponta Negra",
-   "updated_at": "2026-11-12T16:20:17+00:00",
+   "updated_at": "2026-11-13T04:30:52+00:00",
    "url": "https://marioadolfo.com/suspeitos-de-atuar-como-pistoleiros-sao-presos-em-condominio-na-ponta-negra/",
    "url_hash": "c7b5eb731e6143bcb9bfdd9e"
   },
   "guid:6af5e79352c09500099e2282": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-13T04:31:17+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1538047301679494",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Pleno da corte aprovou nesta quinta-feira o relatório final de totalização dos votos do segundo turno",
    "discovered_at": "2026-11-12T16:30:20+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1538047301679494",
    "formats": [
     "link"
    ],
@@ -24375,20 +24403,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f0071fd0-84c3-488c-95cd-c073a9e3e146.jpeg",
    "key": "guid:6af5e79352c09500099e2282",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1538047301679494"
+   },
    "source_published_at": "2026-11-12T16:24:10+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "TRE-AM homologa oficialmente resultados do segundo turno das Eleições 2026",
-   "updated_at": "2026-11-12T16:30:20+00:00",
+   "updated_at": "2026-11-13T04:31:17+00:00",
    "url": "https://marioadolfo.com/tre-am-homologa-oficialmente-resultados-do-segundo-turno-das-eleicoes-2026/",
    "url_hash": "d332e3b150735e3af59b7bd6"
   },
   "guid:6af5f2af52c09500099e22a1": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-13T04:31:41+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1538047591679465",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "A vítima voltava para casa quando foi surpreendida e ofendida pelos autores",
    "discovered_at": "2026-11-12T17:20:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1538047591679465",
    "formats": [
     "link"
    ],
@@ -24396,20 +24434,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/780f99d5-36a7-45f1-a029-8664eacc9fff.png",
    "key": "guid:6af5f2af52c09500099e22a1",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1538047591679465"
+   },
    "source_published_at": "2026-11-12T17:12:48+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Trio é preso por tentar matar jovem durante emboscada no AM",
-   "updated_at": "2026-11-12T17:20:18+00:00",
+   "updated_at": "2026-11-13T04:31:41+00:00",
    "url": "https://marioadolfo.com/trio-e-preso-por-tentar-matar-jovem-durante-emboscada/",
    "url_hash": "94673806f34d3e36c03bae58"
   },
   "guid:6af5f4ab52c09500099e22bb": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-13T04:32:08+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1538047871679437",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "O grupo oferecia a empresas a possibilidade de eliminar dívidas com o Fisco por meio de supostos créditos tributários",
    "discovered_at": "2026-11-12T17:30:19+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1538047871679437",
    "formats": [
     "link"
    ],
@@ -24417,11 +24465,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/928f9f04-ed36-4493-85a5-850e44e3aa77.jpeg",
    "key": "guid:6af5f4ab52c09500099e22bb",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1538047871679437"
+   },
    "source_published_at": "2026-11-12T17:20:22+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "PF investiga sete pessoas por fraude tributária de R$ 56 milhões no Amazonas",
-   "updated_at": "2026-11-12T17:30:19+00:00",
+   "updated_at": "2026-11-13T04:32:08+00:00",
    "url": "https://marioadolfo.com/pf-investiga-sete-pessoas-por-fraude-tributaria-de-r-56-milhoes-no-amazonas/",
    "url_hash": "ace2cad18411472dfde35cc8"
   },
@@ -24702,8 +24752,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-13T04:20:15+00:00",
-  "saved_at": "2026-11-13T04:22:02+00:00"
+  "last_run_at": "2026-11-13T04:30:21+00:00",
+  "saved_at": "2026-11-13T04:32:08+00:00"
  },
  "schema": 1
 }
