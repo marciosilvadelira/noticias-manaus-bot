@@ -24747,13 +24747,34 @@
    "updated_at": "2026-11-12T21:00:21+00:00",
    "url": "https://marioadolfo.com/pesquisa-aponta-reducao-de-r-0-80-no-preco-da-gasolina-comum-em-novembro-em-manaus/",
    "url_hash": "eafb8397978bc95095c1ce7a"
+  },
+  "guid:6af6ecf152c09500099e2440": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Mais da metade dos registros ocorreu em outubro e novembro",
+   "discovered_at": "2026-11-13T11:00:22+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af6ecf152c09500099e2440",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/168ee2ce-87b8-435a-b953-e6e7efe9f1df.jpg",
+   "key": "guid:6af6ecf152c09500099e2440",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-13T10:59:27+00:00",
+   "status": "pending",
+   "title": "Casos de mpox ultrapassam mil em 2026 e se concentram em seis estados",
+   "updated_at": "2026-11-13T11:00:22+00:00",
+   "url": "https://marioadolfo.com/casos-de-mpox-ultrapassam-mil-em-2026-e-se-concentram-em-seis-estados/",
+   "url_hash": "43e36c91229a62cced33401f"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-13T10:50:15+00:00",
-  "saved_at": "2026-11-13T10:50:16+00:00"
+  "last_run_at": "2026-11-13T11:00:22+00:00",
+  "saved_at": "2026-11-13T11:00:22+00:00"
  },
  "schema": 1
 }
