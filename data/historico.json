@@ -25125,13 +25125,34 @@
    "updated_at": "2026-11-13T16:40:16+00:00",
    "url": "https://marioadolfo.com/fiscalizacao-por-satelite-aplica-r-53-9-milhoes-em-multas-por-desmatamento-no-am/",
    "url_hash": "24782b58676d36a53f67fab5"
+  },
+  "guid:6af73cb852c09500099e261a": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Equipes de engenharia e de Interesses Coletivos avaliaram o local a pedido dos moradores; laudo técnico será entregue em até 10 dias",
+   "discovered_at": "2026-11-13T16:50:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af73cb852c09500099e261a",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f2aa29e9-3659-4951-b92d-38c8c90ccd3f.jpeg",
+   "key": "guid:6af73cb852c09500099e261a",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-13T16:44:33+00:00",
+   "status": "pending",
+   "title": "Defensoria apura risco de desabamento de barranco perto de casas no Mauazinho",
+   "updated_at": "2026-11-13T16:50:15+00:00",
+   "url": "https://marioadolfo.com/defensoria-apura-risco-de-desabamento-de-barranco-perto-de-casas-no-mauazinho/",
+   "url_hash": "3b6a84ab8d9e2f1a02066440"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-13T16:40:15+00:00",
-  "saved_at": "2026-11-13T16:40:16+00:00"
+  "last_run_at": "2026-11-13T16:50:14+00:00",
+  "saved_at": "2026-11-13T16:50:16+00:00"
  },
  "schema": 1
 }
