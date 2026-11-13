@@ -24166,11 +24166,19 @@
    "url_hash": "eabd93016dada7bf834e3177"
   },
   "guid:6af5d9b952c09500099e21b5": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-13T04:20:22+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1538039675013590",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Senador se reuniu com o presidente e o vice-presidente do Supremo Tribunal Federal, Edson Fachin e Alexandre de Moraes, respectivamente, para debater o orçamento",
    "discovered_at": "2026-11-12T15:30:21+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1538039675013590",
    "formats": [
     "link"
    ],
@@ -24178,20 +24186,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4d952053-cc7e-4f9e-8b8d-aadb184737bb.jpeg",
    "key": "guid:6af5d9b952c09500099e21b5",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1538039675013590"
+   },
    "source_published_at": "2026-11-12T15:24:10+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Eduardo Braga defende votação do pacote fiscal do governo",
-   "updated_at": "2026-11-12T15:30:21+00:00",
+   "updated_at": "2026-11-13T04:20:22+00:00",
    "url": "https://marioadolfo.com/eduardo-braga-defende-votacao-do-pacote-fiscal-do-governo/",
    "url_hash": "a5def7dffbd065587dd70d87"
   },
   "guid:6af5da7f52c09500099e21de": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-13T04:21:13+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1538040198346871",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Campanha Back Friday coincide com pagamento do 13º salário e nova edição do Feirão Serasa Limpa Nome",
    "discovered_at": "2026-11-12T15:40:20+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1538040198346871",
    "formats": [
     "link"
    ],
@@ -24199,20 +24217,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d04074ea-255a-4242-9af8-d87e28c5a4d6.jpeg",
    "key": "guid:6af5da7f52c09500099e21de",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1538040198346871"
+   },
    "source_published_at": "2026-11-12T15:39:17+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Pesquisa aponta que 36% dos brasileiros querem aproveitar a Black Friday para negociar dívidas",
-   "updated_at": "2026-11-12T15:40:20+00:00",
+   "updated_at": "2026-11-13T04:21:13+00:00",
    "url": "https://marioadolfo.com/pesquisa-aponta-que-36-dos-brasileiros-querem-aproveitar-a-black-friday-para-negociar-dividas/",
    "url_hash": "b59739f24fc03d9cb54dfb61"
   },
   "guid:6af5dd4c52c09500099e2208": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-13T04:20:48+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1538039928346898",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "A edição de dezembro já conta com mais de 50 marcas brasileiras confirmadas",
    "discovered_at": "2026-11-12T15:40:20+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1538039928346898",
    "formats": [
     "link"
    ],
@@ -24220,20 +24248,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/1a9283c8-95fd-4d80-8eec-4980a5a2fb11.jpeg",
    "key": "guid:6af5dd4c52c09500099e2208",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1538039928346898"
+   },
    "source_published_at": "2026-11-12T15:39:08+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Última Feira D de 2026 terá 11 dias de duração",
-   "updated_at": "2026-11-12T15:40:20+00:00",
+   "updated_at": "2026-11-13T04:20:48+00:00",
    "url": "https://marioadolfo.com/ultima-feira-d-de-2026-tera-11-dias-de-duracao/",
    "url_hash": "5717d638443c9e5e5ec9f40f"
   },
   "guid:6af5ddc452c09500099e2220": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-13T04:21:39+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1538040448346846",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Justiça determinou que dinheiro do imóvel vá para empreiteira OAS",
    "discovered_at": "2026-11-12T15:50:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1538040448346846",
    "formats": [
     "link"
    ],
@@ -24241,20 +24279,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/3e2b37b9-199c-4059-adc3-0b106f880b79.webp",
    "key": "guid:6af5ddc452c09500099e2220",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1538040448346846"
+   },
    "source_published_at": "2026-11-12T15:41:17+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Lula cobra pedido de desculpas da imprensa sobre triplex em Guarujá",
-   "updated_at": "2026-11-12T15:50:17+00:00",
+   "updated_at": "2026-11-13T04:21:39+00:00",
    "url": "https://marioadolfo.com/lula-cobra-pedido-de-desculpas-da-imprensa-sobre-triplex-em-guaruja/",
    "url_hash": "38db665eaf38a6ed0a9e0a1c"
   },
   "guid:6af5de9252c09500099e223c": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-13T04:22:02+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1538040665013491",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Policiais encontraram porções de cocaína, maconha e oxi, além de dinheiro em espécie com a suspeita",
    "discovered_at": "2026-11-12T15:50:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1538040665013491",
    "formats": [
     "link"
    ],
@@ -24262,11 +24310,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/8befd972-fc50-41ca-9452-4daf17348139.jpeg",
    "key": "guid:6af5de9252c09500099e223c",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1538040665013491"
+   },
    "source_published_at": "2026-11-12T15:45:05+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Mulher é presa por tráfico de drogas em bar no bairro Compensa",
-   "updated_at": "2026-11-12T15:50:17+00:00",
+   "updated_at": "2026-11-13T04:22:02+00:00",
    "url": "https://marioadolfo.com/mulher-e-presa-por-trafico-de-drogas-no-bairro-compensa/",
    "url_hash": "8e3336948921a6021f2ba5a5"
   },
@@ -24652,8 +24702,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-13T04:10:15+00:00",
-  "saved_at": "2026-11-13T04:12:04+00:00"
+  "last_run_at": "2026-11-13T04:20:15+00:00",
+  "saved_at": "2026-11-13T04:22:02+00:00"
  },
  "schema": 1
 }
