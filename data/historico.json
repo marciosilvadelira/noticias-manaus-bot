@@ -24957,13 +24957,34 @@
    "updated_at": "2026-11-13T14:40:16+00:00",
    "url": "https://marioadolfo.com/parintins-cria-comite-para-monitorar-e-combater-queimadas/",
    "url_hash": "3e27093b3d0b7a09be6c2af7"
+  },
+  "guid:6af72bf752c09500099e253c": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Falha em parte da infraestrutura da Microsoft comprometeu o acesso ao Outlook e ao Teams",
+   "discovered_at": "2026-11-13T15:30:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af72bf752c09500099e253c",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/13eb8e4c-e30a-4a01-bf18-3e7244459f9d.jpg",
+   "key": "guid:6af72bf752c09500099e253c",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-13T15:28:09+00:00",
+   "status": "pending",
+   "title": "Instabilidade na Microsoft afeta serviços do Governo do Amazonas",
+   "updated_at": "2026-11-13T15:30:18+00:00",
+   "url": "https://marioadolfo.com/instabilidade-na-microsoft-afeta-servicos-do-governo-do-amazonas/",
+   "url_hash": "25294b73dffece60cdb5f276"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-13T15:20:16+00:00",
-  "saved_at": "2026-11-13T15:20:17+00:00"
+  "last_run_at": "2026-11-13T15:30:18+00:00",
+  "saved_at": "2026-11-13T15:30:19+00:00"
  },
  "schema": 1
 }
