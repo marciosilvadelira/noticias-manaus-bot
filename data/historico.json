@@ -24999,13 +24999,34 @@
    "updated_at": "2026-11-13T15:40:17+00:00",
    "url": "https://marioadolfo.com/bemol-resgata-nostalgia-das-cabines-de-musica-na-exposicao-dos-35-anos-do-amazonas-shopping-2/",
    "url_hash": "02394e63bb34e59f7224d13d"
+  },
+  "guid:6af72f4f52c09500099e2582": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Decisão reforça o caráter educativo da Justiça Eleitoral ao estabelecer critérios proporcionais para a responsabilização de candidatos por propaganda irregular",
+   "discovered_at": "2026-11-13T15:50:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af72f4f52c09500099e2582",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/11eab524-8176-4584-a24d-675418e3244d.jpeg",
+   "key": "guid:6af72f4f52c09500099e2582",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-13T15:41:08+00:00",
+   "status": "pending",
+   "title": "TRE-AM reafirma ilegalidade do derrame de santinhos e individualiza multas conforme provas da infração",
+   "updated_at": "2026-11-13T15:50:16+00:00",
+   "url": "https://marioadolfo.com/tre-am-reafirma-ilegalidade-do-derrame-de-santinhos-e-individualiza-multas-conforme-provas-da-infracao/",
+   "url_hash": "59c969e04a49298924450f13"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-13T15:40:16+00:00",
-  "saved_at": "2026-11-13T15:40:17+00:00"
+  "last_run_at": "2026-11-13T15:50:15+00:00",
+  "saved_at": "2026-11-13T15:50:16+00:00"
  },
  "schema": 1
 }
