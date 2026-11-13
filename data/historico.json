@@ -25272,13 +25272,34 @@
    "updated_at": "2026-11-13T18:10:15+00:00",
    "url": "https://marioadolfo.com/lideres-de-organizacao-criminosa-do-para-sao-presos-em-manaus/",
    "url_hash": "e7e2622d2c0964413a56e46a"
+  },
+  "guid:6af754d352c09500099e26c0": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Decisão aponta alinhamento de preços da gasolina comum em maio de 2023; indenização será destinada ao Fundo Estadual de Defesa do Consumidor",
+   "discovered_at": "2026-11-13T18:30:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af754d352c09500099e26c0",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0c76b165-82df-4e63-a2b3-5bceb1c0ce4e.jpg",
+   "key": "guid:6af754d352c09500099e26c0",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-13T18:22:02+00:00",
+   "status": "pending",
+   "title": "Posto de gasolina de Manaus é condenado a pagar R$ 259 mil por cartel",
+   "updated_at": "2026-11-13T18:30:19+00:00",
+   "url": "https://marioadolfo.com/posto-de-gasolina-de-manaus-e-condenado-a-pagar-r-259-mil-por-cartel/",
+   "url_hash": "f79630b87863ee532817ae81"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-13T18:20:16+00:00",
-  "saved_at": "2026-11-13T18:20:18+00:00"
+  "last_run_at": "2026-11-13T18:30:18+00:00",
+  "saved_at": "2026-11-13T18:30:20+00:00"
  },
  "schema": 1
 }
