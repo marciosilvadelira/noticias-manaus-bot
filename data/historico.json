@@ -24634,12 +24634,12 @@
    "guid": "6af615f152c09500099e2384",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b75c628e-74ad-4862-b4a2-34589d69f45e.jpeg",
    "key": "guid:6af615f152c09500099e2384",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-12T19:42:22+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Obras da primeira rua gastronômica de Manaus chegam a 60% de execução",
-   "updated_at": "2026-11-12T19:50:17+00:00",
+   "updated_at": "2026-11-13T19:50:16+00:00",
    "url": "https://marioadolfo.com/obras-da-primeira-rua-gastronomica-de-manaus-chegam-a-60-de-execucao/",
    "url_hash": "ccb621bda0821e3788e0310e"
   },
@@ -24676,12 +24676,12 @@
    "guid": "6af6178c52c09500099e23b0",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/8471c324-0d7a-4e17-988d-ba4f4bbb59c0.png",
    "key": "guid:6af6178c52c09500099e23b0",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-12T19:50:08+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Terceiro suspeito de estupro coletivo e tentativa de feminicídio de jovem é preso",
-   "updated_at": "2026-11-12T19:50:17+00:00",
+   "updated_at": "2026-11-13T19:50:16+00:00",
    "url": "https://marioadolfo.com/terceiro-suspeito-de-participar-de-estupro-coletivo-e-tentativa-de-feminicidio/",
    "url_hash": "20e5a66303acd973b13a7111"
   },
@@ -25403,8 +25403,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-13T19:40:15+00:00",
-  "saved_at": "2026-11-13T19:40:16+00:00"
+  "last_run_at": "2026-11-13T19:50:16+00:00",
+  "saved_at": "2026-11-13T19:50:17+00:00"
  },
  "schema": 1
 }
