@@ -25380,12 +25380,12 @@
    "guid": "6af74f1f52c09500099e264e",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2bd7bb1d-7247-4f0c-bde4-bbe994b23d14.jpeg",
    "key": "guid:6af74f1f52c09500099e264e",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-13T17:57:11+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Construnorte 2026 inicia com inovação e novas tecnologias para o setor construtivo",
-   "updated_at": "2026-11-13T18:00:20+00:00",
+   "updated_at": "2026-11-14T18:00:28+00:00",
    "url": "https://marioadolfo.com/construnorte-2026-inicia-com-inovacao-e-novas-tecnologias-para-o-setor-construtivo/",
    "url_hash": "0ee84961c1334390037cc783"
   },
@@ -25422,12 +25422,12 @@
    "guid": "6af74f9352c09500099e266d",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b0898255-120b-4453-951c-e39b6a397404.jpg",
    "key": "guid:6af74f9352c09500099e266d",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-13T17:59:09+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Prefeitura de Manaus finaliza participação de mais de 66 mil estudantes no Sadeam",
-   "updated_at": "2026-11-13T18:00:20+00:00",
+   "updated_at": "2026-11-14T18:00:28+00:00",
    "url": "https://marioadolfo.com/prefeitura-de-manaus-finaliza-participacao-de-mais-de-66-mil-estudantes-no-sadeam/",
    "url_hash": "f24d36883b7e9eec1f2669f9"
   },
@@ -25960,8 +25960,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-14T17:50:15+00:00",
-  "saved_at": "2026-11-14T17:50:25+00:00"
+  "last_run_at": "2026-11-14T18:00:26+00:00",
+  "saved_at": "2026-11-14T18:00:28+00:00"
  },
  "schema": 1
 }
