@@ -25662,6 +25662,27 @@
    "url": "https://marioadolfo.com/safra-de-graos-do-am-deve-alcancar-71-8-mil-toneladas-em-2026-aponta-ibge/",
    "url_hash": "5f0f4ddd4bd715b82f8a3433"
   },
+  "guid:6af76d1352c09500099e27a1": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Serão 5 horas para questões de matemática e ciências da natureza",
+   "discovered_at": "2026-11-14T16:10:20+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af76d1352c09500099e27a1",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/8ea3fe18-033e-43a7-9936-cd66279c09f7.webp",
+   "key": "guid:6af76d1352c09500099e27a1",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-14T16:00:35+00:00",
+   "status": "pending",
+   "title": "Enem 2026: confira regras e horários para o 2º dia de provas",
+   "updated_at": "2026-11-14T16:10:20+00:00",
+   "url": "https://marioadolfo.com/enem-2026-confira-regras-e-horarios-para-o-2o-dia-de-provas/",
+   "url_hash": "ec600bfa2bf7bb6f444411fa"
+  },
   "guid:6af851e652c09500099e27b9": {
    "attempts": [],
    "category": "Amazonas",
@@ -25897,8 +25918,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-14T16:00:20+00:00",
-  "saved_at": "2026-11-14T16:00:22+00:00"
+  "last_run_at": "2026-11-14T16:10:19+00:00",
+  "saved_at": "2026-11-14T16:10:20+00:00"
  },
  "schema": 1
 }
