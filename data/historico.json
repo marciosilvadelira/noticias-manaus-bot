@@ -25745,13 +25745,55 @@
    "updated_at": "2026-11-14T12:30:18+00:00",
    "url": "https://marioadolfo.com/stf-tem-4-votos-para-manter-inicio-da-escala-5x2-em-dezembro/",
    "url_hash": "041b77287dc6ed1d5bf527d9"
+  },
+  "guid:6af8549252c09500099e2822": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Instituição entende que Município não apresentou objeção à proposta construída em audiência de conciliação e aguarda decisão judicial sobre a retomada das recargas",
+   "discovered_at": "2026-11-14T12:40:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af8549252c09500099e2822",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d33027db-6593-4ae8-86af-3d3f5f113eda.jpeg",
+   "key": "guid:6af8549252c09500099e2822",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-14T12:34:06+00:00",
+   "status": "pending",
+   "title": "Defensoria cobra da Justiça restabelecimento imediato do Passe Livre Estudantil",
+   "updated_at": "2026-11-14T12:40:16+00:00",
+   "url": "https://marioadolfo.com/defensoria-cobra-da-justica-restabelecimento-imediato-do-passe-livre-estudantil/",
+   "url_hash": "8f142e2f360ba796ba063694"
+  },
+  "guid:6af8557b52c09500099e2842": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "O sistema será reaberto na próxima segunda-feira, 16/11, das 8h às 14h, para a entrega dos comprovantes",
+   "discovered_at": "2026-11-14T12:40:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af8557b52c09500099e2842",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0f5722cf-1b79-4b17-9c11-bee0bd14892e.png",
+   "key": "guid:6af8557b52c09500099e2842",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-14T12:36:32+00:00",
+   "status": "pending",
+   "title": "Prefeitura de Manaus prorroga prazo de entrega de documentos do Bolsa Universidade 2027",
+   "updated_at": "2026-11-14T12:40:16+00:00",
+   "url": "https://marioadolfo.com/prefeitura-de-manaus-prorroga-prazo-de-entrega-de-documentos-do-bolsa-universidade-2027/",
+   "url_hash": "5e4f426b80bd753e71c10b41"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-14T12:30:16+00:00",
-  "saved_at": "2026-11-14T12:30:19+00:00"
+  "last_run_at": "2026-11-14T12:40:15+00:00",
+  "saved_at": "2026-11-14T12:40:17+00:00"
  },
  "schema": 1
 }
