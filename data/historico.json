@@ -25913,13 +25913,34 @@
    "updated_at": "2026-11-14T14:30:20+00:00",
    "url": "https://marioadolfo.com/defensorias-do-am-e-da-uniao-pedem-embargo-de-dragagem-no-careiro-da-varzea/",
    "url_hash": "5b7230bcad29d19bde778585"
+  },
+  "guid:6af88b2552c09500099e28e1": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Arte contemporânea amazonense ganha espaço em mostra que encerra celebração da Galeria do Largo",
+   "discovered_at": "2026-11-14T16:30:20+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af88b2552c09500099e28e1",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/3bdcb95e-bacb-410a-a27e-b9d6ffbb4411.jpeg",
+   "key": "guid:6af88b2552c09500099e28e1",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-14T16:25:05+00:00",
+   "status": "pending",
+   "title": "Exposição reúne diferentes linguagens artísticas e celebra trajetória da Galeria do Largo",
+   "updated_at": "2026-11-14T16:30:20+00:00",
+   "url": "https://marioadolfo.com/exposicao-reune-diferentes-linguagens-artisticas-e-celebra-trajetoria-da-galeria-do-largo/",
+   "url_hash": "22db87ac3b717511cfe7be71"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-14T16:20:15+00:00",
-  "saved_at": "2026-11-14T16:20:16+00:00"
+  "last_run_at": "2026-11-14T16:30:19+00:00",
+  "saved_at": "2026-11-14T16:30:21+00:00"
  },
  "schema": 1
 }
