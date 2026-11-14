@@ -24904,11 +24904,19 @@
    "url_hash": "86c4496df36d748d8f44f4c4"
   },
   "guid:6af7029252c09500099e24a8": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-14T04:10:22+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1539239741560250",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Dito & Feito",
    "description": "Justiça determina devolução de R$ 2,4 milhões à OAS referentes ao tríplex atribuído a Lula na Lava Jato",
    "discovered_at": "2026-11-13T12:40:19+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1539239741560250",
    "formats": [
     "link"
    ],
@@ -24916,20 +24924,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6147aea9-4f6a-492c-ad31-28c2e208ea14.jpeg",
    "key": "guid:6af7029252c09500099e24a8",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1539239741560250"
+   },
    "source_published_at": "2026-11-13T12:34:52+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Dito & Feito: E AGORA, COMO FICA A CARA PAU DE SÉRGIO MORO?",
-   "updated_at": "2026-11-13T12:40:19+00:00",
+   "updated_at": "2026-11-14T04:10:22+00:00",
    "url": "https://marioadolfo.com/dito-feito-e-agora-como-fica-a-cara-pau-de-sergio-moro/",
    "url_hash": "87b5cf03ba7ace1969a70a11"
   },
   "guid:6af70b6e52c09500099e24d9": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-14T04:10:47+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1539240184893539",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Consolidação dos dados de 2024 mostra que o Estado ficou com o 4º maior crescimento entre as unidades da Federação",
    "discovered_at": "2026-11-13T13:10:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1539240184893539",
    "formats": [
     "link"
    ],
@@ -24937,20 +24955,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e87bc1d7-c923-426f-be98-aec4454737e8.jpeg",
    "key": "guid:6af70b6e52c09500099e24d9",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1539240184893539"
+   },
    "source_published_at": "2026-11-13T13:10:05+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "PIB do Amazonas cresce acima da média nacional",
-   "updated_at": "2026-11-13T13:10:16+00:00",
+   "updated_at": "2026-11-14T04:10:47+00:00",
    "url": "https://marioadolfo.com/pib-do-amazonas-cresce-acima-da-media-nacional-2/",
    "url_hash": "2484d805f52c993313b16126"
   },
   "guid:6af7129f52c09500099e24f5": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-14T04:11:11+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1539240471560177",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Tribunal reconheceu danos morais coletivos e estabeleceu pagamento de 50 mil",
    "discovered_at": "2026-11-13T14:10:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1539240471560177",
    "formats": [
     "link"
    ],
@@ -24958,20 +24986,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/146a729d-0256-45d3-b5d8-d64d94cbae16.png",
    "key": "guid:6af7129f52c09500099e24f5",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1539240471560177"
+   },
    "source_published_at": "2026-11-13T14:07:22+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "TRF1 mantém indenização ao povo Mura por demora na demarcação de terra indígena",
-   "updated_at": "2026-11-13T14:10:17+00:00",
+   "updated_at": "2026-11-14T04:11:11+00:00",
    "url": "https://marioadolfo.com/trf1-mantem-indenizacao-ao-povo-mura-por-demora-na-demarcacao-de-terra-indigena/",
    "url_hash": "d48aeb6b429a0a1a457bcc5d"
   },
   "guid:6af719a452c09500099e2508": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-14T04:11:37+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1539240741560150",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Crime ocorreu na manhã desta sexta-feira (13), na avenida Professor Nilton Lins, no Parque das Laranjeiras; vítima ainda não foi identificada",
    "discovered_at": "2026-11-13T14:20:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1539240741560150",
    "formats": [
     "link"
    ],
@@ -24979,20 +25017,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4b517049-6bad-4110-bd03-5d1ae620040c.jpg",
    "key": "guid:6af719a452c09500099e2508",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1539240741560150"
+   },
    "source_published_at": "2026-11-13T14:11:27+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Homem em situação de rua é morto a facadas após discussão em avenida de Manaus",
-   "updated_at": "2026-11-13T14:20:17+00:00",
+   "updated_at": "2026-11-14T04:11:37+00:00",
    "url": "https://marioadolfo.com/homem-em-situacao-de-rua-e-morto-a-facadas-apos-discussao-em-avenida-de-manaus/",
    "url_hash": "1db797e26f31aa6d369d74cc"
   },
   "guid:6af71f5052c09500099e251f": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-14T04:12:04+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1539240978226793",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Parintins",
    "description": "Decreto estabelece grupo permanente de articulação entre Prefeitura, Defesa Civil, Bombeiros e Ipaam para acompanhar incêndios e os efeitos da fumaça",
    "discovered_at": "2026-11-13T14:40:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1539240978226793",
    "formats": [
     "link"
    ],
@@ -25000,11 +25048,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/454d767f-96ff-42ae-8b2b-0b7a159fb1b5.jpeg",
    "key": "guid:6af71f5052c09500099e251f",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1539240978226793"
+   },
    "source_published_at": "2026-11-13T14:35:20+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Parintins cria comitê para monitorar e combater queimadas",
-   "updated_at": "2026-11-13T14:40:16+00:00",
+   "updated_at": "2026-11-14T04:12:04+00:00",
    "url": "https://marioadolfo.com/parintins-cria-comite-para-monitorar-e-combater-queimadas/",
    "url_hash": "3e27093b3d0b7a09be6c2af7"
   },
@@ -25474,8 +25524,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-14T04:00:18+00:00",
-  "saved_at": "2026-11-14T04:02:08+00:00"
+  "last_run_at": "2026-11-14T04:10:15+00:00",
+  "saved_at": "2026-11-14T04:12:04+00:00"
  },
  "schema": 1
 }
