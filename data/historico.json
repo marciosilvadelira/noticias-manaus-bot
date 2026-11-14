@@ -25661,13 +25661,97 @@
    "updated_at": "2026-11-13T20:10:17+00:00",
    "url": "https://marioadolfo.com/safra-de-graos-do-am-deve-alcancar-71-8-mil-toneladas-em-2026-aponta-ibge/",
    "url_hash": "5f0f4ddd4bd715b82f8a3433"
+  },
+  "guid:6af851e652c09500099e27b9": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Serviços estão previstos para 61,6 quilômetros da rodovia, entre o início da ponte sobre o rio Araçá e o início da ponte sobre o rio Castanho, do quilômetro 52,6 ao 114,2",
+   "discovered_at": "2026-11-14T12:30:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af851e652c09500099e27b9",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/14c53dcb-fbdd-41ca-aa03-dd275e8cc7ef.jpeg",
+   "key": "guid:6af851e652c09500099e27b9",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-14T12:23:28+00:00",
+   "status": "pending",
+   "title": "Dnit lança licitação para serviços de manutenção de trechos da BR-319",
+   "updated_at": "2026-11-14T12:30:18+00:00",
+   "url": "https://marioadolfo.com/dnit-lanca-licitacao-para-servicos-de-manutencao-de-trechos-da-br-319/",
+   "url_hash": "bd56e4d1b664aeb89a6b05e9"
+  },
+  "guid:6af8533852c09500099e27df": {
+   "attempts": [],
+   "category": "Esportes",
+   "description": "Serão comercializados pacotes, com entradas a partir de R$30",
+   "discovered_at": "2026-11-14T12:30:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af8533852c09500099e27df",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5e2dd597-c53c-4d15-8868-801ce372dd74.webp",
+   "key": "guid:6af8533852c09500099e27df",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-14T12:26:53+00:00",
+   "status": "pending",
+   "title": "Fifa abre venda de ingressos para Copa Feminina 2027 em 1º de dezembro",
+   "updated_at": "2026-11-14T12:30:18+00:00",
+   "url": "https://marioadolfo.com/fifa-abre-venda-de-ingressos-para-copa-feminina-2027-em-1o-de-dezembro/",
+   "url_hash": "337d29181a0079542060d5ee"
+  },
+  "guid:6af853b352c09500099e27f4": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Declaração rebate fala de ex-juiz sobre a anulação do caso do triplex",
+   "discovered_at": "2026-11-14T12:30:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af853b352c09500099e27f4",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/34c37a43-6bf9-4d3b-9903-6dcc48c99ef2.webp",
+   "key": "guid:6af853b352c09500099e27f4",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-14T12:28:28+00:00",
+   "status": "pending",
+   "title": "Gilmar diz que Moro agiu para impedir candidatura de Lula em 2018",
+   "updated_at": "2026-11-14T12:30:18+00:00",
+   "url": "https://marioadolfo.com/gilmar-diz-que-moro-agiu-para-impedir-candidatura-de-lula-em-2018/",
+   "url_hash": "6981733de005395ce776c6c9"
+  },
+  "guid:6af8540652c09500099e2809": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Liminar autoriza flexibilização da jornada durante transição",
+   "discovered_at": "2026-11-14T12:30:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af8540652c09500099e2809",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/86ef8eb2-d83f-4496-8fc3-3d7f88351eb2.webp",
+   "key": "guid:6af8540652c09500099e2809",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-14T12:30:04+00:00",
+   "status": "pending",
+   "title": "STF tem 4 votos para manter início da escala 5x2 em dezembro",
+   "updated_at": "2026-11-14T12:30:18+00:00",
+   "url": "https://marioadolfo.com/stf-tem-4-votos-para-manter-inicio-da-escala-5x2-em-dezembro/",
+   "url_hash": "041b77287dc6ed1d5bf527d9"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-14T12:20:14+00:00",
-  "saved_at": "2026-11-14T12:20:15+00:00"
+  "last_run_at": "2026-11-14T12:30:16+00:00",
+  "saved_at": "2026-11-14T12:30:19+00:00"
  },
  "schema": 1
 }
