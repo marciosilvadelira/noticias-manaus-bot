@@ -24749,11 +24749,19 @@
    "url_hash": "eafb8397978bc95095c1ce7a"
   },
   "guid:6af6714852c09500099e241f": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-14T04:00:53+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1539232988227592",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Proposta altera o arcabouço fiscal e estabelece novas regras para compensações da Lei Kandir",
    "discovered_at": "2026-11-13T11:10:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1539232988227592",
    "formats": [
     "link"
    ],
@@ -24761,20 +24769,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4bcf8e13-ac06-4c79-bfc9-f4d0a8b5591d.jpg",
    "key": "guid:6af6714852c09500099e241f",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1539232988227592"
+   },
    "source_published_at": "2026-11-13T11:06:04+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Senado aprova texto-base do projeto de ajuste fiscal, relatado por Eduardo Braga",
-   "updated_at": "2026-11-13T11:10:16+00:00",
+   "updated_at": "2026-11-14T04:00:53+00:00",
    "url": "https://marioadolfo.com/senado-aprova-texto-base-do-projeto-de-ajuste-fiscal-relatado-por-eduardo-braga/",
    "url_hash": "f4ac4d2bd05ede2f4b3faa25"
   },
   "guid:6af6ecf152c09500099e2440": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-14T04:00:27+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1539232774894280",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Mais da metade dos registros ocorreu em outubro e novembro",
    "discovered_at": "2026-11-13T11:00:22+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1539232774894280",
    "formats": [
     "link"
    ],
@@ -24782,20 +24800,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/168ee2ce-87b8-435a-b953-e6e7efe9f1df.jpg",
    "key": "guid:6af6ecf152c09500099e2440",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1539232774894280"
+   },
    "source_published_at": "2026-11-13T10:59:27+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Casos de mpox ultrapassam mil em 2026 e se concentram em seis estados",
-   "updated_at": "2026-11-13T11:00:22+00:00",
+   "updated_at": "2026-11-14T04:00:27+00:00",
    "url": "https://marioadolfo.com/casos-de-mpox-ultrapassam-mil-em-2026-e-se-concentram-em-seis-estados/",
    "url_hash": "43e36c91229a62cced33401f"
   },
   "guid:6af6efa152c09500099e2463": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-14T04:01:20+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1539233871560837",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Defesa alega falta de acesso à investigação",
    "discovered_at": "2026-11-13T11:10:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1539233871560837",
    "formats": [
     "link"
    ],
@@ -24803,20 +24831,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c01a4270-1606-4082-be20-cf641b394d84.jpeg",
    "key": "guid:6af6efa152c09500099e2463",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1539233871560837"
+   },
    "source_published_at": "2026-11-13T11:09:58+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "PGR é contra revisar condenação de Jair Bolsonaro",
-   "updated_at": "2026-11-13T11:10:16+00:00",
+   "updated_at": "2026-11-14T04:01:20+00:00",
    "url": "https://marioadolfo.com/pgr-e-contra-revisar-condenacao-de-jair-bolsonaro/",
    "url_hash": "9f26b4ef0a3595ed7b218ec8"
   },
   "guid:6af6f18652c09500099e2478": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-14T04:01:44+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1539234368227454",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Trabalhadores não terão o dia de greve descontado do salário nem sofrerão punições; sindicatos pediram encerramento do processo",
    "discovered_at": "2026-11-13T11:20:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1539234368227454",
    "formats": [
     "link"
    ],
@@ -24824,20 +24862,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/50507222-d444-4f55-bec3-6efb03e1f7a1.jpg",
    "key": "guid:6af6f18652c09500099e2478",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1539234368227454"
+   },
    "source_published_at": "2026-11-13T11:17:19+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Rodoviários e empresas fecham acordo após paralisação de ônibus em Manaus",
-   "updated_at": "2026-11-13T11:20:16+00:00",
+   "updated_at": "2026-11-14T04:01:44+00:00",
    "url": "https://marioadolfo.com/rodoviarios-e-empresas-fecham-acordo-apos-paralisacao-de-onibus-em-manaus/",
    "url_hash": "bc87a17123ed655e2ac47d19"
   },
   "guid:6af7002f52c09500099e2490": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-14T04:02:08+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1539234581560766",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Veículo conduzido por Richard Pontes saiu da pista e atingiu uma árvore na Avenida das Torres, na zona Centro-Sul.",
    "discovered_at": "2026-11-13T12:20:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1539234581560766",
    "formats": [
     "link"
    ],
@@ -24845,11 +24893,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/9d0a37b8-b829-4ef2-89bf-bf9fd2db7495.jpg",
    "key": "guid:6af7002f52c09500099e2490",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1539234581560766"
+   },
    "source_published_at": "2026-11-13T12:20:17+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Vídeo: filho de secretário estadual morre em acidente de trânsito em Manaus",
-   "updated_at": "2026-11-13T12:20:18+00:00",
+   "updated_at": "2026-11-14T04:02:08+00:00",
    "url": "https://marioadolfo.com/video-filho-de-secretario-estadual-morre-em-acidente-de-transito-em-manaus/",
    "url_hash": "86c4496df36d748d8f44f4c4"
   },
@@ -25424,8 +25474,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-14T03:50:18+00:00",
-  "saved_at": "2026-11-14T03:50:19+00:00"
+  "last_run_at": "2026-11-14T04:00:18+00:00",
+  "saved_at": "2026-11-14T04:02:08+00:00"
  },
  "schema": 1
 }
