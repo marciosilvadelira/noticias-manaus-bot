@@ -25850,13 +25850,55 @@
    "updated_at": "2026-11-14T13:00:24+00:00",
    "url": "https://marioadolfo.com/feira-do-pirarucu-vende-o-quilo-do-pesa-partir-de-r-8-neste-sabado/",
    "url_hash": "f785d6e84f5af42bfa79153a"
+  },
+  "guid:6af86eca52c09500099e28af": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A proposta é analisar as questões relacionadas ao acesso ao transporte público e avaliar a possibilidade de ajuizamento de uma ação civil pública na Justiça Federal",
+   "discovered_at": "2026-11-14T14:30:20+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af86eca52c09500099e28af",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2e74689f-2811-418a-81a2-d5d8083aba41.jpeg",
+   "key": "guid:6af86eca52c09500099e28af",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-14T14:24:12+00:00",
+   "status": "pending",
+   "title": "Presidente da OAB Amazonas solicita estudo sobre transporte de estudantes",
+   "updated_at": "2026-11-14T14:30:20+00:00",
+   "url": "https://marioadolfo.com/presidente-da-oab-amazonas-solicita-estudo-sobre-transporte-de-estudantes/",
+   "url_hash": "774277883524000b41071891"
+  },
+  "guid:6af86f4252c09500099e28c3": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Ipaam atestou que a intervenção emergencial do DNIT não tem licença ambiental específica",
+   "discovered_at": "2026-11-14T14:30:20+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af86f4252c09500099e28c3",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4e0d32e7-f81b-48c4-bf33-b3cdb2da3985.jpeg",
+   "key": "guid:6af86f4252c09500099e28c3",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-14T14:26:30+00:00",
+   "status": "pending",
+   "title": "Defensorias do AM e da União pedem embargo de dragagem no Careiro da Várzea",
+   "updated_at": "2026-11-14T14:30:20+00:00",
+   "url": "https://marioadolfo.com/defensorias-do-am-e-da-uniao-pedem-embargo-de-dragagem-no-careiro-da-varzea/",
+   "url_hash": "5b7230bcad29d19bde778585"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-14T14:20:14+00:00",
-  "saved_at": "2026-11-14T14:20:18+00:00"
+  "last_run_at": "2026-11-14T14:30:18+00:00",
+  "saved_at": "2026-11-14T14:30:21+00:00"
  },
  "schema": 1
 }
