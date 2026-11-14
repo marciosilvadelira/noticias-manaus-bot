@@ -25808,13 +25808,55 @@
    "updated_at": "2026-11-14T12:50:17+00:00",
    "url": "https://marioadolfo.com/caminhao-usado-em-furto-no-centro-de-manaus-e-encontrado-abandonado/",
    "url_hash": "941253db654ba2be00e55512"
+  },
+  "guid:6af8586552c09500099e2871": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Segundo a polícia, o simulacro de arma de fogo era utilizado para intimidar pessoas na zona sul de Manaus",
+   "discovered_at": "2026-11-14T13:00:24+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af8586552c09500099e2871",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/93126a85-5c2d-49fa-87a8-909387423d8f.jpeg",
+   "key": "guid:6af8586552c09500099e2871",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-14T12:51:20+00:00",
+   "status": "pending",
+   "title": "Dupla é presa com drogas e arma falsa fabricada em impressora 3D",
+   "updated_at": "2026-11-14T13:00:24+00:00",
+   "url": "https://marioadolfo.com/dupla-e-presa-com-drogas-e-arma-falsa-fabricada-em-impressora-3d/",
+   "url_hash": "24e286dfd0222879e57bee2e"
+  },
+  "guid:6af859d952c09500099e2891": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Evento acontece sede da Fundação Amazônia Sustentável (FAS) com diferentes cortes e preços acessíveis",
+   "discovered_at": "2026-11-14T13:00:24+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af859d952c09500099e2891",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/bccd1e36-9e17-4a23-98ba-e4e8ccf04f31.png",
+   "key": "guid:6af859d952c09500099e2891",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-14T12:55:33+00:00",
+   "status": "pending",
+   "title": "Feira do Pirarucu vende o quilo do pescado a partir de R$ 8 neste sábado",
+   "updated_at": "2026-11-14T13:00:24+00:00",
+   "url": "https://marioadolfo.com/feira-do-pirarucu-vende-o-quilo-do-pesa-partir-de-r-8-neste-sabado/",
+   "url_hash": "f785d6e84f5af42bfa79153a"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-14T12:50:16+00:00",
-  "saved_at": "2026-11-14T12:50:18+00:00"
+  "last_run_at": "2026-11-14T13:00:21+00:00",
+  "saved_at": "2026-11-14T13:00:25+00:00"
  },
  "schema": 1
 }
