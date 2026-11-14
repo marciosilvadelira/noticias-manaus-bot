@@ -25536,6 +25536,27 @@
    "url": "https://marioadolfo.com/motorista-de-app-e-preso-por-por-roubo-durante-corrida-na-zona-oeste-de-manaus/",
    "url_hash": "506bf5bd11fcf32527914235"
   },
+  "guid:6af75c0552c09500099e2700": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Unidades móveis oferecem consultas e exames cardiológicos, mamografia e ultrassonografia",
+   "discovered_at": "2026-11-14T12:00:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af75c0552c09500099e2700",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c7f5c91e-0b3f-4fc5-9f5f-daf987bc5da6.jpeg",
+   "key": "guid:6af75c0552c09500099e2700",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-14T12:00:10+00:00",
+   "status": "pending",
+   "title": "Carretas da Saúde e do Coração iniciam atendimentos em Novo Airão na segunda",
+   "updated_at": "2026-11-14T12:00:21+00:00",
+   "url": "https://marioadolfo.com/carretas-da-saude-e-do-coracao-iniciam-atendimentos-em-novo-airao-na-segunda/",
+   "url_hash": "21ea3692071ac236e62b6505"
+  },
   "guid:6af75f0d52c09500099e2732": {
    "attempts": [],
    "category": "Amazonas",
@@ -25624,8 +25645,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-14T11:50:15+00:00",
-  "saved_at": "2026-11-14T11:50:17+00:00"
+  "last_run_at": "2026-11-14T12:00:20+00:00",
+  "saved_at": "2026-11-14T12:00:21+00:00"
  },
  "schema": 1
 }
