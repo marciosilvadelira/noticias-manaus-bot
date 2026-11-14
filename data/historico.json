@@ -25059,11 +25059,19 @@
    "url_hash": "3e27093b3d0b7a09be6c2af7"
   },
   "guid:6af72bf752c09500099e253c": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-14T04:20:31+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1539246201559604",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Falha em parte da infraestrutura da Microsoft comprometeu o acesso ao Outlook e ao Teams",
    "discovered_at": "2026-11-13T15:30:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1539246201559604",
    "formats": [
     "link"
    ],
@@ -25071,20 +25079,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/13eb8e4c-e30a-4a01-bf18-3e7244459f9d.jpg",
    "key": "guid:6af72bf752c09500099e253c",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1539246201559604"
+   },
    "source_published_at": "2026-11-13T15:28:09+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Instabilidade na Microsoft afeta serviços do Governo do Amazonas",
-   "updated_at": "2026-11-13T15:30:18+00:00",
+   "updated_at": "2026-11-14T04:20:31+00:00",
    "url": "https://marioadolfo.com/instabilidade-na-microsoft-afeta-servicos-do-governo-do-amazonas/",
    "url_hash": "25294b73dffece60cdb5f276"
   },
   "guid:6af72eaa52c09500099e2558": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-14T04:20:58+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1539246548226236",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Varejista participa da exposição “Amazonas Além do Tempo”, que está aberta até o dia 30 de novembro",
    "discovered_at": "2026-11-13T15:40:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1539246548226236",
    "formats": [
     "link"
    ],
@@ -25092,20 +25110,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d94ea8f7-c06b-49cc-902f-8336a93fd19f.jpeg",
    "key": "guid:6af72eaa52c09500099e2558",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1539246548226236"
+   },
    "source_published_at": "2026-11-13T15:38:37+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Bemol resgata nostalgia das Cabines de Música na exposição dos 35 anos do Amazonas Shopping",
-   "updated_at": "2026-11-13T15:40:17+00:00",
+   "updated_at": "2026-11-14T04:20:58+00:00",
    "url": "https://marioadolfo.com/bemol-resgata-nostalgia-das-cabines-de-musica-na-exposicao-dos-35-anos-do-amazonas-shopping-2/",
    "url_hash": "02394e63bb34e59f7224d13d"
   },
   "guid:6af72f4f52c09500099e2582": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-14T04:21:24+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1539246888226202",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Decisão reforça o caráter educativo da Justiça Eleitoral ao estabelecer critérios proporcionais para a responsabilização de candidatos por propaganda irregular",
    "discovered_at": "2026-11-13T15:50:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1539246888226202",
    "formats": [
     "link"
    ],
@@ -25113,20 +25141,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/11eab524-8176-4584-a24d-675418e3244d.jpeg",
    "key": "guid:6af72f4f52c09500099e2582",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1539246888226202"
+   },
    "source_published_at": "2026-11-13T15:41:08+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "TRE-AM reafirma ilegalidade do derrame de santinhos e individualiza multas conforme provas da infração",
-   "updated_at": "2026-11-13T15:50:16+00:00",
+   "updated_at": "2026-11-14T04:21:24+00:00",
    "url": "https://marioadolfo.com/tre-am-reafirma-ilegalidade-do-derrame-de-santinhos-e-individualiza-multas-conforme-provas-da-infracao/",
    "url_hash": "59c969e04a49298924450f13"
   },
   "guid:6af7313e52c09500099e2599": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-14T04:21:49+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1539247184892839",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Policiais apreenderam com ele sete garrafas de gin da marca Tanqueray London Dry, além de diversos frascos de hidratantes e shampoos",
    "discovered_at": "2026-11-13T16:00:23+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1539247184892839",
    "formats": [
     "link"
    ],
@@ -25134,20 +25172,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ab5ee802-f487-4830-85c7-178e0c69c534.jpeg",
    "key": "guid:6af7313e52c09500099e2599",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1539247184892839"
+   },
    "source_published_at": "2026-11-13T15:53:11+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Suspeito de furtar garrafas de gin, hidratantes e shampoo é preso em Manaus",
-   "updated_at": "2026-11-13T16:00:23+00:00",
+   "updated_at": "2026-11-14T04:21:49+00:00",
    "url": "https://marioadolfo.com/suspeito-de-furtar-garrafas-de-gin-hidratantes-e-shampoo-e-preso-em-manaus/",
    "url_hash": "7771c72331dd108aa500b82d"
   },
   "guid:6af732ab52c09500099e25b5": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-14T04:22:14+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1539247641559460",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Alessandra Campelo conversou com servidores e usuários da Cema, na Praça 14. Informações vão subsidiar o planejamento dos primeiros dias da nova gestão",
    "discovered_at": "2026-11-13T16:00:23+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1539247641559460",
    "formats": [
     "link"
    ],
@@ -25155,11 +25203,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ec3683b1-29ac-446c-8034-b364f10ef141.jpeg",
    "key": "guid:6af732ab52c09500099e25b5",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1539247641559460"
+   },
    "source_published_at": "2026-11-13T15:57:33+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Comissão de Transição acompanha de perto trabalho da Central de Medicamentos do Amazonas",
-   "updated_at": "2026-11-13T16:00:23+00:00",
+   "updated_at": "2026-11-14T04:22:14+00:00",
    "url": "https://marioadolfo.com/comissao-de-transicao-acompanha-de-perto-trabalho-da-central-de-medicamentos-do-amazonas/",
    "url_hash": "a80562d7370678657158d80a"
   },
@@ -25524,8 +25574,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-14T04:10:15+00:00",
-  "saved_at": "2026-11-14T04:12:04+00:00"
+  "last_run_at": "2026-11-14T04:20:25+00:00",
+  "saved_at": "2026-11-14T04:22:14+00:00"
  },
  "schema": 1
 }
