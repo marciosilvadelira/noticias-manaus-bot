@@ -25976,13 +25976,34 @@
    "updated_at": "2026-11-14T19:20:14+00:00",
    "url": "https://marioadolfo.com/amazonas-atinge-96-80-de-cobertura-vacinal-contra-o-sarampo-em-2026/",
    "url_hash": "6565303e85898c13e85764bb"
+  },
+  "guid:6af8b45052c09500099e2946": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Segundo testemunhas, a vítima havia acabado de abastecer a motocicleta e, ao tentar sair do posto de combustíveis, bateu na carreta que trafegava pela avenida",
+   "discovered_at": "2026-11-14T19:30:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af8b45052c09500099e2946",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2014cacd-9653-4274-9f8a-288e1c0f3560.jpeg",
+   "key": "guid:6af8b45052c09500099e2946",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-14T19:22:50+00:00",
+   "status": "pending",
+   "title": "Jovem morre após bater moto em carreta na Avenida Autaz Mirim",
+   "updated_at": "2026-11-14T19:30:19+00:00",
+   "url": "https://marioadolfo.com/jovem-morre-apos-bater-moto-em-carreta-na-avenida-autaz-mirim/",
+   "url_hash": "7d3430211d172baf9ed15153"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-14T19:20:14+00:00",
-  "saved_at": "2026-11-14T19:20:15+00:00"
+  "last_run_at": "2026-11-14T19:30:18+00:00",
+  "saved_at": "2026-11-14T19:30:20+00:00"
  },
  "schema": 1
 }
