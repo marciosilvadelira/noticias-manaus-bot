@@ -25934,13 +25934,34 @@
    "updated_at": "2026-11-14T16:30:20+00:00",
    "url": "https://marioadolfo.com/exposicao-reune-diferentes-linguagens-artisticas-e-celebra-trajetoria-da-galeria-do-largo/",
    "url_hash": "22db87ac3b717511cfe7be71"
+  },
+  "guid:6af88bb352c09500099e28f6": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "De acordo com policial militar, umas das entradas do estabelecimento foi arrombada e que alguns produtos foram levados",
+   "discovered_at": "2026-11-14T16:40:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af88bb352c09500099e28f6",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/611f5462-bf93-44bb-a4da-a0b581687770.jpg",
+   "key": "guid:6af88bb352c09500099e28f6",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-14T16:37:12+00:00",
+   "status": "pending",
+   "title": "Vídeo: loja da Americanas é saqueada no Centro de Manaus",
+   "updated_at": "2026-11-14T16:40:17+00:00",
+   "url": "https://marioadolfo.com/video-loja-americanas-e-saqueada-no-centro-de-manaus/",
+   "url_hash": "88d76878dd9c919ab0b1be40"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-14T16:30:19+00:00",
-  "saved_at": "2026-11-14T16:30:21+00:00"
+  "last_run_at": "2026-11-14T16:40:15+00:00",
+  "saved_at": "2026-11-14T16:40:18+00:00"
  },
  "schema": 1
 }
