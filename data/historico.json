@@ -25401,12 +25401,12 @@
    "guid": "6af74f3652c09500099e265a",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/904be7d8-60de-44c0-8664-ff35aad84eaf.png",
    "key": "guid:6af74f3652c09500099e265a",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-13T18:02:10+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Padrasto é preso suspeito de estuprar e ameaçar a enteada em Manacapuru",
-   "updated_at": "2026-11-13T18:10:15+00:00",
+   "updated_at": "2026-11-14T18:10:15+00:00",
    "url": "https://marioadolfo.com/padrasto-e-preso-suspeito-de-estuprar-e-ameacar-a-enteada-em-manacapuru/",
    "url_hash": "54d4d47d148f4c3f9cdb27b1"
   },
@@ -25443,12 +25443,12 @@
    "guid": "6af7501352c09500099e2681",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4e99f0b2-8648-44c6-a406-ebee46d616b5.webp",
    "key": "guid:6af7501352c09500099e2681",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-13T18:01:16+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Enem 2026: ônibus terão gratuidade em Manaus neste domingo",
-   "updated_at": "2026-11-13T18:10:15+00:00",
+   "updated_at": "2026-11-14T18:10:15+00:00",
    "url": "https://marioadolfo.com/enem-2026-onibus-terao-gratuidade-em-manaus-neste-domingo/",
    "url_hash": "51990fcf32d2412658cfe63b"
   },
@@ -25464,12 +25464,12 @@
    "guid": "6af750cc52c09500099e26a8",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f93893bb-e5d8-479e-9502-72150f97ea4e.jpeg",
    "key": "guid:6af750cc52c09500099e26a8",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-13T18:04:45+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Líderes de organização criminosa do Pará são presos em Manaus",
-   "updated_at": "2026-11-13T18:10:15+00:00",
+   "updated_at": "2026-11-14T18:10:15+00:00",
    "url": "https://marioadolfo.com/lideres-de-organizacao-criminosa-do-para-sao-presos-em-manaus/",
    "url_hash": "e7e2622d2c0964413a56e46a"
   },
@@ -25960,8 +25960,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-14T18:00:26+00:00",
-  "saved_at": "2026-11-14T18:00:28+00:00"
+  "last_run_at": "2026-11-14T18:10:14+00:00",
+  "saved_at": "2026-11-14T18:10:16+00:00"
  },
  "schema": 1
 }
