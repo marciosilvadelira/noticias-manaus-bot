@@ -25997,13 +25997,55 @@
    "updated_at": "2026-11-14T19:30:19+00:00",
    "url": "https://marioadolfo.com/jovem-morre-apos-bater-moto-em-carreta-na-avenida-autaz-mirim/",
    "url_hash": "7d3430211d172baf9ed15153"
+  },
+  "guid:6af8d09a52c09500099e2965": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Evento acontece neste domingo (15/11), com 12 horas de atividades artísticas distribuídas em diferentes sessões",
+   "discovered_at": "2026-11-14T21:30:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af8d09a52c09500099e2965",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/269441c0-ae99-422a-8f71-9f32f1f37889.jpeg",
+   "key": "guid:6af8d09a52c09500099e2965",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-14T21:21:54+00:00",
+   "status": "pending",
+   "title": "Mostra Interarte reúne teatro, música e canto lírico no palco do Teatro Amazonas",
+   "updated_at": "2026-11-14T21:30:18+00:00",
+   "url": "https://marioadolfo.com/mostra-interarte-reune-teatro-musica-e-canto-lirico-no-palco-do-teatro-amazonas/",
+   "url_hash": "e87359489203999d9035c3c8"
+  },
+  "guid:6af8d10a52c09500099e2981": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Durante almoço de confraternização promovido por Omar Aziz, senador falou dos compromissos para os próximos anos e recebeu reconhecimento do prefeito de Manaus, Renato Júnior, e do governador eleito por sua atuação em Brasília",
+   "discovered_at": "2026-11-14T21:30:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af8d10a52c09500099e2981",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/522eae82-15df-4562-882b-3c5e0ab713ab.jpeg",
+   "key": "guid:6af8d10a52c09500099e2981",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-14T21:23:46+00:00",
+   "status": "pending",
+   "title": "Eduardo Braga diz que vitória nas urnas marca início de nova etapa de trabalho conjunto pelo Amazonas",
+   "updated_at": "2026-11-14T21:30:18+00:00",
+   "url": "https://marioadolfo.com/eduardo-braga-diz-que-vitoria-nas-urnas-marca-inicio-de-nova-etapa-de-trabalho-conjunto-pelo-amazonas/",
+   "url_hash": "c936ab007be0b099aa3e6ffe"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-14T21:20:22+00:00",
-  "saved_at": "2026-11-14T21:20:23+00:00"
+  "last_run_at": "2026-11-14T21:30:17+00:00",
+  "saved_at": "2026-11-14T21:30:18+00:00"
  },
  "schema": 1
 }
