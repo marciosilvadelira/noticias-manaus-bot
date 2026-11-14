@@ -26039,13 +26039,34 @@
    "updated_at": "2026-11-14T21:30:18+00:00",
    "url": "https://marioadolfo.com/eduardo-braga-diz-que-vitoria-nas-urnas-marca-inicio-de-nova-etapa-de-trabalho-conjunto-pelo-amazonas/",
    "url_hash": "c936ab007be0b099aa3e6ffe"
+  },
+  "guid:6af8d43a52c09500099e2997": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "O governador eleito agradeceu apoio recebido nas urnas e destacou desafios e investimentos estratégicos para o Amazonas",
+   "discovered_at": "2026-11-14T21:40:24+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af8d43a52c09500099e2997",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/30a15d66-739e-4672-b664-b51ae8da855f.jpeg",
+   "key": "guid:6af8d43a52c09500099e2997",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-14T21:38:56+00:00",
+   "status": "pending",
+   "title": "Omar Aziz reúne lideranças dos 62 municípios do Amazonas e projeta prioridades para novo governo",
+   "updated_at": "2026-11-14T21:40:24+00:00",
+   "url": "https://marioadolfo.com/omar-aziz-reune-liderancas-dos-62-municipios-do-amazonas-e-projeta-prioridades-para-novo-governo/",
+   "url_hash": "4484bed2bfb2714aba7940f3"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-14T21:30:17+00:00",
-  "saved_at": "2026-11-14T21:30:18+00:00"
+  "last_run_at": "2026-11-14T21:40:16+00:00",
+  "saved_at": "2026-11-14T21:40:24+00:00"
  },
  "schema": 1
 }
