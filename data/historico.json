@@ -25787,13 +25787,34 @@
    "updated_at": "2026-11-14T12:40:16+00:00",
    "url": "https://marioadolfo.com/prefeitura-de-manaus-prorroga-prazo-de-entrega-de-documentos-do-bolsa-universidade-2027/",
    "url_hash": "5e4f426b80bd753e71c10b41"
+  },
+  "guid:6af857d152c09500099e2858": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "O crime ocorreu na madrugada de sexta-feira (13), e o veículo foi recuperado horas depois",
+   "discovered_at": "2026-11-14T12:50:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af857d152c09500099e2858",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/82bc86f9-24ed-4a50-8b4b-896dae8d9a38.jpeg",
+   "key": "guid:6af857d152c09500099e2858",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-14T12:47:06+00:00",
+   "status": "pending",
+   "title": "Caminhão usado em furto no Centro de Manaus é encontrado abandonado",
+   "updated_at": "2026-11-14T12:50:17+00:00",
+   "url": "https://marioadolfo.com/caminhao-usado-em-furto-no-centro-de-manaus-e-encontrado-abandonado/",
+   "url_hash": "941253db654ba2be00e55512"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-14T12:40:15+00:00",
-  "saved_at": "2026-11-14T12:40:17+00:00"
+  "last_run_at": "2026-11-14T12:50:16+00:00",
+  "saved_at": "2026-11-14T12:50:18+00:00"
  },
  "schema": 1
 }
