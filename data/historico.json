@@ -25506,12 +25506,12 @@
    "guid": "6af7576952c09500099e26d8",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/566cbf19-eb80-46c3-acb9-adb43d31444a.png",
    "key": "guid:6af7576952c09500099e26d8",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-13T18:35:23+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Âmbar Energia dá desconto de até 80% em dívidas e R$ 1,5 milhão em prêmios",
-   "updated_at": "2026-11-13T18:40:15+00:00",
+   "updated_at": "2026-11-14T18:40:19+00:00",
    "url": "https://marioadolfo.com/ambar-energia-da-desconto-de-ate-80-em-dividas-e-r-1-5-milhao-em-premios/",
    "url_hash": "21840e08c0265efd1adf29d0"
   },
@@ -25527,12 +25527,12 @@
    "guid": "6af7588752c09500099e26ea",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b8613fad-fbd3-438e-87b7-4bf99dfe9a20.jpg",
    "key": "guid:6af7588752c09500099e26ea",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-13T18:40:10+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Motorista de app é preso por por roubo durante corrida na zona oeste de Manaus",
-   "updated_at": "2026-11-13T18:40:15+00:00",
+   "updated_at": "2026-11-14T18:40:19+00:00",
    "url": "https://marioadolfo.com/motorista-de-app-e-preso-por-por-roubo-durante-corrida-na-zona-oeste-de-manaus/",
    "url_hash": "506bf5bd11fcf32527914235"
   },
@@ -25960,8 +25960,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-14T18:30:25+00:00",
-  "saved_at": "2026-11-14T18:30:26+00:00"
+  "last_run_at": "2026-11-14T18:40:16+00:00",
+  "saved_at": "2026-11-14T18:40:20+00:00"
  },
  "schema": 1
 }
