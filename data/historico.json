@@ -25683,11 +25683,19 @@
    "url_hash": "5f0f4ddd4bd715b82f8a3433"
   },
   "guid:6af76d1352c09500099e27a1": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-15T04:21:38+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1540382331445991",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Serão 5 horas para questões de matemática e ciências da natureza",
    "discovered_at": "2026-11-14T16:10:20+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1540382331445991",
    "formats": [
     "link"
    ],
@@ -25695,11 +25703,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/8ea3fe18-033e-43a7-9936-cd66279c09f7.webp",
    "key": "guid:6af76d1352c09500099e27a1",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1540382331445991"
+   },
    "source_published_at": "2026-11-14T16:00:35+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Enem 2026: confira regras e horários para o 2º dia de provas",
-   "updated_at": "2026-11-14T16:10:20+00:00",
+   "updated_at": "2026-11-15T04:21:38+00:00",
    "url": "https://marioadolfo.com/enem-2026-confira-regras-e-horarios-para-o-2o-dia-de-provas/",
    "url_hash": "ec600bfa2bf7bb6f444411fa"
   },
@@ -25952,11 +25962,19 @@
    "url_hash": "24e286dfd0222879e57bee2e"
   },
   "guid:6af859d952c09500099e2891": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-15T04:20:24+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1540380128112878",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Evento acontece sede da Fundação Amazônia Sustentável (FAS) com diferentes cortes e preços acessíveis",
    "discovered_at": "2026-11-14T13:00:24+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1540380128112878",
    "formats": [
     "link"
    ],
@@ -25964,20 +25982,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/bccd1e36-9e17-4a23-98ba-e4e8ccf04f31.png",
    "key": "guid:6af859d952c09500099e2891",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1540380128112878"
+   },
    "source_published_at": "2026-11-14T12:55:33+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Feira do Pirarucu vende o quilo do pescado a partir de R$ 8 neste sábado",
-   "updated_at": "2026-11-14T13:00:24+00:00",
+   "updated_at": "2026-11-15T04:20:24+00:00",
    "url": "https://marioadolfo.com/feira-do-pirarucu-vende-o-quilo-do-pesa-partir-de-r-8-neste-sabado/",
    "url_hash": "f785d6e84f5af42bfa79153a"
   },
   "guid:6af86eca52c09500099e28af": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-15T04:20:48+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1540380954779462",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "A proposta é analisar as questões relacionadas ao acesso ao transporte público e avaliar a possibilidade de ajuizamento de uma ação civil pública na Justiça Federal",
    "discovered_at": "2026-11-14T14:30:20+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1540380954779462",
    "formats": [
     "link"
    ],
@@ -25985,20 +26013,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2e74689f-2811-418a-81a2-d5d8083aba41.jpeg",
    "key": "guid:6af86eca52c09500099e28af",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1540380954779462"
+   },
    "source_published_at": "2026-11-14T14:24:12+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Presidente da OAB Amazonas solicita estudo sobre transporte de estudantes",
-   "updated_at": "2026-11-14T14:30:20+00:00",
+   "updated_at": "2026-11-15T04:20:48+00:00",
    "url": "https://marioadolfo.com/presidente-da-oab-amazonas-solicita-estudo-sobre-transporte-de-estudantes/",
    "url_hash": "774277883524000b41071891"
   },
   "guid:6af86f4252c09500099e28c3": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-15T04:21:13+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1540381634779394",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Ipaam atestou que a intervenção emergencial do DNIT não tem licença ambiental específica",
    "discovered_at": "2026-11-14T14:30:20+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1540381634779394",
    "formats": [
     "link"
    ],
@@ -26006,20 +26044,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4e0d32e7-f81b-48c4-bf33-b3cdb2da3985.jpeg",
    "key": "guid:6af86f4252c09500099e28c3",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1540381634779394"
+   },
    "source_published_at": "2026-11-14T14:26:30+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Defensorias do AM e da União pedem embargo de dragagem no Careiro da Várzea",
-   "updated_at": "2026-11-14T14:30:20+00:00",
+   "updated_at": "2026-11-15T04:21:13+00:00",
    "url": "https://marioadolfo.com/defensorias-do-am-e-da-uniao-pedem-embargo-de-dragagem-no-careiro-da-varzea/",
    "url_hash": "5b7230bcad29d19bde778585"
   },
   "guid:6af88b2552c09500099e28e1": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-15T04:22:04+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1540382984779259",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Arte contemporânea amazonense ganha espaço em mostra que encerra celebração da Galeria do Largo",
    "discovered_at": "2026-11-14T16:30:20+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1540382984779259",
    "formats": [
     "link"
    ],
@@ -26027,11 +26075,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/3bdcb95e-bacb-410a-a27e-b9d6ffbb4411.jpeg",
    "key": "guid:6af88b2552c09500099e28e1",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1540382984779259"
+   },
    "source_published_at": "2026-11-14T16:25:05+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Exposição reúne diferentes linguagens artísticas e celebra trajetória da Galeria do Largo",
-   "updated_at": "2026-11-14T16:30:20+00:00",
+   "updated_at": "2026-11-15T04:22:04+00:00",
    "url": "https://marioadolfo.com/exposicao-reune-diferentes-linguagens-artisticas-e-celebra-trajetoria-da-galeria-do-largo/",
    "url_hash": "22db87ac3b717511cfe7be71"
   },
@@ -26165,8 +26215,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-15T04:10:16+00:00",
-  "saved_at": "2026-11-15T04:12:06+00:00"
+  "last_run_at": "2026-11-15T04:20:17+00:00",
+  "saved_at": "2026-11-15T04:22:04+00:00"
  },
  "schema": 1
 }
