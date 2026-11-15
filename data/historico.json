@@ -26512,13 +26512,76 @@
    "updated_at": "2026-11-15T18:10:16+00:00",
    "url": "https://marioadolfo.com/policiais-apreendem-8-kg-de-drogas-escondidos-em-bebedouro-de-embarcacao/",
    "url_hash": "ed77635664f223fc316599d7"
+  },
+  "guid:6af9f58452c09500099e2b3e": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Programação vai até o dia 9 de dezembro na capital e no interior. Se você é vítima ou testemunha de violência doméstica, denuncie, Disque 180",
+   "discovered_at": "2026-11-15T18:20:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af9f58452c09500099e2b3e",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/74db3f51-48f0-4d5d-8feb-0779155802fe.jpeg",
+   "key": "guid:6af9f58452c09500099e2b3e",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-15T18:11:03+00:00",
+   "status": "pending",
+   "title": "Sejusc promove ações pelo fim da violência contra as mulheres no Amazonas",
+   "updated_at": "2026-11-15T18:20:15+00:00",
+   "url": "https://marioadolfo.com/sejusc-promove-acoes-pelo-fim-da-violencia-contra-as-mulheres-no-amazonas/",
+   "url_hash": "16da5615a385108f8420e31b"
+  },
+  "guid:6af9f5d252c09500099e2b51": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "O benefício é válido até às 20h e os candidatos precisaram apresentar um documento de identificação com foto e o comprovante de inscrição no Enem",
+   "discovered_at": "2026-11-15T18:20:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af9f5d252c09500099e2b51",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/39f4dd51-d4d9-40e1-9ab3-a8b3058748a9.jpg",
+   "key": "guid:6af9f5d252c09500099e2b51",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-15T18:13:32+00:00",
+   "status": "pending",
+   "title": "Manaus garante gratuidade no transporte coletivo para candidatos no 2º dia de provas do Enem 2026",
+   "updated_at": "2026-11-15T18:20:15+00:00",
+   "url": "https://marioadolfo.com/manaus-garante-gratuidade-no-transporte-coletivo-para-candidatos-no-2o-dia-de-provas-do-enem-2026/",
+   "url_hash": "fe3a384d69c5b311260946a8"
+  },
+  "guid:6af9f6dd52c09500099e2b76": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "A motivação e a autoria do homicídio são desconhecidas e serão apuradas pelo Polícia Civil do Amazonas",
+   "discovered_at": "2026-11-15T18:20:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af9f6dd52c09500099e2b76",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d6716380-6807-484f-9e02-6e7914f95e4f.png",
+   "key": "guid:6af9f6dd52c09500099e2b76",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-15T18:18:31+00:00",
+   "status": "pending",
+   "title": "Homem é executado a tiros durante a madrugada no bairro Coroado",
+   "updated_at": "2026-11-15T18:20:15+00:00",
+   "url": "https://marioadolfo.com/hom/",
+   "url_hash": "e02e48e6a49fc48ea28b796c"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-15T18:10:16+00:00",
-  "saved_at": "2026-11-15T18:10:17+00:00"
+  "last_run_at": "2026-11-15T18:20:14+00:00",
+  "saved_at": "2026-11-15T18:20:15+00:00"
  },
  "schema": 1
 }
