@@ -26470,13 +26470,34 @@
    "updated_at": "2026-11-15T15:20:15+00:00",
    "url": "https://marioadolfo.com/homem-e-executado-com-seis-tiros-no-bairro-mutirao/",
    "url_hash": "c0c30615ca748a807bb3d613"
+  },
+  "guid:6af9dd5952c09500099e2b13": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Estado registra 382 casos com comprovação laboratorial em 2026",
+   "discovered_at": "2026-11-15T16:40:22+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af9dd5952c09500099e2b13",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/03b4c580-8842-4209-8a80-440d616c4f25.jpg",
+   "key": "guid:6af9dd5952c09500099e2b13",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-15T16:31:40+00:00",
+   "status": "pending",
+   "title": "Rio de Janeiro tem primeira morte confirmada por mpox no país",
+   "updated_at": "2026-11-15T16:40:22+00:00",
+   "url": "https://marioadolfo.com/rio-de-janeiro-tem-primeira-morte-confirmada-por-mpox-no-pais/",
+   "url_hash": "181f8511f5f728ae7f9d76b0"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-15T16:30:18+00:00",
-  "saved_at": "2026-11-15T16:30:19+00:00"
+  "last_run_at": "2026-11-15T16:40:22+00:00",
+  "saved_at": "2026-11-15T16:40:23+00:00"
  },
  "schema": 1
 }
