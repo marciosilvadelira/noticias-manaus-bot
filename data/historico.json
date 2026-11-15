@@ -26386,13 +26386,34 @@
    "updated_at": "2026-11-15T13:10:16+00:00",
    "url": "https://marioadolfo.com/justica-autoriza-transferencia-de-quatro-pacientes-graves-de-parintins-para-manaus/",
    "url_hash": "2a1ec6e2aebd18d2ada8db14"
+  },
+  "guid:6af9c7a352c09500099e2a97": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "São 90 questões de matemática e ciências; portões fecham 13h",
+   "discovered_at": "2026-11-15T15:00:22+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af9c7a352c09500099e2a97",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2dd6f9ea-fbda-45ec-a636-e2980d77dc7e.jpg",
+   "key": "guid:6af9c7a352c09500099e2a97",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-15T12:30:00+00:00",
+   "status": "pending",
+   "title": "Enem 2026: candidatos fazem hoje segundo dia de provas",
+   "updated_at": "2026-11-15T15:00:22+00:00",
+   "url": "https://marioadolfo.com/enem-2026-candidatos-fazem-hoje-segundo-dia-de-provas/",
+   "url_hash": "e532f345d1497cddefe5443d"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-15T14:50:15+00:00",
-  "saved_at": "2026-11-15T14:50:16+00:00"
+  "last_run_at": "2026-11-15T15:00:20+00:00",
+  "saved_at": "2026-11-15T15:00:22+00:00"
  },
  "schema": 1
 }
