@@ -26408,6 +26408,27 @@
    "url": "https://marioadolfo.com/enem-2026-candidatos-fazem-hoje-segundo-dia-de-provas/",
    "url_hash": "e532f345d1497cddefe5443d"
   },
+  "guid:6af9c82f52c09500099e2ab2": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Oportunidades estão distribuídas entre comércio, indústria e serviços",
+   "discovered_at": "2026-11-15T15:20:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af9c82f52c09500099e2ab2",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6703632d-d1bd-4eb0-bf78-66b8fc5ee018.jpeg",
+   "key": "guid:6af9c82f52c09500099e2ab2",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-15T04:00:00+00:00",
+   "status": "pending",
+   "title": "Sine Manaus oferece 642 vagas de emprego nesta segunda-feira (1 6)",
+   "updated_at": "2026-11-15T15:20:15+00:00",
+   "url": "https://marioadolfo.com/sine-manaus-oferece-642-vagas-de-emprego-nesta-segunda-feira-1-6/",
+   "url_hash": "7ae5ea24e97b595d4b007109"
+  },
   "guid:6af9c89852c09500099e2ac7": {
    "attempts": [],
    "category": "Amazonas",
@@ -26428,13 +26449,34 @@
    "updated_at": "2026-11-15T15:10:16+00:00",
    "url": "https://marioadolfo.com/pesca-de-oito-especies-de-peixes-esta-proibida-no-amazonas-a-partir-deste-domingo/",
    "url_hash": "e253b2f3b8dde743d6f269f2"
+  },
+  "guid:6af9caee52c09500099e2af8": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Crime ocorreu na avenida Coronel Sávio Belota. A vítima morreu ainda no local antes de receber atendimento médico",
+   "discovered_at": "2026-11-15T15:20:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af9caee52c09500099e2af8",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/497e1efd-4f8a-4b6e-9772-be8bd0ef0fbc.jpg",
+   "key": "guid:6af9caee52c09500099e2af8",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-15T15:12:19+00:00",
+   "status": "pending",
+   "title": "Homem é executado com seis tiros no bairro Mutirão",
+   "updated_at": "2026-11-15T15:20:15+00:00",
+   "url": "https://marioadolfo.com/homem-e-executado-com-seis-tiros-no-bairro-mutirao/",
+   "url_hash": "c0c30615ca748a807bb3d613"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-15T15:10:14+00:00",
-  "saved_at": "2026-11-15T15:10:16+00:00"
+  "last_run_at": "2026-11-15T15:20:14+00:00",
+  "saved_at": "2026-11-15T15:20:15+00:00"
  },
  "schema": 1
 }
