@@ -26323,13 +26323,34 @@
    "updated_at": "2026-11-15T12:00:20+00:00",
    "url": "https://marioadolfo.com/escolas-estaduais-de-manaus-terao-aulas-de-45-minutos-a-partir-de-segunda-feira-16/",
    "url_hash": "a818fef55c14512e77755344"
+  },
+  "guid:6af9a9ea52c09500099e2a1a": {
+   "attempts": [],
+   "category": "Dito & Feito",
+   "description": "O roteiro sórdido era Lula na cadeia, Bolsonaro presidente e um cargo de ministro da Justiça para o juiz suspeito",
+   "discovered_at": "2026-11-15T13:00:20+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af9a9ea52c09500099e2a1a",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/3e089e23-4c9a-420c-abe4-8737bbe5050d.jpeg",
+   "key": "guid:6af9a9ea52c09500099e2a1a",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-15T12:58:29+00:00",
+   "status": "pending",
+   "title": "Dito & Feito: A FARSA MAQUIAVÉLICA DE SÉRGIO MORO",
+   "updated_at": "2026-11-15T13:00:20+00:00",
+   "url": "https://marioadolfo.com/dito-feito-a-farsa-maquiavelica-de-sergio-moro/",
+   "url_hash": "71880487983d6183e738407f"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-15T12:50:15+00:00",
-  "saved_at": "2026-11-15T12:50:17+00:00"
+  "last_run_at": "2026-11-15T13:00:19+00:00",
+  "saved_at": "2026-11-15T13:00:21+00:00"
  },
  "schema": 1
 }
