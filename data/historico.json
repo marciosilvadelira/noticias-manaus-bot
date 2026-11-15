@@ -26281,13 +26281,34 @@
    "updated_at": "2026-11-15T11:40:16+00:00",
    "url": "https://marioadolfo.com/brasil-e-filipinas-assinam-acordos-sobre-agro-e-livre-concorrencia/",
    "url_hash": "6f063151388b31300ac0c55f"
+  },
+  "guid:6af9109552c09500099e29ed": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A mudança é na duração de cada aula e  atende a decisão que reconheceu o intervalo de 15 minutos dos professores como parte da jornada de trabalho",
+   "discovered_at": "2026-11-15T12:00:20+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af9109552c09500099e29ed",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/504a6b9a-abb6-451c-9ceb-20a954c6af88.webp",
+   "key": "guid:6af9109552c09500099e29ed",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-15T12:00:19+00:00",
+   "status": "pending",
+   "title": "Escolas estaduais de Manaus terão aulas de 45 minutos a partir de segunda-feira (16)",
+   "updated_at": "2026-11-15T12:00:20+00:00",
+   "url": "https://marioadolfo.com/escolas-estaduais-de-manaus-terao-aulas-de-45-minutos-a-partir-de-segunda-feira-16/",
+   "url_hash": "a818fef55c14512e77755344"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-15T11:50:14+00:00",
-  "saved_at": "2026-11-15T11:50:16+00:00"
+  "last_run_at": "2026-11-15T12:00:19+00:00",
+  "saved_at": "2026-11-15T12:00:20+00:00"
  },
  "schema": 1
 }
