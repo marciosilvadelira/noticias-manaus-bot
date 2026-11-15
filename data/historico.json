@@ -26491,13 +26491,34 @@
    "updated_at": "2026-11-15T16:40:22+00:00",
    "url": "https://marioadolfo.com/rio-de-janeiro-tem-primeira-morte-confirmada-por-mpox-no-pais/",
    "url_hash": "181f8511f5f728ae7f9d76b0"
+  },
+  "guid:6af9f49252c09500099e2b28": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Os entorpecentes foram encontrados com auxílio de cão farejador e representam prejuízo de mais de R$ 557 mil ao crime organizado",
+   "discovered_at": "2026-11-15T18:10:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af9f49252c09500099e2b28",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/470d8e83-e0ac-45e1-8c95-68fae22192dd.jpg",
+   "key": "guid:6af9f49252c09500099e2b28",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-15T18:09:13+00:00",
+   "status": "pending",
+   "title": "Policiais apreendem 8 kg de drogas escondidos em bebedouro de embarcação",
+   "updated_at": "2026-11-15T18:10:16+00:00",
+   "url": "https://marioadolfo.com/policiais-apreendem-8-kg-de-drogas-escondidos-em-bebedouro-de-embarcacao/",
+   "url_hash": "ed77635664f223fc316599d7"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-15T18:00:21+00:00",
-  "saved_at": "2026-11-15T18:00:23+00:00"
+  "last_run_at": "2026-11-15T18:10:16+00:00",
+  "saved_at": "2026-11-15T18:10:17+00:00"
  },
  "schema": 1
 }
