@@ -26596,13 +26596,34 @@
    "updated_at": "2026-11-15T18:40:15+00:00",
    "url": "https://marioadolfo.com/mais-de-900-servidores-reforcam-serguranca-no/",
    "url_hash": "3a6611f36422587cc9f62d5a"
+  },
+  "guid:6afa1ca452c09500099e2bb2": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Caso foi registrado como homicídio na Delegacia Especializada em Homicídios e Sequestros",
+   "discovered_at": "2026-11-15T21:10:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afa1ca452c09500099e2bb2",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/314bf101-9577-4bd6-9c0d-fc2da8697262.jpg",
+   "key": "guid:6afa1ca452c09500099e2bb2",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-15T21:04:24+00:00",
+   "status": "pending",
+   "title": "Detento é morto a facadas dentro de Unidade Prisional do Puraquequara",
+   "updated_at": "2026-11-15T21:10:21+00:00",
+   "url": "https://marioadolfo.com/detento-e-morto-a-facadas-dentro-de-unidade-prisional-do-puraquequara/",
+   "url_hash": "f8dfff43a7e907cb873746e1"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-15T21:00:19+00:00",
-  "saved_at": "2026-11-15T21:00:21+00:00"
+  "last_run_at": "2026-11-15T21:10:19+00:00",
+  "saved_at": "2026-11-15T21:10:21+00:00"
  },
  "schema": 1
 }
