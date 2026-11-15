@@ -26086,11 +26086,19 @@
    "url_hash": "22db87ac3b717511cfe7be71"
   },
   "guid:6af88bb352c09500099e28f6": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-15T04:30:31+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1540391711445053",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "De acordo com policial militar, umas das entradas do estabelecimento foi arrombada e que alguns produtos foram levados",
    "discovered_at": "2026-11-14T16:40:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1540391711445053",
    "formats": [
     "link"
    ],
@@ -26098,20 +26106,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/611f5462-bf93-44bb-a4da-a0b581687770.jpg",
    "key": "guid:6af88bb352c09500099e28f6",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1540391711445053"
+   },
    "source_published_at": "2026-11-14T16:37:12+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Vídeo: loja da Americanas é saqueada no Centro de Manaus",
-   "updated_at": "2026-11-14T16:40:17+00:00",
+   "updated_at": "2026-11-15T04:30:31+00:00",
    "url": "https://marioadolfo.com/video-loja-americanas-e-saqueada-no-centro-de-manaus/",
    "url_hash": "88d76878dd9c919ab0b1be40"
   },
   "guid:6af8b18552c09500099e291f": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-15T04:30:56+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1540392014778356",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "O estado já aplicou quase 197 mil doses da vacina tríplice viral e reforça ações de bloqueio e prevenção na tríplice fronteira",
    "discovered_at": "2026-11-14T19:20:14+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1540392014778356",
    "formats": [
     "link"
    ],
@@ -26119,20 +26137,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/baba8af3-21d8-4c18-8d3c-d2116e66ab02.jpeg",
    "key": "guid:6af8b18552c09500099e291f",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1540392014778356"
+   },
    "source_published_at": "2026-11-14T19:11:50+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Amazonas atinge 96,80% de cobertura vacinal contra o sarampo em 2026",
-   "updated_at": "2026-11-14T19:20:14+00:00",
+   "updated_at": "2026-11-15T04:30:56+00:00",
    "url": "https://marioadolfo.com/amazonas-atinge-96-80-de-cobertura-vacinal-contra-o-sarampo-em-2026/",
    "url_hash": "6565303e85898c13e85764bb"
   },
   "guid:6af8b45052c09500099e2946": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-15T04:31:22+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1540392241445000",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Segundo testemunhas, a vítima havia acabado de abastecer a motocicleta e, ao tentar sair do posto de combustíveis, bateu na carreta que trafegava pela avenida",
    "discovered_at": "2026-11-14T19:30:19+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1540392241445000",
    "formats": [
     "link"
    ],
@@ -26140,20 +26168,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2014cacd-9653-4274-9f8a-288e1c0f3560.jpeg",
    "key": "guid:6af8b45052c09500099e2946",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1540392241445000"
+   },
    "source_published_at": "2026-11-14T19:22:50+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Jovem morre após bater moto em carreta na Avenida Autaz Mirim",
-   "updated_at": "2026-11-14T19:30:19+00:00",
+   "updated_at": "2026-11-15T04:31:22+00:00",
    "url": "https://marioadolfo.com/jovem-morre-apos-bater-moto-em-carreta-na-avenida-autaz-mirim/",
    "url_hash": "7d3430211d172baf9ed15153"
   },
   "guid:6af8d09a52c09500099e2965": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-15T04:31:47+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1540392524778305",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Evento acontece neste domingo (15/11), com 12 horas de atividades artísticas distribuídas em diferentes sessões",
    "discovered_at": "2026-11-14T21:30:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1540392524778305",
    "formats": [
     "link"
    ],
@@ -26161,20 +26199,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/269441c0-ae99-422a-8f71-9f32f1f37889.jpeg",
    "key": "guid:6af8d09a52c09500099e2965",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1540392524778305"
+   },
    "source_published_at": "2026-11-14T21:21:54+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Mostra Interarte reúne teatro, música e canto lírico no palco do Teatro Amazonas",
-   "updated_at": "2026-11-14T21:30:18+00:00",
+   "updated_at": "2026-11-15T04:31:47+00:00",
    "url": "https://marioadolfo.com/mostra-interarte-reune-teatro-musica-e-canto-lirico-no-palco-do-teatro-amazonas/",
    "url_hash": "e87359489203999d9035c3c8"
   },
   "guid:6af8d10a52c09500099e2981": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-15T04:32:12+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1540392788111612",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Durante almoço de confraternização promovido por Omar Aziz, senador falou dos compromissos para os próximos anos e recebeu reconhecimento do prefeito de Manaus, Renato Júnior, e do governador eleito por sua atuação em Brasília",
    "discovered_at": "2026-11-14T21:30:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1540392788111612",
    "formats": [
     "link"
    ],
@@ -26182,11 +26230,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/522eae82-15df-4562-882b-3c5e0ab713ab.jpeg",
    "key": "guid:6af8d10a52c09500099e2981",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1540392788111612"
+   },
    "source_published_at": "2026-11-14T21:23:46+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Eduardo Braga diz que vitória nas urnas marca início de nova etapa de trabalho conjunto pelo Amazonas",
-   "updated_at": "2026-11-14T21:30:18+00:00",
+   "updated_at": "2026-11-15T04:32:12+00:00",
    "url": "https://marioadolfo.com/eduardo-braga-diz-que-vitoria-nas-urnas-marca-inicio-de-nova-etapa-de-trabalho-conjunto-pelo-amazonas/",
    "url_hash": "c936ab007be0b099aa3e6ffe"
   },
@@ -26215,8 +26265,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-15T04:20:17+00:00",
-  "saved_at": "2026-11-15T04:22:04+00:00"
+  "last_run_at": "2026-11-15T04:30:18+00:00",
+  "saved_at": "2026-11-15T04:32:12+00:00"
  },
  "schema": 1
 }
