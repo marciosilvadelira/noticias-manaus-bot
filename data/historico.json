@@ -26575,13 +26575,34 @@
    "updated_at": "2026-11-15T18:20:15+00:00",
    "url": "https://marioadolfo.com/hom/",
    "url_hash": "e02e48e6a49fc48ea28b796c"
+  },
+  "guid:6af9fb6e52c09500099e2b95": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "operação reúne forças de segurança e órgãos parceiros para monitorar locais de prova, escoltar malotes e atender possíveis ocorrências",
+   "discovered_at": "2026-11-15T18:40:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af9fb6e52c09500099e2b95",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ec35481c-de03-465f-b159-4d8755c82a46.jpeg",
+   "key": "guid:6af9fb6e52c09500099e2b95",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-15T18:39:08+00:00",
+   "status": "pending",
+   "title": "Enem: mais de 900 servidores reforçam segurança no 2º dia de provas no AM",
+   "updated_at": "2026-11-15T18:40:15+00:00",
+   "url": "https://marioadolfo.com/mais-de-900-servidores-reforcam-serguranca-no/",
+   "url_hash": "3a6611f36422587cc9f62d5a"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-15T18:30:19+00:00",
-  "saved_at": "2026-11-15T18:30:20+00:00"
+  "last_run_at": "2026-11-15T18:40:15+00:00",
+  "saved_at": "2026-11-15T18:40:16+00:00"
  },
  "schema": 1
 }
