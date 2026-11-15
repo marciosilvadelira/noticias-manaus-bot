@@ -26407,13 +26407,34 @@
    "updated_at": "2026-11-15T15:00:22+00:00",
    "url": "https://marioadolfo.com/enem-2026-candidatos-fazem-hoje-segundo-dia-de-provas/",
    "url_hash": "e532f345d1497cddefe5443d"
+  },
+  "guid:6af9c89852c09500099e2ac7": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Até 15 de março de 2027, a captura de oito espécies estará proibida durante a fase de reprodução",
+   "discovered_at": "2026-11-15T15:10:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6af9c89852c09500099e2ac7",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/407ed70e-9fa1-4c16-92b6-e7f80fb2ee43.jpeg",
+   "key": "guid:6af9c89852c09500099e2ac7",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-15T15:01:47+00:00",
+   "status": "pending",
+   "title": "Pesca de oito espécies de peixes está proibida no Amazonas a partir deste domingo",
+   "updated_at": "2026-11-15T15:10:16+00:00",
+   "url": "https://marioadolfo.com/pesca-de-oito-especies-de-peixes-esta-proibida-no-amazonas-a-partir-deste-domingo/",
+   "url_hash": "e253b2f3b8dde743d6f269f2"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-15T15:00:20+00:00",
-  "saved_at": "2026-11-15T15:00:22+00:00"
+  "last_run_at": "2026-11-15T15:10:14+00:00",
+  "saved_at": "2026-11-15T15:10:16+00:00"
  },
  "schema": 1
 }
