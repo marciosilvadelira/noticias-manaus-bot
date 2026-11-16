@@ -26530,6 +26530,37 @@
    "url": "https://marioadolfo.com/pesca-de-oito-especies-de-peixes-esta-proibida-no-amazonas-a-partir-deste-domingo/",
    "url_hash": "e253b2f3b8dde743d6f269f2"
   },
+  "guid:6af9c99f52c09500099e2ae2": {
+   "attempts": [
+    {
+     "at": "2026-11-16T11:30:24+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1541963684621189",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "Unidades oferecem consultas médicas e de enfermagem, mamografia, ultrassonografia, coleta e exame preventivo, planejamento reprodutivo",
+   "discovered_at": "2026-11-16T11:30:19+00:00",
+   "fb_post_id": "107393769293726_1541963684621189",
+   "formats": [
+    "link"
+   ],
+   "guid": "6af9c99f52c09500099e2ae2",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/64b00a11-0f90-4137-8ad4-85b5fe85b293.jpg",
+   "key": "guid:6af9c99f52c09500099e2ae2",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1541963684621189"
+   },
+   "source_published_at": "2026-11-16T11:30:06+00:00",
+   "status": "published",
+   "title": "Confira os locais de atendimento das Unidades Móveis de Saúde da Mulher",
+   "updated_at": "2026-11-16T11:30:24+00:00",
+   "url": "https://marioadolfo.com/confira-os-locais-de-atendimento-das-unidades-moveis-de-saude-da-mulher/",
+   "url_hash": "897fc0469b43288bb4dc7140"
+  },
   "guid:6af9caee52c09500099e2af8": {
    "attempts": [
     {
@@ -26813,8 +26844,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-16T11:20:16+00:00",
-  "saved_at": "2026-11-16T11:20:18+00:00"
+  "last_run_at": "2026-11-16T11:30:18+00:00",
+  "saved_at": "2026-11-16T11:30:24+00:00"
  },
  "schema": 1
 }
