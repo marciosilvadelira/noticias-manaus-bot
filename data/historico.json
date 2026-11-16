@@ -26901,13 +26901,34 @@
    "updated_at": "2026-11-16T11:00:29+00:00",
    "url": "https://marioadolfo.com/professores-da-rede-estadual-realizam-manifestacao-pelo-restabelecimento-do-plano-de-saude/",
    "url_hash": "d1633041f3529aef9684e71a"
+  },
+  "guid:6afaf48c52c09500099e2c42": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A seleção acontece das 8h às 13h, no Super Nova Era da avenida Max Teixeira, 1878, bairro Flores",
+   "discovered_at": "2026-11-16T13:20:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afaf48c52c09500099e2c42",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f2c27963-be8c-4bf0-8072-4449398962dd.jpeg",
+   "key": "guid:6afaf48c52c09500099e2c42",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-16T13:18:20+00:00",
+   "status": "pending",
+   "title": "Supermercado realiza nova seleção exclusiva para PCDs, nesta terça-feira (17)",
+   "updated_at": "2026-11-16T13:20:15+00:00",
+   "url": "https://marioadolfo.com/supermercado-realiza-nova-selecao-exclusiva-para-pcds-nesta-terca-feira-17/",
+   "url_hash": "0b90d2af305bca5f6a4c6325"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-16T13:00:25+00:00",
-  "saved_at": "2026-11-16T13:00:26+00:00"
+  "last_run_at": "2026-11-16T13:20:15+00:00",
+  "saved_at": "2026-11-16T13:20:16+00:00"
  },
  "schema": 1
 }
