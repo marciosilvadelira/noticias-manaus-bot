@@ -27300,13 +27300,55 @@
    "updated_at": "2026-11-16T18:10:16+00:00",
    "url": "https://marioadolfo.com/com-seguranca-juridica-pos-reforma-tributaria-suframa-anuncia-pacote-de-modernizacao-para-2027/",
    "url_hash": "87bb1dfc54ce7739ac7864b9"
+  },
+  "guid:6afb597152c09500099e2e63": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Em coletiva nesta segunda-feira (16), superintendente da Suframa anunciou 136,1 mil postos de trabalho, maior marca histórica do parque fabril, e destacou a importância da reforma tributária para a expansão da Zona Franca",
+   "discovered_at": "2026-11-16T19:50:23+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afb597152c09500099e2e63",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a03c6c2d-3266-474a-a8ab-b2a49e4d0522.jpg",
+   "key": "guid:6afb597152c09500099e2e63",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-16T19:42:58+00:00",
+   "status": "pending",
+   "title": "Polo Industrial de Manaus bate recordes de faturamento e empregos; previsão é superar R$ 240 bilhões em 2026",
+   "updated_at": "2026-11-16T19:50:23+00:00",
+   "url": "https://marioadolfo.com/polo-industrial-de-manaus-bate-recordes-de-faturamento-e-empregos-previsao-e-superar-r-240-bilhoes-em-2026/",
+   "url_hash": "0c3f5d3dccffc2fa1a80a985"
+  },
+  "guid:6afb5da952c09500099e2e96": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A mostra acontece de 23 a 26 de novembro, no Instituto Federal do Amazonas (Ifam). Programação é gratuita e acessível",
+   "discovered_at": "2026-11-16T19:50:23+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afb5da952c09500099e2e96",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/8df19483-d847-4732-89cd-5b9bd95e9f4c.jpeg",
+   "key": "guid:6afb5da952c09500099e2e96",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-16T19:48:22+00:00",
+   "status": "pending",
+   "title": "16ª Mostra de Cinema e Direitos Humanos realiza exibição de filmes e debates gratuitos em Manaus",
+   "updated_at": "2026-11-16T19:50:23+00:00",
+   "url": "https://marioadolfo.com/16a-mostra-de-cinema-e-direitos-humanos-realiza-exibicao-de-filmes-e-debates-gratuitos-em-manaus/",
+   "url_hash": "4abc202b421d49b5be432a26"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-16T19:40:28+00:00",
-  "saved_at": "2026-11-16T19:40:29+00:00"
+  "last_run_at": "2026-11-16T19:50:23+00:00",
+  "saved_at": "2026-11-16T19:50:24+00:00"
  },
  "schema": 1
 }
