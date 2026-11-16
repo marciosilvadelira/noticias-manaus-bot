@@ -27006,13 +27006,34 @@
    "updated_at": "2026-11-16T15:00:25+00:00",
    "url": "https://marioadolfo.com/balanca-comercial-do-amazonas-registra-us-1-49-bilhao-no-comercio-exterior-em-outubro/",
    "url_hash": "bcaec1d29beeaacb303326d6"
+  },
+  "guid:6afb1af552c09500099e2cc1": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Campanha segue até o dia 30 com atendimentos online e presenciais",
+   "discovered_at": "2026-11-16T15:10:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afb1af552c09500099e2cc1",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/9c72c38c-9a3c-4937-81f1-986f1df37005.jpeg",
+   "key": "guid:6afb1af552c09500099e2cc1",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-16T15:04:10+00:00",
+   "status": "pending",
+   "title": "Águas de Manaus inicia campanha de negociação de dívidas com descontos de até 95%",
+   "updated_at": "2026-11-16T15:10:18+00:00",
+   "url": "https://marioadolfo.com/aguas-de-manaus-inicia-campanha-de-negociacao-de-dividas-com-descontos-de-ate-95/",
+   "url_hash": "db4ced2f3cf7058297a71272"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-16T15:00:25+00:00",
-  "saved_at": "2026-11-16T15:00:26+00:00"
+  "last_run_at": "2026-11-16T15:10:17+00:00",
+  "saved_at": "2026-11-16T15:10:18+00:00"
  },
  "schema": 1
 }
