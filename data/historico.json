@@ -26386,11 +26386,19 @@
    "url_hash": "71880487983d6183e738407f"
   },
   "guid:6af9acc752c09500099e2a5a": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-16T04:10:23+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1541609094656648",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "A celebração contou com neve artificial, chegada do Papai Noel, inauguração da Casa do Papai Noel e apresentação da primeira árvore natalina da temporada",
    "discovered_at": "2026-11-15T13:10:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1541609094656648",
    "formats": [
     "link"
    ],
@@ -26398,20 +26406,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/bc9dbd2f-0f12-4fd4-ad9c-d7d0761a6ce3.jpeg",
    "key": "guid:6af9acc752c09500099e2a5a",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1541609094656648"
+   },
    "source_published_at": "2026-11-15T13:03:04+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Parque Gigantes da Floresta recebe abertura das festividades do Natal 2026",
-   "updated_at": "2026-11-15T13:10:16+00:00",
+   "updated_at": "2026-11-16T04:10:23+00:00",
    "url": "https://marioadolfo.com/parque-gigantes-da-floresta-recebe-inicio-das-festividades-de-natal-em-manaus/",
    "url_hash": "58fbe070796fdbcd6112d90c"
   },
   "guid:6af9add552c09500099e2a74": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-16T04:10:46+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1541609784656579",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Parintins",
    "description": "Os pacientes estão internados no Hospital Regional Dr. Jofre de Matos Cohen e necessitam de atendimento especializado em unidades de maior complexidade",
    "discovered_at": "2026-11-15T13:10:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1541609784656579",
    "formats": [
     "link"
    ],
@@ -26419,11 +26437,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a86afc75-e677-4c10-af22-b9923cdc46ba.jpeg",
    "key": "guid:6af9add552c09500099e2a74",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1541609784656579"
+   },
    "source_published_at": "2026-11-15T13:07:58+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Justiça autoriza transferência de quatro pacientes graves de Parintins para Manaus",
-   "updated_at": "2026-11-15T13:10:16+00:00",
+   "updated_at": "2026-11-16T04:10:46+00:00",
    "url": "https://marioadolfo.com/justica-autoriza-transferencia-de-quatro-pacientes-graves-de-parintins-para-manaus/",
    "url_hash": "2a1ec6e2aebd18d2ada8db14"
   },
@@ -26480,11 +26500,19 @@
    "url_hash": "7ae5ea24e97b595d4b007109"
   },
   "guid:6af9c89852c09500099e2ac7": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-16T04:11:11+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1541610521323172",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Até 15 de março de 2027, a captura de oito espécies estará proibida durante a fase de reprodução",
    "discovered_at": "2026-11-15T15:10:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1541610521323172",
    "formats": [
     "link"
    ],
@@ -26492,20 +26520,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/407ed70e-9fa1-4c16-92b6-e7f80fb2ee43.jpeg",
    "key": "guid:6af9c89852c09500099e2ac7",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1541610521323172"
+   },
    "source_published_at": "2026-11-15T15:01:47+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Pesca de oito espécies de peixes está proibida no Amazonas a partir deste domingo",
-   "updated_at": "2026-11-15T15:10:16+00:00",
+   "updated_at": "2026-11-16T04:11:11+00:00",
    "url": "https://marioadolfo.com/pesca-de-oito-especies-de-peixes-esta-proibida-no-amazonas-a-partir-deste-domingo/",
    "url_hash": "e253b2f3b8dde743d6f269f2"
   },
   "guid:6af9caee52c09500099e2af8": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-16T04:11:34+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1541611137989777",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Crime ocorreu na avenida Coronel Sávio Belota. A vítima morreu ainda no local antes de receber atendimento médico",
    "discovered_at": "2026-11-15T15:20:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1541611137989777",
    "formats": [
     "link"
    ],
@@ -26513,20 +26551,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/497e1efd-4f8a-4b6e-9772-be8bd0ef0fbc.jpg",
    "key": "guid:6af9caee52c09500099e2af8",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1541611137989777"
+   },
    "source_published_at": "2026-11-15T15:12:19+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Homem é executado com seis tiros no bairro Mutirão",
-   "updated_at": "2026-11-15T15:20:15+00:00",
+   "updated_at": "2026-11-16T04:11:34+00:00",
    "url": "https://marioadolfo.com/homem-e-executado-com-seis-tiros-no-bairro-mutirao/",
    "url_hash": "c0c30615ca748a807bb3d613"
   },
   "guid:6af9dd5952c09500099e2b13": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-16T04:11:59+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1541611821323042",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Estado registra 382 casos com comprovação laboratorial em 2026",
    "discovered_at": "2026-11-15T16:40:22+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1541611821323042",
    "formats": [
     "link"
    ],
@@ -26534,11 +26582,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/03b4c580-8842-4209-8a80-440d616c4f25.jpg",
    "key": "guid:6af9dd5952c09500099e2b13",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1541611821323042"
+   },
    "source_published_at": "2026-11-15T16:31:40+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Rio de Janeiro tem primeira morte confirmada por mpox no país",
-   "updated_at": "2026-11-15T16:40:22+00:00",
+   "updated_at": "2026-11-16T04:11:59+00:00",
    "url": "https://marioadolfo.com/rio-de-janeiro-tem-primeira-morte-confirmada-por-mpox-no-pais/",
    "url_hash": "181f8511f5f728ae7f9d76b0"
   },
@@ -26672,8 +26722,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-16T04:00:19+00:00",
-  "saved_at": "2026-11-16T04:02:08+00:00"
+  "last_run_at": "2026-11-16T04:10:15+00:00",
+  "saved_at": "2026-11-16T04:11:59+00:00"
  },
  "schema": 1
 }
