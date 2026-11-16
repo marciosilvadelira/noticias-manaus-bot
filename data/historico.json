@@ -27279,13 +27279,34 @@
    "updated_at": "2026-11-16T17:50:16+00:00",
    "url": "https://marioadolfo.com/tre-am-mantem-decisao-que-afastou-fraude-a-cota-de-genero-no-partido-agir-em-manaus/",
    "url_hash": "090b05b96b8a13a5045df36e"
+  },
+  "guid:6afb45bc52c09500099e2e49": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Segundo o superintendente, a estabilidade regulatória  tem contribuído para fortalecer a competitividade da Zona Franca e ampliar seus impactos econômicos em diferentes regiões do País",
+   "discovered_at": "2026-11-16T18:10:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afb45bc52c09500099e2e49",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/624800fa-96b7-4cd7-878e-a41bfec0178a.jpeg",
+   "key": "guid:6afb45bc52c09500099e2e49",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-16T18:06:40+00:00",
+   "status": "pending",
+   "title": "Com segurança jurídica pós-Reforma Tributária, Suframa anuncia pacote de modernização para 2027",
+   "updated_at": "2026-11-16T18:10:16+00:00",
+   "url": "https://marioadolfo.com/com-seguranca-juridica-pos-reforma-tributaria-suframa-anuncia-pacote-de-modernizacao-para-2027/",
+   "url_hash": "87bb1dfc54ce7739ac7864b9"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-16T18:00:22+00:00",
-  "saved_at": "2026-11-16T18:00:24+00:00"
+  "last_run_at": "2026-11-16T18:10:14+00:00",
+  "saved_at": "2026-11-16T18:10:16+00:00"
  },
  "schema": 1
 }
