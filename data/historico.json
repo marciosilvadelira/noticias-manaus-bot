@@ -26985,13 +26985,34 @@
    "updated_at": "2026-11-16T14:20:20+00:00",
    "url": "https://marioadolfo.com/raizes-do-investimento-fecha-o-ano-com-bemol-bertolini-virrosas-e-fpftech/",
    "url_hash": "30e32dded8fde126fc77e5ee"
+  },
+  "guid:6afb16b652c09500099e2ca9": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Exportações alcançaram maior volume desde 2018 e estão próximas do recorde histórico de 2010",
+   "discovered_at": "2026-11-16T15:00:25+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afb16b652c09500099e2ca9",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/195d637f-51c3-437d-a82e-e9825ed444d7.jpeg",
+   "key": "guid:6afb16b652c09500099e2ca9",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-16T14:45:34+00:00",
+   "status": "pending",
+   "title": "Balança Comercial do Amazonas registra US$ 1,49 bilhão no comércio exterior em outubro",
+   "updated_at": "2026-11-16T15:00:25+00:00",
+   "url": "https://marioadolfo.com/balanca-comercial-do-amazonas-registra-us-1-49-bilhao-no-comercio-exterior-em-outubro/",
+   "url_hash": "bcaec1d29beeaacb303326d6"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-16T14:40:15+00:00",
-  "saved_at": "2026-11-16T14:40:18+00:00"
+  "last_run_at": "2026-11-16T15:00:25+00:00",
+  "saved_at": "2026-11-16T15:00:26+00:00"
  },
  "schema": 1
 }
