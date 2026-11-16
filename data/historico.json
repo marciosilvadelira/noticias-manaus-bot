@@ -26943,13 +26943,55 @@
    "updated_at": "2026-11-16T13:30:20+00:00",
    "url": "https://marioadolfo.com/tjam-tem-mais-de-500-audiencias-para-a-semana-nacional-de-regularizacao-tributaria-em-manaus/",
    "url_hash": "48c74362b1a8cc1b77060a8c"
+  },
+  "guid:6afb0e5352c09500099e2c6d": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "O balanço foi divulgado pela Polícia Civil do Amazonas. A atuação das unidades abrange diferentes formas de violência previstas na Lei Maria da Penha",
+   "discovered_at": "2026-11-16T14:20:20+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afb0e5352c09500099e2c6d",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/9c5cb30f-8300-486c-a898-ae9c8247dcfe.jpeg",
+   "key": "guid:6afb0e5352c09500099e2c6d",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-16T14:11:08+00:00",
+   "status": "pending",
+   "title": "Amazonas registra 6,8 mil solicitações de medidas protetivas e mais de 1,2 mil prisões em 2026",
+   "updated_at": "2026-11-16T14:20:20+00:00",
+   "url": "https://marioadolfo.com/amazonas-registra-6-8-mil-solicitacoes-de-medidas-protetivas-e-mais-de-1-2-mil-prisoes-em-2026/",
+   "url_hash": "59139b0452827c571e6a727e"
+  },
+  "guid:6afb0f3452c09500099e2c93": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Sedecti reúne empresários e investidores para discutir competitividade, inovação e oportunidades de negócios no Amazonas",
+   "discovered_at": "2026-11-16T14:20:20+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afb0f3452c09500099e2c93",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/15fee046-f3a3-40c3-9f2a-6d470190c5a4.jpeg",
+   "key": "guid:6afb0f3452c09500099e2c93",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-16T14:13:35+00:00",
+   "status": "pending",
+   "title": "‘Raízes do Investimento’ fecha o ano com Bemol, Bertolini, Virrosas e FPFTech",
+   "updated_at": "2026-11-16T14:20:20+00:00",
+   "url": "https://marioadolfo.com/raizes-do-investimento-fecha-o-ano-com-bemol-bertolini-virrosas-e-fpftech/",
+   "url_hash": "30e32dded8fde126fc77e5ee"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-16T14:10:17+00:00",
-  "saved_at": "2026-11-16T14:10:18+00:00"
+  "last_run_at": "2026-11-16T14:20:19+00:00",
+  "saved_at": "2026-11-16T14:20:21+00:00"
  },
  "schema": 1
 }
