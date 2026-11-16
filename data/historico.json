@@ -27090,13 +27090,55 @@
    "updated_at": "2026-11-16T15:50:24+00:00",
    "url": "https://marioadolfo.com/homem-detido-apos-destruir-porta-de-igreja-em-manaus/",
    "url_hash": "c859ddf1f1ef6ec0fff546a2"
+  },
+  "guid:6afb25dc52c09500099e2d26": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "O corpo da vítima foi localizado na rua Planeta Vênus, no conjunto Morada do Sol, e estava ao lado de latinha de cerveja",
+   "discovered_at": "2026-11-16T16:00:24+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afb25dc52c09500099e2d26",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/1a4f4484-fec0-4058-aa67-a40cad98ece8.webp",
+   "key": "guid:6afb25dc52c09500099e2d26",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-16T15:54:10+00:00",
+   "status": "pending",
+   "title": "Trabalhador é encontrado morto com saco na cabeça e lado de latinha em Manaus",
+   "updated_at": "2026-11-16T16:00:24+00:00",
+   "url": "https://marioadolfo.com/trabalhador-e-encontrado-morto-com-saco-na-cabeca-em-manaus/",
+   "url_hash": "61c8cf780619ac050e06900d"
+  },
+  "guid:6afb275f52c09500099e2d4c": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Com programação até 26 de novembro, evento reúne nove apresentações teatrais, oito delas gratuitas, exposições de artes visuais e oficinas para estudantes",
+   "discovered_at": "2026-11-16T16:00:24+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afb275f52c09500099e2d4c",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4a135301-057b-4866-bfcb-5669c979eb68.jpeg",
+   "key": "guid:6afb275f52c09500099e2d4c",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-16T15:58:42+00:00",
+   "status": "pending",
+   "title": "Virada Amazônica começa nesta quarta-feira com espetáculo premiado da Buia Teatro no Largo de São Sebastião",
+   "updated_at": "2026-11-16T16:00:24+00:00",
+   "url": "https://marioadolfo.com/virada-amazonica-comeca-nesta-quarta-feira-com-espetaculo-premiado-da-buia-teatro-no-largo-de-sao-sebastiao/",
+   "url_hash": "354cde83bf31e5714755e537"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-16T15:50:23+00:00",
-  "saved_at": "2026-11-16T15:50:24+00:00"
+  "last_run_at": "2026-11-16T16:00:24+00:00",
+  "saved_at": "2026-11-16T16:00:25+00:00"
  },
  "schema": 1
 }
