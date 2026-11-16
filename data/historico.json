@@ -26922,13 +26922,34 @@
    "updated_at": "2026-11-16T13:20:15+00:00",
    "url": "https://marioadolfo.com/supermercado-realiza-nova-selecao-exclusiva-para-pcds-nesta-terca-feira-17/",
    "url_hash": "0b90d2af305bca5f6a4c6325"
+  },
+  "guid:6afb026452c09500099e2c4b": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Mutirão será realizado de 16 a 19 de novembro, Fórum de Justiça Henoch Reis",
+   "discovered_at": "2026-11-16T13:30:20+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afb026452c09500099e2c4b",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c90f3bc0-59ff-4e26-b58f-d1a2ae646033.webp",
+   "key": "guid:6afb026452c09500099e2c4b",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-16T13:21:20+00:00",
+   "status": "pending",
+   "title": "TJAM tem mais de 500 audiências para a Semana Nacional de Regularização Tributária em Manaus",
+   "updated_at": "2026-11-16T13:30:20+00:00",
+   "url": "https://marioadolfo.com/tjam-tem-mais-de-500-audiencias-para-a-semana-nacional-de-regularizacao-tributaria-em-manaus/",
+   "url_hash": "48c74362b1a8cc1b77060a8c"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-16T13:20:15+00:00",
-  "saved_at": "2026-11-16T13:20:16+00:00"
+  "last_run_at": "2026-11-16T13:30:19+00:00",
+  "saved_at": "2026-11-16T13:30:21+00:00"
  },
  "schema": 1
 }
