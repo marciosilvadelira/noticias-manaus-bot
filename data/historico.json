@@ -27258,13 +27258,34 @@
    "updated_at": "2026-11-16T17:20:18+00:00",
    "url": "https://marioadolfo.com/video-trabalhador-morre-apos-cair-de-telhado-no-centro-de-manaus/",
    "url_hash": "d8976a7b3b749cf0a59e43d3"
+  },
+  "guid:6afb41c452c09500099e2e2a": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Pleno considerou comprovada a realização de campanhas pelas candidatas, com atividades de rua, divulgação nas redes sociais, votação e recursos partidários",
+   "discovered_at": "2026-11-16T17:50:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afb41c452c09500099e2e2a",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/76b8497b-e702-4d91-adc3-1d3cf7364c23.jpeg",
+   "key": "guid:6afb41c452c09500099e2e2a",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-16T17:49:51+00:00",
+   "status": "pending",
+   "title": "TRE-AM mantém decisão que afastou fraude à cota de gênero no Partido Agir em Manaus",
+   "updated_at": "2026-11-16T17:50:16+00:00",
+   "url": "https://marioadolfo.com/tre-am-mantem-decisao-que-afastou-fraude-a-cota-de-genero-no-partido-agir-em-manaus/",
+   "url_hash": "090b05b96b8a13a5045df36e"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-16T17:40:16+00:00",
-  "saved_at": "2026-11-16T17:40:22+00:00"
+  "last_run_at": "2026-11-16T17:50:15+00:00",
+  "saved_at": "2026-11-16T17:50:17+00:00"
  },
  "schema": 1
 }
