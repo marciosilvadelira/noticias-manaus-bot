@@ -27174,13 +27174,34 @@
    "updated_at": "2026-11-16T16:20:21+00:00",
    "url": "https://marioadolfo.com/mais-de-15-kg-de-drogas-sao-apreendidos-no-porto-de-parintins/",
    "url_hash": "0fa6eadd377ee100bb31ca0f"
+  },
+  "guid:6afb35c252c09500099e2da3": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A sessão será conduzida pela conselheira-presidente Yara Amazônia Lins",
+   "discovered_at": "2026-11-16T17:00:24+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afb35c252c09500099e2da3",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f2d77f0b-05fb-40db-a769-4ef253fad9ce.jpeg",
+   "key": "guid:6afb35c252c09500099e2da3",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-16T16:58:20+00:00",
+   "status": "pending",
+   "title": "TCE-AM terá 90 processos em julgamento na sessão de terça-feira (17)",
+   "updated_at": "2026-11-16T17:00:24+00:00",
+   "url": "https://marioadolfo.com/tce-am-tera-90-processos-em-julgamento-na-sessao-de-terca-feira-17/",
+   "url_hash": "cb53e71e31593da00bc48ef2"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-16T16:50:18+00:00",
-  "saved_at": "2026-11-16T16:50:20+00:00"
+  "last_run_at": "2026-11-16T17:00:23+00:00",
+  "saved_at": "2026-11-16T17:00:25+00:00"
  },
  "schema": 1
 }
