@@ -26593,11 +26593,19 @@
    "url_hash": "181f8511f5f728ae7f9d76b0"
   },
   "guid:6af9f49252c09500099e2b28": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-16T04:20:20+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1541619001322324",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Os entorpecentes foram encontrados com auxílio de cão farejador e representam prejuízo de mais de R$ 557 mil ao crime organizado",
    "discovered_at": "2026-11-15T18:10:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1541619001322324",
    "formats": [
     "link"
    ],
@@ -26605,20 +26613,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/470d8e83-e0ac-45e1-8c95-68fae22192dd.jpg",
    "key": "guid:6af9f49252c09500099e2b28",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1541619001322324"
+   },
    "source_published_at": "2026-11-15T18:09:13+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Policiais apreendem 8 kg de drogas escondidos em bebedouro de embarcação",
-   "updated_at": "2026-11-15T18:10:16+00:00",
+   "updated_at": "2026-11-16T04:20:20+00:00",
    "url": "https://marioadolfo.com/policiais-apreendem-8-kg-de-drogas-escondidos-em-bebedouro-de-embarcacao/",
    "url_hash": "ed77635664f223fc316599d7"
   },
   "guid:6af9f58452c09500099e2b3e": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-16T04:20:44+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1541619657988925",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Programação vai até o dia 9 de dezembro na capital e no interior. Se você é vítima ou testemunha de violência doméstica, denuncie, Disque 180",
    "discovered_at": "2026-11-15T18:20:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1541619657988925",
    "formats": [
     "link"
    ],
@@ -26626,20 +26644,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/74db3f51-48f0-4d5d-8feb-0779155802fe.jpeg",
    "key": "guid:6af9f58452c09500099e2b3e",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1541619657988925"
+   },
    "source_published_at": "2026-11-15T18:11:03+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Sejusc promove ações pelo fim da violência contra as mulheres no Amazonas",
-   "updated_at": "2026-11-15T18:20:15+00:00",
+   "updated_at": "2026-11-16T04:20:44+00:00",
    "url": "https://marioadolfo.com/sejusc-promove-acoes-pelo-fim-da-violencia-contra-as-mulheres-no-amazonas/",
    "url_hash": "16da5615a385108f8420e31b"
   },
   "guid:6af9f5d252c09500099e2b51": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-16T04:21:08+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1541620194655538",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "O benefício é válido até às 20h e os candidatos precisaram apresentar um documento de identificação com foto e o comprovante de inscrição no Enem",
    "discovered_at": "2026-11-15T18:20:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1541620194655538",
    "formats": [
     "link"
    ],
@@ -26647,20 +26675,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/39f4dd51-d4d9-40e1-9ab3-a8b3058748a9.jpg",
    "key": "guid:6af9f5d252c09500099e2b51",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1541620194655538"
+   },
    "source_published_at": "2026-11-15T18:13:32+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Manaus garante gratuidade no transporte coletivo para candidatos no 2º dia de provas do Enem 2026",
-   "updated_at": "2026-11-15T18:20:15+00:00",
+   "updated_at": "2026-11-16T04:21:08+00:00",
    "url": "https://marioadolfo.com/manaus-garante-gratuidade-no-transporte-coletivo-para-candidatos-no-2o-dia-de-provas-do-enem-2026/",
    "url_hash": "fe3a384d69c5b311260946a8"
   },
   "guid:6af9f6dd52c09500099e2b76": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-16T04:21:33+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1541620441322180",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "A motivação e a autoria do homicídio são desconhecidas e serão apuradas pelo Polícia Civil do Amazonas",
    "discovered_at": "2026-11-15T18:20:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1541620441322180",
    "formats": [
     "link"
    ],
@@ -26668,20 +26706,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d6716380-6807-484f-9e02-6e7914f95e4f.png",
    "key": "guid:6af9f6dd52c09500099e2b76",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1541620441322180"
+   },
    "source_published_at": "2026-11-15T18:18:31+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Homem é executado a tiros durante a madrugada no bairro Coroado",
-   "updated_at": "2026-11-15T18:20:15+00:00",
+   "updated_at": "2026-11-16T04:21:33+00:00",
    "url": "https://marioadolfo.com/hom/",
    "url_hash": "e02e48e6a49fc48ea28b796c"
   },
   "guid:6af9fb6e52c09500099e2b95": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-16T04:22:00+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1541620734655484",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "operação reúne forças de segurança e órgãos parceiros para monitorar locais de prova, escoltar malotes e atender possíveis ocorrências",
    "discovered_at": "2026-11-15T18:40:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1541620734655484",
    "formats": [
     "link"
    ],
@@ -26689,11 +26737,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ec35481c-de03-465f-b159-4d8755c82a46.jpeg",
    "key": "guid:6af9fb6e52c09500099e2b95",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1541620734655484"
+   },
    "source_published_at": "2026-11-15T18:39:08+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Enem: mais de 900 servidores reforçam segurança no 2º dia de provas no AM",
-   "updated_at": "2026-11-15T18:40:15+00:00",
+   "updated_at": "2026-11-16T04:22:00+00:00",
    "url": "https://marioadolfo.com/mais-de-900-servidores-reforcam-serguranca-no/",
    "url_hash": "3a6611f36422587cc9f62d5a"
   },
@@ -26722,8 +26772,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-16T04:10:15+00:00",
-  "saved_at": "2026-11-16T04:11:59+00:00"
+  "last_run_at": "2026-11-16T04:20:14+00:00",
+  "saved_at": "2026-11-16T04:22:00+00:00"
  },
  "schema": 1
 }
