@@ -26809,6 +26809,37 @@
    "url": "https://marioadolfo.com/detento-e-morto-a-facadas-dentro-de-unidade-prisional-do-puraquequara/",
    "url_hash": "f8dfff43a7e907cb873746e1"
   },
+  "guid:6afa544452c09500099e2bdb": {
+   "attempts": [
+    {
+     "at": "2026-11-16T11:50:25+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1541979774619580",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Brasil",
+   "description": "Prova terminou “sem intercorrências graves”, diz ministro da Educação",
+   "discovered_at": "2026-11-16T11:50:20+00:00",
+   "fb_post_id": "107393769293726_1541979774619580",
+   "formats": [
+    "link"
+   ],
+   "guid": "6afa544452c09500099e2bdb",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/51ce2e2f-cd98-42ee-8e49-722d08d18e4f.jpeg",
+   "key": "guid:6afa544452c09500099e2bdb",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1541979774619580"
+   },
+   "source_published_at": "2026-11-16T11:40:27+00:00",
+   "status": "published",
+   "title": "Gabarito do Enem sai na quarta-feira e resultado em 18 de janeiro",
+   "updated_at": "2026-11-16T11:50:25+00:00",
+   "url": "https://marioadolfo.com/gabarito-do-enem-sai-na-quarta-feira-e-resultado-em-18-de-janeiro/",
+   "url_hash": "111f10f104e7d6f7bfaab3d3"
+  },
   "guid:6afa558152c09500099e2bfd": {
    "attempts": [
     {
@@ -26875,8 +26906,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-16T11:40:22+00:00",
-  "saved_at": "2026-11-16T11:40:28+00:00"
+  "last_run_at": "2026-11-16T11:50:20+00:00",
+  "saved_at": "2026-11-16T11:50:25+00:00"
  },
  "schema": 1
 }
