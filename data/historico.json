@@ -26262,11 +26262,19 @@
    "url_hash": "4484bed2bfb2714aba7940f3"
   },
   "guid:6af90e9152c09500099e29b7": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-16T04:01:16+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1541596911324533",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Na 10ª operação de transbordo de resíduos, realizada no sábado (14), foram retirados 375.490 toneladas de lixo",
    "discovered_at": "2026-11-15T12:10:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1541596911324533",
    "formats": [
     "link"
    ],
@@ -26274,20 +26282,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b8eca798-0f11-427e-8303-2e1ee2d1e585.jpeg",
    "key": "guid:6af90e9152c09500099e29b7",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1541596911324533"
+   },
    "source_published_at": "2026-11-15T12:00:52+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Mais de 3,4 mil toneladas de resíduos foram retirados da orla do rio Negro em 2026",
-   "updated_at": "2026-11-15T12:10:16+00:00",
+   "updated_at": "2026-11-16T04:01:16+00:00",
    "url": "https://marioadolfo.com/mais-de-3-4-mil-toneladas-de-residuos-foram-retirados-da-orla-do-rio-negro-em-2026/",
    "url_hash": "02e05999d75ca85919654dc2"
   },
   "guid:6af90f7752c09500099e29d0": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-16T04:00:24+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1541596387991252",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Atos foram firmados durante visita oficial do presidente Lula a Manila",
    "discovered_at": "2026-11-15T11:40:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1541596387991252",
    "formats": [
     "link"
    ],
@@ -26295,20 +26313,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/dc64d2f6-86cf-46fe-b1ce-4d9fcfc73a4f.webp",
    "key": "guid:6af90f7752c09500099e29d0",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1541596387991252"
+   },
    "source_published_at": "2026-11-15T11:30:31+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Brasil e Filipinas assinam acordos sobre agro e livre concorrência",
-   "updated_at": "2026-11-15T11:40:16+00:00",
+   "updated_at": "2026-11-16T04:00:24+00:00",
    "url": "https://marioadolfo.com/brasil-e-filipinas-assinam-acordos-sobre-agro-e-livre-concorrencia/",
    "url_hash": "6f063151388b31300ac0c55f"
   },
   "guid:6af9109552c09500099e29ed": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-16T04:00:51+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1541596631324561",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "A mudança é na duração de cada aula e  atende a decisão que reconheceu o intervalo de 15 minutos dos professores como parte da jornada de trabalho",
    "discovered_at": "2026-11-15T12:00:20+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1541596631324561",
    "formats": [
     "link"
    ],
@@ -26316,20 +26344,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/504a6b9a-abb6-451c-9ceb-20a954c6af88.webp",
    "key": "guid:6af9109552c09500099e29ed",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1541596631324561"
+   },
    "source_published_at": "2026-11-15T12:00:19+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Escolas estaduais de Manaus terão aulas de 45 minutos a partir de segunda-feira (16)",
-   "updated_at": "2026-11-15T12:00:20+00:00",
+   "updated_at": "2026-11-16T04:00:51+00:00",
    "url": "https://marioadolfo.com/escolas-estaduais-de-manaus-terao-aulas-de-45-minutos-a-partir-de-segunda-feira-16/",
    "url_hash": "a818fef55c14512e77755344"
   },
   "guid:6af9a9ea52c09500099e2a1a": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-16T04:02:08+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1541598284657729",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Dito & Feito",
    "description": "O roteiro sórdido era Lula na cadeia, Bolsonaro presidente e um cargo de ministro da Justiça para o juiz suspeito",
    "discovered_at": "2026-11-15T13:00:20+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1541598284657729",
    "formats": [
     "link"
    ],
@@ -26337,11 +26375,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/3e089e23-4c9a-420c-abe4-8737bbe5050d.jpeg",
    "key": "guid:6af9a9ea52c09500099e2a1a",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1541598284657729"
+   },
    "source_published_at": "2026-11-15T12:58:29+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Dito & Feito: A FARSA MAQUIAVÉLICA DE SÉRGIO MORO",
-   "updated_at": "2026-11-15T13:00:20+00:00",
+   "updated_at": "2026-11-16T04:02:08+00:00",
    "url": "https://marioadolfo.com/dito-feito-a-farsa-maquiavelica-de-sergio-moro/",
    "url_hash": "71880487983d6183e738407f"
   },
@@ -26388,11 +26428,19 @@
    "url_hash": "2a1ec6e2aebd18d2ada8db14"
   },
   "guid:6af9c7a352c09500099e2a97": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-16T04:01:40+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1541597477991143",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "São 90 questões de matemática e ciências; portões fecham 13h",
    "discovered_at": "2026-11-15T15:00:22+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1541597477991143",
    "formats": [
     "link"
    ],
@@ -26400,11 +26448,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2dd6f9ea-fbda-45ec-a636-e2980d77dc7e.jpg",
    "key": "guid:6af9c7a352c09500099e2a97",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1541597477991143"
+   },
    "source_published_at": "2026-11-15T12:30:00+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Enem 2026: candidatos fazem hoje segundo dia de provas",
-   "updated_at": "2026-11-15T15:00:22+00:00",
+   "updated_at": "2026-11-16T04:01:40+00:00",
    "url": "https://marioadolfo.com/enem-2026-candidatos-fazem-hoje-segundo-dia-de-provas/",
    "url_hash": "e532f345d1497cddefe5443d"
   },
@@ -26420,12 +26470,12 @@
    "guid": "6af9c82f52c09500099e2ab2",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6703632d-d1bd-4eb0-bf78-66b8fc5ee018.jpeg",
    "key": "guid:6af9c82f52c09500099e2ab2",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-15T04:00:00+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Sine Manaus oferece 642 vagas de emprego nesta segunda-feira (1 6)",
-   "updated_at": "2026-11-15T15:20:15+00:00",
+   "updated_at": "2026-11-16T04:00:19+00:00",
    "url": "https://marioadolfo.com/sine-manaus-oferece-642-vagas-de-emprego-nesta-segunda-feira-1-6/",
    "url_hash": "7ae5ea24e97b595d4b007109"
   },
@@ -26622,8 +26672,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-16T03:50:15+00:00",
-  "saved_at": "2026-11-16T03:50:17+00:00"
+  "last_run_at": "2026-11-16T04:00:19+00:00",
+  "saved_at": "2026-11-16T04:02:08+00:00"
  },
  "schema": 1
 }
