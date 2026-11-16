@@ -27027,13 +27027,34 @@
    "updated_at": "2026-11-16T15:10:18+00:00",
    "url": "https://marioadolfo.com/aguas-de-manaus-inicia-campanha-de-negociacao-de-dividas-com-descontos-de-ate-95/",
    "url_hash": "db4ced2f3cf7058297a71272"
+  },
+  "guid:6afb1e0b52c09500099e2cde": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Planos de saúde terão de cobrir exame e medicamento oral",
+   "discovered_at": "2026-11-16T15:20:23+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afb1e0b52c09500099e2cde",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ab270fc8-7cb6-429b-b57d-2a91f55e8010.webp",
+   "key": "guid:6afb1e0b52c09500099e2cde",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-16T15:18:36+00:00",
+   "status": "pending",
+   "title": "ANS amplia cobertura obrigatória para tratamento de câncer de pulmão",
+   "updated_at": "2026-11-16T15:20:23+00:00",
+   "url": "https://marioadolfo.com/ans-amplia-cobertura-obrigatoria-para-tratamento-de-cancer-de-pulmao/",
+   "url_hash": "3436b9bc737790336424b03e"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-16T15:10:17+00:00",
-  "saved_at": "2026-11-16T15:10:18+00:00"
+  "last_run_at": "2026-11-16T15:20:18+00:00",
+  "saved_at": "2026-11-16T15:20:23+00:00"
  },
  "schema": 1
 }
