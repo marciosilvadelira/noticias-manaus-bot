@@ -27048,13 +27048,34 @@
    "updated_at": "2026-11-16T15:20:23+00:00",
    "url": "https://marioadolfo.com/ans-amplia-cobertura-obrigatoria-para-tratamento-de-cancer-de-pulmao/",
    "url_hash": "3436b9bc737790336424b03e"
+  },
+  "guid:6afb1f1252c09500099e2cf6": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Alta de 1,5% em relação às contratações no 4º trimestre do ano passado",
+   "discovered_at": "2026-11-16T15:30:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afb1f1252c09500099e2cf6",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4d0e7421-74c7-4813-b378-7696ddcda6ae.webp",
+   "key": "guid:6afb1f1252c09500099e2cf6",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-16T15:21:15+00:00",
+   "status": "pending",
+   "title": "Fim do ano deve registrar 540 mil contratos temporários de trabalho",
+   "updated_at": "2026-11-16T15:30:19+00:00",
+   "url": "https://marioadolfo.com/fim-do-ano-deve-registrar-540-mil-contratos-temporarios-de-trabalho/",
+   "url_hash": "e8ac2f46534998ec4cdad86e"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-16T15:20:18+00:00",
-  "saved_at": "2026-11-16T15:20:23+00:00"
+  "last_run_at": "2026-11-16T15:30:19+00:00",
+  "saved_at": "2026-11-16T15:30:20+00:00"
  },
  "schema": 1
 }
