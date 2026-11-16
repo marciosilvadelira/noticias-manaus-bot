@@ -27195,13 +27195,55 @@
    "updated_at": "2026-11-16T17:00:24+00:00",
    "url": "https://marioadolfo.com/tce-am-tera-90-processos-em-julgamento-na-sessao-de-terca-feira-17/",
    "url_hash": "cb53e71e31593da00bc48ef2"
+  },
+  "guid:6afb363e52c09500099e2dba": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Última edição do \"Defensoria Tá na Área\" terá 520 vagas para assistência jurídica gratuita nas áreas de Família e Defesa do Consumidor",
+   "discovered_at": "2026-11-16T17:10:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afb363e52c09500099e2dba",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5417b4d2-c18c-47d9-8e48-c7bcb124003f.jpeg",
+   "key": "guid:6afb363e52c09500099e2dba",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-16T17:00:29+00:00",
+   "status": "pending",
+   "title": "Defensoria oferece atendimento jurídico gratuito no Centro de Manaus, nesta quarta",
+   "updated_at": "2026-11-16T17:10:17+00:00",
+   "url": "https://marioadolfo.com/defensoria-oferece-atendimento-juridico-gratuito-no-centro-de-manaus/",
+   "url_hash": "43900ec08112155e53ece490"
+  },
+  "guid:6afb372252c09500099e2ddb": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "De acordo com a Defesa Civil, 165.008 famílias são afetadas pelo desastre de estiagem",
+   "discovered_at": "2026-11-16T17:10:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afb372252c09500099e2ddb",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4c0c8bc7-180b-4d06-a7b1-52955399f5ef.jpeg",
+   "key": "guid:6afb372252c09500099e2ddb",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-16T17:04:46+00:00",
+   "status": "pending",
+   "title": "Estiagem: sobe para 52 cidades em situação de Emergência no AM",
+   "updated_at": "2026-11-16T17:10:17+00:00",
+   "url": "https://marioadolfo.com/estiagem-sobe-para-52-cidades-em-situacao-de-emergencia-no-am/",
+   "url_hash": "89bffe290a755d52d416e327"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-16T17:00:23+00:00",
-  "saved_at": "2026-11-16T17:00:25+00:00"
+  "last_run_at": "2026-11-16T17:10:16+00:00",
+  "saved_at": "2026-11-16T17:10:18+00:00"
  },
  "schema": 1
 }
