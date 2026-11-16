@@ -27447,13 +27447,34 @@
    "updated_at": "2026-11-16T20:20:26+00:00",
    "url": "https://marioadolfo.com/homem-e-preso-por-enforcar-e-furar-o-celular-da-ex-companheira-no-santa-etelvina/",
    "url_hash": "3f185cad34eb20be8d030d30"
+  },
+  "guid:6afb795852c09500099e2f43": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "As operações ocorreram em todas as zonas de Manaus, entre os dias 8 e 16 de novembro",
+   "discovered_at": "2026-11-16T21:50:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afb795852c09500099e2f43",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c2ed34d5-3bcb-4a06-8a7f-f5386ec202f3.jpeg",
+   "key": "guid:6afb795852c09500099e2f43",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-16T21:46:15+00:00",
+   "status": "pending",
+   "title": "Detran-AM: fiscalização registra quase 2 mil infrações em apenas uma semana",
+   "updated_at": "2026-11-16T21:50:16+00:00",
+   "url": "https://marioadolfo.com/detran-am-fiscalizacao-registra-quase-2-mil-infracoes-em-apenas-uma-semana/",
+   "url_hash": "b96106f7e1d96a2401324d95"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-16T21:40:18+00:00",
-  "saved_at": "2026-11-16T21:40:19+00:00"
+  "last_run_at": "2026-11-16T21:50:15+00:00",
+  "saved_at": "2026-11-16T21:50:16+00:00"
  },
  "schema": 1
 }
