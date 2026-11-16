@@ -27237,13 +27237,34 @@
    "updated_at": "2026-11-16T17:10:17+00:00",
    "url": "https://marioadolfo.com/estiagem-sobe-para-52-cidades-em-situacao-de-emergencia-no-am/",
    "url_hash": "89bffe290a755d52d416e327"
+  },
+  "guid:6afb382b52c09500099e2df8": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Segundo testemunhas, a vítima realizava serviços de manutenção no telhado da casa, quando perdeu o equilíbrio e despencou da cobertura até o chão",
+   "discovered_at": "2026-11-16T17:20:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afb382b52c09500099e2df8",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/763410ef-8ec0-4389-86b6-c3e12e4434b9.jpeg",
+   "key": "guid:6afb382b52c09500099e2df8",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-16T17:17:25+00:00",
+   "status": "pending",
+   "title": "Vídeo: trabalhador morre após cair de telhado no Centro de Manaus",
+   "updated_at": "2026-11-16T17:20:18+00:00",
+   "url": "https://marioadolfo.com/video-trabalhador-morre-apos-cair-de-telhado-no-centro-de-manaus/",
+   "url_hash": "d8976a7b3b749cf0a59e43d3"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-16T17:10:16+00:00",
-  "saved_at": "2026-11-16T17:10:18+00:00"
+  "last_run_at": "2026-11-16T17:20:17+00:00",
+  "saved_at": "2026-11-16T17:20:19+00:00"
  },
  "schema": 1
 }
