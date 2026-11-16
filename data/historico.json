@@ -26777,13 +26777,44 @@
    "updated_at": "2026-11-16T04:30:24+00:00",
    "url": "https://marioadolfo.com/detento-e-morto-a-facadas-dentro-de-unidade-prisional-do-puraquequara/",
    "url_hash": "f8dfff43a7e907cb873746e1"
+  },
+  "guid:6afa584652c09500099e2c1b": {
+   "attempts": [
+    {
+     "at": "2026-11-16T11:00:29+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1541941207956770",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "O ato está marcado para às 9h desta segunda-feira (6) em frente à sede do Governo do Amazonas",
+   "discovered_at": "2026-11-16T11:00:23+00:00",
+   "fb_post_id": "107393769293726_1541941207956770",
+   "formats": [
+    "link"
+   ],
+   "guid": "6afa584652c09500099e2c1b",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0b8ac4d7-5a3d-401b-a5a1-f2611d1ca502.jpeg",
+   "key": "guid:6afa584652c09500099e2c1b",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1541941207956770"
+   },
+   "source_published_at": "2026-11-16T11:00:14+00:00",
+   "status": "published",
+   "title": "Professores da rede estadual realizam manifestação pelo  restabelecimento do plano de saúde",
+   "updated_at": "2026-11-16T11:00:29+00:00",
+   "url": "https://marioadolfo.com/professores-da-rede-estadual-realizam-manifestacao-pelo-restabelecimento-do-plano-de-saude/",
+   "url_hash": "d1633041f3529aef9684e71a"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-16T10:50:14+00:00",
-  "saved_at": "2026-11-16T10:50:15+00:00"
+  "last_run_at": "2026-11-16T11:00:21+00:00",
+  "saved_at": "2026-11-16T11:00:29+00:00"
  },
  "schema": 1
 }
