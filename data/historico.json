@@ -27342,13 +27342,97 @@
    "updated_at": "2026-11-16T19:50:23+00:00",
    "url": "https://marioadolfo.com/16a-mostra-de-cinema-e-direitos-humanos-realiza-exibicao-de-filmes-e-debates-gratuitos-em-manaus/",
    "url_hash": "4abc202b421d49b5be432a26"
+  },
+  "guid:6afb5e3e52c09500099e2ead": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Decisão alcança estudantes da rede estadual cadastrados como beneficiários em 1.º/11/2026 e prevê multa diária de R$ 50 mil ao Sinetram e ao IMMU em caso de descumprimento",
+   "discovered_at": "2026-11-16T20:00:26+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afb5e3e52c09500099e2ead",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/35acd121-ca37-498b-8d9e-d8944e7d685c.jpg",
+   "key": "guid:6afb5e3e52c09500099e2ead",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-16T19:51:13+00:00",
+   "status": "pending",
+   "title": "Justiça determina restabelecimento do Passe Livre Estudantil prazo de 24 horas",
+   "updated_at": "2026-11-16T20:00:26+00:00",
+   "url": "https://marioadolfo.com/justica-determina-restabelecimento-do-passe-livre-estudantil-prazo-de-24-horas/",
+   "url_hash": "690425a5719cbb87bfd4c249"
+  },
+  "guid:6afb5f5d52c09500099e2ec6": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Estudo apresentado na COP31 aponta desafios para ampliar investimentos",
+   "discovered_at": "2026-11-16T20:00:26+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afb5f5d52c09500099e2ec6",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/be9dbec3-46af-48cb-b48c-75e9dfb6f6fc.jpg",
+   "key": "guid:6afb5f5d52c09500099e2ec6",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-16T19:55:20+00:00",
+   "status": "pending",
+   "title": "Economia circular movimenta até R$ 90,7 bilhões no Brasil, aponta CNI",
+   "updated_at": "2026-11-16T20:00:26+00:00",
+   "url": "https://marioadolfo.com/economia-circular-movimenta-ate-r-90-7-bilhoes-no-brasil-aponta-cni/",
+   "url_hash": "25c1eabc6abd7ca53a3711c2"
+  },
+  "guid:6afb5fc052c09500099e2edb": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Iniciativa gratuita oferece atividades de movimento e relaxamento em resposta aos desafios físicos e emocionais enfrentados por mulheres empreendedoras",
+   "discovered_at": "2026-11-16T20:00:26+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afb5fc052c09500099e2edb",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4646c7b7-8e8b-46ab-9315-54d6c5243946.jpeg",
+   "key": "guid:6afb5fc052c09500099e2edb",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-16T19:57:55+00:00",
+   "status": "pending",
+   "title": "Consulado da Mulher promove encontro dedicado ao cuidado e à conexão em Manaus",
+   "updated_at": "2026-11-16T20:00:26+00:00",
+   "url": "https://marioadolfo.com/consulado-da-mulher-promove-encontro-dedicado-ao-cuidado-e-a-conexao-em-manaus/",
+   "url_hash": "ff7f3521683d414ec60fd494"
+  },
+  "guid:6afb607952c09500099e2ef4": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "O evento gratuito será realizado nos dias 17 e 18 de novembro, em Manaus, com oficinas temáticas e a participação de artistas, pesquisadores e brincantes",
+   "discovered_at": "2026-11-16T20:00:26+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afb607952c09500099e2ef4",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/10b97854-0a34-4fc8-b29d-f48e8028bccc.jpeg",
+   "key": "guid:6afb607952c09500099e2ef4",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-16T19:59:49+00:00",
+   "status": "pending",
+   "title": "Encontro em Manaus promove diálogo e ações para preservar o Boi-Bumbá como patrimônio cultural",
+   "updated_at": "2026-11-16T20:00:26+00:00",
+   "url": "https://marioadolfo.com/encontro-em-manaus-promove-dialogo-e-acoes-para-preservar-o-boi-bumba-como-patrimonio-cultural/",
+   "url_hash": "c0445e4d493341288bbaab09"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-16T19:50:23+00:00",
-  "saved_at": "2026-11-16T19:50:24+00:00"
+  "last_run_at": "2026-11-16T20:00:25+00:00",
+  "saved_at": "2026-11-16T20:00:26+00:00"
  },
  "schema": 1
 }
