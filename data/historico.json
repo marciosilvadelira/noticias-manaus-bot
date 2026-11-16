@@ -27069,13 +27069,34 @@
    "updated_at": "2026-11-16T15:30:19+00:00",
    "url": "https://marioadolfo.com/fim-do-ano-deve-registrar-540-mil-contratos-temporarios-de-trabalho/",
    "url_hash": "e8ac2f46534998ec4cdad86e"
+  },
+  "guid:6afb229552c09500099e2d0b": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "O caso aconteceu em um templo da Assembleia de Deus, localizado na avenida Morada Cristã",
+   "discovered_at": "2026-11-16T15:50:24+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afb229552c09500099e2d0b",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/960a0df9-5300-40cb-a30f-e30ab495a527.jpeg",
+   "key": "guid:6afb229552c09500099e2d0b",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-16T15:40:40+00:00",
+   "status": "pending",
+   "title": "Homem é detido após destruir porta de igreja durante culto em Manaus",
+   "updated_at": "2026-11-16T15:50:24+00:00",
+   "url": "https://marioadolfo.com/homem-detido-apos-destruir-porta-de-igreja-em-manaus/",
+   "url_hash": "c859ddf1f1ef6ec0fff546a2"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-16T15:40:17+00:00",
-  "saved_at": "2026-11-16T15:40:19+00:00"
+  "last_run_at": "2026-11-16T15:50:23+00:00",
+  "saved_at": "2026-11-16T15:50:24+00:00"
  },
  "schema": 1
 }
