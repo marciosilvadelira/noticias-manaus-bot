@@ -27132,13 +27132,55 @@
    "updated_at": "2026-11-16T16:00:24+00:00",
    "url": "https://marioadolfo.com/virada-amazonica-comeca-nesta-quarta-feira-com-espetaculo-premiado-da-buia-teatro-no-largo-de-sao-sebastiao/",
    "url_hash": "354cde83bf31e5714755e537"
+  },
+  "guid:6afb29a852c09500099e2d70": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Suspeito não aceitava o fim do relacionamento e constantemente ameaça a vítima",
+   "discovered_at": "2026-11-16T16:20:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afb29a852c09500099e2d70",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2ba887f7-a9f2-4a33-a2fd-0c07c240eb83.png",
+   "key": "guid:6afb29a852c09500099e2d70",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-16T16:11:56+00:00",
+   "status": "pending",
+   "title": "Homem é preso após instalar bomba em carro do atual companheiro da ex-mulher",
+   "updated_at": "2026-11-16T16:20:21+00:00",
+   "url": "https://marioadolfo.com/homem-e-preso-apos-instalar-bomba-em-carro-do-atual-companheiro-da-ex-mulher/",
+   "url_hash": "7501cecd09ac8774274d857b"
+  },
+  "guid:6afb2b6c52c09500099e2d8b": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Apreensão resultou em um prejuízo estimado de mais de meio milhão de reais ao crime",
+   "discovered_at": "2026-11-16T16:20:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afb2b6c52c09500099e2d8b",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6cb77067-0ea4-426a-a29b-ff17e61802fb.jpeg",
+   "key": "guid:6afb2b6c52c09500099e2d8b",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-16T16:14:34+00:00",
+   "status": "pending",
+   "title": "Mais de 15 kg de drogas são apreendidos no Porto de Parintins",
+   "updated_at": "2026-11-16T16:20:21+00:00",
+   "url": "https://marioadolfo.com/mais-de-15-kg-de-drogas-sao-apreendidos-no-porto-de-parintins/",
+   "url_hash": "0fa6eadd377ee100bb31ca0f"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-16T16:10:16+00:00",
-  "saved_at": "2026-11-16T16:10:18+00:00"
+  "last_run_at": "2026-11-16T16:20:16+00:00",
+  "saved_at": "2026-11-16T16:20:21+00:00"
  },
  "schema": 1
 }
