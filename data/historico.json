@@ -26809,6 +26809,37 @@
    "url": "https://marioadolfo.com/detento-e-morto-a-facadas-dentro-de-unidade-prisional-do-puraquequara/",
    "url_hash": "f8dfff43a7e907cb873746e1"
   },
+  "guid:6afa558152c09500099e2bfd": {
+   "attempts": [
+    {
+     "at": "2026-11-16T11:40:28+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1541971387953752",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Polícia",
+   "description": "Segundo a polícia, o surto possivelmente foi motivado pelo uso de drogas e pela interrupção de um tratamento medicamentoso",
+   "discovered_at": "2026-11-16T11:40:23+00:00",
+   "fb_post_id": "107393769293726_1541971387953752",
+   "formats": [
+    "link"
+   ],
+   "guid": "6afa558152c09500099e2bfd",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/9b307ebe-6055-4c4a-b276-d89ab4a24907.jpeg",
+   "key": "guid:6afa558152c09500099e2bfd",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1541971387953752"
+   },
+   "source_published_at": "2026-11-16T11:30:44+00:00",
+   "status": "published",
+   "title": "Homem é preso após fazer irmã refém durante surto no Novo Aleixo",
+   "updated_at": "2026-11-16T11:40:28+00:00",
+   "url": "https://marioadolfo.com/homem-e-preso-apos-fazer-irma-refem-durante-surto-no-novo-aleixo/",
+   "url_hash": "211c5c1683b6151974222cf0"
+  },
   "guid:6afa584652c09500099e2c1b": {
    "attempts": [
     {
@@ -26844,8 +26875,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-16T11:30:18+00:00",
-  "saved_at": "2026-11-16T11:30:24+00:00"
+  "last_run_at": "2026-11-16T11:40:22+00:00",
+  "saved_at": "2026-11-16T11:40:28+00:00"
  },
  "schema": 1
 }
