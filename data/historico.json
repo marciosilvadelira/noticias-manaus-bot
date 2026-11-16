@@ -27426,13 +27426,34 @@
    "updated_at": "2026-11-16T20:00:26+00:00",
    "url": "https://marioadolfo.com/encontro-em-manaus-promove-dialogo-e-acoes-para-preservar-o-boi-bumba-como-patrimonio-cultural/",
    "url_hash": "c0445e4d493341288bbaab09"
+  },
+  "guid:6afb622252c09500099e2f26": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "A vítima decidiu terminar a relação após descobrir o envolvimento do suspeito com o tráfico de drogas",
+   "discovered_at": "2026-11-16T20:20:26+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afb622252c09500099e2f26",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/bf9569c5-8732-412c-896c-d6016cf65127.jpg",
+   "key": "guid:6afb622252c09500099e2f26",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-16T20:13:09+00:00",
+   "status": "pending",
+   "title": "Homem é preso por enforcar e furar o celular da ex-companheira no Santa Etelvina",
+   "updated_at": "2026-11-16T20:20:26+00:00",
+   "url": "https://marioadolfo.com/homem-e-preso-por-enforcar-e-furar-o-celular-da-ex-companheira-no-santa-etelvina/",
+   "url_hash": "3f185cad34eb20be8d030d30"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-16T20:10:16+00:00",
-  "saved_at": "2026-11-16T20:10:18+00:00"
+  "last_run_at": "2026-11-16T20:20:26+00:00",
+  "saved_at": "2026-11-16T20:20:26+00:00"
  },
  "schema": 1
 }
