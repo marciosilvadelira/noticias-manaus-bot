@@ -27534,12 +27534,12 @@
    "guid": "6afb5da952c09500099e2e96",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/8df19483-d847-4732-89cd-5b9bd95e9f4c.jpeg",
    "key": "guid:6afb5da952c09500099e2e96",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-16T19:48:22+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "16ª Mostra de Cinema e Direitos Humanos realiza exibição de filmes e debates gratuitos em Manaus",
-   "updated_at": "2026-11-16T19:50:23+00:00",
+   "updated_at": "2026-11-17T19:50:21+00:00",
    "url": "https://marioadolfo.com/16a-mostra-de-cinema-e-direitos-humanos-realiza-exibicao-de-filmes-e-debates-gratuitos-em-manaus/",
    "url_hash": "4abc202b421d49b5be432a26"
   },
@@ -28303,8 +28303,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-17T19:40:31+00:00",
-  "saved_at": "2026-11-17T19:40:32+00:00"
+  "last_run_at": "2026-11-17T19:50:21+00:00",
+  "saved_at": "2026-11-17T19:50:22+00:00"
  },
  "schema": 1
 }
