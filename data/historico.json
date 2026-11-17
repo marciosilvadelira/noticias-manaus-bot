@@ -27815,13 +27815,34 @@
    "updated_at": "2026-11-17T14:30:29+00:00",
    "url": "https://marioadolfo.com/amazonas-registra-283-prisoes-de-crimes-contra-criancas-e-adolescentes-em-2026/",
    "url_hash": "35af6718c61aad4634b42de7"
+  },
+  "guid:6afc637752c09500099e3028": {
+   "attempts": [],
+   "category": "Dito & Feito",
+   "description": "Localizado na esquina das avenidas Leonardo Malcher com Getúlio Vargas, o prédio está desabando. Mas ninguém sabe de quem é e o que funcionou lá no século passado",
+   "discovered_at": "2026-11-17T14:40:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afc637752c09500099e3028",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e1f3658b-2f13-4070-bc19-a9c9c7a91b09.jpg",
+   "key": "guid:6afc637752c09500099e3028",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-17T14:34:07+00:00",
+   "status": "pending",
+   "title": "Dito & Feito: O MISTÉRIO DO VELHO CASARÃO",
+   "updated_at": "2026-11-17T14:40:17+00:00",
+   "url": "https://marioadolfo.com/dito-feito-o-misterio-do-velho-casarao/",
+   "url_hash": "17a2bbb5126575315f8d3c63"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-17T14:30:29+00:00",
-  "saved_at": "2026-11-17T14:30:30+00:00"
+  "last_run_at": "2026-11-17T14:40:16+00:00",
+  "saved_at": "2026-11-17T14:40:18+00:00"
  },
  "schema": 1
 }
