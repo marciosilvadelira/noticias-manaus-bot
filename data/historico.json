@@ -27555,12 +27555,12 @@
    "guid": "6afb5e3e52c09500099e2ead",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/35acd121-ca37-498b-8d9e-d8944e7d685c.jpg",
    "key": "guid:6afb5e3e52c09500099e2ead",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-16T19:51:13+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Justiça determina restabelecimento do Passe Livre Estudantil prazo de 24 horas",
-   "updated_at": "2026-11-16T20:00:26+00:00",
+   "updated_at": "2026-11-17T20:00:22+00:00",
    "url": "https://marioadolfo.com/justica-determina-restabelecimento-do-passe-livre-estudantil-prazo-de-24-horas/",
    "url_hash": "690425a5719cbb87bfd4c249"
   },
@@ -27576,12 +27576,12 @@
    "guid": "6afb5f5d52c09500099e2ec6",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/be9dbec3-46af-48cb-b48c-75e9dfb6f6fc.jpg",
    "key": "guid:6afb5f5d52c09500099e2ec6",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-16T19:55:20+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Economia circular movimenta até R$ 90,7 bilhões no Brasil, aponta CNI",
-   "updated_at": "2026-11-16T20:00:26+00:00",
+   "updated_at": "2026-11-17T20:00:22+00:00",
    "url": "https://marioadolfo.com/economia-circular-movimenta-ate-r-90-7-bilhoes-no-brasil-aponta-cni/",
    "url_hash": "25c1eabc6abd7ca53a3711c2"
   },
@@ -27597,12 +27597,12 @@
    "guid": "6afb5fc052c09500099e2edb",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4646c7b7-8e8b-46ab-9315-54d6c5243946.jpeg",
    "key": "guid:6afb5fc052c09500099e2edb",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-16T19:57:55+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Consulado da Mulher promove encontro dedicado ao cuidado e à conexão em Manaus",
-   "updated_at": "2026-11-16T20:00:26+00:00",
+   "updated_at": "2026-11-17T20:00:22+00:00",
    "url": "https://marioadolfo.com/consulado-da-mulher-promove-encontro-dedicado-ao-cuidado-e-a-conexao-em-manaus/",
    "url_hash": "ff7f3521683d414ec60fd494"
   },
@@ -27618,12 +27618,12 @@
    "guid": "6afb607952c09500099e2ef4",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/10b97854-0a34-4fc8-b29d-f48e8028bccc.jpeg",
    "key": "guid:6afb607952c09500099e2ef4",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-16T19:59:49+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Encontro em Manaus promove diálogo e ações para preservar o Boi-Bumbá como patrimônio cultural",
-   "updated_at": "2026-11-16T20:00:26+00:00",
+   "updated_at": "2026-11-17T20:00:22+00:00",
    "url": "https://marioadolfo.com/encontro-em-manaus-promove-dialogo-e-acoes-para-preservar-o-boi-bumba-como-patrimonio-cultural/",
    "url_hash": "c0445e4d493341288bbaab09"
   },
@@ -28298,13 +28298,34 @@
    "updated_at": "2026-11-17T19:10:16+00:00",
    "url": "https://marioadolfo.com/venda-de-ingressos-para-o-festival-de-parintins-2027-sera-100-digital/",
    "url_hash": "aa932f649c4c3f51073427c9"
+  },
+  "guid:6afcb09452c09500099e32cf": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A decisão proferida em sentença da 2.ª Vara da Fazenda Pública da Comarca de Manaus foi mantida pela Terceira Câmara Cível do Tribunal de Justiça",
+   "discovered_at": "2026-11-17T20:00:22+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afcb09452c09500099e32cf",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/67253393-98a4-4fd3-b4bf-afdd184bb2dd.jpeg",
+   "key": "guid:6afcb09452c09500099e32cf",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-17T19:56:02+00:00",
+   "status": "pending",
+   "title": "Semsa deve convocar aprovados em concurso público para substituir temporários",
+   "updated_at": "2026-11-17T20:00:22+00:00",
+   "url": "https://marioadolfo.com/semsa-deve-convocar-aprovados-em-concurso-publico-para-substituir-temporarios/",
+   "url_hash": "e8812c41366e7b97fa6e3de5"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-17T19:50:21+00:00",
-  "saved_at": "2026-11-17T19:50:22+00:00"
+  "last_run_at": "2026-11-17T20:00:22+00:00",
+  "saved_at": "2026-11-17T20:00:23+00:00"
  },
  "schema": 1
 }
