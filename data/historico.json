@@ -27702,12 +27702,12 @@
    "guid": "6afb7a0d52c09500099e2f5f",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/38f045b1-2e59-4aa8-b394-c00539500f5f.jpeg",
    "key": "guid:6afb7a0d52c09500099e2f5f",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-16T22:17:52+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Amazonas no Enem: manejo do pirarucu criado pelas comunidades ribeirinhas é tema de questão",
-   "updated_at": "2026-11-16T22:20:17+00:00",
+   "updated_at": "2026-11-17T22:20:15+00:00",
    "url": "https://marioadolfo.com/amazonas-no-enem-manejo-do-pirarucu-criado-pelas-comunidades-ribeirinhas-e-tema-de-questao/",
    "url_hash": "6e51ad91cb93fac7b3dcf97f"
   },
@@ -28429,8 +28429,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-17T22:10:16+00:00",
-  "saved_at": "2026-11-17T22:10:17+00:00"
+  "last_run_at": "2026-11-17T22:20:15+00:00",
+  "saved_at": "2026-11-17T22:20:15+00:00"
  },
  "schema": 1
 }
