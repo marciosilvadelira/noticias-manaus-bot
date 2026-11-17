@@ -28235,13 +28235,76 @@
    "updated_at": "2026-11-17T19:00:22+00:00",
    "url": "https://marioadolfo.com/dino-decide-que-escala-5x2-sera-julgada-de-forma-definitiva-pelo-stf/",
    "url_hash": "4bbf9347640f57685d4944d0"
+  },
+  "guid:6afca44b52c09500099e327d": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Vítimas foram atingidas pelos escombros, sofrendo escoriações leves. Eles foram encaminhados para unidades de saúde",
+   "discovered_at": "2026-11-17T19:10:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afca44b52c09500099e327d",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f334d61b-9499-4c65-9343-97bebf187707.jpeg",
+   "key": "guid:6afca44b52c09500099e327d",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-17T19:02:38+00:00",
+   "status": "pending",
+   "title": "Desabamento de cobertura no Hemoam deixa três pessoas feridas em Manaus",
+   "updated_at": "2026-11-17T19:10:16+00:00",
+   "url": "https://marioadolfo.com/desabamento-de-cobertura-no-hemoam-deixa-tres-pessoas-feridas-em-manaus/",
+   "url_hash": "dac8e9c3ca4758110da81484"
+  },
+  "guid:6afca52652c09500099e3296": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Em audiência na CAE do Senado, líder do MDB cobrou transparência nos cálculos da alíquota da CBS",
+   "discovered_at": "2026-11-17T19:10:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afca52652c09500099e3296",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a4c73f8a-fd67-4b0f-88b4-96808d839d54.jpeg",
+   "key": "guid:6afca52652c09500099e3296",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-17T19:05:52+00:00",
+   "status": "pending",
+   "title": "Braga defende manutenção de prazos para implementação da reforma tributária",
+   "updated_at": "2026-11-17T19:10:16+00:00",
+   "url": "https://marioadolfo.com/braga-defende-manutencao-de-prazos-para-implementacao-da-reforma-tributaria/",
+   "url_hash": "49f53387f5d89bfa67171034"
+  },
+  "guid:6afca5ab52c09500099e32b5": {
+   "attempts": [],
+   "category": "Parintins",
+   "description": "Vendas começam em 28 de novembro pela plataforma BaladAPP",
+   "discovered_at": "2026-11-17T19:10:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afca5ab52c09500099e32b5",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/dcce62b6-05e3-4ed0-8b2b-2a2b16fce94d.jpeg",
+   "key": "guid:6afca5ab52c09500099e32b5",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-17T19:08:42+00:00",
+   "status": "pending",
+   "title": "Venda de ingressos para  o Festival de Parintins 2027 será 100% digital",
+   "updated_at": "2026-11-17T19:10:16+00:00",
+   "url": "https://marioadolfo.com/venda-de-ingressos-para-o-festival-de-parintins-2027-sera-100-digital/",
+   "url_hash": "aa932f649c4c3f51073427c9"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-17T19:00:21+00:00",
-  "saved_at": "2026-11-17T19:00:23+00:00"
+  "last_run_at": "2026-11-17T19:10:15+00:00",
+  "saved_at": "2026-11-17T19:10:17+00:00"
  },
  "schema": 1
 }
