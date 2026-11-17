@@ -27773,13 +27773,34 @@
    "updated_at": "2026-11-17T11:40:15+00:00",
    "url": "https://marioadolfo.com/reconhecimento-da-legalidade-da-taxa-de-controle-de-incentivos-fiscais-reforca-seguranca-da-zfm-diz-suframa/",
    "url_hash": "66ec46dfac7045a6c2eb6fa0"
+  },
+  "guid:6afc3f3152c09500099e2fe4": {
+   "attempts": [],
+   "category": "Parintins",
+   "description": "Nova data é definitiva e garante mais tempo para a conclusão das composições e das produções musicais em estúdio",
+   "discovered_at": "2026-11-17T12:00:23+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afc3f3152c09500099e2fe4",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d312cf5b-d4e4-4d41-990b-def07a8b4169.jpeg",
+   "key": "guid:6afc3f3152c09500099e2fe4",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-17T11:57:47+00:00",
+   "status": "pending",
+   "title": "Caprichoso atende pedido de compositores e prorroga inscrições de toadas até 29 de novembro",
+   "updated_at": "2026-11-17T12:00:23+00:00",
+   "url": "https://marioadolfo.com/caprichoso-atende-pedido-de-compositores-e-prorroga-inscricoes-de-toadas-ate-29-de-novembro/",
+   "url_hash": "fd95483dfa5ea981f781f101"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-17T11:50:16+00:00",
-  "saved_at": "2026-11-17T11:50:17+00:00"
+  "last_run_at": "2026-11-17T12:00:21+00:00",
+  "saved_at": "2026-11-17T12:00:24+00:00"
  },
  "schema": 1
 }
