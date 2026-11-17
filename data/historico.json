@@ -27962,13 +27962,55 @@
    "updated_at": "2026-11-17T17:30:20+00:00",
    "url": "https://marioadolfo.com/dia-internacional-do-estudante-empregabilidade-e-qualificacao-sao-aliadas-na-reducao-da-evasao-universitaria/",
    "url_hash": "883eed1ba25f7bd154d67c31"
+  },
+  "guid:6afc8e8552c09500099e3106": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Pesquisa desenvolvida por pesquisadores da Ufam utiliza indicadores dos Objetivos de Desenvolvimento Sustentável para identificar municípios com maior prioridade em ações de fiscalização socioambiental",
+   "discovered_at": "2026-11-17T17:40:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afc8e8552c09500099e3106",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/411aab0a-5e83-4a10-afe4-9731381d587c.png",
+   "key": "guid:6afc8e8552c09500099e3106",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-17T17:31:25+00:00",
+   "status": "pending",
+   "title": "Atlas ODS Amazônia conquista 1º lugar em concurso de artigos científicos do TCE-AM",
+   "updated_at": "2026-11-17T17:40:16+00:00",
+   "url": "https://marioadolfo.com/atlas-ods-amazonia-conquista-1o-lugar-em-concurso-de-artigos-cientificos-do-tce-am/",
+   "url_hash": "9b6b65c9a0d902b1d0b94490"
+  },
+  "guid:6afc8fa152c09500099e311c": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "José Nelson da Silva Costa desapareceu na sexta-feira (13), enquanto estava no Rio Itacoaí",
+   "discovered_at": "2026-11-17T17:40:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afc8fa152c09500099e311c",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b45ef794-a3ea-4601-b816-234cb3ec27a9.png",
+   "key": "guid:6afc8fa152c09500099e311c",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-17T17:40:15+00:00",
+   "status": "pending",
+   "title": "MPAM aciona órgãos estaduais e federais após desaparecimento de pescador no Vale do Javari",
+   "updated_at": "2026-11-17T17:40:16+00:00",
+   "url": "https://marioadolfo.com/mpam-aciona-orgaos-estaduais-e-federais-apos-desaparecimento-de-pescador-no-vale-do-javari/",
+   "url_hash": "6556b6d89630d94bbdc5aa01"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-17T17:30:19+00:00",
-  "saved_at": "2026-11-17T17:30:20+00:00"
+  "last_run_at": "2026-11-17T17:40:16+00:00",
+  "saved_at": "2026-11-17T17:40:16+00:00"
  },
  "schema": 1
 }
