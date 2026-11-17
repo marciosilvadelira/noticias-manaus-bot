@@ -28340,13 +28340,34 @@
    "updated_at": "2026-11-17T20:10:18+00:00",
    "url": "https://marioadolfo.com/congresso-pede-que-stf-julgue-lei-que-beneficia-condenados-pelo-8-1/",
    "url_hash": "54a4ee51714add37e73116a4"
+  },
+  "guid:6afcbcf752c09500099e3303": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "O autor também teria agredido a vítima com um pedaço de madeira e danificado o veículo dela",
+   "discovered_at": "2026-11-17T20:50:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afcbcf752c09500099e3303",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/3859717f-c422-4ee2-a9d3-2e8d2cde2e8e.png",
+   "key": "guid:6afcbcf752c09500099e3303",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-17T20:48:52+00:00",
+   "status": "pending",
+   "title": "Filho é preso por descumprir medidas protetivas e ameaçar a mãe em Manaus",
+   "updated_at": "2026-11-17T20:50:15+00:00",
+   "url": "https://marioadolfo.com/filho-e-preso-por-descumprir-medidas-protetivas-e-ameacar-a-mae-em-manaus/",
+   "url_hash": "1eafc14546a58014ceef72d1"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-17T20:40:15+00:00",
-  "saved_at": "2026-11-17T20:40:17+00:00"
+  "last_run_at": "2026-11-17T20:50:15+00:00",
+  "saved_at": "2026-11-17T20:50:16+00:00"
  },
  "schema": 1
 }
