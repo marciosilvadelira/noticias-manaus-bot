@@ -27920,13 +27920,55 @@
    "updated_at": "2026-11-17T17:20:16+00:00",
    "url": "https://marioadolfo.com/ufam-abre-selecao-para-professores-em-cursos-de-graduacao-a-distancia/",
    "url_hash": "faa7b22bf9f7a58a38d43bc9"
+  },
+  "guid:6afc8ca752c09500099e30d4": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "O estado saiu de 1.855.178 milhão de pessoas inadimplentes em setembro para 1.861.566 milhão no mês seguinte",
+   "discovered_at": "2026-11-17T17:30:20+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afc8ca752c09500099e30d4",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/edb1ab39-0187-44e1-bd36-edee16f912be.jpeg",
+   "key": "guid:6afc8ca752c09500099e30d4",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-17T17:24:39+00:00",
+   "status": "pending",
+   "title": "Amazonas está entre os 21 estados com aumento na inadimplência em outubro, aponta Serasa",
+   "updated_at": "2026-11-17T17:30:20+00:00",
+   "url": "https://marioadolfo.com/amazonas-esta-entre-os-21-estados-com-aumento-na-inadimplencia-em-outubro-aponta-serasa/",
+   "url_hash": "4949159099cd3690c63d464f"
+  },
+  "guid:6afc8dfd52c09500099e30eb": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Celebrada em 17 de novembro, a data reforça a importância de iniciativas que conectam educação ao mercado de trabalho e contribuem para a permanência dos estudantes no ensino superior",
+   "discovered_at": "2026-11-17T17:30:20+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afc8dfd52c09500099e30eb",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2c15e4c9-976f-43cf-a249-50dc50a76cb5.jpeg",
+   "key": "guid:6afc8dfd52c09500099e30eb",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-17T17:27:14+00:00",
+   "status": "pending",
+   "title": "Dia Internacional do Estudante: empregabilidade e qualificação são aliadas na redução da evasão universitária",
+   "updated_at": "2026-11-17T17:30:20+00:00",
+   "url": "https://marioadolfo.com/dia-internacional-do-estudante-empregabilidade-e-qualificacao-sao-aliadas-na-reducao-da-evasao-universitaria/",
+   "url_hash": "883eed1ba25f7bd154d67c31"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-17T17:20:16+00:00",
-  "saved_at": "2026-11-17T17:20:16+00:00"
+  "last_run_at": "2026-11-17T17:30:19+00:00",
+  "saved_at": "2026-11-17T17:30:20+00:00"
  },
  "schema": 1
 }
