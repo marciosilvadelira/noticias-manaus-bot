@@ -28067,13 +28067,34 @@
    "updated_at": "2026-11-17T17:50:17+00:00",
    "url": "https://marioadolfo.com/ipaam-multa-em-r-1-milhao-homem-com-historico-de-desmatamento-ilegal-em-guajara/",
    "url_hash": "efd96b5b5bc6c8080cfe4361"
+  },
+  "guid:6afc940052c09500099e3189": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Montante foi usado por órgãos do sistema de justiça criminal",
+   "discovered_at": "2026-11-17T18:00:26+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afc940052c09500099e3189",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b9e7bddb-9977-4e64-8d9b-3f169e27390a.webp",
+   "key": "guid:6afc940052c09500099e3189",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-17T17:52:35+00:00",
+   "status": "pending",
+   "title": "Brasil gasta R$ 14,5 bilhões por ano com guerra às drogas",
+   "updated_at": "2026-11-17T18:00:26+00:00",
+   "url": "https://marioadolfo.com/brasil-gasta-r-14-5-bilhoes-por-ano-com-guerra-as-drogas/",
+   "url_hash": "13ca3bab84c9047767e385f0"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-17T17:50:15+00:00",
-  "saved_at": "2026-11-17T17:50:18+00:00"
+  "last_run_at": "2026-11-17T18:00:23+00:00",
+  "saved_at": "2026-11-17T18:00:26+00:00"
  },
  "schema": 1
 }
