@@ -26903,11 +26903,19 @@
    "url_hash": "d1633041f3529aef9684e71a"
   },
   "guid:6afaf48c52c09500099e2c42": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-17T04:00:40+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1542677511216473",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "A seleção acontece das 8h às 13h, no Super Nova Era da avenida Max Teixeira, 1878, bairro Flores",
    "discovered_at": "2026-11-16T13:20:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1542677511216473",
    "formats": [
     "link"
    ],
@@ -26915,20 +26923,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f2c27963-be8c-4bf0-8072-4449398962dd.jpeg",
    "key": "guid:6afaf48c52c09500099e2c42",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1542677511216473"
+   },
    "source_published_at": "2026-11-16T13:18:20+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Supermercado realiza nova seleção exclusiva para PCDs, nesta terça-feira (17)",
-   "updated_at": "2026-11-16T13:20:15+00:00",
+   "updated_at": "2026-11-17T04:00:40+00:00",
    "url": "https://marioadolfo.com/supermercado-realiza-nova-selecao-exclusiva-para-pcds-nesta-terca-feira-17/",
    "url_hash": "0b90d2af305bca5f6a4c6325"
   },
   "guid:6afb026452c09500099e2c4b": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-17T04:01:07+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1542677757883115",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Mutirão será realizado de 16 a 19 de novembro, Fórum de Justiça Henoch Reis",
    "discovered_at": "2026-11-16T13:30:20+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1542677757883115",
    "formats": [
     "link"
    ],
@@ -26936,20 +26954,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c90f3bc0-59ff-4e26-b58f-d1a2ae646033.webp",
    "key": "guid:6afb026452c09500099e2c4b",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1542677757883115"
+   },
    "source_published_at": "2026-11-16T13:21:20+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "TJAM tem mais de 500 audiências para a Semana Nacional de Regularização Tributária em Manaus",
-   "updated_at": "2026-11-16T13:30:20+00:00",
+   "updated_at": "2026-11-17T04:01:07+00:00",
    "url": "https://marioadolfo.com/tjam-tem-mais-de-500-audiencias-para-a-semana-nacional-de-regularizacao-tributaria-em-manaus/",
    "url_hash": "48c74362b1a8cc1b77060a8c"
   },
   "guid:6afb0e5352c09500099e2c6d": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-17T04:01:32+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1542678051216419",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "O balanço foi divulgado pela Polícia Civil do Amazonas. A atuação das unidades abrange diferentes formas de violência previstas na Lei Maria da Penha",
    "discovered_at": "2026-11-16T14:20:20+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1542678051216419",
    "formats": [
     "link"
    ],
@@ -26957,20 +26985,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/9c5cb30f-8300-486c-a898-ae9c8247dcfe.jpeg",
    "key": "guid:6afb0e5352c09500099e2c6d",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1542678051216419"
+   },
    "source_published_at": "2026-11-16T14:11:08+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Amazonas registra 6,8 mil solicitações de medidas protetivas e mais de 1,2 mil prisões em 2026",
-   "updated_at": "2026-11-16T14:20:20+00:00",
+   "updated_at": "2026-11-17T04:01:32+00:00",
    "url": "https://marioadolfo.com/amazonas-registra-6-8-mil-solicitacoes-de-medidas-protetivas-e-mais-de-1-2-mil-prisoes-em-2026/",
    "url_hash": "59139b0452827c571e6a727e"
   },
   "guid:6afb0f3452c09500099e2c93": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-17T04:01:59+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1542678331216391",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Sedecti reúne empresários e investidores para discutir competitividade, inovação e oportunidades de negócios no Amazonas",
    "discovered_at": "2026-11-16T14:20:20+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1542678331216391",
    "formats": [
     "link"
    ],
@@ -26978,20 +27016,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/15fee046-f3a3-40c3-9f2a-6d470190c5a4.jpeg",
    "key": "guid:6afb0f3452c09500099e2c93",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1542678331216391"
+   },
    "source_published_at": "2026-11-16T14:13:35+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "‘Raízes do Investimento’ fecha o ano com Bemol, Bertolini, Virrosas e FPFTech",
-   "updated_at": "2026-11-16T14:20:20+00:00",
+   "updated_at": "2026-11-17T04:01:59+00:00",
    "url": "https://marioadolfo.com/raizes-do-investimento-fecha-o-ano-com-bemol-bertolini-virrosas-e-fpftech/",
    "url_hash": "30e32dded8fde126fc77e5ee"
   },
   "guid:6afb16b652c09500099e2ca9": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-17T04:02:25+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1542678841216340",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Exportações alcançaram maior volume desde 2018 e estão próximas do recorde histórico de 2010",
    "discovered_at": "2026-11-16T15:00:25+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1542678841216340",
    "formats": [
     "link"
    ],
@@ -26999,11 +27047,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/195d637f-51c3-437d-a82e-e9825ed444d7.jpeg",
    "key": "guid:6afb16b652c09500099e2ca9",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1542678841216340"
+   },
    "source_published_at": "2026-11-16T14:45:34+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Balança Comercial do Amazonas registra US$ 1,49 bilhão no comércio exterior em outubro",
-   "updated_at": "2026-11-16T15:00:25+00:00",
+   "updated_at": "2026-11-17T04:02:25+00:00",
    "url": "https://marioadolfo.com/balanca-comercial-do-amazonas-registra-us-1-49-bilhao-no-comercio-exterior-em-outubro/",
    "url_hash": "bcaec1d29beeaacb303326d6"
   },
@@ -27494,8 +27544,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-17T03:50:15+00:00",
-  "saved_at": "2026-11-17T03:50:16+00:00"
+  "last_run_at": "2026-11-17T04:00:32+00:00",
+  "saved_at": "2026-11-17T04:02:25+00:00"
  },
  "schema": 1
 }
