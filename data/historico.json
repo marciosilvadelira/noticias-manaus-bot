@@ -27681,12 +27681,12 @@
    "guid": "6afb795852c09500099e2f43",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c2ed34d5-3bcb-4a06-8a7f-f5386ec202f3.jpeg",
    "key": "guid:6afb795852c09500099e2f43",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-16T21:46:15+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Detran-AM: fiscalização registra quase 2 mil infrações em apenas uma semana",
-   "updated_at": "2026-11-16T21:50:16+00:00",
+   "updated_at": "2026-11-17T21:50:16+00:00",
    "url": "https://marioadolfo.com/detran-am-fiscalizacao-registra-quase-2-mil-infracoes-em-apenas-uma-semana/",
    "url_hash": "b96106f7e1d96a2401324d95"
   },
@@ -28408,8 +28408,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-17T21:40:16+00:00",
-  "saved_at": "2026-11-17T21:40:20+00:00"
+  "last_run_at": "2026-11-17T21:50:15+00:00",
+  "saved_at": "2026-11-17T21:50:16+00:00"
  },
  "schema": 1
 }
