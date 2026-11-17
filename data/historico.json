@@ -27878,13 +27878,55 @@
    "updated_at": "2026-11-17T17:10:26+00:00",
    "url": "https://marioadolfo.com/virada-amazonica-movimenta-o-largo-de-sao-sebastiao-nesta-quarta-feira/",
    "url_hash": "bb8c4a710638a1a332a25ad2"
+  },
+  "guid:6afc89d852c09500099e309f": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Apae Manaus desenvolve um trabalho nas áreas de saúde, educação e assistência social, atendendo mais de 200 pessoas com deficiência intelectual e múltipla",
+   "discovered_at": "2026-11-17T17:20:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afc89d852c09500099e309f",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e4b3e6f5-46a2-4f79-bbcd-084da276e212.jpeg",
+   "key": "guid:6afc89d852c09500099e309f",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-17T17:10:56+00:00",
+   "status": "pending",
+   "title": "Apae Manaus busca apoio para garantir recursos e manter atendimentos em 2027",
+   "updated_at": "2026-11-17T17:20:16+00:00",
+   "url": "https://marioadolfo.com/apae-manaus-busca-apoio-para-garantir-recursos-e-manter-atendimentos-em-2027/",
+   "url_hash": "c224b9b9b28c1acbd64981bd"
+  },
+  "guid:6afc8b5452c09500099e30b7": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Os processos preveem concessão de bolsas temporárias e formação de cadastro de reserva",
+   "discovered_at": "2026-11-17T17:20:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afc8b5452c09500099e30b7",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/550e2b07-9cd0-44f1-8abf-33b3334427c0.jpeg",
+   "key": "guid:6afc8b5452c09500099e30b7",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-17T17:18:37+00:00",
+   "status": "pending",
+   "title": "Ufam abre seleção para professores em cursos de graduação a distância",
+   "updated_at": "2026-11-17T17:20:16+00:00",
+   "url": "https://marioadolfo.com/ufam-abre-selecao-para-professores-em-cursos-de-graduacao-a-distancia/",
+   "url_hash": "faa7b22bf9f7a58a38d43bc9"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-17T17:10:25+00:00",
-  "saved_at": "2026-11-17T17:10:26+00:00"
+  "last_run_at": "2026-11-17T17:20:16+00:00",
+  "saved_at": "2026-11-17T17:20:16+00:00"
  },
  "schema": 1
 }
