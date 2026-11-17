@@ -27710,13 +27710,76 @@
    "updated_at": "2026-11-16T22:20:17+00:00",
    "url": "https://marioadolfo.com/amazonas-no-enem-manejo-do-pirarucu-criado-pelas-comunidades-ribeirinhas-e-tema-de-questao/",
    "url_hash": "6e51ad91cb93fac7b3dcf97f"
+  },
+  "guid:6afbba3352c09500099e2f79": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Texto-base foi aprovado na semana passada, mas restam quatro destaques",
+   "discovered_at": "2026-11-17T11:40:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afbba3352c09500099e2f79",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/72219ff4-0dfb-4dfc-b8b5-9693899290d1.jpg",
+   "key": "guid:6afbba3352c09500099e2f79",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-17T11:30:50+00:00",
+   "status": "pending",
+   "title": "Senado deve concluir votação do projeto de ajuste fiscal nesta terça-feira",
+   "updated_at": "2026-11-17T11:40:15+00:00",
+   "url": "https://marioadolfo.com/senado-deve-concluir-votacao-do-projeto-de-ajuste-fiscal-nesta-terca-feira/",
+   "url_hash": "994cf70ee109dd65432f83bc"
+  },
+  "guid:6afbbbbc52c09500099e2f90": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Aviso foi enviado na noite desta segunda-feira (16/11), por meio do aplicativo Cadê Meu Ônibus, após a Justiça determinar o retorno do benefício",
+   "discovered_at": "2026-11-17T11:40:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afbbbbc52c09500099e2f90",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/34b70cac-ccd0-45d7-ae05-9fde48823d44.jpg",
+   "key": "guid:6afbbbbc52c09500099e2f90",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-17T11:30:52+00:00",
+   "status": "pending",
+   "title": "Estudantes da rede estadual podem solicitar créditos do Passe Livre em Manaus",
+   "updated_at": "2026-11-17T11:40:15+00:00",
+   "url": "https://marioadolfo.com/estudantes-da-rede-estadual-podem-solicitar-creditos-do-passe-livre-em-manaus/",
+   "url_hash": "b9cb2c71a420cedcb01fd9a9"
+  },
+  "guid:6afc398952c09500099e2fb9": {
+   "attempts": [],
+   "category": "Alô Amazonas",
+   "description": "Os recursos obtidos por meio da taxa servem de base para a manutenção das atividades cotidianas da Suframa",
+   "discovered_at": "2026-11-17T11:40:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afc398952c09500099e2fb9",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/96b23691-8798-4d1f-9422-23ac855dcd7b.jpeg",
+   "key": "guid:6afc398952c09500099e2fb9",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-17T11:33:30+00:00",
+   "status": "pending",
+   "title": "Reconhecimento da legalidade da Taxa de Controle de Incentivos Fiscais reforça segurança da ZFM, diz Suframa",
+   "updated_at": "2026-11-17T11:40:15+00:00",
+   "url": "https://marioadolfo.com/reconhecimento-da-legalidade-da-taxa-de-controle-de-incentivos-fiscais-reforca-seguranca-da-zfm-diz-suframa/",
+   "url_hash": "66ec46dfac7045a6c2eb6fa0"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-17T11:30:20+00:00",
-  "saved_at": "2026-11-17T11:30:21+00:00"
+  "last_run_at": "2026-11-17T11:40:15+00:00",
+  "saved_at": "2026-11-17T11:40:16+00:00"
  },
  "schema": 1
 }
