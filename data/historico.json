@@ -28319,13 +28319,34 @@
    "updated_at": "2026-11-17T20:00:22+00:00",
    "url": "https://marioadolfo.com/semsa-deve-convocar-aprovados-em-concurso-publico-para-substituir-temporarios/",
    "url_hash": "e8812c41366e7b97fa6e3de5"
+  },
+  "guid:6afcb2aa52c09500099e32ea": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Presidentes da Câmara e do Senado se reuniram com Alexandre de Moraes",
+   "discovered_at": "2026-11-17T20:10:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afcb2aa52c09500099e32ea",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ac52ea35-6324-4fb1-af21-07c52502185f.webp",
+   "key": "guid:6afcb2aa52c09500099e32ea",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-17T20:03:34+00:00",
+   "status": "pending",
+   "title": "Congresso pede que STF julgue lei que beneficia condenados pelo 8/1",
+   "updated_at": "2026-11-17T20:10:18+00:00",
+   "url": "https://marioadolfo.com/congresso-pede-que-stf-julgue-lei-que-beneficia-condenados-pelo-8-1/",
+   "url_hash": "54a4ee51714add37e73116a4"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-17T20:00:22+00:00",
-  "saved_at": "2026-11-17T20:00:23+00:00"
+  "last_run_at": "2026-11-17T20:10:17+00:00",
+  "saved_at": "2026-11-17T20:10:18+00:00"
  },
  "schema": 1
 }
