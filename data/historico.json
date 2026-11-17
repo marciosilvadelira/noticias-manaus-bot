@@ -28088,13 +28088,55 @@
    "updated_at": "2026-11-17T18:00:26+00:00",
    "url": "https://marioadolfo.com/brasil-gasta-r-14-5-bilhoes-por-ano-com-guerra-as-drogas/",
    "url_hash": "13ca3bab84c9047767e385f0"
+  },
+  "guid:6afc962e52c09500099e31a4": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Manifestação foi após reportagem divulgar que a Polícia Federal havia deflagrado uma operação na sede do poder legislativo",
+   "discovered_at": "2026-11-17T18:10:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afc962e52c09500099e31a4",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/418e944b-95a9-4c0f-a4bb-edcec39ce14b.jpeg",
+   "key": "guid:6afc962e52c09500099e31a4",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-17T18:06:06+00:00",
+   "status": "pending",
+   "title": "Assembleia nega operação e diz que PF foi intimar servidor público",
+   "updated_at": "2026-11-17T18:10:16+00:00",
+   "url": "https://marioadolfo.com/assembleia-nega-operacao-e-diz-que-pf-foi-intimar-servidor-publico/",
+   "url_hash": "b6503e4c41ab6903f806a12e"
+  },
+  "guid:6afc97ae52c09500099e31c1": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Decisão unânime confirmou a remoção de vídeo que simulava apoio político de candidato adversário e manteve multa por uso irregular de inteligência artificial às vésperas das Eleições 2026",
+   "discovered_at": "2026-11-17T18:10:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afc97ae52c09500099e31c1",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/17a94d14-53b3-4371-a1f5-5462a4834eca.jpeg",
+   "key": "guid:6afc97ae52c09500099e31c1",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-17T18:08:09+00:00",
+   "status": "pending",
+   "title": "TRE-AM mantém condenação por uso de deepfake em propaganda eleitoral",
+   "updated_at": "2026-11-17T18:10:16+00:00",
+   "url": "https://marioadolfo.com/tre-am-mantem-condenacao-por-uso-de-deepfake-em-propaganda-eleitoral/",
+   "url_hash": "8886616cc1119efd381e53d0"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-17T18:00:23+00:00",
-  "saved_at": "2026-11-17T18:00:26+00:00"
+  "last_run_at": "2026-11-17T18:10:15+00:00",
+  "saved_at": "2026-11-17T18:10:16+00:00"
  },
  "schema": 1
 }
