@@ -27794,13 +27794,34 @@
    "updated_at": "2026-11-17T12:00:23+00:00",
    "url": "https://marioadolfo.com/caprichoso-atende-pedido-de-compositores-e-prorroga-inscricoes-de-toadas-ate-29-de-novembro/",
    "url_hash": "fd95483dfa5ea981f781f101"
+  },
+  "guid:6afc620652c09500099e3003": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Desse total, 160 ocorreram por meio do cumprimento de mandados judiciais e 123 em flagrante",
+   "discovered_at": "2026-11-17T14:30:29+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afc620652c09500099e3003",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0240201e-3784-4b12-8d06-95d81436e3be.jpeg",
+   "key": "guid:6afc620652c09500099e3003",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-17T14:22:31+00:00",
+   "status": "pending",
+   "title": "Amazonas registra 283 prisões de crimes contra crianças e adolescentes em 2026",
+   "updated_at": "2026-11-17T14:30:29+00:00",
+   "url": "https://marioadolfo.com/amazonas-registra-283-prisoes-de-crimes-contra-criancas-e-adolescentes-em-2026/",
+   "url_hash": "35af6718c61aad4634b42de7"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-17T14:20:20+00:00",
-  "saved_at": "2026-11-17T14:20:21+00:00"
+  "last_run_at": "2026-11-17T14:30:29+00:00",
+  "saved_at": "2026-11-17T14:30:30+00:00"
  },
  "schema": 1
 }
