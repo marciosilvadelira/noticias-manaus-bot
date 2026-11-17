@@ -28172,13 +28172,34 @@
    "updated_at": "2026-11-17T18:20:17+00:00",
    "url": "https://marioadolfo.com/detran-am-desarticula-rolezinho-e-remove-12-motocicletas-no-coroado/",
    "url_hash": "1229582a81312ea0eb8f08a1"
+  },
+  "guid:6afc9e0f52c09500099e3238": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Canais gratuitos ficam disponíveis até 18 de dezembro para denúncias e atendimento urgente",
+   "discovered_at": "2026-11-17T18:40:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afc9e0f52c09500099e3238",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c3ffe374-6877-42cf-9402-5b3aad33dcdb.jpeg",
+   "key": "guid:6afc9e0f52c09500099e3238",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-17T18:37:35+00:00",
+   "status": "pending",
+   "title": "TRT-11 mantém canais para denúncias de assédio eleitoral no Amazonas e em Roraima",
+   "updated_at": "2026-11-17T18:40:16+00:00",
+   "url": "https://marioadolfo.com/trt-11-mantem-canais-para-denuncias-de-assedio-eleitoral-no-amazonas-e-em-roraima/",
+   "url_hash": "0a63086df26505eb12f115c4"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-17T18:30:20+00:00",
-  "saved_at": "2026-11-17T18:30:22+00:00"
+  "last_run_at": "2026-11-17T18:40:15+00:00",
+  "saved_at": "2026-11-17T18:40:16+00:00"
  },
  "schema": 1
 }
