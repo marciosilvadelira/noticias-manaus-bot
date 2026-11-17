@@ -27368,11 +27368,19 @@
    "url_hash": "43900ec08112155e53ece490"
   },
   "guid:6afb372252c09500099e2ddb": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-17T04:30:28+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1542696301214594",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "De acordo com a Defesa Civil, 165.008 famílias são afetadas pelo desastre de estiagem",
    "discovered_at": "2026-11-16T17:10:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1542696301214594",
    "formats": [
     "link"
    ],
@@ -27380,20 +27388,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4c0c8bc7-180b-4d06-a7b1-52955399f5ef.jpeg",
    "key": "guid:6afb372252c09500099e2ddb",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1542696301214594"
+   },
    "source_published_at": "2026-11-16T17:04:46+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Estiagem: sobe para 52 cidades em situação de Emergência no AM",
-   "updated_at": "2026-11-16T17:10:17+00:00",
+   "updated_at": "2026-11-17T04:30:28+00:00",
    "url": "https://marioadolfo.com/estiagem-sobe-para-52-cidades-em-situacao-de-emergencia-no-am/",
    "url_hash": "89bffe290a755d52d416e327"
   },
   "guid:6afb382b52c09500099e2df8": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-17T04:30:55+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1542696584547899",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Segundo testemunhas, a vítima realizava serviços de manutenção no telhado da casa, quando perdeu o equilíbrio e despencou da cobertura até o chão",
    "discovered_at": "2026-11-16T17:20:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1542696584547899",
    "formats": [
     "link"
    ],
@@ -27401,20 +27419,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/763410ef-8ec0-4389-86b6-c3e12e4434b9.jpeg",
    "key": "guid:6afb382b52c09500099e2df8",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1542696584547899"
+   },
    "source_published_at": "2026-11-16T17:17:25+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Vídeo: trabalhador morre após cair de telhado no Centro de Manaus",
-   "updated_at": "2026-11-16T17:20:18+00:00",
+   "updated_at": "2026-11-17T04:30:55+00:00",
    "url": "https://marioadolfo.com/video-trabalhador-morre-apos-cair-de-telhado-no-centro-de-manaus/",
    "url_hash": "d8976a7b3b749cf0a59e43d3"
   },
   "guid:6afb41c452c09500099e2e2a": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-17T04:31:27+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1542696937881197",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Pleno considerou comprovada a realização de campanhas pelas candidatas, com atividades de rua, divulgação nas redes sociais, votação e recursos partidários",
    "discovered_at": "2026-11-16T17:50:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1542696937881197",
    "formats": [
     "link"
    ],
@@ -27422,20 +27450,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/76b8497b-e702-4d91-adc3-1d3cf7364c23.jpeg",
    "key": "guid:6afb41c452c09500099e2e2a",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1542696937881197"
+   },
    "source_published_at": "2026-11-16T17:49:51+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "TRE-AM mantém decisão que afastou fraude à cota de gênero no Partido Agir em Manaus",
-   "updated_at": "2026-11-16T17:50:16+00:00",
+   "updated_at": "2026-11-17T04:31:27+00:00",
    "url": "https://marioadolfo.com/tre-am-mantem-decisao-que-afastou-fraude-a-cota-de-genero-no-partido-agir-em-manaus/",
    "url_hash": "090b05b96b8a13a5045df36e"
   },
   "guid:6afb45bc52c09500099e2e49": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-17T04:31:52+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1542697241214500",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Segundo o superintendente, a estabilidade regulatória  tem contribuído para fortalecer a competitividade da Zona Franca e ampliar seus impactos econômicos em diferentes regiões do País",
    "discovered_at": "2026-11-16T18:10:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1542697241214500",
    "formats": [
     "link"
    ],
@@ -27443,20 +27481,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/624800fa-96b7-4cd7-878e-a41bfec0178a.jpeg",
    "key": "guid:6afb45bc52c09500099e2e49",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1542697241214500"
+   },
    "source_published_at": "2026-11-16T18:06:40+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Com segurança jurídica pós-Reforma Tributária, Suframa anuncia pacote de modernização para 2027",
-   "updated_at": "2026-11-16T18:10:16+00:00",
+   "updated_at": "2026-11-17T04:31:52+00:00",
    "url": "https://marioadolfo.com/com-seguranca-juridica-pos-reforma-tributaria-suframa-anuncia-pacote-de-modernizacao-para-2027/",
    "url_hash": "87bb1dfc54ce7739ac7864b9"
   },
   "guid:6afb597152c09500099e2e63": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-17T04:32:20+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1542697661214458",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Em coletiva nesta segunda-feira (16), superintendente da Suframa anunciou 136,1 mil postos de trabalho, maior marca histórica do parque fabril, e destacou a importância da reforma tributária para a expansão da Zona Franca",
    "discovered_at": "2026-11-16T19:50:23+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1542697661214458",
    "formats": [
     "link"
    ],
@@ -27464,11 +27512,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a03c6c2d-3266-474a-a8ab-b2a49e4d0522.jpg",
    "key": "guid:6afb597152c09500099e2e63",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1542697661214458"
+   },
    "source_published_at": "2026-11-16T19:42:58+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Polo Industrial de Manaus bate recordes de faturamento e empregos; previsão é superar R$ 240 bilhões em 2026",
-   "updated_at": "2026-11-16T19:50:23+00:00",
+   "updated_at": "2026-11-17T04:32:20+00:00",
    "url": "https://marioadolfo.com/polo-industrial-de-manaus-bate-recordes-de-faturamento-e-empregos-previsao-e-superar-r-240-bilhoes-em-2026/",
    "url_hash": "0c3f5d3dccffc2fa1a80a985"
   },
@@ -27644,8 +27694,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-17T04:20:27+00:00",
-  "saved_at": "2026-11-17T04:22:17+00:00"
+  "last_run_at": "2026-11-17T04:30:20+00:00",
+  "saved_at": "2026-11-17T04:32:20+00:00"
  },
  "schema": 1
 }
