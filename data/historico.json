@@ -27058,11 +27058,19 @@
    "url_hash": "bcaec1d29beeaacb303326d6"
   },
   "guid:6afb1af552c09500099e2cc1": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-17T04:10:21+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1542683767882514",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Campanha segue até o dia 30 com atendimentos online e presenciais",
    "discovered_at": "2026-11-16T15:10:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1542683767882514",
    "formats": [
     "link"
    ],
@@ -27070,20 +27078,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/9c72c38c-9a3c-4937-81f1-986f1df37005.jpeg",
    "key": "guid:6afb1af552c09500099e2cc1",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1542683767882514"
+   },
    "source_published_at": "2026-11-16T15:04:10+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Águas de Manaus inicia campanha de negociação de dívidas com descontos de até 95%",
-   "updated_at": "2026-11-16T15:10:18+00:00",
+   "updated_at": "2026-11-17T04:10:21+00:00",
    "url": "https://marioadolfo.com/aguas-de-manaus-inicia-campanha-de-negociacao-de-dividas-com-descontos-de-ate-95/",
    "url_hash": "db4ced2f3cf7058297a71272"
   },
   "guid:6afb1e0b52c09500099e2cde": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-17T04:10:47+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1542684111215813",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Planos de saúde terão de cobrir exame e medicamento oral",
    "discovered_at": "2026-11-16T15:20:23+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1542684111215813",
    "formats": [
     "link"
    ],
@@ -27091,20 +27109,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ab270fc8-7cb6-429b-b57d-2a91f55e8010.webp",
    "key": "guid:6afb1e0b52c09500099e2cde",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1542684111215813"
+   },
    "source_published_at": "2026-11-16T15:18:36+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "ANS amplia cobertura obrigatória para tratamento de câncer de pulmão",
-   "updated_at": "2026-11-16T15:20:23+00:00",
+   "updated_at": "2026-11-17T04:10:47+00:00",
    "url": "https://marioadolfo.com/ans-amplia-cobertura-obrigatoria-para-tratamento-de-cancer-de-pulmao/",
    "url_hash": "3436b9bc737790336424b03e"
   },
   "guid:6afb1f1252c09500099e2cf6": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-17T04:11:12+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1542684354549122",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Alta de 1,5% em relação às contratações no 4º trimestre do ano passado",
    "discovered_at": "2026-11-16T15:30:19+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1542684354549122",
    "formats": [
     "link"
    ],
@@ -27112,20 +27140,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4d0e7421-74c7-4813-b378-7696ddcda6ae.webp",
    "key": "guid:6afb1f1252c09500099e2cf6",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1542684354549122"
+   },
    "source_published_at": "2026-11-16T15:21:15+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Fim do ano deve registrar 540 mil contratos temporários de trabalho",
-   "updated_at": "2026-11-16T15:30:19+00:00",
+   "updated_at": "2026-11-17T04:11:12+00:00",
    "url": "https://marioadolfo.com/fim-do-ano-deve-registrar-540-mil-contratos-temporarios-de-trabalho/",
    "url_hash": "e8ac2f46534998ec4cdad86e"
   },
   "guid:6afb229552c09500099e2d0b": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-17T04:11:37+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1542684774549080",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "O caso aconteceu em um templo da Assembleia de Deus, localizado na avenida Morada Cristã",
    "discovered_at": "2026-11-16T15:50:24+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1542684774549080",
    "formats": [
     "link"
    ],
@@ -27133,20 +27171,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/960a0df9-5300-40cb-a30f-e30ab495a527.jpeg",
    "key": "guid:6afb229552c09500099e2d0b",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1542684774549080"
+   },
    "source_published_at": "2026-11-16T15:40:40+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Homem é detido após destruir porta de igreja durante culto em Manaus",
-   "updated_at": "2026-11-16T15:50:24+00:00",
+   "updated_at": "2026-11-17T04:11:37+00:00",
    "url": "https://marioadolfo.com/homem-detido-apos-destruir-porta-de-igreja-em-manaus/",
    "url_hash": "c859ddf1f1ef6ec0fff546a2"
   },
   "guid:6afb25dc52c09500099e2d26": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-17T04:12:02+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1542685064549051",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "O corpo da vítima foi localizado na rua Planeta Vênus, no conjunto Morada do Sol, e estava ao lado de latinha de cerveja",
    "discovered_at": "2026-11-16T16:00:24+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1542685064549051",
    "formats": [
     "link"
    ],
@@ -27154,11 +27202,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/1a4f4484-fec0-4058-aa67-a40cad98ece8.webp",
    "key": "guid:6afb25dc52c09500099e2d26",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1542685064549051"
+   },
    "source_published_at": "2026-11-16T15:54:10+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Trabalhador é encontrado morto com saco na cabeça e lado de latinha em Manaus",
-   "updated_at": "2026-11-16T16:00:24+00:00",
+   "updated_at": "2026-11-17T04:12:02+00:00",
    "url": "https://marioadolfo.com/trabalhador-e-encontrado-morto-com-saco-na-cabeca-em-manaus/",
    "url_hash": "61c8cf780619ac050e06900d"
   },
@@ -27544,8 +27594,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-17T04:00:32+00:00",
-  "saved_at": "2026-11-17T04:02:25+00:00"
+  "last_run_at": "2026-11-17T04:10:16+00:00",
+  "saved_at": "2026-11-17T04:12:02+00:00"
  },
  "schema": 1
 }
