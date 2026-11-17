@@ -27836,13 +27836,55 @@
    "updated_at": "2026-11-17T14:40:17+00:00",
    "url": "https://marioadolfo.com/dito-feito-o-misterio-do-velho-casarao/",
    "url_hash": "17a2bbb5126575315f8d3c63"
+  },
+  "guid:6afc882552c09500099e306d": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Operação Cesta de Votos cumpre dois mandados de busca e apreensão para apurar suposta distribuição de dinheiro e cestas básicas em troca de apoio eleitoral",
+   "discovered_at": "2026-11-17T17:10:26+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afc882552c09500099e306d",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e417700d-e608-453c-8513-9b6975c3e106.jpeg",
+   "key": "guid:6afc882552c09500099e306d",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-17T17:02:43+00:00",
+   "status": "pending",
+   "title": "PF investiga compra de votos e propaganda eleitoral irregular no Amazonas",
+   "updated_at": "2026-11-17T17:10:26+00:00",
+   "url": "https://marioadolfo.com/pf-investiga-compra-de-votos-e-propaganda-eleitoral-irregular-no-amazonas/",
+   "url_hash": "10474df6f0c1580db8c77848"
+  },
+  "guid:6afc891952c09500099e3089": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Virada Amazônica segue até 26 de novembro, com programação em Manaus e Novo Airão",
+   "discovered_at": "2026-11-17T17:10:26+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afc891952c09500099e3089",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f5be195f-d138-4baa-aeea-9604645dcaf2.jpeg",
+   "key": "guid:6afc891952c09500099e3089",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-17T17:06:21+00:00",
+   "status": "pending",
+   "title": "Virada Amazônica movimenta o Largo de São Sebastião nesta quarta-feira",
+   "updated_at": "2026-11-17T17:10:26+00:00",
+   "url": "https://marioadolfo.com/virada-amazonica-movimenta-o-largo-de-sao-sebastiao-nesta-quarta-feira/",
+   "url_hash": "bb8c4a710638a1a332a25ad2"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-17T17:00:22+00:00",
-  "saved_at": "2026-11-17T17:00:23+00:00"
+  "last_run_at": "2026-11-17T17:10:25+00:00",
+  "saved_at": "2026-11-17T17:10:26+00:00"
  },
  "schema": 1
 }
