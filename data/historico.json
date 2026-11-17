@@ -28361,13 +28361,55 @@
    "updated_at": "2026-11-17T20:50:15+00:00",
    "url": "https://marioadolfo.com/filho-e-preso-por-descumprir-medidas-protetivas-e-ameacar-a-mae-em-manaus/",
    "url_hash": "1eafc14546a58014ceef72d1"
+  },
+  "guid:6afcbdc852c09500099e331a": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Investigação identificou desvios de rota e pontos clandestinos utilizados para a retirada do combustível",
+   "discovered_at": "2026-11-17T21:00:26+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afcbdc852c09500099e331a",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/3fef202b-6321-4ac1-832f-ab7d38dd4e53.jpeg",
+   "key": "guid:6afcbdc852c09500099e331a",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-17T20:52:13+00:00",
+   "status": "pending",
+   "title": "Motoristas são presos por desvio de combustível de empresa de transporte de cargas em Manaus",
+   "updated_at": "2026-11-17T21:00:26+00:00",
+   "url": "https://marioadolfo.com/motoristas-sao-presos-por-desvio-de-combustivel-de-empresa-de-transporte-de-cargas-em-manaus/",
+   "url_hash": "5c322cd852d39410d67fe4be"
+  },
+  "guid:6afcbe9c52c09500099e3335": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Inspeção realizada pela instituição identificou problemas no fornecimento de água, nas condições de higiene e na saúde dos custodiados na 43ª Delegacia Interativa de Polícia",
+   "discovered_at": "2026-11-17T21:00:26+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afcbe9c52c09500099e3335",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f07de460-8893-44b8-8e96-a18140525365.jpeg",
+   "key": "guid:6afcbe9c52c09500099e3335",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-17T20:54:33+00:00",
+   "status": "pending",
+   "title": "Defensoria recomenda melhorias na custódia de presos na delegacia de Nhamundá",
+   "updated_at": "2026-11-17T21:00:26+00:00",
+   "url": "https://marioadolfo.com/defensoria-recomenda-melhorias-na-custodia-de-presos-na-delegacia-de-nhamunda/",
+   "url_hash": "b9d1e5b21f0926665dc701d9"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-17T20:50:15+00:00",
-  "saved_at": "2026-11-17T20:50:16+00:00"
+  "last_run_at": "2026-11-17T21:00:21+00:00",
+  "saved_at": "2026-11-17T21:00:27+00:00"
  },
  "schema": 1
 }
