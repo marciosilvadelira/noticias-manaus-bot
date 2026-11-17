@@ -28004,13 +28004,76 @@
    "updated_at": "2026-11-17T17:40:16+00:00",
    "url": "https://marioadolfo.com/mpam-aciona-orgaos-estaduais-e-federais-apos-desaparecimento-de-pescador-no-vale-do-javari/",
    "url_hash": "6556b6d89630d94bbdc5aa01"
+  },
+  "guid:6afc91a852c09500099e313b": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Entre os principais problemas identificados estão atrasos no envio de documentos obrigatórios ao Tribunal, falhas na transparência fiscal e ausência de controles administrativos",
+   "discovered_at": "2026-11-17T17:50:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afc91a852c09500099e313b",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/dc6165db-5a6d-4cdf-8e51-7db7f4e24031.jpeg",
+   "key": "guid:6afc91a852c09500099e313b",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-17T17:42:00+00:00",
+   "status": "pending",
+   "title": "TCE-AM multa ex-prefeito de Manicoré em R$ 45,5 mil por irregularidades nas contas de 2024",
+   "updated_at": "2026-11-17T17:50:17+00:00",
+   "url": "https://marioadolfo.com/tce-am-multa-ex-prefeito-de-manicore-em-r-45-5-mil-por-irregularidades-nas-contas-de-2024/",
+   "url_hash": "ec9395e484330ad7f2e15590"
+  },
+  "guid:6afc92c352c09500099e3150": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "O crime ocorreu na noite do dia 8 de novembro. A imagem de Auderlans Corrêa Trenório foi divulgada pela Polícia Civil do Amazonas",
+   "discovered_at": "2026-11-17T17:50:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afc92c352c09500099e3150",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/35a62ce8-2aee-438b-93f8-964b6efcef11.png",
+   "key": "guid:6afc92c352c09500099e3150",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-17T17:47:30+00:00",
+   "status": "pending",
+   "title": "Polícia procura por suspeito de roubar restaurante no bairro Japiim",
+   "updated_at": "2026-11-17T17:50:17+00:00",
+   "url": "https://marioadolfo.com/policia-procura-por-suspeito-de-roubar-restaurante-no-bairro-japiim/",
+   "url_hash": "847302f53af41326ba914339"
+  },
+  "guid:6afc935f52c09500099e316a": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Responsável possuía registro de embargo ambiental, e nova autuação resultou na restrição de 216 hectares de vegetação nativa",
+   "discovered_at": "2026-11-17T17:50:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afc935f52c09500099e316a",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f3e7c821-d167-459a-8da7-07d4f86ccd70.jpeg",
+   "key": "guid:6afc935f52c09500099e316a",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-17T17:49:56+00:00",
+   "status": "pending",
+   "title": "Ipaam multa em R$ 1 milhão homem com histórico de desmatamento ilegal em Guajará",
+   "updated_at": "2026-11-17T17:50:17+00:00",
+   "url": "https://marioadolfo.com/ipaam-multa-em-r-1-milhao-homem-com-historico-de-desmatamento-ilegal-em-guajara/",
+   "url_hash": "efd96b5b5bc6c8080cfe4361"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-17T17:40:16+00:00",
-  "saved_at": "2026-11-17T17:40:16+00:00"
+  "last_run_at": "2026-11-17T17:50:15+00:00",
+  "saved_at": "2026-11-17T17:50:18+00:00"
  },
  "schema": 1
 }
