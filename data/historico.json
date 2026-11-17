@@ -27627,6 +27627,27 @@
    "url": "https://marioadolfo.com/encontro-em-manaus-promove-dialogo-e-acoes-para-preservar-o-boi-bumba-como-patrimonio-cultural/",
    "url_hash": "c0445e4d493341288bbaab09"
   },
+  "guid:6afb60cf52c09500099e2f09": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Não há evidências de que isso vá acontecer. Entenda a origem da história e o que está realmente previsto",
+   "discovered_at": "2026-11-17T11:10:28+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afb60cf52c09500099e2f09",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/3946487f-4147-41cb-8753-48bb8d552e36.JPG",
+   "key": "guid:6afb60cf52c09500099e2f09",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-17T11:00:40+00:00",
+   "status": "pending",
+   "title": "Apagão mundial em 17 de novembro: o que vai acontecer essa terça-feira?",
+   "updated_at": "2026-11-17T11:10:28+00:00",
+   "url": "https://marioadolfo.com/apagao-mundial-em-17-de-novembro-o-que-vai-acontecer-essa-terca-feira/",
+   "url_hash": "af182c3eb76fb3c859d32538"
+  },
   "guid:6afb622252c09500099e2f26": {
    "attempts": [],
    "category": "Polícia",
@@ -27694,8 +27715,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-17T11:00:24+00:00",
-  "saved_at": "2026-11-17T11:00:24+00:00"
+  "last_run_at": "2026-11-17T11:10:27+00:00",
+  "saved_at": "2026-11-17T11:10:28+00:00"
  },
  "schema": 1
 }
