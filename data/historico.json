@@ -27846,11 +27846,19 @@
    "url_hash": "fd95483dfa5ea981f781f101"
   },
   "guid:6afc620652c09500099e3003": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-18T04:10:20+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1543664187784472",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Desse total, 160 ocorreram por meio do cumprimento de mandados judiciais e 123 em flagrante",
    "discovered_at": "2026-11-17T14:30:29+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1543664187784472",
    "formats": [
     "link"
    ],
@@ -27858,20 +27866,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0240201e-3784-4b12-8d06-95d81436e3be.jpeg",
    "key": "guid:6afc620652c09500099e3003",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1543664187784472"
+   },
    "source_published_at": "2026-11-17T14:22:31+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Amazonas registra 283 prisões de crimes contra crianças e adolescentes em 2026",
-   "updated_at": "2026-11-17T14:30:29+00:00",
+   "updated_at": "2026-11-18T04:10:20+00:00",
    "url": "https://marioadolfo.com/amazonas-registra-283-prisoes-de-crimes-contra-criancas-e-adolescentes-em-2026/",
    "url_hash": "35af6718c61aad4634b42de7"
   },
   "guid:6afc637752c09500099e3028": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-18T04:10:44+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1543664551117769",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Dito & Feito",
    "description": "Localizado na esquina das avenidas Leonardo Malcher com Getúlio Vargas, o prédio está desabando. Mas ninguém sabe de quem é e o que funcionou lá no século passado",
    "discovered_at": "2026-11-17T14:40:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1543664551117769",
    "formats": [
     "link"
    ],
@@ -27879,20 +27897,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e1f3658b-2f13-4070-bc19-a9c9c7a91b09.jpg",
    "key": "guid:6afc637752c09500099e3028",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1543664551117769"
+   },
    "source_published_at": "2026-11-17T14:34:07+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Dito & Feito: O MISTÉRIO DO VELHO CASARÃO",
-   "updated_at": "2026-11-17T14:40:17+00:00",
+   "updated_at": "2026-11-18T04:10:44+00:00",
    "url": "https://marioadolfo.com/dito-feito-o-misterio-do-velho-casarao/",
    "url_hash": "17a2bbb5126575315f8d3c63"
   },
   "guid:6afc882552c09500099e306d": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-18T04:11:10+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1543664921117732",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Operação Cesta de Votos cumpre dois mandados de busca e apreensão para apurar suposta distribuição de dinheiro e cestas básicas em troca de apoio eleitoral",
    "discovered_at": "2026-11-17T17:10:26+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1543664921117732",
    "formats": [
     "link"
    ],
@@ -27900,20 +27928,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e417700d-e608-453c-8513-9b6975c3e106.jpeg",
    "key": "guid:6afc882552c09500099e306d",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1543664921117732"
+   },
    "source_published_at": "2026-11-17T17:02:43+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "PF investiga compra de votos e propaganda eleitoral irregular no Amazonas",
-   "updated_at": "2026-11-17T17:10:26+00:00",
+   "updated_at": "2026-11-18T04:11:10+00:00",
    "url": "https://marioadolfo.com/pf-investiga-compra-de-votos-e-propaganda-eleitoral-irregular-no-amazonas/",
    "url_hash": "10474df6f0c1580db8c77848"
   },
   "guid:6afc891952c09500099e3089": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-18T04:11:35+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1543665211117703",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Virada Amazônica segue até 26 de novembro, com programação em Manaus e Novo Airão",
    "discovered_at": "2026-11-17T17:10:26+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1543665211117703",
    "formats": [
     "link"
    ],
@@ -27921,20 +27959,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f5be195f-d138-4baa-aeea-9604645dcaf2.jpeg",
    "key": "guid:6afc891952c09500099e3089",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1543665211117703"
+   },
    "source_published_at": "2026-11-17T17:06:21+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Virada Amazônica movimenta o Largo de São Sebastião nesta quarta-feira",
-   "updated_at": "2026-11-17T17:10:26+00:00",
+   "updated_at": "2026-11-18T04:11:35+00:00",
    "url": "https://marioadolfo.com/virada-amazonica-movimenta-o-largo-de-sao-sebastiao-nesta-quarta-feira/",
    "url_hash": "bb8c4a710638a1a332a25ad2"
   },
   "guid:6afc89d852c09500099e309f": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-18T04:12:00+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1543665471117677",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Apae Manaus desenvolve um trabalho nas áreas de saúde, educação e assistência social, atendendo mais de 200 pessoas com deficiência intelectual e múltipla",
    "discovered_at": "2026-11-17T17:20:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1543665471117677",
    "formats": [
     "link"
    ],
@@ -27942,11 +27990,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e4b3e6f5-46a2-4f79-bbcd-084da276e212.jpeg",
    "key": "guid:6afc89d852c09500099e309f",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1543665471117677"
+   },
    "source_published_at": "2026-11-17T17:10:56+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Apae Manaus busca apoio para garantir recursos e manter atendimentos em 2027",
-   "updated_at": "2026-11-17T17:20:16+00:00",
+   "updated_at": "2026-11-18T04:12:00+00:00",
    "url": "https://marioadolfo.com/apae-manaus-busca-apoio-para-garantir-recursos-e-manter-atendimentos-em-2027/",
    "url_hash": "c224b9b9b28c1acbd64981bd"
   },
@@ -28479,8 +28529,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-18T04:00:26+00:00",
-  "saved_at": "2026-11-18T04:02:19+00:00"
+  "last_run_at": "2026-11-18T04:10:15+00:00",
+  "saved_at": "2026-11-18T04:12:00+00:00"
  },
  "schema": 1
 }
