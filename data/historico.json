@@ -28322,12 +28322,12 @@
    "guid": "6afc97ae52c09500099e31c1",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/17a94d14-53b3-4371-a1f5-5462a4834eca.jpeg",
    "key": "guid:6afc97ae52c09500099e31c1",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-17T18:08:09+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "TRE-AM mantém condenação por uso de deepfake em propaganda eleitoral",
-   "updated_at": "2026-11-17T18:10:16+00:00",
+   "updated_at": "2026-11-18T18:10:23+00:00",
    "url": "https://marioadolfo.com/tre-am-mantem-condenacao-por-uso-de-deepfake-em-propaganda-eleitoral/",
    "url_hash": "8886616cc1119efd381e53d0"
   },
@@ -29044,13 +29044,34 @@
    "updated_at": "2026-11-18T17:58:18+00:00",
    "url": "https://marioadolfo.com/homem-e-esfaqueado-durante-briga-por-cabo-de-vassoura-em-manaus/",
    "url_hash": "7c482c77af25a9c2788fb3d2"
+  },
+  "guid:6afde80652c09500099e35c1": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "O balanço foi divulgado pela Delegacia Especializada em Homicídios e Sequestros. Os dados são entre janeiro e outubro",
+   "discovered_at": "2026-11-18T18:10:23+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afde80652c09500099e35c1",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c094e6ee-c13c-4cde-b28a-2e07ce71d003.jpeg",
+   "key": "guid:6afde80652c09500099e35c1",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-18T15:00:00+00:00",
+   "status": "pending",
+   "title": "Polícia conclui 726 inquéritos e prende 191 pessoas por homicídio em Manaus neste ano",
+   "updated_at": "2026-11-18T18:10:23+00:00",
+   "url": "https://marioadolfo.com/policia-conclui-726-inqueritos-e-prende-191-pessoas-por-homicidio-em-manaus-neste-ano/",
+   "url_hash": "d2f4f3eb4ad8f7e5c0088b8d"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-18T18:00:29+00:00",
-  "saved_at": "2026-11-18T18:00:30+00:00"
+  "last_run_at": "2026-11-18T18:10:23+00:00",
+  "saved_at": "2026-11-18T18:10:23+00:00"
  },
  "schema": 1
 }
