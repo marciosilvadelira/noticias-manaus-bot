@@ -27628,11 +27628,19 @@
    "url_hash": "c0445e4d493341288bbaab09"
   },
   "guid:6afb60cf52c09500099e2f09": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-18T04:00:34+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1543658694451688",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Não há evidências de que isso vá acontecer. Entenda a origem da história e o que está realmente previsto",
    "discovered_at": "2026-11-17T11:10:28+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1543658694451688",
    "formats": [
     "link"
    ],
@@ -27640,11 +27648,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/3946487f-4147-41cb-8753-48bb8d552e36.JPG",
    "key": "guid:6afb60cf52c09500099e2f09",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1543658694451688"
+   },
    "source_published_at": "2026-11-17T11:00:40+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Apagão mundial em 17 de novembro: o que vai acontecer essa terça-feira?",
-   "updated_at": "2026-11-17T11:10:28+00:00",
+   "updated_at": "2026-11-18T04:00:34+00:00",
    "url": "https://marioadolfo.com/apagao-mundial-em-17-de-novembro-o-que-vai-acontecer-essa-terca-feira/",
    "url_hash": "af182c3eb76fb3c859d32538"
   },
@@ -27712,11 +27722,19 @@
    "url_hash": "6e51ad91cb93fac7b3dcf97f"
   },
   "guid:6afbba3352c09500099e2f79": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-18T04:00:59+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1543658917784999",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Texto-base foi aprovado na semana passada, mas restam quatro destaques",
    "discovered_at": "2026-11-17T11:40:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1543658917784999",
    "formats": [
     "link"
    ],
@@ -27724,20 +27742,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/72219ff4-0dfb-4dfc-b8b5-9693899290d1.jpg",
    "key": "guid:6afbba3352c09500099e2f79",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1543658917784999"
+   },
    "source_published_at": "2026-11-17T11:30:50+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Senado deve concluir votação do projeto de ajuste fiscal nesta terça-feira",
-   "updated_at": "2026-11-17T11:40:15+00:00",
+   "updated_at": "2026-11-18T04:00:59+00:00",
    "url": "https://marioadolfo.com/senado-deve-concluir-votacao-do-projeto-de-ajuste-fiscal-nesta-terca-feira/",
    "url_hash": "994cf70ee109dd65432f83bc"
   },
   "guid:6afbbbbc52c09500099e2f90": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-18T04:01:28+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1543659117784979",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Aviso foi enviado na noite desta segunda-feira (16/11), por meio do aplicativo Cadê Meu Ônibus, após a Justiça determinar o retorno do benefício",
    "discovered_at": "2026-11-17T11:40:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1543659117784979",
    "formats": [
     "link"
    ],
@@ -27745,20 +27773,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/34b70cac-ccd0-45d7-ae05-9fde48823d44.jpg",
    "key": "guid:6afbbbbc52c09500099e2f90",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1543659117784979"
+   },
    "source_published_at": "2026-11-17T11:30:52+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Estudantes da rede estadual podem solicitar créditos do Passe Livre em Manaus",
-   "updated_at": "2026-11-17T11:40:15+00:00",
+   "updated_at": "2026-11-18T04:01:28+00:00",
    "url": "https://marioadolfo.com/estudantes-da-rede-estadual-podem-solicitar-creditos-do-passe-livre-em-manaus/",
    "url_hash": "b9cb2c71a420cedcb01fd9a9"
   },
   "guid:6afc398952c09500099e2fb9": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-18T04:01:53+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1543659364451621",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Alô Amazonas",
    "description": "Os recursos obtidos por meio da taxa servem de base para a manutenção das atividades cotidianas da Suframa",
    "discovered_at": "2026-11-17T11:40:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1543659364451621",
    "formats": [
     "link"
    ],
@@ -27766,20 +27804,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/96b23691-8798-4d1f-9422-23ac855dcd7b.jpeg",
    "key": "guid:6afc398952c09500099e2fb9",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1543659364451621"
+   },
    "source_published_at": "2026-11-17T11:33:30+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Reconhecimento da legalidade da Taxa de Controle de Incentivos Fiscais reforça segurança da ZFM, diz Suframa",
-   "updated_at": "2026-11-17T11:40:15+00:00",
+   "updated_at": "2026-11-18T04:01:53+00:00",
    "url": "https://marioadolfo.com/reconhecimento-da-legalidade-da-taxa-de-controle-de-incentivos-fiscais-reforca-seguranca-da-zfm-diz-suframa/",
    "url_hash": "66ec46dfac7045a6c2eb6fa0"
   },
   "guid:6afc3f3152c09500099e2fe4": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-18T04:02:19+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1543659614451596",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Parintins",
    "description": "Nova data é definitiva e garante mais tempo para a conclusão das composições e das produções musicais em estúdio",
    "discovered_at": "2026-11-17T12:00:23+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1543659614451596",
    "formats": [
     "link"
    ],
@@ -27787,11 +27835,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d312cf5b-d4e4-4d41-990b-def07a8b4169.jpeg",
    "key": "guid:6afc3f3152c09500099e2fe4",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1543659614451596"
+   },
    "source_published_at": "2026-11-17T11:57:47+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Caprichoso atende pedido de compositores e prorroga inscrições de toadas até 29 de novembro",
-   "updated_at": "2026-11-17T12:00:23+00:00",
+   "updated_at": "2026-11-18T04:02:19+00:00",
    "url": "https://marioadolfo.com/caprichoso-atende-pedido-de-compositores-e-prorroga-inscricoes-de-toadas-ate-29-de-novembro/",
    "url_hash": "fd95483dfa5ea981f781f101"
   },
@@ -28429,8 +28479,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-18T03:50:20+00:00",
-  "saved_at": "2026-11-18T03:50:21+00:00"
+  "last_run_at": "2026-11-18T04:00:26+00:00",
+  "saved_at": "2026-11-18T04:02:19+00:00"
  },
  "schema": 1
 }
