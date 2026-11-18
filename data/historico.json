@@ -28156,11 +28156,19 @@
    "url_hash": "6556b6d89630d94bbdc5aa01"
   },
   "guid:6afc91a852c09500099e313b": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-18T04:30:29+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1543677571116467",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Entre os principais problemas identificados estão atrasos no envio de documentos obrigatórios ao Tribunal, falhas na transparência fiscal e ausência de controles administrativos",
    "discovered_at": "2026-11-17T17:50:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1543677571116467",
    "formats": [
     "link"
    ],
@@ -28168,20 +28176,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/dc6165db-5a6d-4cdf-8e51-7db7f4e24031.jpeg",
    "key": "guid:6afc91a852c09500099e313b",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1543677571116467"
+   },
    "source_published_at": "2026-11-17T17:42:00+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "TCE-AM multa ex-prefeito de Manicoré em R$ 45,5 mil por irregularidades nas contas de 2024",
-   "updated_at": "2026-11-17T17:50:17+00:00",
+   "updated_at": "2026-11-18T04:30:29+00:00",
    "url": "https://marioadolfo.com/tce-am-multa-ex-prefeito-de-manicore-em-r-45-5-mil-por-irregularidades-nas-contas-de-2024/",
    "url_hash": "ec9395e484330ad7f2e15590"
   },
   "guid:6afc92c352c09500099e3150": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-18T04:30:55+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1543678117783079",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "O crime ocorreu na noite do dia 8 de novembro. A imagem de Auderlans Corrêa Trenório foi divulgada pela Polícia Civil do Amazonas",
    "discovered_at": "2026-11-17T17:50:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1543678117783079",
    "formats": [
     "link"
    ],
@@ -28189,20 +28207,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/35a62ce8-2aee-438b-93f8-964b6efcef11.png",
    "key": "guid:6afc92c352c09500099e3150",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1543678117783079"
+   },
    "source_published_at": "2026-11-17T17:47:30+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Polícia procura por suspeito de roubar restaurante no bairro Japiim",
-   "updated_at": "2026-11-17T17:50:17+00:00",
+   "updated_at": "2026-11-18T04:30:55+00:00",
    "url": "https://marioadolfo.com/policia-procura-por-suspeito-de-roubar-restaurante-no-bairro-japiim/",
    "url_hash": "847302f53af41326ba914339"
   },
   "guid:6afc935f52c09500099e316a": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-18T04:31:22+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1543678524449705",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Responsável possuía registro de embargo ambiental, e nova autuação resultou na restrição de 216 hectares de vegetação nativa",
    "discovered_at": "2026-11-17T17:50:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1543678524449705",
    "formats": [
     "link"
    ],
@@ -28210,20 +28238,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f3e7c821-d167-459a-8da7-07d4f86ccd70.jpeg",
    "key": "guid:6afc935f52c09500099e316a",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1543678524449705"
+   },
    "source_published_at": "2026-11-17T17:49:56+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Ipaam multa em R$ 1 milhão homem com histórico de desmatamento ilegal em Guajará",
-   "updated_at": "2026-11-17T17:50:17+00:00",
+   "updated_at": "2026-11-18T04:31:22+00:00",
    "url": "https://marioadolfo.com/ipaam-multa-em-r-1-milhao-homem-com-historico-de-desmatamento-ilegal-em-guajara/",
    "url_hash": "efd96b5b5bc6c8080cfe4361"
   },
   "guid:6afc940052c09500099e3189": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-18T04:31:48+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1543678897783001",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Montante foi usado por órgãos do sistema de justiça criminal",
    "discovered_at": "2026-11-17T18:00:26+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1543678897783001",
    "formats": [
     "link"
    ],
@@ -28231,20 +28269,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b9e7bddb-9977-4e64-8d9b-3f169e27390a.webp",
    "key": "guid:6afc940052c09500099e3189",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1543678897783001"
+   },
    "source_published_at": "2026-11-17T17:52:35+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Brasil gasta R$ 14,5 bilhões por ano com guerra às drogas",
-   "updated_at": "2026-11-17T18:00:26+00:00",
+   "updated_at": "2026-11-18T04:31:48+00:00",
    "url": "https://marioadolfo.com/brasil-gasta-r-14-5-bilhoes-por-ano-com-guerra-as-drogas/",
    "url_hash": "13ca3bab84c9047767e385f0"
   },
   "guid:6afc962e52c09500099e31a4": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-18T04:32:15+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1543679234449634",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Manifestação foi após reportagem divulgar que a Polícia Federal havia deflagrado uma operação na sede do poder legislativo",
    "discovered_at": "2026-11-17T18:10:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1543679234449634",
    "formats": [
     "link"
    ],
@@ -28252,11 +28300,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/418e944b-95a9-4c0f-a4bb-edcec39ce14b.jpeg",
    "key": "guid:6afc962e52c09500099e31a4",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1543679234449634"
+   },
    "source_published_at": "2026-11-17T18:06:06+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Assembleia nega operação e diz que PF foi intimar servidor público",
-   "updated_at": "2026-11-17T18:10:16+00:00",
+   "updated_at": "2026-11-18T04:32:15+00:00",
    "url": "https://marioadolfo.com/assembleia-nega-operacao-e-diz-que-pf-foi-intimar-servidor-publico/",
    "url_hash": "b6503e4c41ab6903f806a12e"
   },
@@ -28579,8 +28629,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-18T04:20:15+00:00",
-  "saved_at": "2026-11-18T04:22:10+00:00"
+  "last_run_at": "2026-11-18T04:30:18+00:00",
+  "saved_at": "2026-11-18T04:32:15+00:00"
  },
  "schema": 1
 }
