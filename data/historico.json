@@ -28855,13 +28855,76 @@
    "updated_at": "2026-11-18T15:50:17+00:00",
    "url": "https://marioadolfo.com/ccj-do-senado-eleva-pena-para-motorista-que-mata-sob-alcool-ou-drogas/",
    "url_hash": "b0154c6426a27ac3e23cc2b6"
+  },
+  "guid:6afdc90552c09500099e34d8": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Prazo para solicitar reaplicação de provas termina sexta-feira (20)",
+   "discovered_at": "2026-11-18T16:00:24+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afdc90552c09500099e34d8",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/fc9be882-ed54-429a-ba44-ba4b98ed4897.jpeg",
+   "key": "guid:6afdc90552c09500099e34d8",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-18T15:51:18+00:00",
+   "status": "pending",
+   "title": "Inep divulga gabarito oficial do Enem 2026; veja como consultar",
+   "updated_at": "2026-11-18T16:00:24+00:00",
+   "url": "https://marioadolfo.com/inep-divulga-gabarito-oficial-do-enem-2026-veja-como-consultar/",
+   "url_hash": "69b8cc8f1cfefd3efcdd287e"
+  },
+  "guid:6afdc9ce52c09500099e34f2": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Pela primeira vez, contingente fica abaixo de 1 milhão, aponta o IBGE",
+   "discovered_at": "2026-11-18T16:00:24+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afdc9ce52c09500099e34f2",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/45cd0184-8dd5-4eea-b353-5d90806fe12d.jpeg",
+   "key": "guid:6afdc9ce52c09500099e34f2",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-18T15:54:22+00:00",
+   "status": "pending",
+   "title": "Número de desempregados há dois anos ou mais é o menor já registrado",
+   "updated_at": "2026-11-18T16:00:24+00:00",
+   "url": "https://marioadolfo.com/numero-de-desempregados-ha-dois-anos-ou-mais-e-o-menor-ja-registrado/",
+   "url_hash": "12da42927c8763b2bffbddbe"
+  },
+  "guid:6afdca5e52c09500099e350a": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A ação é para garantir que esses produtos sejam comercializados de acordo com as normas de qualidade e segurança",
+   "discovered_at": "2026-11-18T16:00:24+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afdca5e52c09500099e350a",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/7560698c-7065-4180-a318-0058373187d4.jpeg",
+   "key": "guid:6afdca5e52c09500099e350a",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-18T15:57:56+00:00",
+   "status": "pending",
+   "title": "Operação Black Friday: Ipem-AM intensifica fiscalização de eletrodomésticos em Manaus",
+   "updated_at": "2026-11-18T16:00:24+00:00",
+   "url": "https://marioadolfo.com/operacao-black-friday-ipem-am-intensifica-fiscalizacao-de-eletrodomesticos-em-manaus/",
+   "url_hash": "dcfd4b6a1d8e460e97c041f4"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-18T15:50:17+00:00",
-  "saved_at": "2026-11-18T15:50:18+00:00"
+  "last_run_at": "2026-11-18T16:00:22+00:00",
+  "saved_at": "2026-11-18T16:00:24+00:00"
  },
  "schema": 1
 }
