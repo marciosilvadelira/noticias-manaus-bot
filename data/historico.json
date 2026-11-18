@@ -29086,13 +29086,34 @@
    "updated_at": "2026-11-18T18:40:16+00:00",
    "url": "https://marioadolfo.com/aguas-de-manaus-e-multada-por-demora-no-restabelecimento-do-abastecimento-no-morro-da-liberdade/",
    "url_hash": "d0c8c473671744909326018a"
+  },
+  "guid:6afdf1bd52c09500099e3614": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Segundo o Ibama, 66 ações de fiscalização embargaram mais de 5,5 mil hectares no estado",
+   "discovered_at": "2026-11-18T18:50:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afdf1bd52c09500099e3614",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e26bd774-aa74-4963-af51-7bb46e688bbf.webp",
+   "key": "guid:6afdf1bd52c09500099e3614",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-18T18:45:18+00:00",
+   "status": "pending",
+   "title": "Ibama registra R$ 16,3 milhões em multas por incêndios no Amazonas",
+   "updated_at": "2026-11-18T18:50:15+00:00",
+   "url": "https://marioadolfo.com/ibama-registra-r-16-3-milhoes-em-multas-por-incendios-no-amazonas/",
+   "url_hash": "88d9cd2243b322a927b56618"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-18T18:40:15+00:00",
-  "saved_at": "2026-11-18T18:40:17+00:00"
+  "last_run_at": "2026-11-18T18:50:15+00:00",
+  "saved_at": "2026-11-18T18:50:16+00:00"
  },
  "schema": 1
 }
