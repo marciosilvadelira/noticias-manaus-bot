@@ -28729,13 +28729,34 @@
    "updated_at": "2026-11-18T12:30:20+00:00",
    "url": "https://marioadolfo.com/agencias-bancarias-fecham-para-atendimento-presencial-nesta-sexta-20/",
    "url_hash": "2c392124ffad261a476a79f7"
+  },
+  "guid:6afd9a3552c09500099e3408": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Empresas de diferentes setores abrem novas oportunidades para jovens que desejam iniciar ou desenvolver sua trajetória profissional",
+   "discovered_at": "2026-11-18T12:40:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afd9a3552c09500099e3408",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a8239b5b-a77e-4ae6-87de-cc162fb74dac.jpeg",
+   "key": "guid:6afd9a3552c09500099e3408",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-18T12:31:17+00:00",
+   "status": "pending",
+   "title": "Procurando estágio? CIEE projeta a abertura de 42 mil novas vagas até o início de 2027",
+   "updated_at": "2026-11-18T12:40:16+00:00",
+   "url": "https://marioadolfo.com/procurando-estagio-ciee-projeta-a-abertura-de-42-mil-novas-vagas-ate-o-inicio-de-2027/",
+   "url_hash": "1abb98ae255eb042f50e094a"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-18T12:30:19+00:00",
-  "saved_at": "2026-11-18T12:30:20+00:00"
+  "last_run_at": "2026-11-18T12:40:15+00:00",
+  "saved_at": "2026-11-18T12:40:16+00:00"
  },
  "schema": 1
 }
