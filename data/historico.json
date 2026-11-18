@@ -28343,12 +28343,12 @@
    "guid": "6afc986052c09500099e31e4",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/63cc61fb-8405-4e45-8668-f4a2981831bf.webp",
    "key": "guid:6afc986052c09500099e31e4",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-17T18:11:13+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Suplementos alimentares têm fabricação e venda suspensas no Brasil",
-   "updated_at": "2026-11-17T18:20:17+00:00",
+   "updated_at": "2026-11-18T18:20:19+00:00",
    "url": "https://marioadolfo.com/suplementos-alimentares-tem-fabricacao-e-venda-suspensas-no-brasil/",
    "url_hash": "ddabab5b925e6a93ebf0860e"
   },
@@ -28364,12 +28364,12 @@
    "guid": "6afc998952c09500099e3215",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c413f815-7c43-4b97-ad42-c33873fef022.jpeg",
    "key": "guid:6afc998952c09500099e3215",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-17T18:16:42+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Detran-AM desarticula ‘rolezinho’ e remove 12 motocicletas no Coroado",
-   "updated_at": "2026-11-17T18:20:17+00:00",
+   "updated_at": "2026-11-18T18:20:19+00:00",
    "url": "https://marioadolfo.com/detran-am-desarticula-rolezinho-e-remove-12-motocicletas-no-coroado/",
    "url_hash": "1229582a81312ea0eb8f08a1"
   },
@@ -29070,8 +29070,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-18T18:10:23+00:00",
-  "saved_at": "2026-11-18T18:10:23+00:00"
+  "last_run_at": "2026-11-18T18:20:16+00:00",
+  "saved_at": "2026-11-18T18:20:20+00:00"
  },
  "schema": 1
 }
