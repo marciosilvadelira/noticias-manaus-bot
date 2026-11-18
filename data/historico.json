@@ -28624,13 +28624,55 @@
    "updated_at": "2026-11-17T22:00:23+00:00",
    "url": "https://marioadolfo.com/procon-manaus-fiscaliza-shoppings-durante-a-black-friday/",
    "url_hash": "170d265c018658a684af31a1"
+  },
+  "guid:6afd083a52c09500099e3379": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Economia estadual movimentou R$ 177,2 bilhões, impulsionada principalmente pelos setores de Serviços e Indústria",
+   "discovered_at": "2026-11-18T11:30:22+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afd083a52c09500099e3379",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6df4bbf8-dc19-4b83-bab9-74f76747a01c.jpeg",
+   "key": "guid:6afd083a52c09500099e3379",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-18T11:20:25+00:00",
+   "status": "pending",
+   "title": "PIB do Amazonas cresce 5,6% e tem a quarta maior alta do país",
+   "updated_at": "2026-11-18T11:30:22+00:00",
+   "url": "https://marioadolfo.com/pib-do-amazonas-cresce-5-6-e-tem-a-quarta-maior-alta-do-pais/",
+   "url_hash": "39a4038fa016cb89db1951e4"
+  },
+  "guid:6afd0b5852c09500099e33c0": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A medida busca fortalecer o abastecimento da rede pública de saúde e assegurar a continuidade da vacinação dos grupos prioritários",
+   "discovered_at": "2026-11-18T11:30:22+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afd0b5852c09500099e33c0",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/00f535e4-1f2c-4ad4-8ca6-5e8c6d68c0de.jpg",
+   "key": "guid:6afd0b5852c09500099e33c0",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-18T11:30:12+00:00",
+   "status": "pending",
+   "title": "Amazonas vai receber 30 mil doses adicionais de vacinas contra a Covid-19",
+   "updated_at": "2026-11-18T11:30:22+00:00",
+   "url": "https://marioadolfo.com/amazonas-vai-receber-30-mil-doses-adicionais-de-vacina-contra-a-covid-19/",
+   "url_hash": "d7600232765ca084cd1abe23"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-18T11:20:24+00:00",
-  "saved_at": "2026-11-18T11:20:25+00:00"
+  "last_run_at": "2026-11-18T11:30:21+00:00",
+  "saved_at": "2026-11-18T11:30:23+00:00"
  },
  "schema": 1
 }
