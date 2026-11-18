@@ -28406,12 +28406,12 @@
    "guid": "6afca26652c09500099e324e",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a61d04cf-b7b3-4ffb-bba8-76abe189f481.jpeg",
    "key": "guid:6afca26652c09500099e324e",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-17T18:54:31+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Centro de Zoonoses abre agendamento para castração de cães e gatos em Manaus",
-   "updated_at": "2026-11-17T19:00:22+00:00",
+   "updated_at": "2026-11-18T19:00:30+00:00",
    "url": "https://marioadolfo.com/centro-de-zoonoses-abre-agendamento-para-castracao-de-caes-e-gatos-em-manaus/",
    "url_hash": "d5130055ea7a80171585eb3f"
   },
@@ -28427,12 +28427,12 @@
    "guid": "6afca31352c09500099e3268",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/47794116-f053-4873-98f4-8e33c47f478b.jpeg",
    "key": "guid:6afca31352c09500099e3268",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-17T18:56:52+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Dino decide que escala 5x2 será julgada de forma definitiva pelo STF",
-   "updated_at": "2026-11-17T19:00:22+00:00",
+   "updated_at": "2026-11-18T19:00:30+00:00",
    "url": "https://marioadolfo.com/dino-decide-que-escala-5x2-sera-julgada-de-forma-definitiva-pelo-stf/",
    "url_hash": "4bbf9347640f57685d4944d0"
   },
@@ -29112,8 +29112,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-18T18:50:15+00:00",
-  "saved_at": "2026-11-18T18:50:16+00:00"
+  "last_run_at": "2026-11-18T19:00:30+00:00",
+  "saved_at": "2026-11-18T19:00:31+00:00"
  },
  "schema": 1
 }
