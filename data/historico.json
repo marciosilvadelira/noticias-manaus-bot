@@ -28511,12 +28511,12 @@
    "guid": "6afcb09452c09500099e32cf",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/67253393-98a4-4fd3-b4bf-afdd184bb2dd.jpeg",
    "key": "guid:6afcb09452c09500099e32cf",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-17T19:56:02+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Semsa deve convocar aprovados em concurso público para substituir temporários",
-   "updated_at": "2026-11-17T20:00:22+00:00",
+   "updated_at": "2026-11-18T20:00:24+00:00",
    "url": "https://marioadolfo.com/semsa-deve-convocar-aprovados-em-concurso-publico-para-substituir-temporarios/",
    "url_hash": "e8812c41366e7b97fa6e3de5"
   },
@@ -29133,8 +29133,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-18T19:50:15+00:00",
-  "saved_at": "2026-11-18T19:50:16+00:00"
+  "last_run_at": "2026-11-18T20:00:23+00:00",
+  "saved_at": "2026-11-18T20:00:24+00:00"
  },
  "schema": 1
 }
