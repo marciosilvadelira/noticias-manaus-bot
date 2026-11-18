@@ -28960,13 +28960,76 @@
    "updated_at": "2026-11-18T17:40:16+00:00",
    "url": "https://marioadolfo.com/tce-am-divulga-resultado-definitivo-do-3o-concurso-de-artigos-cientificos/",
    "url_hash": "222151b0a9a45f79eaee5917"
+  },
+  "guid:6afde2e152c09500099e3565": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Oportunidades incluem cursos técnicos em Informática e Logística, além de capacitações nas áreas de tecnologia, saúde, gastronomia e beleza",
+   "discovered_at": "2026-11-18T17:50:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afde2e152c09500099e3565",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/60f6274d-aa96-41cb-8e9c-26c7b2e495fb.jpeg",
+   "key": "guid:6afde2e152c09500099e3565",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-18T17:40:50+00:00",
+   "status": "pending",
+   "title": "Senac abre vagas para cursos gratuitos de até 1.200 horas no Amazonas",
+   "updated_at": "2026-11-18T17:50:17+00:00",
+   "url": "https://marioadolfo.com/senac-abre-vagas-para-cursos-gratuitos-de-ate-1-200-horas-no-amazonas/",
+   "url_hash": "1815b52d4c9950dbb0217f13"
+  },
+  "guid:6afde34552c09500099e357c": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A montagem será encenada na quinta-feira (19/11) e sexta-feira (20/11), às 20h; primeira apresentação terá entrada gratuita",
+   "discovered_at": "2026-11-18T17:50:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afde34552c09500099e357c",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/9961a60c-6501-49b9-a584-addeb35b2fd7.jpeg",
+   "key": "guid:6afde34552c09500099e357c",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-18T17:42:47+00:00",
+   "status": "pending",
+   "title": "'Sonho de uma Noite de Verão' ganha vida em montagem no Teatro Amazonas",
+   "updated_at": "2026-11-18T17:50:17+00:00",
+   "url": "https://marioadolfo.com/sonho-de-uma-noite-de-verao-ganha-vida-em-montagem-no-teatro-amazonas/",
+   "url_hash": "824167e07a73741c2b9fcaa8"
+  },
+  "guid:6afde3bc52c09500099e3593": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Programação, que segue até 1º de dezembro, avalia a situação de 219 crianças e adolescentes acolhidos em nove instituições da capital",
+   "discovered_at": "2026-11-18T17:50:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afde3bc52c09500099e3593",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b5014838-9372-45f2-bafd-ead76bf71edf.jpeg",
+   "key": "guid:6afde3bc52c09500099e3593",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-18T17:45:10+00:00",
+   "status": "pending",
+   "title": "Treze crianças e adolescentes deixam abrigos após audiências em Manaus",
+   "updated_at": "2026-11-18T17:50:17+00:00",
+   "url": "https://marioadolfo.com/treze-criancas-e-adolescentes-deixam-abrigos-apos-audiencias-em-manaus/",
+   "url_hash": "4d46c462263a4252cd900c11"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-18T17:40:15+00:00",
-  "saved_at": "2026-11-18T17:40:16+00:00"
+  "last_run_at": "2026-11-18T17:50:16+00:00",
+  "saved_at": "2026-11-18T17:50:17+00:00"
  },
  "schema": 1
 }
