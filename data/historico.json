@@ -28750,13 +28750,34 @@
    "updated_at": "2026-11-18T12:40:16+00:00",
    "url": "https://marioadolfo.com/procurando-estagio-ciee-projeta-a-abertura-de-42-mil-novas-vagas-ate-o-inicio-de-2027/",
    "url_hash": "1abb98ae255eb042f50e094a"
+  },
+  "guid:6afd9c3a52c09500099e341e": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "O alerta é válido até as 23h59 e prevê precipitações entre 20 e 30 milímetros por hora, além de rajadas de vento que podem variar de 40 a 60 km/h",
+   "discovered_at": "2026-11-18T12:50:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afd9c3a52c09500099e341e",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/82440b16-cb62-4249-b43d-32d7cdaf6f39.jpeg",
+   "key": "guid:6afd9c3a52c09500099e341e",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-18T12:43:43+00:00",
+   "status": "pending",
+   "title": "Inmet emite alerta de chuvas intensas e ventos para o Amazonas nesta quarta-feira",
+   "updated_at": "2026-11-18T12:50:16+00:00",
+   "url": "https://marioadolfo.com/inmet-emite-alerta-de-chuvas-intensas-e-ventos-para-o-amazonas-nesta-quarta-feira/",
+   "url_hash": "5f86f45a683748b9386ebfde"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-18T12:40:15+00:00",
-  "saved_at": "2026-11-18T12:40:16+00:00"
+  "last_run_at": "2026-11-18T12:50:16+00:00",
+  "saved_at": "2026-11-18T12:50:17+00:00"
  },
  "schema": 1
 }
