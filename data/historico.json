@@ -29023,13 +29023,34 @@
    "updated_at": "2026-11-18T17:50:17+00:00",
    "url": "https://marioadolfo.com/treze-criancas-e-adolescentes-deixam-abrigos-apos-audiencias-em-manaus/",
    "url_hash": "4d46c462263a4252cd900c11"
+  },
+  "guid:6afde56552c09500099e35ac": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Aposentado afirmou que foi agredido durante a discussão e usou a faca para se defender",
+   "discovered_at": "2026-11-18T17:58:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afde56552c09500099e35ac",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/78141a65-a0a1-4956-8e67-a7accbbe35ff.jpeg",
+   "key": "guid:6afde56552c09500099e35ac",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-18T17:52:03+00:00",
+   "status": "pending",
+   "title": "Homem é esfaqueado durante briga por cabo de vassoura em Manaus",
+   "updated_at": "2026-11-18T17:58:18+00:00",
+   "url": "https://marioadolfo.com/homem-e-esfaqueado-durante-briga-por-cabo-de-vassoura-em-manaus/",
+   "url_hash": "7c482c77af25a9c2788fb3d2"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-18T17:50:16+00:00",
-  "saved_at": "2026-11-18T17:50:17+00:00"
+  "last_run_at": "2026-11-18T17:58:17+00:00",
+  "saved_at": "2026-11-18T17:58:18+00:00"
  },
  "schema": 1
 }
