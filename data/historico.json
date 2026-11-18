@@ -28792,13 +28792,76 @@
    "updated_at": "2026-11-18T13:00:24+00:00",
    "url": "https://marioadolfo.com/dito-feito-abandono-de-incapaz/",
    "url_hash": "f8ce9ca9cd0b367b564f7202"
+  },
+  "guid:6afdb0f352c09500099e3492": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Decisão da Justiça Eleitoral reafirma que a identificação de sedes de campanha não autoriza a instalação de placas e painéis que ultrapassem os limites legais de publicidade",
+   "discovered_at": "2026-11-18T15:50:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afdb0f352c09500099e3492",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/de608be9-2e4e-4ac4-8244-d9276f69ed89.jpeg",
+   "key": "guid:6afdb0f352c09500099e3492",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-18T15:42:26+00:00",
+   "status": "pending",
+   "title": "TRE-AM mantém multa por propaganda com efeito de outdoor em comitê de campanha",
+   "updated_at": "2026-11-18T15:50:17+00:00",
+   "url": "https://marioadolfo.com/tre-am-mantem-multa-por-propaganda-com-efeito-de-outdoor-em-comite-de-campanha/",
+   "url_hash": "e2d87e69b1a1437e60456111"
+  },
+  "guid:6afdc78852c09500099e34a6": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Ação acontece no dia 28 de novembro, no Mercado de Origem, localizado na rua Tamandaré",
+   "discovered_at": "2026-11-18T15:50:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afdc78852c09500099e34a6",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/88f92b1a-55b1-465c-b4ed-18465f7372a2.jpeg",
+   "key": "guid:6afdc78852c09500099e34a6",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-18T15:45:51+00:00",
+   "status": "pending",
+   "title": "Defensoria abre agendamento para atendimento jurídico gratuito no Centro de Manaus",
+   "updated_at": "2026-11-18T15:50:17+00:00",
+   "url": "https://marioadolfo.com/defensoria-abre-agendamento-para-atendimento-juridico-gratuito-no-centro-de-manaus/",
+   "url_hash": "0bd187c0ed6bb0e3e24375b8"
+  },
+  "guid:6afdc85652c09500099e34c3": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Projeto aumenta pena máxima de oito para dez anos de reclusão",
+   "discovered_at": "2026-11-18T15:50:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afdc85652c09500099e34c3",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/83cb18d2-3179-4b6b-a03e-5d55b45af318.jpeg",
+   "key": "guid:6afdc85652c09500099e34c3",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-18T15:48:22+00:00",
+   "status": "pending",
+   "title": "CCJ do Senado eleva pena para motorista que mata sob álcool ou drogas",
+   "updated_at": "2026-11-18T15:50:17+00:00",
+   "url": "https://marioadolfo.com/ccj-do-senado-eleva-pena-para-motorista-que-mata-sob-alcool-ou-drogas/",
+   "url_hash": "b0154c6426a27ac3e23cc2b6"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-18T15:40:16+00:00",
-  "saved_at": "2026-11-18T15:40:18+00:00"
+  "last_run_at": "2026-11-18T15:50:17+00:00",
+  "saved_at": "2026-11-18T15:50:18+00:00"
  },
  "schema": 1
 }
