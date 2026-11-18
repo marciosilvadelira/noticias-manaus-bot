@@ -28616,12 +28616,12 @@
    "guid": "6afccccb52c09500099e334d",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a6eaabe6-d708-49c6-8db2-6b4e4aa61d4a.jpeg",
    "key": "guid:6afccccb52c09500099e334d",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-17T21:54:42+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Procon Manaus fiscaliza shoppings durante a Black Friday",
-   "updated_at": "2026-11-17T22:00:23+00:00",
+   "updated_at": "2026-11-18T22:00:25+00:00",
    "url": "https://marioadolfo.com/procon-manaus-fiscaliza-shoppings-durante-a-black-friday/",
    "url_hash": "170d265c018658a684af31a1"
   },
@@ -29259,8 +29259,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-18T21:50:17+00:00",
-  "saved_at": "2026-11-18T21:50:18+00:00"
+  "last_run_at": "2026-11-18T22:00:25+00:00",
+  "saved_at": "2026-11-18T22:00:26+00:00"
  },
  "schema": 1
 }
