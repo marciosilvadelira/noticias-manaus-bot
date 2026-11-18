@@ -28771,13 +28771,34 @@
    "updated_at": "2026-11-18T12:50:16+00:00",
    "url": "https://marioadolfo.com/inmet-emite-alerta-de-chuvas-intensas-e-ventos-para-o-amazonas-nesta-quarta-feira/",
    "url_hash": "5f86f45a683748b9386ebfde"
+  },
+  "guid:6afd9cba52c09500099e342e": {
+   "attempts": [],
+   "category": "Dito & Feito",
+   "description": "Michelle tira 10 dias de férias, deixa Jair Bolsonaro aos cuidados da filha e viaja",
+   "discovered_at": "2026-11-18T13:00:24+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afd9cba52c09500099e342e",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0b38a442-37b2-4940-958f-655cb2c326e9.jpg",
+   "key": "guid:6afd9cba52c09500099e342e",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-18T12:51:31+00:00",
+   "status": "pending",
+   "title": "Dito & Feito: ABANDONO DE INCAPAZ",
+   "updated_at": "2026-11-18T13:00:24+00:00",
+   "url": "https://marioadolfo.com/dito-feito-abandono-de-incapaz/",
+   "url_hash": "f8ce9ca9cd0b367b564f7202"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-18T12:50:16+00:00",
-  "saved_at": "2026-11-18T12:50:17+00:00"
+  "last_run_at": "2026-11-18T13:00:23+00:00",
+  "saved_at": "2026-11-18T13:00:25+00:00"
  },
  "schema": 1
 }
