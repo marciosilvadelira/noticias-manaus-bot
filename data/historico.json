@@ -28001,11 +28001,19 @@
    "url_hash": "c224b9b9b28c1acbd64981bd"
   },
   "guid:6afc8b5452c09500099e30b7": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-18T04:20:23+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1543671234450434",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Os processos preveem concessão de bolsas temporárias e formação de cadastro de reserva",
    "discovered_at": "2026-11-17T17:20:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1543671234450434",
    "formats": [
     "link"
    ],
@@ -28013,20 +28021,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/550e2b07-9cd0-44f1-8abf-33b3334427c0.jpeg",
    "key": "guid:6afc8b5452c09500099e30b7",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1543671234450434"
+   },
    "source_published_at": "2026-11-17T17:18:37+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Ufam abre seleção para professores em cursos de graduação a distância",
-   "updated_at": "2026-11-17T17:20:16+00:00",
+   "updated_at": "2026-11-18T04:20:23+00:00",
    "url": "https://marioadolfo.com/ufam-abre-selecao-para-professores-em-cursos-de-graduacao-a-distancia/",
    "url_hash": "faa7b22bf9f7a58a38d43bc9"
   },
   "guid:6afc8ca752c09500099e30d4": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-18T04:20:51+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1543671581117066",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "O estado saiu de 1.855.178 milhão de pessoas inadimplentes em setembro para 1.861.566 milhão no mês seguinte",
    "discovered_at": "2026-11-17T17:30:20+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1543671581117066",
    "formats": [
     "link"
    ],
@@ -28034,20 +28052,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/edb1ab39-0187-44e1-bd36-edee16f912be.jpeg",
    "key": "guid:6afc8ca752c09500099e30d4",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1543671581117066"
+   },
    "source_published_at": "2026-11-17T17:24:39+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Amazonas está entre os 21 estados com aumento na inadimplência em outubro, aponta Serasa",
-   "updated_at": "2026-11-17T17:30:20+00:00",
+   "updated_at": "2026-11-18T04:20:51+00:00",
    "url": "https://marioadolfo.com/amazonas-esta-entre-os-21-estados-com-aumento-na-inadimplencia-em-outubro-aponta-serasa/",
    "url_hash": "4949159099cd3690c63d464f"
   },
   "guid:6afc8dfd52c09500099e30eb": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-18T04:21:15+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1543672001117024",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Celebrada em 17 de novembro, a data reforça a importância de iniciativas que conectam educação ao mercado de trabalho e contribuem para a permanência dos estudantes no ensino superior",
    "discovered_at": "2026-11-17T17:30:20+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1543672001117024",
    "formats": [
     "link"
    ],
@@ -28055,20 +28083,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2c15e4c9-976f-43cf-a249-50dc50a76cb5.jpeg",
    "key": "guid:6afc8dfd52c09500099e30eb",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1543672001117024"
+   },
    "source_published_at": "2026-11-17T17:27:14+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Dia Internacional do Estudante: empregabilidade e qualificação são aliadas na redução da evasão universitária",
-   "updated_at": "2026-11-17T17:30:20+00:00",
+   "updated_at": "2026-11-18T04:21:15+00:00",
    "url": "https://marioadolfo.com/dia-internacional-do-estudante-empregabilidade-e-qualificacao-sao-aliadas-na-reducao-da-evasao-universitaria/",
    "url_hash": "883eed1ba25f7bd154d67c31"
   },
   "guid:6afc8e8552c09500099e3106": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-18T04:21:44+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1543672387783652",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Pesquisa desenvolvida por pesquisadores da Ufam utiliza indicadores dos Objetivos de Desenvolvimento Sustentável para identificar municípios com maior prioridade em ações de fiscalização socioambiental",
    "discovered_at": "2026-11-17T17:40:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1543672387783652",
    "formats": [
     "link"
    ],
@@ -28076,20 +28114,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/411aab0a-5e83-4a10-afe4-9731381d587c.png",
    "key": "guid:6afc8e8552c09500099e3106",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1543672387783652"
+   },
    "source_published_at": "2026-11-17T17:31:25+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Atlas ODS Amazônia conquista 1º lugar em concurso de artigos científicos do TCE-AM",
-   "updated_at": "2026-11-17T17:40:16+00:00",
+   "updated_at": "2026-11-18T04:21:44+00:00",
    "url": "https://marioadolfo.com/atlas-ods-amazonia-conquista-1o-lugar-em-concurso-de-artigos-cientificos-do-tce-am/",
    "url_hash": "9b6b65c9a0d902b1d0b94490"
   },
   "guid:6afc8fa152c09500099e311c": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-18T04:22:10+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1543672697783621",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "José Nelson da Silva Costa desapareceu na sexta-feira (13), enquanto estava no Rio Itacoaí",
    "discovered_at": "2026-11-17T17:40:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1543672697783621",
    "formats": [
     "link"
    ],
@@ -28097,11 +28145,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b45ef794-a3ea-4601-b816-234cb3ec27a9.png",
    "key": "guid:6afc8fa152c09500099e311c",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1543672697783621"
+   },
    "source_published_at": "2026-11-17T17:40:15+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "MPAM aciona órgãos estaduais e federais após desaparecimento de pescador no Vale do Javari",
-   "updated_at": "2026-11-17T17:40:16+00:00",
+   "updated_at": "2026-11-18T04:22:10+00:00",
    "url": "https://marioadolfo.com/mpam-aciona-orgaos-estaduais-e-federais-apos-desaparecimento-de-pescador-no-vale-do-javari/",
    "url_hash": "6556b6d89630d94bbdc5aa01"
   },
@@ -28529,8 +28579,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-18T04:10:15+00:00",
-  "saved_at": "2026-11-18T04:12:00+00:00"
+  "last_run_at": "2026-11-18T04:20:15+00:00",
+  "saved_at": "2026-11-18T04:22:10+00:00"
  },
  "schema": 1
 }
