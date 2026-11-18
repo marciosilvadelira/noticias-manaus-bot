@@ -28532,12 +28532,12 @@
    "guid": "6afcb2aa52c09500099e32ea",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ac52ea35-6324-4fb1-af21-07c52502185f.webp",
    "key": "guid:6afcb2aa52c09500099e32ea",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-17T20:03:34+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Congresso pede que STF julgue lei que beneficia condenados pelo 8/1",
-   "updated_at": "2026-11-17T20:10:18+00:00",
+   "updated_at": "2026-11-18T20:10:20+00:00",
    "url": "https://marioadolfo.com/congresso-pede-que-stf-julgue-lei-que-beneficia-condenados-pelo-8-1/",
    "url_hash": "54a4ee51714add37e73116a4"
   },
@@ -29128,13 +29128,34 @@
    "updated_at": "2026-11-18T19:10:17+00:00",
    "url": "https://marioadolfo.com/feirante-e-preso-por-ameaca-contra-duas-mulheres-em-manaus/",
    "url_hash": "d1327af06671401d8906546f"
+  },
+  "guid:6afe046252c09500099e3649": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Operação mobiliza mais de 1,6 mil policiais militares durante o período de compras de fim de ano",
+   "discovered_at": "2026-11-18T20:10:20+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afe046252c09500099e3649",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/04d5916f-959c-44eb-aeb2-290250340f20.jpeg",
+   "key": "guid:6afe046252c09500099e3649",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-18T20:06:05+00:00",
+   "status": "pending",
+   "title": "Operação Natal Mais Seguro reforça policiamento no comércio em Manaus",
+   "updated_at": "2026-11-18T20:10:20+00:00",
+   "url": "https://marioadolfo.com/oper/",
+   "url_hash": "93a1c6cf97f3e78735290ca5"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-18T20:00:23+00:00",
-  "saved_at": "2026-11-18T20:00:24+00:00"
+  "last_run_at": "2026-11-18T20:10:20+00:00",
+  "saved_at": "2026-11-18T20:10:21+00:00"
  },
  "schema": 1
 }
