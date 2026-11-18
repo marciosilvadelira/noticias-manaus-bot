@@ -28708,13 +28708,34 @@
    "updated_at": "2026-11-18T11:30:22+00:00",
    "url": "https://marioadolfo.com/amazonas-vai-receber-30-mil-doses-adicionais-de-vacina-contra-a-covid-19/",
    "url_hash": "d7600232765ca084cd1abe23"
+  },
+  "guid:6afd99d552c09500099e33f0": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Canais digitais estarão disponíveis",
+   "discovered_at": "2026-11-18T12:30:20+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afd99d552c09500099e33f0",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d21f1dda-9b47-4252-8827-f746758f6844.webp",
+   "key": "guid:6afd99d552c09500099e33f0",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-18T12:29:19+00:00",
+   "status": "pending",
+   "title": "Agências bancárias fecham para atendimento presencial nesta sexta (20)",
+   "updated_at": "2026-11-18T12:30:20+00:00",
+   "url": "https://marioadolfo.com/agencias-bancarias-fecham-para-atendimento-presencial-nesta-sexta-20/",
+   "url_hash": "2c392124ffad261a476a79f7"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-18T12:20:15+00:00",
-  "saved_at": "2026-11-18T12:20:16+00:00"
+  "last_run_at": "2026-11-18T12:30:19+00:00",
+  "saved_at": "2026-11-18T12:30:20+00:00"
  },
  "schema": 1
 }
