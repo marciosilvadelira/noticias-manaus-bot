@@ -28385,12 +28385,12 @@
    "guid": "6afc9e0f52c09500099e3238",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c3ffe374-6877-42cf-9402-5b3aad33dcdb.jpeg",
    "key": "guid:6afc9e0f52c09500099e3238",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-17T18:37:35+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "TRT-11 mantém canais para denúncias de assédio eleitoral no Amazonas e em Roraima",
-   "updated_at": "2026-11-17T18:40:16+00:00",
+   "updated_at": "2026-11-18T18:40:16+00:00",
    "url": "https://marioadolfo.com/trt-11-mantem-canais-para-denuncias-de-assedio-eleitoral-no-amazonas-e-em-roraima/",
    "url_hash": "0a63086df26505eb12f115c4"
   },
@@ -29065,13 +29065,34 @@
    "updated_at": "2026-11-18T18:10:23+00:00",
    "url": "https://marioadolfo.com/policia-conclui-726-inqueritos-e-prende-191-pessoas-por-homicidio-em-manaus-neste-ano/",
    "url_hash": "d2f4f3eb4ad8f7e5c0088b8d"
+  },
+  "guid:6afdeff652c09500099e35e7": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A multa no valor de R$ 303,9 mil foi aplicada pela Agência Reguladora dos Serviços Públicos Delegados do Município de Manaus",
+   "discovered_at": "2026-11-18T18:40:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afdeff652c09500099e35e7",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/86e2e39d-5987-4d91-b9aa-dac70e83317e.jpeg",
+   "key": "guid:6afdeff652c09500099e35e7",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-18T18:39:55+00:00",
+   "status": "pending",
+   "title": "Águas de Manaus é multada por demora no restabelecimento do abastecimento no Morro da Liberdade",
+   "updated_at": "2026-11-18T18:40:16+00:00",
+   "url": "https://marioadolfo.com/aguas-de-manaus-e-multada-por-demora-no-restabelecimento-do-abastecimento-no-morro-da-liberdade/",
+   "url_hash": "d0c8c473671744909326018a"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-18T18:30:19+00:00",
-  "saved_at": "2026-11-18T18:30:20+00:00"
+  "last_run_at": "2026-11-18T18:40:15+00:00",
+  "saved_at": "2026-11-18T18:40:17+00:00"
  },
  "schema": 1
 }
