@@ -28918,13 +28918,55 @@
    "updated_at": "2026-11-18T16:00:24+00:00",
    "url": "https://marioadolfo.com/operacao-black-friday-ipem-am-intensifica-fiscalizacao-de-eletrodomesticos-em-manaus/",
    "url_hash": "dcfd4b6a1d8e460e97c041f4"
+  },
+  "guid:6afddfa552c09500099e3521": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Segundo a polícia, há indícios de que o casal participou da produção de vídeos de abuso sexual infantil",
+   "discovered_at": "2026-11-18T17:40:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afddfa552c09500099e3521",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/79ab7a90-1023-441e-9e32-ae8f60a5cc24.jpeg",
+   "key": "guid:6afddfa552c09500099e3521",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-18T17:31:27+00:00",
+   "status": "pending",
+   "title": "Mãe e padrasto são presos por estupro de criança de 9 anos no interior do Amazonas",
+   "updated_at": "2026-11-18T17:40:16+00:00",
+   "url": "https://marioadolfo.com/mae-e-padrasto-sao-presos-por-estupro-de-crianca-de-9-anos-no-interior-do-amazonas/",
+   "url_hash": "674a94d0b741c61734723b9c"
+  },
+  "guid:6afde11f52c09500099e354e": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Os seis primeiros colocados receberão premiações que somam R$ 36 mil",
+   "discovered_at": "2026-11-18T17:40:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afde11f52c09500099e354e",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/daf9ea72-e3d7-48b4-8642-a930ddf19797.jpeg",
+   "key": "guid:6afde11f52c09500099e354e",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-18T17:33:29+00:00",
+   "status": "pending",
+   "title": "TCE-AM divulga resultado definitivo do 3º Concurso de Artigos Científicos",
+   "updated_at": "2026-11-18T17:40:16+00:00",
+   "url": "https://marioadolfo.com/tce-am-divulga-resultado-definitivo-do-3o-concurso-de-artigos-cientificos/",
+   "url_hash": "222151b0a9a45f79eaee5917"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-18T17:30:19+00:00",
-  "saved_at": "2026-11-18T17:30:20+00:00"
+  "last_run_at": "2026-11-18T17:40:15+00:00",
+  "saved_at": "2026-11-18T17:40:16+00:00"
  },
  "schema": 1
 }
