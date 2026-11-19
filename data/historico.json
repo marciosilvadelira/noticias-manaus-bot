@@ -29790,13 +29790,97 @@
    "updated_at": "2026-11-19T16:50:22+00:00",
    "url": "https://marioadolfo.com/homem-nao-aceita-fim-da-relacao-e-esfaqueia-ex-mulher-na-frente-dos-filhos/",
    "url_hash": "f12b397a0c6ea517a9659e6c"
+  },
+  "guid:6aff28f252c09500099e38e5": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Decisões reformaram sentenças de primeira instância e apontaram ausência de comprovação da quantidade de material e da localização exata das supostas infrações",
+   "discovered_at": "2026-11-19T17:00:28+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aff28f252c09500099e38e5",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/cbfb2883-0f07-42a8-964e-0d6114751a47.jpeg",
+   "key": "guid:6aff28f252c09500099e38e5",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-19T16:52:16+00:00",
+   "status": "pending",
+   "title": "TRE-AM afasta multas por derrame de santinhos por falta de provas",
+   "updated_at": "2026-11-19T17:00:28+00:00",
+   "url": "https://marioadolfo.com/tre-am-afasta-multas-por-derrame-de-santinhos-por-falta-de-provas/",
+   "url_hash": "4f0203bd760175c0e7002c4c"
+  },
+  "guid:6aff295c52c09500099e3903": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Evento será realizado de 24 a 27 de novembro, no Cine Teatro Guarany, em Manaus, com exibições de filmes, premiações e reconhecimento a personalidades da comunidade LGBT+",
+   "discovered_at": "2026-11-19T17:00:28+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aff295c52c09500099e3903",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e9d20d3a-3d79-402e-8820-5c8c67a5cfea.jpeg",
+   "key": "guid:6aff295c52c09500099e3903",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-19T16:54:16+00:00",
+   "status": "pending",
+   "title": "Festival de Cinema Close chega à terceira edição com programação gratuita e homenagem a Bosco Fonseca",
+   "updated_at": "2026-11-19T17:00:28+00:00",
+   "url": "https://marioadolfo.com/festival-de-cinema-close-chega-a-terceira-edicao-com-programacao-gratuita-e-homenagem-a-bosco-fonseca/",
+   "url_hash": "df9d8948b83296627909a0a9"
+  },
+  "guid:6aff29e152c09500099e3918": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "As contratações fazem parte do reforço das equipes para atender ao aumento da demanda de fim de ano e integram o Projeto Melhor Idade",
+   "discovered_at": "2026-11-19T17:00:28+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aff29e152c09500099e3918",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ca306406-c8a9-42af-9b00-d862dc993ebd.jpeg",
+   "key": "guid:6aff29e152c09500099e3918",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-19T16:56:47+00:00",
+   "status": "pending",
+   "title": "Supermercado abre 113 vagas temporárias para profissionais 50+ em Manaus e Boa Vista",
+   "updated_at": "2026-11-19T17:00:28+00:00",
+   "url": "https://marioadolfo.com/supermercado-abre-113-vagas-temporarias-para-profissionais-50-em-manaus-e-boa-vista/",
+   "url_hash": "c9b582aa8131dcc1098bebc6"
+  },
+  "guid:6aff2a8452c09500099e392e": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Em razão da data, o funcionamento dos estabelecimentos comerciais poderá sofrer alterações",
+   "discovered_at": "2026-11-19T17:00:28+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aff2a8452c09500099e392e",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4332f767-55dd-4309-a8dc-71b08580791c.jpeg",
+   "key": "guid:6aff2a8452c09500099e392e",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-19T17:00:22+00:00",
+   "status": "pending",
+   "title": "Fecomércio divulga funcionamento do comércio no feriado da Consciência Negra em Manaus",
+   "updated_at": "2026-11-19T17:00:28+00:00",
+   "url": "https://marioadolfo.com/fecomercio-divulga-funcionamento-do-comercio-no-feriado-da-consciencia-negra-em-manaus/",
+   "url_hash": "f1949e4f73b45a0f7219f6ed"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-19T16:50:22+00:00",
-  "saved_at": "2026-11-19T16:50:23+00:00"
+  "last_run_at": "2026-11-19T17:00:24+00:00",
+  "saved_at": "2026-11-19T17:00:28+00:00"
  },
  "schema": 1
 }
