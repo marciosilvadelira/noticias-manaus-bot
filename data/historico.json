@@ -29664,13 +29664,76 @@
    "updated_at": "2026-11-19T13:10:16+00:00",
    "url": "https://marioadolfo.com/operacao-mira-grupo-suspeito-de-transportar-sete-toneladas-de-drogas-no-amazonas/",
    "url_hash": "16100fe5ece825a467633443"
+  },
+  "guid:6afef4d452c09500099e3829": {
+   "attempts": [],
+   "category": "Dito & Feito",
+   "description": "Direita cobra preços de alimentos no governo Lula, mas esquece o que foi o governo passado, onde, em quatro anos de mandato,  o preço dos alimentos subiu quase 50%. No terceiro governo Lula foi de 17,75%",
+   "discovered_at": "2026-11-19T13:20:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afef4d452c09500099e3829",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d9a136e0-1c0a-44c6-a92f-b3b54450b703.jpg",
+   "key": "guid:6afef4d452c09500099e3829",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-19T13:16:40+00:00",
+   "status": "pending",
+   "title": "Dito & Feito: ELES NÃO LEMBRAM DA FILA DO OSSO",
+   "updated_at": "2026-11-19T13:20:18+00:00",
+   "url": "https://marioadolfo.com/dito-feito-eles-nao-lembram-da-fila-do-osso/",
+   "url_hash": "d438cd00b905d5b7024929a1"
+  },
+  "guid:6afef52852c09500099e383d": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Câmeras de segurança registraram a colisão e a fuga do condutor, que deixou a vítima ferida sem prestar assistência",
+   "discovered_at": "2026-11-19T13:20:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afef52852c09500099e383d",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5d172f59-0be9-446a-a361-0e69cc57774f.jpg",
+   "key": "guid:6afef52852c09500099e383d",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-19T13:13:13+00:00",
+   "status": "pending",
+   "title": "Vídeo: motorista atropela motociclista e foge sem prestar socorro no bairro Flores",
+   "updated_at": "2026-11-19T13:20:18+00:00",
+   "url": "https://marioadolfo.com/motorista-2/",
+   "url_hash": "26be86615fced1662de61b2d"
+  },
+  "guid:6afef65552c09500099e3877": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "O texto vai definir as regras de transição do atual regime 6x1 para a jornada 5x2",
+   "discovered_at": "2026-11-19T13:20:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afef65552c09500099e3877",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6a557f7c-7e39-44b3-ae17-db2cadefaff0.jpg",
+   "key": "guid:6afef65552c09500099e3877",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-19T13:17:37+00:00",
+   "status": "pending",
+   "title": "Lula assina nesta quinta (19) o decreto que regulamenta a escala de trabalho 5x2",
+   "updated_at": "2026-11-19T13:20:18+00:00",
+   "url": "https://marioadolfo.com/lula-assina-nesta-quinta-19-o-decreto-que-regulamenta-a-escala-de-trabalho-5x2/",
+   "url_hash": "4587499e83d630716ea162be"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-19T13:10:15+00:00",
-  "saved_at": "2026-11-19T13:10:16+00:00"
+  "last_run_at": "2026-11-19T13:20:17+00:00",
+  "saved_at": "2026-11-19T13:20:20+00:00"
  },
  "schema": 1
 }
