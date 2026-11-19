@@ -29425,12 +29425,12 @@
    "guid": "6afe11db52c09500099e36cb",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/bb9308cc-926f-45a9-8583-c0b3e439cb61.jpeg",
    "key": "guid:6afe11db52c09500099e36cb",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-18T21:01:16+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Cigás avalia nível de eficiência no atendimento a emergências durante simulado",
-   "updated_at": "2026-11-18T21:10:17+00:00",
+   "updated_at": "2026-11-19T21:10:15+00:00",
    "url": "https://marioadolfo.com/cigas-avalia-nivel-de-eficiencia-no-atendimento-a-emergencias-durante-simulado/",
    "url_hash": "e59797d9bea34f924ede7664"
   },
@@ -29446,12 +29446,12 @@
    "guid": "6afe124752c09500099e36e1",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/900e0c67-d2a9-4a9d-a431-a6b8da63469d.jpeg",
    "key": "guid:6afe124752c09500099e36e1",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-18T21:02:58+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "CAE aprova requerimento de Braga para maior transparência nos cálculos da alíquota da CBS",
-   "updated_at": "2026-11-18T21:10:17+00:00",
+   "updated_at": "2026-11-19T21:10:15+00:00",
    "url": "https://marioadolfo.com/cae-aprova-requerimento-de-braga-para-maior-transparencia-nos-calculos-da-aliquota-da-cbs/",
    "url_hash": "ced3ac8d4380a181dad28133"
   },
@@ -30215,8 +30215,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-19T21:00:22+00:00",
-  "saved_at": "2026-11-19T21:00:24+00:00"
+  "last_run_at": "2026-11-19T21:10:14+00:00",
+  "saved_at": "2026-11-19T21:10:15+00:00"
  },
  "schema": 1
 }
