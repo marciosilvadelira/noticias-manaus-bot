@@ -29937,13 +29937,55 @@
    "updated_at": "2026-11-19T18:00:22+00:00",
    "url": "https://marioadolfo.com/transporte-gratuito-no-fim-de-semana-complementa-escala-5x2-diz-lula/",
    "url_hash": "dc7bd33b89f7dac5d2368a37"
+  },
+  "guid:6aff394552c09500099e39c9": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "O homem importunava a vítima mesmo com medidas protetivas em vigor",
+   "discovered_at": "2026-11-19T18:10:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aff394552c09500099e39c9",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/1620808b-d7ce-4029-9083-b322adbebeb6.jpg",
+   "key": "guid:6aff394552c09500099e39c9",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-19T18:07:14+00:00",
+   "status": "pending",
+   "title": "Homem é preso após invadir casa de ex-companheira em Manaus",
+   "updated_at": "2026-11-19T18:10:17+00:00",
+   "url": "https://marioadolfo.com/homem-e-preso-apos-invadir-casa-de-ex-companheira-em-manaus/",
+   "url_hash": "9e88f6a95bac64f575469a59"
+  },
+  "guid:6aff3ae252c09500099e39e0": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Além do site viajar.portodemanaus.com.br, a modalidade tradicional de venda presencial não sofrerá alterações",
+   "discovered_at": "2026-11-19T18:10:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aff3ae252c09500099e39e0",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/bcd38e37-8b54-4899-9fa3-a62ad9c99e54.jpeg",
+   "key": "guid:6aff3ae252c09500099e39e0",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-19T18:10:09+00:00",
+   "status": "pending",
+   "title": "Porto de Manaus lança site para  venda de passagens para todos os destinos",
+   "updated_at": "2026-11-19T18:10:17+00:00",
+   "url": "https://marioadolfo.com/porto-de-manaus-lanca-site-para-venda-de-passagens-para-todos-os-destinos/",
+   "url_hash": "35a93a6f202afece7384d7b9"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-19T18:00:21+00:00",
-  "saved_at": "2026-11-19T18:00:23+00:00"
+  "last_run_at": "2026-11-19T18:10:16+00:00",
+  "saved_at": "2026-11-19T18:10:18+00:00"
  },
  "schema": 1
 }
