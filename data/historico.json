@@ -28781,11 +28781,19 @@
    "url_hash": "2c392124ffad261a476a79f7"
   },
   "guid:6afd9a3552c09500099e3408": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-19T04:10:21+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1544661974351360",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Empresas de diferentes setores abrem novas oportunidades para jovens que desejam iniciar ou desenvolver sua trajetória profissional",
    "discovered_at": "2026-11-18T12:40:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1544661974351360",
    "formats": [
     "link"
    ],
@@ -28793,20 +28801,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a8239b5b-a77e-4ae6-87de-cc162fb74dac.jpeg",
    "key": "guid:6afd9a3552c09500099e3408",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1544661974351360"
+   },
    "source_published_at": "2026-11-18T12:31:17+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Procurando estágio? CIEE projeta a abertura de 42 mil novas vagas até o início de 2027",
-   "updated_at": "2026-11-18T12:40:16+00:00",
+   "updated_at": "2026-11-19T04:10:21+00:00",
    "url": "https://marioadolfo.com/procurando-estagio-ciee-projeta-a-abertura-de-42-mil-novas-vagas-ate-o-inicio-de-2027/",
    "url_hash": "1abb98ae255eb042f50e094a"
   },
   "guid:6afd9c3a52c09500099e341e": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-19T04:10:46+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1544662344351323",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "O alerta é válido até as 23h59 e prevê precipitações entre 20 e 30 milímetros por hora, além de rajadas de vento que podem variar de 40 a 60 km/h",
    "discovered_at": "2026-11-18T12:50:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1544662344351323",
    "formats": [
     "link"
    ],
@@ -28814,20 +28832,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/82440b16-cb62-4249-b43d-32d7cdaf6f39.jpeg",
    "key": "guid:6afd9c3a52c09500099e341e",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1544662344351323"
+   },
    "source_published_at": "2026-11-18T12:43:43+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Inmet emite alerta de chuvas intensas e ventos para o Amazonas nesta quarta-feira",
-   "updated_at": "2026-11-18T12:50:16+00:00",
+   "updated_at": "2026-11-19T04:10:46+00:00",
    "url": "https://marioadolfo.com/inmet-emite-alerta-de-chuvas-intensas-e-ventos-para-o-amazonas-nesta-quarta-feira/",
    "url_hash": "5f86f45a683748b9386ebfde"
   },
   "guid:6afd9cba52c09500099e342e": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-19T04:11:10+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1544662661017958",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Dito & Feito",
    "description": "Michelle tira 10 dias de férias, deixa Jair Bolsonaro aos cuidados da filha e viaja",
    "discovered_at": "2026-11-18T13:00:24+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1544662661017958",
    "formats": [
     "link"
    ],
@@ -28835,20 +28863,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0b38a442-37b2-4940-958f-655cb2c326e9.jpg",
    "key": "guid:6afd9cba52c09500099e342e",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1544662661017958"
+   },
    "source_published_at": "2026-11-18T12:51:31+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Dito & Feito: ABANDONO DE INCAPAZ",
-   "updated_at": "2026-11-18T13:00:24+00:00",
+   "updated_at": "2026-11-19T04:11:10+00:00",
    "url": "https://marioadolfo.com/dito-feito-abandono-de-incapaz/",
    "url_hash": "f8ce9ca9cd0b367b564f7202"
   },
   "guid:6afdb0f352c09500099e3492": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-19T04:12:03+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1544663297684561",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Decisão da Justiça Eleitoral reafirma que a identificação de sedes de campanha não autoriza a instalação de placas e painéis que ultrapassem os limites legais de publicidade",
    "discovered_at": "2026-11-18T15:50:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1544663297684561",
    "formats": [
     "link"
    ],
@@ -28856,11 +28894,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/de608be9-2e4e-4ac4-8244-d9276f69ed89.jpeg",
    "key": "guid:6afdb0f352c09500099e3492",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1544663297684561"
+   },
    "source_published_at": "2026-11-18T15:42:26+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "TRE-AM mantém multa por propaganda com efeito de outdoor em comitê de campanha",
-   "updated_at": "2026-11-18T15:50:17+00:00",
+   "updated_at": "2026-11-19T04:12:03+00:00",
    "url": "https://marioadolfo.com/tre-am-mantem-multa-por-propaganda-com-efeito-de-outdoor-em-comite-de-campanha/",
    "url_hash": "e2d87e69b1a1437e60456111"
   },
@@ -29096,11 +29136,19 @@
    "url_hash": "7c482c77af25a9c2788fb3d2"
   },
   "guid:6afde80652c09500099e35c1": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-19T04:11:35+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1544663067684584",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "O balanço foi divulgado pela Delegacia Especializada em Homicídios e Sequestros. Os dados são entre janeiro e outubro",
    "discovered_at": "2026-11-18T18:10:23+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1544663067684584",
    "formats": [
     "link"
    ],
@@ -29108,11 +29156,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c094e6ee-c13c-4cde-b28a-2e07ce71d003.jpeg",
    "key": "guid:6afde80652c09500099e35c1",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1544663067684584"
+   },
    "source_published_at": "2026-11-18T15:00:00+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Polícia conclui 726 inquéritos e prende 191 pessoas por homicídio em Manaus neste ano",
-   "updated_at": "2026-11-18T18:10:23+00:00",
+   "updated_at": "2026-11-19T04:11:35+00:00",
    "url": "https://marioadolfo.com/policia-conclui-726-inqueritos-e-prende-191-pessoas-por-homicidio-em-manaus-neste-ano/",
    "url_hash": "d2f4f3eb4ad8f7e5c0088b8d"
   },
@@ -29309,8 +29359,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-19T04:00:21+00:00",
-  "saved_at": "2026-11-19T04:02:14+00:00"
+  "last_run_at": "2026-11-19T04:10:15+00:00",
+  "saved_at": "2026-11-19T04:12:03+00:00"
  },
  "schema": 1
 }
