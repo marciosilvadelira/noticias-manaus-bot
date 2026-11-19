@@ -30000,13 +30000,34 @@
    "updated_at": "2026-11-19T18:20:16+00:00",
    "url": "https://marioadolfo.com/pf-apura-suspeitas-de-crimes-eleitorais-e-lavagem-de-dinheiro-em-manaus/",
    "url_hash": "81e695a7f8829a56dd3c39c6"
+  },
+  "guid:6aff3cc352c09500099e3a25": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "A mãe das meninas, de 11 e 14 anos, foi indiciada por omissão, mas não chegou a ser presa",
+   "discovered_at": "2026-11-19T18:30:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aff3cc352c09500099e3a25",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/42ed9720-42bc-468e-94e1-c4c6cfca1bfb.png",
+   "key": "guid:6aff3cc352c09500099e3a25",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-19T18:21:57+00:00",
+   "status": "pending",
+   "title": "Vídeo: idoso de 70 anos é preso por estupro das duas enteadas com deficiência",
+   "updated_at": "2026-11-19T18:30:21+00:00",
+   "url": "https://marioadolfo.com/video-idoso-de-70-anos-e-preso-por-estupro-das-duas-enteadas-pcds/",
+   "url_hash": "f37c3f8af1080d1ce2f4d220"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-19T18:20:15+00:00",
-  "saved_at": "2026-11-19T18:20:16+00:00"
+  "last_run_at": "2026-11-19T18:30:20+00:00",
+  "saved_at": "2026-11-19T18:30:21+00:00"
  },
  "schema": 1
 }
