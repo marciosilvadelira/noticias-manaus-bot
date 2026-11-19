@@ -29475,13 +29475,55 @@
    "updated_at": "2026-11-19T11:10:15+00:00",
    "url": "https://marioadolfo.com/sambada-do-barranco-celebra-a-diversidade-cultural-e-a-ancestralidade-negra-em-manaus/",
    "url_hash": "11391541361aef68fa2554cf"
+  },
+  "guid:6afe59a652c09500099e3783": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Segundo a denúncia, senador associou o presidente a crimes como tráfico internacional de drogas e armas e lavagem de dinheiro em publicação nas redes sociais",
+   "discovered_at": "2026-11-19T11:30:22+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afe59a652c09500099e3783",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/99a80a7f-7702-49a5-8937-c95596f8cd05.jpg",
+   "key": "guid:6afe59a652c09500099e3783",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-19T11:30:16+00:00",
+   "status": "pending",
+   "title": "PGR denuncia Flávio sob acusação de calúnia contra Lula",
+   "updated_at": "2026-11-19T11:30:22+00:00",
+   "url": "https://marioadolfo.com/pgr-denuncia-flavio-bolsonaro-sob-acusacao-de-calunia-contra-lula/",
+   "url_hash": "8ceae3a9b1920906dbadd101"
+  },
+  "guid:6afe5a6652c09500099e379e": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "As reformas da moradia incluíram cobertura, instalação de forro, portas e piso, pintura, melhorias nas instalações elétricas e do banheiro",
+   "discovered_at": "2026-11-19T11:30:22+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afe5a6652c09500099e379e",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4ea74a39-58a2-40c7-a2c7-3d341e7f26c5.jpg",
+   "key": "guid:6afe5a6652c09500099e379e",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-19T11:20:44+00:00",
+   "status": "pending",
+   "title": "Prefeitura de Manaus entrega mais três casas reformadas nas zona norte e leste",
+   "updated_at": "2026-11-19T11:30:22+00:00",
+   "url": "https://marioadolfo.com/prefeitura-de-manaus-entrega-mais-tres-casas-reformadas-nas-zona-norte-e-leste/",
+   "url_hash": "f2a16d2ba3de6c9619712ac5"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-19T11:20:16+00:00",
-  "saved_at": "2026-11-19T11:20:18+00:00"
+  "last_run_at": "2026-11-19T11:30:21+00:00",
+  "saved_at": "2026-11-19T11:30:22+00:00"
  },
  "schema": 1
 }
