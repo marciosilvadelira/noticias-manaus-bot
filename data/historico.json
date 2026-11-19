@@ -29341,12 +29341,12 @@
    "guid": "6afe046252c09500099e3649",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/04d5916f-959c-44eb-aeb2-290250340f20.jpeg",
    "key": "guid:6afe046252c09500099e3649",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-18T20:06:05+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Operação Natal Mais Seguro reforça policiamento no comércio em Manaus",
-   "updated_at": "2026-11-18T20:10:20+00:00",
+   "updated_at": "2026-11-19T20:10:16+00:00",
    "url": "https://marioadolfo.com/oper/",
    "url_hash": "93a1c6cf97f3e78735290ca5"
   },
@@ -30168,13 +30168,34 @@
    "updated_at": "2026-11-19T19:20:17+00:00",
    "url": "https://marioadolfo.com/anpd-rejeita-recurso-do-discord-e-mantem-lives-suspensas-no-pais/",
    "url_hash": "bae0d9868373d6e846b8ad3f"
+  },
+  "guid:6aff56a352c09500099e3b9d": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A declaração foi feita durante a inauguração da Delegacia da Polícia Federal em Tefé, no Médio Solimões, na manhã desta quinta-feira (19)",
+   "discovered_at": "2026-11-19T20:10:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aff56a352c09500099e3b9d",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e8504671-333f-4444-94c0-1f5d1277f147.jpeg",
+   "key": "guid:6aff56a352c09500099e3b9d",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-19T20:08:53+00:00",
+   "status": "pending",
+   "title": "Omar Aziz defende união das forças de segurança para combate ao narcotráfico",
+   "updated_at": "2026-11-19T20:10:16+00:00",
+   "url": "https://marioadolfo.com/omar-aziz-defende-uniao-das-forcas-de-seguranca-para-combate-ao-narcotrafico/",
+   "url_hash": "9e6e22327abb47b817f2a54a"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-19T20:00:22+00:00",
-  "saved_at": "2026-11-19T20:00:23+00:00"
+  "last_run_at": "2026-11-19T20:10:16+00:00",
+  "saved_at": "2026-11-19T20:10:17+00:00"
  },
  "schema": 1
 }
