@@ -29060,11 +29060,19 @@
    "url_hash": "dcfd4b6a1d8e460e97c041f4"
   },
   "guid:6afddfa552c09500099e3521": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-19T04:30:28+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1544675277683363",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Segundo a polícia, há indícios de que o casal participou da produção de vídeos de abuso sexual infantil",
    "discovered_at": "2026-11-18T17:40:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1544675277683363",
    "formats": [
     "link"
    ],
@@ -29072,20 +29080,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/79ab7a90-1023-441e-9e32-ae8f60a5cc24.jpeg",
    "key": "guid:6afddfa552c09500099e3521",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1544675277683363"
+   },
    "source_published_at": "2026-11-18T17:31:27+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Mãe e padrasto são presos por estupro de criança de 9 anos no interior do Amazonas",
-   "updated_at": "2026-11-18T17:40:16+00:00",
+   "updated_at": "2026-11-19T04:30:28+00:00",
    "url": "https://marioadolfo.com/mae-e-padrasto-sao-presos-por-estupro-de-crianca-de-9-anos-no-interior-do-amazonas/",
    "url_hash": "674a94d0b741c61734723b9c"
   },
   "guid:6afde11f52c09500099e354e": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-19T04:30:53+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1544675581016666",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Os seis primeiros colocados receberão premiações que somam R$ 36 mil",
    "discovered_at": "2026-11-18T17:40:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1544675581016666",
    "formats": [
     "link"
    ],
@@ -29093,20 +29111,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/daf9ea72-e3d7-48b4-8642-a930ddf19797.jpeg",
    "key": "guid:6afde11f52c09500099e354e",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1544675581016666"
+   },
    "source_published_at": "2026-11-18T17:33:29+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "TCE-AM divulga resultado definitivo do 3º Concurso de Artigos Científicos",
-   "updated_at": "2026-11-18T17:40:16+00:00",
+   "updated_at": "2026-11-19T04:30:53+00:00",
    "url": "https://marioadolfo.com/tce-am-divulga-resultado-definitivo-do-3o-concurso-de-artigos-cientificos/",
    "url_hash": "222151b0a9a45f79eaee5917"
   },
   "guid:6afde2e152c09500099e3565": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-19T04:31:18+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1544675861016638",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Oportunidades incluem cursos técnicos em Informática e Logística, além de capacitações nas áreas de tecnologia, saúde, gastronomia e beleza",
    "discovered_at": "2026-11-18T17:50:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1544675861016638",
    "formats": [
     "link"
    ],
@@ -29114,20 +29142,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/60f6274d-aa96-41cb-8e9c-26c7b2e495fb.jpeg",
    "key": "guid:6afde2e152c09500099e3565",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1544675861016638"
+   },
    "source_published_at": "2026-11-18T17:40:50+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Senac abre vagas para cursos gratuitos de até 1.200 horas no Amazonas",
-   "updated_at": "2026-11-18T17:50:17+00:00",
+   "updated_at": "2026-11-19T04:31:18+00:00",
    "url": "https://marioadolfo.com/senac-abre-vagas-para-cursos-gratuitos-de-ate-1-200-horas-no-amazonas/",
    "url_hash": "1815b52d4c9950dbb0217f13"
   },
   "guid:6afde34552c09500099e357c": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-19T04:31:43+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1544676194349938",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "A montagem será encenada na quinta-feira (19/11) e sexta-feira (20/11), às 20h; primeira apresentação terá entrada gratuita",
    "discovered_at": "2026-11-18T17:50:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1544676194349938",
    "formats": [
     "link"
    ],
@@ -29135,20 +29173,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/9961a60c-6501-49b9-a584-addeb35b2fd7.jpeg",
    "key": "guid:6afde34552c09500099e357c",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1544676194349938"
+   },
    "source_published_at": "2026-11-18T17:42:47+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "'Sonho de uma Noite de Verão' ganha vida em montagem no Teatro Amazonas",
-   "updated_at": "2026-11-18T17:50:17+00:00",
+   "updated_at": "2026-11-19T04:31:43+00:00",
    "url": "https://marioadolfo.com/sonho-de-uma-noite-de-verao-ganha-vida-em-montagem-no-teatro-amazonas/",
    "url_hash": "824167e07a73741c2b9fcaa8"
   },
   "guid:6afde3bc52c09500099e3593": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-19T04:32:08+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1544676667683224",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Programação, que segue até 1º de dezembro, avalia a situação de 219 crianças e adolescentes acolhidos em nove instituições da capital",
    "discovered_at": "2026-11-18T17:50:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1544676667683224",
    "formats": [
     "link"
    ],
@@ -29156,11 +29204,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b5014838-9372-45f2-bafd-ead76bf71edf.jpeg",
    "key": "guid:6afde3bc52c09500099e3593",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1544676667683224"
+   },
    "source_published_at": "2026-11-18T17:45:10+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Treze crianças e adolescentes deixam abrigos após audiências em Manaus",
-   "updated_at": "2026-11-18T17:50:17+00:00",
+   "updated_at": "2026-11-19T04:32:08+00:00",
    "url": "https://marioadolfo.com/treze-criancas-e-adolescentes-deixam-abrigos-apos-audiencias-em-manaus/",
    "url_hash": "4d46c462263a4252cd900c11"
   },
@@ -29409,8 +29459,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-19T04:20:16+00:00",
-  "saved_at": "2026-11-19T04:22:06+00:00"
+  "last_run_at": "2026-11-19T04:30:17+00:00",
+  "saved_at": "2026-11-19T04:32:08+00:00"
  },
  "schema": 1
 }
