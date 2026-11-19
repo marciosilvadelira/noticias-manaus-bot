@@ -29769,13 +29769,34 @@
    "updated_at": "2026-11-19T15:40:18+00:00",
    "url": "https://marioadolfo.com/defensoria-cobra-mais-orcamento-diante-do-aumento-na-procura-por-atendimento-no-am/",
    "url_hash": "77789b62d48a80134124715d"
+  },
+  "guid:6aff285352c09500099e38cd": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Vítima de 26 anos foi atingida nas costas, braços e abdômen",
+   "discovered_at": "2026-11-19T16:50:22+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aff285352c09500099e38cd",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/db649c8d-10c6-4043-b3bb-31a07400101b.png",
+   "key": "guid:6aff285352c09500099e38cd",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-19T16:50:01+00:00",
+   "status": "pending",
+   "title": "Homem não aceita fim da relação e esfaqueia ex-mulher na frente dos filhos",
+   "updated_at": "2026-11-19T16:50:22+00:00",
+   "url": "https://marioadolfo.com/homem-nao-aceita-fim-da-relacao-e-esfaqueia-ex-mulher-na-frente-dos-filhos/",
+   "url_hash": "f12b397a0c6ea517a9659e6c"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-19T16:40:23+00:00",
-  "saved_at": "2026-11-19T16:40:25+00:00"
+  "last_run_at": "2026-11-19T16:50:22+00:00",
+  "saved_at": "2026-11-19T16:50:23+00:00"
  },
  "schema": 1
 }
