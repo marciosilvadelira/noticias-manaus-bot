@@ -30147,13 +30147,34 @@
    "updated_at": "2026-11-19T19:10:16+00:00",
    "url": "https://marioadolfo.com/grupo-boticario-inaugura-novo-espaco-do-revendedor-em-iranduba/",
    "url_hash": "952c6ef3df872bbfd3309469"
+  },
+  "guid:6aff4a4d52c09500099e3b88": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Agência aponta riscos a menores e exige medidas de segurança",
+   "discovered_at": "2026-11-19T19:20:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aff4a4d52c09500099e3b88",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/918400da-eebd-4426-81de-24aca7fdae2e.jpg",
+   "key": "guid:6aff4a4d52c09500099e3b88",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-19T19:13:57+00:00",
+   "status": "pending",
+   "title": "ANPD rejeita recurso do Discord e mantém lives suspensas no país",
+   "updated_at": "2026-11-19T19:20:17+00:00",
+   "url": "https://marioadolfo.com/anpd-rejeita-recurso-do-discord-e-mantem-lives-suspensas-no-pais/",
+   "url_hash": "bae0d9868373d6e846b8ad3f"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-19T19:10:16+00:00",
-  "saved_at": "2026-11-19T19:10:17+00:00"
+  "last_run_at": "2026-11-19T19:20:17+00:00",
+  "saved_at": "2026-11-19T19:20:18+00:00"
  },
  "schema": 1
 }
