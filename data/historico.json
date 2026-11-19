@@ -29622,13 +29622,55 @@
    "updated_at": "2026-11-19T13:00:24+00:00",
    "url": "https://marioadolfo.com/manaus-tem-qualidade-do-ar-muito-ruim-nesta-quinta-feira-19/",
    "url_hash": "82edf86969ddb3fa0365d566"
+  },
+  "guid:6afef2af52c09500099e37f6": {
+   "attempts": [],
+   "category": "Parintins",
+   "description": "Concentração de partículas poluentes ultrapassa 200 µg/m³ na área urbana",
+   "discovered_at": "2026-11-19T13:10:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afef2af52c09500099e37f6",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f6ca984d-bb5d-4f02-a8be-ded1b0d79dda.png",
+   "key": "guid:6afef2af52c09500099e37f6",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-19T13:01:04+00:00",
+   "status": "pending",
+   "title": "Vídeo: fumaça encobre Parintins e qualidade do ar chega a nível péssimo",
+   "updated_at": "2026-11-19T13:10:16+00:00",
+   "url": "https://marioadolfo.com/video-fumaca-encobre-parintins-e-qualidade-do-ar-chega-a-nivel-pessimo/",
+   "url_hash": "52f89da676a355ca8725f43f"
+  },
+  "guid:6afef45352c09500099e3811": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Ação da Polícia Civil cumpre mandados de prisão e busca e apreensão em Manaus, Codajás e Manacapuru",
+   "discovered_at": "2026-11-19T13:10:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afef45352c09500099e3811",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/88c1f846-8d1c-48e2-82cb-ad0c3c98f2fd.jpg",
+   "key": "guid:6afef45352c09500099e3811",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-19T13:07:39+00:00",
+   "status": "pending",
+   "title": "Operação mira grupo suspeito de transportar sete toneladas de drogas no Amazonas",
+   "updated_at": "2026-11-19T13:10:16+00:00",
+   "url": "https://marioadolfo.com/operacao-mira-grupo-suspeito-de-transportar-sete-toneladas-de-drogas-no-amazonas/",
+   "url_hash": "16100fe5ece825a467633443"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-19T13:00:23+00:00",
-  "saved_at": "2026-11-19T13:00:25+00:00"
+  "last_run_at": "2026-11-19T13:10:15+00:00",
+  "saved_at": "2026-11-19T13:10:16+00:00"
  },
  "schema": 1
 }
