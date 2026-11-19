@@ -29455,6 +29455,27 @@
    "url": "https://marioadolfo.com/cae-aprova-requerimento-de-braga-para-maior-transparencia-nos-calculos-da-aliquota-da-cbs/",
    "url_hash": "ced3ac8d4380a181dad28133"
   },
+  "guid:6afe53de52c09500099e36f8": {
+   "attempts": [],
+   "category": "Parintins",
+   "description": "Encontro reuniu 29 bois-bumbás de nove municípios amazonenses e encerrou com cortejo cultural e apresentações em frente ao Teatro Amazonas",
+   "discovered_at": "2026-11-19T11:40:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afe53de52c09500099e36f8",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/24145298-84d6-4d70-a3f7-357fb644957e.jpeg",
+   "key": "guid:6afe53de52c09500099e36f8",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-19T11:30:47+00:00",
+   "status": "pending",
+   "title": "Caprichoso destaca tradição e preservação cultural em encontro de salvaguarda do boi-bumbá",
+   "updated_at": "2026-11-19T11:40:21+00:00",
+   "url": "https://marioadolfo.com/caprichoso-destaca-tradicao-e-preservacao-cultural-em-encontro-de-salvaguarda-do-boi-bumba/",
+   "url_hash": "c0ed338eb0a1590c3a372d1c"
+  },
   "guid:6afe54ce52c09500099e370c": {
    "attempts": [],
    "category": "Amazonas",
@@ -29475,6 +29496,69 @@
    "updated_at": "2026-11-19T11:10:15+00:00",
    "url": "https://marioadolfo.com/sambada-do-barranco-celebra-a-diversidade-cultural-e-a-ancestralidade-negra-em-manaus/",
    "url_hash": "11391541361aef68fa2554cf"
+  },
+  "guid:6afe552452c09500099e3720": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Documentos trazem menções a ministros do STF em mensagens de Vorcaro",
+   "discovered_at": "2026-11-19T11:40:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afe552452c09500099e3720",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/69455972-d6c4-4a7d-abee-27e191a95714.jpg",
+   "key": "guid:6afe552452c09500099e3720",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-19T11:30:42+00:00",
+   "status": "pending",
+   "title": "Andrei entrega a Fachin relatórios sobre ministros no caso Master",
+   "updated_at": "2026-11-19T11:40:21+00:00",
+   "url": "https://marioadolfo.com/andrei-entrega-a-fachin-relatorios-sobre-ministros-no-caso-master/",
+   "url_hash": "5bd3158e0edf8e7601f54cb0"
+  },
+  "guid:6afe579652c09500099e373a": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A ação de desassoreamento dos principais igarapés da capital antecede o período chuvoso",
+   "discovered_at": "2026-11-19T11:40:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afe579652c09500099e373a",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/60febf44-d3e0-44bb-b718-c315e745a4e7.jpeg",
+   "key": "guid:6afe579652c09500099e373a",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-19T11:30:31+00:00",
+   "status": "pending",
+   "title": "Manaus inicia operação de limpeza em 11 igarapés para prevenir alagamentos",
+   "updated_at": "2026-11-19T11:40:21+00:00",
+   "url": "https://marioadolfo.com/manaus-inicia-operacao-de-limpeza-em-11-igarapes-para-prevenir-alagamentos/",
+   "url_hash": "3765403d56169a2e4a9687f0"
+  },
+  "guid:6afe588852c09500099e3758": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Rian Alexandre Lira Ferreira possui antecedentes policiais por tráfico de drogas e porte ilegal de arma de fogo",
+   "discovered_at": "2026-11-19T11:40:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afe588852c09500099e3758",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/fe8cd025-fb03-4cdc-ac79-5e36b74dc41e.jpg",
+   "key": "guid:6afe588852c09500099e3758",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-19T11:35:05+00:00",
+   "status": "pending",
+   "title": "Pistoleiro do CV é preso com arma no bairro Petrópolis",
+   "updated_at": "2026-11-19T11:40:21+00:00",
+   "url": "https://marioadolfo.com/pistoleiro-do-cv-e-preso-com-arma-no-bairro-petropolis/",
+   "url_hash": "6eca14e63996c49ae68de25c"
   },
   "guid:6afe59a652c09500099e3783": {
    "attempts": [],
@@ -29522,8 +29606,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-19T11:30:21+00:00",
-  "saved_at": "2026-11-19T11:30:22+00:00"
+  "last_run_at": "2026-11-19T11:40:21+00:00",
+  "saved_at": "2026-11-19T11:40:22+00:00"
  },
  "schema": 1
 }
