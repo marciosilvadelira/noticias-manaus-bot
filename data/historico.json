@@ -29454,13 +29454,34 @@
    "updated_at": "2026-11-18T21:10:17+00:00",
    "url": "https://marioadolfo.com/cae-aprova-requerimento-de-braga-para-maior-transparencia-nos-calculos-da-aliquota-da-cbs/",
    "url_hash": "ced3ac8d4380a181dad28133"
+  },
+  "guid:6afe54ce52c09500099e370c": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Festival ocupa o Quilombo Urbano do Barranco de São Benedito com apresentações, formação e intercâmbio cultural nos dias 20, 27 e 28 de novembro",
+   "discovered_at": "2026-11-19T11:10:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afe54ce52c09500099e370c",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/65409a51-8d68-4136-bfd9-2e7bb701cec1.jpeg",
+   "key": "guid:6afe54ce52c09500099e370c",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-19T11:00:40+00:00",
+   "status": "pending",
+   "title": "Sambada do Barranco celebra a diversidade cultural e a ancestralidade negra em Manaus",
+   "updated_at": "2026-11-19T11:10:15+00:00",
+   "url": "https://marioadolfo.com/sambada-do-barranco-celebra-a-diversidade-cultural-e-a-ancestralidade-negra-em-manaus/",
+   "url_hash": "11391541361aef68fa2554cf"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-19T11:00:25+00:00",
-  "saved_at": "2026-11-19T11:00:26+00:00"
+  "last_run_at": "2026-11-19T11:10:15+00:00",
+  "saved_at": "2026-11-19T11:10:16+00:00"
  },
  "schema": 1
 }
