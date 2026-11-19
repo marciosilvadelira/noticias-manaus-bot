@@ -30063,13 +30063,55 @@
    "updated_at": "2026-11-19T18:50:18+00:00",
    "url": "https://marioadolfo.com/trio-e-preso-por-torturar-e-decapitar-jovem-no-taruma-quarto-suspeito-e-procurado/",
    "url_hash": "52b00d86e7bdd01f209d729f"
+  },
+  "guid:6aff450b52c09500099e3ae1": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Aplicação acontecerá na Escola Superior de Tecnologia da UEA, das 8h às 12h",
+   "discovered_at": "2026-11-19T19:00:22+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aff450b52c09500099e3ae1",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ebcc193b-44a8-44a0-895e-758424116e32.jpeg",
+   "key": "guid:6aff450b52c09500099e3ae1",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-19T18:52:38+00:00",
+   "status": "pending",
+   "title": "Defensoria do Amazonas realiza prova para estágio em Direito neste domingo",
+   "updated_at": "2026-11-19T19:00:22+00:00",
+   "url": "https://marioadolfo.com/defensoria-do-amazonas-realiza-prova-para-estagio-em-direito-neste-domingo/",
+   "url_hash": "68cd9c98f9936ea3e81ae567"
+  },
+  "guid:6aff45c652c09500099e3af7": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Tribunal analisaria pedido do Ministério Público para anular absolvição de policiais acusados da morte da militar",
+   "discovered_at": "2026-11-19T19:00:22+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aff45c652c09500099e3af7",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a0591351-bcc4-4c1d-812c-e3c86f8d1d49.jpeg",
+   "key": "guid:6aff45c652c09500099e3af7",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-19T18:59:48+00:00",
+   "status": "pending",
+   "title": "Caso Deusiane: Justiça adia julgamento de recurso contra absolvição de policiais",
+   "updated_at": "2026-11-19T19:00:22+00:00",
+   "url": "https://marioadolfo.com/caso-deusiane-justica-adia-julgamento-de-recurso-contra-absolvicao-de-policiais/",
+   "url_hash": "32aae667d85f6154288382e1"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-19T18:50:17+00:00",
-  "saved_at": "2026-11-19T18:50:18+00:00"
+  "last_run_at": "2026-11-19T19:00:21+00:00",
+  "saved_at": "2026-11-19T19:00:22+00:00"
  },
  "schema": 1
 }
