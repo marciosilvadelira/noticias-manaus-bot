@@ -29874,13 +29874,34 @@
    "updated_at": "2026-11-19T17:00:28+00:00",
    "url": "https://marioadolfo.com/fecomercio-divulga-funcionamento-do-comercio-no-feriado-da-consciencia-negra-em-manaus/",
    "url_hash": "f1949e4f73b45a0f7219f6ed"
+  },
+  "guid:6aff2b7352c09500099e394e": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Nova escala começa a valer 16 de dezembro, sem corte salarial",
+   "discovered_at": "2026-11-19T17:10:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aff2b7352c09500099e394e",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ee8b80ce-8612-4a4b-a2a3-d87cf49b0022.jpeg",
+   "key": "guid:6aff2b7352c09500099e394e",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-19T17:03:37+00:00",
+   "status": "pending",
+   "title": "Lula assina decreto que regulamenta a escala de trabalho 5x2",
+   "updated_at": "2026-11-19T17:10:17+00:00",
+   "url": "https://marioadolfo.com/lula-assina-decreto-que-regulamenta-a-escala-de-trabalho-5x2/",
+   "url_hash": "086f0a69aea35d48020c3202"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-19T17:00:24+00:00",
-  "saved_at": "2026-11-19T17:00:28+00:00"
+  "last_run_at": "2026-11-19T17:10:16+00:00",
+  "saved_at": "2026-11-19T17:10:18+00:00"
  },
  "schema": 1
 }
