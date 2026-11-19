@@ -29727,13 +29727,34 @@
    "updated_at": "2026-11-19T13:20:18+00:00",
    "url": "https://marioadolfo.com/lula-assina-nesta-quinta-19-o-decreto-que-regulamenta-a-escala-de-trabalho-5x2/",
    "url_hash": "4587499e83d630716ea162be"
+  },
+  "guid:6aff13fe52c09500099e389e": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Unidades de saúde e serviços de segurança funcionam em plantão 24 horas; atendimentos administrativos e espaços culturais terão horários especiais",
+   "discovered_at": "2026-11-19T15:30:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aff13fe52c09500099e389e",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/bcb19dfe-fb7b-40d9-aa6e-65f20730c6b2.jpeg",
+   "key": "guid:6aff13fe52c09500099e389e",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-19T15:23:42+00:00",
+   "status": "pending",
+   "title": "Governo do AM mantém serviços essenciais durante feriado da Consciência Negra",
+   "updated_at": "2026-11-19T15:30:21+00:00",
+   "url": "https://marioadolfo.com/governo-do-am-mantem-servicos-essenciais-durante-feriado-da-consciencia-negra/",
+   "url_hash": "5cd232fcdb6023112e9875fb"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-19T15:20:18+00:00",
-  "saved_at": "2026-11-19T15:20:23+00:00"
+  "last_run_at": "2026-11-19T15:30:20+00:00",
+  "saved_at": "2026-11-19T15:30:22+00:00"
  },
  "schema": 1
 }
