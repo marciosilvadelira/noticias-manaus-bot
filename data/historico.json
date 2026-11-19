@@ -29895,13 +29895,34 @@
    "updated_at": "2026-11-19T17:10:17+00:00",
    "url": "https://marioadolfo.com/lula-assina-decreto-que-regulamenta-a-escala-de-trabalho-5x2/",
    "url_hash": "086f0a69aea35d48020c3202"
+  },
+  "guid:6aff35da52c09500099e396b": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Além da questão do FTI, também foram abordados outros temas relacionados à administração municipal, incluindo repasses de recursos e ICMS",
+   "discovered_at": "2026-11-19T17:50:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aff35da52c09500099e396b",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e5fe07b3-9aa3-46f5-b7f5-18018ebf05f2.jpg",
+   "key": "guid:6aff35da52c09500099e396b",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-19T17:46:54+00:00",
+   "status": "pending",
+   "title": "TCE-AM admite representação da Associação Amazonense dos Municípios sobre atraso nos repasses do FTI",
+   "updated_at": "2026-11-19T17:50:17+00:00",
+   "url": "https://marioadolfo.com/tce-am-admite-representacao-da-associacao-amazonense-dos-municipios-sobre-atraso-nos-repasses-do-ftia-conselheira-presidente-do-tribunal-de-contas-do-amazonas-tce-am-yara-amazonia-lins/",
+   "url_hash": "52eed3357d35fdd2fb1ad5a2"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-19T17:40:17+00:00",
-  "saved_at": "2026-11-19T17:40:19+00:00"
+  "last_run_at": "2026-11-19T17:50:15+00:00",
+  "saved_at": "2026-11-19T17:50:17+00:00"
  },
  "schema": 1
 }
