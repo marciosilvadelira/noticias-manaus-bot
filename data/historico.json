@@ -29362,12 +29362,12 @@
    "guid": "6afe055a52c09500099e366a",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/1b41ae95-608f-469f-a47e-0903c4bc7bb5.jpeg",
    "key": "guid:6afe055a52c09500099e366a",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-18T20:12:50+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "4ª edição do ‘Feirão Negocia Manaus’ vai oferecer descontos de até 100% em juros",
-   "updated_at": "2026-11-18T20:20:20+00:00",
+   "updated_at": "2026-11-19T20:20:20+00:00",
    "url": "https://marioadolfo.com/4a-edicao-do-feirao-negocia-manaus-vai-oferecer-descontos-de-ate-100-em-juros/",
    "url_hash": "bc4e5ac1f8732dc93bb1fa95"
   },
@@ -29383,12 +29383,12 @@
    "guid": "6afe072b52c09500099e368d",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/98bcfaa9-c607-4b1b-aedb-3b7dfdb1c7db.webp",
    "key": "guid:6afe072b52c09500099e368d",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-18T20:16:35+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Caso Master: PF entregará ao STF relatórios sobre citações a ministros",
-   "updated_at": "2026-11-18T20:20:20+00:00",
+   "updated_at": "2026-11-19T20:20:20+00:00",
    "url": "https://marioadolfo.com/caso-master-pf-entregara-ao-stf-relatorios-sobre-citacoes-a-ministros/",
    "url_hash": "f529e3141b796572d67ff679"
   },
@@ -30194,8 +30194,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-19T20:10:16+00:00",
-  "saved_at": "2026-11-19T20:10:17+00:00"
+  "last_run_at": "2026-11-19T20:20:20+00:00",
+  "saved_at": "2026-11-19T20:20:21+00:00"
  },
  "schema": 1
 }
