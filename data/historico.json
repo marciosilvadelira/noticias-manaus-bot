@@ -29979,13 +29979,34 @@
    "updated_at": "2026-11-19T18:10:17+00:00",
    "url": "https://marioadolfo.com/porto-de-manaus-lanca-site-para-venda-de-passagens-para-todos-os-destinos/",
    "url_hash": "35a93a6f202afece7384d7b9"
+  },
+  "guid:6aff3c2c52c09500099e3a10": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Operação tem como objetivo investigar possível prática dos crimes de lavagem de dinheiro, corrupção eleitoral e falsidade ideológica eleitoral",
+   "discovered_at": "2026-11-19T18:20:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aff3c2c52c09500099e3a10",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5ea6c57e-f576-4468-9a11-6a63d930a12a.jpeg",
+   "key": "guid:6aff3c2c52c09500099e3a10",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-19T18:13:43+00:00",
+   "status": "pending",
+   "title": "PF apura suspeitas de crimes eleitorais e lavagem de dinheiro em Manaus",
+   "updated_at": "2026-11-19T18:20:16+00:00",
+   "url": "https://marioadolfo.com/pf-apura-suspeitas-de-crimes-eleitorais-e-lavagem-de-dinheiro-em-manaus/",
+   "url_hash": "81e695a7f8829a56dd3c39c6"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-19T18:10:16+00:00",
-  "saved_at": "2026-11-19T18:10:18+00:00"
+  "last_run_at": "2026-11-19T18:20:15+00:00",
+  "saved_at": "2026-11-19T18:20:16+00:00"
  },
  "schema": 1
 }
