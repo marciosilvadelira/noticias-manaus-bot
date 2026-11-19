@@ -29299,12 +29299,12 @@
    "guid": "6afdf1bd52c09500099e3614",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e26bd774-aa74-4963-af51-7bb46e688bbf.webp",
    "key": "guid:6afdf1bd52c09500099e3614",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-18T18:45:18+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Ibama registra R$ 16,3 milhões em multas por incêndios no Amazonas",
-   "updated_at": "2026-11-18T18:50:15+00:00",
+   "updated_at": "2026-11-19T18:50:18+00:00",
    "url": "https://marioadolfo.com/ibama-registra-r-16-3-milhoes-em-multas-por-incendios-no-amazonas/",
    "url_hash": "88d9cd2243b322a927b56618"
   },
@@ -30042,13 +30042,34 @@
    "updated_at": "2026-11-19T18:40:16+00:00",
    "url": "https://marioadolfo.com/romaria-das-aguas-se-torna-patrimonio-cultural-imaterial-do-amazonas/",
    "url_hash": "83755a4db6f4e5660ca94e9c"
+  },
+  "guid:6aff42d652c09500099e3abe": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Uma das linhas de investigações aponta que o crime pode ter sido motivado por uma dívida que a vítima teria com integrante de uma organização criminosa",
+   "discovered_at": "2026-11-19T18:50:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aff42d652c09500099e3abe",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f4852ea9-39bc-4b4e-ba83-3a1352f5f688.png",
+   "key": "guid:6aff42d652c09500099e3abe",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-19T18:49:31+00:00",
+   "status": "pending",
+   "title": "Trio é preso por torturar e decapitar jovem no Tarumã; quarto suspeito é procurado",
+   "updated_at": "2026-11-19T18:50:18+00:00",
+   "url": "https://marioadolfo.com/trio-e-preso-por-torturar-e-decapitar-jovem-no-taruma-quarto-suspeito-e-procurado/",
+   "url_hash": "52b00d86e7bdd01f209d729f"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-19T18:40:15+00:00",
-  "saved_at": "2026-11-19T18:40:17+00:00"
+  "last_run_at": "2026-11-19T18:50:17+00:00",
+  "saved_at": "2026-11-19T18:50:18+00:00"
  },
  "schema": 1
 }
