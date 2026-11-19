@@ -29748,13 +29748,34 @@
    "updated_at": "2026-11-19T15:30:21+00:00",
    "url": "https://marioadolfo.com/governo-do-am-mantem-servicos-essenciais-durante-feriado-da-consciencia-negra/",
    "url_hash": "5cd232fcdb6023112e9875fb"
+  },
+  "guid:6aff15af52c09500099e38b5": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Enquanto a demanda cresce, o orçamento da instituição segue vinculado a 1,6% da Receita Tributária Líquida",
+   "discovered_at": "2026-11-19T15:40:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aff15af52c09500099e38b5",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/00547d2b-1d89-40f0-900b-a01ccd85b721.jpeg",
+   "key": "guid:6aff15af52c09500099e38b5",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-19T15:31:23+00:00",
+   "status": "pending",
+   "title": "Defensoria cobra mais orçamento diante do aumento na procura por atendimento no AM",
+   "updated_at": "2026-11-19T15:40:18+00:00",
+   "url": "https://marioadolfo.com/defensoria-cobra-mais-orcamento-diante-do-aumento-na-procura-por-atendimento-no-am/",
+   "url_hash": "77789b62d48a80134124715d"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-19T15:30:20+00:00",
-  "saved_at": "2026-11-19T15:30:22+00:00"
+  "last_run_at": "2026-11-19T15:40:18+00:00",
+  "saved_at": "2026-11-19T15:40:19+00:00"
  },
  "schema": 1
 }
