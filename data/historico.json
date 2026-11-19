@@ -28626,11 +28626,19 @@
    "url_hash": "170d265c018658a684af31a1"
   },
   "guid:6afd065652c09500099e3363": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-19T04:01:20+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1544656254351932",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Petição foi protocolada nesta terça-feira (17)",
    "discovered_at": "2026-11-18T11:40:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1544656254351932",
    "formats": [
     "link"
    ],
@@ -28638,20 +28646,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/cbc12c65-dba5-44e6-a9dc-711e348d884d.jpg",
    "key": "guid:6afd065652c09500099e3363",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1544656254351932"
+   },
    "source_published_at": "2026-11-18T11:30:27+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Defesa pede que Supremo julgue pedido para soltar Vorcaro",
-   "updated_at": "2026-11-18T11:40:18+00:00",
+   "updated_at": "2026-11-19T04:01:20+00:00",
    "url": "https://marioadolfo.com/defesa-pede-que-supremo-julgue-pedido-para-soltar-vorcaro/",
    "url_hash": "2adae051c2344df933040cb0"
   },
   "guid:6afd083a52c09500099e3379": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-19T04:00:29+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1544655404352017",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Economia estadual movimentou R$ 177,2 bilhões, impulsionada principalmente pelos setores de Serviços e Indústria",
    "discovered_at": "2026-11-18T11:30:22+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1544655404352017",
    "formats": [
     "link"
    ],
@@ -28659,20 +28677,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6df4bbf8-dc19-4b83-bab9-74f76747a01c.jpeg",
    "key": "guid:6afd083a52c09500099e3379",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1544655404352017"
+   },
    "source_published_at": "2026-11-18T11:20:25+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "PIB do Amazonas cresce 5,6% e tem a quarta maior alta do país",
-   "updated_at": "2026-11-18T11:30:22+00:00",
+   "updated_at": "2026-11-19T04:00:29+00:00",
    "url": "https://marioadolfo.com/pib-do-amazonas-cresce-5-6-e-tem-a-quarta-maior-alta-do-pais/",
    "url_hash": "39a4038fa016cb89db1951e4"
   },
   "guid:6afd092252c09500099e3397": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-19T04:01:49+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1544656611018563",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "A vítima chegava em casa em uma motocicleta, quando foi alvejada principalmente na região do peito e da cabeça",
    "discovered_at": "2026-11-18T11:40:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1544656611018563",
    "formats": [
     "link"
    ],
@@ -28680,20 +28708,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d135dade-a05c-4d09-980e-a9ed121c6136.jpg",
    "key": "guid:6afd092252c09500099e3397",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1544656611018563"
+   },
    "source_published_at": "2026-11-18T11:35:31+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "'Catatau' é executado a tiros na porta de casa na zona norte de Manaus",
-   "updated_at": "2026-11-18T11:40:18+00:00",
+   "updated_at": "2026-11-19T04:01:49+00:00",
    "url": "https://marioadolfo.com/catatau-e-executado-a-tiros-na-porta-de-casa-na-zona-norte-de-manaus/",
    "url_hash": "d668fca9ac11f336146d1fae"
   },
   "guid:6afd0b5852c09500099e33c0": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-19T04:00:55+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1544655747685316",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "A medida busca fortalecer o abastecimento da rede pública de saúde e assegurar a continuidade da vacinação dos grupos prioritários",
    "discovered_at": "2026-11-18T11:30:22+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1544655747685316",
    "formats": [
     "link"
    ],
@@ -28701,20 +28739,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/00f535e4-1f2c-4ad4-8ca6-5e8c6d68c0de.jpg",
    "key": "guid:6afd0b5852c09500099e33c0",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1544655747685316"
+   },
    "source_published_at": "2026-11-18T11:30:12+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Amazonas vai receber 30 mil doses adicionais de vacinas contra a Covid-19",
-   "updated_at": "2026-11-18T11:30:22+00:00",
+   "updated_at": "2026-11-19T04:00:55+00:00",
    "url": "https://marioadolfo.com/amazonas-vai-receber-30-mil-doses-adicionais-de-vacina-contra-a-covid-19/",
    "url_hash": "d7600232765ca084cd1abe23"
   },
   "guid:6afd99d552c09500099e33f0": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-19T04:02:14+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1544656904351867",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Canais digitais estarão disponíveis",
    "discovered_at": "2026-11-18T12:30:20+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1544656904351867",
    "formats": [
     "link"
    ],
@@ -28722,11 +28770,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d21f1dda-9b47-4252-8827-f746758f6844.webp",
    "key": "guid:6afd99d552c09500099e33f0",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1544656904351867"
+   },
    "source_published_at": "2026-11-18T12:29:19+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Agências bancárias fecham para atendimento presencial nesta sexta (20)",
-   "updated_at": "2026-11-18T12:30:20+00:00",
+   "updated_at": "2026-11-19T04:02:14+00:00",
    "url": "https://marioadolfo.com/agencias-bancarias-fecham-para-atendimento-presencial-nesta-sexta-20/",
    "url_hash": "2c392124ffad261a476a79f7"
   },
@@ -29259,8 +29309,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-19T03:50:15+00:00",
-  "saved_at": "2026-11-19T03:50:16+00:00"
+  "last_run_at": "2026-11-19T04:00:21+00:00",
+  "saved_at": "2026-11-19T04:02:14+00:00"
  },
  "schema": 1
 }
