@@ -29601,13 +29601,34 @@
    "updated_at": "2026-11-19T11:30:22+00:00",
    "url": "https://marioadolfo.com/prefeitura-de-manaus-entrega-mais-tres-casas-reformadas-nas-zona-norte-e-leste/",
    "url_hash": "f2a16d2ba3de6c9619712ac5"
+  },
+  "guid:6afef10a52c09500099e37da": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Às 6h, a média de material particulado fino (MP2,5) registrada pelos 11 sensores da plataforma PurpleAir foi de 91,6 microgramas por metro cúbico (µg/m³)",
+   "discovered_at": "2026-11-19T13:00:24+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6afef10a52c09500099e37da",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ffe74c9c-2477-463f-a1cd-bb91b0967833.jpeg",
+   "key": "guid:6afef10a52c09500099e37da",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-19T12:55:14+00:00",
+   "status": "pending",
+   "title": "Manaus tem qualidade do ar 'muito ruim' nesta quinta-feira (19)",
+   "updated_at": "2026-11-19T13:00:24+00:00",
+   "url": "https://marioadolfo.com/manaus-tem-qualidade-do-ar-muito-ruim-nesta-quinta-feira-19/",
+   "url_hash": "82edf86969ddb3fa0365d566"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-19T12:50:15+00:00",
-  "saved_at": "2026-11-19T12:50:16+00:00"
+  "last_run_at": "2026-11-19T13:00:23+00:00",
+  "saved_at": "2026-11-19T13:00:25+00:00"
  },
  "schema": 1
 }
