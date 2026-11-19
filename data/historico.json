@@ -29320,12 +29320,12 @@
    "guid": "6afdf5a152c09500099e362f",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/7bb33ffc-4adc-4b5c-beb9-5732a346861e.jpeg",
    "key": "guid:6afdf5a152c09500099e362f",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-18T19:01:34+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Feirante é preso por ameaça contra duas mulheres em Manaus",
-   "updated_at": "2026-11-18T19:10:17+00:00",
+   "updated_at": "2026-11-19T19:10:16+00:00",
    "url": "https://marioadolfo.com/feirante-e-preso-por-ameaca-contra-duas-mulheres-em-manaus/",
    "url_hash": "d1327af06671401d8906546f"
   },
@@ -30105,13 +30105,55 @@
    "updated_at": "2026-11-19T19:00:22+00:00",
    "url": "https://marioadolfo.com/caso-deusiane-justica-adia-julgamento-de-recurso-contra-absolvicao-de-policiais/",
    "url_hash": "32aae667d85f6154288382e1"
+  },
+  "guid:6aff478852c09500099e3b27": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "O agricultor José Nelson da Silva Costa está desaparecido desde sexta-feira (13), quando sumiu nas proximidades do Rio Itacoaí",
+   "discovered_at": "2026-11-19T19:10:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aff478852c09500099e3b27",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2746bdfd-c1b4-49b0-94f2-010daae5e065.jpeg",
+   "key": "guid:6aff478852c09500099e3b27",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-19T19:07:58+00:00",
+   "status": "pending",
+   "title": "MPF pede abertura de inquérito da PF para investigar desaparecimento no Vale do Javari",
+   "updated_at": "2026-11-19T19:10:16+00:00",
+   "url": "https://marioadolfo.com/mpf-pede-abertura-de-inquerito-da-pf-para-investigar-desaparecimento-no-vale-do-javari/",
+   "url_hash": "6457fe512778b70683d3546a"
+  },
+  "guid:6aff494a52c09500099e3b56": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Revendedores terão acesso a produtos de O Boticário, Eudora, Quem Disse, Berenice? e O.U.i.",
+   "discovered_at": "2026-11-19T19:10:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aff494a52c09500099e3b56",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/dabe2484-6e19-4240-ae47-ee30acea98b1.jpeg",
+   "key": "guid:6aff494a52c09500099e3b56",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-19T19:09:57+00:00",
+   "status": "pending",
+   "title": "Grupo Boticário inaugura novo Espaço do Revendedor em Iranduba",
+   "updated_at": "2026-11-19T19:10:16+00:00",
+   "url": "https://marioadolfo.com/grupo-boticario-inaugura-novo-espaco-do-revendedor-em-iranduba/",
+   "url_hash": "952c6ef3df872bbfd3309469"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-19T19:00:21+00:00",
-  "saved_at": "2026-11-19T19:00:22+00:00"
+  "last_run_at": "2026-11-19T19:10:16+00:00",
+  "saved_at": "2026-11-19T19:10:17+00:00"
  },
  "schema": 1
 }
