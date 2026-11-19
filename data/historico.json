@@ -29278,12 +29278,12 @@
    "guid": "6afdeff652c09500099e35e7",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/86e2e39d-5987-4d91-b9aa-dac70e83317e.jpeg",
    "key": "guid:6afdeff652c09500099e35e7",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-18T18:39:55+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Águas de Manaus é multada por demora no restabelecimento do abastecimento no Morro da Liberdade",
-   "updated_at": "2026-11-18T18:40:16+00:00",
+   "updated_at": "2026-11-19T18:40:16+00:00",
    "url": "https://marioadolfo.com/aguas-de-manaus-e-multada-por-demora-no-restabelecimento-do-abastecimento-no-morro-da-liberdade/",
    "url_hash": "d0c8c473671744909326018a"
   },
@@ -30021,13 +30021,34 @@
    "updated_at": "2026-11-19T18:30:21+00:00",
    "url": "https://marioadolfo.com/video-idoso-de-70-anos-e-preso-por-estupro-das-duas-enteadas-pcds/",
    "url_hash": "f37c3f8af1080d1ce2f4d220"
+  },
+  "guid:6aff41d552c09500099e3aa3": {
+   "attempts": [],
+   "category": "Parintins",
+   "description": "Deputados aprovaram o projeto de lei que reconhece a celebração religiosa, realizada durante os festejos de Nossa Senhora do Carmo, como patrimônio",
+   "discovered_at": "2026-11-19T18:40:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aff41d552c09500099e3aa3",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/fd914f14-e3a2-403d-8570-8de345d54bb5.jpeg",
+   "key": "guid:6aff41d552c09500099e3aa3",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-19T18:39:21+00:00",
+   "status": "pending",
+   "title": "Romaria das Águas se torna Patrimônio Cultural Imaterial do Amazonas",
+   "updated_at": "2026-11-19T18:40:16+00:00",
+   "url": "https://marioadolfo.com/romaria-das-aguas-se-torna-patrimonio-cultural-imaterial-do-amazonas/",
+   "url_hash": "83755a4db6f4e5660ca94e9c"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-19T18:30:20+00:00",
-  "saved_at": "2026-11-19T18:30:21+00:00"
+  "last_run_at": "2026-11-19T18:40:15+00:00",
+  "saved_at": "2026-11-19T18:40:17+00:00"
  },
  "schema": 1
 }
