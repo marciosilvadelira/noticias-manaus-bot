@@ -29404,12 +29404,12 @@
    "guid": "6afe083d52c09500099e36a5",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/de2a6ccb-9ee8-4207-8b27-dd089af1d716.jpeg",
    "key": "guid:6afe083d52c09500099e36a5",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-18T20:22:02+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Festival transforma ruas do Centro de Manaus em palco para música, moda e arte",
-   "updated_at": "2026-11-18T20:30:22+00:00",
+   "updated_at": "2026-11-19T20:30:21+00:00",
    "url": "https://marioadolfo.com/festival-transforma-ruas-do-centro-de-manaus-em-palco-para-musica-moda-e-arte/",
    "url_hash": "c411c9afe27d5ca30daff926"
   },
@@ -30189,13 +30189,34 @@
    "updated_at": "2026-11-19T20:10:16+00:00",
    "url": "https://marioadolfo.com/omar-aziz-defende-uniao-das-forcas-de-seguranca-para-combate-ao-narcotrafico/",
    "url_hash": "9e6e22327abb47b817f2a54a"
+  },
+  "guid:6aff57d052c09500099e3bd3": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Levantamento do BID será apresentado em Manaus na segunda-feira (23) e mostra que, entre 37 atores privados analisados, apenas dois têm planos de expansão no curto prazo",
+   "discovered_at": "2026-11-19T20:30:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aff57d052c09500099e3bd3",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6643a161-e43a-4917-9816-90a7e8bbb4a2.png",
+   "key": "guid:6aff57d052c09500099e3bd3",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-19T20:22:02+00:00",
+   "status": "pending",
+   "title": "Amazônia atrai turista estrangeiro, mas estudo aponta gargalos para transformar interesse em viagem",
+   "updated_at": "2026-11-19T20:30:21+00:00",
+   "url": "https://marioadolfo.com/amazonia-atrai-turista-estrangeiro-mas-estudo-aponta-gargalos-para-transformar-interesse-em-viagem/",
+   "url_hash": "8e816022ac259791d017b63c"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-19T20:20:20+00:00",
-  "saved_at": "2026-11-19T20:20:21+00:00"
+  "last_run_at": "2026-11-19T20:30:20+00:00",
+  "saved_at": "2026-11-19T20:30:22+00:00"
  },
  "schema": 1
 }
