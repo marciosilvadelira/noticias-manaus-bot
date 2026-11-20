@@ -30830,13 +30830,34 @@
    "updated_at": "2026-11-20T21:00:23+00:00",
    "url": "https://marioadolfo.com/jovem-e-preso-suspeito-de-agredir-e-atropelar-ex-companheira-em-eirunepe/",
    "url_hash": "06b94067975291f5d5a87494"
+  },
+  "guid:6b00b49952c09500099e3da0": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Com o rio marcando 15,94 metros, o acesso de banhistas à água está proibido por questões de segurança",
+   "discovered_at": "2026-11-20T21:10:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b00b49952c09500099e3da0",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/83afdcb5-2b22-4fc3-983b-a8a14d9c28a9.jpg",
+   "key": "guid:6b00b49952c09500099e3da0",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-20T21:02:19+00:00",
+   "status": "pending",
+   "title": "Praia da Ponta Negra é interditada para banho após Rio Negro atingir cota de risco",
+   "updated_at": "2026-11-20T21:10:21+00:00",
+   "url": "https://marioadolfo.com/praia-da-ponta-negra-e-interditada-para-banho-apos-rio-negro-atingir-cota-de-risco/",
+   "url_hash": "30fd66b3a47b0027f4647e63"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-20T21:00:22+00:00",
-  "saved_at": "2026-11-20T21:00:23+00:00"
+  "last_run_at": "2026-11-20T21:10:14+00:00",
+  "saved_at": "2026-11-20T21:10:21+00:00"
  },
  "schema": 1
 }
