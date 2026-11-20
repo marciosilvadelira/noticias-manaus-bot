@@ -30234,12 +30234,12 @@
    "guid": "6aff3c2c52c09500099e3a10",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5ea6c57e-f576-4468-9a11-6a63d930a12a.jpeg",
    "key": "guid:6aff3c2c52c09500099e3a10",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-19T18:13:43+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "PF apura suspeitas de crimes eleitorais e lavagem de dinheiro em Manaus",
-   "updated_at": "2026-11-19T18:20:16+00:00",
+   "updated_at": "2026-11-20T18:20:17+00:00",
    "url": "https://marioadolfo.com/pf-apura-suspeitas-de-crimes-eleitorais-e-lavagem-de-dinheiro-em-manaus/",
    "url_hash": "81e695a7f8829a56dd3c39c6"
   },
@@ -30730,8 +30730,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-20T18:10:16+00:00",
-  "saved_at": "2026-11-20T18:10:18+00:00"
+  "last_run_at": "2026-11-20T18:20:16+00:00",
+  "saved_at": "2026-11-20T18:20:17+00:00"
  },
  "schema": 1
 }
