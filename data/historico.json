@@ -30620,13 +30620,34 @@
    "updated_at": "2026-11-20T14:30:22+00:00",
    "url": "https://marioadolfo.com/fachin-manda-quebrar-sigilo-de-relatorio-da-pf-com-mencoes-a-mendonca-2/",
    "url_hash": "bd36103d46fea042ca7be3df"
+  },
+  "guid:6b00599452c09500099e3c88": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Os dois trabalhavam como motoristas na loja, localizada no Centro de Manaus, onde cometeram os furtos",
+   "discovered_at": "2026-11-20T14:40:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b00599452c09500099e3c88",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/8203f6ee-1ab5-48f5-b835-873d51cd6cb7.jpeg",
+   "key": "guid:6b00599452c09500099e3c88",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-20T14:33:09+00:00",
+   "status": "pending",
+   "title": "Funcionários são presos por roubar café, vinho e atum de loja em Manaus",
+   "updated_at": "2026-11-20T14:40:21+00:00",
+   "url": "https://marioadolfo.com/funcionarias/",
+   "url_hash": "e8cb4bbc0f6e163449e44181"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-20T14:30:22+00:00",
-  "saved_at": "2026-11-20T14:30:23+00:00"
+  "last_run_at": "2026-11-20T14:40:21+00:00",
+  "saved_at": "2026-11-20T14:40:22+00:00"
  },
  "schema": 1
 }
