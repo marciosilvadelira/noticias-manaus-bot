@@ -30339,12 +30339,12 @@
    "guid": "6aff42d652c09500099e3abe",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f4852ea9-39bc-4b4e-ba83-3a1352f5f688.png",
    "key": "guid:6aff42d652c09500099e3abe",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-19T18:49:31+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Trio é preso por torturar e decapitar jovem no Tarumã; quarto suspeito é procurado",
-   "updated_at": "2026-11-19T18:50:18+00:00",
+   "updated_at": "2026-11-20T18:50:17+00:00",
    "url": "https://marioadolfo.com/trio-e-preso-por-torturar-e-decapitar-jovem-no-taruma-quarto-suspeito-e-procurado/",
    "url_hash": "52b00d86e7bdd01f209d729f"
   },
@@ -30730,8 +30730,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-20T18:43:05+00:00",
-  "saved_at": "2026-11-20T18:43:08+00:00"
+  "last_run_at": "2026-11-20T18:50:14+00:00",
+  "saved_at": "2026-11-20T18:50:17+00:00"
  },
  "schema": 1
 }
