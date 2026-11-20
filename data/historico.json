@@ -30222,6 +30222,27 @@
    "url": "https://marioadolfo.com/video-idoso-de-70-anos-e-preso-por-estupro-das-duas-enteadas-pcds/",
    "url_hash": "f37c3f8af1080d1ce2f4d220"
   },
+  "guid:6aff3f4b52c09500099e3a66": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "As ações de enfrentamento à criminalidade também resultaram na apreensão de 756 armas de fogo entre janeiro e outubro",
+   "discovered_at": "2026-11-20T12:00:26+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aff3f4b52c09500099e3a66",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/fafd39eb-9fe7-4796-8c4b-fff7fd868903.jpeg",
+   "key": "guid:6aff3f4b52c09500099e3a66",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-20T12:00:05+00:00",
+   "status": "pending",
+   "title": "Mais de 26 toneladas de drogas já foram apreendidas no Amazonas em 2026",
+   "updated_at": "2026-11-20T12:00:26+00:00",
+   "url": "https://marioadolfo.com/mais-de-26-toneladas-de-drogas-ja-foram-apreendidas-no-amazonas-em-2026/",
+   "url_hash": "09e54e074a9ec84e9a8f8fd4"
+  },
   "guid:6aff41d552c09500099e3aa3": {
    "attempts": [],
    "category": "Parintins",
@@ -30348,6 +30369,27 @@
    "url": "https://marioadolfo.com/grupo-boticario-inaugura-novo-espaco-do-revendedor-em-iranduba/",
    "url_hash": "952c6ef3df872bbfd3309469"
   },
+  "guid:6aff49be52c09500099e3b6e": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Os serviços serão oferecidos no posto que funcionará na Avenida Arco-Íris, no bairro Porto da Cidade",
+   "discovered_at": "2026-11-20T12:00:26+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aff49be52c09500099e3b6e",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/eaf17279-8861-4aa2-a276-f34d73ee8893.jpeg",
+   "key": "guid:6aff49be52c09500099e3b6e",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-20T12:00:26+00:00",
+   "status": "pending",
+   "title": "Defensoria inaugura Posto de Atendimento em Urucurituba na segunda-feira",
+   "updated_at": "2026-11-20T12:00:26+00:00",
+   "url": "https://marioadolfo.com/defensoria-inaugura-posto-de-atendimento-em-urucurituba-na-segunda-feira/",
+   "url_hash": "c7a159fbc17f230bfc9cfaf9"
+  },
   "guid:6aff4a4d52c09500099e3b88": {
    "attempts": [],
    "category": "Brasil",
@@ -30415,8 +30457,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-20T11:50:14+00:00",
-  "saved_at": "2026-11-20T11:50:15+00:00"
+  "last_run_at": "2026-11-20T12:00:25+00:00",
+  "saved_at": "2026-11-20T12:00:26+00:00"
  },
  "schema": 1
 }
