@@ -30515,13 +30515,76 @@
    "updated_at": "2026-11-19T20:30:21+00:00",
    "url": "https://marioadolfo.com/amazonia-atrai-turista-estrangeiro-mas-estudo-aponta-gargalos-para-transformar-interesse-em-viagem/",
    "url_hash": "8e816022ac259791d017b63c"
+  },
+  "guid:6b00423552c09500099e3bfb": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Área embargada é equivalente a 62 campos de futebol foi destruída para abrir pastagem",
+   "discovered_at": "2026-11-20T13:00:30+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b00423552c09500099e3bfb",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/77e144a9-5abd-401e-9ab8-72951f676961.jpeg",
+   "key": "guid:6b00423552c09500099e3bfb",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-20T12:52:46+00:00",
+   "status": "pending",
+   "title": "Ipaam multa homem por derrubar e incendiar 44 hectares de floresta em Humaitá",
+   "updated_at": "2026-11-20T13:00:30+00:00",
+   "url": "https://marioadolfo.com/ipaam-multa-homem-por-derrubar-e-incendiar-44-hectares-de-floresta-em-humaita/",
+   "url_hash": "9471a0081561f1455a52af80"
+  },
+  "guid:6b0042fb52c09500099e3c14": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "As ações ocorrem de novembro a dezembro, em diferentes pontos da cidade e nas comunidades ribeirinhas e rurais",
+   "discovered_at": "2026-11-20T13:00:30+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b0042fb52c09500099e3c14",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d9f0dba3-d477-476c-85b0-240850fdb5a4.jpeg",
+   "key": "guid:6b0042fb52c09500099e3c14",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-20T12:56:31+00:00",
+   "status": "pending",
+   "title": "Programação do ‘Um Sonho Mágico de Natal’ reúne espetáculos, feiras e ações solidárias",
+   "updated_at": "2026-11-20T13:00:30+00:00",
+   "url": "https://marioadolfo.com/programacao-do-um-sonho-magico-de-natal-reune-espetaculos-feiras-e-acoes-solidarias/",
+   "url_hash": "533b147429018d3edc12b6c3"
+  },
+  "guid:6b0043a052c09500099e3c2d": {
+   "attempts": [],
+   "category": "Parintins",
+   "description": "Nestor Nascimento Figurinista Mestre Paquita e conselheira Ádria Barbosa também receberam menções honrosas durante solenidade que contou com apresentação do Caprichoso",
+   "discovered_at": "2026-11-20T13:00:30+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b0043a052c09500099e3c2d",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6737cbb6-9d49-478c-b166-e3b8dd302b0b.jpeg",
+   "key": "guid:6b0043a052c09500099e3c2d",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-20T12:59:18+00:00",
+   "status": "pending",
+   "title": "Caprichoso recebe prêmio da Aleam por valorização da cultura negra e combate ao racismo",
+   "updated_at": "2026-11-20T13:00:30+00:00",
+   "url": "https://marioadolfo.com/caprichoso-recebe-premio-da-aleam-por-valorizacao-da-cultura-negra-e-combate-ao-racismo/",
+   "url_hash": "55ebf211e499b30f5a41dbbd"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-20T12:50:15+00:00",
-  "saved_at": "2026-11-20T12:50:17+00:00"
+  "last_run_at": "2026-11-20T13:00:29+00:00",
+  "saved_at": "2026-11-20T13:00:31+00:00"
  },
  "schema": 1
 }
