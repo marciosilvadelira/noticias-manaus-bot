@@ -30641,13 +30641,34 @@
    "updated_at": "2026-11-20T14:40:21+00:00",
    "url": "https://marioadolfo.com/funcionarias/",
    "url_hash": "e8cb4bbc0f6e163449e44181"
+  },
+  "guid:6b0060bc52c09500099e3c9f": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A iniciativa prevê atender até 110 eventos gratuitos, realizados entre 18 de janeiro e 10 de março, com oferta de palco, sonorização, iluminação, banheiros químicos e demais estruturas necessárias",
+   "discovered_at": "2026-11-20T15:10:20+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b0060bc52c09500099e3c9f",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6e1d2b5e-7f7c-47f7-8198-d88f91577662.jpeg",
+   "key": "guid:6b0060bc52c09500099e3c9f",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-20T15:03:12+00:00",
+   "status": "pending",
+   "title": "Prefeitura de Manaus lança edital de apoio a bandas e blocos para o Carnaval 2027",
+   "updated_at": "2026-11-20T15:10:20+00:00",
+   "url": "https://marioadolfo.com/prefeitura-de-manaus-lanca-edital-de-apoio-a-bandas-e-blocos-para-o-carnaval-2027/",
+   "url_hash": "4f2ca130ecf75c37c73182f3"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-20T15:00:23+00:00",
-  "saved_at": "2026-11-20T15:00:27+00:00"
+  "last_run_at": "2026-11-20T15:10:16+00:00",
+  "saved_at": "2026-11-20T15:10:20+00:00"
  },
  "schema": 1
 }
