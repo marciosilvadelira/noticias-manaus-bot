@@ -30507,12 +30507,12 @@
    "guid": "6aff57d052c09500099e3bd3",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6643a161-e43a-4917-9816-90a7e8bbb4a2.png",
    "key": "guid:6aff57d052c09500099e3bd3",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-19T20:22:02+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Amazônia atrai turista estrangeiro, mas estudo aponta gargalos para transformar interesse em viagem",
-   "updated_at": "2026-11-19T20:30:21+00:00",
+   "updated_at": "2026-11-20T20:30:24+00:00",
    "url": "https://marioadolfo.com/amazonia-atrai-turista-estrangeiro-mas-estudo-aponta-gargalos-para-transformar-interesse-em-viagem/",
    "url_hash": "8e816022ac259791d017b63c"
   },
@@ -30730,8 +30730,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-20T20:20:15+00:00",
-  "saved_at": "2026-11-20T20:20:16+00:00"
+  "last_run_at": "2026-11-20T20:30:18+00:00",
+  "saved_at": "2026-11-20T20:30:24+00:00"
  },
  "schema": 1
 }
