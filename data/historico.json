@@ -30704,13 +30704,34 @@
    "updated_at": "2026-11-20T15:20:16+00:00",
    "url": "https://marioadolfo.com/caso-master-fachin-mantem-prisao-preventiva-de-vorcaro/",
    "url_hash": "7e875c61996efad81d7f533d"
+  },
+  "guid:6b00664152c09500099e3d07": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "As inscrições são gratuitas e podem ser feitas das 8h da terça-feira (24/11) pelo site: pss.manaus.am.gov.br",
+   "discovered_at": "2026-11-20T15:30:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b00664152c09500099e3d07",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4d24897b-5b30-4e54-b191-73c3605e264d.jpeg",
+   "key": "guid:6b00664152c09500099e3d07",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-20T15:27:15+00:00",
+   "status": "pending",
+   "title": "Semsa contra enfermeiros para Programa de Residência em Manaus",
+   "updated_at": "2026-11-20T15:30:21+00:00",
+   "url": "https://marioadolfo.com/semsa-contra-enfermeiros-para-programa-de-residencia-em-manaus/",
+   "url_hash": "cc12f4e00bd75fa00c6e2986"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-20T15:20:15+00:00",
-  "saved_at": "2026-11-20T15:20:16+00:00"
+  "last_run_at": "2026-11-20T15:30:20+00:00",
+  "saved_at": "2026-11-20T15:30:21+00:00"
  },
  "schema": 1
 }
