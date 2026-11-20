@@ -29766,11 +29766,19 @@
    "url_hash": "16100fe5ece825a467633443"
   },
   "guid:6afef4d452c09500099e3829": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-20T04:20:49+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1545707960913428",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Dito & Feito",
    "description": "Direita cobra preços de alimentos no governo Lula, mas esquece o que foi o governo passado, onde, em quatro anos de mandato,  o preço dos alimentos subiu quase 50%. No terceiro governo Lula foi de 17,75%",
    "discovered_at": "2026-11-19T13:20:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1545707960913428",
    "formats": [
     "link"
    ],
@@ -29778,20 +29786,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d9a136e0-1c0a-44c6-a92f-b3b54450b703.jpg",
    "key": "guid:6afef4d452c09500099e3829",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1545707960913428"
+   },
    "source_published_at": "2026-11-19T13:16:40+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Dito & Feito: ELES NÃO LEMBRAM DA FILA DO OSSO",
-   "updated_at": "2026-11-19T13:20:18+00:00",
+   "updated_at": "2026-11-20T04:20:49+00:00",
    "url": "https://marioadolfo.com/dito-feito-eles-nao-lembram-da-fila-do-osso/",
    "url_hash": "d438cd00b905d5b7024929a1"
   },
   "guid:6afef52852c09500099e383d": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-20T04:20:24+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1545707660913458",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Câmeras de segurança registraram a colisão e a fuga do condutor, que deixou a vítima ferida sem prestar assistência",
    "discovered_at": "2026-11-19T13:20:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1545707660913458",
    "formats": [
     "link"
    ],
@@ -29799,20 +29817,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5d172f59-0be9-446a-a361-0e69cc57774f.jpg",
    "key": "guid:6afef52852c09500099e383d",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1545707660913458"
+   },
    "source_published_at": "2026-11-19T13:13:13+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Vídeo: motorista atropela motociclista e foge sem prestar socorro no bairro Flores",
-   "updated_at": "2026-11-19T13:20:18+00:00",
+   "updated_at": "2026-11-20T04:20:24+00:00",
    "url": "https://marioadolfo.com/motorista-2/",
    "url_hash": "26be86615fced1662de61b2d"
   },
   "guid:6afef65552c09500099e3877": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-20T04:21:15+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1545708190913405",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "O texto vai definir as regras de transição do atual regime 6x1 para a jornada 5x2",
    "discovered_at": "2026-11-19T13:20:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1545708190913405",
    "formats": [
     "link"
    ],
@@ -29820,20 +29848,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6a557f7c-7e39-44b3-ae17-db2cadefaff0.jpg",
    "key": "guid:6afef65552c09500099e3877",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1545708190913405"
+   },
    "source_published_at": "2026-11-19T13:17:37+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Lula assina nesta quinta (19) o decreto que regulamenta a escala de trabalho 5x2",
-   "updated_at": "2026-11-19T13:20:18+00:00",
+   "updated_at": "2026-11-20T04:21:15+00:00",
    "url": "https://marioadolfo.com/lula-assina-nesta-quinta-19-o-decreto-que-regulamenta-a-escala-de-trabalho-5x2/",
    "url_hash": "4587499e83d630716ea162be"
   },
   "guid:6aff13fe52c09500099e389e": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-20T04:21:43+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1545708664246691",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Unidades de saúde e serviços de segurança funcionam em plantão 24 horas; atendimentos administrativos e espaços culturais terão horários especiais",
    "discovered_at": "2026-11-19T15:30:21+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1545708664246691",
    "formats": [
     "link"
    ],
@@ -29841,20 +29879,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/bcb19dfe-fb7b-40d9-aa6e-65f20730c6b2.jpeg",
    "key": "guid:6aff13fe52c09500099e389e",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1545708664246691"
+   },
    "source_published_at": "2026-11-19T15:23:42+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Governo do AM mantém serviços essenciais durante feriado da Consciência Negra",
-   "updated_at": "2026-11-19T15:30:21+00:00",
+   "updated_at": "2026-11-20T04:21:43+00:00",
    "url": "https://marioadolfo.com/governo-do-am-mantem-servicos-essenciais-durante-feriado-da-consciencia-negra/",
    "url_hash": "5cd232fcdb6023112e9875fb"
   },
   "guid:6aff15af52c09500099e38b5": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-20T04:22:08+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1545709094246648",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Enquanto a demanda cresce, o orçamento da instituição segue vinculado a 1,6% da Receita Tributária Líquida",
    "discovered_at": "2026-11-19T15:40:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1545709094246648",
    "formats": [
     "link"
    ],
@@ -29862,11 +29910,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/00547d2b-1d89-40f0-900b-a01ccd85b721.jpeg",
    "key": "guid:6aff15af52c09500099e38b5",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1545709094246648"
+   },
    "source_published_at": "2026-11-19T15:31:23+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Defensoria cobra mais orçamento diante do aumento na procura por atendimento no AM",
-   "updated_at": "2026-11-19T15:40:18+00:00",
+   "updated_at": "2026-11-20T04:22:08+00:00",
    "url": "https://marioadolfo.com/defensoria-cobra-mais-orcamento-diante-do-aumento-na-procura-por-atendimento-no-am/",
    "url_hash": "77789b62d48a80134124715d"
   },
@@ -30315,8 +30365,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-20T04:10:14+00:00",
-  "saved_at": "2026-11-20T04:12:05+00:00"
+  "last_run_at": "2026-11-20T04:20:15+00:00",
+  "saved_at": "2026-11-20T04:22:08+00:00"
  },
  "schema": 1
 }
