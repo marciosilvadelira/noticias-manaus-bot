@@ -30264,6 +30264,27 @@
    "url": "https://marioadolfo.com/video-idoso-de-70-anos-e-preso-por-estupro-das-duas-enteadas-pcds/",
    "url_hash": "f37c3f8af1080d1ce2f4d220"
   },
+  "guid:6aff3e9352c09500099e3a4a": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A população pode buscar os serviços da Atenção Primária na Unidade de Saúde da Família (USF) Leonor de Freitas e na USF Carmen Nicolau",
+   "discovered_at": "2026-11-20T12:50:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aff3e9352c09500099e3a4a",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/817f5f88-c546-413d-bb08-bbe15403a67e.jpg",
+   "key": "guid:6aff3e9352c09500099e3a4a",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-20T12:49:57+00:00",
+   "status": "pending",
+   "title": "Serviços essenciais em Manaus são mantidos no feriado da Consciência Negra",
+   "updated_at": "2026-11-20T12:50:16+00:00",
+   "url": "https://marioadolfo.com/servicos-essenciais-em-manaus-sao-mantidos-no-feriado-da-consciencia-negra/",
+   "url_hash": "a090ef34bb55df0fcafb9e21"
+  },
   "guid:6aff3f4b52c09500099e3a66": {
    "attempts": [],
    "category": "Polícia",
@@ -30499,8 +30520,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-20T12:40:22+00:00",
-  "saved_at": "2026-11-20T12:40:23+00:00"
+  "last_run_at": "2026-11-20T12:50:15+00:00",
+  "saved_at": "2026-11-20T12:50:17+00:00"
  },
  "schema": 1
 }
