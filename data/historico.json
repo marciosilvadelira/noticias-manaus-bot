@@ -29456,11 +29456,19 @@
    "url_hash": "ced3ac8d4380a181dad28133"
   },
   "guid:6afe53de52c09500099e36f8": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-20T04:10:20+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1545700857580805",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Parintins",
    "description": "Encontro reuniu 29 bois-bumbás de nove municípios amazonenses e encerrou com cortejo cultural e apresentações em frente ao Teatro Amazonas",
    "discovered_at": "2026-11-19T11:40:21+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1545700857580805",
    "formats": [
     "link"
    ],
@@ -29468,11 +29476,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/24145298-84d6-4d70-a3f7-357fb644957e.jpeg",
    "key": "guid:6afe53de52c09500099e36f8",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1545700857580805"
+   },
    "source_published_at": "2026-11-19T11:30:47+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Caprichoso destaca tradição e preservação cultural em encontro de salvaguarda do boi-bumbá",
-   "updated_at": "2026-11-19T11:40:21+00:00",
+   "updated_at": "2026-11-20T04:10:20+00:00",
    "url": "https://marioadolfo.com/caprichoso-destaca-tradicao-e-preservacao-cultural-em-encontro-de-salvaguarda-do-boi-bumba/",
    "url_hash": "c0ed338eb0a1590c3a372d1c"
   },
@@ -29570,11 +29580,19 @@
    "url_hash": "3765403d56169a2e4a9687f0"
   },
   "guid:6afe588852c09500099e3758": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-20T04:10:45+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1545701210914103",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Rian Alexandre Lira Ferreira possui antecedentes policiais por tráfico de drogas e porte ilegal de arma de fogo",
    "discovered_at": "2026-11-19T11:40:21+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1545701210914103",
    "formats": [
     "link"
    ],
@@ -29582,11 +29600,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/fe8cd025-fb03-4cdc-ac79-5e36b74dc41e.jpg",
    "key": "guid:6afe588852c09500099e3758",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1545701210914103"
+   },
    "source_published_at": "2026-11-19T11:35:05+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Pistoleiro do CV é preso com arma no bairro Petrópolis",
-   "updated_at": "2026-11-19T11:40:21+00:00",
+   "updated_at": "2026-11-20T04:10:45+00:00",
    "url": "https://marioadolfo.com/pistoleiro-do-cv-e-preso-com-arma-no-bairro-petropolis/",
    "url_hash": "6eca14e63996c49ae68de25c"
   },
@@ -29653,11 +29673,19 @@
    "url_hash": "f2a16d2ba3de6c9619712ac5"
   },
   "guid:6afef10a52c09500099e37da": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-20T04:11:13+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1545701494247408",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Às 6h, a média de material particulado fino (MP2,5) registrada pelos 11 sensores da plataforma PurpleAir foi de 91,6 microgramas por metro cúbico (µg/m³)",
    "discovered_at": "2026-11-19T13:00:24+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1545701494247408",
    "formats": [
     "link"
    ],
@@ -29665,20 +29693,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ffe74c9c-2477-463f-a1cd-bb91b0967833.jpeg",
    "key": "guid:6afef10a52c09500099e37da",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1545701494247408"
+   },
    "source_published_at": "2026-11-19T12:55:14+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Manaus tem qualidade do ar 'muito ruim' nesta quinta-feira (19)",
-   "updated_at": "2026-11-19T13:00:24+00:00",
+   "updated_at": "2026-11-20T04:11:13+00:00",
    "url": "https://marioadolfo.com/manaus-tem-qualidade-do-ar-muito-ruim-nesta-quinta-feira-19/",
    "url_hash": "82edf86969ddb3fa0365d566"
   },
   "guid:6afef2af52c09500099e37f6": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-20T04:11:39+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1545701844247373",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Parintins",
    "description": "Concentração de partículas poluentes ultrapassa 200 µg/m³ na área urbana",
    "discovered_at": "2026-11-19T13:10:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1545701844247373",
    "formats": [
     "link"
    ],
@@ -29686,20 +29724,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f6ca984d-bb5d-4f02-a8be-ded1b0d79dda.png",
    "key": "guid:6afef2af52c09500099e37f6",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1545701844247373"
+   },
    "source_published_at": "2026-11-19T13:01:04+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Vídeo: fumaça encobre Parintins e qualidade do ar chega a nível péssimo",
-   "updated_at": "2026-11-19T13:10:16+00:00",
+   "updated_at": "2026-11-20T04:11:39+00:00",
    "url": "https://marioadolfo.com/video-fumaca-encobre-parintins-e-qualidade-do-ar-chega-a-nivel-pessimo/",
    "url_hash": "52f89da676a355ca8725f43f"
   },
   "guid:6afef45352c09500099e3811": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-20T04:12:05+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1545702137580677",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Ação da Polícia Civil cumpre mandados de prisão e busca e apreensão em Manaus, Codajás e Manacapuru",
    "discovered_at": "2026-11-19T13:10:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1545702137580677",
    "formats": [
     "link"
    ],
@@ -29707,11 +29755,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/88c1f846-8d1c-48e2-82cb-ad0c3c98f2fd.jpg",
    "key": "guid:6afef45352c09500099e3811",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1545702137580677"
+   },
    "source_published_at": "2026-11-19T13:07:39+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Operação mira grupo suspeito de transportar sete toneladas de drogas no Amazonas",
-   "updated_at": "2026-11-19T13:10:16+00:00",
+   "updated_at": "2026-11-20T04:12:05+00:00",
    "url": "https://marioadolfo.com/operacao-mira-grupo-suspeito-de-transportar-sete-toneladas-de-drogas-no-amazonas/",
    "url_hash": "16100fe5ece825a467633443"
   },
@@ -30265,8 +30315,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-20T04:00:23+00:00",
-  "saved_at": "2026-11-20T04:02:25+00:00"
+  "last_run_at": "2026-11-20T04:10:14+00:00",
+  "saved_at": "2026-11-20T04:12:05+00:00"
  },
  "schema": 1
 }
