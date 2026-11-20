@@ -30171,12 +30171,12 @@
    "guid": "6aff380052c09500099e39b5",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ebbc9c31-481a-40ee-ae18-a7e70680ba6e.jpg",
    "key": "guid:6aff380052c09500099e39b5",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-19T17:56:17+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Transporte gratuito no fim de semana complementa escala 5x2, diz Lula",
-   "updated_at": "2026-11-19T18:00:22+00:00",
+   "updated_at": "2026-11-20T18:00:22+00:00",
    "url": "https://marioadolfo.com/transporte-gratuito-no-fim-de-semana-complementa-escala-5x2-diz-lula/",
    "url_hash": "dc7bd33b89f7dac5d2368a37"
   },
@@ -30730,8 +30730,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-20T17:50:15+00:00",
-  "saved_at": "2026-11-20T17:50:17+00:00"
+  "last_run_at": "2026-11-20T18:00:21+00:00",
+  "saved_at": "2026-11-20T18:00:22+00:00"
  },
  "schema": 1
 }
