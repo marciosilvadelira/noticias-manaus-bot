@@ -30578,13 +30578,34 @@
    "updated_at": "2026-11-20T13:00:30+00:00",
    "url": "https://marioadolfo.com/caprichoso-recebe-premio-da-aleam-por-valorizacao-da-cultura-negra-e-combate-ao-racismo/",
    "url_hash": "55ebf211e499b30f5a41dbbd"
+  },
+  "guid:6b00447952c09500099e3c4b": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Evento valoriza a cultura dos beiradeiros, a economia criativa e a preservação de uma das principais manifestações culturais do estado",
+   "discovered_at": "2026-11-20T13:10:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b00447952c09500099e3c4b",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2823c012-6745-45fe-be40-b94844786897.jpeg",
+   "key": "guid:6b00447952c09500099e3c4b",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-20T13:02:14+00:00",
+   "status": "pending",
+   "title": "Segunda edição do Festival do Beiradão será lançada nesta segunda-feira no Bar Caldeira",
+   "updated_at": "2026-11-20T13:10:16+00:00",
+   "url": "https://marioadolfo.com/segunda-edicao-do-festival-do-beiradao-sera-lancada-nesta-segunda-feira-no-bar-caldeira/",
+   "url_hash": "c7cd8859ff340d1fc6b64668"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-20T13:00:29+00:00",
-  "saved_at": "2026-11-20T13:00:31+00:00"
+  "last_run_at": "2026-11-20T13:10:16+00:00",
+  "saved_at": "2026-11-20T13:10:18+00:00"
  },
  "schema": 1
 }
