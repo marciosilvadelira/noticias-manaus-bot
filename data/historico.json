@@ -30465,12 +30465,12 @@
    "guid": "6aff4a4d52c09500099e3b88",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/918400da-eebd-4426-81de-24aca7fdae2e.jpg",
    "key": "guid:6aff4a4d52c09500099e3b88",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-19T19:13:57+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "ANPD rejeita recurso do Discord e mantém lives suspensas no país",
-   "updated_at": "2026-11-19T19:20:17+00:00",
+   "updated_at": "2026-11-20T19:20:17+00:00",
    "url": "https://marioadolfo.com/anpd-rejeita-recurso-do-discord-e-mantem-lives-suspensas-no-pais/",
    "url_hash": "bae0d9868373d6e846b8ad3f"
   },
@@ -30730,8 +30730,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-20T19:10:14+00:00",
-  "saved_at": "2026-11-20T19:10:15+00:00"
+  "last_run_at": "2026-11-20T19:20:15+00:00",
+  "saved_at": "2026-11-20T19:20:17+00:00"
  },
  "schema": 1
 }
