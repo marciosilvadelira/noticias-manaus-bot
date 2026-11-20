@@ -30117,6 +30117,48 @@
    "url": "https://marioadolfo.com/tce-am-admite-representacao-da-associacao-amazonense-dos-municipios-sobre-atraso-nos-repasses-do-ftia-conselheira-presidente-do-tribunal-de-contas-do-amazonas-tce-am-yara-amazonia-lins/",
    "url_hash": "52eed3357d35fdd2fb1ad5a2"
   },
+  "guid:6aff366252c09500099e3982": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Unidade fluvial ficará na comunidade Novo Remanso até o dia 25 de novembro",
+   "discovered_at": "2026-11-20T12:10:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aff366252c09500099e3982",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6df1dd01-e728-4b1d-af24-0533e8371531.jpg",
+   "key": "guid:6aff366252c09500099e3982",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-20T12:00:40+00:00",
+   "status": "pending",
+   "title": "Barco Hospital realiza atendimentos em Itacoatiara, a partir desta sexta-feira",
+   "updated_at": "2026-11-20T12:10:15+00:00",
+   "url": "https://marioadolfo.com/barco-hospital-realiza-atendimentos-em-itacoatiara-a-partir-desta-sexta-feira/",
+   "url_hash": "ac322897455f959b76b33dba"
+  },
+  "guid:6aff377d52c09500099e399e": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "O pedido deve ser feito pela Página do Participante, e as novas provas estão marcadas para 15 e 16 de dezembro",
+   "discovered_at": "2026-11-20T12:10:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aff377d52c09500099e399e",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d5c9b6ef-8689-4d0c-a00b-7cab601fa7a7.jpg",
+   "key": "guid:6aff377d52c09500099e399e",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-20T12:05:38+00:00",
+   "status": "pending",
+   "title": "Prazo para pedir reaplicação do Enem 2026 termina nesta sexta-feira (20)",
+   "updated_at": "2026-11-20T12:10:15+00:00",
+   "url": "https://marioadolfo.com/prazo-para-pedir-reaplicacao-do-enem-2026-termina-nesta-sexta-feira-20/",
+   "url_hash": "ead50e2e768e396ea4375001"
+  },
   "guid:6aff380052c09500099e39b5": {
    "attempts": [],
    "category": "Brasil",
@@ -30457,8 +30499,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-20T12:00:25+00:00",
-  "saved_at": "2026-11-20T12:00:26+00:00"
+  "last_run_at": "2026-11-20T12:10:15+00:00",
+  "saved_at": "2026-11-20T12:10:15+00:00"
  },
  "schema": 1
 }
