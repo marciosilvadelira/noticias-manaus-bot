@@ -30725,13 +30725,76 @@
    "updated_at": "2026-11-20T15:30:21+00:00",
    "url": "https://marioadolfo.com/semsa-contra-enfermeiros-para-programa-de-residencia-em-manaus/",
    "url_hash": "cc12f4e00bd75fa00c6e2986"
+  },
+  "guid:6b00884052c09500099e3d1f": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Seven Seas Mariner atracou na manhã desta sexta-feira; Temporada deve movimentar R$ 16,2 milhões no estado",
+   "discovered_at": "2026-11-20T20:50:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b00884052c09500099e3d1f",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6575672a-3670-45f3-af4f-d1540dbac503.jpg",
+   "key": "guid:6b00884052c09500099e3d1f",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-20T20:46:24+00:00",
+   "status": "pending",
+   "title": "Manaus recebe primeiro cruzeiro da temporada com mais de mil turistas a bordo",
+   "updated_at": "2026-11-20T20:50:16+00:00",
+   "url": "https://marioadolfo.com/manaus-recebe-primeiro-cruzeiro-da-temporada-com-mais-de-mil-turistas-a-bordo/",
+   "url_hash": "c1ddfc0af137dd930d4c06f1"
+  },
+  "guid:6b00b0e552c09500099e3d36": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Monólogo dirigido por Miguel Thiré aborda a busca por identidade e os desafios de assumir o protagonismo da própria história",
+   "discovered_at": "2026-11-20T20:50:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b00b0e552c09500099e3d36",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4601274e-c746-4205-b9c1-bbdff6050fd6.jpg",
+   "key": "guid:6b00b0e552c09500099e3d36",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-20T20:44:12+00:00",
+   "status": "pending",
+   "title": "‘O Figurante’: Teatro Amazonas recebe espetáculo com ateus Solano neste fim de semana",
+   "updated_at": "2026-11-20T20:50:16+00:00",
+   "url": "https://marioadolfo.com/o-figurante-teatro-amazonas-recebe-espetaculo-com-ateus-solano-neste-fim-de-semanao-teatro-amazonas-recebe-neste-final-de-semana-21-e-22-11-o-espetaculo-o-figurante-protagonizado-pelo-a/",
+   "url_hash": "ce1cf9f886e7a8060d632748"
+  },
+  "guid:6b00b13352c09500099e3d4a": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Relatos feitos por meio do Disque 100 totalizam 3.270 em 2026",
+   "discovered_at": "2026-11-20T20:50:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b00b13352c09500099e3d4a",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/1f9fcb73-b80e-4820-8113-a9fb60336618.jpg",
+   "key": "guid:6b00b13352c09500099e3d4a",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-20T20:45:34+00:00",
+   "status": "pending",
+   "title": "Denúncias de racismo chegam ao maior número da série histórica",
+   "updated_at": "2026-11-20T20:50:16+00:00",
+   "url": "https://marioadolfo.com/denuncias-de-racismo-chegam-ao-maior-numero-da-serie-historica/",
+   "url_hash": "662e7bf748549e333eba86a2"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-20T20:40:27+00:00",
-  "saved_at": "2026-11-20T20:40:29+00:00"
+  "last_run_at": "2026-11-20T20:50:15+00:00",
+  "saved_at": "2026-11-20T20:50:16+00:00"
  },
  "schema": 1
 }
