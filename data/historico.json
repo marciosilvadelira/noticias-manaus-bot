@@ -30788,13 +30788,55 @@
    "updated_at": "2026-11-20T20:50:16+00:00",
    "url": "https://marioadolfo.com/denuncias-de-racismo-chegam-ao-maior-numero-da-serie-historica/",
    "url_hash": "662e7bf748549e333eba86a2"
+  },
+  "guid:6b00b1ff52c09500099e3d6b": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "A adolescente da etnia Tikuna recebeu atendimento psicológico e foi submetida à escuta especializada",
+   "discovered_at": "2026-11-20T21:00:23+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b00b1ff52c09500099e3d6b",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/7203ed43-4bfc-4b92-8d6a-bc7f4cf7bf78.png",
+   "key": "guid:6b00b1ff52c09500099e3d6b",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-20T20:54:40+00:00",
+   "status": "pending",
+   "title": "Padrasto é preso suspeito de estuprar enteada indígena em Tabatinga",
+   "updated_at": "2026-11-20T21:00:23+00:00",
+   "url": "https://marioadolfo.com/padrasto-e-preso-suspeito-de-estuprar-enteada-indigena-em-tabatinga/",
+   "url_hash": "fdc521eb7c9e62424466967e"
+  },
+  "guid:6b00b20f52c09500099e3d6f": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "O suspeito teria perseguido e ameaçado a vítima após o fim do relacionamento; mulher sofreu fratura grave no pé direito",
+   "discovered_at": "2026-11-20T21:00:23+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b00b20f52c09500099e3d6f",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6c8ae778-1f20-4ea6-b070-b780f3b34a6d.jpeg",
+   "key": "guid:6b00b20f52c09500099e3d6f",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-20T20:51:27+00:00",
+   "status": "pending",
+   "title": "Jovem é preso suspeito de agredir e atropelar ex-companheira em Eirunepé",
+   "updated_at": "2026-11-20T21:00:23+00:00",
+   "url": "https://marioadolfo.com/jovem-e-preso-suspeito-de-agredir-e-atropelar-ex-companheira-em-eirunepe/",
+   "url_hash": "06b94067975291f5d5a87494"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-20T20:50:15+00:00",
-  "saved_at": "2026-11-20T20:50:16+00:00"
+  "last_run_at": "2026-11-20T21:00:22+00:00",
+  "saved_at": "2026-11-20T21:00:23+00:00"
  },
  "schema": 1
 }
