@@ -30599,13 +30599,34 @@
    "updated_at": "2026-11-20T13:10:16+00:00",
    "url": "https://marioadolfo.com/segunda-edicao-do-festival-do-beiradao-sera-lancada-nesta-segunda-feira-no-bar-caldeira/",
    "url_hash": "c7cd8859ff340d1fc6b64668"
+  },
+  "guid:6b00592852c09500099e3c6d": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Presidente do STF atendeu a pedido encaminhado por ministro",
+   "discovered_at": "2026-11-20T14:30:22+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b00592852c09500099e3c6d",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e1b298bc-4f0c-48ee-8d93-4ee48e231a34.webp",
+   "key": "guid:6b00592852c09500099e3c6d",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-20T14:29:54+00:00",
+   "status": "pending",
+   "title": "Fachin manda quebrar sigilo de relatório da PF com menções a Mendonça",
+   "updated_at": "2026-11-20T14:30:22+00:00",
+   "url": "https://marioadolfo.com/fachin-manda-quebrar-sigilo-de-relatorio-da-pf-com-mencoes-a-mendonca-2/",
+   "url_hash": "bd36103d46fea042ca7be3df"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-20T14:20:15+00:00",
-  "saved_at": "2026-11-20T14:20:17+00:00"
+  "last_run_at": "2026-11-20T14:30:22+00:00",
+  "saved_at": "2026-11-20T14:30:23+00:00"
  },
  "schema": 1
 }
