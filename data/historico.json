@@ -30318,12 +30318,12 @@
    "guid": "6aff41d552c09500099e3aa3",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/fd914f14-e3a2-403d-8570-8de345d54bb5.jpeg",
    "key": "guid:6aff41d552c09500099e3aa3",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-19T18:39:21+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Romaria das Águas se torna Patrimônio Cultural Imaterial do Amazonas",
-   "updated_at": "2026-11-19T18:40:16+00:00",
+   "updated_at": "2026-11-20T18:40:17+00:00",
    "url": "https://marioadolfo.com/romaria-das-aguas-se-torna-patrimonio-cultural-imaterial-do-amazonas/",
    "url_hash": "83755a4db6f4e5660ca94e9c"
   },
@@ -30730,8 +30730,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-20T18:30:19+00:00",
-  "saved_at": "2026-11-20T18:30:22+00:00"
+  "last_run_at": "2026-11-20T18:40:15+00:00",
+  "saved_at": "2026-11-20T18:40:18+00:00"
  },
  "schema": 1
 }
