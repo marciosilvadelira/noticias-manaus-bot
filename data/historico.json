@@ -31282,13 +31282,55 @@
    "updated_at": "2026-11-21T17:50:16+00:00",
    "url": "https://marioadolfo.com/dupla-presa-por-trafico-de-drogas-e-lavagem-de-dinheiro-eirunepe/",
    "url_hash": "0ed2dca2ad51f94382a76f8c"
+  },
+  "guid:6b02030e52c09500099e3ee8": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A confusão aconteceu nas proximidades do Park Mall, ao lado do supermercado Assaí e de uma unidade do McDonald’s",
+   "discovered_at": "2026-11-21T20:58:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b02030e52c09500099e3ee8",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0e7f825a-a4f5-4360-a757-34c1ef53c98d.jpg",
+   "key": "guid:6b02030e52c09500099e3ee8",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-21T20:53:17+00:00",
+   "status": "pending",
+   "title": "Vídeo: confusão termina em briga generalizada em posto de Manaus",
+   "updated_at": "2026-11-21T20:58:18+00:00",
+   "url": "https://marioadolfo.com/video-confusao-termina-em-briga-generalizada-em-posto-de-manaus/",
+   "url_hash": "2884a6995b428cd3cbffa287"
+  },
+  "guid:6b02052d52c09500099e3f01": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Não há informações sobre a causa e a quantidade de casas atingidas",
+   "discovered_at": "2026-11-21T20:58:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b02052d52c09500099e3f01",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/7664a190-9410-4b82-a9f8-ce9080d45f6f.png",
+   "key": "guid:6b02052d52c09500099e3f01",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-21T20:58:15+00:00",
+   "status": "pending",
+   "title": "Vídeo: incêndio destrói casas no bairro Cidade de Deus",
+   "updated_at": "2026-11-21T20:58:18+00:00",
+   "url": "https://marioadolfo.com/video-incendio-destroi-casas-no-bairro-cidade-de-deus/",
+   "url_hash": "030606d52b2eb2204ec0de4e"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-21T20:50:15+00:00",
-  "saved_at": "2026-11-21T20:50:17+00:00"
+  "last_run_at": "2026-11-21T20:58:16+00:00",
+  "saved_at": "2026-11-21T20:58:18+00:00"
  },
  "schema": 1
 }
