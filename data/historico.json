@@ -30118,11 +30118,19 @@
    "url_hash": "52eed3357d35fdd2fb1ad5a2"
   },
   "guid:6aff366252c09500099e3982": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-21T04:01:19+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1546784597472431",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Unidade fluvial ficará na comunidade Novo Remanso até o dia 25 de novembro",
    "discovered_at": "2026-11-20T12:10:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1546784597472431",
    "formats": [
     "link"
    ],
@@ -30130,20 +30138,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6df1dd01-e728-4b1d-af24-0533e8371531.jpg",
    "key": "guid:6aff366252c09500099e3982",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1546784597472431"
+   },
    "source_published_at": "2026-11-20T12:00:40+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Barco Hospital realiza atendimentos em Itacoatiara, a partir desta sexta-feira",
-   "updated_at": "2026-11-20T12:10:15+00:00",
+   "updated_at": "2026-11-21T04:01:19+00:00",
    "url": "https://marioadolfo.com/barco-hospital-realiza-atendimentos-em-itacoatiara-a-partir-desta-sexta-feira/",
    "url_hash": "ac322897455f959b76b33dba"
   },
   "guid:6aff377d52c09500099e399e": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-21T04:01:44+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1546785254139032",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "O pedido deve ser feito pela Página do Participante, e as novas provas estão marcadas para 15 e 16 de dezembro",
    "discovered_at": "2026-11-20T12:10:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1546785254139032",
    "formats": [
     "link"
    ],
@@ -30151,11 +30169,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d5c9b6ef-8689-4d0c-a00b-7cab601fa7a7.jpg",
    "key": "guid:6aff377d52c09500099e399e",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1546785254139032"
+   },
    "source_published_at": "2026-11-20T12:05:38+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Prazo para pedir reaplicação do Enem 2026 termina nesta sexta-feira (20)",
-   "updated_at": "2026-11-20T12:10:15+00:00",
+   "updated_at": "2026-11-21T04:01:44+00:00",
    "url": "https://marioadolfo.com/prazo-para-pedir-reaplicacao-do-enem-2026-termina-nesta-sexta-feira-20/",
    "url_hash": "ead50e2e768e396ea4375001"
   },
@@ -30265,11 +30285,19 @@
    "url_hash": "f37c3f8af1080d1ce2f4d220"
   },
   "guid:6aff3e9352c09500099e3a4a": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-21T04:02:10+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1546785694138988",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "A população pode buscar os serviços da Atenção Primária na Unidade de Saúde da Família (USF) Leonor de Freitas e na USF Carmen Nicolau",
    "discovered_at": "2026-11-20T12:50:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1546785694138988",
    "formats": [
     "link"
    ],
@@ -30277,20 +30305,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/817f5f88-c546-413d-bb08-bbe15403a67e.jpg",
    "key": "guid:6aff3e9352c09500099e3a4a",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1546785694138988"
+   },
    "source_published_at": "2026-11-20T12:49:57+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Serviços essenciais em Manaus são mantidos no feriado da Consciência Negra",
-   "updated_at": "2026-11-20T12:50:16+00:00",
+   "updated_at": "2026-11-21T04:02:10+00:00",
    "url": "https://marioadolfo.com/servicos-essenciais-em-manaus-sao-mantidos-no-feriado-da-consciencia-negra/",
    "url_hash": "a090ef34bb55df0fcafb9e21"
   },
   "guid:6aff3f4b52c09500099e3a66": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-21T04:00:28+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1546783944139163",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "As ações de enfrentamento à criminalidade também resultaram na apreensão de 756 armas de fogo entre janeiro e outubro",
    "discovered_at": "2026-11-20T12:00:26+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1546783944139163",
    "formats": [
     "link"
    ],
@@ -30298,11 +30336,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/fafd39eb-9fe7-4796-8c4b-fff7fd868903.jpeg",
    "key": "guid:6aff3f4b52c09500099e3a66",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1546783944139163"
+   },
    "source_published_at": "2026-11-20T12:00:05+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Mais de 26 toneladas de drogas já foram apreendidas no Amazonas em 2026",
-   "updated_at": "2026-11-20T12:00:26+00:00",
+   "updated_at": "2026-11-21T04:00:28+00:00",
    "url": "https://marioadolfo.com/mais-de-26-toneladas-de-drogas-ja-foram-apreendidas-no-amazonas-em-2026/",
    "url_hash": "09e54e074a9ec84e9a8f8fd4"
   },
@@ -30433,11 +30473,19 @@
    "url_hash": "952c6ef3df872bbfd3309469"
   },
   "guid:6aff49be52c09500099e3b6e": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-21T04:00:54+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1546784294139128",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Os serviços serão oferecidos no posto que funcionará na Avenida Arco-Íris, no bairro Porto da Cidade",
    "discovered_at": "2026-11-20T12:00:26+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1546784294139128",
    "formats": [
     "link"
    ],
@@ -30445,11 +30493,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/eaf17279-8861-4aa2-a276-f34d73ee8893.jpeg",
    "key": "guid:6aff49be52c09500099e3b6e",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1546784294139128"
+   },
    "source_published_at": "2026-11-20T12:00:26+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Defensoria inaugura Posto de Atendimento em Urucurituba na segunda-feira",
-   "updated_at": "2026-11-20T12:00:26+00:00",
+   "updated_at": "2026-11-21T04:00:54+00:00",
    "url": "https://marioadolfo.com/defensoria-inaugura-posto-de-atendimento-em-urucurituba-na-segunda-feira/",
    "url_hash": "c7a159fbc17f230bfc9cfaf9"
   },
@@ -30856,8 +30906,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-21T03:50:16+00:00",
-  "saved_at": "2026-11-21T03:50:17+00:00"
+  "last_run_at": "2026-11-21T04:00:21+00:00",
+  "saved_at": "2026-11-21T04:02:10+00:00"
  },
  "schema": 1
 }
