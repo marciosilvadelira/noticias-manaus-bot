@@ -31219,13 +31219,34 @@
    "updated_at": "2026-11-21T15:00:23+00:00",
    "url": "https://marioadolfo.com/bolsonaro-tem-piora-no-estado-de-saude-e-pode-passar-por-cirurgia-diz-carlos/",
    "url_hash": "6e8014168a3651cdea653cf3"
+  },
+  "guid:6b01d3c052c09500099e3e97": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "A droga está avaliada em R$ 960 mil",
+   "discovered_at": "2026-11-21T17:30:25+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b01d3c052c09500099e3e97",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a4ecd147-6d34-44d3-b449-daade6cea1b7.webp",
+   "key": "guid:6b01d3c052c09500099e3e97",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-21T17:29:50+00:00",
+   "status": "pending",
+   "title": "Carga com 48kg de drogas é encontrada em sacas de tucumã em Coari",
+   "updated_at": "2026-11-21T17:30:25+00:00",
+   "url": "https://marioadolfo.com/carga-com-48kg-de-drogas-e-encontrada-em-sacas-de-tucuma-em-coari/",
+   "url_hash": "261e4bb7908b61566d584e5b"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-21T17:20:15+00:00",
-  "saved_at": "2026-11-21T17:20:16+00:00"
+  "last_run_at": "2026-11-21T17:30:24+00:00",
+  "saved_at": "2026-11-21T17:30:25+00:00"
  },
  "schema": 1
 }
