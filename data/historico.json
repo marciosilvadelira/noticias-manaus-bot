@@ -31240,13 +31240,34 @@
    "updated_at": "2026-11-21T17:30:25+00:00",
    "url": "https://marioadolfo.com/carga-com-48kg-de-drogas-e-encontrada-em-sacas-de-tucuma-em-coari/",
    "url_hash": "261e4bb7908b61566d584e5b"
+  },
+  "guid:6b01d5a852c09500099e3eb0": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Presidente defende ajuste fiscal e elogia ministro do Planejamento",
+   "discovered_at": "2026-11-21T17:40:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b01d5a852c09500099e3eb0",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/1b0e3cd2-fa1e-40a8-a436-b3be01c701de.webp",
+   "key": "guid:6b01d5a852c09500099e3eb0",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-21T17:33:49+00:00",
+   "status": "pending",
+   "title": "\"O sistema financeiro não vai me ensinar a dirigir o Brasil\", diz Lula",
+   "updated_at": "2026-11-21T17:40:15+00:00",
+   "url": "https://marioadolfo.com/o-sistema-financeiro-nao-vai-me-ensinar-a-dirigir-o-brasil-diz-lula/",
+   "url_hash": "594de284ec5dd8e524156e94"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-21T17:30:24+00:00",
-  "saved_at": "2026-11-21T17:30:25+00:00"
+  "last_run_at": "2026-11-21T17:40:15+00:00",
+  "saved_at": "2026-11-21T17:40:16+00:00"
  },
  "schema": 1
 }
