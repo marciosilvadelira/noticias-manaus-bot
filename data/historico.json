@@ -31177,13 +31177,55 @@
    "updated_at": "2026-11-21T13:20:21+00:00",
    "url": "https://marioadolfo.com/moraes-vota-para-manter-apreensao-de-passaportes-de-flavio-bolsonaro/",
    "url_hash": "24383b306ff078c2551a3b47"
+  },
+  "guid:6b01af9452c09500099e3e62": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Em Manaus e em municípios do interior do Amazonas, moradores relataram nas redes sociais que sentiram o tremor",
+   "discovered_at": "2026-11-21T15:00:23+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b01af9452c09500099e3e62",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/bc7cbbef-5af4-476f-9b81-3e949a770f23.png",
+   "key": "guid:6b01af9452c09500099e3e62",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-21T14:52:14+00:00",
+   "status": "pending",
+   "title": "Terremoto de magnitude 6,8 no Centro do Peru é sentido em Manaus",
+   "updated_at": "2026-11-21T15:00:23+00:00",
+   "url": "https://marioadolfo.com/terremoto-de-magnitude-6-8-no-centro-do-peru-e-sentido-em-manaus/",
+   "url_hash": "f9a8c9cc34d0f71c5a198d3f"
+  },
+  "guid:6b01b13852c09500099e3e7f": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "O filho do ex-presidente disse que os médicos colocaram sonda que vai do nariz ao estômago do Jair Bolsonaro",
+   "discovered_at": "2026-11-21T15:00:23+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b01b13852c09500099e3e7f",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/dd7937dc-d98f-4beb-b3c5-d9a98cfb9cf6.webp",
+   "key": "guid:6b01b13852c09500099e3e7f",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-21T14:59:17+00:00",
+   "status": "pending",
+   "title": "Bolsonaro tem piora no estado de saúde e pode passar por cirurgia, diz Carlos",
+   "updated_at": "2026-11-21T15:00:23+00:00",
+   "url": "https://marioadolfo.com/bolsonaro-tem-piora-no-estado-de-saude-e-pode-passar-por-cirurgia-diz-carlos/",
+   "url_hash": "6e8014168a3651cdea653cf3"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-21T14:50:24+00:00",
-  "saved_at": "2026-11-21T14:50:26+00:00"
+  "last_run_at": "2026-11-21T15:00:22+00:00",
+  "saved_at": "2026-11-21T15:00:24+00:00"
  },
  "schema": 1
 }
