@@ -31093,13 +31093,55 @@
    "updated_at": "2026-11-21T12:10:16+00:00",
    "url": "https://marioadolfo.com/el-nino-atrasa-chuvas-na-amazonia-e-estiagem-afeta-rios-da-regiao/",
    "url_hash": "99968876c071fbe73c8f5936"
+  },
+  "guid:6b01970152c09500099e3df7": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "projeto leva teatro, circo, dança e oficinas ao município, com apresentações na Praça Municipal Hugo Carlos Frederico e atividades em escolas públicas",
+   "discovered_at": "2026-11-21T13:10:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b01970152c09500099e3df7",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/937e6ebf-276a-44e3-8875-4f094f32b1b5.jpeg",
+   "key": "guid:6b01970152c09500099e3df7",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-21T13:06:44+00:00",
+   "status": "pending",
+   "title": "Virada Amazônica chega a Novo Airão neste domingo com espetáculos gratuitos",
+   "updated_at": "2026-11-21T13:10:16+00:00",
+   "url": "https://marioadolfo.com/virada-amazonica-chega-a-novo-airao-neste-domingo-com-espetaculos-gratuitos/",
+   "url_hash": "7240daa23f4228d79417c396"
+  },
+  "guid:6b01977352c09500099e3e12": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Pela primeira vez, Núcleo de Defesa do Consumidor participa do projeto da Defensoria do Amazonas, que acontece no dia 28 de novembro, no Mercado de Origem",
+   "discovered_at": "2026-11-21T13:10:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b01977352c09500099e3e12",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6236449a-ab94-4447-a701-73a2982a6832.jpeg",
+   "key": "guid:6b01977352c09500099e3e12",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-21T13:08:55+00:00",
+   "status": "pending",
+   "title": "Defensoria oferece atendimento gratuito para dívidas e cobranças indevidas no Centro de Manaus",
+   "updated_at": "2026-11-21T13:10:16+00:00",
+   "url": "https://marioadolfo.com/defensoria-oferece-atendimento-gratuito-para-dividas-e-cobrancas-indevidas-no-centro-de-manaus/",
+   "url_hash": "db9a3fb7bbdfb248ae2a1159"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-21T13:00:19+00:00",
-  "saved_at": "2026-11-21T13:00:21+00:00"
+  "last_run_at": "2026-11-21T13:10:15+00:00",
+  "saved_at": "2026-11-21T13:10:17+00:00"
  },
  "schema": 1
 }
