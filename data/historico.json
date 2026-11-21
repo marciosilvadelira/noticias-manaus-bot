@@ -30545,6 +30545,27 @@
    "url": "https://marioadolfo.com/omar-aziz-defende-uniao-das-forcas-de-seguranca-para-combate-ao-narcotrafico/",
    "url_hash": "9e6e22327abb47b817f2a54a"
   },
+  "guid:6aff576f52c09500099e3bbd": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Dez cursos gratuitos são oferecidos, como de Primeiros Socorros em Condições Adversas e Atualização para Condutores de Ambulância",
+   "discovered_at": "2026-11-21T12:00:20+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aff576f52c09500099e3bbd",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f74672f6-2e9a-4fd0-8be1-5a4aba9508f6.jpeg",
+   "key": "guid:6aff576f52c09500099e3bbd",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-21T12:00:07+00:00",
+   "status": "pending",
+   "title": "Detran-AM oferece 1.180 vagas para cursos presenciais e EaD em dezembro",
+   "updated_at": "2026-11-21T12:00:20+00:00",
+   "url": "https://marioadolfo.com/detran-am-oferece-1-180-vagas-para-cursos-presenciais-e-ead-em-dezembro/",
+   "url_hash": "34e06f5359a23bb4c6aebdd5"
+  },
   "guid:6aff57d052c09500099e3bd3": {
    "attempts": [],
    "category": "Amazonas",
@@ -31056,8 +31077,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-21T11:50:14+00:00",
-  "saved_at": "2026-11-21T11:50:15+00:00"
+  "last_run_at": "2026-11-21T12:00:19+00:00",
+  "saved_at": "2026-11-21T12:00:20+00:00"
  },
  "schema": 1
 }
