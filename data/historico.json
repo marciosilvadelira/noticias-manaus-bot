@@ -31064,12 +31064,12 @@
    "guid": "6b00b49952c09500099e3da0",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/83afdcb5-2b22-4fc3-983b-a8a14d9c28a9.jpg",
    "key": "guid:6b00b49952c09500099e3da0",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-20T21:02:19+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Praia da Ponta Negra é interditada para banho após Rio Negro atingir cota de risco",
-   "updated_at": "2026-11-20T21:10:21+00:00",
+   "updated_at": "2026-11-21T21:10:14+00:00",
    "url": "https://marioadolfo.com/praia-da-ponta-negra-e-interditada-para-banho-apos-rio-negro-atingir-cota-de-risco/",
    "url_hash": "30fd66b3a47b0027f4647e63"
   },
@@ -31324,13 +31324,55 @@
    "updated_at": "2026-11-21T20:58:18+00:00",
    "url": "https://marioadolfo.com/video-incendio-destroi-casas-no-bairro-cidade-de-deus/",
    "url_hash": "030606d52b2eb2204ec0de4e"
+  },
+  "guid:6b0206cb52c09500099e3f2a": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "amplia a capacidade de atendimento e atuação em uma região estratégica da Amazônia Legal.",
+   "discovered_at": "2026-11-21T21:10:14+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b0206cb52c09500099e3f2a",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b7abe01c-e820-4701-b699-4f2c9f2696d8.jpeg",
+   "key": "guid:6b0206cb52c09500099e3f2a",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-21T12:00:00+00:00",
+   "status": "pending",
+   "title": "PF inaugura delegacia em Tefé e fortalece atuação no interior do Amazonas",
+   "updated_at": "2026-11-21T21:10:14+00:00",
+   "url": "https://marioadolfo.com/pf-inaugura-delegacia-em-tefe-e-fortalece-atuacao-no-interior-do-amazonas/",
+   "url_hash": "ae3917299613954e9dd0c1d9"
+  },
+  "guid:6b02082b52c09500099e3f42": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Durante a ação, seis carros abandonados foram retirados da avenida Ajuricaba",
+   "discovered_at": "2026-11-21T21:10:14+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b02082b52c09500099e3f42",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/90d2c05f-8ed0-4081-abe1-a788c8ac71f1.jpeg",
+   "key": "guid:6b02082b52c09500099e3f42",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-21T21:10:03+00:00",
+   "status": "pending",
+   "title": "Operação ‘Sucata’ retira carros abandonados em via do bairro Cachoeirinha",
+   "updated_at": "2026-11-21T21:10:14+00:00",
+   "url": "https://marioadolfo.com/operacao-sucata-retira-carros-abandonados-em-via-do-bairro-cachoeirinha/",
+   "url_hash": "6910b9cd454f5a476e764e78"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-21T21:00:29+00:00",
-  "saved_at": "2026-11-21T21:00:30+00:00"
+  "last_run_at": "2026-11-21T21:10:13+00:00",
+  "saved_at": "2026-11-21T21:10:15+00:00"
  },
  "schema": 1
 }
