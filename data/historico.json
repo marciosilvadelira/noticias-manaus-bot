@@ -31366,13 +31366,34 @@
    "updated_at": "2026-11-21T21:10:14+00:00",
    "url": "https://marioadolfo.com/operacao-sucata-retira-carros-abandonados-em-via-do-bairro-cachoeirinha/",
    "url_hash": "6910b9cd454f5a476e764e78"
+  },
+  "guid:6b020a5452c09500099e3f8b": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Campanha tem como meta alcançar 282.400 animais, sendo 202.400 caninos e 80 mil felinos",
+   "discovered_at": "2026-11-21T21:20:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b020a5452c09500099e3f8b",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/04c13162-7890-4646-b9ec-e94dae9fb9ae.jpg",
+   "key": "guid:6b020a5452c09500099e3f8b",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-21T12:05:00+00:00",
+   "status": "pending",
+   "title": "Vacinação de cães e gatos contra raiva nos bairros de Manaus segue até dia 30",
+   "updated_at": "2026-11-21T21:20:17+00:00",
+   "url": "https://marioadolfo.com/vacinacao-de-caes-e-gatos-contra-raiva-nos-bairros-de-manaus-segue-ate-dia-30/",
+   "url_hash": "3d2698b03d8500287d8962c0"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-21T21:10:13+00:00",
-  "saved_at": "2026-11-21T21:10:15+00:00"
+  "last_run_at": "2026-11-21T21:20:16+00:00",
+  "saved_at": "2026-11-21T21:20:17+00:00"
  },
  "schema": 1
 }
