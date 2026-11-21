@@ -31261,13 +31261,34 @@
    "updated_at": "2026-11-21T17:40:15+00:00",
    "url": "https://marioadolfo.com/o-sistema-financeiro-nao-vai-me-ensinar-a-dirigir-o-brasil-diz-lula/",
    "url_hash": "594de284ec5dd8e524156e94"
+  },
+  "guid:6b01d62252c09500099e3ec5": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Ação resultou na apreensão de um revólver calibre 38, 11 munições e R$ 24 mil em espécie",
+   "discovered_at": "2026-11-21T17:50:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b01d62252c09500099e3ec5",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4b0efde8-fe06-49f6-9288-8c260ae083fe.jpeg",
+   "key": "guid:6b01d62252c09500099e3ec5",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-21T17:44:06+00:00",
+   "status": "pending",
+   "title": "Dupla é presa por tráfico de drogas e à lavagem de dinheiro em Eirunepé",
+   "updated_at": "2026-11-21T17:50:16+00:00",
+   "url": "https://marioadolfo.com/dupla-presa-por-trafico-de-drogas-e-lavagem-de-dinheiro-eirunepe/",
+   "url_hash": "0ed2dca2ad51f94382a76f8c"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-21T17:40:15+00:00",
-  "saved_at": "2026-11-21T17:40:16+00:00"
+  "last_run_at": "2026-11-21T17:50:15+00:00",
+  "saved_at": "2026-11-21T17:50:17+00:00"
  },
  "schema": 1
 }
