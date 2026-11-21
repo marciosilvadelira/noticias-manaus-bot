@@ -30877,11 +30877,19 @@
    "url_hash": "cc12f4e00bd75fa00c6e2986"
   },
   "guid:6b00884052c09500099e3d1f": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-21T04:31:17+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1546804844137073",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Seven Seas Mariner atracou na manhã desta sexta-feira; Temporada deve movimentar R$ 16,2 milhões no estado",
    "discovered_at": "2026-11-20T20:50:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1546804844137073",
    "formats": [
     "link"
    ],
@@ -30889,20 +30897,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6575672a-3670-45f3-af4f-d1540dbac503.jpg",
    "key": "guid:6b00884052c09500099e3d1f",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1546804844137073"
+   },
    "source_published_at": "2026-11-20T20:46:24+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Manaus recebe primeiro cruzeiro da temporada com mais de mil turistas a bordo",
-   "updated_at": "2026-11-20T20:50:16+00:00",
+   "updated_at": "2026-11-21T04:31:17+00:00",
    "url": "https://marioadolfo.com/manaus-recebe-primeiro-cruzeiro-da-temporada-com-mais-de-mil-turistas-a-bordo/",
    "url_hash": "c1ddfc0af137dd930d4c06f1"
   },
   "guid:6b00b0e552c09500099e3d36": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-21T04:30:28+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1546804170803807",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Monólogo dirigido por Miguel Thiré aborda a busca por identidade e os desafios de assumir o protagonismo da própria história",
    "discovered_at": "2026-11-20T20:50:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1546804170803807",
    "formats": [
     "link"
    ],
@@ -30910,20 +30928,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4601274e-c746-4205-b9c1-bbdff6050fd6.jpg",
    "key": "guid:6b00b0e552c09500099e3d36",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1546804170803807"
+   },
    "source_published_at": "2026-11-20T20:44:12+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "‘O Figurante’: Teatro Amazonas recebe espetáculo com ateus Solano neste fim de semana",
-   "updated_at": "2026-11-20T20:50:16+00:00",
+   "updated_at": "2026-11-21T04:30:28+00:00",
    "url": "https://marioadolfo.com/o-figurante-teatro-amazonas-recebe-espetaculo-com-ateus-solano-neste-fim-de-semanao-teatro-amazonas-recebe-neste-final-de-semana-21-e-22-11-o-espetaculo-o-figurante-protagonizado-pelo-a/",
    "url_hash": "ce1cf9f886e7a8060d632748"
   },
   "guid:6b00b13352c09500099e3d4a": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-21T04:30:53+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1546804524137105",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Relatos feitos por meio do Disque 100 totalizam 3.270 em 2026",
    "discovered_at": "2026-11-20T20:50:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1546804524137105",
    "formats": [
     "link"
    ],
@@ -30931,20 +30959,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/1f9fcb73-b80e-4820-8113-a9fb60336618.jpg",
    "key": "guid:6b00b13352c09500099e3d4a",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1546804524137105"
+   },
    "source_published_at": "2026-11-20T20:45:34+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Denúncias de racismo chegam ao maior número da série histórica",
-   "updated_at": "2026-11-20T20:50:16+00:00",
+   "updated_at": "2026-11-21T04:30:53+00:00",
    "url": "https://marioadolfo.com/denuncias-de-racismo-chegam-ao-maior-numero-da-serie-historica/",
    "url_hash": "662e7bf748549e333eba86a2"
   },
   "guid:6b00b1ff52c09500099e3d6b": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-21T04:32:09+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1546805450803679",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "A adolescente da etnia Tikuna recebeu atendimento psicológico e foi submetida à escuta especializada",
    "discovered_at": "2026-11-20T21:00:23+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1546805450803679",
    "formats": [
     "link"
    ],
@@ -30952,20 +30990,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/7203ed43-4bfc-4b92-8d6a-bc7f4cf7bf78.png",
    "key": "guid:6b00b1ff52c09500099e3d6b",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1546805450803679"
+   },
    "source_published_at": "2026-11-20T20:54:40+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Padrasto é preso suspeito de estuprar enteada indígena em Tabatinga",
-   "updated_at": "2026-11-20T21:00:23+00:00",
+   "updated_at": "2026-11-21T04:32:09+00:00",
    "url": "https://marioadolfo.com/padrasto-e-preso-suspeito-de-estuprar-enteada-indigena-em-tabatinga/",
    "url_hash": "fdc521eb7c9e62424466967e"
   },
   "guid:6b00b20f52c09500099e3d6f": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-21T04:31:42+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1546805210803703",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "O suspeito teria perseguido e ameaçado a vítima após o fim do relacionamento; mulher sofreu fratura grave no pé direito",
    "discovered_at": "2026-11-20T21:00:23+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1546805210803703",
    "formats": [
     "link"
    ],
@@ -30973,11 +31021,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6c8ae778-1f20-4ea6-b070-b780f3b34a6d.jpeg",
    "key": "guid:6b00b20f52c09500099e3d6f",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1546805210803703"
+   },
    "source_published_at": "2026-11-20T20:51:27+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Jovem é preso suspeito de agredir e atropelar ex-companheira em Eirunepé",
-   "updated_at": "2026-11-20T21:00:23+00:00",
+   "updated_at": "2026-11-21T04:31:42+00:00",
    "url": "https://marioadolfo.com/jovem-e-preso-suspeito-de-agredir-e-atropelar-ex-companheira-em-eirunepe/",
    "url_hash": "06b94067975291f5d5a87494"
   },
@@ -31006,8 +31056,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-21T04:20:15+00:00",
-  "saved_at": "2026-11-21T04:22:12+00:00"
+  "last_run_at": "2026-11-21T04:30:18+00:00",
+  "saved_at": "2026-11-21T04:32:09+00:00"
  },
  "schema": 1
 }
