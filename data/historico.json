@@ -31135,13 +31135,55 @@
    "updated_at": "2026-11-21T13:10:16+00:00",
    "url": "https://marioadolfo.com/defensoria-oferece-atendimento-gratuito-para-dividas-e-cobrancas-indevidas-no-centro-de-manaus/",
    "url_hash": "db9a3fb7bbdfb248ae2a1159"
+  },
+  "guid:6b01980c52c09500099e3e35": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Com entrada gratuita, novo espetáculo da companhia amazonense propõe uma reflexão sobre os desafios de fazer teatro no Norte do Brasil",
+   "discovered_at": "2026-11-21T13:20:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b01980c52c09500099e3e35",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/65a08d83-86e1-41a0-b0b9-3f9a0d960450.jpeg",
+   "key": "guid:6b01980c52c09500099e3e35",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-21T13:10:58+00:00",
+   "status": "pending",
+   "title": "Ateliê 23 estreia ‘Fértil em Terras Áridas’ nesta terça-feira em sessão única no Teatro Américo Alvarez",
+   "updated_at": "2026-11-21T13:20:21+00:00",
+   "url": "https://marioadolfo.com/atelie-23-estreia-fertil-em-terras-aridas-nesta-terca-feira-em-sessao-unica-no-teatro-americo-alvarez/",
+   "url_hash": "e0fe5e2a811c1ec8856a68af"
+  },
+  "guid:6b01989c52c09500099e3e4d": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Ministro rejeita recurso da defesa contra medidas cautelares impostas",
+   "discovered_at": "2026-11-21T13:20:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b01989c52c09500099e3e4d",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/9242cb52-a186-4649-80f6-99104c359d1c.jpeg",
+   "key": "guid:6b01989c52c09500099e3e4d",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-21T13:13:04+00:00",
+   "status": "pending",
+   "title": "Moraes vota para manter apreensão de passaportes de Flávio Bolsonaro",
+   "updated_at": "2026-11-21T13:20:21+00:00",
+   "url": "https://marioadolfo.com/moraes-vota-para-manter-apreensao-de-passaportes-de-flavio-bolsonaro/",
+   "url_hash": "24383b306ff078c2551a3b47"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-21T13:10:15+00:00",
-  "saved_at": "2026-11-21T13:10:17+00:00"
+  "last_run_at": "2026-11-21T13:20:20+00:00",
+  "saved_at": "2026-11-21T13:20:22+00:00"
  },
  "schema": 1
 }
