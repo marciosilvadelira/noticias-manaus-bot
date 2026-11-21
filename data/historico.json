@@ -30722,11 +30722,19 @@
    "url_hash": "bd36103d46fea042ca7be3df"
   },
   "guid:6b00599452c09500099e3c88": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-21T04:20:29+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1546797580804466",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Os dois trabalhavam como motoristas na loja, localizada no Centro de Manaus, onde cometeram os furtos",
    "discovered_at": "2026-11-20T14:40:21+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1546797580804466",
    "formats": [
     "link"
    ],
@@ -30734,20 +30742,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/8203f6ee-1ab5-48f5-b835-873d51cd6cb7.jpeg",
    "key": "guid:6b00599452c09500099e3c88",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1546797580804466"
+   },
    "source_published_at": "2026-11-20T14:33:09+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Funcionários são presos por roubar café, vinho e atum de loja em Manaus",
-   "updated_at": "2026-11-20T14:40:21+00:00",
+   "updated_at": "2026-11-21T04:20:29+00:00",
    "url": "https://marioadolfo.com/funcionarias/",
    "url_hash": "e8cb4bbc0f6e163449e44181"
   },
   "guid:6b0060bc52c09500099e3c9f": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-21T04:20:54+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1546797857471105",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "A iniciativa prevê atender até 110 eventos gratuitos, realizados entre 18 de janeiro e 10 de março, com oferta de palco, sonorização, iluminação, banheiros químicos e demais estruturas necessárias",
    "discovered_at": "2026-11-20T15:10:20+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1546797857471105",
    "formats": [
     "link"
    ],
@@ -30755,20 +30773,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6e1d2b5e-7f7c-47f7-8198-d88f91577662.jpeg",
    "key": "guid:6b0060bc52c09500099e3c9f",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1546797857471105"
+   },
    "source_published_at": "2026-11-20T15:03:12+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Prefeitura de Manaus lança edital de apoio a bandas e blocos para o Carnaval 2027",
-   "updated_at": "2026-11-20T15:10:20+00:00",
+   "updated_at": "2026-11-21T04:20:54+00:00",
    "url": "https://marioadolfo.com/prefeitura-de-manaus-lanca-edital-de-apoio-a-bandas-e-blocos-para-o-carnaval-2027/",
    "url_hash": "4f2ca130ecf75c37c73182f3"
   },
   "guid:6b0062a152c09500099e3cbb": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-21T04:21:20+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1546798050804419",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "A empresária foi indiciada por publicação e divulgação de violência sexual contra criança ou adolescente, simulação de participação de criança ou adolescente em conteúdo de violência sexual e associação criminosa",
    "discovered_at": "2026-11-20T15:20:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1546798050804419",
    "formats": [
     "link"
    ],
@@ -30776,20 +30804,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a7281d61-3ecb-4a24-8127-ba0990618bfd.jpeg",
    "key": "guid:6b0062a152c09500099e3cbb",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1546798050804419"
+   },
    "source_published_at": "2026-11-20T15:17:55+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "PC-AM indicia Maria do Carmo e outras cinco pessoas por vídeo envolvendo filha de Omar",
-   "updated_at": "2026-11-20T15:20:16+00:00",
+   "updated_at": "2026-11-21T04:21:20+00:00",
    "url": "https://marioadolfo.com/pc-am-indicia-maria-do-carmo-e-outras-cinco-pessoas-por-video-envolvendo-filha-de-omar/",
    "url_hash": "df72c796fe32a74cb5192145"
   },
   "guid:6b0064e452c09500099e3ce9": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-21T04:21:47+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1546798480804376",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Defesa pediu revogação pelo tempo prolongado",
    "discovered_at": "2026-11-20T15:20:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1546798480804376",
    "formats": [
     "link"
    ],
@@ -30797,20 +30835,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/1de7dbc1-5e69-4c4b-8250-940de620ea30.jpg",
    "key": "guid:6b0064e452c09500099e3ce9",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1546798480804376"
+   },
    "source_published_at": "2026-11-20T15:20:06+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Caso Master: Fachin mantém prisão preventiva de Vorcaro",
-   "updated_at": "2026-11-20T15:20:16+00:00",
+   "updated_at": "2026-11-21T04:21:47+00:00",
    "url": "https://marioadolfo.com/caso-master-fachin-mantem-prisao-preventiva-de-vorcaro/",
    "url_hash": "7e875c61996efad81d7f533d"
   },
   "guid:6b00664152c09500099e3d07": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-21T04:22:12+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1546798734137684",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "As inscrições são gratuitas e podem ser feitas das 8h da terça-feira (24/11) pelo site: pss.manaus.am.gov.br",
    "discovered_at": "2026-11-20T15:30:21+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1546798734137684",
    "formats": [
     "link"
    ],
@@ -30818,11 +30866,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4d24897b-5b30-4e54-b191-73c3605e264d.jpeg",
    "key": "guid:6b00664152c09500099e3d07",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1546798734137684"
+   },
    "source_published_at": "2026-11-20T15:27:15+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Semsa contra enfermeiros para Programa de Residência em Manaus",
-   "updated_at": "2026-11-20T15:30:21+00:00",
+   "updated_at": "2026-11-21T04:22:12+00:00",
    "url": "https://marioadolfo.com/semsa-contra-enfermeiros-para-programa-de-residencia-em-manaus/",
    "url_hash": "cc12f4e00bd75fa00c6e2986"
   },
@@ -30956,8 +31006,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-21T04:10:14+00:00",
-  "saved_at": "2026-11-21T04:12:14+00:00"
+  "last_run_at": "2026-11-21T04:20:15+00:00",
+  "saved_at": "2026-11-21T04:22:12+00:00"
  },
  "schema": 1
 }
