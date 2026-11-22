@@ -31839,14 +31839,77 @@
    "updated_at": "2026-11-22T15:30:17+00:00",
    "url": "https://marioadolfo.com/deputada-taliria-petrone-e-ameacada-de-morte-e-violencia-sexual/",
    "url_hash": "24f321e8027906e2dcb72864"
+  },
+  "guid:6b0340ba31292b0008f05005": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Ex-presidente está com diagnóstico de abdômen agudo obstrutivo e clinicamente estável",
+   "discovered_at": "2026-11-22T19:30:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b0340ba31292b0008f05005",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d54f23da-b6f4-491f-9de6-d5c0ce27b874.jpg",
+   "key": "guid:6b0340ba31292b0008f05005",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-22T19:22:50+00:00",
+   "status": "pending",
+   "title": "Bolsonaro segue internado na UTI sem previsão de alta",
+   "updated_at": "2026-11-22T19:30:19+00:00",
+   "url": "https://marioadolfo.com/bolsonaro-segue-internado-na-uti-sem-previsao-de-alta/",
+   "url_hash": "888e9d40898d6f536820c03a"
+  },
+  "guid:6b03412131292b0008f0501a": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Agenda reúne apresentações da Virada Amazônica, lançamento do Festival do Beiradão e estreias de “Terra de Sal” e “Fértil em Terras Áridas”",
+   "discovered_at": "2026-11-22T19:30:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b03412131292b0008f0501a",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5c943730-f097-42cb-b07a-3fbcb3f2cd20.jpeg",
+   "key": "guid:6b03412131292b0008f0501a",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-22T19:26:15+00:00",
+   "status": "pending",
+   "title": "Teatro, circo e música têm programação gratuita em Manaus e Novo Airão",
+   "updated_at": "2026-11-22T19:30:19+00:00",
+   "url": "https://marioadolfo.com/teatro-circo-e-musica-tem-programacao-gratuita-em-manaus-e-novo-airao/",
+   "url_hash": "68b786a97b6e82295af87a84"
+  },
+  "guid:6b03415d31292b0008f0501e": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "O estágio oferece bolsa-auxílio mensal de R$ 1.050,54, além de auxílio-transporte de R$ 220",
+   "discovered_at": "2026-11-22T19:30:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b03415d31292b0008f0501e",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/35987220-3256-4443-a2fb-4bfc9d52eeed.jpeg",
+   "key": "guid:6b03415d31292b0008f0501e",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-22T19:25:04+00:00",
+   "status": "pending",
+   "title": "Defensoria Pública realiza prova de seleção para estágio de Direito em Manaus",
+   "updated_at": "2026-11-22T19:30:19+00:00",
+   "url": "https://marioadolfo.com/defensoria-publica-realiza-prova-de-selecao-para-estagio-de-direito-em-manaus/",
+   "url_hash": "f538cf0922b710cedf146cf4"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-22T19:20:15+00:00",
+  "last_run_at": "2026-11-22T19:30:17+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-22T19:20:16+00:00"
+  "saved_at": "2026-11-22T19:30:19+00:00"
  },
  "schema": 1
 }
