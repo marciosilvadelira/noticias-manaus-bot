@@ -31517,6 +31517,37 @@
    "url": "https://marioadolfo.com/operacao-sucata-retira-carros-abandonados-em-via-do-bairro-cachoeirinha/",
    "url_hash": "6910b9cd454f5a476e764e78"
   },
+  "guid:6b0208d252c09500099e3f5f": {
+   "attempts": [
+    {
+     "at": "2026-11-22T14:30:50+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1548353750648849",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "Complexo turístico receberá, a partir das 18h, apresentação da Orquestra de Câmara, Corpo de Dança de Manaus, chegada do Papai Noel, Parada Natalina, acendimento das luzes e o espetáculo “Uma Noite Encantada de Natal”",
+   "discovered_at": "2026-11-22T14:30:19+00:00",
+   "fb_post_id": "107393769293726_1548353750648849",
+   "formats": [
+    "link"
+   ],
+   "guid": "6b0208d252c09500099e3f5f",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2d92e404-f50b-4a1e-b616-f5f5bf57e686.jpg",
+   "key": "guid:6b0208d252c09500099e3f5f",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1548353750648849"
+   },
+   "source_published_at": "2026-11-22T12:59:25+00:00",
+   "status": "published",
+   "title": "Abertura da temporada natalina em Manaus será hoje, na Ponta Negra",
+   "updated_at": "2026-11-22T14:30:50+00:00",
+   "url": "https://marioadolfo.com/abertura-da-temporada-natalina-em-manaus-sera-neste-domingo-na-ponta-negra/",
+   "url_hash": "822f467b1612c6c7cf603bbd"
+  },
   "guid:6b020a5452c09500099e3f8b": {
    "attempts": [
     {
@@ -31578,14 +31609,97 @@
    "updated_at": "2026-11-22T04:30:49+00:00",
    "url": "https://marioadolfo.com/coje-reelege-juiza-lidia-de-abreu-carvalho-para-presidencia-no-anuenio-2026-2027/",
    "url_hash": "5a1d8a98c31d76686ea03a81"
+  },
+  "guid:6b02494c52c09500099e3fd4": {
+   "attempts": [
+    {
+     "at": "2026-11-22T14:31:13+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1548354107315480",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "Também será instalado um cerquite próximo à faixa de transição entre a areia e a água, para reforçar o isolamento",
+   "discovered_at": "2026-11-22T14:30:19+00:00",
+   "fb_post_id": "107393769293726_1548354107315480",
+   "formats": [
+    "link"
+   ],
+   "guid": "6b02494c52c09500099e3fd4",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/42328694-e141-47a2-9b08-516e5122c158.jpeg",
+   "key": "guid:6b02494c52c09500099e3fd4",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1548354107315480"
+   },
+   "source_published_at": "2026-11-22T12:59:54+00:00",
+   "status": "published",
+   "title": "Praia da Ponta Negra recebe placas de aviso sobre interdição para banho",
+   "updated_at": "2026-11-22T14:31:13+00:00",
+   "url": "https://marioadolfo.com/praia-da-ponta-negra-recebe-placas-de-aviso-sobre-interdicao-para-banho/",
+   "url_hash": "647b66fe684a7f57ff80d1b4"
+  },
+  "guid:6b02e60b52c09500099e3ff4": {
+   "attempts": [
+    {
+     "at": "2026-11-22T14:30:24+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1548353283982229",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Parintins",
+   "description": "O campeão da Amazônia exibiu um compacto do espetáculo apresentado no Festival de Parintins e encantou o público internacional",
+   "discovered_at": "2026-11-22T14:30:19+00:00",
+   "fb_post_id": "107393769293726_1548353283982229",
+   "formats": [
+    "link"
+   ],
+   "guid": "6b02e60b52c09500099e3ff4",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f5ca93ce-bda2-4849-8a44-44992954212f.jpeg",
+   "key": "guid:6b02e60b52c09500099e3ff4",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1548353283982229"
+   },
+   "source_published_at": "2026-11-22T12:58:28+00:00",
+   "status": "published",
+   "title": "Espetáculo do Boi Caprichoso encanta turistas norte-americanos e ingleses",
+   "updated_at": "2026-11-22T14:30:24+00:00",
+   "url": "https://marioadolfo.com/espetaculo-do-boi-caprichoso-encanta-turistas-norte-americanos-e-ingleses/",
+   "url_hash": "be3f4f2e06a68e37362b5929"
+  },
+  "guid:6b02f74e31292b0008f04f0e": {
+   "attempts": [],
+   "category": "Dito & Feito",
+   "description": "Eduardo Braga rebate Rogério Marinho e lembra que o governo anterior deixou uma “bucha” de quase R$ 30 bilhões nas mãos dos governadores estaduais por causa das perdas de arrecadação do ICMS.",
+   "discovered_at": "2026-11-22T14:30:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b02f74e31292b0008f04f0e",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c39d0772-4941-4baa-a840-7d78b1f5f8f5.jpg",
+   "key": "guid:6b02f74e31292b0008f04f0e",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-22T14:17:04+00:00",
+   "status": "pending",
+   "title": "Dito & Feito - Quem deu calote de R$ 30 bilhões?",
+   "updated_at": "2026-11-22T14:30:19+00:00",
+   "url": "https://marioadolfo.com/dito-feito-quem-deu-calote-de-r-30-bilhoes/",
+   "url_hash": "4462d8b751c6759ac6dfbdad"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
-  "consecutive_source_failures": 18,
-  "last_run_at": "2026-11-22T14:20:14+00:00",
+  "consecutive_source_failures": 0,
+  "last_run_at": "2026-11-22T14:30:18+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-22T14:20:20+00:00"
+  "saved_at": "2026-11-22T14:31:13+00:00"
  },
  "schema": 1
 }
