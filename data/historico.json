@@ -31692,14 +31692,35 @@
    "updated_at": "2026-11-22T14:30:19+00:00",
    "url": "https://marioadolfo.com/dito-feito-quem-deu-calote-de-r-30-bilhoes/",
    "url_hash": "4462d8b751c6759ac6dfbdad"
+  },
+  "guid:6b03005631292b0008f04f43": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Nesta etapa, as equipes executam a aplicação dos lábios poliméricos e das borrachas elastoméricas",
+   "discovered_at": "2026-11-22T14:50:20+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b03005631292b0008f04f43",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b5e6ee8f-b371-4be0-995e-ba7e54eadf3d.jpg",
+   "key": "guid:6b03005631292b0008f04f43",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-22T14:48:25+00:00",
+   "status": "pending",
+   "title": "Viaduto Ayrton Senna recebe manutenção das juntas de dilatação",
+   "updated_at": "2026-11-22T14:50:20+00:00",
+   "url": "https://marioadolfo.com/viaduto-ayrton-senna-recebe-manutencao-das-juntas-de-dilatacao/",
+   "url_hash": "632b2f1e1efe91d8a94f745b"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-22T14:40:14+00:00",
+  "last_run_at": "2026-11-22T14:50:19+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-22T14:40:15+00:00"
+  "saved_at": "2026-11-22T14:50:20+00:00"
  },
  "schema": 1
 }
