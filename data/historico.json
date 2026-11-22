@@ -31301,11 +31301,19 @@
    "url_hash": "6e8014168a3651cdea653cf3"
   },
   "guid:6b01d3c052c09500099e3e97": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-22T04:20:21+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1547861110698113",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "A droga está avaliada em R$ 960 mil",
    "discovered_at": "2026-11-21T17:30:25+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1547861110698113",
    "formats": [
     "link"
    ],
@@ -31313,20 +31321,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a4ecd147-6d34-44d3-b449-daade6cea1b7.webp",
    "key": "guid:6b01d3c052c09500099e3e97",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1547861110698113"
+   },
    "source_published_at": "2026-11-21T17:29:50+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Carga com 48kg de drogas é encontrada em sacas de tucumã em Coari",
-   "updated_at": "2026-11-21T17:30:25+00:00",
+   "updated_at": "2026-11-22T04:20:21+00:00",
    "url": "https://marioadolfo.com/carga-com-48kg-de-drogas-e-encontrada-em-sacas-de-tucuma-em-coari/",
    "url_hash": "261e4bb7908b61566d584e5b"
   },
   "guid:6b01d5a852c09500099e3eb0": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-22T04:20:48+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1547861334031424",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Presidente defende ajuste fiscal e elogia ministro do Planejamento",
    "discovered_at": "2026-11-21T17:40:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1547861334031424",
    "formats": [
     "link"
    ],
@@ -31334,20 +31352,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/1b0e3cd2-fa1e-40a8-a436-b3be01c701de.webp",
    "key": "guid:6b01d5a852c09500099e3eb0",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1547861334031424"
+   },
    "source_published_at": "2026-11-21T17:33:49+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "\"O sistema financeiro não vai me ensinar a dirigir o Brasil\", diz Lula",
-   "updated_at": "2026-11-21T17:40:15+00:00",
+   "updated_at": "2026-11-22T04:20:48+00:00",
    "url": "https://marioadolfo.com/o-sistema-financeiro-nao-vai-me-ensinar-a-dirigir-o-brasil-diz-lula/",
    "url_hash": "594de284ec5dd8e524156e94"
   },
   "guid:6b01d62252c09500099e3ec5": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-22T04:21:13+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1547861644031393",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Ação resultou na apreensão de um revólver calibre 38, 11 munições e R$ 24 mil em espécie",
    "discovered_at": "2026-11-21T17:50:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1547861644031393",
    "formats": [
     "link"
    ],
@@ -31355,20 +31383,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4b0efde8-fe06-49f6-9288-8c260ae083fe.jpeg",
    "key": "guid:6b01d62252c09500099e3ec5",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1547861644031393"
+   },
    "source_published_at": "2026-11-21T17:44:06+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Dupla é presa por tráfico de drogas e à lavagem de dinheiro em Eirunepé",
-   "updated_at": "2026-11-21T17:50:16+00:00",
+   "updated_at": "2026-11-22T04:21:13+00:00",
    "url": "https://marioadolfo.com/dupla-presa-por-trafico-de-drogas-e-lavagem-de-dinheiro-eirunepe/",
    "url_hash": "0ed2dca2ad51f94382a76f8c"
   },
   "guid:6b02030e52c09500099e3ee8": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-22T04:21:39+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1547862007364690",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "A confusão aconteceu nas proximidades do Park Mall, ao lado do supermercado Assaí e de uma unidade do McDonald’s",
    "discovered_at": "2026-11-21T20:58:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1547862007364690",
    "formats": [
     "link"
    ],
@@ -31376,20 +31414,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0e7f825a-a4f5-4360-a757-34c1ef53c98d.jpg",
    "key": "guid:6b02030e52c09500099e3ee8",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1547862007364690"
+   },
    "source_published_at": "2026-11-21T20:53:17+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Vídeo: confusão termina em briga generalizada em posto de Manaus",
-   "updated_at": "2026-11-21T20:58:18+00:00",
+   "updated_at": "2026-11-22T04:21:39+00:00",
    "url": "https://marioadolfo.com/video-confusao-termina-em-briga-generalizada-em-posto-de-manaus/",
    "url_hash": "2884a6995b428cd3cbffa287"
   },
   "guid:6b02052d52c09500099e3f01": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-22T04:22:07+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1547862317364659",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Não há informações sobre a causa e a quantidade de casas atingidas",
    "discovered_at": "2026-11-21T20:58:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1547862317364659",
    "formats": [
     "link"
    ],
@@ -31397,11 +31445,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/7664a190-9410-4b82-a9f8-ce9080d45f6f.png",
    "key": "guid:6b02052d52c09500099e3f01",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1547862317364659"
+   },
    "source_published_at": "2026-11-21T20:58:15+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Vídeo: incêndio destrói casas no bairro Cidade de Deus",
-   "updated_at": "2026-11-21T20:58:18+00:00",
+   "updated_at": "2026-11-22T04:22:07+00:00",
    "url": "https://marioadolfo.com/video-incendio-destroi-casas-no-bairro-cidade-de-deus/",
    "url_hash": "030606d52b2eb2204ec0de4e"
   },
@@ -31513,8 +31563,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-22T04:10:14+00:00",
-  "saved_at": "2026-11-22T04:12:05+00:00"
+  "last_run_at": "2026-11-22T04:20:14+00:00",
+  "saved_at": "2026-11-22T04:22:07+00:00"
  },
  "schema": 1
 }
