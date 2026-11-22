@@ -31487,11 +31487,19 @@
    "url_hash": "ae3917299613954e9dd0c1d9"
   },
   "guid:6b02082b52c09500099e3f42": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-22T04:30:25+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1547869724030585",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Durante a ação, seis carros abandonados foram retirados da avenida Ajuricaba",
    "discovered_at": "2026-11-21T21:10:14+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1547869724030585",
    "formats": [
     "link"
    ],
@@ -31499,11 +31507,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/90d2c05f-8ed0-4081-abe1-a788c8ac71f1.jpeg",
    "key": "guid:6b02082b52c09500099e3f42",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1547869724030585"
+   },
    "source_published_at": "2026-11-21T21:10:03+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Operação ‘Sucata’ retira carros abandonados em via do bairro Cachoeirinha",
-   "updated_at": "2026-11-21T21:10:14+00:00",
+   "updated_at": "2026-11-22T04:30:25+00:00",
    "url": "https://marioadolfo.com/operacao-sucata-retira-carros-abandonados-em-via-do-bairro-cachoeirinha/",
    "url_hash": "6910b9cd454f5a476e764e78"
   },
@@ -31539,11 +31549,19 @@
    "url_hash": "3d2698b03d8500287d8962c0"
   },
   "guid:6b02234152c09500099e3fae": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-22T04:30:49+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1547870030697221",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Ouvidora da Mulher do TRE-AM foi escolhida por aclamação, em votação unânime, e ficará à frente do Colégio pela terceira vez consecutiva",
    "discovered_at": "2026-11-21T23:10:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1547870030697221",
    "formats": [
     "link"
    ],
@@ -31551,11 +31569,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b6bfb9ad-9ce7-412c-aa09-b819f1591e95.jpg",
    "key": "guid:6b02234152c09500099e3fae",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1547870030697221"
+   },
    "source_published_at": "2026-11-21T23:05:28+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "COJE reelege juíza Lídia de Abreu Carvalho para presidência no anuênio 2026/2027",
-   "updated_at": "2026-11-21T23:10:15+00:00",
+   "updated_at": "2026-11-22T04:30:49+00:00",
    "url": "https://marioadolfo.com/coje-reelege-juiza-lidia-de-abreu-carvalho-para-presidencia-no-anuenio-2026-2027/",
    "url_hash": "5a1d8a98c31d76686ea03a81"
   }
@@ -31563,8 +31583,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-22T04:20:14+00:00",
-  "saved_at": "2026-11-22T04:22:07+00:00"
+  "last_run_at": "2026-11-22T04:30:19+00:00",
+  "saved_at": "2026-11-22T04:30:49+00:00"
  },
  "schema": 1
 }
