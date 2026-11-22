@@ -31965,14 +31965,35 @@
    "updated_at": "2026-11-22T19:50:14+00:00",
    "url": "https://marioadolfo.com/estiagem-numero-de-municipios-em-emergencia-sobe-para-54-no-amazonas/",
    "url_hash": "22afd0368d4964073214b792"
+  },
+  "guid:6b03475e31292b0008f0509a": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A programada estava marcada para este domingo (22/11). Qualidade do ar está atualmente classificada como ruim",
+   "discovered_at": "2026-11-22T20:00:20+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b03475e31292b0008f0509a",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/dedb72d0-ba49-4491-953a-70456591df2a.jpg",
+   "key": "guid:6b03475e31292b0008f0509a",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-22T19:56:54+00:00",
+   "status": "pending",
+   "title": "Qualidade do ar leva Prefeitura a cancelar abertura do Natal na Ponta Negra",
+   "updated_at": "2026-11-22T20:00:20+00:00",
+   "url": "https://marioadolfo.com/qualidade-do-ar-leva-prefeitura-a-cancelar-abertura-do-natal-na-ponta-negra/",
+   "url_hash": "4cb16da0d7a722d45d7974aa"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-22T19:50:14+00:00",
+  "last_run_at": "2026-11-22T20:00:19+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-22T19:50:14+00:00"
+  "saved_at": "2026-11-22T20:00:21+00:00"
  },
  "schema": 1
 }
