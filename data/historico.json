@@ -31776,14 +31776,56 @@
    "updated_at": "2026-11-22T15:10:15+00:00",
    "url": "https://marioadolfo.com/mais-de-cinco-toneladas-de-skunk-sao-apreendidas-em-sao-gabriel-da-cachoeira/",
    "url_hash": "51b36ffe9df42fa96b6119ab"
+  },
+  "guid:6b0305f431292b0008f04fb2": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "A vítima caminhava pela rua Itacoatiara, quando foi surpreendida por dois homens e alvejada por três disparos",
+   "discovered_at": "2026-11-22T15:20:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b0305f431292b0008f04fb2",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2be9ff54-878b-4062-b976-f368b19a23b7.jpg",
+   "key": "guid:6b0305f431292b0008f04fb2",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-22T15:10:00+00:00",
+   "status": "pending",
+   "title": "'Neguinho' é executado a tiros em rua de Manacapuru",
+   "updated_at": "2026-11-22T15:20:15+00:00",
+   "url": "https://marioadolfo.com/neguinho-e-executado-a-tiros-em-rua-de-manacapuru/",
+   "url_hash": "09654e1ec9bf50a4136d14c7"
+  },
+  "guid:6b03071c31292b0008f04fcd": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "População em situação de vulnerabilidade social pode solicitar gratuitamente a segunda via de certidões de nascimento, casamento e óbito",
+   "discovered_at": "2026-11-22T15:20:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b03071c31292b0008f04fcd",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4796515b-38f1-4310-8721-f54e11bde4fa.jpeg",
+   "key": "guid:6b03071c31292b0008f04fcd",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-22T15:17:46+00:00",
+   "status": "pending",
+   "title": "Veja como como tirar segunda via de certidões sem custo em Manaus",
+   "updated_at": "2026-11-22T15:20:15+00:00",
+   "url": "https://marioadolfo.com/veja-como-como-tirar-segunda-via-de-certidoes-sem-custo-em-manaus/",
+   "url_hash": "610ca3ff637b40cc124f302c"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-22T15:10:15+00:00",
+  "last_run_at": "2026-11-22T15:20:15+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-22T15:10:16+00:00"
+  "saved_at": "2026-11-22T15:20:16+00:00"
  },
  "schema": 1
 }
