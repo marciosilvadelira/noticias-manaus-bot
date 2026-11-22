@@ -31146,11 +31146,19 @@
    "url_hash": "7240daa23f4228d79417c396"
   },
   "guid:6b01977352c09500099e3e12": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-22T04:10:21+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1547852937365597",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Pela primeira vez, Núcleo de Defesa do Consumidor participa do projeto da Defensoria do Amazonas, que acontece no dia 28 de novembro, no Mercado de Origem",
    "discovered_at": "2026-11-21T13:10:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1547852937365597",
    "formats": [
     "link"
    ],
@@ -31158,20 +31166,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6236449a-ab94-4447-a701-73a2982a6832.jpeg",
    "key": "guid:6b01977352c09500099e3e12",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1547852937365597"
+   },
    "source_published_at": "2026-11-21T13:08:55+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Defensoria oferece atendimento gratuito para dívidas e cobranças indevidas no Centro de Manaus",
-   "updated_at": "2026-11-21T13:10:16+00:00",
+   "updated_at": "2026-11-22T04:10:21+00:00",
    "url": "https://marioadolfo.com/defensoria-oferece-atendimento-gratuito-para-dividas-e-cobrancas-indevidas-no-centro-de-manaus/",
    "url_hash": "db9a3fb7bbdfb248ae2a1159"
   },
   "guid:6b01980c52c09500099e3e35": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-22T04:10:47+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1547853177365573",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Com entrada gratuita, novo espetáculo da companhia amazonense propõe uma reflexão sobre os desafios de fazer teatro no Norte do Brasil",
    "discovered_at": "2026-11-21T13:20:21+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1547853177365573",
    "formats": [
     "link"
    ],
@@ -31179,20 +31197,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/65a08d83-86e1-41a0-b0b9-3f9a0d960450.jpeg",
    "key": "guid:6b01980c52c09500099e3e35",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1547853177365573"
+   },
    "source_published_at": "2026-11-21T13:10:58+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Ateliê 23 estreia ‘Fértil em Terras Áridas’ nesta terça-feira em sessão única no Teatro Américo Alvarez",
-   "updated_at": "2026-11-21T13:20:21+00:00",
+   "updated_at": "2026-11-22T04:10:47+00:00",
    "url": "https://marioadolfo.com/atelie-23-estreia-fertil-em-terras-aridas-nesta-terca-feira-em-sessao-unica-no-teatro-americo-alvarez/",
    "url_hash": "e0fe5e2a811c1ec8856a68af"
   },
   "guid:6b01989c52c09500099e3e4d": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-22T04:11:13+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1547853464032211",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Ministro rejeita recurso da defesa contra medidas cautelares impostas",
    "discovered_at": "2026-11-21T13:20:21+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1547853464032211",
    "formats": [
     "link"
    ],
@@ -31200,20 +31228,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/9242cb52-a186-4649-80f6-99104c359d1c.jpeg",
    "key": "guid:6b01989c52c09500099e3e4d",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1547853464032211"
+   },
    "source_published_at": "2026-11-21T13:13:04+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Moraes vota para manter apreensão de passaportes de Flávio Bolsonaro",
-   "updated_at": "2026-11-21T13:20:21+00:00",
+   "updated_at": "2026-11-22T04:11:13+00:00",
    "url": "https://marioadolfo.com/moraes-vota-para-manter-apreensao-de-passaportes-de-flavio-bolsonaro/",
    "url_hash": "24383b306ff078c2551a3b47"
   },
   "guid:6b01af9452c09500099e3e62": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-22T04:11:39+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1547853740698850",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Em Manaus e em municípios do interior do Amazonas, moradores relataram nas redes sociais que sentiram o tremor",
    "discovered_at": "2026-11-21T15:00:23+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1547853740698850",
    "formats": [
     "link"
    ],
@@ -31221,20 +31259,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/bc7cbbef-5af4-476f-9b81-3e949a770f23.png",
    "key": "guid:6b01af9452c09500099e3e62",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1547853740698850"
+   },
    "source_published_at": "2026-11-21T14:52:14+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Terremoto de magnitude 6,8 no Centro do Peru é sentido em Manaus",
-   "updated_at": "2026-11-21T15:00:23+00:00",
+   "updated_at": "2026-11-22T04:11:39+00:00",
    "url": "https://marioadolfo.com/terremoto-de-magnitude-6-8-no-centro-do-peru-e-sentido-em-manaus/",
    "url_hash": "f9a8c9cc34d0f71c5a198d3f"
   },
   "guid:6b01b13852c09500099e3e7f": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-22T04:12:05+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1547854090698815",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "O filho do ex-presidente disse que os médicos colocaram sonda que vai do nariz ao estômago do Jair Bolsonaro",
    "discovered_at": "2026-11-21T15:00:23+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1547854090698815",
    "formats": [
     "link"
    ],
@@ -31242,11 +31290,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/dd7937dc-d98f-4beb-b3c5-d9a98cfb9cf6.webp",
    "key": "guid:6b01b13852c09500099e3e7f",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1547854090698815"
+   },
    "source_published_at": "2026-11-21T14:59:17+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Bolsonaro tem piora no estado de saúde e pode passar por cirurgia, diz Carlos",
-   "updated_at": "2026-11-21T15:00:23+00:00",
+   "updated_at": "2026-11-22T04:12:05+00:00",
    "url": "https://marioadolfo.com/bolsonaro-tem-piora-no-estado-de-saude-e-pode-passar-por-cirurgia-diz-carlos/",
    "url_hash": "6e8014168a3651cdea653cf3"
   },
@@ -31463,8 +31513,8 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-22T04:00:20+00:00",
-  "saved_at": "2026-11-22T04:02:11+00:00"
+  "last_run_at": "2026-11-22T04:10:14+00:00",
+  "saved_at": "2026-11-22T04:12:05+00:00"
  },
  "schema": 1
 }
