@@ -31902,14 +31902,56 @@
    "updated_at": "2026-11-22T19:30:19+00:00",
    "url": "https://marioadolfo.com/defensoria-publica-realiza-prova-de-selecao-para-estagio-de-direito-em-manaus/",
    "url_hash": "f538cf0922b710cedf146cf4"
+  },
+  "guid:6b03421231292b0008f05043": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Durante a ação, policiais apreenderam cinco aparelhos celulares",
+   "discovered_at": "2026-11-22T19:40:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b03421231292b0008f05043",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b3d94974-ac35-4030-b4fe-de6ad5c530c7.jpeg",
+   "key": "guid:6b03421231292b0008f05043",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-22T19:30:37+00:00",
+   "status": "pending",
+   "title": "Homem é preso com três armas artesanais e cinco celulares em Itamarati",
+   "updated_at": "2026-11-22T19:40:15+00:00",
+   "url": "https://marioadolfo.com/homem-e-preso-com-tres-armas-artesanais-e-cinco-celulares-em-itamarati/",
+   "url_hash": "74af8978525a0f4f1ba34b82"
+  },
+  "guid:6b0342f731292b0008f0505a": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A obra obras já conta com o rejuntamento da pedra São Tomé utilizada no calçamento",
+   "discovered_at": "2026-11-22T19:40:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b0342f731292b0008f0505a",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/23e1b949-6a88-4bb1-affb-8d761b637121.jpg",
+   "key": "guid:6b0342f731292b0008f0505a",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-22T19:33:55+00:00",
+   "status": "pending",
+   "title": "Pedras portuguesas de lioz vão compor calçada da rua gastronômica de Manaus",
+   "updated_at": "2026-11-22T19:40:15+00:00",
+   "url": "https://marioadolfo.com/pedras-portuguesas-de-lioz-vao-compor-calcada-da-rua-gastronomica-de-manaus/",
+   "url_hash": "5fed8de31f5c17b7bf0e40a0"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-22T19:30:17+00:00",
+  "last_run_at": "2026-11-22T19:40:14+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-22T19:30:19+00:00"
+  "saved_at": "2026-11-22T19:40:15+00:00"
  },
  "schema": 1
 }
