@@ -31944,14 +31944,35 @@
    "updated_at": "2026-11-22T19:40:15+00:00",
    "url": "https://marioadolfo.com/pedras-portuguesas-de-lioz-vao-compor-calcada-da-rua-gastronomica-de-manaus/",
    "url_hash": "5fed8de31f5c17b7bf0e40a0"
+  },
+  "guid:6b0344af31292b0008f05073": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Estiagem já afeta 169.733 famílias em todo o estado. A cota atual do Rio Negro é de 15,86 metros",
+   "discovered_at": "2026-11-22T19:50:14+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b0344af31292b0008f05073",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d4ea6a51-c890-4e5c-9424-453f632be572.jpg",
+   "key": "guid:6b0344af31292b0008f05073",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-22T19:46:56+00:00",
+   "status": "pending",
+   "title": "Estiagem: número de municípios em emergência sobe para 54 no Amazonas",
+   "updated_at": "2026-11-22T19:50:14+00:00",
+   "url": "https://marioadolfo.com/estiagem-numero-de-municipios-em-emergencia-sobe-para-54-no-amazonas/",
+   "url_hash": "22afd0368d4964073214b792"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-22T19:40:14+00:00",
+  "last_run_at": "2026-11-22T19:50:14+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-22T19:40:15+00:00"
+  "saved_at": "2026-11-22T19:50:14+00:00"
  },
  "schema": 1
 }
