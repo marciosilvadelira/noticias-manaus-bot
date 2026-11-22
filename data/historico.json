@@ -31818,14 +31818,35 @@
    "updated_at": "2026-11-22T15:20:15+00:00",
    "url": "https://marioadolfo.com/veja-como-como-tirar-segunda-via-de-certidoes-sem-custo-em-manaus/",
    "url_hash": "610ca3ff637b40cc124f302c"
+  },
+  "guid:6b0307e631292b0008f04fe9": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Mensagem é assinada por alguém que se diz neofascista",
+   "discovered_at": "2026-11-22T15:30:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b0307e631292b0008f04fe9",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4863c21a-6ea7-4572-a847-6187615033b3.jpg",
+   "key": "guid:6b0307e631292b0008f04fe9",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-22T13:00:00+00:00",
+   "status": "pending",
+   "title": "Deputada Talíria Petrone é ameaçada de morte e violência sexual",
+   "updated_at": "2026-11-22T15:30:17+00:00",
+   "url": "https://marioadolfo.com/deputada-taliria-petrone-e-ameacada-de-morte-e-violencia-sexual/",
+   "url_hash": "24f321e8027906e2dcb72864"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-22T15:20:15+00:00",
+  "last_run_at": "2026-11-22T15:30:17+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-22T15:20:16+00:00"
+  "saved_at": "2026-11-22T15:30:18+00:00"
  },
  "schema": 1
 }
