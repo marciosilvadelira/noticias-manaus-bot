@@ -31582,10 +31582,10 @@
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
-  "consecutive_source_failures": 9,
-  "last_run_at": "2026-11-22T12:50:14+00:00",
+  "consecutive_source_failures": 10,
+  "last_run_at": "2026-11-22T13:00:18+00:00",
   "last_source_error": "Fonte indisponível (https://marioadolfo.com/latest/rss/): erro de rede: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1011)",
-  "saved_at": "2026-11-22T12:50:21+00:00"
+  "saved_at": "2026-11-22T13:00:25+00:00"
  },
  "schema": 1
 }
