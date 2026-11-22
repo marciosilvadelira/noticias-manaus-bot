@@ -31713,14 +31713,77 @@
    "updated_at": "2026-11-22T14:50:20+00:00",
    "url": "https://marioadolfo.com/viaduto-ayrton-senna-recebe-manutencao-das-juntas-de-dilatacao/",
    "url_hash": "632b2f1e1efe91d8a94f745b"
+  },
+  "guid:6b03028c31292b0008f04f5a": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Partes do corpo da vítima ficaram espalhadas na via. Suspeita é de que o motociclista tenha invadido a contramão e batido no carro de uma família",
+   "discovered_at": "2026-11-22T15:10:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b03028c31292b0008f04f5a",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/64abf12d-6815-4ffa-8d81-12759f5116fe.webp",
+   "key": "guid:6b03028c31292b0008f04f5a",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-22T15:00:36+00:00",
+   "status": "pending",
+   "title": "Vídeo: motociclista tem corpo despedaçado em grave acidente na AM-070",
+   "updated_at": "2026-11-22T15:10:15+00:00",
+   "url": "https://marioadolfo.com/video-motociclista-tem-corpo-despedacado-em-grave-acidente-na-am-070/",
+   "url_hash": "0295758e62ec537b78ac15e9"
+  },
+  "guid:6b0303c931292b0008f04f74": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "A ocorrência foi atendida por policiais militares do 10º Grupamento de Polícia Militar do Amazonas",
+   "discovered_at": "2026-11-22T15:10:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b0303c931292b0008f04f74",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/79c91187-1af6-468e-935b-e98dc3b6f0e3.jpg",
+   "key": "guid:6b0303c931292b0008f04f74",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-22T15:04:23+00:00",
+   "status": "pending",
+   "title": "Corpo é encontrado em lamaçal na zona rural de Envira",
+   "updated_at": "2026-11-22T15:10:15+00:00",
+   "url": "https://marioadolfo.com/corpo-e-encontrado-em-lamacal-na-zona-rural-de-envira/",
+   "url_hash": "e4c85719902862b10f760a79"
+  },
+  "guid:6b03049231292b0008f04f8e": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "A operação do Exército também resultou na prisão de cinco suspeitos, sendo três brasileiros, um colombiano e um venezuelano",
+   "discovered_at": "2026-11-22T15:10:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b03049231292b0008f04f8e",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6b76a319-0a81-47f6-8229-5c68716d3972.jpg",
+   "key": "guid:6b03049231292b0008f04f8e",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-22T15:08:46+00:00",
+   "status": "pending",
+   "title": "Mais de cinco toneladas de skunk são apreendidas em São Gabriel da Cachoeira",
+   "updated_at": "2026-11-22T15:10:15+00:00",
+   "url": "https://marioadolfo.com/mais-de-cinco-toneladas-de-skunk-sao-apreendidas-em-sao-gabriel-da-cachoeira/",
+   "url_hash": "51b36ffe9df42fa96b6119ab"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-22T15:00:26+00:00",
+  "last_run_at": "2026-11-22T15:10:15+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-22T15:00:26+00:00"
+  "saved_at": "2026-11-22T15:10:16+00:00"
  },
  "schema": 1
 }
