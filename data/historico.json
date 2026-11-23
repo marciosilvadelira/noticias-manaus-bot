@@ -32459,14 +32459,35 @@
    "updated_at": "2026-11-23T15:10:18+00:00",
    "url": "https://marioadolfo.com/pc-am-contabiliza-572-boletins-de-ocorrencia-por-crimes-ambientais-neste-ano/",
    "url_hash": "358d6f513224fc8148be34e5"
+  },
+  "guid:6b045cd631292b0008f0520b": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Ação de cidadania da Sejusc já beneficiou 29 mil pessoas, em 2026",
+   "discovered_at": "2026-11-23T15:40:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b045cd631292b0008f0520b",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5c7ee8c7-a089-47bc-9109-0a8e32415ac4.jpg",
+   "key": "guid:6b045cd631292b0008f0520b",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-23T15:36:24+00:00",
+   "status": "pending",
+   "title": "Sejusc orienta como tirar segunda via de certidões sem custo em Manaus",
+   "updated_at": "2026-11-23T15:40:16+00:00",
+   "url": "https://marioadolfo.com/sejusc-orienta-como-tirar-segunda-via-de-certidoes-sem-custo-em-manaus/",
+   "url_hash": "b1e30ae52d75a154222cd983"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-23T15:30:20+00:00",
+  "last_run_at": "2026-11-23T15:40:15+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-23T15:30:21+00:00"
+  "saved_at": "2026-11-23T15:40:16+00:00"
  },
  "schema": 1
 }
