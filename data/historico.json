@@ -32795,14 +32795,35 @@
    "updated_at": "2026-11-23T19:50:15+00:00",
    "url": "https://marioadolfo.com/crea-am-tera-novo-concurso-publico-com-provas-previstas-para-2027/",
    "url_hash": "6935626399548812fef94c7b"
+  },
+  "guid:6b04985a31292b0008f053ba": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "A Polícia Civil divulgou a imagem de Caio Jefferson Santos da Gama, de 37 anos, procurado por tentativa de homicídio",
+   "discovered_at": "2026-11-23T20:00:22+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b04985a31292b0008f053ba",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a69ca2c0-6aed-41c0-8665-cf8bdefd9de3.webp",
+   "key": "guid:6b04985a31292b0008f053ba",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-23T19:50:42+00:00",
+   "status": "pending",
+   "title": "Suspeito de ferir trio com garrafa de vidro é procurado em Manaus",
+   "updated_at": "2026-11-23T20:00:22+00:00",
+   "url": "https://marioadolfo.com/suspeito-de-ferir-trio-com-garrafa-de-vidro-e-procurado-em-manaus/",
+   "url_hash": "f57e5e9b02c9b74d4ca74aa8"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-23T19:50:15+00:00",
+  "last_run_at": "2026-11-23T20:00:21+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-23T19:50:16+00:00"
+  "saved_at": "2026-11-23T20:00:23+00:00"
  },
  "schema": 1
 }
