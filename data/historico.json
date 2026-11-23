@@ -31797,11 +31797,19 @@
    "url_hash": "e4c85719902862b10f760a79"
   },
   "guid:6b03049231292b0008f04f8e": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-23T04:10:31+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1548957313921826",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "A operação do Exército também resultou na prisão de cinco suspeitos, sendo três brasileiros, um colombiano e um venezuelano",
    "discovered_at": "2026-11-22T15:10:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1548957313921826",
    "formats": [
     "link"
    ],
@@ -31809,20 +31817,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6b76a319-0a81-47f6-8229-5c68716d3972.jpg",
    "key": "guid:6b03049231292b0008f04f8e",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1548957313921826"
+   },
    "source_published_at": "2026-11-22T15:08:46+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Mais de cinco toneladas de skunk são apreendidas em São Gabriel da Cachoeira",
-   "updated_at": "2026-11-22T15:10:15+00:00",
+   "updated_at": "2026-11-23T04:10:31+00:00",
    "url": "https://marioadolfo.com/mais-de-cinco-toneladas-de-skunk-sao-apreendidas-em-sao-gabriel-da-cachoeira/",
    "url_hash": "51b36ffe9df42fa96b6119ab"
   },
   "guid:6b0305f431292b0008f04fb2": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-23T04:10:56+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1548957783921779",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "A vítima caminhava pela rua Itacoatiara, quando foi surpreendida por dois homens e alvejada por três disparos",
    "discovered_at": "2026-11-22T15:20:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1548957783921779",
    "formats": [
     "link"
    ],
@@ -31830,20 +31848,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2be9ff54-878b-4062-b976-f368b19a23b7.jpg",
    "key": "guid:6b0305f431292b0008f04fb2",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1548957783921779"
+   },
    "source_published_at": "2026-11-22T15:10:00+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "'Neguinho' é executado a tiros em rua de Manacapuru",
-   "updated_at": "2026-11-22T15:20:15+00:00",
+   "updated_at": "2026-11-23T04:10:56+00:00",
    "url": "https://marioadolfo.com/neguinho-e-executado-a-tiros-em-rua-de-manacapuru/",
    "url_hash": "09654e1ec9bf50a4136d14c7"
   },
   "guid:6b03071c31292b0008f04fcd": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-23T04:11:20+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1548958067255084",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "População em situação de vulnerabilidade social pode solicitar gratuitamente a segunda via de certidões de nascimento, casamento e óbito",
    "discovered_at": "2026-11-22T15:20:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1548958067255084",
    "formats": [
     "link"
    ],
@@ -31851,11 +31879,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4796515b-38f1-4310-8721-f54e11bde4fa.jpeg",
    "key": "guid:6b03071c31292b0008f04fcd",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1548958067255084"
+   },
    "source_published_at": "2026-11-22T15:17:46+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Veja como como tirar segunda via de certidões sem custo em Manaus",
-   "updated_at": "2026-11-22T15:20:15+00:00",
+   "updated_at": "2026-11-23T04:11:20+00:00",
    "url": "https://marioadolfo.com/veja-como-como-tirar-segunda-via-de-certidoes-sem-custo-em-manaus/",
    "url_hash": "610ca3ff637b40cc124f302c"
   },
@@ -31891,11 +31921,19 @@
    "url_hash": "24f321e8027906e2dcb72864"
   },
   "guid:6b0340ba31292b0008f05005": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-23T04:11:46+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1548958597255031",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Ex-presidente está com diagnóstico de abdômen agudo obstrutivo e clinicamente estável",
    "discovered_at": "2026-11-22T19:30:19+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1548958597255031",
    "formats": [
     "link"
    ],
@@ -31903,11 +31941,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d54f23da-b6f4-491f-9de6-d5c0ce27b874.jpg",
    "key": "guid:6b0340ba31292b0008f05005",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1548958597255031"
+   },
    "source_published_at": "2026-11-22T19:22:50+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Bolsonaro segue internado na UTI sem previsão de alta",
-   "updated_at": "2026-11-22T19:30:19+00:00",
+   "updated_at": "2026-11-23T04:11:46+00:00",
    "url": "https://marioadolfo.com/bolsonaro-segue-internado-na-uti-sem-previsao-de-alta/",
    "url_hash": "888e9d40898d6f536820c03a"
   },
@@ -31933,11 +31973,19 @@
    "url_hash": "68b786a97b6e82295af87a84"
   },
   "guid:6b03415d31292b0008f0501e": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-23T04:12:13+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1548958890588335",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "O estágio oferece bolsa-auxílio mensal de R$ 1.050,54, além de auxílio-transporte de R$ 220",
    "discovered_at": "2026-11-22T19:30:19+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1548958890588335",
    "formats": [
     "link"
    ],
@@ -31945,11 +31993,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/35987220-3256-4443-a2fb-4bfc9d52eeed.jpeg",
    "key": "guid:6b03415d31292b0008f0501e",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1548958890588335"
+   },
    "source_published_at": "2026-11-22T19:25:04+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Defensoria Pública realiza prova de seleção para estágio de Direito em Manaus",
-   "updated_at": "2026-11-22T19:30:19+00:00",
+   "updated_at": "2026-11-23T04:12:13+00:00",
    "url": "https://marioadolfo.com/defensoria-publica-realiza-prova-de-selecao-para-estagio-de-direito-em-manaus/",
    "url_hash": "f538cf0922b710cedf146cf4"
   },
@@ -32041,9 +32091,9 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-23T04:00:22+00:00",
+  "last_run_at": "2026-11-23T04:10:24+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-23T04:02:10+00:00"
+  "saved_at": "2026-11-23T04:12:13+00:00"
  },
  "schema": 1
 }
