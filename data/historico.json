@@ -32380,9 +32380,9 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-23T14:20:15+00:00",
+  "last_run_at": "2026-11-23T14:30:19+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-23T14:20:16+00:00"
+  "saved_at": "2026-11-23T14:30:21+00:00"
  },
  "schema": 1
 }
