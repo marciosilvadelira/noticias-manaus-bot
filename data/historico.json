@@ -32501,14 +32501,56 @@
    "updated_at": "2026-11-23T16:00:23+00:00",
    "url": "https://marioadolfo.com/sargento-da-pm-de-roraima-morre-em-acidente-na-br-319/",
    "url_hash": "53bf5fd4634174b8494d0dc6"
+  },
+  "guid:6b046f5631292b0008f05255": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Projeto “Defensoria Tá na Área’” acontece no Mercado de Origem, com serviços gratuitos nas áreas de Família e Direito do Consumidor",
+   "discovered_at": "2026-11-23T17:00:22+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b046f5631292b0008f05255",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e7cecc31-d4b3-4d95-b2e7-3293eb529790.jpeg",
+   "key": "guid:6b046f5631292b0008f05255",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-23T16:55:17+00:00",
+   "status": "pending",
+   "title": "Saiba como agendar atendimento jurídico gratuito para ação no Centro de Manaus",
+   "updated_at": "2026-11-23T17:00:22+00:00",
+   "url": "https://marioadolfo.com/saiba-como-agendar-atendimento-juridico-gratuito-para-acao-no-centro-de-manaus/",
+   "url_hash": "54e59c479c56af51e83f80e2"
+  },
+  "guid:6b04703031292b0008f05271": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Depósitos serão feitos até o dia 30 de novembro",
+   "discovered_at": "2026-11-23T17:00:22+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b04703031292b0008f05271",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/397a0df4-e62d-440f-981e-94af575f28f5.jpeg",
+   "key": "guid:6b04703031292b0008f05271",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-23T16:57:52+00:00",
+   "status": "pending",
+   "title": "Parcela do Pé-de-Meia começa a ser paga nesta segunda",
+   "updated_at": "2026-11-23T17:00:22+00:00",
+   "url": "https://marioadolfo.com/parcela-do-pe-de-meia-comeca-a-ser-paga-nesta-segunda/",
+   "url_hash": "7be97afb643079c29afdcc07"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-23T16:50:15+00:00",
+  "last_run_at": "2026-11-23T17:00:21+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-23T16:50:16+00:00"
+  "saved_at": "2026-11-23T17:00:22+00:00"
  },
  "schema": 1
 }
