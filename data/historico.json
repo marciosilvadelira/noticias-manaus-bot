@@ -32816,14 +32816,56 @@
    "updated_at": "2026-11-23T20:00:22+00:00",
    "url": "https://marioadolfo.com/suspeito-de-ferir-trio-com-garrafa-de-vidro-e-procurado-em-manaus/",
    "url_hash": "f57e5e9b02c9b74d4ca74aa8"
+  },
+  "guid:6b049bc831292b0008f053d1": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Com apoio de satélites, drones e equipes em campo, fiscalização resultou em 32 autuações e 30 embargos no estado",
+   "discovered_at": "2026-11-23T20:10:26+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b049bc831292b0008f053d1",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/86eb155d-b6aa-4157-a94b-e8695924adb5.jpeg",
+   "key": "guid:6b049bc831292b0008f053d1",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-23T20:04:06+00:00",
+   "status": "pending",
+   "title": "Fiscalização aplica R$ 6,4 milhões em multas ambientais no AM, em sete dias",
+   "updated_at": "2026-11-23T20:10:26+00:00",
+   "url": "https://marioadolfo.com/fiscalizacao-aplica-r-6-4-milhoes-em-multas-ambientais-no-am-em-sete-dias/",
+   "url_hash": "c0b6729e380c460433e08340"
+  },
+  "guid:6b049cbf31292b0008f053f2": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "A mãe da vítima compareceu à delegacia para denunciar os abusos, após descobrir que a filha estava grávida",
+   "discovered_at": "2026-11-23T20:10:26+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b049cbf31292b0008f053f2",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/fa2013ef-f57f-4463-bcc5-266b1da690a1.jpg",
+   "key": "guid:6b049cbf31292b0008f053f2",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-23T20:08:48+00:00",
+   "status": "pending",
+   "title": "Tio é preso por estuprar e engravidar sobrinha de 12 anos em Manaus",
+   "updated_at": "2026-11-23T20:10:26+00:00",
+   "url": "https://marioadolfo.com/tio-e-preso-por-estuprar-e-engravidar-sobrinha-de-12-anos-em-manaus/",
+   "url_hash": "e88fe3ec214c78d22415cecc"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-23T20:00:21+00:00",
+  "last_run_at": "2026-11-23T20:10:25+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-23T20:00:23+00:00"
+  "saved_at": "2026-11-23T20:10:26+00:00"
  },
  "schema": 1
 }
