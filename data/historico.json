@@ -32396,14 +32396,56 @@
    "updated_at": "2026-11-23T14:50:16+00:00",
    "url": "https://marioadolfo.com/daniela-benayon-e-coautora-de-livro-que-destaca-protagonismo-feminino-nos-rpps/",
    "url_hash": "c9bcb9bb47a92b3bceae73e0"
+  },
+  "guid:6b04534631292b0008f051c1": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Iniciativa é da Prefeitura de Manaus em parceria com o grupo Madero",
+   "discovered_at": "2026-11-23T15:00:23+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b04534631292b0008f051c1",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6f62663f-f71a-494f-a2b0-b5740d5d5801.jpeg",
+   "key": "guid:6b04534631292b0008f051c1",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-23T14:54:50+00:00",
+   "status": "pending",
+   "title": "‘Mutirão de Empregos’ oferta mais de 100 vagas para trabalhar fora do Amazonas",
+   "updated_at": "2026-11-23T15:00:23+00:00",
+   "url": "https://marioadolfo.com/mutirao-de-empregos-oferta-mais-de-100-vagas-para-trabalhar-fora-do-amazonas/",
+   "url_hash": "e7e2e6627109e5cd93081d88"
+  },
+  "guid:6b0453d931292b0008f051d8": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Os interessados devem se inscrever até as 17h desta quarta-feira, 25/11",
+   "discovered_at": "2026-11-23T15:00:23+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b0453d931292b0008f051d8",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0ddd5a9e-9ed8-420e-b848-7c8ab4aff973.jpeg",
+   "key": "guid:6b0453d931292b0008f051d8",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-23T14:56:29+00:00",
+   "status": "pending",
+   "title": "Prefeitura de Manaus abre inscrições para treinamento de ‘Gestão para Redes Sociais’",
+   "updated_at": "2026-11-23T15:00:23+00:00",
+   "url": "https://marioadolfo.com/prefeitura-de-manaus-abre-inscricoes-para-treinamento-de-gestao-para-redes-sociais/",
+   "url_hash": "9a22f94b894cb1a385c37988"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-23T14:50:16+00:00",
+  "last_run_at": "2026-11-23T15:00:23+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-23T14:50:17+00:00"
+  "saved_at": "2026-11-23T15:00:24+00:00"
  },
  "schema": 1
 }
