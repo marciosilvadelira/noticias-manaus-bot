@@ -30346,6 +30346,27 @@
    "url": "https://marioadolfo.com/mais-de-26-toneladas-de-drogas-ja-foram-apreendidas-no-amazonas-em-2026/",
    "url_hash": "09e54e074a9ec84e9a8f8fd4"
   },
+  "guid:6aff401852c09500099e3a86": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "As oportunidades do processo seletivo exigem ensino fundamental completo e estão distribuídas por municípios de todo o estado",
+   "discovered_at": "2026-11-23T12:10:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6aff401852c09500099e3a86",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/1347af7e-3a70-42da-aa33-4d165186b4ad.jpg",
+   "key": "guid:6aff401852c09500099e3a86",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-23T12:00:05+00:00",
+   "status": "pending",
+   "title": "Inscrições para 829 vagas de recenseador no Amazonas encerram na quarta (25)",
+   "updated_at": "2026-11-23T12:10:18+00:00",
+   "url": "https://marioadolfo.com/inscricoes-para-829-vagas-de-recenseador-no-amazonas-encerram-na-quarta-25/",
+   "url_hash": "3b171bf8338f6bd2ef4daa6b"
+  },
   "guid:6aff41d552c09500099e3aa3": {
    "attempts": [],
    "category": "Parintins",
@@ -32296,9 +32317,9 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-23T12:00:26+00:00",
+  "last_run_at": "2026-11-23T12:10:15+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-23T12:00:27+00:00"
+  "saved_at": "2026-11-23T12:10:19+00:00"
  },
  "schema": 1
 }
