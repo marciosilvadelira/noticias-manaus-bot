@@ -32858,14 +32858,35 @@
    "updated_at": "2026-11-23T20:10:26+00:00",
    "url": "https://marioadolfo.com/tio-e-preso-por-estuprar-e-engravidar-sobrinha-de-12-anos-em-manaus/",
    "url_hash": "e88fe3ec214c78d22415cecc"
+  },
+  "guid:6b049da031292b0008f0540a": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Neste certame, serão disponibilizadas 177 motocicletas e 25 carros",
+   "discovered_at": "2026-11-23T20:20:25+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b049da031292b0008f0540a",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c91a4871-a1a2-4763-a849-ff9fc42a5248.jpeg",
+   "key": "guid:6b049da031292b0008f0540a",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-23T20:11:22+00:00",
+   "status": "pending",
+   "title": "Detran-AM: visitação para leilão de sucatas começa nesta terça-feira",
+   "updated_at": "2026-11-23T20:20:25+00:00",
+   "url": "https://marioadolfo.com/detran-am-visitacao-para-leilao-de-sucatas-comeca-nesta-terca-feira/",
+   "url_hash": "f65b19ddd203236b6ea90f21"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-23T20:10:25+00:00",
+  "last_run_at": "2026-11-23T20:20:24+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-23T20:10:26+00:00"
+  "saved_at": "2026-11-23T20:20:25+00:00"
  },
  "schema": 1
 }
