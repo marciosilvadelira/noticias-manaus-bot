@@ -32136,14 +32136,76 @@
    "updated_at": "2026-11-23T04:22:17+00:00",
    "url": "https://marioadolfo.com/qualidade-do-ar-leva-prefeitura-a-cancelar-abertura-do-natal-na-ponta-negra/",
    "url_hash": "4cb16da0d7a722d45d7974aa"
+  },
+  "guid:6b041cf231292b0008f050ee": {
+   "attempts": [
+    {
+     "at": "2026-11-23T11:10:23+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1549288693888688",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Parintins",
+   "description": "Unidades das redes municipal e estadual interromperam as atividades presenciais nos três turnos; medida alcança escolas das zonas urbana e rural",
+   "discovered_at": "2026-11-23T11:10:17+00:00",
+   "fb_post_id": "107393769293726_1549288693888688",
+   "formats": [
+    "link"
+   ],
+   "guid": "6b041cf231292b0008f050ee",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/8558071a-0b65-462e-adc9-ab6d0f791143.webp",
+   "key": "guid:6b041cf231292b0008f050ee",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1549288693888688"
+   },
+   "source_published_at": "2026-11-23T11:02:46+00:00",
+   "status": "published",
+   "title": "Fumaça provoca nova suspensão de aulas em Parintins",
+   "updated_at": "2026-11-23T11:10:23+00:00",
+   "url": "https://marioadolfo.com/fumaca-provoca-nova-suspensao-de-aulas-em-parintins/",
+   "url_hash": "70101d2141e58870bc77e870"
+  },
+  "guid:6b041d8631292b0008f0510b": {
+   "attempts": [
+    {
+     "at": "2026-11-23T11:10:46+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1549289093888648",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "Pela primeira vez, Núcleo de Defesa do Consumidor participa do projeto da Defensoria do Amazonas, que acontece no dia 28 de novembro, no Mercado de Origem",
+   "discovered_at": "2026-11-23T11:10:17+00:00",
+   "fb_post_id": "107393769293726_1549289093888648",
+   "formats": [
+    "link"
+   ],
+   "guid": "6b041d8631292b0008f0510b",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/cf0023e7-9f37-4851-8c97-b165e80d8174.jpg",
+   "key": "guid:6b041d8631292b0008f0510b",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1549289093888648"
+   },
+   "source_published_at": "2026-11-23T11:06:37+00:00",
+   "status": "published",
+   "title": "Defensoria oferece atendimento gratuito para dívidas e cobranças indevidas em Manaus",
+   "updated_at": "2026-11-23T11:10:46+00:00",
+   "url": "https://marioadolfo.com/defensoria-oferece-atendimento-gratuito-para-dividas-e-cobrancas-indevidas-no-centro-de-manaus-2/",
+   "url_hash": "f491e9e3853bdb46a3e0c27e"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-23T11:00:25+00:00",
+  "last_run_at": "2026-11-23T11:10:16+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-23T11:00:26+00:00"
+  "saved_at": "2026-11-23T11:10:46+00:00"
  },
  "schema": 1
 }
