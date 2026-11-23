@@ -32354,14 +32354,35 @@
    "updated_at": "2026-11-23T12:50:17+00:00",
    "url": "https://marioadolfo.com/espetaculo-terra-de-sal-estreia-nesta-segunda-feira-no-teatro-americo-alvarez/",
    "url_hash": "89e1fa245d4684d47dcaf85e"
+  },
+  "guid:6b04450d31292b0008f05186": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Um vídeo que circula nas redes sociais mostra o suspeito sendo castigado com cerca de 40 golpes, conhecidos popularmente como ‘bolos’, em uma área de mata",
+   "discovered_at": "2026-11-23T14:00:30+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b04450d31292b0008f05186",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/28d1e57d-1e8c-45e0-abd2-a3af90088751.webp",
+   "key": "guid:6b04450d31292b0008f05186",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-23T13:53:55+00:00",
+   "status": "pending",
+   "title": "Homem é torturado em ‘tribunal do crime’ após ser acusado de agredir mulher em Manaus",
+   "updated_at": "2026-11-23T14:00:30+00:00",
+   "url": "https://marioadolfo.com/homem-e-torturado-em-tribunal-do-crime-apos-ser-acusado-de-agredir-mulher-em-manaus/",
+   "url_hash": "4c267675c915fa48ea117e63"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-23T13:50:15+00:00",
+  "last_run_at": "2026-11-23T14:00:30+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-23T13:50:17+00:00"
+  "saved_at": "2026-11-23T14:00:31+00:00"
  },
  "schema": 1
 }
