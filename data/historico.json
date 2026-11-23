@@ -32137,6 +32137,37 @@
    "url": "https://marioadolfo.com/qualidade-do-ar-leva-prefeitura-a-cancelar-abertura-do-natal-na-ponta-negra/",
    "url_hash": "4cb16da0d7a722d45d7974aa"
   },
+  "guid:6b0392b431292b0008f050d2": {
+   "attempts": [
+    {
+     "at": "2026-11-23T11:40:28+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1549312857219605",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Polícia",
+   "description": "Antes de ser assassinado, Bruno Frota Joias postou uma foto com a legenda “Uma briga pra entrar nesse evento”",
+   "discovered_at": "2026-11-23T11:40:23+00:00",
+   "fb_post_id": "107393769293726_1549312857219605",
+   "formats": [
+    "link"
+   ],
+   "guid": "6b0392b431292b0008f050d2",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/afc471b8-6a92-4e2d-830f-6daefd831c21.webp",
+   "key": "guid:6b0392b431292b0008f050d2",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1549312857219605"
+   },
+   "source_published_at": "2026-11-23T11:30:23+00:00",
+   "status": "published",
+   "title": "Influenciador é morto a tiros durante evento no Sambódromo de Manaus",
+   "updated_at": "2026-11-23T11:40:28+00:00",
+   "url": "https://marioadolfo.com/influenciador-e-morto-a-tiros-durante-evento-no-sambodromo-de-manaus/",
+   "url_hash": "fae93d2507889296b0592d2b"
+  },
   "guid:6b041cf231292b0008f050ee": {
    "attempts": [
     {
@@ -32234,9 +32265,9 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-23T11:30:29+00:00",
+  "last_run_at": "2026-11-23T11:40:23+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-23T11:30:34+00:00"
+  "saved_at": "2026-11-23T11:40:28+00:00"
  },
  "schema": 1
 }
