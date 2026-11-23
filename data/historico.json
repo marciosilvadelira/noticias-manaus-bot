@@ -32312,14 +32312,35 @@
    "updated_at": "2026-11-23T11:30:34+00:00",
    "url": "https://marioadolfo.com/camara-deve-votar-ajuste-fiscal-proposta-do-governo-pretende-economizar-r-70-bilhoes/",
    "url_hash": "70e903e86ea058c5c447b552"
+  },
+  "guid:6b04320b31292b0008f0514e": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Segunda edição reúne música, cinema, homenagens e atividades formativas em Manaus e Manacapuru, com encerramento no Largo de São Sebastião",
+   "discovered_at": "2026-11-23T12:40:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b04320b31292b0008f0514e",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/898ae056-fb21-4545-a298-49e5c7048fe8.jpg",
+   "key": "guid:6b04320b31292b0008f0514e",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-23T12:32:59+00:00",
+   "status": "pending",
+   "title": "Festival do Beiradão do Amazonas começa nesta segunda-feira",
+   "updated_at": "2026-11-23T12:40:17+00:00",
+   "url": "https://marioadolfo.com/festival-do-beiradao-do-amazonas-comeca-nesta-segunda-feira-2/",
+   "url_hash": "f9a6b2844033bb00b24cd83b"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-23T12:30:18+00:00",
+  "last_run_at": "2026-11-23T12:40:16+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-23T12:30:19+00:00"
+  "saved_at": "2026-11-23T12:40:17+00:00"
  },
  "schema": 1
 }
