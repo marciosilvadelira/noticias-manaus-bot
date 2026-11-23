@@ -32648,14 +32648,77 @@
    "updated_at": "2026-11-23T17:20:16+00:00",
    "url": "https://marioadolfo.com/braga-articula-recursos-no-orcamento-de-2027-para-continuidade-de-obras-no-amazonas/",
    "url_hash": "e59fa76096fa26580ebef2c7"
+  },
+  "guid:6b0475df31292b0008f05309": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "O acidente ocorreu em frente à Escola Senai Demóstenes Travessa. A vítima foi socorrida com vida",
+   "discovered_at": "2026-11-23T17:40:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b0475df31292b0008f05309",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f74d5d28-4f0d-4e97-92a0-55c8dcc47caa.jpeg",
+   "key": "guid:6b0475df31292b0008f05309",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-23T17:33:19+00:00",
+   "status": "pending",
+   "title": "Vídeo: adolescente é atropelada em frente a escola na zona sul de Manaus",
+   "updated_at": "2026-11-23T17:40:19+00:00",
+   "url": "https://marioadolfo.com/video-adolescente-e-atropelada-em-frente-a-escola-na-zona-sul-de-manaus/",
+   "url_hash": "928c626840242f43f2f680f9"
+  },
+  "guid:6b0478f231292b0008f05327": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Suspeita inicial é de asfixia ou estrangulamento, mas causa da morte depende da perícia",
+   "discovered_at": "2026-11-23T17:40:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b0478f231292b0008f05327",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/785baae1-655a-4f29-85be-f96a6da81718.jpeg",
+   "key": "guid:6b0478f231292b0008f05327",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-23T17:35:43+00:00",
+   "status": "pending",
+   "title": "Homem de 29 anos é encontrado morto em beco no Petrópolis",
+   "updated_at": "2026-11-23T17:40:19+00:00",
+   "url": "https://marioadolfo.com/homem-de-29-anos-e-encontrado-morto-em-beco-no-petropolis/",
+   "url_hash": "5d485f0f412423826d4d8aab"
+  },
+  "guid:6b04798731292b0008f05342": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Atendimento telefônico acontece entre 26 de novembro e 03 de dezembro, das 08h às 20h",
+   "discovered_at": "2026-11-23T17:40:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b04798731292b0008f05342",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d5cae0ba-2c05-491f-a686-1de38e6e17ee.jpeg",
+   "key": "guid:6b04798731292b0008f05342",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-23T17:39:41+00:00",
+   "status": "pending",
+   "title": "Feirão Serasa Limpa Nome oferece negociação de dívidas por telefone",
+   "updated_at": "2026-11-23T17:40:19+00:00",
+   "url": "https://marioadolfo.com/feirao-serasa-limpa-nome-oferece-negociacao-de-dividas-por-telefone/",
+   "url_hash": "1a3fddbc9221b44cfe80b65c"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-23T17:30:28+00:00",
+  "last_run_at": "2026-11-23T17:40:18+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-23T17:30:29+00:00"
+  "saved_at": "2026-11-23T17:40:20+00:00"
  },
  "schema": 1
 }
