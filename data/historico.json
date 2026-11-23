@@ -32753,14 +32753,56 @@
    "updated_at": "2026-11-23T19:40:22+00:00",
    "url": "https://marioadolfo.com/agu-defende-dispensa-de-liminar-de-dino-sobre-escala-5x2/",
    "url_hash": "8728916c71e00d550d513bf4"
+  },
+  "guid:6b0496ea31292b0008f05389": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A programação contará com a exibição de três curtas-metragens: Memórias de um Lugar (2026); Ticar Bodó (2025); e Garrote (2025)",
+   "discovered_at": "2026-11-23T19:50:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b0496ea31292b0008f05389",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/1283c8c7-d7e4-4af8-abd8-dfd0b2af8d0f.jpeg",
+   "key": "guid:6b0496ea31292b0008f05389",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-23T19:43:10+00:00",
+   "status": "pending",
+   "title": "Cine Paricá: Ruínas de Paricatuba recebem sessão gratuita de cinema a céu aberto",
+   "updated_at": "2026-11-23T19:50:15+00:00",
+   "url": "https://marioadolfo.com/cine-parica-ruinas-de-paricatuba-recebem-sessao-gratuita-de-cinema-a-ceu-aberto/",
+   "url_hash": "82a22135461efe2b2905b830"
+  },
+  "guid:6b0497dd31292b0008f053a3": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A banca organizadora será o Instituto Access, responsável pelo planejamento e execução de todas as etapas do certame",
+   "discovered_at": "2026-11-23T19:50:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b0497dd31292b0008f053a3",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/82e06573-2974-4bca-9dba-a74295f3a621.jpeg",
+   "key": "guid:6b0497dd31292b0008f053a3",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-23T19:46:11+00:00",
+   "status": "pending",
+   "title": "Crea-AM terá novo concurso público com provas previstas para 2027",
+   "updated_at": "2026-11-23T19:50:15+00:00",
+   "url": "https://marioadolfo.com/crea-am-tera-novo-concurso-publico-com-provas-previstas-para-2027/",
+   "url_hash": "6935626399548812fef94c7b"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-23T19:40:22+00:00",
+  "last_run_at": "2026-11-23T19:50:15+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-23T19:40:23+00:00"
+  "saved_at": "2026-11-23T19:50:16+00:00"
  },
  "schema": 1
 }
