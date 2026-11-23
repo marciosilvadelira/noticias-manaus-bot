@@ -32480,14 +32480,35 @@
    "updated_at": "2026-11-23T15:40:16+00:00",
    "url": "https://marioadolfo.com/sejusc-orienta-como-tirar-segunda-via-de-certidoes-sem-custo-em-manaus/",
    "url_hash": "b1e30ae52d75a154222cd983"
+  },
+  "guid:6b045ddf31292b0008f0522a": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Policial de 41 anos estava em um veículo que capotou em Presidente Figueiredo; outro militar ficou ferido",
+   "discovered_at": "2026-11-23T16:00:23+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b045ddf31292b0008f0522a",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0ab508f2-ba64-4bc2-b853-2b800ac582b1.jpg",
+   "key": "guid:6b045ddf31292b0008f0522a",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-23T15:50:10+00:00",
+   "status": "pending",
+   "title": "Sargento da PM de Roraima morre em acidente na BR-319",
+   "updated_at": "2026-11-23T16:00:23+00:00",
+   "url": "https://marioadolfo.com/sargento-da-pm-de-roraima-morre-em-acidente-na-br-319/",
+   "url_hash": "53bf5fd4634174b8494d0dc6"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-23T15:50:15+00:00",
+  "last_run_at": "2026-11-23T16:00:22+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-23T15:50:16+00:00"
+  "saved_at": "2026-11-23T16:00:24+00:00"
  },
  "schema": 1
 }
