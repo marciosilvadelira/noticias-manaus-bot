@@ -31673,11 +31673,19 @@
    "url_hash": "be3f4f2e06a68e37362b5929"
   },
   "guid:6b02f74e31292b0008f04f0e": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-23T04:00:56+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1548949550589269",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Dito & Feito",
    "description": "Eduardo Braga rebate Rogério Marinho e lembra que o governo anterior deixou uma “bucha” de quase R$ 30 bilhões nas mãos dos governadores estaduais por causa das perdas de arrecadação do ICMS.",
    "discovered_at": "2026-11-22T14:30:19+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1548949550589269",
    "formats": [
     "link"
    ],
@@ -31685,20 +31693,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c39d0772-4941-4baa-a840-7d78b1f5f8f5.jpg",
    "key": "guid:6b02f74e31292b0008f04f0e",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1548949550589269"
+   },
    "source_published_at": "2026-11-22T14:17:04+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Dito & Feito - Quem deu calote de R$ 30 bilhões?",
-   "updated_at": "2026-11-22T14:30:19+00:00",
+   "updated_at": "2026-11-23T04:00:56+00:00",
    "url": "https://marioadolfo.com/dito-feito-quem-deu-calote-de-r-30-bilhoes/",
    "url_hash": "4462d8b751c6759ac6dfbdad"
   },
   "guid:6b03005631292b0008f04f43": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-23T04:01:22+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1548949957255895",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Nesta etapa, as equipes executam a aplicação dos lábios poliméricos e das borrachas elastoméricas",
    "discovered_at": "2026-11-22T14:50:20+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1548949957255895",
    "formats": [
     "link"
    ],
@@ -31706,20 +31724,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b5e6ee8f-b371-4be0-995e-ba7e54eadf3d.jpg",
    "key": "guid:6b03005631292b0008f04f43",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1548949957255895"
+   },
    "source_published_at": "2026-11-22T14:48:25+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Viaduto Ayrton Senna recebe manutenção das juntas de dilatação",
-   "updated_at": "2026-11-22T14:50:20+00:00",
+   "updated_at": "2026-11-23T04:01:22+00:00",
    "url": "https://marioadolfo.com/viaduto-ayrton-senna-recebe-manutencao-das-juntas-de-dilatacao/",
    "url_hash": "632b2f1e1efe91d8a94f745b"
   },
   "guid:6b03028c31292b0008f04f5a": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-23T04:01:47+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1548950397255851",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Partes do corpo da vítima ficaram espalhadas na via. Suspeita é de que o motociclista tenha invadido a contramão e batido no carro de uma família",
    "discovered_at": "2026-11-22T15:10:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1548950397255851",
    "formats": [
     "link"
    ],
@@ -31727,20 +31755,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/64abf12d-6815-4ffa-8d81-12759f5116fe.webp",
    "key": "guid:6b03028c31292b0008f04f5a",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1548950397255851"
+   },
    "source_published_at": "2026-11-22T15:00:36+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Vídeo: motociclista tem corpo despedaçado em grave acidente na AM-070",
-   "updated_at": "2026-11-22T15:10:15+00:00",
+   "updated_at": "2026-11-23T04:01:47+00:00",
    "url": "https://marioadolfo.com/video-motociclista-tem-corpo-despedacado-em-grave-acidente-na-am-070/",
    "url_hash": "0295758e62ec537b78ac15e9"
   },
   "guid:6b0303c931292b0008f04f74": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-23T04:02:10+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1548950720589152",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "A ocorrência foi atendida por policiais militares do 10º Grupamento de Polícia Militar do Amazonas",
    "discovered_at": "2026-11-22T15:10:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1548950720589152",
    "formats": [
     "link"
    ],
@@ -31748,11 +31786,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/79c91187-1af6-468e-935b-e98dc3b6f0e3.jpg",
    "key": "guid:6b0303c931292b0008f04f74",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1548950720589152"
+   },
    "source_published_at": "2026-11-22T15:04:23+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Corpo é encontrado em lamaçal na zona rural de Envira",
-   "updated_at": "2026-11-22T15:10:15+00:00",
+   "updated_at": "2026-11-23T04:02:10+00:00",
    "url": "https://marioadolfo.com/corpo-e-encontrado-em-lamacal-na-zona-rural-de-envira/",
    "url_hash": "e4c85719902862b10f760a79"
   },
@@ -31820,11 +31860,19 @@
    "url_hash": "610ca3ff637b40cc124f302c"
   },
   "guid:6b0307e631292b0008f04fe9": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-23T04:00:30+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1548949243922633",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Mensagem é assinada por alguém que se diz neofascista",
    "discovered_at": "2026-11-22T15:30:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1548949243922633",
    "formats": [
     "link"
    ],
@@ -31832,11 +31880,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4863c21a-6ea7-4572-a847-6187615033b3.jpg",
    "key": "guid:6b0307e631292b0008f04fe9",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1548949243922633"
+   },
    "source_published_at": "2026-11-22T13:00:00+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Deputada Talíria Petrone é ameaçada de morte e violência sexual",
-   "updated_at": "2026-11-22T15:30:17+00:00",
+   "updated_at": "2026-11-23T04:00:30+00:00",
    "url": "https://marioadolfo.com/deputada-taliria-petrone-e-ameacada-de-morte-e-violencia-sexual/",
    "url_hash": "24f321e8027906e2dcb72864"
   },
@@ -31991,9 +32041,9 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-23T03:50:15+00:00",
+  "last_run_at": "2026-11-23T04:00:22+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-23T03:50:15+00:00"
+  "saved_at": "2026-11-23T04:02:10+00:00"
  },
  "schema": 1
 }
