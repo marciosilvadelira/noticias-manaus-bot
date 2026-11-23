@@ -32198,14 +32198,45 @@
    "updated_at": "2026-11-23T11:10:46+00:00",
    "url": "https://marioadolfo.com/defensoria-oferece-atendimento-gratuito-para-dividas-e-cobrancas-indevidas-no-centro-de-manaus-2/",
    "url_hash": "f491e9e3853bdb46a3e0c27e"
+  },
+  "guid:6b04224331292b0008f05127": {
+   "attempts": [
+    {
+     "at": "2026-11-23T11:30:34+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1549304923887065",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Brasil",
+   "description": "Projeto já passou no Senado e prevê economia para se atingir superávit primário de cerca de R$ 18,7 bilhões em 2027",
+   "discovered_at": "2026-11-23T11:30:29+00:00",
+   "fb_post_id": "107393769293726_1549304923887065",
+   "formats": [
+    "link"
+   ],
+   "guid": "6b04224331292b0008f05127",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/9dc90469-7494-47bf-9347-18de84d55c4c.jpg",
+   "key": "guid:6b04224331292b0008f05127",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1549304923887065"
+   },
+   "source_published_at": "2026-11-23T11:29:24+00:00",
+   "status": "published",
+   "title": "Câmara deve votar ajuste fiscal; proposta do governo pretende economizar R$ 70 bilhões",
+   "updated_at": "2026-11-23T11:30:34+00:00",
+   "url": "https://marioadolfo.com/camara-deve-votar-ajuste-fiscal-proposta-do-governo-pretende-economizar-r-70-bilhoes/",
+   "url_hash": "70e903e86ea058c5c447b552"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-23T11:20:17+00:00",
+  "last_run_at": "2026-11-23T11:30:29+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-23T11:20:18+00:00"
+  "saved_at": "2026-11-23T11:30:34+00:00"
  },
  "schema": 1
 }
