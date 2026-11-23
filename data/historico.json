@@ -32585,14 +32585,77 @@
    "updated_at": "2026-11-23T17:10:16+00:00",
    "url": "https://marioadolfo.com/matriculas-2027-pais-ou-responsaveis-devem-regularizar-documentos-de-estudantes-da-rede-publica/",
    "url_hash": "20dcdc0b964edcf5f58af407"
+  },
+  "guid:6b04733d31292b0008f052bd": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Apresentação reúne a Amazonas Filarmônica, o Coral do Amazonas e o Balé Folclórico do Amazonas em um programa dedicado à música e à cultura popular brasileira",
+   "discovered_at": "2026-11-23T17:20:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b04733d31292b0008f052bd",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ec53801b-ce51-42a0-98ff-4be84d776d9f.jpeg",
+   "key": "guid:6b04733d31292b0008f052bd",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-23T17:11:31+00:00",
+   "status": "pending",
+   "title": "Corpos artísticos do Amazonas apresentam espetáculo 'Maracatu de Chico Rei'",
+   "updated_at": "2026-11-23T17:20:16+00:00",
+   "url": "https://marioadolfo.com/corpos-artisticos-do-amazonas-apresentam-espetaculo-maracatu-de-chico-rei/",
+   "url_hash": "e705dc299c55fccaa0cc3135"
+  },
+  "guid:6b0473d931292b0008f052d9": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Legislação exige que nomes dos dois suplentes sejam apresentados com tamanho proporcional ao do candidato titular; regra também se aplica às publicações em redes sociais",
+   "discovered_at": "2026-11-23T17:20:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b0473d931292b0008f052d9",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/70e8f583-6a63-48bf-ba50-954f45523ccd.jpeg",
+   "key": "guid:6b0473d931292b0008f052d9",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-23T17:13:06+00:00",
+   "status": "pending",
+   "title": "TRE-AM reafirma regras para identificação de suplentes em propagandas eleitorais",
+   "updated_at": "2026-11-23T17:20:16+00:00",
+   "url": "https://marioadolfo.com/tre-am-reafirma-regras-para-identificacao-de-suplentes-em-propagandas-eleitorais/",
+   "url_hash": "d76891fbd9cfa966d698c70b"
+  },
+  "guid:6b04748131292b0008f052f0": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Senador busca assegurar investimentos para a BR-319 e o Porto da Manaus Moderna e anuncia novidade para a capital: o novo Porto do São Raimundo",
+   "discovered_at": "2026-11-23T17:20:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b04748131292b0008f052f0",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/075acf75-c6b8-43b7-873a-6067f9f6e911.jpeg",
+   "key": "guid:6b04748131292b0008f052f0",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-23T17:19:07+00:00",
+   "status": "pending",
+   "title": "Braga articula recursos no Orçamento de 2027 para continuidade de obras no Amazonas",
+   "updated_at": "2026-11-23T17:20:16+00:00",
+   "url": "https://marioadolfo.com/braga-articula-recursos-no-orcamento-de-2027-para-continuidade-de-obras-no-amazonas/",
+   "url_hash": "e59fa76096fa26580ebef2c7"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-23T17:10:16+00:00",
+  "last_run_at": "2026-11-23T17:20:16+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-23T17:10:16+00:00"
+  "saved_at": "2026-11-23T17:20:17+00:00"
  },
  "schema": 1
 }
