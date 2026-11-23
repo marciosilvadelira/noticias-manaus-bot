@@ -32879,14 +32879,35 @@
    "updated_at": "2026-11-23T20:20:25+00:00",
    "url": "https://marioadolfo.com/detran-am-visitacao-para-leilao-de-sucatas-comeca-nesta-terca-feira/",
    "url_hash": "f65b19ddd203236b6ea90f21"
+  },
+  "guid:6b04be8d31292b0008f05425": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Ações foram intensificadas em Parintins; bombeiros também atenderam 27 ocorrências de incêndio nos dias 21 e 22 de novembro",
+   "discovered_at": "2026-11-23T22:40:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b04be8d31292b0008f05425",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/29f0526d-90ef-421c-8bf5-8e9d479de2e5.png",
+   "key": "guid:6b04be8d31292b0008f05425",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-23T22:33:30+00:00",
+   "status": "pending",
+   "title": "Bombeiros combatem 156 focos de incêndio em dois dias no Amazonas",
+   "updated_at": "2026-11-23T22:40:16+00:00",
+   "url": "https://marioadolfo.com/bombeiros-combatem-156-focos-de-incendio-em-dois-dias-no-amazonas/",
+   "url_hash": "0a5c7e441feb0bcde78dac83"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-23T22:30:18+00:00",
+  "last_run_at": "2026-11-23T22:40:15+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-23T22:30:19+00:00"
+  "saved_at": "2026-11-23T22:40:16+00:00"
  },
  "schema": 1
 }
