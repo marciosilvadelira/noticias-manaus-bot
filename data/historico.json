@@ -32375,14 +32375,35 @@
    "updated_at": "2026-11-23T14:00:30+00:00",
    "url": "https://marioadolfo.com/homem-e-torturado-em-tribunal-do-crime-apos-ser-acusado-de-agredir-mulher-em-manaus/",
    "url_hash": "4c267675c915fa48ea117e63"
+  },
+  "guid:6b04508e31292b0008f0519e": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Lançamento será no dia 25 de novembro, no Casarão de Ideias. Obra reúne histórias de mulheres com atuação na previdência pública brasileira",
+   "discovered_at": "2026-11-23T14:50:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b04508e31292b0008f0519e",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/fdc38dfc-075e-4e73-93b9-4405ec2837fd.jpg",
+   "key": "guid:6b04508e31292b0008f0519e",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-23T14:49:00+00:00",
+   "status": "pending",
+   "title": "Daniela Benayon é coautora de livro que destaca protagonismo feminino nos RPPS",
+   "updated_at": "2026-11-23T14:50:16+00:00",
+   "url": "https://marioadolfo.com/daniela-benayon-e-coautora-de-livro-que-destaca-protagonismo-feminino-nos-rpps/",
+   "url_hash": "c9bcb9bb47a92b3bceae73e0"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-23T14:40:21+00:00",
+  "last_run_at": "2026-11-23T14:50:16+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-23T14:40:22+00:00"
+  "saved_at": "2026-11-23T14:50:17+00:00"
  },
  "schema": 1
 }
