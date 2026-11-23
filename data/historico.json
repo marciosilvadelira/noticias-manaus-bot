@@ -32137,6 +32137,37 @@
    "url": "https://marioadolfo.com/qualidade-do-ar-leva-prefeitura-a-cancelar-abertura-do-natal-na-ponta-negra/",
    "url_hash": "4cb16da0d7a722d45d7974aa"
   },
+  "guid:6b0366ee31292b0008f050b8": {
+   "attempts": [
+    {
+     "at": "2026-11-23T11:50:23+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1549321890552035",
+     "format": "link",
+     "result": "published"
+    }
+   ],
+   "category": "Amazonas",
+   "description": "O falecimento da mãe das crianças, vítima de feminicídio, ocorreu em julho e os dois irmãos passaram a viver em uma instituição de acolhimento na Espanha",
+   "discovered_at": "2026-11-23T11:50:15+00:00",
+   "fb_post_id": "107393769293726_1549321890552035",
+   "formats": [
+    "link"
+   ],
+   "guid": "6b0366ee31292b0008f050b8",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/00052bf7-f611-4282-86c9-e0e032cfbe23.jpeg",
+   "key": "guid:6b0366ee31292b0008f050b8",
+   "note": "",
+   "posts": {
+    "link": "107393769293726_1549321890552035"
+   },
+   "source_published_at": "2026-11-23T11:40:05+00:00",
+   "status": "published",
+   "title": "Irmãos que viviam em abrigo na Espanha chegam a Manaus para morar com os avós",
+   "updated_at": "2026-11-23T11:50:23+00:00",
+   "url": "https://marioadolfo.com/irmaos-que-viviam-em-abrigo-na-espanha-chegam-a-manaus-para-morar-com-os-avos/",
+   "url_hash": "dbff9fd56d728a7e30f90b24"
+  },
   "guid:6b0392b431292b0008f050d2": {
    "attempts": [
     {
@@ -32265,9 +32296,9 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-23T11:40:23+00:00",
+  "last_run_at": "2026-11-23T11:50:14+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-23T11:40:28+00:00"
+  "saved_at": "2026-11-23T11:50:23+00:00"
  },
  "schema": 1
 }
