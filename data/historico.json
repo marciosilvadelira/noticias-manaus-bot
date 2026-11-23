@@ -32543,14 +32543,56 @@
    "updated_at": "2026-11-23T17:00:22+00:00",
    "url": "https://marioadolfo.com/parcela-do-pe-de-meia-comeca-a-ser-paga-nesta-segunda/",
    "url_hash": "7be97afb643079c29afdcc07"
+  },
+  "guid:6b0470b031292b0008f05289": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Hertuzo poderá ser usado em casos iniciais e metastáticos",
+   "discovered_at": "2026-11-23T17:10:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b0470b031292b0008f05289",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/3fbbd858-9a17-4997-bb34-e51828e6e724.webp",
+   "key": "guid:6b0470b031292b0008f05289",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-23T17:01:22+00:00",
+   "status": "pending",
+   "title": "Anvisa aprova novo medicamento para tratar câncer de mama",
+   "updated_at": "2026-11-23T17:10:16+00:00",
+   "url": "https://marioadolfo.com/anvisa-aprova-novo-medicamento-para-tratar-cancer-de-mama/",
+   "url_hash": "50b6043418297d8ddf9324b6"
+  },
+  "guid:6b0471a631292b0008f0529e": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Com aproximação do período de rematrículas para o ano letivo de 2027, Secretaria de Estado de Educação reitera importância de manter o CPF dos estudantes regularizado",
+   "discovered_at": "2026-11-23T17:10:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b0471a631292b0008f0529e",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/3736f418-bf0a-485e-ac0d-0de8be8eb10f.jpeg",
+   "key": "guid:6b0471a631292b0008f0529e",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-23T17:03:59+00:00",
+   "status": "pending",
+   "title": "Matrículas 2027: Pais ou responsáveis devem regularizar documentos de estudantes da rede pública",
+   "updated_at": "2026-11-23T17:10:16+00:00",
+   "url": "https://marioadolfo.com/matriculas-2027-pais-ou-responsaveis-devem-regularizar-documentos-de-estudantes-da-rede-publica/",
+   "url_hash": "20dcdc0b964edcf5f58af407"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-23T17:00:21+00:00",
+  "last_run_at": "2026-11-23T17:10:16+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-23T17:00:22+00:00"
+  "saved_at": "2026-11-23T17:10:16+00:00"
  },
  "schema": 1
 }
