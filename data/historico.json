@@ -31952,11 +31952,19 @@
    "url_hash": "888e9d40898d6f536820c03a"
   },
   "guid:6b03412131292b0008f0501a": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-23T04:20:23+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1548965523921005",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Agenda reúne apresentações da Virada Amazônica, lançamento do Festival do Beiradão e estreias de “Terra de Sal” e “Fértil em Terras Áridas”",
    "discovered_at": "2026-11-22T19:30:19+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1548965523921005",
    "formats": [
     "link"
    ],
@@ -31964,11 +31972,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5c943730-f097-42cb-b07a-3fbcb3f2cd20.jpeg",
    "key": "guid:6b03412131292b0008f0501a",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1548965523921005"
+   },
    "source_published_at": "2026-11-22T19:26:15+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Teatro, circo e música têm programação gratuita em Manaus e Novo Airão",
-   "updated_at": "2026-11-22T19:30:19+00:00",
+   "updated_at": "2026-11-23T04:20:23+00:00",
    "url": "https://marioadolfo.com/teatro-circo-e-musica-tem-programacao-gratuita-em-manaus-e-novo-airao/",
    "url_hash": "68b786a97b6e82295af87a84"
   },
@@ -32004,11 +32014,19 @@
    "url_hash": "f538cf0922b710cedf146cf4"
   },
   "guid:6b03421231292b0008f05043": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-23T04:20:56+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1548965853920972",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Durante a ação, policiais apreenderam cinco aparelhos celulares",
    "discovered_at": "2026-11-22T19:40:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1548965853920972",
    "formats": [
     "link"
    ],
@@ -32016,20 +32034,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b3d94974-ac35-4030-b4fe-de6ad5c530c7.jpeg",
    "key": "guid:6b03421231292b0008f05043",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1548965853920972"
+   },
    "source_published_at": "2026-11-22T19:30:37+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Homem é preso com três armas artesanais e cinco celulares em Itamarati",
-   "updated_at": "2026-11-22T19:40:15+00:00",
+   "updated_at": "2026-11-23T04:20:56+00:00",
    "url": "https://marioadolfo.com/homem-e-preso-com-tres-armas-artesanais-e-cinco-celulares-em-itamarati/",
    "url_hash": "74af8978525a0f4f1ba34b82"
   },
   "guid:6b0342f731292b0008f0505a": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-23T04:21:27+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1548966153920942",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "A obra obras já conta com o rejuntamento da pedra São Tomé utilizada no calçamento",
    "discovered_at": "2026-11-22T19:40:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1548966153920942",
    "formats": [
     "link"
    ],
@@ -32037,20 +32065,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/23e1b949-6a88-4bb1-affb-8d761b637121.jpg",
    "key": "guid:6b0342f731292b0008f0505a",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1548966153920942"
+   },
    "source_published_at": "2026-11-22T19:33:55+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Pedras portuguesas de lioz vão compor calçada da rua gastronômica de Manaus",
-   "updated_at": "2026-11-22T19:40:15+00:00",
+   "updated_at": "2026-11-23T04:21:27+00:00",
    "url": "https://marioadolfo.com/pedras-portuguesas-de-lioz-vao-compor-calcada-da-rua-gastronomica-de-manaus/",
    "url_hash": "5fed8de31f5c17b7bf0e40a0"
   },
   "guid:6b0344af31292b0008f05073": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-23T04:21:52+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1548966527254238",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Estiagem já afeta 169.733 famílias em todo o estado. A cota atual do Rio Negro é de 15,86 metros",
    "discovered_at": "2026-11-22T19:50:14+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1548966527254238",
    "formats": [
     "link"
    ],
@@ -32058,20 +32096,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d4ea6a51-c890-4e5c-9424-453f632be572.jpg",
    "key": "guid:6b0344af31292b0008f05073",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1548966527254238"
+   },
    "source_published_at": "2026-11-22T19:46:56+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Estiagem: número de municípios em emergência sobe para 54 no Amazonas",
-   "updated_at": "2026-11-22T19:50:14+00:00",
+   "updated_at": "2026-11-23T04:21:52+00:00",
    "url": "https://marioadolfo.com/estiagem-numero-de-municipios-em-emergencia-sobe-para-54-no-amazonas/",
    "url_hash": "22afd0368d4964073214b792"
   },
   "guid:6b03475e31292b0008f0509a": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-23T04:22:17+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1548966857254205",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "A programada estava marcada para este domingo (22/11). Qualidade do ar está atualmente classificada como ruim",
    "discovered_at": "2026-11-22T20:00:20+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1548966857254205",
    "formats": [
     "link"
    ],
@@ -32079,11 +32127,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/dedb72d0-ba49-4491-953a-70456591df2a.jpg",
    "key": "guid:6b03475e31292b0008f0509a",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1548966857254205"
+   },
    "source_published_at": "2026-11-22T19:56:54+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Qualidade do ar leva Prefeitura a cancelar abertura do Natal na Ponta Negra",
-   "updated_at": "2026-11-22T20:00:20+00:00",
+   "updated_at": "2026-11-23T04:22:17+00:00",
    "url": "https://marioadolfo.com/qualidade-do-ar-leva-prefeitura-a-cancelar-abertura-do-natal-na-ponta-negra/",
    "url_hash": "4cb16da0d7a722d45d7974aa"
   }
@@ -32091,9 +32141,9 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-23T04:10:24+00:00",
+  "last_run_at": "2026-11-23T04:20:15+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-23T04:12:13+00:00"
+  "saved_at": "2026-11-23T04:22:17+00:00"
  },
  "schema": 1
 }
