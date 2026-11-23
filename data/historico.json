@@ -32438,14 +32438,35 @@
    "updated_at": "2026-11-23T15:00:23+00:00",
    "url": "https://marioadolfo.com/prefeitura-de-manaus-abre-inscricoes-para-treinamento-de-gestao-para-redes-sociais/",
    "url_hash": "9a22f94b894cb1a385c37988"
+  },
+  "guid:6b0454bd31292b0008f051ec": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Autazes lidera o ranking, com 66 registros, seguido por Boca do Acre e Apuí; no interior, foram formalizados 47 procedimentos policiais",
+   "discovered_at": "2026-11-23T15:10:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b0454bd31292b0008f051ec",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/9b777936-7def-4d40-942a-5cf28029d892.jpeg",
+   "key": "guid:6b0454bd31292b0008f051ec",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-23T15:02:07+00:00",
+   "status": "pending",
+   "title": "PC-AM contabiliza 572 Boletins de Ocorrência por crimes ambientais neste ano",
+   "updated_at": "2026-11-23T15:10:18+00:00",
+   "url": "https://marioadolfo.com/pc-am-contabiliza-572-boletins-de-ocorrencia-por-crimes-ambientais-neste-ano/",
+   "url_hash": "358d6f513224fc8148be34e5"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-23T15:00:23+00:00",
+  "last_run_at": "2026-11-23T15:10:17+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-23T15:00:24+00:00"
+  "saved_at": "2026-11-23T15:10:19+00:00"
  },
  "schema": 1
 }
