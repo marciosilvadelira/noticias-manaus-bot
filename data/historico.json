@@ -33071,12 +33071,12 @@
    "guid": "6b049da031292b0008f0540a",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c91a4871-a1a2-4763-a849-ff9fc42a5248.jpeg",
    "key": "guid:6b049da031292b0008f0540a",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-23T20:11:22+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Detran-AM: visitação para leilão de sucatas começa nesta terça-feira",
-   "updated_at": "2026-11-23T20:20:25+00:00",
+   "updated_at": "2026-11-24T20:20:16+00:00",
    "url": "https://marioadolfo.com/detran-am-visitacao-para-leilao-de-sucatas-comeca-nesta-terca-feira/",
    "url_hash": "f65b19ddd203236b6ea90f21"
   },
@@ -33756,9 +33756,9 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-24T20:10:18+00:00",
+  "last_run_at": "2026-11-24T20:20:16+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-24T20:10:19+00:00"
+  "saved_at": "2026-11-24T20:20:17+00:00"
  },
  "schema": 1
 }
