@@ -33751,14 +33751,35 @@
    "updated_at": "2026-11-24T20:10:18+00:00",
    "url": "https://marioadolfo.com/arcebispo-de-manaus-cobra-medidas-urgentes-contra-poluicao-causada-pela-fumaca/",
    "url_hash": "4b2b730223ef602b0103bf80"
+  },
+  "guid:6b05f31531292b0008f057da": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Júri popular integrou a programação da 34.ª Semana Justiça pela Paz em Casa",
+   "discovered_at": "2026-11-24T20:30:20+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b05f31531292b0008f057da",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/034f92d9-df1e-470f-8662-3d8cdef58382.jpg",
+   "key": "guid:6b05f31531292b0008f057da",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-24T20:28:09+00:00",
+   "status": "pending",
+   "title": "Homem é condenado a 10 anos e cinco meses de prisão por tentar matar a tia em Manaus",
+   "updated_at": "2026-11-24T20:30:20+00:00",
+   "url": "https://marioadolfo.com/homem-e-condenado-a-10-anos-e-cinco-meses-de-prisao-por-tentar-matar-a-tia-em-manaus/",
+   "url_hash": "024103238e8e2f6da138f970"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-24T20:20:16+00:00",
+  "last_run_at": "2026-11-24T20:30:19+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-24T20:20:17+00:00"
+  "saved_at": "2026-11-24T20:30:21+00:00"
  },
  "schema": 1
 }
