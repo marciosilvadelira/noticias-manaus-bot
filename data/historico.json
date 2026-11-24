@@ -32758,11 +32758,19 @@
    "url_hash": "e705dc299c55fccaa0cc3135"
   },
   "guid:6b0473d931292b0008f052d9": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-24T04:30:25+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1550118910472333",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Legislação exige que nomes dos dois suplentes sejam apresentados com tamanho proporcional ao do candidato titular; regra também se aplica às publicações em redes sociais",
    "discovered_at": "2026-11-23T17:20:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1550118910472333",
    "formats": [
     "link"
    ],
@@ -32770,20 +32778,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/70e8f583-6a63-48bf-ba50-954f45523ccd.jpeg",
    "key": "guid:6b0473d931292b0008f052d9",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1550118910472333"
+   },
    "source_published_at": "2026-11-23T17:13:06+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "TRE-AM reafirma regras para identificação de suplentes em propagandas eleitorais",
-   "updated_at": "2026-11-23T17:20:16+00:00",
+   "updated_at": "2026-11-24T04:30:25+00:00",
    "url": "https://marioadolfo.com/tre-am-reafirma-regras-para-identificacao-de-suplentes-em-propagandas-eleitorais/",
    "url_hash": "d76891fbd9cfa966d698c70b"
   },
   "guid:6b04748131292b0008f052f0": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-24T04:30:52+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1550119410472283",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Senador busca assegurar investimentos para a BR-319 e o Porto da Manaus Moderna e anuncia novidade para a capital: o novo Porto do São Raimundo",
    "discovered_at": "2026-11-23T17:20:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1550119410472283",
    "formats": [
     "link"
    ],
@@ -32791,20 +32809,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/075acf75-c6b8-43b7-873a-6067f9f6e911.jpeg",
    "key": "guid:6b04748131292b0008f052f0",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1550119410472283"
+   },
    "source_published_at": "2026-11-23T17:19:07+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Braga articula recursos no Orçamento de 2027 para continuidade de obras no Amazonas",
-   "updated_at": "2026-11-23T17:20:16+00:00",
+   "updated_at": "2026-11-24T04:30:52+00:00",
    "url": "https://marioadolfo.com/braga-articula-recursos-no-orcamento-de-2027-para-continuidade-de-obras-no-amazonas/",
    "url_hash": "e59fa76096fa26580ebef2c7"
   },
   "guid:6b0475df31292b0008f05309": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-24T04:31:18+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1550119987138892",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "O acidente ocorreu em frente à Escola Senai Demóstenes Travessa. A vítima foi socorrida com vida",
    "discovered_at": "2026-11-23T17:40:19+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1550119987138892",
    "formats": [
     "link"
    ],
@@ -32812,20 +32840,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f74d5d28-4f0d-4e97-92a0-55c8dcc47caa.jpeg",
    "key": "guid:6b0475df31292b0008f05309",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1550119987138892"
+   },
    "source_published_at": "2026-11-23T17:33:19+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Vídeo: adolescente é atropelada em frente a escola na zona sul de Manaus",
-   "updated_at": "2026-11-23T17:40:19+00:00",
+   "updated_at": "2026-11-24T04:31:18+00:00",
    "url": "https://marioadolfo.com/video-adolescente-e-atropelada-em-frente-a-escola-na-zona-sul-de-manaus/",
    "url_hash": "928c626840242f43f2f680f9"
   },
   "guid:6b0478f231292b0008f05327": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-24T04:31:45+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1550120320472192",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Suspeita inicial é de asfixia ou estrangulamento, mas causa da morte depende da perícia",
    "discovered_at": "2026-11-23T17:40:19+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1550120320472192",
    "formats": [
     "link"
    ],
@@ -32833,20 +32871,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/785baae1-655a-4f29-85be-f96a6da81718.jpeg",
    "key": "guid:6b0478f231292b0008f05327",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1550120320472192"
+   },
    "source_published_at": "2026-11-23T17:35:43+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Homem de 29 anos é encontrado morto em beco no Petrópolis",
-   "updated_at": "2026-11-23T17:40:19+00:00",
+   "updated_at": "2026-11-24T04:31:45+00:00",
    "url": "https://marioadolfo.com/homem-de-29-anos-e-encontrado-morto-em-beco-no-petropolis/",
    "url_hash": "5d485f0f412423826d4d8aab"
   },
   "guid:6b04798731292b0008f05342": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-24T04:32:13+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1550120643805493",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Atendimento telefônico acontece entre 26 de novembro e 03 de dezembro, das 08h às 20h",
    "discovered_at": "2026-11-23T17:40:19+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1550120643805493",
    "formats": [
     "link"
    ],
@@ -32854,11 +32902,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d5cae0ba-2c05-491f-a686-1de38e6e17ee.jpeg",
    "key": "guid:6b04798731292b0008f05342",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1550120643805493"
+   },
    "source_published_at": "2026-11-23T17:39:41+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Feirão Serasa Limpa Nome oferece negociação de dívidas por telefone",
-   "updated_at": "2026-11-23T17:40:19+00:00",
+   "updated_at": "2026-11-24T04:32:13+00:00",
    "url": "https://marioadolfo.com/feirao-serasa-limpa-nome-oferece-negociacao-de-dividas-por-telefone/",
    "url_hash": "1a3fddbc9221b44cfe80b65c"
   },
@@ -33055,9 +33105,9 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-24T04:20:16+00:00",
+  "last_run_at": "2026-11-24T04:30:18+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-24T04:22:08+00:00"
+  "saved_at": "2026-11-24T04:32:13+00:00"
  },
  "schema": 1
 }
