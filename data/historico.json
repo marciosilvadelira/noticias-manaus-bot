@@ -33499,14 +33499,35 @@
    "updated_at": "2026-11-24T18:10:16+00:00",
    "url": "https://marioadolfo.com/aguas-de-manaus-moderniza-cabos-de-alta-tensao-submersos-que-alimentam-a-eta-mauazinho/",
    "url_hash": "34e8611cfdb5518725037f8b"
+  },
+  "guid:6b05d2cc31292b0008f056a7": {
+   "attempts": [],
+   "category": "Parintins",
+   "description": "Criada por Regiane Lima, da Yandê Amazônia, a luminária Kurimá ficou em terceiro lugar na categoria Design de Bioeconomia de premiação que reuniu cerca de 450 projetos de todo o Brasil",
+   "discovered_at": "2026-11-24T18:20:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b05d2cc31292b0008f056a7",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/51185412-084f-4b86-9938-870b8aea7d6b.png",
+   "key": "guid:6b05d2cc31292b0008f056a7",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-24T18:12:14+00:00",
+   "status": "pending",
+   "title": "Artesã de Parintins conquista prêmio nacional de design com peça feita de folhas de andiroba",
+   "updated_at": "2026-11-24T18:20:17+00:00",
+   "url": "https://marioadolfo.com/artesa-de-parintins-conquista-premio-nacional-de-design-com-peca-feita-de-folhas-de-andiroba/",
+   "url_hash": "9a45e9563d20bb0f895b47cf"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-24T18:10:15+00:00",
+  "last_run_at": "2026-11-24T18:20:16+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-24T18:10:16+00:00"
+  "saved_at": "2026-11-24T18:20:18+00:00"
  },
  "schema": 1
 }
