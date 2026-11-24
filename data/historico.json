@@ -33373,14 +33373,77 @@
    "updated_at": "2026-11-24T17:10:16+00:00",
    "url": "https://marioadolfo.com/lei-paulo-gustavo-impulsiona-criacao-de-jogo-digital-educativo-com-tematica-amazonica/",
    "url_hash": "75adad0540c1f05d9c167006"
+  },
+  "guid:6b05c4e031292b0008f05612": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Instituto também vai depositar benefícios e auxílios de novembro",
+   "discovered_at": "2026-11-24T17:20:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b05c4e031292b0008f05612",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/8daf62c6-3be8-4a16-b6cf-7de515e64d33.jpeg",
+   "key": "guid:6b05c4e031292b0008f05612",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-24T17:11:31+00:00",
+   "status": "pending",
+   "title": "INSS começa a pagar décimo terceiro salário nesta terça-feira (24)",
+   "updated_at": "2026-11-24T17:20:19+00:00",
+   "url": "https://marioadolfo.com/inss-comeca-a-pagar-decimo-terceiro-salario-nesta-terca-feira-24/",
+   "url_hash": "bdcd196afc781fe41686da8d"
+  },
+  "guid:6b05c55231292b0008f05627": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "O crime ocorreu no dia 13 de junho deste ano, quando a investigada e a vítima consumiam bebidas alcoólicas na residência do homem",
+   "discovered_at": "2026-11-24T17:20:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b05c55231292b0008f05627",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/7d02dc67-51c8-41a5-be28-6559156f40e9.jpeg",
+   "key": "guid:6b05c55231292b0008f05627",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-24T17:14:36+00:00",
+   "status": "pending",
+   "title": "Mulher é presa por tentar matar vizinho com faca no bairro Coroado",
+   "updated_at": "2026-11-24T17:20:19+00:00",
+   "url": "https://marioadolfo.com/mulher-e-presa-por-tentar-matar-vizinho-com-faca-no-bairro-coroado/",
+   "url_hash": "842cc40b2e4356f98f68890f"
+  },
+  "guid:6b05c62831292b0008f05646": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Os profissionais  têm até o dia 22 de dezembro para apresentação na sede da secretaria, situada no bairro Adrianópolis",
+   "discovered_at": "2026-11-24T17:20:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b05c62831292b0008f05646",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2d570a55-5678-474f-bd1c-8660f3881f9d.jpeg",
+   "key": "guid:6b05c62831292b0008f05646",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-24T17:17:04+00:00",
+   "status": "pending",
+   "title": "Semsa convoca 32 profissionais aprovados em concurso para posse",
+   "updated_at": "2026-11-24T17:20:19+00:00",
+   "url": "https://marioadolfo.com/semsa-convoca-32-profissionais-aprovados-em-concurso-para-posse/",
+   "url_hash": "e33ddad79750bc241ca188a8"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-24T17:10:16+00:00",
+  "last_run_at": "2026-11-24T17:20:19+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-24T17:10:17+00:00"
+  "saved_at": "2026-11-24T17:20:20+00:00"
  },
  "schema": 1
 }
