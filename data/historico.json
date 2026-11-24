@@ -33008,12 +33008,12 @@
    "guid": "6b04985a31292b0008f053ba",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a69ca2c0-6aed-41c0-8665-cf8bdefd9de3.webp",
    "key": "guid:6b04985a31292b0008f053ba",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-23T19:50:42+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Suspeito de ferir trio com garrafa de vidro é procurado em Manaus",
-   "updated_at": "2026-11-23T20:00:22+00:00",
+   "updated_at": "2026-11-24T20:00:33+00:00",
    "url": "https://marioadolfo.com/suspeito-de-ferir-trio-com-garrafa-de-vidro-e-procurado-em-manaus/",
    "url_hash": "f57e5e9b02c9b74d4ca74aa8"
   },
@@ -33709,14 +33709,35 @@
    "updated_at": "2026-11-24T19:50:17+00:00",
    "url": "https://marioadolfo.com/tio-e-preso-suspeito-de-esfaquear-sobrinha-de-19-anos-em-manaus/",
    "url_hash": "cc6d613aa0b26f2de592af68"
+  },
+  "guid:6b05eaab31292b0008f057a1": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A cada 100 pontos acumulados, o usuário recebe R$ 0,35 de desconto, creditados diretamente na conta PassaFácil",
+   "discovered_at": "2026-11-24T20:00:33+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b05eaab31292b0008f057a1",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/7deaa09e-8662-4816-89b3-8a5ae45003a2.jpeg",
+   "key": "guid:6b05eaab31292b0008f057a1",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-24T19:54:21+00:00",
+   "status": "pending",
+   "title": "Reciclagem de garrafas pet pode render desconto no ônibus em Manaus",
+   "updated_at": "2026-11-24T20:00:33+00:00",
+   "url": "https://marioadolfo.com/reciclagem-de-garrafas-pet-pode-render-desconto-nos-onibus-em-manaus/",
+   "url_hash": "648611e73cbefd199ad0bedd"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-24T19:50:17+00:00",
+  "last_run_at": "2026-11-24T20:00:32+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-24T19:50:18+00:00"
+  "saved_at": "2026-11-24T20:00:33+00:00"
  },
  "schema": 1
 }
