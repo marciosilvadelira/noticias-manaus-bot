@@ -33092,12 +33092,12 @@
    "guid": "6b04be8d31292b0008f05425",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/29f0526d-90ef-421c-8bf5-8e9d479de2e5.png",
    "key": "guid:6b04be8d31292b0008f05425",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-23T22:33:30+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Bombeiros combatem 156 focos de incêndio em dois dias no Amazonas",
-   "updated_at": "2026-11-23T22:40:16+00:00",
+   "updated_at": "2026-11-24T22:40:15+00:00",
    "url": "https://marioadolfo.com/bombeiros-combatem-156-focos-de-incendio-em-dois-dias-no-amazonas/",
    "url_hash": "0a5c7e441feb0bcde78dac83"
   },
@@ -33793,14 +33793,35 @@
    "updated_at": "2026-11-24T20:40:16+00:00",
    "url": "https://marioadolfo.com/caso-benicio-medica-e-tecnica-de-enfermagem-viram-res-pela-morte-de-crianca/",
    "url_hash": "2435e7fdcb6550c8c1d144a9"
+  },
+  "guid:6b06100631292b0008f0581b": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Representantes da empresa Sever Boats também avaliam oportunidades na Zona Franca de Manaus para produção de embarcações e veículos",
+   "discovered_at": "2026-11-24T22:40:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b06100631292b0008f0581b",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c8b897b8-6524-4a9f-b900-2cd24c85aeb7.jpeg",
+   "key": "guid:6b06100631292b0008f0581b",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-24T22:32:42+00:00",
+   "status": "pending",
+   "title": "Omar Aziz recebe delegação russa interessada em instalar estaleiro em Manaus",
+   "updated_at": "2026-11-24T22:40:15+00:00",
+   "url": "https://marioadolfo.com/omar-aziz-recebe-delegacao-russa-interessada-em-instalar-estaleiro-em-manaus/",
+   "url_hash": "738e9336fc5054e8390b5535"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-24T22:30:19+00:00",
+  "last_run_at": "2026-11-24T22:40:15+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-24T22:30:20+00:00"
+  "saved_at": "2026-11-24T22:40:16+00:00"
  },
  "schema": 1
 }
