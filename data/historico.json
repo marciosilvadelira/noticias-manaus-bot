@@ -30347,11 +30347,19 @@
    "url_hash": "09e54e074a9ec84e9a8f8fd4"
   },
   "guid:6aff401852c09500099e3a86": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-24T04:00:27+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1550092200475004",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "As oportunidades do processo seletivo exigem ensino fundamental completo e estão distribuídas por municípios de todo o estado",
    "discovered_at": "2026-11-23T12:10:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1550092200475004",
    "formats": [
     "link"
    ],
@@ -30359,11 +30367,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/1347af7e-3a70-42da-aa33-4d165186b4ad.jpg",
    "key": "guid:6aff401852c09500099e3a86",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1550092200475004"
+   },
    "source_published_at": "2026-11-23T12:00:05+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Inscrições para 829 vagas de recenseador no Amazonas encerram na quarta (25)",
-   "updated_at": "2026-11-23T12:10:18+00:00",
+   "updated_at": "2026-11-24T04:00:27+00:00",
    "url": "https://marioadolfo.com/inscricoes-para-829-vagas-de-recenseador-no-amazonas-encerram-na-quarta-25/",
    "url_hash": "3b171bf8338f6bd2ef4daa6b"
   },
@@ -32314,11 +32324,19 @@
    "url_hash": "70e903e86ea058c5c447b552"
   },
   "guid:6b04320b31292b0008f0514e": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-24T04:00:52+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1550092450474979",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Segunda edição reúne música, cinema, homenagens e atividades formativas em Manaus e Manacapuru, com encerramento no Largo de São Sebastião",
    "discovered_at": "2026-11-23T12:40:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1550092450474979",
    "formats": [
     "link"
    ],
@@ -32326,20 +32344,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/898ae056-fb21-4545-a298-49e5c7048fe8.jpg",
    "key": "guid:6b04320b31292b0008f0514e",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1550092450474979"
+   },
    "source_published_at": "2026-11-23T12:32:59+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Festival do Beiradão do Amazonas começa nesta segunda-feira",
-   "updated_at": "2026-11-23T12:40:17+00:00",
+   "updated_at": "2026-11-24T04:00:52+00:00",
    "url": "https://marioadolfo.com/festival-do-beiradao-do-amazonas-comeca-nesta-segunda-feira-2/",
    "url_hash": "f9a6b2844033bb00b24cd83b"
   },
   "guid:6b0433e531292b0008f0516d": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-24T04:01:17+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1550092750474949",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Com atuação e dramaturgia de Sahel Oliveira, solo do Grupo Fome será apresentado às 20h, com entrada gratuita",
    "discovered_at": "2026-11-23T12:50:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1550092750474949",
    "formats": [
     "link"
    ],
@@ -32347,20 +32375,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/fe4811c9-6672-4193-b48f-a6f129bc6182.jpeg",
    "key": "guid:6b0433e531292b0008f0516d",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1550092750474949"
+   },
    "source_published_at": "2026-11-23T12:41:18+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Espetáculo ‘Terra de Sal’ estreia nesta segunda-feira no Teatro Américo Alvarez",
-   "updated_at": "2026-11-23T12:50:17+00:00",
+   "updated_at": "2026-11-24T04:01:17+00:00",
    "url": "https://marioadolfo.com/espetaculo-terra-de-sal-estreia-nesta-segunda-feira-no-teatro-americo-alvarez/",
    "url_hash": "89e1fa245d4684d47dcaf85e"
   },
   "guid:6b04450d31292b0008f05186": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-24T04:01:41+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1550093030474921",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Um vídeo que circula nas redes sociais mostra o suspeito sendo castigado com cerca de 40 golpes, conhecidos popularmente como ‘bolos’, em uma área de mata",
    "discovered_at": "2026-11-23T14:00:30+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1550093030474921",
    "formats": [
     "link"
    ],
@@ -32368,20 +32406,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/28d1e57d-1e8c-45e0-abd2-a3af90088751.webp",
    "key": "guid:6b04450d31292b0008f05186",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1550093030474921"
+   },
    "source_published_at": "2026-11-23T13:53:55+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Homem é torturado em ‘tribunal do crime’ após ser acusado de agredir mulher em Manaus",
-   "updated_at": "2026-11-23T14:00:30+00:00",
+   "updated_at": "2026-11-24T04:01:41+00:00",
    "url": "https://marioadolfo.com/homem-e-torturado-em-tribunal-do-crime-apos-ser-acusado-de-agredir-mulher-em-manaus/",
    "url_hash": "4c267675c915fa48ea117e63"
   },
   "guid:6b04508e31292b0008f0519e": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-24T04:02:08+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1550093360474888",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Lançamento será no dia 25 de novembro, no Casarão de Ideias. Obra reúne histórias de mulheres com atuação na previdência pública brasileira",
    "discovered_at": "2026-11-23T14:50:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1550093360474888",
    "formats": [
     "link"
    ],
@@ -32389,11 +32437,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/fdc38dfc-075e-4e73-93b9-4405ec2837fd.jpg",
    "key": "guid:6b04508e31292b0008f0519e",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1550093360474888"
+   },
    "source_published_at": "2026-11-23T14:49:00+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Daniela Benayon é coautora de livro que destaca protagonismo feminino nos RPPS",
-   "updated_at": "2026-11-23T14:50:16+00:00",
+   "updated_at": "2026-11-24T04:02:08+00:00",
    "url": "https://marioadolfo.com/daniela-benayon-e-coautora-de-livro-que-destaca-protagonismo-feminino-nos-rpps/",
    "url_hash": "c9bcb9bb47a92b3bceae73e0"
   },
@@ -32905,9 +32955,9 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-24T03:50:14+00:00",
+  "last_run_at": "2026-11-24T04:00:20+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-24T03:50:15+00:00"
+  "saved_at": "2026-11-24T04:02:08+00:00"
  },
  "schema": 1
 }
