@@ -32966,12 +32966,12 @@
    "guid": "6b0496ea31292b0008f05389",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/1283c8c7-d7e4-4af8-abd8-dfd0b2af8d0f.jpeg",
    "key": "guid:6b0496ea31292b0008f05389",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-23T19:43:10+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Cine Paricá: Ruínas de Paricatuba recebem sessão gratuita de cinema a céu aberto",
-   "updated_at": "2026-11-23T19:50:15+00:00",
+   "updated_at": "2026-11-24T19:50:17+00:00",
    "url": "https://marioadolfo.com/cine-parica-ruinas-de-paricatuba-recebem-sessao-gratuita-de-cinema-a-ceu-aberto/",
    "url_hash": "82a22135461efe2b2905b830"
   },
@@ -32987,12 +32987,12 @@
    "guid": "6b0497dd31292b0008f053a3",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/82e06573-2974-4bca-9dba-a74295f3a621.jpeg",
    "key": "guid:6b0497dd31292b0008f053a3",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-23T19:46:11+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Crea-AM terá novo concurso público com provas previstas para 2027",
-   "updated_at": "2026-11-23T19:50:15+00:00",
+   "updated_at": "2026-11-24T19:50:17+00:00",
    "url": "https://marioadolfo.com/crea-am-tera-novo-concurso-publico-com-provas-previstas-para-2027/",
    "url_hash": "6935626399548812fef94c7b"
   },
@@ -33646,14 +33646,77 @@
    "updated_at": "2026-11-24T19:40:17+00:00",
    "url": "https://marioadolfo.com/homem-e-preso-por-tentar-matar-companheiro-da-ex-mulher-em-parintins/",
    "url_hash": "5f833bad2a77e63f1d5ed100"
+  },
+  "guid:6b05e7fe31292b0008f0575b": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Investigado afirmava ter sido chefe de carcereiro e usava o suposto conhecimento jurídico para ameaçar a adolescente",
+   "discovered_at": "2026-11-24T19:50:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b05e7fe31292b0008f0575b",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ad1feafe-fa32-4e8b-b879-e548227fd7c4.jpeg",
+   "key": "guid:6b05e7fe31292b0008f0575b",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-24T19:42:29+00:00",
+   "status": "pending",
+   "title": "Padrasto é preso após enteada de 13 anos escrever carta pedindo socorro na escola",
+   "updated_at": "2026-11-24T19:50:17+00:00",
+   "url": "https://marioadolfo.com/padrasto-e-preso-apos-enteada-de-13-anos-escrever-carta-pedindo-socorro-na-escola/",
+   "url_hash": "79615a196fd21ba74a5e7c20"
+  },
+  "guid:6b05e92f31292b0008f05772": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Espetáculo acontece nesta quarta-feira (25), às 20h, com a Amazonas Filarmônica, o Coral do Amazonas e o Balé Folclórico do Amazonas",
+   "discovered_at": "2026-11-24T19:50:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b05e92f31292b0008f05772",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/665265ff-1829-4bfa-bf6a-e3e90629a197.jpeg",
+   "key": "guid:6b05e92f31292b0008f05772",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-24T19:47:24+00:00",
+   "status": "pending",
+   "title": "Temporada de Concertos da Amazonas Filarmônica 2026 apresenta 'Maracatu de Chico Rei' e tributo a Portinari n",
+   "updated_at": "2026-11-24T19:50:17+00:00",
+   "url": "https://marioadolfo.com/temporada-de-concertos-da-amazonas-filarmonica-2026-apresenta-maracatu-de-chico-rei-e-tributo-a-portinari-n/",
+   "url_hash": "299f186f61595a8ff1db1f22"
+  },
+  "guid:6b05e9d131292b0008f05787": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Jovem foi atingida por pelo menos quatro golpes de faca no bairro Colônia Terra Nova",
+   "discovered_at": "2026-11-24T19:50:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b05e9d131292b0008f05787",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/11189f6f-34eb-43c6-8098-408671b16b2d.jpeg",
+   "key": "guid:6b05e9d131292b0008f05787",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-24T19:49:25+00:00",
+   "status": "pending",
+   "title": "Tio é preso suspeito de esfaquear sobrinha de 19 anos em Manaus",
+   "updated_at": "2026-11-24T19:50:17+00:00",
+   "url": "https://marioadolfo.com/tio-e-preso-suspeito-de-esfaquear-sobrinha-de-19-anos-em-manaus/",
+   "url_hash": "cc6d613aa0b26f2de592af68"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-24T19:40:16+00:00",
+  "last_run_at": "2026-11-24T19:50:17+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-24T19:40:18+00:00"
+  "saved_at": "2026-11-24T19:50:18+00:00"
  },
  "schema": 1
 }
