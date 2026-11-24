@@ -33436,14 +33436,35 @@
    "updated_at": "2026-11-24T17:20:19+00:00",
    "url": "https://marioadolfo.com/semsa-convoca-32-profissionais-aprovados-em-concurso-para-posse/",
    "url_hash": "e33ddad79750bc241ca188a8"
+  },
+  "guid:6b05c6be31292b0008f0565b": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Equipes realizam serviços de infraestrutura, drenagem, instalação de meio-fio e assentamento de pedras e pavers",
+   "discovered_at": "2026-11-24T17:30:28+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b05c6be31292b0008f0565b",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b0656be2-67f0-4bfc-858b-5fa8d96a70c3.jpeg",
+   "key": "guid:6b05c6be31292b0008f0565b",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-24T17:20:03+00:00",
+   "status": "pending",
+   "title": "Obras de rua gastronômica avançam com serviços simultâneos nos dois trechos",
+   "updated_at": "2026-11-24T17:30:28+00:00",
+   "url": "https://marioadolfo.com/obras-de-rua-gastronomica-avancam-com-servicos-simultaneos-nos-dois-trechos/",
+   "url_hash": "23e5cbb0f0a9930746c0451c"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-24T17:20:19+00:00",
+  "last_run_at": "2026-11-24T17:30:27+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-24T17:20:20+00:00"
+  "saved_at": "2026-11-24T17:30:28+00:00"
  },
  "schema": 1
 }
