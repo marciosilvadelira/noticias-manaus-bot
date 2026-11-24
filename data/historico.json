@@ -33772,14 +33772,35 @@
    "updated_at": "2026-11-24T20:30:20+00:00",
    "url": "https://marioadolfo.com/homem-e-condenado-a-10-anos-e-cinco-meses-de-prisao-por-tentar-matar-a-tia-em-manaus/",
    "url_hash": "024103238e8e2f6da138f970"
+  },
+  "guid:6b05f36831292b0008f057ef": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "As duas respondem por homicídio qualificado com dolo eventual. Morte de Benício Xavier completou um ano neste domingo (23)",
+   "discovered_at": "2026-11-24T20:40:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b05f36831292b0008f057ef",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/081369fb-47f0-4ab0-9ddc-ac8a01267549.jpg",
+   "key": "guid:6b05f36831292b0008f057ef",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-24T20:33:42+00:00",
+   "status": "pending",
+   "title": "Caso Benício: médica e técnica de enfermagem viram rés pela morte de criança",
+   "updated_at": "2026-11-24T20:40:16+00:00",
+   "url": "https://marioadolfo.com/caso-benicio-medica-e-tecnica-de-enfermagem-viram-res-pela-morte-de-crianca/",
+   "url_hash": "2435e7fdcb6550c8c1d144a9"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-24T20:30:19+00:00",
+  "last_run_at": "2026-11-24T20:40:15+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-24T20:30:21+00:00"
+  "saved_at": "2026-11-24T20:40:16+00:00"
  },
  "schema": 1
 }
