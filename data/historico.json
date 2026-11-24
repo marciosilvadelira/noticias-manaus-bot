@@ -33290,6 +33290,27 @@
    "url": "https://marioadolfo.com/dito-feito-omar-aziz-quer-saber-quem-deixou-rombo-no-governo/",
    "url_hash": "5b28006b66de50a09486c4ab"
   },
+  "guid:6b05c09531292b0008f0557d": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Do total de veículos apreendidos, 240 foram apreendidos no interior e 114 na capital amazonense",
+   "discovered_at": "2026-11-24T17:10:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b05c09531292b0008f0557d",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e984919a-a1d2-48f1-86b9-50d0719b7ce2.jpeg",
+   "key": "guid:6b05c09531292b0008f0557d",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-24T17:02:51+00:00",
+   "status": "pending",
+   "title": "Mais de 350 veículos são apreendidos no Amazonas em 2026",
+   "updated_at": "2026-11-24T17:10:16+00:00",
+   "url": "https://marioadolfo.com/mais-de-350-veiculos-sao-apreendidos-no-amazonas-em-2026/",
+   "url_hash": "61519ec2bc3580f50227a252"
+  },
   "guid:6b05c18631292b0008f05586": {
    "attempts": [],
    "category": "Amazonas",
@@ -33310,14 +33331,56 @@
    "updated_at": "2026-11-24T17:00:25+00:00",
    "url": "https://marioadolfo.com/fumaca-causa-suspensao-de-aulas-na-ufam-e-na-uea-nesta-terca-feira/",
    "url_hash": "7ae45db5ee9cb684cd9e03b1"
+  },
+  "guid:6b05c35531292b0008f055c8": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Com uma taxa de 0,93 vítima por 100 mil mulheres, o estado apresentou o menor índice entre as 27 unidades da Federação",
+   "discovered_at": "2026-11-24T17:10:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b05c35531292b0008f055c8",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2b83efa1-621f-4e00-a6e9-1de0de85e060.jpeg",
+   "key": "guid:6b05c35531292b0008f055c8",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-24T17:06:47+00:00",
+   "status": "pending",
+   "title": "Amazonas lidera ranking nacional com a menor taxa de feminicídio em 2025",
+   "updated_at": "2026-11-24T17:10:16+00:00",
+   "url": "https://marioadolfo.com/amazonas-lidera-ranking-nacional-de-menor-taxa-de-feminicidio-em-2025/",
+   "url_hash": "9d81afcaa8502465d78fc80b"
+  },
+  "guid:6b05c46b31292b0008f055f9": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "‘Amazônia Mágica: Floresta das Letras’ combina educação infantil e exploração da floresta em ambiente 3D",
+   "discovered_at": "2026-11-24T17:10:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b05c46b31292b0008f055f9",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4783ca59-7122-490f-abe8-e796ad7efa63.jpeg",
+   "key": "guid:6b05c46b31292b0008f055f9",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-24T17:09:07+00:00",
+   "status": "pending",
+   "title": "Lei Paulo Gustavo impulsiona criação de jogo digital educativo com temática amazônica",
+   "updated_at": "2026-11-24T17:10:16+00:00",
+   "url": "https://marioadolfo.com/lei-paulo-gustavo-impulsiona-criacao-de-jogo-digital-educativo-com-tematica-amazonica/",
+   "url_hash": "75adad0540c1f05d9c167006"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-24T17:00:25+00:00",
+  "last_run_at": "2026-11-24T17:10:16+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-24T17:00:26+00:00"
+  "saved_at": "2026-11-24T17:10:17+00:00"
  },
  "schema": 1
 }
