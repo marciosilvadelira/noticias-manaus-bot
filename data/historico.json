@@ -33247,14 +33247,35 @@
    "updated_at": "2026-11-24T11:40:15+00:00",
    "url": "https://marioadolfo.com/tce-am-da-5-dias-para-governo-explicar-atraso-em-repasses-do-fti-a-saude/",
    "url_hash": "1fe08b41cb51de6fbdbae1a3"
+  },
+  "guid:6b057a3f31292b0008f054ff": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "A ação integra três operações simultâneas que cumprem 72 mandados de busca e apreensão e 39 de prisão",
+   "discovered_at": "2026-11-24T12:00:24+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b057a3f31292b0008f054ff",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2e037cd2-7830-4800-b0e0-6abb934cedcf.webp",
+   "key": "guid:6b057a3f31292b0008f054ff",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-24T11:56:00+00:00",
+   "status": "pending",
+   "title": "MC Ryan é alvo de operação contra lavagem de dinheiro",
+   "updated_at": "2026-11-24T12:00:24+00:00",
+   "url": "https://marioadolfo.com/mc-ryan-e-alvo-de-operacao-contra-lavagem-de-dinheiro/",
+   "url_hash": "9bb71f19105c6b7e202563b3"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-24T11:50:17+00:00",
+  "last_run_at": "2026-11-24T12:00:23+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-24T11:50:18+00:00"
+  "saved_at": "2026-11-24T12:00:25+00:00"
  },
  "schema": 1
 }
