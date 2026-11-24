@@ -33100,14 +33100,56 @@
    "updated_at": "2026-11-23T22:40:16+00:00",
    "url": "https://marioadolfo.com/bombeiros-combatem-156-focos-de-incendio-em-dois-dias-no-amazonas/",
    "url_hash": "0a5c7e441feb0bcde78dac83"
+  },
+  "guid:6b04e54e31292b0008f05487": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "O quadro do ex-presidente é estável. Ele está internado desde sexta-feira (20)",
+   "discovered_at": "2026-11-24T11:30:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b04e54e31292b0008f05487",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6077e92c-eb12-461d-bb3a-072b9ef1bed9.webp",
+   "key": "guid:6b04e54e31292b0008f05487",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-24T11:20:39+00:00",
+   "status": "pending",
+   "title": "Bolsonaro é diagnosticado com pneumonia e continuará internado",
+   "updated_at": "2026-11-24T11:30:21+00:00",
+   "url": "https://marioadolfo.com/bolsonaro-e-diagnosticado-com-pneumonia-e-continuara-internado/",
+   "url_hash": "84cccc86be7a1fecd085e179"
+  },
+  "guid:6b05742731292b0008f054ca": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "O texto muda as regras fiscais para permitir ao Executivo limitar a execução de despesas a fim de alcançar as metas de superávit primário a partir de 2027",
+   "discovered_at": "2026-11-24T11:30:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b05742731292b0008f054ca",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/362021e0-21f4-4553-9f7c-802d521d9aec.webp",
+   "key": "guid:6b05742731292b0008f054ca",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-24T11:28:17+00:00",
+   "status": "pending",
+   "title": "Câmara aprova ajuste fiscal sem alterações; projeto segue para sanção",
+   "updated_at": "2026-11-24T11:30:21+00:00",
+   "url": "https://marioadolfo.com/camara-aprova-ajuste-fiscal-sem-alteracoes-projeto-segue-para-sancao/",
+   "url_hash": "4288cdcec5e2deb38f9de9c3"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-24T11:20:15+00:00",
+  "last_run_at": "2026-11-24T11:30:21+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-24T11:20:16+00:00"
+  "saved_at": "2026-11-24T11:30:22+00:00"
  },
  "schema": 1
 }
