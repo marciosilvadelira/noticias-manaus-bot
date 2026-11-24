@@ -32448,11 +32448,19 @@
    "url_hash": "c9bcb9bb47a92b3bceae73e0"
   },
   "guid:6b04534631292b0008f051c1": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-24T04:10:20+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1550099390474285",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Iniciativa é da Prefeitura de Manaus em parceria com o grupo Madero",
    "discovered_at": "2026-11-23T15:00:23+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1550099390474285",
    "formats": [
     "link"
    ],
@@ -32460,20 +32468,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6f62663f-f71a-494f-a2b0-b5740d5d5801.jpeg",
    "key": "guid:6b04534631292b0008f051c1",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1550099390474285"
+   },
    "source_published_at": "2026-11-23T14:54:50+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "‘Mutirão de Empregos’ oferta mais de 100 vagas para trabalhar fora do Amazonas",
-   "updated_at": "2026-11-23T15:00:23+00:00",
+   "updated_at": "2026-11-24T04:10:20+00:00",
    "url": "https://marioadolfo.com/mutirao-de-empregos-oferta-mais-de-100-vagas-para-trabalhar-fora-do-amazonas/",
    "url_hash": "e7e2e6627109e5cd93081d88"
   },
   "guid:6b0453d931292b0008f051d8": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-24T04:10:44+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1550099597140931",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Os interessados devem se inscrever até as 17h desta quarta-feira, 25/11",
    "discovered_at": "2026-11-23T15:00:23+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1550099597140931",
    "formats": [
     "link"
    ],
@@ -32481,20 +32499,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0ddd5a9e-9ed8-420e-b848-7c8ab4aff973.jpeg",
    "key": "guid:6b0453d931292b0008f051d8",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1550099597140931"
+   },
    "source_published_at": "2026-11-23T14:56:29+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Prefeitura de Manaus abre inscrições para treinamento de ‘Gestão para Redes Sociais’",
-   "updated_at": "2026-11-23T15:00:23+00:00",
+   "updated_at": "2026-11-24T04:10:44+00:00",
    "url": "https://marioadolfo.com/prefeitura-de-manaus-abre-inscricoes-para-treinamento-de-gestao-para-redes-sociais/",
    "url_hash": "9a22f94b894cb1a385c37988"
   },
   "guid:6b0454bd31292b0008f051ec": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-24T04:11:07+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1550100107140880",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Autazes lidera o ranking, com 66 registros, seguido por Boca do Acre e Apuí; no interior, foram formalizados 47 procedimentos policiais",
    "discovered_at": "2026-11-23T15:10:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1550100107140880",
    "formats": [
     "link"
    ],
@@ -32502,20 +32530,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/9b777936-7def-4d40-942a-5cf28029d892.jpeg",
    "key": "guid:6b0454bd31292b0008f051ec",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1550100107140880"
+   },
    "source_published_at": "2026-11-23T15:02:07+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "PC-AM contabiliza 572 Boletins de Ocorrência por crimes ambientais neste ano",
-   "updated_at": "2026-11-23T15:10:18+00:00",
+   "updated_at": "2026-11-24T04:11:07+00:00",
    "url": "https://marioadolfo.com/pc-am-contabiliza-572-boletins-de-ocorrencia-por-crimes-ambientais-neste-ano/",
    "url_hash": "358d6f513224fc8148be34e5"
   },
   "guid:6b045cd631292b0008f0520b": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-24T04:11:31+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1550100493807508",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Ação de cidadania da Sejusc já beneficiou 29 mil pessoas, em 2026",
    "discovered_at": "2026-11-23T15:40:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1550100493807508",
    "formats": [
     "link"
    ],
@@ -32523,20 +32561,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5c7ee8c7-a089-47bc-9109-0a8e32415ac4.jpg",
    "key": "guid:6b045cd631292b0008f0520b",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1550100493807508"
+   },
    "source_published_at": "2026-11-23T15:36:24+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Sejusc orienta como tirar segunda via de certidões sem custo em Manaus",
-   "updated_at": "2026-11-23T15:40:16+00:00",
+   "updated_at": "2026-11-24T04:11:31+00:00",
    "url": "https://marioadolfo.com/sejusc-orienta-como-tirar-segunda-via-de-certidoes-sem-custo-em-manaus/",
    "url_hash": "b1e30ae52d75a154222cd983"
   },
   "guid:6b045ddf31292b0008f0522a": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-24T04:11:56+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1550100910474133",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Policial de 41 anos estava em um veículo que capotou em Presidente Figueiredo; outro militar ficou ferido",
    "discovered_at": "2026-11-23T16:00:23+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1550100910474133",
    "formats": [
     "link"
    ],
@@ -32544,11 +32592,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0ab508f2-ba64-4bc2-b853-2b800ac582b1.jpg",
    "key": "guid:6b045ddf31292b0008f0522a",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1550100910474133"
+   },
    "source_published_at": "2026-11-23T15:50:10+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Sargento da PM de Roraima morre em acidente na BR-319",
-   "updated_at": "2026-11-23T16:00:23+00:00",
+   "updated_at": "2026-11-24T04:11:56+00:00",
    "url": "https://marioadolfo.com/sargento-da-pm-de-roraima-morre-em-acidente-na-br-319/",
    "url_hash": "53bf5fd4634174b8494d0dc6"
   },
@@ -32955,9 +33005,9 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-24T04:00:20+00:00",
+  "last_run_at": "2026-11-24T04:10:15+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-24T04:02:08+00:00"
+  "saved_at": "2026-11-24T04:11:56+00:00"
  },
  "schema": 1
 }
