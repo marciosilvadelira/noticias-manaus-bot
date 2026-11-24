@@ -33268,14 +33268,35 @@
    "updated_at": "2026-11-24T12:00:24+00:00",
    "url": "https://marioadolfo.com/mc-ryan-e-alvo-de-operacao-contra-lavagem-de-dinheiro/",
    "url_hash": "9bb71f19105c6b7e202563b3"
+  },
+  "guid:6b059a0d31292b0008f0551f": {
+   "attempts": [],
+   "category": "Dito & Feito",
+   "description": "O governador eleito apontou que esse débito de R$ 242 milhões vem sendo cobrado por prestadores de serviços médicos",
+   "discovered_at": "2026-11-24T14:30:20+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b059a0d31292b0008f0551f",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5a9e5787-116b-435f-bdfc-0e088df65e18.jpeg",
+   "key": "guid:6b059a0d31292b0008f0551f",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-24T14:24:53+00:00",
+   "status": "pending",
+   "title": "Dito & Feito - OMAR AZIZ QUER SABER? – Quem foi que deixou um rombo de R$ 242 milhões?",
+   "updated_at": "2026-11-24T14:30:20+00:00",
+   "url": "https://marioadolfo.com/dito-feito-omar-aziz-quer-saber-quem-deixou-rombo-no-governo/",
+   "url_hash": "5b28006b66de50a09486c4ab"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-24T14:20:15+00:00",
+  "last_run_at": "2026-11-24T14:30:19+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-24T14:20:16+00:00"
+  "saved_at": "2026-11-24T14:30:20+00:00"
  },
  "schema": 1
 }
