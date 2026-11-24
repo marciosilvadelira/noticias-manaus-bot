@@ -33457,14 +33457,35 @@
    "updated_at": "2026-11-24T17:30:28+00:00",
    "url": "https://marioadolfo.com/obras-de-rua-gastronomica-avancam-com-servicos-simultaneos-nos-dois-trechos/",
    "url_hash": "23e5cbb0f0a9930746c0451c"
+  },
+  "guid:6b05cd2d31292b0008f05675": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Ela tentava embarcar em um voo para Recife (PE)",
+   "discovered_at": "2026-11-24T17:50:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b05cd2d31292b0008f05675",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/1cd61d39-e99c-41c1-ad15-e0125d56c98d.jpeg",
+   "key": "guid:6b05cd2d31292b0008f05675",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-24T17:49:29+00:00",
+   "status": "pending",
+   "title": "Mulher é presa com sete tabletes de skunk no Aeroporto de Manaus",
+   "updated_at": "2026-11-24T17:50:17+00:00",
+   "url": "https://marioadolfo.com/mulher-e-presa-com-sete-tabletes-de-skunk-no-aeroporto-de-manaus/",
+   "url_hash": "47d206cb3ba3e7c71620070b"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-24T17:40:16+00:00",
+  "last_run_at": "2026-11-24T17:50:17+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-24T17:40:18+00:00"
+  "saved_at": "2026-11-24T17:50:18+00:00"
  },
  "schema": 1
 }
