@@ -33478,14 +33478,35 @@
    "updated_at": "2026-11-24T17:50:17+00:00",
    "url": "https://marioadolfo.com/mulher-e-presa-com-sete-tabletes-de-skunk-no-aeroporto-de-manaus/",
    "url_hash": "47d206cb3ba3e7c71620070b"
+  },
+  "guid:6b05d26431292b0008f05692": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Operação de quatro dias reuniu 60 colaboradores para garantir a continuidade do abastecimento durante a estiagem.",
+   "discovered_at": "2026-11-24T18:10:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b05d26431292b0008f05692",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/dde86248-2026-4fb4-ac03-46ae0eed95d5.jpeg",
+   "key": "guid:6b05d26431292b0008f05692",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-24T18:08:39+00:00",
+   "status": "pending",
+   "title": "Águas de Manaus moderniza cabos de alta tensão submersos que alimentam a ETA Mauazinho",
+   "updated_at": "2026-11-24T18:10:16+00:00",
+   "url": "https://marioadolfo.com/aguas-de-manaus-moderniza-cabos-de-alta-tensao-submersos-que-alimentam-a-eta-mauazinho/",
+   "url_hash": "34e8611cfdb5518725037f8b"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-24T18:00:24+00:00",
+  "last_run_at": "2026-11-24T18:10:15+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-24T18:00:26+00:00"
+  "saved_at": "2026-11-24T18:10:16+00:00"
  },
  "schema": 1
 }
