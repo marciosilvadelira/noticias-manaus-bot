@@ -32603,11 +32603,19 @@
    "url_hash": "53bf5fd4634174b8494d0dc6"
   },
   "guid:6b046f5631292b0008f05255": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-24T04:20:23+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1550107447140146",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Projeto “Defensoria Tá na Área’” acontece no Mercado de Origem, com serviços gratuitos nas áreas de Família e Direito do Consumidor",
    "discovered_at": "2026-11-23T17:00:22+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1550107447140146",
    "formats": [
     "link"
    ],
@@ -32615,20 +32623,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e7cecc31-d4b3-4d95-b2e7-3293eb529790.jpeg",
    "key": "guid:6b046f5631292b0008f05255",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1550107447140146"
+   },
    "source_published_at": "2026-11-23T16:55:17+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Saiba como agendar atendimento jurídico gratuito para ação no Centro de Manaus",
-   "updated_at": "2026-11-23T17:00:22+00:00",
+   "updated_at": "2026-11-24T04:20:23+00:00",
    "url": "https://marioadolfo.com/saiba-como-agendar-atendimento-juridico-gratuito-para-acao-no-centro-de-manaus/",
    "url_hash": "54e59c479c56af51e83f80e2"
   },
   "guid:6b04703031292b0008f05271": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-24T04:20:49+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1550107750473449",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Depósitos serão feitos até o dia 30 de novembro",
    "discovered_at": "2026-11-23T17:00:22+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1550107750473449",
    "formats": [
     "link"
    ],
@@ -32636,20 +32654,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/397a0df4-e62d-440f-981e-94af575f28f5.jpeg",
    "key": "guid:6b04703031292b0008f05271",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1550107750473449"
+   },
    "source_published_at": "2026-11-23T16:57:52+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Parcela do Pé-de-Meia começa a ser paga nesta segunda",
-   "updated_at": "2026-11-23T17:00:22+00:00",
+   "updated_at": "2026-11-24T04:20:49+00:00",
    "url": "https://marioadolfo.com/parcela-do-pe-de-meia-comeca-a-ser-paga-nesta-segunda/",
    "url_hash": "7be97afb643079c29afdcc07"
   },
   "guid:6b0470b031292b0008f05289": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-24T04:21:16+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1550108053806752",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Hertuzo poderá ser usado em casos iniciais e metastáticos",
    "discovered_at": "2026-11-23T17:10:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1550108053806752",
    "formats": [
     "link"
    ],
@@ -32657,20 +32685,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/3fbbd858-9a17-4997-bb34-e51828e6e724.webp",
    "key": "guid:6b0470b031292b0008f05289",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1550108053806752"
+   },
    "source_published_at": "2026-11-23T17:01:22+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Anvisa aprova novo medicamento para tratar câncer de mama",
-   "updated_at": "2026-11-23T17:10:16+00:00",
+   "updated_at": "2026-11-24T04:21:16+00:00",
    "url": "https://marioadolfo.com/anvisa-aprova-novo-medicamento-para-tratar-cancer-de-mama/",
    "url_hash": "50b6043418297d8ddf9324b6"
   },
   "guid:6b0471a631292b0008f0529e": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-24T04:21:43+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1550108347140056",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Com aproximação do período de rematrículas para o ano letivo de 2027, Secretaria de Estado de Educação reitera importância de manter o CPF dos estudantes regularizado",
    "discovered_at": "2026-11-23T17:10:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1550108347140056",
    "formats": [
     "link"
    ],
@@ -32678,20 +32716,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/3736f418-bf0a-485e-ac0d-0de8be8eb10f.jpeg",
    "key": "guid:6b0471a631292b0008f0529e",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1550108347140056"
+   },
    "source_published_at": "2026-11-23T17:03:59+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Matrículas 2027: Pais ou responsáveis devem regularizar documentos de estudantes da rede pública",
-   "updated_at": "2026-11-23T17:10:16+00:00",
+   "updated_at": "2026-11-24T04:21:43+00:00",
    "url": "https://marioadolfo.com/matriculas-2027-pais-ou-responsaveis-devem-regularizar-documentos-de-estudantes-da-rede-publica/",
    "url_hash": "20dcdc0b964edcf5f58af407"
   },
   "guid:6b04733d31292b0008f052bd": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-24T04:22:08+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1550108617140029",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Apresentação reúne a Amazonas Filarmônica, o Coral do Amazonas e o Balé Folclórico do Amazonas em um programa dedicado à música e à cultura popular brasileira",
    "discovered_at": "2026-11-23T17:20:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1550108617140029",
    "formats": [
     "link"
    ],
@@ -32699,11 +32747,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ec53801b-ce51-42a0-98ff-4be84d776d9f.jpeg",
    "key": "guid:6b04733d31292b0008f052bd",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1550108617140029"
+   },
    "source_published_at": "2026-11-23T17:11:31+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Corpos artísticos do Amazonas apresentam espetáculo 'Maracatu de Chico Rei'",
-   "updated_at": "2026-11-23T17:20:16+00:00",
+   "updated_at": "2026-11-24T04:22:08+00:00",
    "url": "https://marioadolfo.com/corpos-artisticos-do-amazonas-apresentam-espetaculo-maracatu-de-chico-rei/",
    "url_hash": "e705dc299c55fccaa0cc3135"
   },
@@ -33005,9 +33055,9 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-24T04:10:15+00:00",
+  "last_run_at": "2026-11-24T04:20:16+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-24T04:11:56+00:00"
+  "saved_at": "2026-11-24T04:22:08+00:00"
  },
  "schema": 1
 }
