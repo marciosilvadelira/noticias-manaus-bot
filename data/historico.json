@@ -33289,14 +33289,35 @@
    "updated_at": "2026-11-24T14:30:20+00:00",
    "url": "https://marioadolfo.com/dito-feito-omar-aziz-quer-saber-quem-deixou-rombo-no-governo/",
    "url_hash": "5b28006b66de50a09486c4ab"
+  },
+  "guid:6b05c18631292b0008f05586": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Decisão foi após o aumento da concentração de partículas poluentes na atmosfera, que atingiu níveis considerados insalubres",
+   "discovered_at": "2026-11-24T17:00:25+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b05c18631292b0008f05586",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/45226e8d-c1f3-4394-be43-ae966188953e.webp",
+   "key": "guid:6b05c18631292b0008f05586",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-24T16:59:42+00:00",
+   "status": "pending",
+   "title": "Fumaça causa suspensão de aulas na Ufam e na UEA nesta terça-feira",
+   "updated_at": "2026-11-24T17:00:25+00:00",
+   "url": "https://marioadolfo.com/fumaca-causa-suspensao-de-aulas-na-ufam-e-na-uea-nesta-terca-feira/",
+   "url_hash": "7ae45db5ee9cb684cd9e03b1"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-24T16:50:15+00:00",
+  "last_run_at": "2026-11-24T17:00:25+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-24T16:50:16+00:00"
+  "saved_at": "2026-11-24T17:00:26+00:00"
  },
  "schema": 1
 }
