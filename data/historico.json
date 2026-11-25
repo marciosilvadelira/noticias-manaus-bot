@@ -33817,12 +33817,12 @@
    "guid": "6b05e62c31292b0008f05717",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2efee22e-504a-44ae-a534-c258576bd2c6.jpg",
    "key": "guid:6b05e62c31292b0008f05717",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-24T19:33:14+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Julgamento na Itália sobre extradição de Zambelli tem novo adiamento",
-   "updated_at": "2026-11-24T19:40:17+00:00",
+   "updated_at": "2026-11-25T19:40:16+00:00",
    "url": "https://marioadolfo.com/julgamento-na-italia-sobre-extradicao-de-zambelli-tem-novo-adiamento/",
    "url_hash": "ea5f3a018415780449561e90"
   },
@@ -33838,12 +33838,12 @@
    "guid": "6b05e6f031292b0008f05732",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/7d32d9b5-ab71-4f1a-8f2c-f34dc7639ebf.jpg",
    "key": "guid:6b05e6f031292b0008f05732",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-24T19:39:28+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Homem é  preso por tentar matar companheiro da ex-mulher em Parintins",
-   "updated_at": "2026-11-24T19:40:17+00:00",
+   "updated_at": "2026-11-25T19:40:16+00:00",
    "url": "https://marioadolfo.com/homem-e-preso-por-tentar-matar-companheiro-da-ex-mulher-em-parintins/",
    "url_hash": "5f833bad2a77e63f1d5ed100"
   },
@@ -34691,9 +34691,9 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-25T19:31:01+00:00",
+  "last_run_at": "2026-11-25T19:40:15+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-25T19:31:03+00:00"
+  "saved_at": "2026-11-25T19:40:16+00:00"
  },
  "schema": 1
 }
