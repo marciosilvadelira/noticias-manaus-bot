@@ -33964,12 +33964,12 @@
    "guid": "6b05f31531292b0008f057da",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/034f92d9-df1e-470f-8662-3d8cdef58382.jpg",
    "key": "guid:6b05f31531292b0008f057da",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-24T20:28:09+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Homem é condenado a 10 anos e cinco meses de prisão por tentar matar a tia em Manaus",
-   "updated_at": "2026-11-24T20:30:20+00:00",
+   "updated_at": "2026-11-25T20:30:19+00:00",
    "url": "https://marioadolfo.com/homem-e-condenado-a-10-anos-e-cinco-meses-de-prisao-por-tentar-matar-a-tia-em-manaus/",
    "url_hash": "024103238e8e2f6da138f970"
   },
@@ -34691,9 +34691,9 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-25T20:20:16+00:00",
+  "last_run_at": "2026-11-25T20:30:19+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-25T20:20:17+00:00"
+  "saved_at": "2026-11-25T20:30:19+00:00"
  },
  "schema": 1
 }
