@@ -33985,12 +33985,12 @@
    "guid": "6b05f36831292b0008f057ef",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/081369fb-47f0-4ab0-9ddc-ac8a01267549.jpg",
    "key": "guid:6b05f36831292b0008f057ef",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-24T20:33:42+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Caso Benício: médica e técnica de enfermagem viram rés pela morte de criança",
-   "updated_at": "2026-11-24T20:40:16+00:00",
+   "updated_at": "2026-11-25T20:40:16+00:00",
    "url": "https://marioadolfo.com/caso-benicio-medica-e-tecnica-de-enfermagem-viram-res-pela-morte-de-crianca/",
    "url_hash": "2435e7fdcb6550c8c1d144a9"
   },
@@ -34691,9 +34691,9 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-25T20:30:19+00:00",
+  "last_run_at": "2026-11-25T20:40:15+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-25T20:30:19+00:00"
+  "saved_at": "2026-11-25T20:40:17+00:00"
  },
  "schema": 1
 }
