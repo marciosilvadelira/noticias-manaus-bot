@@ -34623,14 +34623,35 @@
    "updated_at": "2026-11-25T19:00:22+00:00",
    "url": "https://marioadolfo.com/vinte-toneladas-de-fios-e-cabos-sao-retirados-de-ruas-do-centro-de-manaus/",
    "url_hash": "822ae6adc66bae75a7a4a142"
+  },
+  "guid:6b07306231292b0008f05b75": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Infração foi identificada com auxílio do monitoramento por satélite e confirmada durante a 15ª etapa da Operação Tamoiotatá 6",
+   "discovered_at": "2026-11-25T19:10:22+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b07306231292b0008f05b75",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5015ff59-c203-4545-8849-e5b8c15360c7.jpeg",
+   "key": "guid:6b07306231292b0008f05b75",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-25T19:06:54+00:00",
+   "status": "pending",
+   "title": "Queimada em área protegida gera multa de R$ 1,26 milhão no Amazonas",
+   "updated_at": "2026-11-25T19:10:22+00:00",
+   "url": "https://marioadolfo.com/queimada-em-area-protegida-gera-multa-de-r-1-26-milhao-no-amazonas/",
+   "url_hash": "b5913c156c57a98a84b4954d"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-25T19:00:21+00:00",
+  "last_run_at": "2026-11-25T19:10:21+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-25T19:00:22+00:00"
+  "saved_at": "2026-11-25T19:10:22+00:00"
  },
  "schema": 1
 }
