@@ -34287,14 +34287,35 @@
    "updated_at": "2026-11-25T14:10:19+00:00",
    "url": "https://marioadolfo.com/subtenente-da-pm-e-resgatado-apos-ser-espancado-por-criminosos-em-manaus/",
    "url_hash": "4894ebad9b216b57ce218c7b"
+  },
+  "guid:6b06ebd831292b0008f059df": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Polícia Civil investiga possível circulação de lote adulterado de drogas após homem ser encontrado morto no bairro Aleixo",
+   "discovered_at": "2026-11-25T14:20:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b06ebd831292b0008f059df",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/25b500ad-c95c-4f04-93ce-1b20971904af.jpg",
+   "key": "guid:6b06ebd831292b0008f059df",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-25T14:15:17+00:00",
+   "status": "pending",
+   "title": "Três casos com suspeita de overdose são registrados em dois dias em Manaus",
+   "updated_at": "2026-11-25T14:20:17+00:00",
+   "url": "https://marioadolfo.com/tres-casos-com-suspeita-de-overdose-sao-registrados-em-dois-dias-em-manaus/",
+   "url_hash": "f57e82545c79777175ac944a"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-25T14:10:18+00:00",
+  "last_run_at": "2026-11-25T14:20:17+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-25T14:10:19+00:00"
+  "saved_at": "2026-11-25T14:20:18+00:00"
  },
  "schema": 1
 }
