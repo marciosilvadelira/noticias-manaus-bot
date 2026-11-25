@@ -34120,6 +34120,27 @@
    "url": "https://marioadolfo.com/omar-aziz-reafirma-compromisso-de-criar-programa-de-estagio-remunerado/",
    "url_hash": "745583e7fad66e7497859fc4"
   },
+  "guid:6b06d68831292b0008f058dd": {
+   "attempts": [],
+   "category": "Dito & Feito",
+   "description": "Bad Bunny e Roger Waters, ex-Pink Floyd, estão entre as atrações previstas para a posse de Lula, em Brasília, que poderá receber até 1 milhão de pessoas.",
+   "discovered_at": "2026-11-25T13:00:29+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b06d68831292b0008f058dd",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/449f9840-ed32-4a2c-a44e-42b58bf6e1c5.jpeg",
+   "key": "guid:6b06d68831292b0008f058dd",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-25T12:51:19+00:00",
+   "status": "pending",
+   "title": "Dito & Feito - Para animar a festa da posse!",
+   "updated_at": "2026-11-25T13:00:29+00:00",
+   "url": "https://marioadolfo.com/dito-feito-para-animar-a-festa-da-posse/",
+   "url_hash": "82dfad34d91bb04936c9c8b0"
+  },
   "guid:6b06d72931292b0008f058f6": {
    "attempts": [],
    "category": "Parintins",
@@ -34161,14 +34182,35 @@
    "updated_at": "2026-11-25T12:50:15+00:00",
    "url": "https://marioadolfo.com/tce-am-apresenta-iniciativas-em-encontro-nacional-dos-tribunais-de-contas/",
    "url_hash": "83acc685383d7596fb3a236d"
+  },
+  "guid:6b06d95c31292b0008f05939": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Nesta quarta-feira (25), a concentração média de Material Particulado Fino (MP2,5) chegou a 76 microgramas por metro cúbico, índice classificado como “muito ruim”",
+   "discovered_at": "2026-11-25T13:00:29+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b06d95c31292b0008f05939",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/fe640cc3-e31e-434e-8a96-933c69d2b7ae.webp",
+   "key": "guid:6b06d95c31292b0008f05939",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-25T12:52:13+00:00",
+   "status": "pending",
+   "title": "Prefeitura de Manaus suspende aulas nesta quinta e sexta-feira devido à fumaça",
+   "updated_at": "2026-11-25T13:00:29+00:00",
+   "url": "https://marioadolfo.com/prefeitura-de-manaus-suspende-aulas-nesta-quinta-e-sexta-feira-devido-a-fumaca/",
+   "url_hash": "9afd27247f88c2417293281e"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-25T12:50:15+00:00",
+  "last_run_at": "2026-11-25T13:00:29+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-25T12:50:16+00:00"
+  "saved_at": "2026-11-25T13:00:30+00:00"
  },
  "schema": 1
 }
