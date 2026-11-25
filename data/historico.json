@@ -33226,11 +33226,19 @@
    "url_hash": "531570cefb7cfaee229046e2"
   },
   "guid:6b04e72a31292b0008f054b4": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-25T04:10:54+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1551240993693458",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Peça usa humor ácido, sátira, máscaras de animais e músicas autorais para abordar os desafios enfrentados por artistas e grupos de teatro do Norte do Brasil",
    "discovered_at": "2026-11-24T11:40:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1551240993693458",
    "formats": [
     "link"
    ],
@@ -33238,11 +33246,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2108300e-9666-4302-80ea-aa0f56c10ae0.jpeg",
    "key": "guid:6b04e72a31292b0008f054b4",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1551240993693458"
+   },
    "source_published_at": "2026-11-24T11:35:33+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Ateliê 23 estreia espetáculo sobre desafios de fazer teatro no Norte nesta terça-feira",
-   "updated_at": "2026-11-24T11:40:15+00:00",
+   "updated_at": "2026-11-25T04:10:54+00:00",
    "url": "https://marioadolfo.com/atelie-23-estreia-espetaculo-sobre-desafios-de-fazer-teatro-no-norte-nesta-terca-feira/",
    "url_hash": "4181453b783fa8a1e1e9f730"
   },
@@ -33278,11 +33288,19 @@
    "url_hash": "4288cdcec5e2deb38f9de9c3"
   },
   "guid:6b05752e31292b0008f054e3": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-25T04:10:28+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1551240733693484",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "A representação foi apresentada pela Associação Amazonense de Municípios",
    "discovered_at": "2026-11-24T11:40:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1551240733693484",
    "formats": [
     "link"
    ],
@@ -33290,20 +33308,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/149f7c78-0ac9-44e6-8711-8361e2c7e138.jpg",
    "key": "guid:6b05752e31292b0008f054e3",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1551240733693484"
+   },
    "source_published_at": "2026-11-24T11:32:26+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "TCE-AM dá 5 dias para Governo explicar atraso em repasses do FTI à saúde",
-   "updated_at": "2026-11-24T11:40:15+00:00",
+   "updated_at": "2026-11-25T04:10:28+00:00",
    "url": "https://marioadolfo.com/tce-am-da-5-dias-para-governo-explicar-atraso-em-repasses-do-fti-a-saude/",
    "url_hash": "1fe08b41cb51de6fbdbae1a3"
   },
   "guid:6b057a3f31292b0008f054ff": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-25T04:11:23+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1551241330360091",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "A ação integra três operações simultâneas que cumprem 72 mandados de busca e apreensão e 39 de prisão",
    "discovered_at": "2026-11-24T12:00:24+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1551241330360091",
    "formats": [
     "link"
    ],
@@ -33311,20 +33339,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2e037cd2-7830-4800-b0e0-6abb934cedcf.webp",
    "key": "guid:6b057a3f31292b0008f054ff",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1551241330360091"
+   },
    "source_published_at": "2026-11-24T11:56:00+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "MC Ryan é alvo de operação contra lavagem de dinheiro",
-   "updated_at": "2026-11-24T12:00:24+00:00",
+   "updated_at": "2026-11-25T04:11:23+00:00",
    "url": "https://marioadolfo.com/mc-ryan-e-alvo-de-operacao-contra-lavagem-de-dinheiro/",
    "url_hash": "9bb71f19105c6b7e202563b3"
   },
   "guid:6b059a0d31292b0008f0551f": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-25T04:11:48+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1551241670360057",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Dito & Feito",
    "description": "O governador eleito apontou que esse débito de R$ 242 milhões vem sendo cobrado por prestadores de serviços médicos",
    "discovered_at": "2026-11-24T14:30:20+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1551241670360057",
    "formats": [
     "link"
    ],
@@ -33332,11 +33370,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5a9e5787-116b-435f-bdfc-0e088df65e18.jpeg",
    "key": "guid:6b059a0d31292b0008f0551f",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1551241670360057"
+   },
    "source_published_at": "2026-11-24T14:24:53+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Dito & Feito - OMAR AZIZ QUER SABER? – Quem foi que deixou um rombo de R$ 242 milhões?",
-   "updated_at": "2026-11-24T14:30:20+00:00",
+   "updated_at": "2026-11-25T04:11:48+00:00",
    "url": "https://marioadolfo.com/dito-feito-omar-aziz-quer-saber-quem-deixou-rombo-no-governo/",
    "url_hash": "5b28006b66de50a09486c4ab"
   },
@@ -33383,11 +33423,19 @@
    "url_hash": "61519ec2bc3580f50227a252"
   },
   "guid:6b05c18631292b0008f05586": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-25T04:12:13+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1551241997026691",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Decisão foi após o aumento da concentração de partículas poluentes na atmosfera, que atingiu níveis considerados insalubres",
    "discovered_at": "2026-11-24T17:00:25+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1551241997026691",
    "formats": [
     "link"
    ],
@@ -33395,11 +33443,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/45226e8d-c1f3-4394-be43-ae966188953e.webp",
    "key": "guid:6b05c18631292b0008f05586",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1551241997026691"
+   },
    "source_published_at": "2026-11-24T16:59:42+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Fumaça causa suspensão de aulas na Ufam e na UEA nesta terça-feira",
-   "updated_at": "2026-11-24T17:00:25+00:00",
+   "updated_at": "2026-11-25T04:12:13+00:00",
    "url": "https://marioadolfo.com/fumaca-causa-suspensao-de-aulas-na-ufam-e-na-uea-nesta-terca-feira/",
    "url_hash": "7ae45db5ee9cb684cd9e03b1"
   },
@@ -33869,9 +33919,9 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-25T04:00:22+00:00",
+  "last_run_at": "2026-11-25T04:10:19+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-25T04:02:15+00:00"
+  "saved_at": "2026-11-25T04:12:13+00:00"
  },
  "schema": 1
 }
