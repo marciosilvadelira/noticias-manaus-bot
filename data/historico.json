@@ -33102,11 +33102,19 @@
    "url_hash": "0a5c7e441feb0bcde78dac83"
   },
   "guid:6b04e3d931292b0008f05447": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-25T04:02:15+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1551235430360681",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "A operação “Natal da Gente” reúne 12 órgãos municipais para reforçar a segurança, o trânsito, a limpeza e o ordenamento",
    "discovered_at": "2026-11-24T11:40:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1551235430360681",
    "formats": [
     "link"
    ],
@@ -33114,20 +33122,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ab161480-752f-4076-8a98-afcba72e962c.jpeg",
    "key": "guid:6b04e3d931292b0008f05447",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1551235430360681"
+   },
    "source_published_at": "2026-11-24T11:30:58+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Centro de Manaus terá operação especial de segurança e trânsito no fim de ano",
-   "updated_at": "2026-11-24T11:40:15+00:00",
+   "updated_at": "2026-11-25T04:02:15+00:00",
    "url": "https://marioadolfo.com/centro-de-manaus-tera-operacao-especial-de-seguranca-e-transito-no-fim-de-ano/",
    "url_hash": "1d2ee8f818dbc724146b14ae"
   },
   "guid:6b04e4c731292b0008f05463": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-25T04:01:25+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1551234690360755",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Ministério do Trabalho detalhou as mudanças que começam em dezembro",
    "discovered_at": "2026-11-24T11:40:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1551234690360755",
    "formats": [
     "link"
    ],
@@ -33135,20 +33153,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/478e3870-50fe-4301-a576-1a43f71f91d3.webp",
    "key": "guid:6b04e4c731292b0008f05463",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1551234690360755"
+   },
    "source_published_at": "2026-11-24T11:30:17+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Jornada 5x2: veja como ficam regras de salário, folgas e horas extras",
-   "updated_at": "2026-11-24T11:40:15+00:00",
+   "updated_at": "2026-11-25T04:01:25+00:00",
    "url": "https://marioadolfo.com/jornada-5x2-veja-como-ficam-regras-de-salario-folgas-e-horas-extras/",
    "url_hash": "b6dc88d276609730f352b9b0"
   },
   "guid:6b04e54e31292b0008f05487": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-25T04:00:30+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1551233897027501",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "O quadro do ex-presidente é estável. Ele está internado desde sexta-feira (20)",
    "discovered_at": "2026-11-24T11:30:21+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1551233897027501",
    "formats": [
     "link"
    ],
@@ -33156,20 +33184,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6077e92c-eb12-461d-bb3a-072b9ef1bed9.webp",
    "key": "guid:6b04e54e31292b0008f05487",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1551233897027501"
+   },
    "source_published_at": "2026-11-24T11:20:39+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Bolsonaro é diagnosticado com pneumonia e continuará internado",
-   "updated_at": "2026-11-24T11:30:21+00:00",
+   "updated_at": "2026-11-25T04:00:30+00:00",
    "url": "https://marioadolfo.com/bolsonaro-e-diagnosticado-com-pneumonia-e-continuara-internado/",
    "url_hash": "84cccc86be7a1fecd085e179"
   },
   "guid:6b04e5ce31292b0008f0549e": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-25T04:01:49+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1551235110360713",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Programação gratuita inclui trio elétrico, personagens, coral e banda marcial nos bairros Alvorada e Centro",
    "discovered_at": "2026-11-24T11:40:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1551235110360713",
    "formats": [
     "link"
    ],
@@ -33177,11 +33215,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d813fe7b-c18c-44db-adf2-17a852c32071.jpeg",
    "key": "guid:6b04e5ce31292b0008f0549e",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1551235110360713"
+   },
    "source_published_at": "2026-11-24T11:30:22+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Natal do Sesc leva circuitos natalinos às ruas de Manaus",
-   "updated_at": "2026-11-24T11:40:15+00:00",
+   "updated_at": "2026-11-25T04:01:49+00:00",
    "url": "https://marioadolfo.com/natal-do-sesc-leva-circuitos-natalinos-as-ruas-de-manaus/",
    "url_hash": "531570cefb7cfaee229046e2"
   },
@@ -33207,11 +33247,19 @@
    "url_hash": "4181453b783fa8a1e1e9f730"
   },
   "guid:6b05742731292b0008f054ca": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-25T04:00:55+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1551234273694130",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "O texto muda as regras fiscais para permitir ao Executivo limitar a execução de despesas a fim de alcançar as metas de superávit primário a partir de 2027",
    "discovered_at": "2026-11-24T11:30:21+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1551234273694130",
    "formats": [
     "link"
    ],
@@ -33219,11 +33267,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/362021e0-21f4-4553-9f7c-802d521d9aec.webp",
    "key": "guid:6b05742731292b0008f054ca",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1551234273694130"
+   },
    "source_published_at": "2026-11-24T11:28:17+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Câmara aprova ajuste fiscal sem alterações; projeto segue para sanção",
-   "updated_at": "2026-11-24T11:30:21+00:00",
+   "updated_at": "2026-11-25T04:00:55+00:00",
    "url": "https://marioadolfo.com/camara-aprova-ajuste-fiscal-sem-alteracoes-projeto-segue-para-sancao/",
    "url_hash": "4288cdcec5e2deb38f9de9c3"
   },
@@ -33819,9 +33869,9 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-25T03:50:23+00:00",
+  "last_run_at": "2026-11-25T04:00:22+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-25T03:50:24+00:00"
+  "saved_at": "2026-11-25T04:02:15+00:00"
  },
  "schema": 1
 }
