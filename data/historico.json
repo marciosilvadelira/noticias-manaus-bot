@@ -33922,12 +33922,12 @@
    "guid": "6b05eaab31292b0008f057a1",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/7deaa09e-8662-4816-89b3-8a5ae45003a2.jpeg",
    "key": "guid:6b05eaab31292b0008f057a1",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-24T19:54:21+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Reciclagem de garrafas pet pode render desconto no ônibus em Manaus",
-   "updated_at": "2026-11-24T20:00:33+00:00",
+   "updated_at": "2026-11-25T20:00:24+00:00",
    "url": "https://marioadolfo.com/reciclagem-de-garrafas-pet-pode-render-desconto-nos-onibus-em-manaus/",
    "url_hash": "648611e73cbefd199ad0bedd"
   },
@@ -34691,9 +34691,9 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-25T19:50:15+00:00",
+  "last_run_at": "2026-11-25T20:00:23+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-25T19:50:16+00:00"
+  "saved_at": "2026-11-25T20:00:25+00:00"
  },
  "schema": 1
 }
