@@ -34119,14 +34119,56 @@
    "updated_at": "2026-11-25T11:40:16+00:00",
    "url": "https://marioadolfo.com/omar-aziz-reafirma-compromisso-de-criar-programa-de-estagio-remunerado/",
    "url_hash": "745583e7fad66e7497859fc4"
+  },
+  "guid:6b06d72931292b0008f058f6": {
+   "attempts": [],
+   "category": "Parintins",
+   "description": "O investimento integra o repasse nacional de R$ 200 milhões para o custeio de maternidades de instituições privadas sem fins lucrativos que atendem pacientes do SUS",
+   "discovered_at": "2026-11-25T12:50:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b06d72931292b0008f058f6",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d2c5a0ba-c78e-4185-8ab4-4126e111ca50.jpeg",
+   "key": "guid:6b06d72931292b0008f058f6",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-25T12:46:23+00:00",
+   "status": "pending",
+   "title": "Ministério da Saúde destina R$ 674 mil para o Hospital Padre Colombo",
+   "updated_at": "2026-11-25T12:50:15+00:00",
+   "url": "https://marioadolfo.com/ministerio-da-saude-destina-r-674-mil-para-o-hospital-padre-colombo/",
+   "url_hash": "62a1bd5d2c01950a48670ead"
+  },
+  "guid:6b06d78631292b0008f058fd": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A programação reúne representantes das Cortes de Contas de todo o país para compartilhar experiências e discutir melhorias na atuação dos órgãos de controle.",
+   "discovered_at": "2026-11-25T12:50:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b06d78631292b0008f058fd",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/8fadbb46-84c1-4834-96f5-b0c27a8dd8c6.jpg",
+   "key": "guid:6b06d78631292b0008f058fd",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-25T12:45:22+00:00",
+   "status": "pending",
+   "title": "TCE-AM apresenta iniciativas em encontro nacional dos Tribunais de Contas",
+   "updated_at": "2026-11-25T12:50:15+00:00",
+   "url": "https://marioadolfo.com/tce-am-apresenta-iniciativas-em-encontro-nacional-dos-tribunais-de-contas/",
+   "url_hash": "83acc685383d7596fb3a236d"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-25T12:40:22+00:00",
+  "last_run_at": "2026-11-25T12:50:15+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-25T12:40:23+00:00"
+  "saved_at": "2026-11-25T12:50:16+00:00"
  },
  "schema": 1
 }
