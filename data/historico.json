@@ -33588,11 +33588,19 @@
    "url_hash": "842cc40b2e4356f98f68890f"
   },
   "guid:6b05c62831292b0008f05646": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-25T04:30:29+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1551254967025394",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Os profissionais  têm até o dia 22 de dezembro para apresentação na sede da secretaria, situada no bairro Adrianópolis",
    "discovered_at": "2026-11-24T17:20:19+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1551254967025394",
    "formats": [
     "link"
    ],
@@ -33600,20 +33608,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2d570a55-5678-474f-bd1c-8660f3881f9d.jpeg",
    "key": "guid:6b05c62831292b0008f05646",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1551254967025394"
+   },
    "source_published_at": "2026-11-24T17:17:04+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Semsa convoca 32 profissionais aprovados em concurso para posse",
-   "updated_at": "2026-11-24T17:20:19+00:00",
+   "updated_at": "2026-11-25T04:30:29+00:00",
    "url": "https://marioadolfo.com/semsa-convoca-32-profissionais-aprovados-em-concurso-para-posse/",
    "url_hash": "e33ddad79750bc241ca188a8"
   },
   "guid:6b05c6be31292b0008f0565b": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-25T04:30:55+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1551255713691986",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Equipes realizam serviços de infraestrutura, drenagem, instalação de meio-fio e assentamento de pedras e pavers",
    "discovered_at": "2026-11-24T17:30:28+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1551255713691986",
    "formats": [
     "link"
    ],
@@ -33621,20 +33639,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b0656be2-67f0-4bfc-858b-5fa8d96a70c3.jpeg",
    "key": "guid:6b05c6be31292b0008f0565b",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1551255713691986"
+   },
    "source_published_at": "2026-11-24T17:20:03+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Obras de rua gastronômica avançam com serviços simultâneos nos dois trechos",
-   "updated_at": "2026-11-24T17:30:28+00:00",
+   "updated_at": "2026-11-25T04:30:55+00:00",
    "url": "https://marioadolfo.com/obras-de-rua-gastronomica-avancam-com-servicos-simultaneos-nos-dois-trechos/",
    "url_hash": "23e5cbb0f0a9930746c0451c"
   },
   "guid:6b05cd2d31292b0008f05675": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-25T04:31:24+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1551256107025280",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Ela tentava embarcar em um voo para Recife (PE)",
    "discovered_at": "2026-11-24T17:50:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1551256107025280",
    "formats": [
     "link"
    ],
@@ -33642,20 +33670,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/1cd61d39-e99c-41c1-ad15-e0125d56c98d.jpeg",
    "key": "guid:6b05cd2d31292b0008f05675",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1551256107025280"
+   },
    "source_published_at": "2026-11-24T17:49:29+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Mulher é presa com sete tabletes de skunk no Aeroporto de Manaus",
-   "updated_at": "2026-11-24T17:50:17+00:00",
+   "updated_at": "2026-11-25T04:31:24+00:00",
    "url": "https://marioadolfo.com/mulher-e-presa-com-sete-tabletes-de-skunk-no-aeroporto-de-manaus/",
    "url_hash": "47d206cb3ba3e7c71620070b"
   },
   "guid:6b05d26431292b0008f05692": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-25T04:31:50+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1551256413691916",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Operação de quatro dias reuniu 60 colaboradores para garantir a continuidade do abastecimento durante a estiagem.",
    "discovered_at": "2026-11-24T18:10:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1551256413691916",
    "formats": [
     "link"
    ],
@@ -33663,20 +33701,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/dde86248-2026-4fb4-ac03-46ae0eed95d5.jpeg",
    "key": "guid:6b05d26431292b0008f05692",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1551256413691916"
+   },
    "source_published_at": "2026-11-24T18:08:39+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Águas de Manaus moderniza cabos de alta tensão submersos que alimentam a ETA Mauazinho",
-   "updated_at": "2026-11-24T18:10:16+00:00",
+   "updated_at": "2026-11-25T04:31:50+00:00",
    "url": "https://marioadolfo.com/aguas-de-manaus-moderniza-cabos-de-alta-tensao-submersos-que-alimentam-a-eta-mauazinho/",
    "url_hash": "34e8611cfdb5518725037f8b"
   },
   "guid:6b05d2cc31292b0008f056a7": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-25T04:32:16+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1551256680358556",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Parintins",
    "description": "Criada por Regiane Lima, da Yandê Amazônia, a luminária Kurimá ficou em terceiro lugar na categoria Design de Bioeconomia de premiação que reuniu cerca de 450 projetos de todo o Brasil",
    "discovered_at": "2026-11-24T18:20:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1551256680358556",
    "formats": [
     "link"
    ],
@@ -33684,11 +33732,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/51185412-084f-4b86-9938-870b8aea7d6b.png",
    "key": "guid:6b05d2cc31292b0008f056a7",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1551256680358556"
+   },
    "source_published_at": "2026-11-24T18:12:14+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Artesã de Parintins conquista prêmio nacional de design com peça feita de folhas de andiroba",
-   "updated_at": "2026-11-24T18:20:17+00:00",
+   "updated_at": "2026-11-25T04:32:16+00:00",
    "url": "https://marioadolfo.com/artesa-de-parintins-conquista-premio-nacional-de-design-com-peca-feita-de-folhas-de-andiroba/",
    "url_hash": "9a45e9563d20bb0f895b47cf"
   },
@@ -33969,9 +34019,9 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-25T04:20:23+00:00",
+  "last_run_at": "2026-11-25T04:30:18+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-25T04:22:14+00:00"
+  "saved_at": "2026-11-25T04:32:16+00:00"
  },
  "schema": 1
 }
