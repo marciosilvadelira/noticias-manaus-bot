@@ -34392,14 +34392,35 @@
    "updated_at": "2026-11-25T15:00:23+00:00",
    "url": "https://marioadolfo.com/justica-derruba-liminar-que-suspendia-novas-regras-para-va-e-vr/",
    "url_hash": "0043a91296b7cc3099190c82"
+  },
+  "guid:6b07132631292b0008f05a69": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Feira oferece 12,5 toneladas de pirarucu legalizado, com venda direta ao público e preços acessíveis",
+   "discovered_at": "2026-11-25T17:00:22+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b07132631292b0008f05a69",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f9812d2a-ed5f-4a3c-a038-3a475316c9c4.jpeg",
+   "key": "guid:6b07132631292b0008f05a69",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-25T16:58:14+00:00",
+   "status": "pending",
+   "title": "Feira do Pirarucu leva pescado de manejo sustentável ao consumidor em Tefé nos dias 28 e 29 de novembro",
+   "updated_at": "2026-11-25T17:00:22+00:00",
+   "url": "https://marioadolfo.com/feira-do-pirarucu-leva-pescado-de-manejo-sustentavel-ao-consumidor-em-tefe-nos-dias-28-e-29-de-novembro/",
+   "url_hash": "a8824bcd9a46a5524df84562"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-25T16:50:17+00:00",
+  "last_run_at": "2026-11-25T17:00:22+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-25T16:50:19+00:00"
+  "saved_at": "2026-11-25T17:00:23+00:00"
  },
  "schema": 1
 }
