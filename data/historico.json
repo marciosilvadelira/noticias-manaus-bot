@@ -34224,14 +34224,35 @@
    "updated_at": "2026-11-25T13:40:17+00:00",
    "url": "https://marioadolfo.com/gas-do-povo-completa-um-ano-com-486-mil-familias-beneficiarias-no-amazonas/",
    "url_hash": "147131c5bdc71713c609f607"
+  },
+  "guid:6b06e87131292b0008f05998": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Ação aponta fracionamento artificial de áreas, omissão da ANM e indícios de extração ilegal em Maués, Fonte Boa, Apuí e Novo Aripuanã",
+   "discovered_at": "2026-11-25T14:00:24+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b06e87131292b0008f05998",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/576bd02e-83f9-4642-896b-55c1722d4a84.jpeg",
+   "key": "guid:6b06e87131292b0008f05998",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-25T13:59:16+00:00",
+   "status": "pending",
+   "title": "MPF vai à Justiça contra irregularidades em pedidos de garimpo no Amazonas",
+   "updated_at": "2026-11-25T14:00:24+00:00",
+   "url": "https://marioadolfo.com/mpf-vai-a-justica-contra-irregularidades-em-pedidos-de-garimpo-no-amazonas/",
+   "url_hash": "4741738f4fb69bff8fdc0830"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-25T13:50:24+00:00",
+  "last_run_at": "2026-11-25T14:00:24+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-25T13:50:25+00:00"
+  "saved_at": "2026-11-25T14:00:24+00:00"
  },
  "schema": 1
 }
