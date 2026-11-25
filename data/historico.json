@@ -34497,14 +34497,35 @@
    "updated_at": "2026-11-25T17:20:17+00:00",
    "url": "https://marioadolfo.com/idoso-morre-atropelado-ao-trav-mo/",
    "url_hash": "0e1d1a03cdad4084e6f94f47"
+  },
+  "guid:6b0719f831292b0008f05aec": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "O helicóptero suspeito de ser utilizado no transporte de drogas caiu e pegou fogo após confronto policial",
+   "discovered_at": "2026-11-25T17:40:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b0719f831292b0008f05aec",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e87bd945-71c7-4fe9-a1a9-3953872103a8.jpeg",
+   "key": "guid:6b0719f831292b0008f05aec",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-25T17:30:23+00:00",
+   "status": "pending",
+   "title": "Piloto morre após helicóptero ser atingido durante operação policial em Carauari",
+   "updated_at": "2026-11-25T17:40:18+00:00",
+   "url": "https://marioadolfo.com/piloto-morre-apos-helicoptero-ser-atingido-durante-operacao-policial-em-carauari/",
+   "url_hash": "240ff5c50284797c313a7019"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-25T17:30:19+00:00",
+  "last_run_at": "2026-11-25T17:40:17+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-25T17:30:20+00:00"
+  "saved_at": "2026-11-25T17:40:19+00:00"
  },
  "schema": 1
 }
