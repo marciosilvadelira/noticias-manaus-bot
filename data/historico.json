@@ -34078,6 +34078,27 @@
    "url": "https://marioadolfo.com/novos-radares-comecam-a-funcionar-em-manaus-no-dia-8-de-dezembro-veja-os-locais/",
    "url_hash": "59c9ff2e5717fa84feb3f99b"
   },
+  "guid:6b065b2e31292b0008f05884": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Categoria cobra restabelecimento do plano de saúde e prevê greve por tempo indeterminado a partir de 30 de novembro, caso atendimento não seja retomado",
+   "discovered_at": "2026-11-25T11:50:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b065b2e31292b0008f05884",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/33e02f5f-93bc-4ae9-86b3-f839dc8ea74e.jpeg",
+   "key": "guid:6b065b2e31292b0008f05884",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-25T11:40:13+00:00",
+   "status": "pending",
+   "title": "Professores da rede estadual fazem paralisação nesta quarta-feira",
+   "updated_at": "2026-11-25T11:50:16+00:00",
+   "url": "https://marioadolfo.com/professores-da-rede-estadual-fazem-paralisacao-nesta-quarta-feira/",
+   "url_hash": "18636a188b355836412d81ce"
+  },
   "guid:6b065be231292b0008f0589f": {
    "attempts": [],
    "category": "Amazonas",
@@ -34103,9 +34124,9 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-25T11:40:15+00:00",
+  "last_run_at": "2026-11-25T11:50:16+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-25T11:40:16+00:00"
+  "saved_at": "2026-11-25T11:50:17+00:00"
  },
  "schema": 1
 }
