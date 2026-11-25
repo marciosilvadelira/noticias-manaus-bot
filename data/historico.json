@@ -34413,14 +34413,35 @@
    "updated_at": "2026-11-25T17:00:22+00:00",
    "url": "https://marioadolfo.com/feira-do-pirarucu-leva-pescado-de-manejo-sustentavel-ao-consumidor-em-tefe-nos-dias-28-e-29-de-novembro/",
    "url_hash": "a8824bcd9a46a5524df84562"
+  },
+  "guid:6b0713ef31292b0008f05a7e": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Decisão é fundamentada em nota técnica que orienta a adoção de medidas preventivas para proteger a saúde e o bem-estar da comunidade escolar",
+   "discovered_at": "2026-11-25T17:10:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b0713ef31292b0008f05a7e",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0e34c6d9-2fbe-4b8d-a8aa-53e0a2d73580.jpeg",
+   "key": "guid:6b0713ef31292b0008f05a7e",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-25T17:04:54+00:00",
+   "status": "pending",
+   "title": "Fumaça: aulas da rede estadual são suspensas em Manaus e em 24 cidades do interior do AM",
+   "updated_at": "2026-11-25T17:10:17+00:00",
+   "url": "https://marioadolfo.com/fumaca-aulas-da-rede-estadual-sao-suspensas-em-manaus-e-em-24-cidades-do-interior-do-am/",
+   "url_hash": "2336421b923b480850448f8b"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-25T17:00:22+00:00",
+  "last_run_at": "2026-11-25T17:10:16+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-25T17:00:23+00:00"
+  "saved_at": "2026-11-25T17:10:17+00:00"
  },
  "schema": 1
 }
