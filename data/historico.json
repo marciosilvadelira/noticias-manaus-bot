@@ -34203,14 +34203,35 @@
    "updated_at": "2026-11-25T13:00:29+00:00",
    "url": "https://marioadolfo.com/prefeitura-de-manaus-suspende-aulas-nesta-quinta-e-sexta-feira-devido-a-fumaca/",
    "url_hash": "9afd27247f88c2417293281e"
+  },
+  "guid:6b06e31b31292b0008f0597e": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Programa alcança mais de 1,4 milhão de pessoas em todo o estado. Em todo o Brasil, são 15 milhões de famílias beneficiárias",
+   "discovered_at": "2026-11-25T13:40:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b06e31b31292b0008f0597e",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/efb72dce-3453-489f-ae12-d5963b2974c1.jpg",
+   "key": "guid:6b06e31b31292b0008f0597e",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-25T13:35:04+00:00",
+   "status": "pending",
+   "title": "Gás do Povo completa um ano com 486 mil famílias beneficiárias no Amazonas",
+   "updated_at": "2026-11-25T13:40:17+00:00",
+   "url": "https://marioadolfo.com/gas-do-povo-completa-um-ano-com-486-mil-familias-beneficiarias-no-amazonas/",
+   "url_hash": "147131c5bdc71713c609f607"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-25T13:30:20+00:00",
+  "last_run_at": "2026-11-25T13:40:17+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-25T13:30:21+00:00"
+  "saved_at": "2026-11-25T13:40:18+00:00"
  },
  "schema": 1
 }
