@@ -34245,14 +34245,56 @@
    "updated_at": "2026-11-25T14:00:24+00:00",
    "url": "https://marioadolfo.com/mpf-vai-a-justica-contra-irregularidades-em-pedidos-de-garimpo-no-amazonas/",
    "url_hash": "4741738f4fb69bff8fdc0830"
+  },
+  "guid:6b06ea2531292b0008f059af": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Júri popular integrou a programação da 34.ª Semana Justiça pela Paz em Casa",
+   "discovered_at": "2026-11-25T14:10:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b06ea2531292b0008f059af",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/34630d7a-e405-4fc8-9a5d-b21b2ecdfa79.jpg",
+   "key": "guid:6b06ea2531292b0008f059af",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-25T14:02:51+00:00",
+   "status": "pending",
+   "title": "Réu é condenado a 10 anos de prisão por tentar matar a própria tia em Manaus",
+   "updated_at": "2026-11-25T14:10:19+00:00",
+   "url": "https://marioadolfo.com/homem-e-condenado-a-mais-de-10-anos-de-prisao-por-tentar-matar-a-propria-tia-em-manaus/",
+   "url_hash": "138398b469c5bb1e9c4dfed5"
+  },
+  "guid:6b06eacf31292b0008f059c9": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Militar foi encontrado amarrado e ferido em um casebre abandonado na zona norte da capital.",
+   "discovered_at": "2026-11-25T14:10:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b06eacf31292b0008f059c9",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4fe71200-37a3-4b75-9a2d-3257ec784b30.jpg",
+   "key": "guid:6b06eacf31292b0008f059c9",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-25T14:07:09+00:00",
+   "status": "pending",
+   "title": "Subtenente da PM é resgatado após ser espancado por criminosos em Manaus",
+   "updated_at": "2026-11-25T14:10:19+00:00",
+   "url": "https://marioadolfo.com/subtenente-da-pm-e-resgatado-apos-ser-espancado-por-criminosos-em-manaus/",
+   "url_hash": "4894ebad9b216b57ce218c7b"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-25T14:00:24+00:00",
+  "last_run_at": "2026-11-25T14:10:18+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-25T14:00:24+00:00"
+  "saved_at": "2026-11-25T14:10:19+00:00"
  },
  "schema": 1
 }
