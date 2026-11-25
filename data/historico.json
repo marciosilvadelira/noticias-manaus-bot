@@ -33775,12 +33775,12 @@
    "guid": "6b05e4ed31292b0008f056e9",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d2d0c8a1-8b23-42a7-aa68-ce701c8e1dbe.jpeg",
    "key": "guid:6b05e4ed31292b0008f056e9",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-24T19:28:30+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Núcleo especializado da Defensoria atua na defesa dos direitos do consumidor",
-   "updated_at": "2026-11-24T19:30:20+00:00",
+   "updated_at": "2026-11-25T19:30:29+00:00",
    "url": "https://marioadolfo.com/nucleo-especializado-da-defensoria-atua-na-defesa-dos-direitos-do-consumidor/",
    "url_hash": "0e17518ca51757d887589e64"
   },
@@ -33796,12 +33796,12 @@
    "guid": "6b05e58a31292b0008f05702",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/9c80c4ec-b332-4d86-95df-0fb0fbf79919.jpg",
    "key": "guid:6b05e58a31292b0008f05702",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-24T19:30:10+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Lula lamenta falta de acordo na COP31 e pede união pelo meio ambiente",
-   "updated_at": "2026-11-24T19:40:17+00:00",
+   "updated_at": "2026-11-25T19:30:29+00:00",
    "url": "https://marioadolfo.com/lula-lamenta-falta-de-acordo-na-cop31-e-pede-uniao-pelo-meio-ambiente/",
    "url_hash": "e786a747be797c2068114d49"
   },
@@ -34691,9 +34691,9 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-25T19:20:16+00:00",
+  "last_run_at": "2026-11-25T19:30:28+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-25T19:20:17+00:00"
+  "saved_at": "2026-11-25T19:30:30+00:00"
  },
  "schema": 1
 }
