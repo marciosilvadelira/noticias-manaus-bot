@@ -34015,6 +34015,48 @@
    "url": "https://marioadolfo.com/omar-aziz-recebe-delegacao-russa-interessada-em-instalar-estaleiro-em-manaus/",
    "url_hash": "738e9336fc5054e8390b5535"
   },
+  "guid:6b0658ef31292b0008f05839": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Texto traz ferramentas para garantir concorrência em mercados digitais",
+   "discovered_at": "2026-11-25T11:40:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b0658ef31292b0008f05839",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5d981691-5619-41f0-a6a1-6816efefda33.webp",
+   "key": "guid:6b0658ef31292b0008f05839",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-25T11:30:59+00:00",
+   "status": "pending",
+   "title": "Projeto de regulação das big techs será votado na próxima semana",
+   "updated_at": "2026-11-25T11:40:16+00:00",
+   "url": "https://marioadolfo.com/projeto-de-regulacao-das-big-techs-sera-votado-na-proxima-semana/",
+   "url_hash": "19544258c8c11b761c7f1762"
+  },
+  "guid:6b06596531292b0008f0584d": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Instituição aponta déficit de R$ 50 milhões para fechar 2026",
+   "discovered_at": "2026-11-25T11:40:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b06596531292b0008f0584d",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/22ec0e1e-e51d-453e-a96d-3c6b401b5c3c.jpeg",
+   "key": "guid:6b06596531292b0008f0584d",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-25T11:30:56+00:00",
+   "status": "pending",
+   "title": "Emenda propõe aporte de R$ 69,98 milhões no orçamento da Defensoria em 2027",
+   "updated_at": "2026-11-25T11:40:16+00:00",
+   "url": "https://marioadolfo.com/emenda-propoe-aporte-de-r-69-98-milhoes-no-orcamento-da-defensoria-em-2027/",
+   "url_hash": "153e6b2185010ea8f149556e"
+  },
   "guid:6b065a1c31292b0008f05866": {
    "attempts": [],
    "category": "Amazonas",
@@ -34035,14 +34077,35 @@
    "updated_at": "2026-11-25T11:30:21+00:00",
    "url": "https://marioadolfo.com/novos-radares-comecam-a-funcionar-em-manaus-no-dia-8-de-dezembro-veja-os-locais/",
    "url_hash": "59c9ff2e5717fa84feb3f99b"
+  },
+  "guid:6b065be231292b0008f0589f": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Proposta prevê que o Estado custeie seis meses de estágio em empresas para facilitar o acesso ao primeiro emprego e ampliar oportunidades também para trabalhadores acima dos 40 anos",
+   "discovered_at": "2026-11-25T11:40:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b065be231292b0008f0589f",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ae544780-8bf9-448d-a3bb-001cdd6df1bf.jpeg",
+   "key": "guid:6b065be231292b0008f0589f",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-25T11:35:57+00:00",
+   "status": "pending",
+   "title": "Omar Aziz reafirma compromisso de criar programa de estágio remunerado",
+   "updated_at": "2026-11-25T11:40:16+00:00",
+   "url": "https://marioadolfo.com/omar-aziz-reafirma-compromisso-de-criar-programa-de-estagio-remunerado/",
+   "url_hash": "745583e7fad66e7497859fc4"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-25T11:30:20+00:00",
+  "last_run_at": "2026-11-25T11:40:15+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-25T11:30:21+00:00"
+  "saved_at": "2026-11-25T11:40:16+00:00"
  },
  "schema": 1
 }
