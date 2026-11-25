@@ -34014,14 +34014,35 @@
    "updated_at": "2026-11-24T22:40:15+00:00",
    "url": "https://marioadolfo.com/omar-aziz-recebe-delegacao-russa-interessada-em-instalar-estaleiro-em-manaus/",
    "url_hash": "738e9336fc5054e8390b5535"
+  },
+  "guid:6b065a1c31292b0008f05866": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Entrará em operação 17 novos dispositivos, sendo três detectores de altura que serão utilizados pela primeira vez em Manaus",
+   "discovered_at": "2026-11-25T11:30:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b065a1c31292b0008f05866",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f3a635ba-6e78-4153-a952-df95af14a5a7.jpeg",
+   "key": "guid:6b065a1c31292b0008f05866",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-25T11:20:30+00:00",
+   "status": "pending",
+   "title": "Novos radares começam a funcionar em Manaus no dia 8 de dezembro; veja os locais",
+   "updated_at": "2026-11-25T11:30:21+00:00",
+   "url": "https://marioadolfo.com/novos-radares-comecam-a-funcionar-em-manaus-no-dia-8-de-dezembro-veja-os-locais/",
+   "url_hash": "59c9ff2e5717fa84feb3f99b"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-25T11:20:15+00:00",
+  "last_run_at": "2026-11-25T11:30:20+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-25T11:20:16+00:00"
+  "saved_at": "2026-11-25T11:30:21+00:00"
  },
  "schema": 1
 }
