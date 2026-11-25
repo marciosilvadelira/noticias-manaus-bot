@@ -33402,11 +33402,19 @@
    "url_hash": "ad0600c71d458cf1cd6af904"
   },
   "guid:6b05c09531292b0008f0557d": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-25T04:20:30+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1551247763692781",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Do total de veículos apreendidos, 240 foram apreendidos no interior e 114 na capital amazonense",
    "discovered_at": "2026-11-24T17:10:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1551247763692781",
    "formats": [
     "link"
    ],
@@ -33414,11 +33422,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e984919a-a1d2-48f1-86b9-50d0719b7ce2.jpeg",
    "key": "guid:6b05c09531292b0008f0557d",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1551247763692781"
+   },
    "source_published_at": "2026-11-24T17:02:51+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Mais de 350 veículos são apreendidos no Amazonas em 2026",
-   "updated_at": "2026-11-24T17:10:16+00:00",
+   "updated_at": "2026-11-25T04:20:30+00:00",
    "url": "https://marioadolfo.com/mais-de-350-veiculos-sao-apreendidos-no-amazonas-em-2026/",
    "url_hash": "61519ec2bc3580f50227a252"
   },
@@ -33454,11 +33464,19 @@
    "url_hash": "7ae45db5ee9cb684cd9e03b1"
   },
   "guid:6b05c35531292b0008f055c8": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-25T04:20:56+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1551248023692755",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Com uma taxa de 0,93 vítima por 100 mil mulheres, o estado apresentou o menor índice entre as 27 unidades da Federação",
    "discovered_at": "2026-11-24T17:10:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1551248023692755",
    "formats": [
     "link"
    ],
@@ -33466,20 +33484,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2b83efa1-621f-4e00-a6e9-1de0de85e060.jpeg",
    "key": "guid:6b05c35531292b0008f055c8",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1551248023692755"
+   },
    "source_published_at": "2026-11-24T17:06:47+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Amazonas lidera ranking nacional com a menor taxa de feminicídio em 2025",
-   "updated_at": "2026-11-24T17:10:16+00:00",
+   "updated_at": "2026-11-25T04:20:56+00:00",
    "url": "https://marioadolfo.com/amazonas-lidera-ranking-nacional-de-menor-taxa-de-feminicidio-em-2025/",
    "url_hash": "9d81afcaa8502465d78fc80b"
   },
   "guid:6b05c46b31292b0008f055f9": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-25T04:21:22+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1551248413692716",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "‘Amazônia Mágica: Floresta das Letras’ combina educação infantil e exploração da floresta em ambiente 3D",
    "discovered_at": "2026-11-24T17:10:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1551248413692716",
    "formats": [
     "link"
    ],
@@ -33487,20 +33515,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4783ca59-7122-490f-abe8-e796ad7efa63.jpeg",
    "key": "guid:6b05c46b31292b0008f055f9",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1551248413692716"
+   },
    "source_published_at": "2026-11-24T17:09:07+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Lei Paulo Gustavo impulsiona criação de jogo digital educativo com temática amazônica",
-   "updated_at": "2026-11-24T17:10:16+00:00",
+   "updated_at": "2026-11-25T04:21:22+00:00",
    "url": "https://marioadolfo.com/lei-paulo-gustavo-impulsiona-criacao-de-jogo-digital-educativo-com-tematica-amazonica/",
    "url_hash": "75adad0540c1f05d9c167006"
   },
   "guid:6b05c4e031292b0008f05612": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-25T04:21:48+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1551248680359356",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Instituto também vai depositar benefícios e auxílios de novembro",
    "discovered_at": "2026-11-24T17:20:19+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1551248680359356",
    "formats": [
     "link"
    ],
@@ -33508,20 +33546,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/8daf62c6-3be8-4a16-b6cf-7de515e64d33.jpeg",
    "key": "guid:6b05c4e031292b0008f05612",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1551248680359356"
+   },
    "source_published_at": "2026-11-24T17:11:31+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "INSS começa a pagar décimo terceiro salário nesta terça-feira (24)",
-   "updated_at": "2026-11-24T17:20:19+00:00",
+   "updated_at": "2026-11-25T04:21:48+00:00",
    "url": "https://marioadolfo.com/inss-comeca-a-pagar-decimo-terceiro-salario-nesta-terca-feira-24/",
    "url_hash": "bdcd196afc781fe41686da8d"
   },
   "guid:6b05c55231292b0008f05627": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-25T04:22:14+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1551249087025982",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "O crime ocorreu no dia 13 de junho deste ano, quando a investigada e a vítima consumiam bebidas alcoólicas na residência do homem",
    "discovered_at": "2026-11-24T17:20:19+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1551249087025982",
    "formats": [
     "link"
    ],
@@ -33529,11 +33577,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/7d02dc67-51c8-41a5-be28-6559156f40e9.jpeg",
    "key": "guid:6b05c55231292b0008f05627",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1551249087025982"
+   },
    "source_published_at": "2026-11-24T17:14:36+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Mulher é presa por tentar matar vizinho com faca no bairro Coroado",
-   "updated_at": "2026-11-24T17:20:19+00:00",
+   "updated_at": "2026-11-25T04:22:14+00:00",
    "url": "https://marioadolfo.com/mulher-e-presa-por-tentar-matar-vizinho-com-faca-no-bairro-coroado/",
    "url_hash": "842cc40b2e4356f98f68890f"
   },
@@ -33919,9 +33969,9 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-25T04:10:19+00:00",
+  "last_run_at": "2026-11-25T04:20:23+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-25T04:12:13+00:00"
+  "saved_at": "2026-11-25T04:22:14+00:00"
  },
  "schema": 1
 }
