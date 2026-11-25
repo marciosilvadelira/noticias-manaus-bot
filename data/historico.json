@@ -34560,14 +34560,77 @@
    "updated_at": "2026-11-25T18:00:23+00:00",
    "url": "https://marioadolfo.com/brasil-decide-que-embaixador-nao-deve-mais-voltar-a-argentina-de-milei/",
    "url_hash": "80f4e3a863db2010c55d4a44"
+  },
+  "guid:6b072ddd31292b0008f05b31": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Campanha reúne ofertas em itens para diferentes etapas da rotina de beleza, com opções para cuidados corporais, faciais e capilares",
+   "discovered_at": "2026-11-25T19:00:22+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b072ddd31292b0008f05b31",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c1bd70ba-eb09-47fe-bb37-c7d2c91f7fc6.jpeg",
+   "key": "guid:6b072ddd31292b0008f05b31",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-25T18:51:22+00:00",
+   "status": "pending",
+   "title": "Beauty Week do Boticário tem até 70% OFF em produtos de cuidados",
+   "updated_at": "2026-11-25T19:00:22+00:00",
+   "url": "https://marioadolfo.com/beauty-week-do-boticario-tem-ate-70-off-em-produtos-de-cuidados/",
+   "url_hash": "6eddf5c06a9ad31d60fd8d8e"
+  },
+  "guid:6b072e4f31292b0008f05b48": {
+   "attempts": [],
+   "category": "Parintins",
+   "description": "No Paraná do Ramos, equipes continuam os trabalhos nesta quarta-feira (25/11); no Ramal Santa Fé, foram controlados 50 focos",
+   "discovered_at": "2026-11-25T19:00:22+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b072e4f31292b0008f05b48",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b9ef2cee-e101-49b8-a47b-58703cd58a88.png",
+   "key": "guid:6b072e4f31292b0008f05b48",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-25T18:54:18+00:00",
+   "status": "pending",
+   "title": "Corpo de Bombeiros combate incêndios em duas comunidades de Parintins",
+   "updated_at": "2026-11-25T19:00:22+00:00",
+   "url": "https://marioadolfo.com/corpo-de-bombeiros-combate-incendios-em-duas-comunidades-de-parintins/",
+   "url_hash": "679b4088504aa434322a5f30"
+  },
+  "guid:6b072f1131292b0008f05b5e": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A operação percorreu mais de 1,7 quilômetro, alcançou 17 ruas e realizou intervenções em mais de cem postes",
+   "discovered_at": "2026-11-25T19:00:22+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b072f1131292b0008f05b5e",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/81059d24-628a-4a0e-a646-b651fe65887c.jpeg",
+   "key": "guid:6b072f1131292b0008f05b5e",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-25T18:56:45+00:00",
+   "status": "pending",
+   "title": "Vinte toneladas de fios e cabos são retirados de ruas do Centro de Manaus",
+   "updated_at": "2026-11-25T19:00:22+00:00",
+   "url": "https://marioadolfo.com/vinte-toneladas-de-fios-e-cabos-sao-retirados-de-ruas-do-centro-de-manaus/",
+   "url_hash": "822ae6adc66bae75a7a4a142"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-25T18:50:16+00:00",
+  "last_run_at": "2026-11-25T19:00:21+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-25T18:50:17+00:00"
+  "saved_at": "2026-11-25T19:00:22+00:00"
  },
  "schema": 1
 }
