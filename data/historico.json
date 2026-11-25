@@ -34434,14 +34434,77 @@
    "updated_at": "2026-11-25T17:10:17+00:00",
    "url": "https://marioadolfo.com/fumaca-aulas-da-rede-estadual-sao-suspensas-em-manaus-e-em-24-cidades-do-interior-do-am/",
    "url_hash": "2336421b923b480850448f8b"
+  },
+  "guid:6b07158831292b0008f05aa0": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Vagas são destinadas a demandas da área de família, como divórcio, guarda dos filhos e pensão alimentícia. Pedidos de medida protetiva dispensam agendamento",
+   "discovered_at": "2026-11-25T17:20:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b07158831292b0008f05aa0",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/1af1bde9-99ec-425a-883b-b13106e92cf5.jpeg",
+   "key": "guid:6b07158831292b0008f05aa0",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-25T17:09:52+00:00",
+   "status": "pending",
+   "title": "Defensoria abre 90 novas vagas para atendimento a mulheres em situação de violência",
+   "updated_at": "2026-11-25T17:20:17+00:00",
+   "url": "https://marioadolfo.com/defensoria-abre-90-novas-vagas-para-atendimento-a-mulheres-em-situacao-de-violencia/",
+   "url_hash": "997914b9fe653f563b7a4436"
+  },
+  "guid:6b0716ef31292b0008f05abc": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Proposição estabelece diretrizes para a segurança do paciente pediátrico e prevê acolhimento psicossocial para familiares nos serviços de saúde",
+   "discovered_at": "2026-11-25T17:20:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b0716ef31292b0008f05abc",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/94130af4-1923-4d75-a077-fc5873061c36.jpeg",
+   "key": "guid:6b0716ef31292b0008f05abc",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-25T17:15:44+00:00",
+   "status": "pending",
+   "title": "Lei Benício: projeto de Eduardo Braga avança no Senado para proteger pacientes pediátricos",
+   "updated_at": "2026-11-25T17:20:17+00:00",
+   "url": "https://marioadolfo.com/lei-benicio-projeto-de-eduardo-braga-avanca-no-senado-para-proteger-pacientes-pediatricos/",
+   "url_hash": "a076437874be59d01f3ab7a6"
+  },
+  "guid:6b07181131292b0008f05ad4": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Segundo testemunhas, o motociclista seguia em alta velocidade e caiu na pista após o atropelamento",
+   "discovered_at": "2026-11-25T17:20:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b07181131292b0008f05ad4",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/64571c7f-7b74-4637-8ccf-c38632778366.png",
+   "key": "guid:6b07181131292b0008f05ad4",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-25T17:19:24+00:00",
+   "status": "pending",
+   "title": "Idoso morre atropelado ao atravessar faixa de pedestres na Av. Autaz Mirim",
+   "updated_at": "2026-11-25T17:20:17+00:00",
+   "url": "https://marioadolfo.com/idoso-morre-atropelado-ao-trav-mo/",
+   "url_hash": "0e1d1a03cdad4084e6f94f47"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-25T17:10:16+00:00",
+  "last_run_at": "2026-11-25T17:20:17+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-25T17:10:17+00:00"
+  "saved_at": "2026-11-25T17:20:18+00:00"
  },
  "schema": 1
 }
