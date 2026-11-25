@@ -33754,12 +33754,12 @@
    "guid": "6b05d8e731292b0008f056cc",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/adc36390-f349-4492-9c17-96b1627c40e0.jpg",
    "key": "guid:6b05d8e731292b0008f056cc",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-24T18:41:50+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Filme amazonense ‘Airumã’ terá sessões gratuitas em escola de Manacapuru",
-   "updated_at": "2026-11-24T18:50:16+00:00",
+   "updated_at": "2026-11-25T18:50:16+00:00",
    "url": "https://marioadolfo.com/filme-amazonense-airuma-tera-sessoes-gratuitas-em-escola-de-manacapuru/",
    "url_hash": "88ef6d7726860a1c221c550b"
   },
@@ -34565,9 +34565,9 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-25T18:40:16+00:00",
+  "last_run_at": "2026-11-25T18:50:16+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-25T18:40:17+00:00"
+  "saved_at": "2026-11-25T18:50:17+00:00"
  },
  "schema": 1
 }
