@@ -34329,14 +34329,77 @@
    "updated_at": "2026-11-25T14:40:16+00:00",
    "url": "https://marioadolfo.com/caminhada-no-centro-de-manaus-reune-mulheres-contra-o-feminicidio/",
    "url_hash": "fc81c57df18ead5d648eff74"
+  },
+  "guid:6b06f57e31292b0008f05a0a": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Foram 95% alertas severos e 5% extremos, diz ministro",
+   "discovered_at": "2026-11-25T15:00:23+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b06f57e31292b0008f05a0a",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/bc4fcaee-1656-4ade-ab83-4c3684a44fef.webp",
+   "key": "guid:6b06f57e31292b0008f05a0a",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-25T14:53:48+00:00",
+   "status": "pending",
+   "title": "Defesa Civil Alerta já emitiu mais de 4 mil avisos desde 2024",
+   "updated_at": "2026-11-25T15:00:23+00:00",
+   "url": "https://marioadolfo.com/defesa-civil-alerta-ja-emitiu-mais-de-4-mil-avisos-desde-2024/",
+   "url_hash": "ce8dfc5351b346994d66b234"
+  },
+  "guid:6b06f69431292b0008f05a2d": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Informação está na Pesquisa Nacional de Saneamento Básico",
+   "discovered_at": "2026-11-25T15:00:23+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b06f69431292b0008f05a2d",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e1f2e140-ce72-4aba-bd2e-e47d961c826f.webp",
+   "key": "guid:6b06f69431292b0008f05a2d",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-25T14:56:03+00:00",
+   "status": "pending",
+   "title": "IBGE: coleta seletiva avança e atinge 2.675 municípios brasileiros",
+   "updated_at": "2026-11-25T15:00:23+00:00",
+   "url": "https://marioadolfo.com/ibge-coleta-seletiva-avanca-e-atinge-2-675-municipios-brasileiros/",
+   "url_hash": "e399f9445ff7d243d303026e"
+  },
+  "guid:6b06f71a31292b0008f05a44": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Decisão atendeu a pedido da Advocacia-Geral da União",
+   "discovered_at": "2026-11-25T15:00:23+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b06f71a31292b0008f05a44",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/be247a12-355a-4394-be97-1eba5dca466c.webp",
+   "key": "guid:6b06f71a31292b0008f05a44",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-25T14:58:14+00:00",
+   "status": "pending",
+   "title": "Justiça derruba liminar que suspendia novas regras para VA e VR",
+   "updated_at": "2026-11-25T15:00:23+00:00",
+   "url": "https://marioadolfo.com/justica-derruba-liminar-que-suspendia-novas-regras-para-va-e-vr/",
+   "url_hash": "0043a91296b7cc3099190c82"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-25T14:50:18+00:00",
+  "last_run_at": "2026-11-25T15:00:22+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-25T14:50:19+00:00"
+  "saved_at": "2026-11-25T15:00:24+00:00"
  },
  "schema": 1
 }
