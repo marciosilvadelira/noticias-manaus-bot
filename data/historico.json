@@ -35138,14 +35138,35 @@
    "updated_at": "2026-11-26T13:30:18+00:00",
    "url": "https://marioadolfo.com/terceirizados-protestam-em-frente-a-semed-em-manaus-e-cobram-salarios-e-beneficios-atrasados/",
    "url_hash": "ae195feedaa00f266d68232f"
+  },
+  "guid:6b08329931292b0008f05d0e": {
+   "attempts": [],
+   "category": "Dito & Feito",
+   "description": "Enquanto Bolsonaro agoniza na UTI, o pau canta entre os “terrivelmente evangélicos” e “católicos fake”, em frente do hospital",
+   "discovered_at": "2026-11-26T13:40:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b08329931292b0008f05d0e",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/780b7164-1e66-4e1f-a2dc-ade7be7c7b11.jpeg",
+   "key": "guid:6b08329931292b0008f05d0e",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-26T13:34:25+00:00",
+   "status": "pending",
+   "title": "Dito & Feito - IRMANADOS NA ORAÇÃO",
+   "updated_at": "2026-11-26T13:40:16+00:00",
+   "url": "https://marioadolfo.com/dito-feito-34/",
+   "url_hash": "1a7b38f3516123ad1d19ebe3"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-26T13:30:18+00:00",
+  "last_run_at": "2026-11-26T13:40:16+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-26T13:30:19+00:00"
+  "saved_at": "2026-11-26T13:40:17+00:00"
  },
  "schema": 1
 }
