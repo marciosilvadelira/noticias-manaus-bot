@@ -35516,14 +35516,35 @@
    "updated_at": "2026-11-26T20:50:16+00:00",
    "url": "https://marioadolfo.com/governador-entrega-nova-estrutura-no-hospital-joao-lucio/",
    "url_hash": "87c5f1d703f01c6475da59db"
+  },
+  "guid:6b08c21431292b0008f05f36": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "O apagão teve início às 15h35 (horário de Manaus) após o desligamento das linhas de transmissão de 500 kV Jurupari/Oriximiná C1 e C2.",
+   "discovered_at": "2026-11-26T23:40:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b08c21431292b0008f05f36",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4f8f9f5d-7193-403a-8652-5f177ac1a520.jpeg",
+   "key": "guid:6b08c21431292b0008f05f36",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-26T23:39:22+00:00",
+   "status": "pending",
+   "title": "Apagão no Amazonas causa transtornos no comércio e trânsito",
+   "updated_at": "2026-11-26T23:40:21+00:00",
+   "url": "https://marioadolfo.com/apagao-no-amazonas-causa-transtornos-no-comercio-e-transito/",
+   "url_hash": "300528fceff813fc88fa33b8"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-26T23:30:18+00:00",
+  "last_run_at": "2026-11-26T23:40:21+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-26T23:30:20+00:00"
+  "saved_at": "2026-11-26T23:40:22+00:00"
  },
  "schema": 1
 }
