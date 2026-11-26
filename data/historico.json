@@ -35264,14 +35264,35 @@
    "updated_at": "2026-11-26T16:40:19+00:00",
    "url": "https://marioadolfo.com/jogador-do-vasco-e-preso-por-suspeita-de-tentativa-de-homicidio/",
    "url_hash": "1752aec32c35898cd4b0d41f"
+  },
+  "guid:6b08610e31292b0008f05dd2": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Medida está publicada no Diário Oficial da União (DOU)",
+   "discovered_at": "2026-11-26T16:50:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b08610e31292b0008f05dd2",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d531e0b1-1454-4211-add1-3cde9e3ccfe5.webp",
+   "key": "guid:6b08610e31292b0008f05dd2",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-26T16:43:39+00:00",
+   "status": "pending",
+   "title": "Anvisa proíbe tirzepatida e retatrutida sem registro",
+   "updated_at": "2026-11-26T16:50:17+00:00",
+   "url": "https://marioadolfo.com/anvisa-proibe-tirzepatida-e-retatrutida-sem-registro/",
+   "url_hash": "a974c2464b04dca016dada05"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-26T16:40:16+00:00",
+  "last_run_at": "2026-11-26T16:50:16+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-26T16:40:21+00:00"
+  "saved_at": "2026-11-26T16:50:17+00:00"
  },
  "schema": 1
 }
