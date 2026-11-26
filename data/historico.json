@@ -34857,12 +34857,12 @@
    "guid": "6b07306231292b0008f05b75",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5015ff59-c203-4545-8849-e5b8c15360c7.jpeg",
    "key": "guid:6b07306231292b0008f05b75",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-25T19:06:54+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Queimada em área protegida gera multa de R$ 1,26 milhão no Amazonas",
-   "updated_at": "2026-11-25T19:10:22+00:00",
+   "updated_at": "2026-11-26T19:10:23+00:00",
    "url": "https://marioadolfo.com/queimada-em-area-protegida-gera-multa-de-r-1-26-milhao-no-amazonas/",
    "url_hash": "b5913c156c57a98a84b4954d"
   },
@@ -35348,14 +35348,56 @@
    "updated_at": "2026-11-26T17:30:22+00:00",
    "url": "https://marioadolfo.com/festival-do-beiradao-leva-diferentes-geracoes-da-musica-amazonense-ao-largo-de-sao-sebastiao-nesta-sexta/",
    "url_hash": "8e7454c411dcf22a9ad58dd1"
+  },
+  "guid:6b08813231292b0008f05e35": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Alcebíades Vasconcelos recebeu, in memoriam, as duas honrarias concedidas pelo Legislativo estadual",
+   "discovered_at": "2026-11-26T19:10:23+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b08813231292b0008f05e35",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0a428e3c-1d13-4604-9b7c-c001345b14db.jpeg",
+   "key": "guid:6b08813231292b0008f05e35",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-26T19:00:17+00:00",
+   "status": "pending",
+   "title": "Pastor que liderou expansão evangélica no Amazonas é homenageado 38 anos após sua morte",
+   "updated_at": "2026-11-26T19:10:23+00:00",
+   "url": "https://marioadolfo.com/pastor-que-liderou-expansao-evangelica-no-amazonas-e-homenageado-38-anos-apos-sua-morte/",
+   "url_hash": "ba186d9c93d6f3906472be8f"
+  },
+  "guid:6b08827731292b0008f05e51": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Ação de Assistência Hospitalar prevê mais de 2 mil atendimentos em Silves e Itapiranga, incluindo mamografia em localidades onde o exame não está disponível",
+   "discovered_at": "2026-11-26T19:10:23+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b08827731292b0008f05e51",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/435602de-9f35-422c-964b-12a2b5439465.jpeg",
+   "key": "guid:6b08827731292b0008f05e51",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-26T19:07:32+00:00",
+   "status": "pending",
+   "title": "Eneva participa de ação que leva saúde e cidadania a 16 comunidades ribeirinhas do Amazonas",
+   "updated_at": "2026-11-26T19:10:23+00:00",
+   "url": "https://marioadolfo.com/eneva-participa-de-acao-que-leva-saude-e-cidadania-a-16-comunidades-ribeirinhas-do-amazonas/",
+   "url_hash": "0061696212a4722bac6e4040"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-26T19:00:21+00:00",
+  "last_run_at": "2026-11-26T19:10:22+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-26T19:00:22+00:00"
+  "saved_at": "2026-11-26T19:10:23+00:00"
  },
  "schema": 1
 }
