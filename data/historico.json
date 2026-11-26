@@ -35033,14 +35033,35 @@
    "updated_at": "2026-11-26T11:40:16+00:00",
    "url": "https://marioadolfo.com/fumaca-atividades-em-parques-e-centros-de-lazer-sao-suspensas-ate-sexta-feira/",
    "url_hash": "fd122c43acec3388d6fa581b"
+  },
+  "guid:6b08252431292b0008f05c80": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Além da capital, cidades do interior do Amazonas também registram índices críticos",
+   "discovered_at": "2026-11-26T12:30:26+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b08252431292b0008f05c80",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/fe04967b-b8e7-4917-9c4c-2406d3b2e2e2.jpeg",
+   "key": "guid:6b08252431292b0008f05c80",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-26T12:27:54+00:00",
+   "status": "pending",
+   "title": "Fumaça encobre Manaus e deixa qualidade do ar ‘péssima’",
+   "updated_at": "2026-11-26T12:30:26+00:00",
+   "url": "https://marioadolfo.com/fumaca-encobre-manaus-e-deixa-qualidade-do-ar-pessima/",
+   "url_hash": "9c540c5cc2b349a383b4bf77"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-26T12:20:15+00:00",
+  "last_run_at": "2026-11-26T12:30:26+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-26T12:20:17+00:00"
+  "saved_at": "2026-11-26T12:30:26+00:00"
  },
  "schema": 1
 }
