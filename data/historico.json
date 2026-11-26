@@ -35453,14 +35453,35 @@
    "updated_at": "2026-11-26T20:20:16+00:00",
    "url": "https://marioadolfo.com/orcamento-de-2027-relatorio-preliminar-de-braga-e-aprovado-na-comissao-mista-de-orcamento/",
    "url_hash": "184c627aa99cc80ac86561b5"
+  },
+  "guid:6b0896fd31292b0008f05ec1": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Falha no Sistema Interligado Nacional (SIN) ocorreu às 15h35. Manauaras também relatam interrupção nos serviços de telefonia móvel",
+   "discovered_at": "2026-11-26T20:40:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b0896fd31292b0008f05ec1",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/abba3252-0866-46a1-b4a0-3eb3f09d5970.jpeg",
+   "key": "guid:6b0896fd31292b0008f05ec1",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-26T20:36:05+00:00",
+   "status": "pending",
+   "title": "Apagão atinge Manaus e outros sete municípios do Amazonas nesta quinta-feira",
+   "updated_at": "2026-11-26T20:40:15+00:00",
+   "url": "https://marioadolfo.com/apagao-atinge-manaus-e-outros-sete-municipios-do-amazonas-nesta-quinta-feira/",
+   "url_hash": "0bb57779e6eee2ab9b3f5d8b"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-26T20:30:27+00:00",
+  "last_run_at": "2026-11-26T20:40:15+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-26T20:30:31+00:00"
+  "saved_at": "2026-11-26T20:40:16+00:00"
  },
  "schema": 1
 }
