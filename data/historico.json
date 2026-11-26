@@ -34928,14 +34928,35 @@
    "updated_at": "2026-11-26T11:00:23+00:00",
    "url": "https://marioadolfo.com/tce-am-analisa-contas-de-david-almeida-em-sessao-especial-no-dia-1o-de-dezembro/",
    "url_hash": "4e4b0915ef3660c6900e8f32"
+  },
+  "guid:6b07926131292b0008f05c22": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "O suspeito já havia sido preso por uma série de assaltos e cumpre pena de sete anos por outros roubos",
+   "discovered_at": "2026-11-26T11:10:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b07926131292b0008f05c22",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/cf8c248b-6489-4a34-b11a-377ceb8a579e.jpeg",
+   "key": "guid:6b07926131292b0008f05c22",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-26T11:00:39+00:00",
+   "status": "pending",
+   "title": "'Gordinho' é preso por participar de grupo especializado em arrastões",
+   "updated_at": "2026-11-26T11:10:15+00:00",
+   "url": "https://marioadolfo.com/gordinho-e-preso-por-participar-de-grupo-que-fazia-arrastoes-em-manaus/",
+   "url_hash": "773d4ce6edfd557656b273cd"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-26T11:00:22+00:00",
+  "last_run_at": "2026-11-26T11:10:15+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-26T11:00:24+00:00"
+  "saved_at": "2026-11-26T11:10:16+00:00"
  },
  "schema": 1
 }
