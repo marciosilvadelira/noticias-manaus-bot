@@ -35474,14 +35474,56 @@
    "updated_at": "2026-11-26T20:40:15+00:00",
    "url": "https://marioadolfo.com/apagao-atinge-manaus-e-outros-sete-municipios-do-amazonas-nesta-quinta-feira/",
    "url_hash": "0bb57779e6eee2ab9b3f5d8b"
+  },
+  "guid:6b08990031292b0008f05eef": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Em mutirão nesta quinta-feira (26/11), Governo do Amazonas realiza a entrega de mais de 2 mil aparelhos recuperados",
+   "discovered_at": "2026-11-26T20:50:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b08990031292b0008f05eef",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/8c8e1cd9-778e-448d-8b8d-d671b77f076b.jpeg",
+   "key": "guid:6b08990031292b0008f05eef",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-26T20:41:27+00:00",
+   "status": "pending",
+   "title": "‘É gratificante ter esse apoio do governo’, relata dono de celular recuperado",
+   "updated_at": "2026-11-26T20:50:16+00:00",
+   "url": "https://marioadolfo.com/e-gratificante-ter-esse-apoio-do-governo-relata-dono-de-celular-recuperado/",
+   "url_hash": "ee81d2824f5eef17afd13b84"
+  },
+  "guid:6b0899bf31292b0008f05f0f": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Espaço conta com quatro consultórios e fluxo diferenciado para agilizar o atendimento",
+   "discovered_at": "2026-11-26T20:50:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b0899bf31292b0008f05f0f",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/9252f4b4-3b3f-4f70-a1c2-30ba17ee21da.jpeg",
+   "key": "guid:6b0899bf31292b0008f05f0f",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-26T20:44:04+00:00",
+   "status": "pending",
+   "title": "Governador entrega nova estrutura no Hospital João Lúcio",
+   "updated_at": "2026-11-26T20:50:16+00:00",
+   "url": "https://marioadolfo.com/governador-entrega-nova-estrutura-no-hospital-joao-lucio/",
+   "url_hash": "87c5f1d703f01c6475da59db"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-26T20:40:15+00:00",
+  "last_run_at": "2026-11-26T20:50:14+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-26T20:40:16+00:00"
+  "saved_at": "2026-11-26T20:50:16+00:00"
  },
  "schema": 1
 }
