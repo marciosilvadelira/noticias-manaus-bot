@@ -35117,14 +35117,35 @@
    "updated_at": "2026-11-26T13:20:17+00:00",
    "url": "https://marioadolfo.com/video-flagra-estudante-pichando-mureta-do-teatro-amazonas/",
    "url_hash": "c4370937b7226f2203a46e3a"
+  },
+  "guid:6b0830ef31292b0008f05cf0": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Funcionários da Colima afirmam que estão há três meses sem receber cesta básica, vale-transporte e auxílio-alimentação. Em mensagem ao prefeito Renato Junior, o grupo pede fiscalização da empresa",
+   "discovered_at": "2026-11-26T13:30:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b0830ef31292b0008f05cf0",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c9451e8d-33dd-4ae0-8970-b52522184940.png",
+   "key": "guid:6b0830ef31292b0008f05cf0",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-26T13:21:30+00:00",
+   "status": "pending",
+   "title": "Terceirizados protestam em frente à Semed em Manaus e cobram salários e benefícios atrasados",
+   "updated_at": "2026-11-26T13:30:18+00:00",
+   "url": "https://marioadolfo.com/terceirizados-protestam-em-frente-a-semed-em-manaus-e-cobram-salarios-e-beneficios-atrasados/",
+   "url_hash": "ae195feedaa00f266d68232f"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-26T13:20:17+00:00",
+  "last_run_at": "2026-11-26T13:30:18+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-26T13:20:18+00:00"
+  "saved_at": "2026-11-26T13:30:19+00:00"
  },
  "schema": 1
 }
