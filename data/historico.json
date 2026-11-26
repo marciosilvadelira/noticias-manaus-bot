@@ -34016,11 +34016,19 @@
    "url_hash": "738e9336fc5054e8390b5535"
   },
   "guid:6b0658ef31292b0008f05839": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-26T04:01:18+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1552391126911778",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Texto traz ferramentas para garantir concorrência em mercados digitais",
    "discovered_at": "2026-11-25T11:40:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1552391126911778",
    "formats": [
     "link"
    ],
@@ -34028,20 +34036,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5d981691-5619-41f0-a6a1-6816efefda33.webp",
    "key": "guid:6b0658ef31292b0008f05839",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1552391126911778"
+   },
    "source_published_at": "2026-11-25T11:30:59+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Projeto de regulação das big techs será votado na próxima semana",
-   "updated_at": "2026-11-25T11:40:16+00:00",
+   "updated_at": "2026-11-26T04:01:18+00:00",
    "url": "https://marioadolfo.com/projeto-de-regulacao-das-big-techs-sera-votado-na-proxima-semana/",
    "url_hash": "19544258c8c11b761c7f1762"
   },
   "guid:6b06596531292b0008f0584d": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-26T04:00:53+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1552390856911805",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Instituição aponta déficit de R$ 50 milhões para fechar 2026",
    "discovered_at": "2026-11-25T11:40:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1552390856911805",
    "formats": [
     "link"
    ],
@@ -34049,20 +34067,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/22ec0e1e-e51d-453e-a96d-3c6b401b5c3c.jpeg",
    "key": "guid:6b06596531292b0008f0584d",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1552390856911805"
+   },
    "source_published_at": "2026-11-25T11:30:56+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Emenda propõe aporte de R$ 69,98 milhões no orçamento da Defensoria em 2027",
-   "updated_at": "2026-11-25T11:40:16+00:00",
+   "updated_at": "2026-11-26T04:00:53+00:00",
    "url": "https://marioadolfo.com/emenda-propoe-aporte-de-r-69-98-milhoes-no-orcamento-da-defensoria-em-2027/",
    "url_hash": "153e6b2185010ea8f149556e"
   },
   "guid:6b065a1c31292b0008f05866": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-26T04:00:28+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1552390576911833",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Entrará em operação 17 novos dispositivos, sendo três detectores de altura que serão utilizados pela primeira vez em Manaus",
    "discovered_at": "2026-11-25T11:30:21+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1552390576911833",
    "formats": [
     "link"
    ],
@@ -34070,20 +34098,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f3a635ba-6e78-4153-a952-df95af14a5a7.jpeg",
    "key": "guid:6b065a1c31292b0008f05866",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1552390576911833"
+   },
    "source_published_at": "2026-11-25T11:20:30+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Novos radares começam a funcionar em Manaus no dia 8 de dezembro; veja os locais",
-   "updated_at": "2026-11-25T11:30:21+00:00",
+   "updated_at": "2026-11-26T04:00:28+00:00",
    "url": "https://marioadolfo.com/novos-radares-comecam-a-funcionar-em-manaus-no-dia-8-de-dezembro-veja-os-locais/",
    "url_hash": "59c9ff2e5717fa84feb3f99b"
   },
   "guid:6b065b2e31292b0008f05884": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-26T04:02:08+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1552391743578383",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Categoria cobra restabelecimento do plano de saúde e prevê greve por tempo indeterminado a partir de 30 de novembro, caso atendimento não seja retomado",
    "discovered_at": "2026-11-25T11:50:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1552391743578383",
    "formats": [
     "link"
    ],
@@ -34091,20 +34129,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/33e02f5f-93bc-4ae9-86b3-f839dc8ea74e.jpeg",
    "key": "guid:6b065b2e31292b0008f05884",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1552391743578383"
+   },
    "source_published_at": "2026-11-25T11:40:13+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Professores da rede estadual fazem paralisação nesta quarta-feira",
-   "updated_at": "2026-11-25T11:50:16+00:00",
+   "updated_at": "2026-11-26T04:02:08+00:00",
    "url": "https://marioadolfo.com/professores-da-rede-estadual-fazem-paralisacao-nesta-quarta-feira/",
    "url_hash": "18636a188b355836412d81ce"
   },
   "guid:6b065be231292b0008f0589f": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-26T04:01:43+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1552391430245081",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Proposta prevê que o Estado custeie seis meses de estágio em empresas para facilitar o acesso ao primeiro emprego e ampliar oportunidades também para trabalhadores acima dos 40 anos",
    "discovered_at": "2026-11-25T11:40:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1552391430245081",
    "formats": [
     "link"
    ],
@@ -34112,11 +34160,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ae544780-8bf9-448d-a3bb-001cdd6df1bf.jpeg",
    "key": "guid:6b065be231292b0008f0589f",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1552391430245081"
+   },
    "source_published_at": "2026-11-25T11:35:57+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Omar Aziz reafirma compromisso de criar programa de estágio remunerado",
-   "updated_at": "2026-11-25T11:40:16+00:00",
+   "updated_at": "2026-11-26T04:01:43+00:00",
    "url": "https://marioadolfo.com/omar-aziz-reafirma-compromisso-de-criar-programa-de-estagio-remunerado/",
    "url_hash": "745583e7fad66e7497859fc4"
   },
@@ -34691,9 +34741,9 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-26T03:50:16+00:00",
+  "last_run_at": "2026-11-26T04:00:21+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-26T03:50:17+00:00"
+  "saved_at": "2026-11-26T04:02:08+00:00"
  },
  "schema": 1
 }
