@@ -34752,12 +34752,12 @@
    "guid": "6b071efc31292b0008f05b06",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/3b4e6418-839b-416b-a2ae-948a735e3d9c.jpeg",
    "key": "guid:6b071efc31292b0008f05b06",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-25T17:49:32+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Festival de Cinema Close inicia terceira edição em Manaus com programação gratuita",
-   "updated_at": "2026-11-25T18:00:23+00:00",
+   "updated_at": "2026-11-26T17:50:15+00:00",
    "url": "https://marioadolfo.com/festival-de-cinema-close-inicia-terceira-edicao-em-manaus-com-programacao-gratuita/",
    "url_hash": "28fae84b12b4d23472005bc9"
   },
@@ -35353,9 +35353,9 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-26T17:40:22+00:00",
+  "last_run_at": "2026-11-26T17:50:14+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-26T17:40:23+00:00"
+  "saved_at": "2026-11-26T17:50:15+00:00"
  },
  "schema": 1
 }
