@@ -34170,6 +34170,27 @@
    "url": "https://marioadolfo.com/omar-aziz-reafirma-compromisso-de-criar-programa-de-estagio-remunerado/",
    "url_hash": "745583e7fad66e7497859fc4"
   },
+  "guid:6b06d38c31292b0008f058c5": {
+   "attempts": [],
+   "category": "Parintins",
+   "description": "Contrato para a temporada de 2027 exige aval para shows particulares e até para publicidade em perfis pessoais. Mesmo sem utilizar marcas oficiais, o boi prevê cobrar um adicional de pelo menos 20% sobre os cachês",
+   "discovered_at": "2026-11-26T11:40:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b06d38c31292b0008f058c5",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/be538e8f-7cde-4094-a6e1-dda031980968.jpg",
+   "key": "guid:6b06d38c31292b0008f058c5",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-26T11:30:43+00:00",
+   "status": "pending",
+   "title": "Garantido quer controlar shows e publicidades de itens e ficar com parte do valor das contratações",
+   "updated_at": "2026-11-26T11:40:16+00:00",
+   "url": "https://marioadolfo.com/garantido-quer-controlar-shows-e-publicidades-de-itens-e-ficar-com-parte-do-valor-das-contratacoes/",
+   "url_hash": "a7e0f28345a238db0b350663"
+  },
   "guid:6b06d68831292b0008f058dd": {
    "attempts": [
     {
@@ -34887,6 +34908,27 @@
    "url": "https://marioadolfo.com/recuperafone-ssp-am-lanca-novo-edital-para-devolucao-de-2-017-celulares/",
    "url_hash": "de967f4cb39778804e79c84a"
   },
+  "guid:6b078f3331292b0008f05be0": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Proposta institui medidas de acolhimento e responsabilização",
+   "discovered_at": "2026-11-26T11:40:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b078f3331292b0008f05be0",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a6e0edc5-937a-4940-8bef-e6f222f7d86d.jpg",
+   "key": "guid:6b078f3331292b0008f05be0",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-26T11:30:27+00:00",
+   "status": "pending",
+   "title": "Câmara aprova protocolo nacional para combater racismo nas escolas",
+   "updated_at": "2026-11-26T11:40:16+00:00",
+   "url": "https://marioadolfo.com/camara-aprova-protocolo-nacional-para-combater-racismo-nas-escolas/",
+   "url_hash": "469af9f1abc83c1ecb6e7491"
+  },
   "guid:6b078f8c31292b0008f05bfa": {
    "attempts": [],
    "category": "Brasil",
@@ -34949,14 +34991,56 @@
    "updated_at": "2026-11-26T11:10:15+00:00",
    "url": "https://marioadolfo.com/gordinho-e-preso-por-participar-de-grupo-que-fazia-arrastoes-em-manaus/",
    "url_hash": "773d4ce6edfd557656b273cd"
+  },
+  "guid:6b07942931292b0008f05c37": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Reunião do Conselho de Administração da Suframa analisa nesta quinta-feira (26) 55 projetos industriais e de serviços",
+   "discovered_at": "2026-11-26T11:40:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b07942931292b0008f05c37",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4f30e704-56ed-4a6e-8e4e-2e7253d95eb3.jpeg",
+   "key": "guid:6b07942931292b0008f05c37",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-26T11:30:27+00:00",
+   "status": "pending",
+   "title": "Zona Franca de Manaus deve receber R$ 1,31 bilhão em novos investimentos",
+   "updated_at": "2026-11-26T11:40:16+00:00",
+   "url": "https://marioadolfo.com/zona-franca-de-manaus-deve-receber-r-1-31-bilhao-em-novos-investimentos/",
+   "url_hash": "0bb5de9a010f1b3e9c85aa18"
+  },
+  "guid:6b07958c31292b0008f05c56": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A medida foi anunciada pela Prefeitura de Manaus em razão da má qualidade do ar causada pelo aumento da concentração de fumaça",
+   "discovered_at": "2026-11-26T11:40:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b07958c31292b0008f05c56",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6373b9df-844d-4d3a-af0f-c3e8b5010987.jpg",
+   "key": "guid:6b07958c31292b0008f05c56",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-26T11:30:51+00:00",
+   "status": "pending",
+   "title": "Fumaça: atividades em parques e centros de lazer são suspensas até sexta-feira",
+   "updated_at": "2026-11-26T11:40:16+00:00",
+   "url": "https://marioadolfo.com/fumaca-atividades-em-parques-e-centros-de-lazer-sao-suspensas-ate-sexta-feira/",
+   "url_hash": "fd122c43acec3388d6fa581b"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-26T11:30:17+00:00",
+  "last_run_at": "2026-11-26T11:40:16+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-26T11:30:18+00:00"
+  "saved_at": "2026-11-26T11:40:16+00:00"
  },
  "schema": 1
 }
