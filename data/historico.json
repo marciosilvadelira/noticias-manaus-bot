@@ -34886,14 +34886,56 @@
    "updated_at": "2026-11-25T19:20:17+00:00",
    "url": "https://marioadolfo.com/recuperafone-ssp-am-lanca-novo-edital-para-devolucao-de-2-017-celulares/",
    "url_hash": "de967f4cb39778804e79c84a"
+  },
+  "guid:6b078f8c31292b0008f05bfa": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Governo afirma que Washington pressiona para interferir no Pix",
+   "discovered_at": "2026-11-26T11:00:23+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b078f8c31292b0008f05bfa",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f226b9c6-4406-49c7-ae13-b66dc1869d27.jpg",
+   "key": "guid:6b078f8c31292b0008f05bfa",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-26T11:00:08+00:00",
+   "status": "pending",
+   "title": "Brasil critica possível novo tarifaço dos EUA e diz que não cederá",
+   "updated_at": "2026-11-26T11:00:23+00:00",
+   "url": "https://marioadolfo.com/brasil-critica-possivel-novo-tarifaco-dos-eua-e-diz-que-nao-cedera/",
+   "url_hash": "26d6f4214862ded99bbbbd18"
+  },
+  "guid:6b07907e31292b0008f05c0f": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A análise das contas da Prefeitura de Manaus é referentes aos exercícios de 2024 e 2025, quando David estava no comando do município",
+   "discovered_at": "2026-11-26T11:00:23+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b07907e31292b0008f05c0f",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/587be1df-29f7-4928-b115-58bd5c495cf6.jpg",
+   "key": "guid:6b07907e31292b0008f05c0f",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-26T11:00:10+00:00",
+   "status": "pending",
+   "title": "TCE-AM analisa contas de David Almeida em sessão especial no dia 1º de dezembro",
+   "updated_at": "2026-11-26T11:00:23+00:00",
+   "url": "https://marioadolfo.com/tce-am-analisa-contas-de-david-almeida-em-sessao-especial-no-dia-1o-de-dezembro/",
+   "url_hash": "4e4b0915ef3660c6900e8f32"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-26T10:50:15+00:00",
+  "last_run_at": "2026-11-26T11:00:22+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-26T10:50:16+00:00"
+  "saved_at": "2026-11-26T11:00:24+00:00"
  },
  "schema": 1
 }
