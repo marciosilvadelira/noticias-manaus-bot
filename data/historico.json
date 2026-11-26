@@ -35222,14 +35222,56 @@
    "updated_at": "2026-11-26T15:10:15+00:00",
    "url": "https://marioadolfo.com/brasil-atinge-recorde-de-10-6-milhoes-de-matriculas-no-ensino-superior/",
    "url_hash": "c5811bcaaddd6da8ba74435a"
+  },
+  "guid:6b085f5f31292b0008f05da7": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Medida concede desconto integral sobre os encargos para pagamento à vista",
+   "discovered_at": "2026-11-26T16:40:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b085f5f31292b0008f05da7",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/af90b89d-6f12-4e9e-9500-25d9e81ec910.jpeg",
+   "key": "guid:6b085f5f31292b0008f05da7",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-26T16:37:19+00:00",
+   "status": "pending",
+   "title": "Programa oferece desconto de 100% em juros e multas para devedores em Manaus",
+   "updated_at": "2026-11-26T16:40:19+00:00",
+   "url": "https://marioadolfo.com/programa-oferece-desconto-de-100-em-juros-e-multas-para-devedores-em-manaus/",
+   "url_hash": "fc998d0fc19a114922e2d3cf"
+  },
+  "guid:6b08607931292b0008f05dbc": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Davi Corrêa da Fonseca foi detido no Centro de Treinamento do time",
+   "discovered_at": "2026-11-26T16:40:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b08607931292b0008f05dbc",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d8e27940-57ea-45d6-89fe-64bdd2ab9eae.webp",
+   "key": "guid:6b08607931292b0008f05dbc",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-26T16:40:10+00:00",
+   "status": "pending",
+   "title": "Jogador do Vasco é preso por suspeita de tentativa de homicídio",
+   "updated_at": "2026-11-26T16:40:19+00:00",
+   "url": "https://marioadolfo.com/jogador-do-vasco-e-preso-por-suspeita-de-tentativa-de-homicidio/",
+   "url_hash": "1752aec32c35898cd4b0d41f"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-26T16:30:19+00:00",
+  "last_run_at": "2026-11-26T16:40:16+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-26T16:30:20+00:00"
+  "saved_at": "2026-11-26T16:40:21+00:00"
  },
  "schema": 1
 }
