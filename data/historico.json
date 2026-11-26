@@ -34878,12 +34878,12 @@
    "guid": "6b0731e231292b0008f05b8f",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/7d2d18b2-abe3-4634-8bb2-f218a2bf461e.png",
    "key": "guid:6b0731e231292b0008f05b8f",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-25T19:11:28+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Jovem é preso por invadir casa e estuprar a ex-namorada em Manaus",
-   "updated_at": "2026-11-25T19:20:17+00:00",
+   "updated_at": "2026-11-26T19:20:15+00:00",
    "url": "https://marioadolfo.com/jovem-e-preso-por-invadir-casa-e-estuprar-a-ex-namorada-em-manaus/",
    "url_hash": "63505ab3d46c6a09d6ad55c3"
   },
@@ -34899,12 +34899,12 @@
    "guid": "6b0733a031292b0008f05bad",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c1ed719f-1091-40d2-8d15-b0ca3f757e31.jpeg",
    "key": "guid:6b0733a031292b0008f05bad",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-25T19:16:22+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "RecuperaFone: SSP-AM lança novo edital para devolução de 2.017 celulares",
-   "updated_at": "2026-11-25T19:20:17+00:00",
+   "updated_at": "2026-11-26T19:20:15+00:00",
    "url": "https://marioadolfo.com/recuperafone-ssp-am-lanca-novo-edital-para-devolucao-de-2-017-celulares/",
    "url_hash": "de967f4cb39778804e79c84a"
   },
@@ -35395,9 +35395,9 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-26T19:10:22+00:00",
+  "last_run_at": "2026-11-26T19:20:15+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-26T19:10:23+00:00"
+  "saved_at": "2026-11-26T19:20:16+00:00"
  },
  "schema": 1
 }
