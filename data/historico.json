@@ -34668,12 +34668,12 @@
    "guid": "6b07158831292b0008f05aa0",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/1af1bde9-99ec-425a-883b-b13106e92cf5.jpeg",
    "key": "guid:6b07158831292b0008f05aa0",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-25T17:09:52+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Defensoria abre 90 novas vagas para atendimento a mulheres em situação de violência",
-   "updated_at": "2026-11-25T17:20:17+00:00",
+   "updated_at": "2026-11-26T17:10:16+00:00",
    "url": "https://marioadolfo.com/defensoria-abre-90-novas-vagas-para-atendimento-a-mulheres-em-situacao-de-violencia/",
    "url_hash": "997914b9fe653f563b7a4436"
   },
@@ -35290,9 +35290,9 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-26T17:00:28+00:00",
+  "last_run_at": "2026-11-26T17:10:16+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-26T17:00:30+00:00"
+  "saved_at": "2026-11-26T17:10:17+00:00"
  },
  "schema": 1
 }
