@@ -35306,14 +35306,56 @@
    "updated_at": "2026-11-26T17:20:16+00:00",
    "url": "https://marioadolfo.com/homem-e-preso-por-agressao-fisica-e-ameaca-contra-cunhada-em-manacapuru/",
    "url_hash": "7d3fbbef960fc7a11b8f902b"
+  },
+  "guid:6b0869f031292b0008f05e08": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A decisão também determina medidas de saneamento básico no Distrito Sanitário Especial Indígena de Manaus (Dsei Manaus)",
+   "discovered_at": "2026-11-26T17:30:22+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b0869f031292b0008f05e08",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0b23848e-e46c-4b49-bbc7-09d56324ece0.jpeg",
+   "key": "guid:6b0869f031292b0008f05e08",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-26T17:21:12+00:00",
+   "status": "pending",
+   "title": "Justiça manda União melhorar serviços de saúde de indígenas no Amazonas",
+   "updated_at": "2026-11-26T17:30:22+00:00",
+   "url": "https://marioadolfo.com/justica-manda-uniao-melhorar-servicos-de-saude-de-indigenas-no-amazonas/",
+   "url_hash": "40618b5481d4b36c3f1318ed"
+  },
+  "guid:6b086ab731292b0008f05e1f": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Com entrada gratuita, apresentações começam às 17h e marcam homenagem ao músico Teixeira de Manaus",
+   "discovered_at": "2026-11-26T17:30:22+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b086ab731292b0008f05e1f",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/79192f9b-7563-4324-8804-a84fb43792d0.jpeg",
+   "key": "guid:6b086ab731292b0008f05e1f",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-26T17:24:17+00:00",
+   "status": "pending",
+   "title": "Festival do Beiradão leva diferentes gerações da música amazonense ao Largo de São Sebastião nesta sexta",
+   "updated_at": "2026-11-26T17:30:22+00:00",
+   "url": "https://marioadolfo.com/festival-do-beiradao-leva-diferentes-geracoes-da-musica-amazonense-ao-largo-de-sao-sebastiao-nesta-sexta/",
+   "url_hash": "8e7454c411dcf22a9ad58dd1"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-26T17:20:15+00:00",
+  "last_run_at": "2026-11-26T17:30:21+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-26T17:20:16+00:00"
+  "saved_at": "2026-11-26T17:30:23+00:00"
  },
  "schema": 1
 }
