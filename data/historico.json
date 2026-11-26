@@ -34481,11 +34481,19 @@
    "url_hash": "fc81c57df18ead5d648eff74"
   },
   "guid:6b06f57e31292b0008f05a0a": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-26T04:30:31+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1552410886909802",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Foram 95% alertas severos e 5% extremos, diz ministro",
    "discovered_at": "2026-11-25T15:00:23+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1552410886909802",
    "formats": [
     "link"
    ],
@@ -34493,20 +34501,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/bc4fcaee-1656-4ade-ab83-4c3684a44fef.webp",
    "key": "guid:6b06f57e31292b0008f05a0a",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1552410886909802"
+   },
    "source_published_at": "2026-11-25T14:53:48+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Defesa Civil Alerta já emitiu mais de 4 mil avisos desde 2024",
-   "updated_at": "2026-11-25T15:00:23+00:00",
+   "updated_at": "2026-11-26T04:30:31+00:00",
    "url": "https://marioadolfo.com/defesa-civil-alerta-ja-emitiu-mais-de-4-mil-avisos-desde-2024/",
    "url_hash": "ce8dfc5351b346994d66b234"
   },
   "guid:6b06f69431292b0008f05a2d": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-26T04:30:58+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1552411166909774",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Informação está na Pesquisa Nacional de Saneamento Básico",
    "discovered_at": "2026-11-25T15:00:23+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1552411166909774",
    "formats": [
     "link"
    ],
@@ -34514,20 +34532,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e1f2e140-ce72-4aba-bd2e-e47d961c826f.webp",
    "key": "guid:6b06f69431292b0008f05a2d",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1552411166909774"
+   },
    "source_published_at": "2026-11-25T14:56:03+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "IBGE: coleta seletiva avança e atinge 2.675 municípios brasileiros",
-   "updated_at": "2026-11-25T15:00:23+00:00",
+   "updated_at": "2026-11-26T04:30:58+00:00",
    "url": "https://marioadolfo.com/ibge-coleta-seletiva-avanca-e-atinge-2-675-municipios-brasileiros/",
    "url_hash": "e399f9445ff7d243d303026e"
   },
   "guid:6b06f71a31292b0008f05a44": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-26T04:31:25+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1552411410243083",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Decisão atendeu a pedido da Advocacia-Geral da União",
    "discovered_at": "2026-11-25T15:00:23+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1552411410243083",
    "formats": [
     "link"
    ],
@@ -34535,20 +34563,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/be247a12-355a-4394-be97-1eba5dca466c.webp",
    "key": "guid:6b06f71a31292b0008f05a44",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1552411410243083"
+   },
    "source_published_at": "2026-11-25T14:58:14+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Justiça derruba liminar que suspendia novas regras para VA e VR",
-   "updated_at": "2026-11-25T15:00:23+00:00",
+   "updated_at": "2026-11-26T04:31:25+00:00",
    "url": "https://marioadolfo.com/justica-derruba-liminar-que-suspendia-novas-regras-para-va-e-vr/",
    "url_hash": "0043a91296b7cc3099190c82"
   },
   "guid:6b07132631292b0008f05a69": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-26T04:31:53+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1552411790243045",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Feira oferece 12,5 toneladas de pirarucu legalizado, com venda direta ao público e preços acessíveis",
    "discovered_at": "2026-11-25T17:00:22+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1552411790243045",
    "formats": [
     "link"
    ],
@@ -34556,20 +34594,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f9812d2a-ed5f-4a3c-a038-3a475316c9c4.jpeg",
    "key": "guid:6b07132631292b0008f05a69",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1552411790243045"
+   },
    "source_published_at": "2026-11-25T16:58:14+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Feira do Pirarucu leva pescado de manejo sustentável ao consumidor em Tefé nos dias 28 e 29 de novembro",
-   "updated_at": "2026-11-25T17:00:22+00:00",
+   "updated_at": "2026-11-26T04:31:53+00:00",
    "url": "https://marioadolfo.com/feira-do-pirarucu-leva-pescado-de-manejo-sustentavel-ao-consumidor-em-tefe-nos-dias-28-e-29-de-novembro/",
    "url_hash": "a8824bcd9a46a5524df84562"
   },
   "guid:6b0713ef31292b0008f05a7e": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-26T04:32:25+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1552412136909677",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Decisão é fundamentada em nota técnica que orienta a adoção de medidas preventivas para proteger a saúde e o bem-estar da comunidade escolar",
    "discovered_at": "2026-11-25T17:10:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1552412136909677",
    "formats": [
     "link"
    ],
@@ -34577,11 +34625,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0e34c6d9-2fbe-4b8d-a8aa-53e0a2d73580.jpeg",
    "key": "guid:6b0713ef31292b0008f05a7e",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1552412136909677"
+   },
    "source_published_at": "2026-11-25T17:04:54+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Fumaça: aulas da rede estadual são suspensas em Manaus e em 24 cidades do interior do AM",
-   "updated_at": "2026-11-25T17:10:17+00:00",
+   "updated_at": "2026-11-26T04:32:25+00:00",
    "url": "https://marioadolfo.com/fumaca-aulas-da-rede-estadual-sao-suspensas-em-manaus-e-em-24-cidades-do-interior-do-am/",
    "url_hash": "2336421b923b480850448f8b"
   },
@@ -34841,9 +34891,9 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-26T04:20:15+00:00",
+  "last_run_at": "2026-11-26T04:30:19+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-26T04:22:06+00:00"
+  "saved_at": "2026-11-26T04:32:25+00:00"
  },
  "schema": 1
 }
