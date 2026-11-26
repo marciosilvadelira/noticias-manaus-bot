@@ -34689,12 +34689,12 @@
    "guid": "6b0716ef31292b0008f05abc",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/94130af4-1923-4d75-a077-fc5873061c36.jpeg",
    "key": "guid:6b0716ef31292b0008f05abc",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-25T17:15:44+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Lei Benício: projeto de Eduardo Braga avança no Senado para proteger pacientes pediátricos",
-   "updated_at": "2026-11-25T17:20:17+00:00",
+   "updated_at": "2026-11-26T17:20:16+00:00",
    "url": "https://marioadolfo.com/lei-benicio-projeto-de-eduardo-braga-avanca-no-senado-para-proteger-pacientes-pediatricos/",
    "url_hash": "a076437874be59d01f3ab7a6"
   },
@@ -34710,12 +34710,12 @@
    "guid": "6b07181131292b0008f05ad4",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/64571c7f-7b74-4637-8ccf-c38632778366.png",
    "key": "guid:6b07181131292b0008f05ad4",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-25T17:19:24+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Idoso morre atropelado ao atravessar faixa de pedestres na Av. Autaz Mirim",
-   "updated_at": "2026-11-25T17:20:17+00:00",
+   "updated_at": "2026-11-26T17:20:16+00:00",
    "url": "https://marioadolfo.com/idoso-morre-atropelado-ao-trav-mo/",
    "url_hash": "0e1d1a03cdad4084e6f94f47"
   },
@@ -35285,14 +35285,35 @@
    "updated_at": "2026-11-26T16:50:17+00:00",
    "url": "https://marioadolfo.com/anvisa-proibe-tirzepatida-e-retatrutida-sem-registro/",
    "url_hash": "a974c2464b04dca016dada05"
+  },
+  "guid:6b08683931292b0008f05dea": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "O homem ainda desferiu diversos socos contra a mulher, atingindo diferentes partes de seu corpo",
+   "discovered_at": "2026-11-26T17:20:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b08683931292b0008f05dea",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f11ec6aa-9f2d-48f5-a068-2de80519d1c9.jpeg",
+   "key": "guid:6b08683931292b0008f05dea",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-26T17:14:08+00:00",
+   "status": "pending",
+   "title": "Homem é preso por agressão física e ameaça contra cunhada em Manacapuru",
+   "updated_at": "2026-11-26T17:20:16+00:00",
+   "url": "https://marioadolfo.com/homem-e-preso-por-agressao-fisica-e-ameaca-contra-cunhada-em-manacapuru/",
+   "url_hash": "7d3fbbef960fc7a11b8f902b"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-26T17:10:16+00:00",
+  "last_run_at": "2026-11-26T17:20:15+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-26T17:10:17+00:00"
+  "saved_at": "2026-11-26T17:20:16+00:00"
  },
  "schema": 1
 }
