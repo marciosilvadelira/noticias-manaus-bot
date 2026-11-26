@@ -34171,11 +34171,19 @@
    "url_hash": "745583e7fad66e7497859fc4"
   },
   "guid:6b06d68831292b0008f058dd": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-26T04:11:11+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1552397876911103",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Dito & Feito",
    "description": "Bad Bunny e Roger Waters, ex-Pink Floyd, estão entre as atrações previstas para a posse de Lula, em Brasília, que poderá receber até 1 milhão de pessoas.",
    "discovered_at": "2026-11-25T13:00:29+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1552397876911103",
    "formats": [
     "link"
    ],
@@ -34183,20 +34191,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/449f9840-ed32-4a2c-a44e-42b58bf6e1c5.jpeg",
    "key": "guid:6b06d68831292b0008f058dd",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1552397876911103"
+   },
    "source_published_at": "2026-11-25T12:51:19+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Dito & Feito - Para animar a festa da posse!",
-   "updated_at": "2026-11-25T13:00:29+00:00",
+   "updated_at": "2026-11-26T04:11:11+00:00",
    "url": "https://marioadolfo.com/dito-feito-para-animar-a-festa-da-posse/",
    "url_hash": "82dfad34d91bb04936c9c8b0"
   },
   "guid:6b06d72931292b0008f058f6": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-26T04:10:46+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1552397666911124",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Parintins",
    "description": "O investimento integra o repasse nacional de R$ 200 milhões para o custeio de maternidades de instituições privadas sem fins lucrativos que atendem pacientes do SUS",
    "discovered_at": "2026-11-25T12:50:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1552397666911124",
    "formats": [
     "link"
    ],
@@ -34204,20 +34222,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d2c5a0ba-c78e-4185-8ab4-4126e111ca50.jpeg",
    "key": "guid:6b06d72931292b0008f058f6",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1552397666911124"
+   },
    "source_published_at": "2026-11-25T12:46:23+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Ministério da Saúde destina R$ 674 mil para o Hospital Padre Colombo",
-   "updated_at": "2026-11-25T12:50:15+00:00",
+   "updated_at": "2026-11-26T04:10:46+00:00",
    "url": "https://marioadolfo.com/ministerio-da-saude-destina-r-674-mil-para-o-hospital-padre-colombo/",
    "url_hash": "62a1bd5d2c01950a48670ead"
   },
   "guid:6b06d78631292b0008f058fd": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-26T04:10:22+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1552397400244484",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "A programação reúne representantes das Cortes de Contas de todo o país para compartilhar experiências e discutir melhorias na atuação dos órgãos de controle.",
    "discovered_at": "2026-11-25T12:50:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1552397400244484",
    "formats": [
     "link"
    ],
@@ -34225,20 +34253,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/8fadbb46-84c1-4834-96f5-b0c27a8dd8c6.jpg",
    "key": "guid:6b06d78631292b0008f058fd",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1552397400244484"
+   },
    "source_published_at": "2026-11-25T12:45:22+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "TCE-AM apresenta iniciativas em encontro nacional dos Tribunais de Contas",
-   "updated_at": "2026-11-25T12:50:15+00:00",
+   "updated_at": "2026-11-26T04:10:22+00:00",
    "url": "https://marioadolfo.com/tce-am-apresenta-iniciativas-em-encontro-nacional-dos-tribunais-de-contas/",
    "url_hash": "83acc685383d7596fb3a236d"
   },
   "guid:6b06d95c31292b0008f05939": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-26T04:11:37+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1552398133577744",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Nesta quarta-feira (25), a concentração média de Material Particulado Fino (MP2,5) chegou a 76 microgramas por metro cúbico, índice classificado como “muito ruim”",
    "discovered_at": "2026-11-25T13:00:29+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1552398133577744",
    "formats": [
     "link"
    ],
@@ -34246,20 +34284,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/fe640cc3-e31e-434e-8a96-933c69d2b7ae.webp",
    "key": "guid:6b06d95c31292b0008f05939",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1552398133577744"
+   },
    "source_published_at": "2026-11-25T12:52:13+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Prefeitura de Manaus suspende aulas nesta quinta e sexta-feira devido à fumaça",
-   "updated_at": "2026-11-25T13:00:29+00:00",
+   "updated_at": "2026-11-26T04:11:37+00:00",
    "url": "https://marioadolfo.com/prefeitura-de-manaus-suspende-aulas-nesta-quinta-e-sexta-feira-devido-a-fumaca/",
    "url_hash": "9afd27247f88c2417293281e"
   },
   "guid:6b06e31b31292b0008f0597e": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-26T04:12:03+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1552398413577716",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Programa alcança mais de 1,4 milhão de pessoas em todo o estado. Em todo o Brasil, são 15 milhões de famílias beneficiárias",
    "discovered_at": "2026-11-25T13:40:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1552398413577716",
    "formats": [
     "link"
    ],
@@ -34267,11 +34315,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/efb72dce-3453-489f-ae12-d5963b2974c1.jpg",
    "key": "guid:6b06e31b31292b0008f0597e",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1552398413577716"
+   },
    "source_published_at": "2026-11-25T13:35:04+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Gás do Povo completa um ano com 486 mil famílias beneficiárias no Amazonas",
-   "updated_at": "2026-11-25T13:40:17+00:00",
+   "updated_at": "2026-11-26T04:12:03+00:00",
    "url": "https://marioadolfo.com/gas-do-povo-completa-um-ano-com-486-mil-familias-beneficiarias-no-amazonas/",
    "url_hash": "147131c5bdc71713c609f607"
   },
@@ -34741,9 +34791,9 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-26T04:00:21+00:00",
+  "last_run_at": "2026-11-26T04:10:14+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-26T04:02:08+00:00"
+  "saved_at": "2026-11-26T04:12:03+00:00"
  },
  "schema": 1
 }
