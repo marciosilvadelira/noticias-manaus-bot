@@ -35054,14 +35054,56 @@
    "updated_at": "2026-11-26T12:30:26+00:00",
    "url": "https://marioadolfo.com/fumaca-encobre-manaus-e-deixa-qualidade-do-ar-pessima/",
    "url_hash": "9c540c5cc2b349a383b4bf77"
+  },
+  "guid:6b08260831292b0008f05ca1": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A ação disponibilizará 520 vagas para atendimento jurídico gratuito, sendo 420 na área de Família e 100 na área de Direito do Consumidor.",
+   "discovered_at": "2026-11-26T12:40:22+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b08260831292b0008f05ca1",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4f52fe7e-db5c-4af8-99fb-2d26270564ac.jpeg",
+   "key": "guid:6b08260831292b0008f05ca1",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-26T12:30:20+00:00",
+   "status": "pending",
+   "title": "‘Defensoria Tá na Área’ oferece atendimento jurídico gratuito neste sábado no Centro de Manaus",
+   "updated_at": "2026-11-26T12:40:22+00:00",
+   "url": "https://marioadolfo.com/defensoria-ta-na-area-oferece-atendimento-juridico-gratuito-neste-sabado-no-centro-de-manaus/",
+   "url_hash": "70eb7432c9b04bd0e3abb155"
+  },
+  "guid:6b08275b31292b0008f05cb6": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Com a decisão, os investigados deixarão a prisão, mas deverão cumprir medidas cautelares determinadas pela Justiça",
+   "discovered_at": "2026-11-26T12:40:22+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b08275b31292b0008f05cb6",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d09a1c3f-acb6-4202-aa99-44df0adf3d41.webp",
+   "key": "guid:6b08275b31292b0008f05cb6",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-26T12:38:01+00:00",
+   "status": "pending",
+   "title": "Justiça revoga prisão preventiva investigados por ligação com núcleo político do CV no Amazonas",
+   "updated_at": "2026-11-26T12:40:22+00:00",
+   "url": "https://marioadolfo.com/justica-revoga-prisao-preventiva-investigados-por-ligacao-com-nucleo-politico-do-cv-no-amazonas/",
+   "url_hash": "2fc9e8b9da11a0d568d02587"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-26T12:30:26+00:00",
+  "last_run_at": "2026-11-26T12:40:22+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-26T12:30:26+00:00"
+  "saved_at": "2026-11-26T12:40:23+00:00"
  },
  "schema": 1
 }
