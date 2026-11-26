@@ -34773,12 +34773,12 @@
    "guid": "6b07208631292b0008f05b1c",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/8eca9111-08bd-429c-b38f-f6f58e53a6e3.jpeg",
    "key": "guid:6b07208631292b0008f05b1c",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-25T17:54:34+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Brasil decide que embaixador não deve mais voltar à Argentina de Milei",
-   "updated_at": "2026-11-25T18:00:23+00:00",
+   "updated_at": "2026-11-26T18:00:23+00:00",
    "url": "https://marioadolfo.com/brasil-decide-que-embaixador-nao-deve-mais-voltar-a-argentina-de-milei/",
    "url_hash": "80f4e3a863db2010c55d4a44"
   },
@@ -35353,9 +35353,9 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-26T17:50:14+00:00",
+  "last_run_at": "2026-11-26T18:00:22+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-26T17:50:15+00:00"
+  "saved_at": "2026-11-26T18:00:23+00:00"
  },
  "schema": 1
 }
