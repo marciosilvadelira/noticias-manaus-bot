@@ -35159,14 +35159,77 @@
    "updated_at": "2026-11-26T13:40:16+00:00",
    "url": "https://marioadolfo.com/dito-feito-34/",
    "url_hash": "1a7b38f3516123ad1d19ebe3"
+  },
+  "guid:6b08450531292b0008f05d52": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Operação aprofunda investigação sobre a utilização de identidades fictícias e documentos falsos para a obtenção fraudulenta de benefícios",
+   "discovered_at": "2026-11-26T15:10:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b08450531292b0008f05d52",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d6e6c13d-a1ae-4726-80be-7034af7e199f.jpeg",
+   "key": "guid:6b08450531292b0008f05d52",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-26T15:02:43+00:00",
+   "status": "pending",
+   "title": "Operação investiga fraude de R$ 494 mil em benefícios assistenciais no Amazonas",
+   "updated_at": "2026-11-26T15:10:15+00:00",
+   "url": "https://marioadolfo.com/operacao-investiga-fraude-de-r-494-mil-em-beneficios-assistenciais-no-amazonas/",
+   "url_hash": "302379b8278e785b00eb8fd9"
+  },
+  "guid:6b084a4631292b0008f05d76": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Sete em cada dez municípios avaliados estão em baixo risco, mas os cuidados com recipientes dentro de casa devem continuar",
+   "discovered_at": "2026-11-26T15:10:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b084a4631292b0008f05d76",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/bf435560-e315-4d6c-ba42-4c9d08e5bd37.jpeg",
+   "key": "guid:6b084a4631292b0008f05d76",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-26T15:05:00+00:00",
+   "status": "pending",
+   "title": "Vasos e tonéis concentram quase metade dos focos do mosquito da dengue no interior do AM",
+   "updated_at": "2026-11-26T15:10:15+00:00",
+   "url": "https://marioadolfo.com/vasos-e-toneis-concentram-quase-metade-dos-focos-do-mosquito-da-dengue-no-interior-do-am/",
+   "url_hash": "01098195e58dc46c2b1a1f42"
+  },
+  "guid:6b084ad131292b0008f05d8e": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Cursos EaD caem quase 1%, após novas regras do MEC",
+   "discovered_at": "2026-11-26T15:10:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b084ad131292b0008f05d8e",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/7342a185-fbda-40f0-9b8a-5ab933c59799.jpeg",
+   "key": "guid:6b084ad131292b0008f05d8e",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-26T15:08:38+00:00",
+   "status": "pending",
+   "title": "Brasil atinge recorde de 10,6 milhões de matrículas no ensino superior",
+   "updated_at": "2026-11-26T15:10:15+00:00",
+   "url": "https://marioadolfo.com/brasil-atinge-recorde-de-10-6-milhoes-de-matriculas-no-ensino-superior/",
+   "url_hash": "c5811bcaaddd6da8ba74435a"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-26T15:00:23+00:00",
+  "last_run_at": "2026-11-26T15:10:15+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-26T15:00:24+00:00"
+  "saved_at": "2026-11-26T15:10:16+00:00"
  },
  "schema": 1
 }
