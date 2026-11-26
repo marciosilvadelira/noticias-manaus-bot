@@ -35411,14 +35411,56 @@
    "updated_at": "2026-11-26T19:30:18+00:00",
    "url": "https://marioadolfo.com/cas-aprova-56-projetos-com-investimentos-estimados-em-r-1-3-bilhao-e-1-5-mil-empregos/",
    "url_hash": "913bb07a09e7830239263489"
+  },
+  "guid:6b0892e131292b0008f05e8f": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Mobilização chega à 9ª edição e terá concentração neste domingo (29), às 7h, em frente ao Anfiteatro da Ponta Negra",
+   "discovered_at": "2026-11-26T20:20:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b0892e131292b0008f05e8f",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2e690bc6-8213-4546-bb9a-7941ba9b2309.jpeg",
+   "key": "guid:6b0892e131292b0008f05e8f",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-26T20:14:16+00:00",
+   "status": "pending",
+   "title": "Grupo Mulheres do Brasil promove caminhada pelo fim da violência contra mulheres e meninas em Manaus",
+   "updated_at": "2026-11-26T20:20:16+00:00",
+   "url": "https://marioadolfo.com/grupo-mulheres-do-brasil-promove-caminhada-pelo-fim-da-violencia-contra-mulheres-e-meninas-em-manaus/",
+   "url_hash": "42d4ecf29f3f34503b177ff3"
+  },
+  "guid:6b0893ac31292b0008f05ea6": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Texto assegura programa Bolsa Família e mantém os reajustes para saúde e educação",
+   "discovered_at": "2026-11-26T20:20:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b0893ac31292b0008f05ea6",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/94b12ac6-ef8e-46ec-a883-746d88eb22b9.jpeg",
+   "key": "guid:6b0893ac31292b0008f05ea6",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-26T20:18:03+00:00",
+   "status": "pending",
+   "title": "Orçamento de 2027: relatório preliminar de Braga é aprovado na Comissão Mista de Orçamento",
+   "updated_at": "2026-11-26T20:20:16+00:00",
+   "url": "https://marioadolfo.com/orcamento-de-2027-relatorio-preliminar-de-braga-e-aprovado-na-comissao-mista-de-orcamento/",
+   "url_hash": "184c627aa99cc80ac86561b5"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-26T20:13:24+00:00",
+  "last_run_at": "2026-11-26T20:20:16+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-26T20:13:26+00:00"
+  "saved_at": "2026-11-26T20:20:16+00:00"
  },
  "schema": 1
 }
