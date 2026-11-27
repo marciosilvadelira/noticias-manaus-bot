@@ -34909,11 +34909,19 @@
    "url_hash": "de967f4cb39778804e79c84a"
   },
   "guid:6b078f3331292b0008f05be0": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-27T04:01:49+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1553546423462915",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Proposta institui medidas de acolhimento e responsabilização",
    "discovered_at": "2026-11-26T11:40:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1553546423462915",
    "formats": [
     "link"
    ],
@@ -34921,20 +34929,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a6e0edc5-937a-4940-8bef-e6f222f7d86d.jpg",
    "key": "guid:6b078f3331292b0008f05be0",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1553546423462915"
+   },
    "source_published_at": "2026-11-26T11:30:27+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Câmara aprova protocolo nacional para combater racismo nas escolas",
-   "updated_at": "2026-11-26T11:40:16+00:00",
+   "updated_at": "2026-11-27T04:01:49+00:00",
    "url": "https://marioadolfo.com/camara-aprova-protocolo-nacional-para-combater-racismo-nas-escolas/",
    "url_hash": "469af9f1abc83c1ecb6e7491"
   },
   "guid:6b078f8c31292b0008f05bfa": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-27T04:00:30+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1553545386796352",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Governo afirma que Washington pressiona para interferir no Pix",
    "discovered_at": "2026-11-26T11:00:23+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1553545386796352",
    "formats": [
     "link"
    ],
@@ -34942,20 +34960,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f226b9c6-4406-49c7-ae13-b66dc1869d27.jpg",
    "key": "guid:6b078f8c31292b0008f05bfa",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1553545386796352"
+   },
    "source_published_at": "2026-11-26T11:00:08+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Brasil critica possível novo tarifaço dos EUA e diz que não cederá",
-   "updated_at": "2026-11-26T11:00:23+00:00",
+   "updated_at": "2026-11-27T04:00:30+00:00",
    "url": "https://marioadolfo.com/brasil-critica-possivel-novo-tarifaco-dos-eua-e-diz-que-nao-cedera/",
    "url_hash": "26d6f4214862ded99bbbbd18"
   },
   "guid:6b07907e31292b0008f05c0f": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-27T04:00:55+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1553545650129659",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "A análise das contas da Prefeitura de Manaus é referentes aos exercícios de 2024 e 2025, quando David estava no comando do município",
    "discovered_at": "2026-11-26T11:00:23+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1553545650129659",
    "formats": [
     "link"
    ],
@@ -34963,20 +34991,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/587be1df-29f7-4928-b115-58bd5c495cf6.jpg",
    "key": "guid:6b07907e31292b0008f05c0f",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1553545650129659"
+   },
    "source_published_at": "2026-11-26T11:00:10+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "TCE-AM analisa contas de David Almeida em sessão especial no dia 1º de dezembro",
-   "updated_at": "2026-11-26T11:00:23+00:00",
+   "updated_at": "2026-11-27T04:00:55+00:00",
    "url": "https://marioadolfo.com/tce-am-analisa-contas-de-david-almeida-em-sessao-especial-no-dia-1o-de-dezembro/",
    "url_hash": "4e4b0915ef3660c6900e8f32"
   },
   "guid:6b07926131292b0008f05c22": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-27T04:01:24+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1553546100129614",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "O suspeito já havia sido preso por uma série de assaltos e cumpre pena de sete anos por outros roubos",
    "discovered_at": "2026-11-26T11:10:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1553546100129614",
    "formats": [
     "link"
    ],
@@ -34984,20 +35022,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/cf8c248b-6489-4a34-b11a-377ceb8a579e.jpeg",
    "key": "guid:6b07926131292b0008f05c22",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1553546100129614"
+   },
    "source_published_at": "2026-11-26T11:00:39+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "'Gordinho' é preso por participar de grupo especializado em arrastões",
-   "updated_at": "2026-11-26T11:10:15+00:00",
+   "updated_at": "2026-11-27T04:01:24+00:00",
    "url": "https://marioadolfo.com/gordinho-e-preso-por-participar-de-grupo-que-fazia-arrastoes-em-manaus/",
    "url_hash": "773d4ce6edfd557656b273cd"
   },
   "guid:6b07942931292b0008f05c37": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-27T04:02:16+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1553547103462847",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Reunião do Conselho de Administração da Suframa analisa nesta quinta-feira (26) 55 projetos industriais e de serviços",
    "discovered_at": "2026-11-26T11:40:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1553547103462847",
    "formats": [
     "link"
    ],
@@ -35005,11 +35053,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4f30e704-56ed-4a6e-8e4e-2e7253d95eb3.jpeg",
    "key": "guid:6b07942931292b0008f05c37",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1553547103462847"
+   },
    "source_published_at": "2026-11-26T11:30:27+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Zona Franca de Manaus deve receber R$ 1,31 bilhão em novos investimentos",
-   "updated_at": "2026-11-26T11:40:16+00:00",
+   "updated_at": "2026-11-27T04:02:16+00:00",
    "url": "https://marioadolfo.com/zona-franca-de-manaus-deve-receber-r-1-31-bilhao-em-novos-investimentos/",
    "url_hash": "0bb5de9a010f1b3e9c85aa18"
   },
@@ -35563,9 +35613,9 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-27T03:50:15+00:00",
+  "last_run_at": "2026-11-27T04:00:21+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-27T03:50:16+00:00"
+  "saved_at": "2026-11-27T04:02:16+00:00"
  },
  "schema": 1
 }
