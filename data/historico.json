@@ -35926,14 +35926,35 @@
    "updated_at": "2026-11-27T03:10:16+00:00",
    "url": "https://marioadolfo.com/governo-federal-estuda-auxilio-emergencial-para-pescadores-do-amazonas/",
    "url_hash": "01c5b55077cfab6816056f22"
+  },
+  "guid:6b096eb831292b0008f06081": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Em 2024, a estimativa era de 76,6 anos",
+   "discovered_at": "2026-11-27T12:00:25+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b096eb831292b0008f06081",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/67e153f9-f6ed-4eb0-b308-1cbc4a8ed81f.jpeg",
+   "key": "guid:6b096eb831292b0008f06081",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-27T11:52:45+00:00",
+   "status": "pending",
+   "title": "Expectativa de vida no Brasil sobe para 76,9 anos, diz IBGE",
+   "updated_at": "2026-11-27T12:00:25+00:00",
+   "url": "https://marioadolfo.com/expectativa-de-vida-no-brasil-sobe-para-76-9-anos-diz-ibge/",
+   "url_hash": "3ea72404ce863efe1140060a"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-27T11:50:22+00:00",
+  "last_run_at": "2026-11-27T12:00:24+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-27T11:50:22+00:00"
+  "saved_at": "2026-11-27T12:00:26+00:00"
  },
  "schema": 1
 }
