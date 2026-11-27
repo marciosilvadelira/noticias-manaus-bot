@@ -35687,12 +35687,12 @@
    "guid": "6b08990031292b0008f05eef",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/8c8e1cd9-778e-448d-8b8d-d671b77f076b.jpeg",
    "key": "guid:6b08990031292b0008f05eef",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-26T20:41:27+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "‘É gratificante ter esse apoio do governo’, relata dono de celular recuperado",
-   "updated_at": "2026-11-26T20:50:16+00:00",
+   "updated_at": "2026-11-27T20:50:16+00:00",
    "url": "https://marioadolfo.com/e-gratificante-ter-esse-apoio-do-governo-relata-dono-de-celular-recuperado/",
    "url_hash": "ee81d2824f5eef17afd13b84"
   },
@@ -35708,12 +35708,12 @@
    "guid": "6b0899bf31292b0008f05f0f",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/9252f4b4-3b3f-4f70-a1c2-30ba17ee21da.jpeg",
    "key": "guid:6b0899bf31292b0008f05f0f",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-26T20:44:04+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Governador entrega nova estrutura no Hospital João Lúcio",
-   "updated_at": "2026-11-26T20:50:16+00:00",
+   "updated_at": "2026-11-27T20:50:16+00:00",
    "url": "https://marioadolfo.com/governador-entrega-nova-estrutura-no-hospital-joao-lucio/",
    "url_hash": "87c5f1d703f01c6475da59db"
   },
@@ -36472,14 +36472,56 @@
    "updated_at": "2026-11-27T20:20:15+00:00",
    "url": "https://marioadolfo.com/aumento-de-casos-de-covid-19-pode-estar-relacionado-a-nova-variante/",
    "url_hash": "d08ed0b2841e885b81439e90"
+  },
+  "guid:6b09ebb931292b0008f063d8": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Voltado aos segmentos automotivo e industrial, Atem Lub chega ao mercado amazonense e estará disponível nos postos da marca",
+   "discovered_at": "2026-11-27T20:50:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b09ebb931292b0008f063d8",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/58ab7004-d464-4d24-ae87-24f21a86d3d9.jpeg",
+   "key": "guid:6b09ebb931292b0008f063d8",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-27T20:46:48+00:00",
+   "status": "pending",
+   "title": "Atem lança linha de lubrificantes em Manaus e inicia nova frente de negócios na Região Norte",
+   "updated_at": "2026-11-27T20:50:16+00:00",
+   "url": "https://marioadolfo.com/atem-lanca-linha-de-lubrificantes-em-manaus-e-inicia-nova-frente-de-negocios-na-regiao-norte/",
+   "url_hash": "31f6f3d78ded22cbe9a4520f"
+  },
+  "guid:6b09ec4731292b0008f063ed": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Operador Nacional do Sistema Elétrico (ONS) tem 10 dias úteis para esclarecer as causas do desligamento de linhas de transmissão",
+   "discovered_at": "2026-11-27T20:50:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b09ec4731292b0008f063ed",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/1503c42c-784f-44d8-8307-e6aef87e914c.jpeg",
+   "key": "guid:6b09ec4731292b0008f063ed",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-27T20:49:03+00:00",
+   "status": "pending",
+   "title": "MPAM apura interrupção no fornecimento de energia elétrica em Manaus e outros sete municípios",
+   "updated_at": "2026-11-27T20:50:16+00:00",
+   "url": "https://marioadolfo.com/mpam-apura-interrupcao-no-fornecimento-de-energia-eletrica-em-manaus-e-outros-sete-municipios/",
+   "url_hash": "258ba82ada2da9797588d45e"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-27T20:40:15+00:00",
+  "last_run_at": "2026-11-27T20:50:15+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-27T20:40:16+00:00"
+  "saved_at": "2026-11-27T20:50:17+00:00"
  },
  "schema": 1
 }
