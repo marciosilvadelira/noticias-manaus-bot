@@ -35624,12 +35624,12 @@
    "guid": "6b0892e131292b0008f05e8f",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2e690bc6-8213-4546-bb9a-7941ba9b2309.jpeg",
    "key": "guid:6b0892e131292b0008f05e8f",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-26T20:14:16+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Grupo Mulheres do Brasil promove caminhada pelo fim da violência contra mulheres e meninas em Manaus",
-   "updated_at": "2026-11-26T20:20:16+00:00",
+   "updated_at": "2026-11-27T20:20:15+00:00",
    "url": "https://marioadolfo.com/grupo-mulheres-do-brasil-promove-caminhada-pelo-fim-da-violencia-contra-mulheres-e-meninas-em-manaus/",
    "url_hash": "42d4ecf29f3f34503b177ff3"
   },
@@ -35645,12 +35645,12 @@
    "guid": "6b0893ac31292b0008f05ea6",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/94b12ac6-ef8e-46ec-a883-746d88eb22b9.jpeg",
    "key": "guid:6b0893ac31292b0008f05ea6",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-26T20:18:03+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Orçamento de 2027: relatório preliminar de Braga é aprovado na Comissão Mista de Orçamento",
-   "updated_at": "2026-11-26T20:20:16+00:00",
+   "updated_at": "2026-11-27T20:20:15+00:00",
    "url": "https://marioadolfo.com/orcamento-de-2027-relatorio-preliminar-de-braga-e-aprovado-na-comissao-mista-de-orcamento/",
    "url_hash": "184c627aa99cc80ac86561b5"
   },
@@ -36430,14 +36430,56 @@
    "updated_at": "2026-11-27T19:40:17+00:00",
    "url": "https://marioadolfo.com/festival-amazonia-pop-anuncia-adiamento-em-razao-da-intensa-fumaca-em-manaus/",
    "url_hash": "4af2b285b5c66744f980d14c"
+  },
+  "guid:6b09e3d931292b0008f0639e": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Com 22 processos já julgados e 77 ações prioritárias no radar, Pleno da Corte aplica princípios de razoabilidade e proporcionalidade na análise dos balanços contábeis",
+   "discovered_at": "2026-11-27T20:20:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b09e3d931292b0008f0639e",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/3e2c475c-3d31-424d-9f4d-8bcfbab5b602.jpeg",
+   "key": "guid:6b09e3d931292b0008f0639e",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-27T20:13:01+00:00",
+   "status": "pending",
+   "title": "TRE-AM julga prestações de contas de candidatos eleitos e suplentes nas Eleições 2026",
+   "updated_at": "2026-11-27T20:20:15+00:00",
+   "url": "https://marioadolfo.com/tre-am-julga-prestacoes-de-contas-de-candidatos-eleitos-e-suplentes-nas-eleicoes-2026/",
+   "url_hash": "06182124306eb4d66c08cf7c"
+  },
+  "guid:6b09e4d131292b0008f063c3": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Fiocruz identifica crescimento da incidência em diversos estados",
+   "discovered_at": "2026-11-27T20:20:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b09e4d131292b0008f063c3",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/363e7511-7f95-42aa-bae4-dc710f1aa4b9.webp",
+   "key": "guid:6b09e4d131292b0008f063c3",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-27T20:16:13+00:00",
+   "status": "pending",
+   "title": "Aumento de casos de covid-19 pode estar relacionado a nova variante",
+   "updated_at": "2026-11-27T20:20:15+00:00",
+   "url": "https://marioadolfo.com/aumento-de-casos-de-covid-19-pode-estar-relacionado-a-nova-variante/",
+   "url_hash": "d08ed0b2841e885b81439e90"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-27T20:10:16+00:00",
+  "last_run_at": "2026-11-27T20:20:14+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-27T20:10:18+00:00"
+  "saved_at": "2026-11-27T20:20:15+00:00"
  },
  "schema": 1
 }
