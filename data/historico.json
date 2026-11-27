@@ -36220,14 +36220,35 @@
    "updated_at": "2026-11-27T17:10:16+00:00",
    "url": "https://marioadolfo.com/venezuelano-e-preso-suspeito-de-estupro-contra-as-enteadas-em-manaus/",
    "url_hash": "9c24c8338ca265b20d9e2c96"
+  },
+  "guid:6b09b99631292b0008f06268": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Atividades seguem até 4 de dezembro e envolvem 22 servidores em visitas a estabelecimentos rurais para avaliar equipamentos e procedimentos de coleta de dados",
+   "discovered_at": "2026-11-27T17:20:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b09b99631292b0008f06268",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/47d3fd44-a65c-41dd-b490-0ca9db1cbbb7.jpeg",
+   "key": "guid:6b09b99631292b0008f06268",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-27T17:13:03+00:00",
+   "status": "pending",
+   "title": "IBGE realiza teste para o Censo Agropecuário de 2027 em Autazes",
+   "updated_at": "2026-11-27T17:20:17+00:00",
+   "url": "https://marioadolfo.com/ibge-realiza-teste-para-o-censo-agropecuario-de-2027-em-autazes/",
+   "url_hash": "000ac694042dfc3fdba8210c"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-27T17:10:15+00:00",
+  "last_run_at": "2026-11-27T17:20:16+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-27T17:10:17+00:00"
+  "saved_at": "2026-11-27T17:20:18+00:00"
  },
  "schema": 1
 }
