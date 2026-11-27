@@ -35603,12 +35603,12 @@
    "guid": "6b0886c931292b0008f05e6e",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6af0c5e3-3ea5-4e82-8768-3e773d2a20d2.jpeg",
    "key": "guid:6b0886c931292b0008f05e6e",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-26T19:24:12+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "CAS aprova 56 projetos com investimentos estimados em R$ 1,3 bilhão e 1,5 mil empregos",
-   "updated_at": "2026-11-26T19:30:18+00:00",
+   "updated_at": "2026-11-27T19:30:24+00:00",
    "url": "https://marioadolfo.com/cas-aprova-56-projetos-com-investimentos-estimados-em-r-1-3-bilhao-e-1-5-mil-empregos/",
    "url_hash": "913bb07a09e7830239263489"
   },
@@ -36367,14 +36367,35 @@
    "updated_at": "2026-11-27T19:10:17+00:00",
    "url": "https://marioadolfo.com/amazonas-filarmonica-e-coral-do-amazonas-apresentam-circuito-natalino-neste-domingo-29/",
    "url_hash": "5252f13a0edd2b8409f4e1cc"
+  },
+  "guid:6b09d90a31292b0008f0634f": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A aplicação das provas objetivas está marcada para o dia 6 de dezembro",
+   "discovered_at": "2026-11-27T19:30:24+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b09d90a31292b0008f0634f",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/57047561-e0ea-47eb-b262-64f4c107f099.jpeg",
+   "key": "guid:6b09d90a31292b0008f0634f",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-27T19:27:57+00:00",
+   "status": "pending",
+   "title": "Manausprev orienta 18,9 mil inscritos no concurso a consultar locais de prova",
+   "updated_at": "2026-11-27T19:30:24+00:00",
+   "url": "https://marioadolfo.com/manausprev-orienta-18-9-mil-inscritos-no-concurso-a-consultar-locais-de-prova/",
+   "url_hash": "7458ce001452af95bccaf081"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-27T19:20:15+00:00",
+  "last_run_at": "2026-11-27T19:30:24+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-27T19:20:16+00:00"
+  "saved_at": "2026-11-27T19:30:25+00:00"
  },
  "schema": 1
 }
