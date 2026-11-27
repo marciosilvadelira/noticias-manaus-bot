@@ -35918,12 +35918,12 @@
    "guid": "6b08f3c731292b0008f06048",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/388977e3-d85c-4bab-a30a-229a163324cb.jpeg",
    "key": "guid:6b08f3c731292b0008f06048",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-26T20:00:00+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Governo federal estuda auxílio emergencial para pescadores do Amazonas",
-   "updated_at": "2026-11-27T03:10:16+00:00",
+   "updated_at": "2026-11-27T20:00:20+00:00",
    "url": "https://marioadolfo.com/governo-federal-estuda-auxilio-emergencial-para-pescadores-do-amazonas/",
    "url_hash": "01c5b55077cfab6816056f22"
   },
@@ -36435,9 +36435,9 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-27T19:50:14+00:00",
+  "last_run_at": "2026-11-27T20:00:19+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-27T19:50:15+00:00"
+  "saved_at": "2026-11-27T20:00:20+00:00"
  },
  "schema": 1
 }
