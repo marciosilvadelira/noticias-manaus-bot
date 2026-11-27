@@ -36388,14 +36388,56 @@
    "updated_at": "2026-11-27T19:30:24+00:00",
    "url": "https://marioadolfo.com/manausprev-orienta-18-9-mil-inscritos-no-concurso-a-consultar-locais-de-prova/",
    "url_hash": "7458ce001452af95bccaf081"
+  },
+  "guid:6b09d9e631292b0008f06366": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Três galpões foram lacrados no bairro Grande Vitória devido à comercialização irregular e às condições precárias de higiene",
+   "discovered_at": "2026-11-27T19:40:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b09d9e631292b0008f06366",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/debb3b5c-d5eb-40c2-a130-feb0f652a725.jpeg",
+   "key": "guid:6b09d9e631292b0008f06366",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-27T19:31:07+00:00",
+   "status": "pending",
+   "title": "Empresário é preso em Manaus com mais de 200 toneladas de trigo sem procedência",
+   "updated_at": "2026-11-27T19:40:17+00:00",
+   "url": "https://marioadolfo.com/empresario-e-preso-em-manaus-com-mais-200-toneladas-de-trigo-sem-precedencia/",
+   "url_hash": "48901273196cd9a0d85e31be"
+  },
+  "guid:6b09da9331292b0008f06387": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "O adiamento de toda a programação tem como prioridade preservar a saúde e a segurança do público, dos artistas, das equipes de montagem e dos demais profissionais envolvidos no evento",
+   "discovered_at": "2026-11-27T19:40:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b09da9331292b0008f06387",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/7ece61c6-a3d6-4c69-8497-52ca5ed5a647.jpeg",
+   "key": "guid:6b09da9331292b0008f06387",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-27T19:34:39+00:00",
+   "status": "pending",
+   "title": "Festival Amazônia POP anuncia adiamento em razão da intensa fumaça em Manaus",
+   "updated_at": "2026-11-27T19:40:17+00:00",
+   "url": "https://marioadolfo.com/festival-amazonia-pop-anuncia-adiamento-em-razao-da-intensa-fumaca-em-manaus/",
+   "url_hash": "4af2b285b5c66744f980d14c"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-27T19:30:24+00:00",
+  "last_run_at": "2026-11-27T19:40:15+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-27T19:30:25+00:00"
+  "saved_at": "2026-11-27T19:40:18+00:00"
  },
  "schema": 1
 }
