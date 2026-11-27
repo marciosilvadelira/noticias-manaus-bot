@@ -36199,14 +36199,35 @@
    "updated_at": "2026-11-27T17:00:23+00:00",
    "url": "https://marioadolfo.com/fachin-prorroga-por-60-dias-investigacao-da-pf-sobre-filme-dark-horse/",
    "url_hash": "3c276059dc271513878a84f2"
+  },
+  "guid:6b09b74431292b0008f06252": {
+   "attempts": [],
+   "category": "prisão",
+   "description": "Os abuso foram descobertos após a vítima de 12 anos procurar a coordenação pedagógica da escola onde estuda para denunciar os abusos",
+   "discovered_at": "2026-11-27T17:10:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b09b74431292b0008f06252",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/93738e25-a602-4664-8ec4-0203f7b51114.jpeg",
+   "key": "guid:6b09b74431292b0008f06252",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-27T17:02:19+00:00",
+   "status": "pending",
+   "title": "Venezuelano é preso suspeito de estupro contra as enteadas em Manaus",
+   "updated_at": "2026-11-27T17:10:16+00:00",
+   "url": "https://marioadolfo.com/venezuelano-e-preso-suspeito-de-estupro-contra-as-enteadas-em-manaus/",
+   "url_hash": "9c24c8338ca265b20d9e2c96"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-27T17:00:21+00:00",
+  "last_run_at": "2026-11-27T17:10:15+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-27T17:00:23+00:00"
+  "saved_at": "2026-11-27T17:10:17+00:00"
  },
  "schema": 1
 }
