@@ -36115,14 +36115,56 @@
    "updated_at": "2026-11-27T16:00:28+00:00",
    "url": "https://marioadolfo.com/video-7/",
    "url_hash": "101efb398366238572067f1a"
+  },
+  "guid:6b09a7d031292b0008f061f1": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "O policial militar Paulo Sérgio da Silva Portilho foi morto de forma brutal no dia 26 de maio de 2017",
+   "discovered_at": "2026-11-27T16:10:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b09a7d031292b0008f061f1",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/1be5c4fa-2684-4cf9-8b62-1bb396b986f2.jpeg",
+   "key": "guid:6b09a7d031292b0008f061f1",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-27T16:00:40+00:00",
+   "status": "pending",
+   "title": "Condenado a mais de 30 anos de prisão pelo assassinato de PM é preso em Manaus",
+   "updated_at": "2026-11-27T16:10:15+00:00",
+   "url": "https://marioadolfo.com/condenado-a-mais-de-30-anos-de-prisao-pelo-assassinato-de-pm-e-preso-em-manaus/",
+   "url_hash": "dbc6dad002869dc3f85b3792"
+  },
+  "guid:6b09a95531292b0008f06208": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Serão seis postos fixos em diferentes regiões da cidade, com atendimento das 9h às 12h",
+   "discovered_at": "2026-11-27T16:10:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b09a95531292b0008f06208",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ed300cd8-3022-41c8-a099-25246dbb4fd9.jpeg",
+   "key": "guid:6b09a95531292b0008f06208",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-27T16:07:36+00:00",
+   "status": "pending",
+   "title": "Vacina antirrábica será ofertada em rede de supermercados de Manaus neste sábado",
+   "updated_at": "2026-11-27T16:10:15+00:00",
+   "url": "https://marioadolfo.com/vacina-antirrabica-sera-ofertada-em-rede-de-supermercados-de-manaus-neste-sabado/",
+   "url_hash": "6ec4259631eb888722cbf9ad"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-27T16:00:27+00:00",
+  "last_run_at": "2026-11-27T16:10:15+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-27T16:00:28+00:00"
+  "saved_at": "2026-11-27T16:10:16+00:00"
  },
  "schema": 1
 }
