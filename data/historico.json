@@ -36094,14 +36094,35 @@
    "updated_at": "2026-11-27T15:40:15+00:00",
    "url": "https://marioadolfo.com/madrigal-do-amazonas-apresenta-recital-com-cancoes-e-arias-de-compositores-russos-no-palacio-rio-negro/",
    "url_hash": "22d0a2cc76165a8c88d3d1a1"
+  },
+  "guid:6b09a48831292b0008f0619d": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Dois homens foram presos durante as ações realizadas na quarta e quinta-feira (25 e 26), em parceria com a Receita Federal",
+   "discovered_at": "2026-11-27T16:00:28+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b09a48831292b0008f0619d",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6199dd48-f85b-4dfe-91c9-50158a7b9f9f.jpeg",
+   "key": "guid:6b09a48831292b0008f0619d",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-27T15:52:55+00:00",
+   "status": "pending",
+   "title": "Vídeo: maia de 60 quilos de skunk são apreendidos em operações em Manaus",
+   "updated_at": "2026-11-27T16:00:28+00:00",
+   "url": "https://marioadolfo.com/video-7/",
+   "url_hash": "101efb398366238572067f1a"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-27T15:50:15+00:00",
+  "last_run_at": "2026-11-27T16:00:27+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-27T15:50:16+00:00"
+  "saved_at": "2026-11-27T16:00:28+00:00"
  },
  "schema": 1
 }
