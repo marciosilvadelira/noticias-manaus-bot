@@ -35738,6 +35738,27 @@
    "url": "https://marioadolfo.com/apagao-no-amazonas-causa-transtornos-no-comercio-e-transito/",
    "url_hash": "300528fceff813fc88fa33b8"
   },
+  "guid:6b08ea0031292b0008f05fcf": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Segundo o prefeito, a fumaça que atinge a capital tem, em grande parte, origem em queimadas registradas fora dos limites de Manaus",
+   "discovered_at": "2026-11-27T11:30:19+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b08ea0031292b0008f05fcf",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/53187a34-76ac-453b-893d-76ed5ecf93cf.jpg",
+   "key": "guid:6b08ea0031292b0008f05fcf",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-27T11:20:06+00:00",
+   "status": "pending",
+   "title": "Prefeitura de Manaus reforça ações de combate à fumaça e proteção à saúde",
+   "updated_at": "2026-11-27T11:30:19+00:00",
+   "url": "https://marioadolfo.com/prefeitura-de-manaus-reforca-acoes-de-combate-a-fumaca-e-protecao-a-saude/",
+   "url_hash": "38d8f925b4e146ed74c3ecb1"
+  },
   "guid:6b08f3c731292b0008f06048": {
    "attempts": [],
    "category": "Amazonas",
@@ -35763,9 +35784,9 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-27T11:20:15+00:00",
+  "last_run_at": "2026-11-27T11:30:18+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-27T11:20:16+00:00"
+  "saved_at": "2026-11-27T11:30:19+00:00"
  },
  "schema": 1
 }
