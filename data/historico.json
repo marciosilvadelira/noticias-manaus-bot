@@ -35519,12 +35519,12 @@
    "guid": "6b0869f031292b0008f05e08",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0b23848e-e46c-4b49-bbc7-09d56324ece0.jpeg",
    "key": "guid:6b0869f031292b0008f05e08",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-26T17:21:12+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Justiça manda União melhorar serviços de saúde de indígenas no Amazonas",
-   "updated_at": "2026-11-26T17:30:22+00:00",
+   "updated_at": "2026-11-27T17:30:18+00:00",
    "url": "https://marioadolfo.com/justica-manda-uniao-melhorar-servicos-de-saude-de-indigenas-no-amazonas/",
    "url_hash": "40618b5481d4b36c3f1318ed"
   },
@@ -35540,12 +35540,12 @@
    "guid": "6b086ab731292b0008f05e1f",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/79192f9b-7563-4324-8804-a84fb43792d0.jpeg",
    "key": "guid:6b086ab731292b0008f05e1f",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-26T17:24:17+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Festival do Beiradão leva diferentes gerações da música amazonense ao Largo de São Sebastião nesta sexta",
-   "updated_at": "2026-11-26T17:30:22+00:00",
+   "updated_at": "2026-11-27T17:30:18+00:00",
    "url": "https://marioadolfo.com/festival-do-beiradao-leva-diferentes-geracoes-da-musica-amazonense-ao-largo-de-sao-sebastiao-nesta-sexta/",
    "url_hash": "8e7454c411dcf22a9ad58dd1"
   },
@@ -36241,14 +36241,77 @@
    "updated_at": "2026-11-27T17:20:17+00:00",
    "url": "https://marioadolfo.com/ibge-realiza-teste-para-o-censo-agropecuario-de-2027-em-autazes/",
    "url_hash": "000ac694042dfc3fdba8210c"
+  },
+  "guid:6b09bc0031292b0008f06286": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "Uma possível desavença entre o suspeito e a vítima é uma das linhas de apuração da polícia",
+   "discovered_at": "2026-11-27T17:30:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b09bc0031292b0008f06286",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/95189f12-720e-454f-8024-f3f227530b58.jpeg",
+   "key": "guid:6b09bc0031292b0008f06286",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-27T17:24:16+00:00",
+   "status": "pending",
+   "title": "Suspeito de envolvimento na morte de influenciador no Sambódromo é preso",
+   "updated_at": "2026-11-27T17:30:18+00:00",
+   "url": "https://marioadolfo.com/suspeito-de-envolvimento-na-morte-de-influenciador-no-sambodromo-e-preso/",
+   "url_hash": "d1e162c11672860b69fbf901"
+  },
+  "guid:6b09bd3331292b0008f062a4": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Artistas amazonenses se reúnem, a partir das 17h, em programação gratuita do Festival do Beiradão",
+   "discovered_at": "2026-11-27T17:30:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b09bd3331292b0008f062a4",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f56db982-6843-467a-a8dd-64247b032ea1.jpeg",
+   "key": "guid:6b09bd3331292b0008f062a4",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-27T16:30:00+00:00",
+   "status": "pending",
+   "title": "Largo de São Sebastião recebe encerramento do Festival do Beiradão nesta sexta-feira",
+   "updated_at": "2026-11-27T17:30:18+00:00",
+   "url": "https://marioadolfo.com/largo-de-sao-sebastiao-recebe-encerramento-do-festival-do-beiradao-nesta-sexta-feira/",
+   "url_hash": "8274ca07dfb6b0998ae12916"
+  },
+  "guid:6b09bda131292b0008f062bc": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Na Região Norte, a proporção chega a uma em cada seis meninas de 17 anos.",
+   "discovered_at": "2026-11-27T17:30:18+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b09bda131292b0008f062bc",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/55a2dcf4-1ff4-4034-9a07-9920ffd7f4f9.webp",
+   "key": "guid:6b09bda131292b0008f062bc",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-27T17:29:43+00:00",
+   "status": "pending",
+   "title": "Brasil tem 387 mil crianças e adolescentes em união conjugal",
+   "updated_at": "2026-11-27T17:30:18+00:00",
+   "url": "https://marioadolfo.com/brasil-tem-387-mil-criancas-e-adolescentes-em-uniao-conjugal/",
+   "url_hash": "b5d4e33cc0deeeb56673072f"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-27T17:20:16+00:00",
+  "last_run_at": "2026-11-27T17:30:18+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-27T17:20:18+00:00"
+  "saved_at": "2026-11-27T17:30:19+00:00"
  },
  "schema": 1
 }
