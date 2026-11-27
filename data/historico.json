@@ -36157,14 +36157,56 @@
    "updated_at": "2026-11-27T16:10:15+00:00",
    "url": "https://marioadolfo.com/vacina-antirrabica-sera-ofertada-em-rede-de-supermercados-de-manaus-neste-sabado/",
    "url_hash": "6ec4259631eb888722cbf9ad"
+  },
+  "guid:6b09b55031292b0008f06220": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "A vítima relatou que, antes das agressões, o homem iniciou uma discussão e passou a ofendê-la verbalmente e agredi-la fisicamente",
+   "discovered_at": "2026-11-27T17:00:23+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b09b55031292b0008f06220",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f1945aeb-318c-48f4-a036-30994a8d9d4a.jpeg",
+   "key": "guid:6b09b55031292b0008f06220",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-27T16:58:53+00:00",
+   "status": "pending",
+   "title": "Jovem é por preso em Manacapuru por agredir namorada de 17 anos grávida",
+   "updated_at": "2026-11-27T17:00:23+00:00",
+   "url": "https://marioadolfo.com/jovem-e-por-preso-em-manacapuru-por-agredir-namorada-de-17-anos-gravida/",
+   "url_hash": "09bc052b7555d4fce2fcd993"
+  },
+  "guid:6b09b6e531292b0008f0623d": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "PF suspeita que Flávio Bolsonaro recebeu recursos de Vorcaro",
+   "discovered_at": "2026-11-27T17:00:23+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b09b6e531292b0008f0623d",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4ee9e4a7-6264-4282-ba74-8d8a60bede61.jpeg",
+   "key": "guid:6b09b6e531292b0008f0623d",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-27T17:00:17+00:00",
+   "status": "pending",
+   "title": "Fachin prorroga por 60 dias investigação da PF sobre filme Dark Horse",
+   "updated_at": "2026-11-27T17:00:23+00:00",
+   "url": "https://marioadolfo.com/fachin-prorroga-por-60-dias-investigacao-da-pf-sobre-filme-dark-horse/",
+   "url_hash": "3c276059dc271513878a84f2"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-27T16:50:16+00:00",
+  "last_run_at": "2026-11-27T17:00:21+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-27T16:50:18+00:00"
+  "saved_at": "2026-11-27T17:00:23+00:00"
  },
  "schema": 1
 }
