@@ -35353,11 +35353,19 @@
    "url_hash": "01098195e58dc46c2b1a1f42"
   },
   "guid:6b084ad131292b0008f05d8e": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-27T04:30:31+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1553567656794125",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Cursos EaD caem quase 1%, após novas regras do MEC",
    "discovered_at": "2026-11-26T15:10:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1553567656794125",
    "formats": [
     "link"
    ],
@@ -35365,20 +35373,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/7342a185-fbda-40f0-9b8a-5ab933c59799.jpeg",
    "key": "guid:6b084ad131292b0008f05d8e",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1553567656794125"
+   },
    "source_published_at": "2026-11-26T15:08:38+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Brasil atinge recorde de 10,6 milhões de matrículas no ensino superior",
-   "updated_at": "2026-11-26T15:10:15+00:00",
+   "updated_at": "2026-11-27T04:30:31+00:00",
    "url": "https://marioadolfo.com/brasil-atinge-recorde-de-10-6-milhoes-de-matriculas-no-ensino-superior/",
    "url_hash": "c5811bcaaddd6da8ba74435a"
   },
   "guid:6b085f5f31292b0008f05da7": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-27T04:30:59+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1553568203460737",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Medida concede desconto integral sobre os encargos para pagamento à vista",
    "discovered_at": "2026-11-26T16:40:19+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1553568203460737",
    "formats": [
     "link"
    ],
@@ -35386,20 +35404,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/af90b89d-6f12-4e9e-9500-25d9e81ec910.jpeg",
    "key": "guid:6b085f5f31292b0008f05da7",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1553568203460737"
+   },
    "source_published_at": "2026-11-26T16:37:19+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Programa oferece desconto de 100% em juros e multas para devedores em Manaus",
-   "updated_at": "2026-11-26T16:40:19+00:00",
+   "updated_at": "2026-11-27T04:30:59+00:00",
    "url": "https://marioadolfo.com/programa-oferece-desconto-de-100-em-juros-e-multas-para-devedores-em-manaus/",
    "url_hash": "fc998d0fc19a114922e2d3cf"
   },
   "guid:6b08607931292b0008f05dbc": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-27T04:31:25+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1553568546794036",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Davi Corrêa da Fonseca foi detido no Centro de Treinamento do time",
    "discovered_at": "2026-11-26T16:40:19+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1553568546794036",
    "formats": [
     "link"
    ],
@@ -35407,20 +35435,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d8e27940-57ea-45d6-89fe-64bdd2ab9eae.webp",
    "key": "guid:6b08607931292b0008f05dbc",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1553568546794036"
+   },
    "source_published_at": "2026-11-26T16:40:10+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Jogador do Vasco é preso por suspeita de tentativa de homicídio",
-   "updated_at": "2026-11-26T16:40:19+00:00",
+   "updated_at": "2026-11-27T04:31:25+00:00",
    "url": "https://marioadolfo.com/jogador-do-vasco-e-preso-por-suspeita-de-tentativa-de-homicidio/",
    "url_hash": "1752aec32c35898cd4b0d41f"
   },
   "guid:6b08610e31292b0008f05dd2": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-27T04:31:51+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1553568806794010",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Medida está publicada no Diário Oficial da União (DOU)",
    "discovered_at": "2026-11-26T16:50:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1553568806794010",
    "formats": [
     "link"
    ],
@@ -35428,20 +35466,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d531e0b1-1454-4211-add1-3cde9e3ccfe5.webp",
    "key": "guid:6b08610e31292b0008f05dd2",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1553568806794010"
+   },
    "source_published_at": "2026-11-26T16:43:39+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Anvisa proíbe tirzepatida e retatrutida sem registro",
-   "updated_at": "2026-11-26T16:50:17+00:00",
+   "updated_at": "2026-11-27T04:31:51+00:00",
    "url": "https://marioadolfo.com/anvisa-proibe-tirzepatida-e-retatrutida-sem-registro/",
    "url_hash": "a974c2464b04dca016dada05"
   },
   "guid:6b08683931292b0008f05dea": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-27T04:32:18+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1553569156793975",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "O homem ainda desferiu diversos socos contra a mulher, atingindo diferentes partes de seu corpo",
    "discovered_at": "2026-11-26T17:20:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1553569156793975",
    "formats": [
     "link"
    ],
@@ -35449,11 +35497,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f11ec6aa-9f2d-48f5-a068-2de80519d1c9.jpeg",
    "key": "guid:6b08683931292b0008f05dea",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1553569156793975"
+   },
    "source_published_at": "2026-11-26T17:14:08+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Homem é preso por agressão física e ameaça contra cunhada em Manacapuru",
-   "updated_at": "2026-11-26T17:20:16+00:00",
+   "updated_at": "2026-11-27T04:32:18+00:00",
    "url": "https://marioadolfo.com/homem-e-preso-por-agressao-fisica-e-ameaca-contra-cunhada-em-manacapuru/",
    "url_hash": "7d3fbbef960fc7a11b8f902b"
   },
@@ -35713,9 +35763,9 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-27T04:20:15+00:00",
+  "last_run_at": "2026-11-27T04:30:25+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-27T04:22:03+00:00"
+  "saved_at": "2026-11-27T04:32:18+00:00"
  },
  "schema": 1
 }
