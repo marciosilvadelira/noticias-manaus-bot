@@ -35561,12 +35561,12 @@
    "guid": "6b08813231292b0008f05e35",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/0a428e3c-1d13-4604-9b7c-c001345b14db.jpeg",
    "key": "guid:6b08813231292b0008f05e35",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-26T19:00:17+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Pastor que liderou expansão evangélica no Amazonas é homenageado 38 anos após sua morte",
-   "updated_at": "2026-11-26T19:10:23+00:00",
+   "updated_at": "2026-11-27T19:00:21+00:00",
    "url": "https://marioadolfo.com/pastor-que-liderou-expansao-evangelica-no-amazonas-e-homenageado-38-anos-apos-sua-morte/",
    "url_hash": "ba186d9c93d6f3906472be8f"
   },
@@ -36304,14 +36304,56 @@
    "updated_at": "2026-11-27T17:30:18+00:00",
    "url": "https://marioadolfo.com/brasil-tem-387-mil-criancas-e-adolescentes-em-uniao-conjugal/",
    "url_hash": "b5d4e33cc0deeeb56673072f"
+  },
+  "guid:6b09d12531292b0008f06303": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Operações contabilizam mais de 568 horas de voo e 1.096 lançamentos de água, com atuação estratégica em dez municípios amazonenses",
+   "discovered_at": "2026-11-27T19:00:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b09d12531292b0008f06303",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/8451077e-e71f-4750-8980-c836815ff77d.jpeg",
+   "key": "guid:6b09d12531292b0008f06303",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-27T18:54:46+00:00",
+   "status": "pending",
+   "title": "Mais de 2 milhões de litros de água são lançados em operações aéreas de combate aos incêndios",
+   "updated_at": "2026-11-27T19:00:21+00:00",
+   "url": "https://marioadolfo.com/mais-de-2-milhoes-de-litros-de-agua-sao-lancados-em-operacoes-aereas-de-combate-aos-incendios/",
+   "url_hash": "46fc2cf59df62467729ca3b8"
+  },
+  "guid:6b09d20d31292b0008f0631f": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Ao todo, 5.062 vagas são oferecidas em cursos de graduação na capital e no interior do Amazonas",
+   "discovered_at": "2026-11-27T19:00:21+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b09d20d31292b0008f0631f",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/90af0ab6-44c1-46e5-a656-ac886f0dd509.jpeg",
+   "key": "guid:6b09d20d31292b0008f0631f",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-27T18:56:49+00:00",
+   "status": "pending",
+   "title": "UEA divulga resultado do SIS e Vestibular 2026, acesso 2027",
+   "updated_at": "2026-11-27T19:00:21+00:00",
+   "url": "https://marioadolfo.com/uea-divulga-resultado-do-sis-e-vestibular-2026-acesso-2027/",
+   "url_hash": "31490926ed7e06f2bcde084e"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-27T18:50:16+00:00",
+  "last_run_at": "2026-11-27T19:00:20+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-27T18:50:18+00:00"
+  "saved_at": "2026-11-27T19:00:22+00:00"
  },
  "schema": 1
 }
