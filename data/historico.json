@@ -36052,14 +36052,56 @@
    "updated_at": "2026-11-27T15:30:20+00:00",
    "url": "https://marioadolfo.com/campanha-oferece-condicoes-especiais-para-clientes-com-debitos-com-a-cosama/",
    "url_hash": "66e581d3aed0846ce014ef20"
+  },
+  "guid:6b09a1d931292b0008f06157": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Autorização foi para manejo da espécie na Reserva de Desenvolvimento Sustentável Mamirauá, no município de Uarini",
+   "discovered_at": "2026-11-27T15:40:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b09a1d931292b0008f06157",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/84f3c4f0-325d-4e36-b9ea-2d1bc84a057c.jpeg",
+   "key": "guid:6b09a1d931292b0008f06157",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-27T15:33:57+00:00",
+   "status": "pending",
+   "title": "Ibama autoriza manejo sustentável de jacaré-açu no Amazonas",
+   "updated_at": "2026-11-27T15:40:15+00:00",
+   "url": "https://marioadolfo.com/ibama-autoriza-manejo-sustentavel-de-jacare-acu-no-amazonas/",
+   "url_hash": "347f6ace19c58e2614495943"
+  },
+  "guid:6b09a2ff31292b0008f06183": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Apresentação acontece nesta sexta-feira (27/11), às 18h, no Centro Cultural Palácio Rio Negro, com repertório de clássicos da música russa e entrada para todos os públicos",
+   "discovered_at": "2026-11-27T15:40:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b09a2ff31292b0008f06183",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6a923063-f3ed-4b89-a5d2-aeb4e901eba5.jpeg",
+   "key": "guid:6b09a2ff31292b0008f06183",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-27T15:35:50+00:00",
+   "status": "pending",
+   "title": "Madrigal do Amazonas apresenta recital com canções e árias de compositores russos no Palácio Rio Negro",
+   "updated_at": "2026-11-27T15:40:15+00:00",
+   "url": "https://marioadolfo.com/madrigal-do-amazonas-apresenta-recital-com-cancoes-e-arias-de-compositores-russos-no-palacio-rio-negro/",
+   "url_hash": "22d0a2cc76165a8c88d3d1a1"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-27T15:30:20+00:00",
+  "last_run_at": "2026-11-27T15:40:15+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-27T15:30:21+00:00"
+  "saved_at": "2026-11-27T15:40:16+00:00"
  },
  "schema": 1
 }
