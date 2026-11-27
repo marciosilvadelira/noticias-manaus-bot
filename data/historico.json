@@ -35198,11 +35198,19 @@
    "url_hash": "2fc9e8b9da11a0d568d02587"
   },
   "guid:6b082f0031292b0008f05cd0": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-27T04:20:21+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1553560296794861",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "A situação foi registrada em vídeo e compartilhada nas redes sociais",
    "discovered_at": "2026-11-26T13:20:17+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1553560296794861",
    "formats": [
     "link"
    ],
@@ -35210,20 +35218,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/bc8d8225-ec15-4595-85ed-9ff7cbfb2fb9.webp",
    "key": "guid:6b082f0031292b0008f05cd0",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1553560296794861"
+   },
    "source_published_at": "2026-11-26T13:15:55+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Vídeo: estudante é flagrado pichando mureta do Teatro Amazonas e é obrigado a limpar",
-   "updated_at": "2026-11-26T13:20:17+00:00",
+   "updated_at": "2026-11-27T04:20:21+00:00",
    "url": "https://marioadolfo.com/video-flagra-estudante-pichando-mureta-do-teatro-amazonas/",
    "url_hash": "c4370937b7226f2203a46e3a"
   },
   "guid:6b0830ef31292b0008f05cf0": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-27T04:20:47+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1553560536794837",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Funcionários da Colima afirmam que estão há três meses sem receber cesta básica, vale-transporte e auxílio-alimentação. Em mensagem ao prefeito Renato Junior, o grupo pede fiscalização da empresa",
    "discovered_at": "2026-11-26T13:30:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1553560536794837",
    "formats": [
     "link"
    ],
@@ -35231,20 +35249,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c9451e8d-33dd-4ae0-8970-b52522184940.png",
    "key": "guid:6b0830ef31292b0008f05cf0",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1553560536794837"
+   },
    "source_published_at": "2026-11-26T13:21:30+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Terceirizados protestam em frente à Semed em Manaus e cobram salários e benefícios atrasados",
-   "updated_at": "2026-11-26T13:30:18+00:00",
+   "updated_at": "2026-11-27T04:20:47+00:00",
    "url": "https://marioadolfo.com/terceirizados-protestam-em-frente-a-semed-em-manaus-e-cobram-salarios-e-beneficios-atrasados/",
    "url_hash": "ae195feedaa00f266d68232f"
   },
   "guid:6b08329931292b0008f05d0e": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-27T04:21:12+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1553560840128140",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Dito & Feito",
    "description": "Enquanto Bolsonaro agoniza na UTI, o pau canta entre os “terrivelmente evangélicos” e “católicos fake”, em frente do hospital",
    "discovered_at": "2026-11-26T13:40:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1553560840128140",
    "formats": [
     "link"
    ],
@@ -35252,20 +35280,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/780b7164-1e66-4e1f-a2dc-ade7be7c7b11.jpeg",
    "key": "guid:6b08329931292b0008f05d0e",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1553560840128140"
+   },
    "source_published_at": "2026-11-26T13:34:25+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Dito & Feito - IRMANADOS NA ORAÇÃO",
-   "updated_at": "2026-11-26T13:40:16+00:00",
+   "updated_at": "2026-11-27T04:21:12+00:00",
    "url": "https://marioadolfo.com/dito-feito-34/",
    "url_hash": "1a7b38f3516123ad1d19ebe3"
   },
   "guid:6b08450531292b0008f05d52": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-27T04:21:37+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1553561063461451",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Operação aprofunda investigação sobre a utilização de identidades fictícias e documentos falsos para a obtenção fraudulenta de benefícios",
    "discovered_at": "2026-11-26T15:10:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1553561063461451",
    "formats": [
     "link"
    ],
@@ -35273,20 +35311,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d6e6c13d-a1ae-4726-80be-7034af7e199f.jpeg",
    "key": "guid:6b08450531292b0008f05d52",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1553561063461451"
+   },
    "source_published_at": "2026-11-26T15:02:43+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Operação investiga fraude de R$ 494 mil em benefícios assistenciais no Amazonas",
-   "updated_at": "2026-11-26T15:10:15+00:00",
+   "updated_at": "2026-11-27T04:21:37+00:00",
    "url": "https://marioadolfo.com/operacao-investiga-fraude-de-r-494-mil-em-beneficios-assistenciais-no-amazonas/",
    "url_hash": "302379b8278e785b00eb8fd9"
   },
   "guid:6b084a4631292b0008f05d76": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-27T04:22:03+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1553561316794759",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Sete em cada dez municípios avaliados estão em baixo risco, mas os cuidados com recipientes dentro de casa devem continuar",
    "discovered_at": "2026-11-26T15:10:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1553561316794759",
    "formats": [
     "link"
    ],
@@ -35294,11 +35342,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/bf435560-e315-4d6c-ba42-4c9d08e5bd37.jpeg",
    "key": "guid:6b084a4631292b0008f05d76",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1553561316794759"
+   },
    "source_published_at": "2026-11-26T15:05:00+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Vasos e tonéis concentram quase metade dos focos do mosquito da dengue no interior do AM",
-   "updated_at": "2026-11-26T15:10:15+00:00",
+   "updated_at": "2026-11-27T04:22:03+00:00",
    "url": "https://marioadolfo.com/vasos-e-toneis-concentram-quase-metade-dos-focos-do-mosquito-da-dengue-no-interior-do-am/",
    "url_hash": "01098195e58dc46c2b1a1f42"
   },
@@ -35663,9 +35713,9 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-27T04:10:17+00:00",
+  "last_run_at": "2026-11-27T04:20:15+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-27T04:12:11+00:00"
+  "saved_at": "2026-11-27T04:22:03+00:00"
  },
  "schema": 1
 }
