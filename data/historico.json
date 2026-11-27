@@ -35666,12 +35666,12 @@
    "guid": "6b0896fd31292b0008f05ec1",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/abba3252-0866-46a1-b4a0-3eb3f09d5970.jpeg",
    "key": "guid:6b0896fd31292b0008f05ec1",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-26T20:36:05+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Apagão atinge Manaus e outros sete municípios do Amazonas nesta quinta-feira",
-   "updated_at": "2026-11-26T20:40:15+00:00",
+   "updated_at": "2026-11-27T20:40:15+00:00",
    "url": "https://marioadolfo.com/apagao-atinge-manaus-e-outros-sete-municipios-do-amazonas-nesta-quinta-feira/",
    "url_hash": "0bb57779e6eee2ab9b3f5d8b"
   },
@@ -36477,9 +36477,9 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-27T20:30:18+00:00",
+  "last_run_at": "2026-11-27T20:40:15+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-27T20:30:19+00:00"
+  "saved_at": "2026-11-27T20:40:16+00:00"
  },
  "schema": 1
 }
