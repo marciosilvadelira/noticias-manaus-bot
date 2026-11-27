@@ -35927,6 +35927,27 @@
    "url": "https://marioadolfo.com/governo-federal-estuda-auxilio-emergencial-para-pescadores-do-amazonas/",
    "url_hash": "01c5b55077cfab6816056f22"
   },
+  "guid:6b08f47431292b0008f06063": {
+   "attempts": [],
+   "category": "Dito & Feito",
+   "description": "O amazonense  reviveu, na tarde desta quinta-feira (26) o trauma de 1997, quando Manaus enfrentou a mais grave crise energética",
+   "discovered_at": "2026-11-27T14:20:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b08f47431292b0008f06063",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4a6ac4c2-cdd1-49d4-9699-044ea5f70f74.jpeg",
+   "key": "guid:6b08f47431292b0008f06063",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-27T14:11:55+00:00",
+   "status": "pending",
+   "title": "Dito & Feito: BLECAUTE – Amzonenses revivem o fantasma da crise de 1997",
+   "updated_at": "2026-11-27T14:20:16+00:00",
+   "url": "https://marioadolfo.com/dito-feito-blecaute-manaus-e-sete-municipios-amazonas-sofrem-novo-apagao/",
+   "url_hash": "9e50d1a280f3390e53a3f8cd"
+  },
   "guid:6b096eb831292b0008f06081": {
    "attempts": [],
    "category": "Brasil",
@@ -35952,9 +35973,9 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-27T14:10:14+00:00",
+  "last_run_at": "2026-11-27T14:20:15+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-27T14:10:15+00:00"
+  "saved_at": "2026-11-27T14:20:16+00:00"
  },
  "schema": 1
 }
