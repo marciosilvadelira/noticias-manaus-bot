@@ -35582,12 +35582,12 @@
    "guid": "6b08827731292b0008f05e51",
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/435602de-9f35-422c-964b-12a2b5439465.jpeg",
    "key": "guid:6b08827731292b0008f05e51",
-   "note": "",
+   "note": "expirou na fila (mais antiga que o limite)",
    "posts": {},
    "source_published_at": "2026-11-26T19:07:32+00:00",
-   "status": "pending",
+   "status": "skipped",
    "title": "Eneva participa de ação que leva saúde e cidadania a 16 comunidades ribeirinhas do Amazonas",
-   "updated_at": "2026-11-26T19:10:23+00:00",
+   "updated_at": "2026-11-27T19:10:17+00:00",
    "url": "https://marioadolfo.com/eneva-participa-de-acao-que-leva-saude-e-cidadania-a-16-comunidades-ribeirinhas-do-amazonas/",
    "url_hash": "0061696212a4722bac6e4040"
   },
@@ -36346,14 +36346,35 @@
    "updated_at": "2026-11-27T19:00:21+00:00",
    "url": "https://marioadolfo.com/uea-divulga-resultado-do-sis-e-vestibular-2026-acesso-2027/",
    "url_hash": "31490926ed7e06f2bcde084e"
+  },
+  "guid:6b09d2ed31292b0008f06338": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Apresentação acontece às 19h30, no bairro Alvorada, com repertório dedicado aos clássicos da música natalina",
+   "discovered_at": "2026-11-27T19:10:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b09d2ed31292b0008f06338",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/d0e880d8-1522-4e18-9a6a-86cabf0d8fb2.jpeg",
+   "key": "guid:6b09d2ed31292b0008f06338",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-27T19:00:38+00:00",
+   "status": "pending",
+   "title": "Amazonas Filarmônica e Coral do Amazonas apresentam Circuito Natalino neste domingo (29)",
+   "updated_at": "2026-11-27T19:10:17+00:00",
+   "url": "https://marioadolfo.com/amazonas-filarmonica-e-coral-do-amazonas-apresentam-circuito-natalino-neste-domingo-29/",
+   "url_hash": "5252f13a0edd2b8409f4e1cc"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-27T19:00:20+00:00",
+  "last_run_at": "2026-11-27T19:10:16+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-27T19:00:22+00:00"
+  "saved_at": "2026-11-27T19:10:18+00:00"
  },
  "schema": 1
 }
