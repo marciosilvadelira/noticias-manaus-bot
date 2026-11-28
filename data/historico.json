@@ -36798,14 +36798,77 @@
    "updated_at": "2026-11-28T11:40:17+00:00",
    "url": "https://marioadolfo.com/feirao-negocia-manaus-encerra-com-mais-de-1-8-mil-atendimentos/",
    "url_hash": "85d8e0b9ed735d361cedb692"
+  },
+  "guid:6b0a527031292b0008f064f1": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Rafaela passou por audiência de custódia e  permanecerá presa. Ela foi autuada por homicídio culposo na direção de veículo automotor",
+   "discovered_at": "2026-11-28T11:50:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b0a527031292b0008f064f1",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5d5589c5-ccee-4e8e-b42e-ed1d3fd497e9.jpg",
+   "key": "guid:6b0a527031292b0008f064f1",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-28T11:40:58+00:00",
+   "status": "pending",
+   "title": "Justiça converte em preventiva prisão de blogueira após acidente com dois mortos em Manaus",
+   "updated_at": "2026-11-28T11:50:15+00:00",
+   "url": "https://marioadolfo.com/justica-converte-em-preventiva-prisao-de-blogueira-apos-acidente-com-dois-mortos-em-manaus/",
+   "url_hash": "05bda825b243c17a288d7785"
+  },
+  "guid:6b0a535531292b0008f0650f": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A decisão sobre a cassação ocorreu de forma unânime. Família de Benício Xavier aguarda o julgamento da médica",
+   "discovered_at": "2026-11-28T11:50:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b0a535531292b0008f0650f",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c89444fa-cff6-404d-9aac-2ca801a326d1.JPG",
+   "key": "guid:6b0a535531292b0008f0650f",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-28T11:45:00+00:00",
+   "status": "pending",
+   "title": "Caso Benício: Coren-AM cassa registro profissional de técnica de enfermagem",
+   "updated_at": "2026-11-28T11:50:15+00:00",
+   "url": "https://marioadolfo.com/caso-benicio-coren-am-cassa-registro-profissional-de-tecnica-de-enfermagem/",
+   "url_hash": "dc8407bddad5c7972e515665"
+  },
+  "guid:6b0a54cd31292b0008f06538": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "O governador eleito lembrou, na nota à imprensa, que “sequer foi diplomada e a posse se dará no dia 6 de janeiro do próximo ano”",
+   "discovered_at": "2026-11-28T11:50:15+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b0a54cd31292b0008f06538",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4525efd5-d351-4b90-a9c4-88911e219056.jpg",
+   "key": "guid:6b0a54cd31292b0008f06538",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-28T11:45:43+00:00",
+   "status": "pending",
+   "title": "Omar Aziz nega interferência da equipe de transição em pagamentos do governo",
+   "updated_at": "2026-11-28T11:50:15+00:00",
+   "url": "https://marioadolfo.com/omar-aziz-nega-interferencia-da-equipe-de-transicao-em-pagamentos-do-governo/",
+   "url_hash": "bbb77137586f3ab005ebeb4d"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-28T11:40:15+00:00",
+  "last_run_at": "2026-11-28T11:50:14+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-28T11:40:17+00:00"
+  "saved_at": "2026-11-28T11:50:15+00:00"
  },
  "schema": 1
 }
