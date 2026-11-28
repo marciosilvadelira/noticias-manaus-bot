@@ -36987,14 +36987,35 @@
    "updated_at": "2026-11-28T15:20:16+00:00",
    "url": "https://marioadolfo.com/homem-e-preso-por-homicidio-apos-desentendimento-em-tabatinga/",
    "url_hash": "739972e1c33d1cfe4df50097"
+  },
+  "guid:6b0aefc631292b0008f06593": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Promotor da Infância e Juventude alerta para os riscos da exposição à fumaça durante atividades físicas intensas e requisita acompanhamento do Conselho Tutelar de Plantão",
+   "discovered_at": "2026-11-28T15:40:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b0aefc631292b0008f06593",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/752bb195-4182-48ca-943b-a87a9f6b0ad5.jpeg",
+   "key": "guid:6b0aefc631292b0008f06593",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-28T15:32:49+00:00",
+   "status": "pending",
+   "title": "MPAM recomenda suspensão de campeonato esportivo devido à péssima qualidade do ar",
+   "updated_at": "2026-11-28T15:40:16+00:00",
+   "url": "https://marioadolfo.com/mpam-recomenda-suspensao-de-campeonato-esportivo-devido-a-pessima-qualidade-do-ar/",
+   "url_hash": "09ec3da828562ae7b7b114b9"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-28T15:30:25+00:00",
+  "last_run_at": "2026-11-28T15:40:15+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-28T15:30:26+00:00"
+  "saved_at": "2026-11-28T15:40:17+00:00"
  },
  "schema": 1
 }
