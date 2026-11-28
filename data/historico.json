@@ -36505,6 +36505,27 @@
    "url": "https://marioadolfo.com/brasil-tem-387-mil-criancas-e-adolescentes-em-uniao-conjugal/",
    "url_hash": "b5d4e33cc0deeeb56673072f"
   },
+  "guid:6b09be7631292b0008f062d2": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Exame é obrigatório para concluinte receber o diploma",
+   "discovered_at": "2026-11-28T16:10:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b09be7631292b0008f062d2",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/67d6268e-3cc3-4123-9377-afc50943c70f.webp",
+   "key": "guid:6b09be7631292b0008f062d2",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-28T16:00:56+00:00",
+   "status": "pending",
+   "title": "Enade 2026: estudantes de 18 áreas fazem a prova neste domingo",
+   "updated_at": "2026-11-28T16:10:16+00:00",
+   "url": "https://marioadolfo.com/enade-2026-estudantes-de-18-areas-fazem-a-prova-neste-domingo/",
+   "url_hash": "b3c44adeb4904639c5a26bb1"
+  },
   "guid:6b09d12531292b0008f06303": {
    "attempts": [],
    "category": "Amazonas",
@@ -37013,9 +37034,9 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-28T16:00:20+00:00",
+  "last_run_at": "2026-11-28T16:10:15+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-28T16:00:21+00:00"
+  "saved_at": "2026-11-28T16:10:16+00:00"
  },
  "schema": 1
 }
