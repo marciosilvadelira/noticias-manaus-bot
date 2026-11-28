@@ -36778,6 +36778,27 @@
    "url": "https://marioadolfo.com/b-2/",
    "url_hash": "72ea87f43f26b58e16f19e9a"
   },
+  "guid:6b0a4d2d31292b0008f0647b": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Segundo balanço, Amazonas e Pará ainda registravam mais de 1,5 mil focos de calor ativos",
+   "discovered_at": "2026-11-28T12:10:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b0a4d2d31292b0008f0647b",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ef8be543-6966-4128-99cb-3aea39d00167.jpeg",
+   "key": "guid:6b0a4d2d31292b0008f0647b",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-28T12:00:48+00:00",
+   "status": "pending",
+   "title": "Governo Federal contabiliza 409 incêndios florestais extintos no Amazonas",
+   "updated_at": "2026-11-28T12:10:16+00:00",
+   "url": "https://marioadolfo.com/governo-federal-contabiliza-409-incendios-florestais-extintos-no-amazonas/",
+   "url_hash": "22ea6d2a15c92ae9984b2761"
+  },
   "guid:6b0a4db931292b0008f06490": {
    "attempts": [],
    "category": "Amazonas",
@@ -36819,6 +36840,48 @@
    "updated_at": "2026-11-28T11:40:17+00:00",
    "url": "https://marioadolfo.com/feirao-negocia-manaus-encerra-com-mais-de-1-8-mil-atendimentos/",
    "url_hash": "85d8e0b9ed735d361cedb692"
+  },
+  "guid:6b0a4f5e31292b0008f064c2": {
+   "attempts": [],
+   "category": "Parintins",
+   "description": "Equipes combateram 57 focos de incêndio, com apoio de aeronaves do Ibama e da Defesa Civil do Estado",
+   "discovered_at": "2026-11-28T12:10:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b0a4f5e31292b0008f064c2",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5ee1e50f-7b4a-4b4f-bb0e-27870cf3ab3e.jpeg",
+   "key": "guid:6b0a4f5e31292b0008f064c2",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-28T12:00:43+00:00",
+   "status": "pending",
+   "title": "Bombeiros combatem incêndios em áreas de vegetação em Parintins",
+   "updated_at": "2026-11-28T12:10:16+00:00",
+   "url": "https://marioadolfo.com/bombeiros-combatem-incendios-em-areas-de-vegetacao-em-parintins/",
+   "url_hash": "2b383f5dd53d9cbfe4bb0ebd"
+  },
+  "guid:6b0a4fc431292b0008f064d9": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Dados apontam que o Pará registrou 63% dos focos de calor da Amazônia Legal entre os dias 22 e 25 de novembro; o Amazonas registrou apenas 3,24%",
+   "discovered_at": "2026-11-28T12:10:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b0a4fc431292b0008f064d9",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/271a49ef-94d1-4cc0-819a-01288fd417aa.jpg",
+   "key": "guid:6b0a4fc431292b0008f064d9",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-28T12:00:39+00:00",
+   "status": "pending",
+   "title": "Governo do Amazonas aciona STF para intensificar combate às queimadas no Pará",
+   "updated_at": "2026-11-28T12:10:16+00:00",
+   "url": "https://marioadolfo.com/governo-do-amazonas-aciona-stf-para-intensificar-combate-as-queimadas-no-para/",
+   "url_hash": "341296767579a44c9d94fdcf"
   },
   "guid:6b0a527031292b0008f064f1": {
    "attempts": [],
@@ -36887,9 +36950,9 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-28T12:00:22+00:00",
+  "last_run_at": "2026-11-28T12:10:15+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-28T12:00:23+00:00"
+  "saved_at": "2026-11-28T12:10:17+00:00"
  },
  "schema": 1
 }
