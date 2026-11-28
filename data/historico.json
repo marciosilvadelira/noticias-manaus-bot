@@ -36945,14 +36945,35 @@
    "updated_at": "2026-11-28T11:50:15+00:00",
    "url": "https://marioadolfo.com/omar-aziz-nega-interferencia-da-equipe-de-transicao-em-pagamentos-do-governo/",
    "url_hash": "bbb77137586f3ab005ebeb4d"
+  },
+  "guid:6b0ae01f31292b0008f0655c": {
+   "attempts": [],
+   "category": "Parintins",
+   "description": "As apresentações dos bois Caprichoso e Garantido serão nos dias 25, 26 e 27 de junho, no Bumbódromo de Parintins",
+   "discovered_at": "2026-11-28T14:20:20+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b0ae01f31292b0008f0655c",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/cd9b2999-47f9-43ce-a41f-664c0de0fa13.webp",
+   "key": "guid:6b0ae01f31292b0008f0655c",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-28T14:11:51+00:00",
+   "status": "pending",
+   "title": "Começa a venda de ingressos para o Festival de Parintins 2027",
+   "updated_at": "2026-11-28T14:20:20+00:00",
+   "url": "https://marioadolfo.com/comeca-a-venda-de-ingressos-para-o-festival-de-parintins-2027/",
+   "url_hash": "4172b6d0ba4a674364ba8556"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-28T14:10:21+00:00",
+  "last_run_at": "2026-11-28T14:20:20+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-28T14:10:22+00:00"
+  "saved_at": "2026-11-28T14:20:21+00:00"
  },
  "schema": 1
 }
