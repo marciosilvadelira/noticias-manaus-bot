@@ -36756,14 +36756,35 @@
    "updated_at": "2026-11-28T10:40:16+00:00",
    "url": "https://marioadolfo.com/caravana-de-natal-da-coca-cola-amplia-rota-pelos-rios-da-amazonia/",
    "url_hash": "f55ba5bd5ff5bc7f4c041a68"
+  },
+  "guid:6b0a4db931292b0008f06490": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "A ação teve como objetivo acompanhar o cumprimento das normas de defesa do consumidor e garantir mais segurança nas compras realizadas pela população",
+   "discovered_at": "2026-11-28T11:30:26+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b0a4db931292b0008f06490",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/51174dcc-6256-4a8d-a278-a31b20a05dd1.jpeg",
+   "key": "guid:6b0a4db931292b0008f06490",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-28T11:30:26+00:00",
+   "status": "pending",
+   "title": "Procon Manaus reforça fiscalização em shopping durante a Black Friday",
+   "updated_at": "2026-11-28T11:30:26+00:00",
+   "url": "https://marioadolfo.com/procon-manaus-reforca-fiscalizacao-em-shoppingdurante-a-black-friday/",
+   "url_hash": "fbc130066da10d3948b42529"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-28T11:20:15+00:00",
+  "last_run_at": "2026-11-28T11:30:25+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-28T11:20:16+00:00"
+  "saved_at": "2026-11-28T11:30:26+00:00"
  },
  "schema": 1
 }
