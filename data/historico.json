@@ -36070,11 +36070,19 @@
    "url_hash": "3ea72404ce863efe1140060a"
   },
   "guid:6b09970431292b0008f060eb": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-28T04:20:23+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1554659790018245",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Programa EmpreendAE disponibiliza capacitações on-line em gestão, finanças, marketing e vendas, com acesso gratuito e sem limite de vagas",
    "discovered_at": "2026-11-27T15:20:23+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1554659790018245",
    "formats": [
     "link"
    ],
@@ -36082,20 +36090,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/8d59e41b-bc1e-4d3d-8a07-3f39ec170d70.jpeg",
    "key": "guid:6b09970431292b0008f060eb",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1554659790018245"
+   },
    "source_published_at": "2026-11-27T15:14:19+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Programa oferece cursos gratuitos para fortalecer pequenos negócios e ampliar oportunidades de renda",
-   "updated_at": "2026-11-27T15:20:23+00:00",
+   "updated_at": "2026-11-28T04:20:23+00:00",
    "url": "https://marioadolfo.com/programa-oferece-cursos-gratuitos-para-fortalecer-pequenos-negocios-e-ampliar-oportunidade-de-renda/",
    "url_hash": "03ed789eb7770652f7a935ef"
   },
   "guid:6b099f4531292b0008f06107": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-28T04:20:48+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1554660096684881",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Governador eleito propõe mecanização da agricultura familiar, fortalecimento de brigadas municipais e uso de recursos do Fundo Amazônia",
    "discovered_at": "2026-11-27T15:30:20+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1554660096684881",
    "formats": [
     "link"
    ],
@@ -36103,20 +36121,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/91880513-b0c3-4c95-b599-05f1e075faf5.jpeg",
    "key": "guid:6b099f4531292b0008f06107",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1554660096684881"
+   },
    "source_published_at": "2026-11-27T15:21:09+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Omar defende plano integrado contra queimadas e alerta para cenário mais grave em 2027",
-   "updated_at": "2026-11-27T15:30:20+00:00",
+   "updated_at": "2026-11-28T04:20:48+00:00",
    "url": "https://marioadolfo.com/omar-defende-plano-integrado-contra-queimadas-e-alerta-para-cenario-mais-grave-em-2027/",
    "url_hash": "34ff062cd9b280725ba8e3f6"
   },
   "guid:6b09a01e31292b0008f06127": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-28T04:21:13+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1554660350018189",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "População desocupada caiu para 5,6 milhões de pessoas",
    "discovered_at": "2026-11-27T15:30:20+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1554660350018189",
    "formats": [
     "link"
    ],
@@ -36124,20 +36152,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/8880d965-3bf0-4cd7-9d6d-5cf4e9f9484d.jpeg",
    "key": "guid:6b09a01e31292b0008f06127",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1554660350018189"
+   },
    "source_published_at": "2026-11-27T15:24:34+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Taxa de desemprego fica em 5,1% no trimestre encerrado em outubro",
-   "updated_at": "2026-11-27T15:30:20+00:00",
+   "updated_at": "2026-11-28T04:21:13+00:00",
    "url": "https://marioadolfo.com/taxa-de-desemprego-fica-em-5-1-no-trimestre-encerrado-em-outubro/",
    "url_hash": "0156e9809be8d5cb5c1ec9ba"
   },
   "guid:6b09a0cb31292b0008f0613c": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-28T04:21:38+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1554660643351493",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Clientes poderão negociar débitos até 31 de dezembro de 2026, com descontos de até 100% sobre juros e multas, independentemente da condição de pagamento",
    "discovered_at": "2026-11-27T15:30:20+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1554660643351493",
    "formats": [
     "link"
    ],
@@ -36145,20 +36183,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/cc030d63-9181-463f-bf4e-2a3953f6b088.jpeg",
    "key": "guid:6b09a0cb31292b0008f0613c",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1554660643351493"
+   },
    "source_published_at": "2026-11-27T15:27:02+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Campanha oferece condições especiais para clientes com débitos com a Cosama",
-   "updated_at": "2026-11-27T15:30:20+00:00",
+   "updated_at": "2026-11-28T04:21:38+00:00",
    "url": "https://marioadolfo.com/campanha-oferece-condicoes-especiais-para-clientes-com-debitos-com-a-cosama/",
    "url_hash": "66e581d3aed0846ce014ef20"
   },
   "guid:6b09a1d931292b0008f06157": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-28T04:22:03+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1554660953351462",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Autorização foi para manejo da espécie na Reserva de Desenvolvimento Sustentável Mamirauá, no município de Uarini",
    "discovered_at": "2026-11-27T15:40:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1554660953351462",
    "formats": [
     "link"
    ],
@@ -36166,11 +36214,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/84f3c4f0-325d-4e36-b9ea-2d1bc84a057c.jpeg",
    "key": "guid:6b09a1d931292b0008f06157",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1554660953351462"
+   },
    "source_published_at": "2026-11-27T15:33:57+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Ibama autoriza manejo sustentável de jacaré-açu no Amazonas",
-   "updated_at": "2026-11-27T15:40:15+00:00",
+   "updated_at": "2026-11-28T04:22:03+00:00",
    "url": "https://marioadolfo.com/ibama-autoriza-manejo-sustentavel-de-jacare-acu-no-amazonas/",
    "url_hash": "347f6ace19c58e2614495943"
   },
@@ -36619,9 +36669,9 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-28T04:10:14+00:00",
+  "last_run_at": "2026-11-28T04:20:16+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-28T04:12:06+00:00"
+  "saved_at": "2026-11-28T04:22:03+00:00"
  },
  "schema": 1
 }
