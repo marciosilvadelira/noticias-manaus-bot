@@ -35770,11 +35770,19 @@
    "url_hash": "ddc127165d305ee09a5a8ac7"
   },
   "guid:6b08e71d31292b0008f05f82": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-28T04:10:20+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1554653310018893",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Presidente do conselho do Bradesco assume pasta no 4º mandato de Lula",
    "discovered_at": "2026-11-27T11:40:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1554653310018893",
    "formats": [
     "link"
    ],
@@ -35782,11 +35790,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/44ae809e-9fcc-458c-a99f-f34d24a8acff.jpg",
    "key": "guid:6b08e71d31292b0008f05f82",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1554653310018893"
+   },
    "source_published_at": "2026-11-27T11:30:57+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Luiz Carlos Trabuco aceita convite de Lula para ser ministro da Fazenda",
-   "updated_at": "2026-11-27T11:40:15+00:00",
+   "updated_at": "2026-11-28T04:10:20+00:00",
    "url": "https://marioadolfo.com/trabuco-aceita-convite-de-lula-para-comandar-a-fazenda-em-2027/",
    "url_hash": "c98678f6ca46921aabfdf1b4"
   },
@@ -35822,11 +35832,19 @@
    "url_hash": "cda9773b38b5d9f6dd5c204c"
   },
   "guid:6b08e8de31292b0008f05fb7": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-28T04:11:15+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1554653890018835",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "iniciativa reúne 16 empresas e instituições  para facilitar a renegociação de dívidas e oferecer condições especiais aos consumidores",
    "discovered_at": "2026-11-27T11:40:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1554653890018835",
    "formats": [
     "link"
    ],
@@ -35834,11 +35852,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/e3763809-77e5-40a8-a09c-29ad73392b48.jpg",
    "key": "guid:6b08e8de31292b0008f05fb7",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1554653890018835"
+   },
    "source_published_at": "2026-11-27T11:35:59+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "‘Feirão Negocia Manaus’ encerra hoje com descontos nas dívidas e oferta de empregos",
-   "updated_at": "2026-11-27T11:40:15+00:00",
+   "updated_at": "2026-11-28T04:11:15+00:00",
    "url": "https://marioadolfo.com/feirao-negocia-manaus-encerra-hoje-com-descontos-nas-dividas-e-oferta-de-empregos/",
    "url_hash": "dc19f4ab775ece6a213de344"
   },
@@ -35905,11 +35925,19 @@
    "url_hash": "db2c3a2fd0c89b0bc732f75e"
   },
   "guid:6b08ed8231292b0008f06008": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-28T04:10:46+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1554653560018868",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Rafaela Cris permaneceu dentro do carro. Populares arremessaram contra o veículo na tentativa de agredir a motorista",
    "discovered_at": "2026-11-27T11:40:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1554653560018868",
    "formats": [
     "link"
    ],
@@ -35917,11 +35945,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/c0ba7544-a607-4905-9232-08cdc4905cf5.jpg",
    "key": "guid:6b08ed8231292b0008f06008",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1554653560018868"
+   },
    "source_published_at": "2026-11-27T11:35:36+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Blogueira é suspeita de causar acidente que matou motociclista e deixou três feridos em Manaus",
-   "updated_at": "2026-11-27T11:40:15+00:00",
+   "updated_at": "2026-11-28T04:10:46+00:00",
    "url": "https://marioadolfo.com/blogueira-e-suspeita-de-causar-acidente-que-matou-motociclista-e-deixou-tres-feridos-em-manaus/",
    "url_hash": "6f8f9dcb7f470231b6b98d76"
   },
@@ -35978,11 +36008,19 @@
    "url_hash": "01c5b55077cfab6816056f22"
   },
   "guid:6b08f47431292b0008f06063": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-28T04:12:06+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1554654376685453",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Dito & Feito",
    "description": "O amazonense  reviveu, na tarde desta quinta-feira (26) o trauma de 1997, quando Manaus enfrentou a mais grave crise energética",
    "discovered_at": "2026-11-27T14:20:16+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1554654376685453",
    "formats": [
     "link"
    ],
@@ -35990,20 +36028,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/4a6ac4c2-cdd1-49d4-9699-044ea5f70f74.jpeg",
    "key": "guid:6b08f47431292b0008f06063",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1554654376685453"
+   },
    "source_published_at": "2026-11-27T14:11:55+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Dito & Feito: BLECAUTE – Amzonenses revivem o fantasma da crise de 1997",
-   "updated_at": "2026-11-27T14:20:16+00:00",
+   "updated_at": "2026-11-28T04:12:06+00:00",
    "url": "https://marioadolfo.com/dito-feito-blecaute-manaus-e-sete-municipios-amazonas-sofrem-novo-apagao/",
    "url_hash": "9e50d1a280f3390e53a3f8cd"
   },
   "guid:6b096eb831292b0008f06081": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-28T04:11:41+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1554654106685480",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Brasil",
    "description": "Em 2024, a estimativa era de 76,6 anos",
    "discovered_at": "2026-11-27T12:00:25+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1554654106685480",
    "formats": [
     "link"
    ],
@@ -36011,11 +36059,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/67e153f9-f6ed-4eb0-b308-1cbc4a8ed81f.jpeg",
    "key": "guid:6b096eb831292b0008f06081",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1554654106685480"
+   },
    "source_published_at": "2026-11-27T11:52:45+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Expectativa de vida no Brasil sobe para 76,9 anos, diz IBGE",
-   "updated_at": "2026-11-27T12:00:25+00:00",
+   "updated_at": "2026-11-28T04:11:41+00:00",
    "url": "https://marioadolfo.com/expectativa-de-vida-no-brasil-sobe-para-76-9-anos-diz-ibge/",
    "url_hash": "3ea72404ce863efe1140060a"
   },
@@ -36569,9 +36619,9 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-28T04:00:21+00:00",
+  "last_run_at": "2026-11-28T04:10:14+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-28T04:02:06+00:00"
+  "saved_at": "2026-11-28T04:12:06+00:00"
  },
  "schema": 1
 }
