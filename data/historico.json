@@ -36714,14 +36714,35 @@
    "updated_at": "2026-11-27T20:50:16+00:00",
    "url": "https://marioadolfo.com/mpam-apura-interrupcao-no-fornecimento-de-energia-eletrica-em-manaus-e-outros-sete-municipios/",
    "url_hash": "258ba82ada2da9797588d45e"
+  },
+  "guid:6b0a4a6631292b0008f06418": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Decisão é em caráter liminar; senador mora nos EUA após fuga do Brasil",
+   "discovered_at": "2026-11-28T10:00:22+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b0a4a6631292b0008f06418",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/a91a69b2-52e9-4e2b-afed-6ae12f9c14ec.jpg",
+   "key": "guid:6b0a4a6631292b0008f06418",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-28T10:00:17+00:00",
+   "status": "pending",
+   "title": "STF: Dino suspende emendas parlamentares de Flávio Bolsonaro",
+   "updated_at": "2026-11-28T10:00:22+00:00",
+   "url": "https://marioadolfo.com/stf-dino-suspende-emendas-parlamentares-de-flavio-bolsonaro/",
+   "url_hash": "2912252daf02a61bf3a8d042"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-28T09:50:15+00:00",
+  "last_run_at": "2026-11-28T10:00:21+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-28T09:50:16+00:00"
+  "saved_at": "2026-11-28T10:00:22+00:00"
  },
  "schema": 1
 }
