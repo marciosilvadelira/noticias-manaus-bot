@@ -36757,6 +36757,27 @@
    "url": "https://marioadolfo.com/caravana-de-natal-da-coca-cola-amplia-rota-pelos-rios-da-amazonia/",
    "url_hash": "f55ba5bd5ff5bc7f4c041a68"
   },
+  "guid:6b0a4b7931292b0008f06447": {
+   "attempts": [],
+   "category": "Brasil",
+   "description": "Decisão da Aneel reflete condições favoráveis de geração no país",
+   "discovered_at": "2026-11-28T12:00:22+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b0a4b7931292b0008f06447",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/69a3a93f-6c4c-426d-82d3-5c1c04d42b34.jpg",
+   "key": "guid:6b0a4b7931292b0008f06447",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-28T12:00:22+00:00",
+   "status": "pending",
+   "title": "Com bandeira tarifária verde, energia não terá custo extra em dezembro",
+   "updated_at": "2026-11-28T12:00:22+00:00",
+   "url": "https://marioadolfo.com/b-2/",
+   "url_hash": "72ea87f43f26b58e16f19e9a"
+  },
   "guid:6b0a4db931292b0008f06490": {
    "attempts": [],
    "category": "Amazonas",
@@ -36866,9 +36887,9 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-28T11:50:14+00:00",
+  "last_run_at": "2026-11-28T12:00:22+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-28T11:50:15+00:00"
+  "saved_at": "2026-11-28T12:00:23+00:00"
  },
  "schema": 1
 }
