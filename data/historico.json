@@ -36966,14 +36966,35 @@
    "updated_at": "2026-11-28T14:20:20+00:00",
    "url": "https://marioadolfo.com/comeca-a-venda-de-ingressos-para-o-festival-de-parintins-2027/",
    "url_hash": "4172b6d0ba4a674364ba8556"
+  },
+  "guid:6b0aeee731292b0008f0657b": {
+   "attempts": [],
+   "category": "Polícia",
+   "description": "A vítima foi atingida com uma facada no tórax e morreu após ser socorrida e encaminhada à unidade hospitalar",
+   "discovered_at": "2026-11-28T15:20:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b0aeee731292b0008f0657b",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/b59b29a2-7639-417b-88cd-6f1551a26992.jpeg",
+   "key": "guid:6b0aeee731292b0008f0657b",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-28T15:12:23+00:00",
+   "status": "pending",
+   "title": "Homem é preso por homicídio após desentendimento em Tabatinga",
+   "updated_at": "2026-11-28T15:20:16+00:00",
+   "url": "https://marioadolfo.com/homem-e-preso-por-homicidio-apos-desentendimento-em-tabatinga/",
+   "url_hash": "739972e1c33d1cfe4df50097"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-28T15:10:14+00:00",
+  "last_run_at": "2026-11-28T15:20:15+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-28T15:10:15+00:00"
+  "saved_at": "2026-11-28T15:20:17+00:00"
  },
  "schema": 1
 }
