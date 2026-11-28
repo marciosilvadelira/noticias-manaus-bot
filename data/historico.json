@@ -37029,14 +37029,35 @@
    "updated_at": "2026-11-28T15:40:16+00:00",
    "url": "https://marioadolfo.com/mpam-recomenda-suspensao-de-campeonato-esportivo-devido-a-pessima-qualidade-do-ar/",
    "url_hash": "09ec3da828562ae7b7b114b9"
+  },
+  "guid:6b0afe0931292b0008f065b1": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "O publicitário estava internado em São Paulo para tratamento de um câncer",
+   "discovered_at": "2026-11-28T16:20:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b0afe0931292b0008f065b1",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/5b6d75d1-e5d1-4581-ae0e-463990a391fd.jpeg",
+   "key": "guid:6b0afe0931292b0008f065b1",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-28T16:20:14+00:00",
+   "status": "pending",
+   "title": "Morre Oswaldo Lopes, ex-diretor do Sistema Encontro das Águas",
+   "updated_at": "2026-11-28T16:20:16+00:00",
+   "url": "https://marioadolfo.com/morre-oswaldo-lopes-ex-diretor-do-sistema-encontro-das-aguas/",
+   "url_hash": "bff914f3618b2c98a8513c18"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-28T16:10:15+00:00",
+  "last_run_at": "2026-11-28T16:20:14+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-28T16:10:16+00:00"
+  "saved_at": "2026-11-28T16:20:17+00:00"
  },
  "schema": 1
 }
