@@ -36225,11 +36225,19 @@
    "url_hash": "347f6ace19c58e2614495943"
   },
   "guid:6b09a2ff31292b0008f06183": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-28T04:30:24+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1554667333350824",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Apresentação acontece nesta sexta-feira (27/11), às 18h, no Centro Cultural Palácio Rio Negro, com repertório de clássicos da música russa e entrada para todos os públicos",
    "discovered_at": "2026-11-27T15:40:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1554667333350824",
    "formats": [
     "link"
    ],
@@ -36237,20 +36245,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6a923063-f3ed-4b89-a5d2-aeb4e901eba5.jpeg",
    "key": "guid:6b09a2ff31292b0008f06183",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1554667333350824"
+   },
    "source_published_at": "2026-11-27T15:35:50+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Madrigal do Amazonas apresenta recital com canções e árias de compositores russos no Palácio Rio Negro",
-   "updated_at": "2026-11-27T15:40:15+00:00",
+   "updated_at": "2026-11-28T04:30:24+00:00",
    "url": "https://marioadolfo.com/madrigal-do-amazonas-apresenta-recital-com-cancoes-e-arias-de-compositores-russos-no-palacio-rio-negro/",
    "url_hash": "22d0a2cc76165a8c88d3d1a1"
   },
   "guid:6b09a48831292b0008f0619d": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-28T04:30:51+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1554667626684128",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "Dois homens foram presos durante as ações realizadas na quarta e quinta-feira (25 e 26), em parceria com a Receita Federal",
    "discovered_at": "2026-11-27T16:00:28+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1554667626684128",
    "formats": [
     "link"
    ],
@@ -36258,20 +36276,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/6199dd48-f85b-4dfe-91c9-50158a7b9f9f.jpeg",
    "key": "guid:6b09a48831292b0008f0619d",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1554667626684128"
+   },
    "source_published_at": "2026-11-27T15:52:55+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Vídeo: maia de 60 quilos de skunk são apreendidos em operações em Manaus",
-   "updated_at": "2026-11-27T16:00:28+00:00",
+   "updated_at": "2026-11-28T04:30:51+00:00",
    "url": "https://marioadolfo.com/video-7/",
    "url_hash": "101efb398366238572067f1a"
   },
   "guid:6b09a7d031292b0008f061f1": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-28T04:31:15+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1554667993350758",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Polícia",
    "description": "O policial militar Paulo Sérgio da Silva Portilho foi morto de forma brutal no dia 26 de maio de 2017",
    "discovered_at": "2026-11-27T16:10:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1554667993350758",
    "formats": [
     "link"
    ],
@@ -36279,20 +36307,30 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/1be5c4fa-2684-4cf9-8b62-1bb396b986f2.jpeg",
    "key": "guid:6b09a7d031292b0008f061f1",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1554667993350758"
+   },
    "source_published_at": "2026-11-27T16:00:40+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Condenado a mais de 30 anos de prisão pelo assassinato de PM é preso em Manaus",
-   "updated_at": "2026-11-27T16:10:15+00:00",
+   "updated_at": "2026-11-28T04:31:15+00:00",
    "url": "https://marioadolfo.com/condenado-a-mais-de-30-anos-de-prisao-pelo-assassinato-de-pm-e-preso-em-manaus/",
    "url_hash": "dbc6dad002869dc3f85b3792"
   },
   "guid:6b09a95531292b0008f06208": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-28T04:31:41+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1554668300017394",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Serão seis postos fixos em diferentes regiões da cidade, com atendimento das 9h às 12h",
    "discovered_at": "2026-11-27T16:10:15+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1554668300017394",
    "formats": [
     "link"
    ],
@@ -36300,11 +36338,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/ed300cd8-3022-41c8-a099-25246dbb4fd9.jpeg",
    "key": "guid:6b09a95531292b0008f06208",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1554668300017394"
+   },
    "source_published_at": "2026-11-27T16:07:36+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Vacina antirrábica será ofertada em rede de supermercados de Manaus neste sábado",
-   "updated_at": "2026-11-27T16:10:15+00:00",
+   "updated_at": "2026-11-28T04:31:41+00:00",
    "url": "https://marioadolfo.com/vacina-antirrabica-sera-ofertada-em-rede-de-supermercados-de-manaus-neste-sabado/",
    "url_hash": "6ec4259631eb888722cbf9ad"
   },
@@ -36414,11 +36454,19 @@
    "url_hash": "d1e162c11672860b69fbf901"
   },
   "guid:6b09bd3331292b0008f062a4": {
-   "attempts": [],
+   "attempts": [
+    {
+     "at": "2026-11-28T04:32:06+00:00",
+     "error": null,
+     "fb_post_id": "107393769293726_1554668613350696",
+     "format": "link",
+     "result": "published"
+    }
+   ],
    "category": "Amazonas",
    "description": "Artistas amazonenses se reúnem, a partir das 17h, em programação gratuita do Festival do Beiradão",
    "discovered_at": "2026-11-27T17:30:18+00:00",
-   "fb_post_id": null,
+   "fb_post_id": "107393769293726_1554668613350696",
    "formats": [
     "link"
    ],
@@ -36426,11 +36474,13 @@
    "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/f56db982-6843-467a-a8dd-64247b032ea1.jpeg",
    "key": "guid:6b09bd3331292b0008f062a4",
    "note": "",
-   "posts": {},
+   "posts": {
+    "link": "107393769293726_1554668613350696"
+   },
    "source_published_at": "2026-11-27T16:30:00+00:00",
-   "status": "pending",
+   "status": "published",
    "title": "Largo de São Sebastião recebe encerramento do Festival do Beiradão nesta sexta-feira",
-   "updated_at": "2026-11-27T17:30:18+00:00",
+   "updated_at": "2026-11-28T04:32:06+00:00",
    "url": "https://marioadolfo.com/largo-de-sao-sebastiao-recebe-encerramento-do-festival-do-beiradao-nesta-sexta-feira/",
    "url_hash": "8274ca07dfb6b0998ae12916"
   },
@@ -36669,9 +36719,9 @@
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-28T04:20:16+00:00",
+  "last_run_at": "2026-11-28T04:30:17+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-28T04:22:03+00:00"
+  "saved_at": "2026-11-28T04:32:06+00:00"
  },
  "schema": 1
 }
