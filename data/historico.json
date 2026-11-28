@@ -36735,14 +36735,35 @@
    "updated_at": "2026-11-28T10:00:22+00:00",
    "url": "https://marioadolfo.com/stf-dino-suspende-emendas-parlamentares-de-flavio-bolsonaro/",
    "url_hash": "2912252daf02a61bf3a8d042"
+  },
+  "guid:6b0a4afd31292b0008f0642d": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Com percurso de cerca de 6,5 mil quilômetros entre estradas e rios, a edição 2026 passa por 15 municípios de quatro estados",
+   "discovered_at": "2026-11-28T10:40:16+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b0a4afd31292b0008f0642d",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/2788b9cb-4ebf-45a7-ad85-f820a587fb29.jpeg",
+   "key": "guid:6b0a4afd31292b0008f0642d",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-28T10:30:24+00:00",
+   "status": "pending",
+   "title": "Caravana de Natal da Coca-Cola amplia rota pelos rios da Amazônia",
+   "updated_at": "2026-11-28T10:40:16+00:00",
+   "url": "https://marioadolfo.com/caravana-de-natal-da-coca-cola-amplia-rota-pelos-rios-da-amazonia/",
+   "url_hash": "f55ba5bd5ff5bc7f4c041a68"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-28T10:30:19+00:00",
+  "last_run_at": "2026-11-28T10:40:15+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-28T10:30:21+00:00"
+  "saved_at": "2026-11-28T10:40:16+00:00"
  },
  "schema": 1
 }
