@@ -36777,14 +36777,35 @@
    "updated_at": "2026-11-28T11:30:26+00:00",
    "url": "https://marioadolfo.com/procon-manaus-reforca-fiscalizacao-em-shoppingdurante-a-black-friday/",
    "url_hash": "fbc130066da10d3948b42529"
+  },
+  "guid:6b0a4e6d31292b0008f064ac": {
+   "attempts": [],
+   "category": "Amazonas",
+   "description": "Feirão reuniu, durante cinco dias, empresas, instituições financeiras, concessionária de serviços, instituições de ensino e órgãos parceiros em um único espaço",
+   "discovered_at": "2026-11-28T11:40:17+00:00",
+   "fb_post_id": null,
+   "formats": [
+    "link"
+   ],
+   "guid": "6b0a4e6d31292b0008f064ac",
+   "image_url": "https://s3.us-east-2.amazonaws.com/marioadolfo.com/image/083098bd-c00b-4907-bfc2-c277056a5a7e.jpg",
+   "key": "guid:6b0a4e6d31292b0008f064ac",
+   "note": "",
+   "posts": {},
+   "source_published_at": "2026-11-28T11:30:35+00:00",
+   "status": "pending",
+   "title": "‘Feirão Negocia Manaus encerra com mais de 1,8 mil atendimentos",
+   "updated_at": "2026-11-28T11:40:17+00:00",
+   "url": "https://marioadolfo.com/feirao-negocia-manaus-encerra-com-mais-de-1-8-mil-atendimentos/",
+   "url_hash": "85d8e0b9ed735d361cedb692"
   }
  },
  "meta": {
   "bootstrapped_at": "2026-10-13T18:29:45+00:00",
   "consecutive_source_failures": 0,
-  "last_run_at": "2026-11-28T11:30:25+00:00",
+  "last_run_at": "2026-11-28T11:40:15+00:00",
   "last_source_error": "Fonte respondeu HTTP 500 em https://marioadolfo.com/latest/rss/.",
-  "saved_at": "2026-11-28T11:30:26+00:00"
+  "saved_at": "2026-11-28T11:40:17+00:00"
  },
  "schema": 1
 }
